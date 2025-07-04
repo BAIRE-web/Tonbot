@@ -1,0 +1,34 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la capitale du Burkina Faso ?",
+      "options": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Banfora"],
+      "reponse": "Ouagadougou",
+      "explication": "Ouagadougou est la capitale politique et administrative du Burkina Faso."
+    },
+    {
+      "question": "Quel est le résultat de 5 + 7 ?",
+      "options": ["11", "12", "13", "10"],
+      "reponse": "12",
+      "explication": "5 + 7 = 12."
+    },
+    {
+      "question": "Quel est l'élément chimique représenté par le symbole 'O' ?",
+      "options": ["Oxygène", "Or", "Osmium", "Ozone"],
+      "reponse": "Oxygène",
+      "explication": "Le symbole 'O' correspond à l'oxygène dans le tableau périodique."
+    },
+    {
+      "question": "Quelle est la langue officielle du Burkina Faso ?",
+      "options": ["Français", "Anglais", "Espagnol", "Arabe"],
+      "reponse": "Français",
+      "explication": "Le français est la langue officielle du Burkina Faso."
+    },
+    {
+      "question": "Quel est l’animal emblématique souvent associé au Burkina Faso ?",
+      "options": ["Éléphant", "Lion", "Girafe", "Chameau"],
+      "reponse": "Éléphant",
+      "explication": "L'éléphant est un symbole important dans la culture burkinabè."
+    }
+  ]
+}

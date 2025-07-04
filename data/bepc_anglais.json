@@ -1,0 +1,10 @@
+{
+  "qcm": [
+    {
+      "question": "What is the English word for 'chat'?",
+      "options": ["Dog", "Cat", "Horse", "Bird"],
+      "reponse": "Cat",
+      "explication": "'Chat' means 'Cat' in English."
+    }
+  ]
+}

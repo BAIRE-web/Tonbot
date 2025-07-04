@@ -1,0 +1,16 @@
+{
+  "qcm": [
+    {
+      "question": "Combien font 12 + 8 ?",
+      "options": ["18", "20", "22", "24"],
+      "reponse": "20",
+      "explication": "12 + 8 = 20."
+    },
+    {
+      "question": "Quel est le carré de 5 ?",
+      "options": ["10", "15", "20", "25"],
+      "reponse": "25",
+      "explication": "5 × 5 = 25."
+    }
+  ]
+}

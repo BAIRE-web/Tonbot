@@ -1,0 +1,64 @@
+{
+  "qcm": [
+    {
+      "question": "Combien font 7 + 5 ?",
+      "options": ["10", "11", "12", "13"],
+      "reponse": "12",
+      "explication": "7 + 5 = 12."
+    },
+    {
+      "question": "Quel est le synonyme de 'rapide' ?",
+      "options": ["lent", "vite", "doux", "froid"],
+      "reponse": "vite",
+      "explication": "'Rapide' et 'vite' ont le même sens."
+    },
+    {
+      "question": "Le pluriel de 'chien' est :",
+      "options": ["chien", "chiens", "chiennes", "chienne"],
+      "reponse": "chiens",
+      "explication": "On ajoute 's' au pluriel : un chien → des chiens."
+    },
+    {
+      "question": "Combien y a-t-il de jours dans une semaine ?",
+      "options": ["5", "6", "7", "8"],
+      "reponse": "7",
+      "explication": "Une semaine a 7 jours."
+    },
+    {
+      "question": "Quelle est la couleur du ciel par temps clair ?",
+      "options": ["rouge", "bleu", "vert", "noir"],
+      "reponse": "bleu",
+      "explication": "Par temps clair, le ciel est généralement bleu."
+    },
+    {
+      "question": "Quel est le contraire de 'grand' ?",
+      "options": ["haut", "mince", "petit", "gros"],
+      "reponse": "petit",
+      "explication": "'Petit' est l’opposé de 'grand'."
+    },
+    {
+      "question": "Combien y a-t-il de pieds dans un mètre ?",
+      "options": ["1", "3", "5", "10"],
+      "reponse": "3",
+      "explication": "Un mètre fait environ 3 pieds (approximation)."
+    },
+    {
+      "question": "L’animal qui miaule est :",
+      "options": ["chien", "chat", "cheval", "oiseau"],
+      "reponse": "chat",
+      "explication": "Le chat miaule."
+    },
+    {
+      "question": "Quel est le mois qui vient après juin ?",
+      "options": ["juillet", "août", "mai", "septembre"],
+      "reponse": "juillet",
+      "explication": "Juin est suivi de juillet."
+    },
+    {
+      "question": "Quelle est la capitale du Burkina Faso ?",
+      "options": ["Bobo-Dioulasso", "Ouagadougou", "Koudougou", "Dori"],
+      "reponse": "Ouagadougou",
+      "explication": "La capitale du Burkina Faso est Ouagadougou."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le rôle principal du Parlement dans un État démocratique ?",
+      "options": [
+        "Appliquer les lois",
+        "Contrôler les citoyens",
+        "Faire les lois",
+        "Juger les criminels"
+      ],
+      "reponse": "Faire les lois"
+    },
+    {
+      "question": "Quelle est la capitale politique du Burkina Faso ?",
+      "options": [
+        "Bobo-Dioulasso",
+        "Koudougou",
+        "Ouagadougou",
+        "Fada N'Gourma"
+      ],
+      "reponse": "Ouagadougou"
+    }
+  ]
+}

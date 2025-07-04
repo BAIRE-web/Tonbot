@@ -1,0 +1,34 @@
+{
+  "qcm": [
+    {
+      "question": "Qui a écrit *Le Père Goriot* ?",
+      "options": ["Honoré de Balzac", "Molière", "Albert Camus", "Jean-Paul Sartre"],
+      "reponse": "Honoré de Balzac",
+      "explication": "*Le Père Goriot* est un roman de Balzac, figure majeure du réalisme."
+    },
+    {
+      "question": "Si f(x) = 2x + 3, que vaut f(4) ?",
+      "options": ["8", "11", "7", "10"],
+      "reponse": "11",
+      "explication": "f(4) = 2×4 + 3 = 8 + 3 = 11."
+    },
+    {
+      "question": "Quel philosophe a dit « Je pense, donc je suis » ?",
+      "options": ["Socrate", "Descartes", "Nietzsche", "Platon"],
+      "reponse": "Descartes",
+      "explication": "Cette célèbre citation est de René Descartes."
+    },
+    {
+      "question": "Quelle est la formule chimique de l'eau ?",
+      "options": ["CO2", "H2O", "O2", "CH4"],
+      "reponse": "H2O",
+      "explication": "L’eau est composée de deux atomes d’hydrogène et un d’oxygène : H₂O."
+    },
+    {
+      "question": "En quelle année Thomas Sankara est-il arrivé au pouvoir au Burkina Faso ?",
+      "options": ["1981", "1983", "1987", "1990"],
+      "reponse": "1983",
+      "explication": "Thomas Sankara a pris le pouvoir lors du coup d'État du 4 août 1983."
+    }
+  ]
+}

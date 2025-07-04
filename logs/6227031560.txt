@@ -1,0 +1,2373 @@
+[2025-07-02 15:08:08] Commande /start
+[2025-07-02 15:08:08] Commande /start
+[2025-07-02 15:08:23] Utilisateur: Concours
+[2025-07-02 15:08:30] Utilisateur: BEPC
+[2025-07-02 15:08:53] Utilisateur: ⬅️ Retour
+[2025-07-02 15:08:53] Commande /start
+[2025-07-02 15:09:01] Utilisateur: Concours
+[2025-07-02 15:09:02] Utilisateur: BAC
+[2025-07-02 15:09:08] Utilisateur: Honoré de Balzac
+[2025-07-02 15:09:21] Utilisateur: Ggkbcg
+[2025-07-02 15:09:26] Utilisateur: 10
+[2025-07-02 15:09:28] Utilisateur: ⬅️ Retour
+[2025-07-02 15:09:28] Commande /start
+[2025-07-02 15:09:30] Utilisateur: Bvkk
+[2025-07-02 15:20:45] Commande /start
+[2025-07-02 15:20:45] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 15:20:48] Utilisateur: Informations
+[2025-07-02 15:20:48] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 15:20:51] Utilisateur: ⬅️ Retour
+[2025-07-02 15:20:51] Commande /start
+[2025-07-02 15:20:51] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 15:20:55] Utilisateur: BEPC
+[2025-07-02 15:20:55] Bot: Choisis une matière BEPC :
+[2025-07-02 15:20:58] Utilisateur: Mathématiques
+[2025-07-02 15:20:58] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 15:20:59] Utilisateur: 20
+[2025-07-02 15:20:59] Bot: ✅ Bonne réponse !
+[2025-07-02 15:21:00] Bot: ❓ Quel est le carré de 5 ?
+[2025-07-02 15:21:01] Utilisateur: ⬅️ Retour
+[2025-07-02 15:21:01] Commande /start
+[2025-07-02 15:21:01] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 15:29:22] Commande /start
+[2025-07-02 15:29:22] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 15:29:24] Utilisateur: Informations
+[2025-07-02 15:29:24] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 15:29:25] Utilisateur: ⬅️ Retour
+[2025-07-02 15:29:25] Commande /start
+[2025-07-02 15:29:25] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 15:29:27] Utilisateur: BEPC
+[2025-07-02 15:29:27] Bot: Choisis une matière BEPC :
+[2025-07-02 15:29:28] Utilisateur: Mathématiques
+[2025-07-02 15:29:28] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 15:29:30] Utilisateur: 20
+[2025-07-02 15:29:30] Bot: ✅ Bonne réponse !
+[2025-07-02 15:29:30] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 15:29:31] Utilisateur: ⬅️ Retour
+[2025-07-02 15:29:31] Commande /start
+[2025-07-02 15:29:31] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 15:29:33] Utilisateur: Concours
+[2025-07-02 15:29:33] Bot: 📚 Bienvenue dans la section Concours.
+Choisis un niveau :
+[2025-07-02 15:29:35] Utilisateur: BEPC
+[2025-07-02 15:29:35] Bot: Choisis une matière :
+[2025-07-02 15:29:39] Utilisateur: ⬅️ Retour
+[2025-07-02 15:29:39] Commande /start
+[2025-07-02 15:29:39] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 15:29:45] Utilisateur: Bac D
+[2025-07-02 15:29:45] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 15:29:47] Utilisateur: Mathématiques
+[2025-07-02 15:29:47] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 15:29:51] Utilisateur: ⬅️ Retour
+[2025-07-02 15:29:51] Commande /start
+[2025-07-02 15:29:51] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 15:29:54] Utilisateur: BEPC
+[2025-07-02 15:29:54] Bot: Choisis une matière BEPC :
+[2025-07-02 15:30:01] Utilisateur: ⬅️ Retour
+[2025-07-02 15:30:01] Commande /start
+[2025-07-02 15:30:01] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 15:30:04] Utilisateur: Concours
+[2025-07-02 15:30:04] Bot: 📚 Bienvenue dans la section Concours.
+Choisis un niveau :
+[2025-07-02 15:30:05] Utilisateur: BAC
+[2025-07-02 15:30:05] Bot: Choisis une matière :
+[2025-07-02 15:30:08] Utilisateur: ⬅️ Retour
+[2025-07-02 15:30:08] Commande /start
+[2025-07-02 15:30:08] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:10:58] Utilisateur: Concours
+[2025-07-02 17:10:58] Bot: 📚 Bienvenue dans la section Concours.
+Choisis un niveau :
+[2025-07-02 17:10:59] Utilisateur: CEP
+[2025-07-02 17:10:59] Bot: Choisis une matière :
+[2025-07-02 17:11:07] Utilisateur: ⬅️ Retour
+[2025-07-02 17:11:07] Commande /start
+[2025-07-02 17:11:07] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:11:11] Utilisateur: Bac D
+[2025-07-02 17:11:11] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 17:11:12] Utilisateur: Mathématiques
+[2025-07-02 17:11:12] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 17:11:14] Utilisateur: ⬅️ Retour
+[2025-07-02 17:11:14] Commande /start
+[2025-07-02 17:11:14] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:11:16] Utilisateur: BEPC
+[2025-07-02 17:11:16] Bot: Choisis une matière BEPC :
+[2025-07-02 17:11:18] Utilisateur: Mathématiques
+[2025-07-02 17:11:18] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 17:15:27] Utilisateur: ⬅️ Retour
+[2025-07-02 17:15:27] Commande /start
+[2025-07-02 17:15:27] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:15:32] Utilisateur: BEPC
+[2025-07-02 17:15:32] Bot: Choisis une matière BEPC :
+[2025-07-02 17:15:33] Utilisateur: Mathématiques
+[2025-07-02 17:15:33] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 17:15:34] Utilisateur: 20
+[2025-07-02 17:15:34] Bot: ✅ Bonne réponse !
+[2025-07-02 17:15:34] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 17:15:36] Utilisateur: ⬅️ Retour
+[2025-07-02 17:15:36] Commande /start
+[2025-07-02 17:15:36] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:15:39] Utilisateur: Bac A
+[2025-07-02 17:15:39] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-02 17:15:42] Utilisateur: Espagnol
+[2025-07-02 17:15:42] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 17:15:43] Utilisateur: ⬅️ Retour
+[2025-07-02 17:15:43] Commande /start
+[2025-07-02 17:15:43] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:15:45] Utilisateur: Technique
+[2025-07-02 17:15:45] Bot: ⚙️ Option Technique bientôt disponible...
+[2025-07-02 17:15:47] Utilisateur: ⬅️ Retour
+[2025-07-02 17:15:47] Commande /start
+[2025-07-02 17:15:47] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:15:49] Utilisateur: Concours
+[2025-07-02 17:15:49] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 17:15:51] Utilisateur: CEP
+[2025-07-02 17:15:51] Bot: ❓ Combien font 7 + 5 ?
+[2025-07-02 17:15:53] Utilisateur: 10
+[2025-07-02 17:15:53] Bot: ❌ Mauvaise réponse. Bonne réponse : 12
+[2025-07-02 17:15:53] Bot: ❓ Quelle est la capitale du Burkina Faso ?
+[2025-07-02 17:15:54] Utilisateur: ⬅️ Retour
+[2025-07-02 17:15:54] Commande /start
+[2025-07-02 17:15:54] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:15:56] Utilisateur: Concours
+[2025-07-02 17:15:56] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 17:15:59] Utilisateur: BEPC
+[2025-07-02 17:15:59] Bot: Choisis une matière BEPC :
+[2025-07-02 17:16:08] Utilisateur: ⬅️ Retour
+[2025-07-02 17:16:08] Commande /start
+[2025-07-02 17:16:08] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:16:12] Utilisateur: Concours
+[2025-07-02 17:16:12] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 17:16:13] Utilisateur: BEPC
+[2025-07-02 17:16:13] Bot: Choisis une matière BEPC :
+[2025-07-02 17:16:14] Utilisateur: Mathématiques
+[2025-07-02 17:16:14] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 17:16:16] Utilisateur: 24
+[2025-07-02 17:16:16] Bot: ❌ Mauvaise réponse. Bonne réponse : 20
+[2025-07-02 17:16:16] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 17:16:18] Utilisateur: ⬅️ Retour
+[2025-07-02 17:16:18] Commande /start
+[2025-07-02 17:16:18] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:16:20] Utilisateur: Concours
+[2025-07-02 17:16:20] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 17:16:22] Utilisateur: Supérieur à BAC
+[2025-07-02 17:16:22] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 17:16:28] Utilisateur: ⬅️ Retour
+[2025-07-02 17:16:28] Commande /start
+[2025-07-02 17:16:28] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:16:33] Utilisateur: Informations
+[2025-07-02 17:16:33] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 17:53:20] Commande /start
+[2025-07-02 17:53:20] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:53:24] Utilisateur: Informations
+[2025-07-02 17:53:24] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 17:53:32] Utilisateur: ⬅️ Retour
+[2025-07-02 17:53:32] Commande /start
+[2025-07-02 17:53:32] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:53:35] Utilisateur: Espace
+[2025-07-02 17:53:35] Bot: 👤 Bienvenue dans ton espace personnel !
+Des fonctionnalités viendront bientôt.
+[2025-07-02 17:53:40] Utilisateur: ⬅️ Retour
+[2025-07-02 17:53:40] Commande /start
+[2025-07-02 17:53:40] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:53:42] Utilisateur: BEPC
+[2025-07-02 17:53:42] Bot: Choisis une matière BEPC :
+[2025-07-02 17:53:44] Utilisateur: Mathématiques
+[2025-07-02 17:53:44] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 17:53:45] Utilisateur: 18
+[2025-07-02 17:53:45] Bot: ❌ Mauvaise réponse. Bonne réponse : 20
+[2025-07-02 17:53:45] Bot: ❓ Quel est le carré de 5 ?
+[2025-07-02 17:53:49] Utilisateur: ⬅️ Retour
+[2025-07-02 17:53:49] Commande /start
+[2025-07-02 17:53:49] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:54:09] Utilisateur: Concours
+[2025-07-02 17:54:09] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 17:54:10] Utilisateur: CEP
+[2025-07-02 17:54:10] Bot: ❓ Combien font 7 + 5 ?
+[2025-07-02 17:54:16] Utilisateur: 10
+[2025-07-02 17:54:16] Bot: ❌ Mauvaise réponse. Bonne réponse : 12
+[2025-07-02 17:54:17] Bot: ❓ Quel est le mois qui vient après juin ?
+[2025-07-02 17:54:18] Utilisateur: ⬅️ Retour
+[2025-07-02 17:54:18] Commande /start
+[2025-07-02 17:54:18] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:54:28] Utilisateur: Concours
+[2025-07-02 17:54:28] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 17:54:31] Utilisateur: Supérieur à BAC
+[2025-07-02 17:54:31] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 17:54:33] Utilisateur: ⬅️ Retour
+[2025-07-02 17:54:33] Commande /start
+[2025-07-02 17:54:33] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:55:28] Utilisateur: Concours
+[2025-07-02 17:55:28] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 17:56:43] Utilisateur: ⬅️ Retour
+[2025-07-02 17:56:43] Commande /start
+[2025-07-02 17:56:43] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 17:56:54] Utilisateur: CEP
+[2025-07-02 17:56:54] Bot: ❌ Option non reconnue. Tape /start pour recommencer.
+[2025-07-02 17:57:01] Utilisateur: BEPC
+[2025-07-02 17:57:01] Bot: Choisis une matière BEPC :
+[2025-07-02 18:02:42] Utilisateur: ⬅️ Retour
+[2025-07-02 18:02:42] Commande /start
+[2025-07-02 18:02:42] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:02:46] Utilisateur: Concours
+[2025-07-02 18:02:46] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:02:49] Utilisateur: BEPC.G
+[2025-07-02 18:02:49] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 18:04:03] Utilisateur: ⬅️ Retour
+[2025-07-02 18:04:03] Commande /start
+[2025-07-02 18:04:03] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:04:16] Utilisateur: Concours
+[2025-07-02 18:04:16] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:05:12] Utilisateur: BEPC.G
+[2025-07-02 18:05:12] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 18:05:14] Utilisateur: BEPC.G
+[2025-07-02 18:05:14] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 18:09:28] Utilisateur: ⬅️ Retour
+[2025-07-02 18:09:28] Commande /start
+[2025-07-02 18:09:28] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:09:31] Utilisateur: Concours
+[2025-07-02 18:09:31] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:09:33] Utilisateur: BEPC.G
+[2025-07-02 18:09:33] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 18:09:38] Utilisateur: ⬅️ Retour
+[2025-07-02 18:09:38] Commande /start
+[2025-07-02 18:09:38] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:09:41] Utilisateur: Informations
+[2025-07-02 18:09:41] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 18:09:42] Utilisateur: ⬅️ Retour
+[2025-07-02 18:09:42] Commande /start
+[2025-07-02 18:09:42] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:09:43] Utilisateur: BEPC
+[2025-07-02 18:09:43] Bot: Choisis une matière BEPC :
+[2025-07-02 18:09:44] Utilisateur: Mathématiques
+[2025-07-02 18:09:44] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 18:09:45] Utilisateur: 24
+[2025-07-02 18:09:45] Bot: ❌ Mauvaise réponse. Bonne réponse : 20
+[2025-07-02 18:09:45] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 18:09:46] Utilisateur: ⬅️ Retour
+[2025-07-02 18:09:46] Commande /start
+[2025-07-02 18:09:46] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:09:49] Utilisateur: Concours
+[2025-07-02 18:09:49] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:09:50] Utilisateur: CEP
+[2025-07-02 18:09:50] Bot: ❓ Combien font 7 + 5 ?
+[2025-07-02 18:09:52] Utilisateur: ⬅️ Retour
+[2025-07-02 18:09:52] Commande /start
+[2025-07-02 18:09:52] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:09:53] Utilisateur: Concours
+[2025-07-02 18:09:53] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:09:54] Utilisateur: BAC
+[2025-07-02 18:09:54] Bot: ❓ Qui a écrit *Le Père Goriot* ?
+[2025-07-02 18:09:56] Utilisateur: Molière
+[2025-07-02 18:09:56] Bot: ❌ Mauvaise réponse. Bonne réponse : Honoré de Balzac
+[2025-07-02 18:09:56] Bot: ❓ Quel philosophe a dit « Je pense, donc je suis » ?
+[2025-07-02 18:09:57] Utilisateur: ⬅️ Retour
+[2025-07-02 18:09:57] Commande /start
+[2025-07-02 18:09:57] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:09:59] Utilisateur: Concours
+[2025-07-02 18:09:59] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:10:03] Utilisateur: BEPC.G
+[2025-07-02 18:10:03] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 18:12:16] Utilisateur: ⬅️ Retour
+[2025-07-02 18:12:16] Commande /start
+[2025-07-02 18:12:16] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:12:18] Utilisateur: Concours
+[2025-07-02 18:12:18] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:12:19] Utilisateur: BEPC.G
+[2025-07-02 18:12:19] Bot: ❓ Quel est le rôle principal du Parlement dans un État démocratique ?
+[2025-07-02 18:12:22] Utilisateur: Appliquer les lois
+[2025-07-02 18:12:22] Bot: ❌ Mauvaise réponse. Bonne réponse : Faire les lois
+[2025-07-02 18:12:22] Bot: ❓ Quelle est la capitale politique du Burkina Faso ?
+[2025-07-02 18:12:24] Utilisateur: ⬅️ Retour
+[2025-07-02 18:12:24] Commande /start
+[2025-07-02 18:12:24] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:12:30] Utilisateur: Concours
+[2025-07-02 18:12:30] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:12:33] Utilisateur: Supérieur à BAC
+[2025-07-02 18:12:33] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 18:12:35] Utilisateur: ⬅️ Retour
+[2025-07-02 18:12:35] Commande /start
+[2025-07-02 18:12:35] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:12:37] Utilisateur: Concours
+[2025-07-02 18:12:37] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:12:41] Utilisateur: ⬅️ Retour
+[2025-07-02 18:12:41] Commande /start
+[2025-07-02 18:12:41] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:12:43] Utilisateur: BEPC
+[2025-07-02 18:12:43] Bot: Choisis une matière BEPC :
+[2025-07-02 18:12:44] Utilisateur: Français
+[2025-07-02 18:12:44] Bot: ❓ Quel est le résultat de 25 ÷ 5 ?
+[2025-07-02 18:12:46] Utilisateur: 5
+[2025-07-02 18:12:46] Bot: ✅ Bonne réponse !
+[2025-07-02 18:12:46] Bot: ❓ Quel est le résultat de 25 ÷ 5 ?
+[2025-07-02 18:12:47] Utilisateur: ⬅️ Retour
+[2025-07-02 18:12:47] Commande /start
+[2025-07-02 18:12:47] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:12:49] Utilisateur: Bac D
+[2025-07-02 18:12:49] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 18:12:53] Utilisateur: Mathématiques
+[2025-07-02 18:12:53] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 18:12:54] Utilisateur: ⬅️ Retour
+[2025-07-02 18:12:54] Commande /start
+[2025-07-02 18:12:54] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:16:22] Utilisateur: Technique
+[2025-07-02 18:16:22] Bot: ⚙️ Option Technique bientôt disponible...
+[2025-07-02 18:16:24] Utilisateur: ⬅️ Retour
+[2025-07-02 18:16:24] Commande /start
+[2025-07-02 18:16:24] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:16:26] Utilisateur: Informations
+[2025-07-02 18:16:26] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 18:16:27] Utilisateur: ⬅️ Retour
+[2025-07-02 18:16:27] Commande /start
+[2025-07-02 18:16:27] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:16:29] Utilisateur: Espace
+[2025-07-02 18:16:29] Bot: 👤 Bienvenue dans ton espace personnel !
+Des fonctionnalités viendront bientôt.
+[2025-07-02 18:16:30] Utilisateur: ⬅️ Retour
+[2025-07-02 18:16:30] Commande /start
+[2025-07-02 18:16:30] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:16:31] Utilisateur: BEPC
+[2025-07-02 18:16:31] Bot: Choisis une matière BEPC :
+[2025-07-02 18:16:32] Utilisateur: Mathématiques
+[2025-07-02 18:16:32] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 18:16:33] Utilisateur: 20
+[2025-07-02 18:16:33] Bot: ✅ Bonne réponse !
+[2025-07-02 18:16:33] Bot: ❓ Quel est le carré de 5 ?
+[2025-07-02 18:16:35] Utilisateur: ⬅️ Retour
+[2025-07-02 18:16:35] Commande /start
+[2025-07-02 18:16:35] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:16:38] Utilisateur: Bac A
+[2025-07-02 18:16:38] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-02 18:16:39] Utilisateur: ⬅️ Retour
+[2025-07-02 18:16:39] Commande /start
+[2025-07-02 18:16:39] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:16:41] Utilisateur: Concours
+[2025-07-02 18:16:41] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:16:42] Utilisateur: CEP
+[2025-07-02 18:16:42] Bot: ❓ Combien font 7 + 5 ?
+[2025-07-02 18:16:44] Utilisateur: 13
+[2025-07-02 18:16:44] Bot: ❌ Mauvaise réponse. Bonne réponse : 12
+[2025-07-02 18:16:44] Bot: ❓ Quelle est la couleur du ciel par temps clair ?
+[2025-07-02 18:16:46] Utilisateur: ⬅️ Retour
+[2025-07-02 18:16:46] Commande /start
+[2025-07-02 18:16:46] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:16:48] Utilisateur: Concours
+[2025-07-02 18:16:48] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:16:49] Utilisateur: BEPC.G
+[2025-07-02 18:16:49] Bot: ❓ Quel est le rôle principal du Parlement dans un État démocratique ?
+[2025-07-02 18:16:52] Utilisateur: Appliquer les lois
+[2025-07-02 18:16:52] Bot: ❌ Mauvaise réponse. Bonne réponse : Faire les lois
+[2025-07-02 18:16:52] Bot: ❓ Quelle est la capitale politique du Burkina Faso ?
+[2025-07-02 18:16:54] Utilisateur: ⬅️ Retour
+[2025-07-02 18:16:54] Commande /start
+[2025-07-02 18:16:54] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:16:58] Utilisateur: Concours
+[2025-07-02 18:16:58] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:17:20] Utilisateur: BAC
+[2025-07-02 18:17:20] Bot: ❓ Qui a écrit *Le Père Goriot* ?
+[2025-07-02 18:17:20] Utilisateur: BAC
+[2025-07-02 18:17:20] Bot: ⚠️ Choix invalide.
+[2025-07-02 18:17:25] Utilisateur: Honoré de Balzac
+[2025-07-02 18:17:25] Bot: ✅ Bonne réponse !
+[2025-07-02 18:17:25] Bot: ❓ Si f(x) = 2x + 3, que vaut f(4) ?
+[2025-07-02 18:17:32] Utilisateur: ⬅️ Retour
+[2025-07-02 18:17:32] Commande /start
+[2025-07-02 18:17:32] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:17:36] Utilisateur: Concours
+[2025-07-02 18:17:36] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:17:37] Utilisateur: Supérieur à BAC
+[2025-07-02 18:17:37] Bot: 🔧 Cette option est en préparation. Merci de revenir plus tard.
+[2025-07-02 18:17:40] Utilisateur: ⬅️ Retour
+[2025-07-02 18:17:40] Commande /start
+[2025-07-02 18:17:40] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:17:42] Utilisateur: Technique
+[2025-07-02 18:17:43] Bot: ⚙️ Option Technique bientôt disponible...
+[2025-07-02 18:17:49] Utilisateur: ⬅️ Retour
+[2025-07-02 18:17:49] Commande /start
+[2025-07-02 18:17:49] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:26:52] Utilisateur: BEPC
+[2025-07-02 18:26:52] Bot: Choisis une matière BEPC :
+[2025-07-02 18:26:52] Utilisateur: Technique
+[2025-07-02 18:26:52] Bot: ⚙️ Option Technique bientôt disponible...
+[2025-07-02 18:26:56] Utilisateur: ⬅️ Retour
+[2025-07-02 18:26:56] Commande /start
+[2025-07-02 18:26:56] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:26:59] Utilisateur: BEPC
+[2025-07-02 18:26:59] Bot: Choisis une matière BEPC :
+[2025-07-02 18:27:00] Utilisateur: Mathématiques
+[2025-07-02 18:27:00] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 18:27:01] Utilisateur: 18
+[2025-07-02 18:27:01] Bot: ❌ Mauvaise réponse. Bonne réponse : 20
+[2025-07-02 18:27:02] Bot: 💡 Explication : 12 + 8 = 20.
+[2025-07-02 18:27:02] Bot: ❓ Quel est le carré de 5 ?
+[2025-07-02 18:27:08] Utilisateur: 25
+[2025-07-02 18:27:08] Bot: ✅ Bonne réponse !
+[2025-07-02 18:27:09] Bot: 💡 Explication : 5 × 5 = 25.
+[2025-07-02 18:27:09] Bot: ❓ Quel est le carré de 5 ?
+[2025-07-02 18:27:13] Utilisateur: ⬅️ Retour
+[2025-07-02 18:27:13] Commande /start
+[2025-07-02 18:27:13] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 18:27:17] Utilisateur: Concours
+[2025-07-02 18:27:17] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 18:27:19] Utilisateur: BEPC.G
+[2025-07-02 18:27:19] Bot: ❓ Quel est le rôle principal du Parlement dans un État démocratique ?
+[2025-07-02 18:27:22] Utilisateur: Appliquer les lois
+[2025-07-02 18:27:22] Bot: ❌ Mauvaise réponse. Bonne réponse : Faire les lois
+[2025-07-02 18:27:22] Bot: ❓ Quel est le rôle principal du Parlement dans un État démocratique ?
+[2025-07-02 19:39:13] Utilisateur: ⬅️ Retour
+[2025-07-02 19:39:13] Commande /start
+[2025-07-02 19:39:13] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 19:39:16] Utilisateur: Bac A
+[2025-07-02 19:39:16] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-02 19:39:18] Utilisateur: Français
+[2025-07-02 19:39:18] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 19:39:24] Utilisateur: ⬅️ Retour
+[2025-07-02 19:39:24] Commande /start
+[2025-07-02 19:39:24] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 19:39:27] Utilisateur: Bac C
+[2025-07-02 19:39:27] Bot: 📚 Bienvenue dans les matières du Bac C. Choisis ta matière pour commencer la révision :
+[2025-07-02 19:39:29] Utilisateur: Mathématiques
+[2025-07-02 19:39:29] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 19:39:31] Utilisateur: ⬅️ Retour
+[2025-07-02 19:39:31] Commande /start
+[2025-07-02 19:39:31] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 19:39:34] Utilisateur: BEPC
+[2025-07-02 19:39:34] Bot: Choisis une matière BEPC :
+[2025-07-02 19:39:35] Utilisateur: Mathématiques
+[2025-07-02 19:39:35] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 19:39:39] Utilisateur: 22
+[2025-07-02 19:39:39] Bot: ❌ Mauvaise réponse. Bonne réponse : 20
+[2025-07-02 19:39:39] Bot: 💡 Explication : 12 + 8 = 20.
+[2025-07-02 19:39:39] Bot: ❓ Quel est le carré de 5 ?
+[2025-07-02 19:39:44] Utilisateur: ⬅️ Retour
+[2025-07-02 19:39:44] Commande /start
+[2025-07-02 19:39:44] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 19:39:49] Utilisateur: Concours
+[2025-07-02 19:39:49] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 19:39:51] Utilisateur: BEPC.G
+[2025-07-02 19:39:51] Bot: ❓ Quel est le rôle principal du Parlement dans un État démocratique ?
+[2025-07-02 19:39:53] Utilisateur: Contrôler les citoyens
+[2025-07-02 19:39:53] Bot: ❌ Mauvaise réponse. Bonne réponse : Faire les lois
+[2025-07-02 19:39:53] Bot: ❓ Quelle est la capitale politique du Burkina Faso ?
+[2025-07-02 19:39:54] Utilisateur: ⬅️ Retour
+[2025-07-02 19:39:54] Commande /start
+[2025-07-02 19:39:54] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 19:39:57] Utilisateur: Bac D
+[2025-07-02 19:39:57] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 19:39:59] Utilisateur: Physique
+[2025-07-02 19:39:59] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 19:50:21] Utilisateur: ⬅️ Retour
+[2025-07-02 19:50:21] Commande /start
+[2025-07-02 19:50:21] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 19:50:23] Utilisateur: Bac A
+[2025-07-02 19:50:51] Utilisateur: Informations
+[2025-07-02 19:50:51] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 19:50:52] Utilisateur: ⬅️ Retour
+[2025-07-02 19:50:52] Commande /start
+[2025-07-02 19:50:52] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 19:50:56] Utilisateur: Bac A
+[2025-07-02 19:51:17] Utilisateur: Bac D
+[2025-07-02 19:51:17] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 19:51:19] Utilisateur: Histoire
+[2025-07-02 19:51:19] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 19:56:33] Utilisateur: ⬅️ Retour
+[2025-07-02 19:56:33] Commande /start
+[2025-07-02 19:56:33] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 19:56:35] Utilisateur: Bac D
+[2025-07-02 19:56:35] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 19:56:37] Utilisateur: Histoire
+[2025-07-02 19:56:37] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 20:01:46] Utilisateur: ⬅️ Retour
+[2025-07-02 20:01:46] Commande /start
+[2025-07-02 20:01:46] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:01:50] Utilisateur: Bac D
+[2025-07-02 20:01:50] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 20:01:52] Utilisateur: Mathématiques
+[2025-07-02 20:01:52] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 20:04:30] Utilisateur: ⬅️ Retour
+[2025-07-02 20:04:30] Commande /start
+[2025-07-02 20:04:30] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:04:32] Utilisateur: Bac C
+[2025-07-02 20:04:32] Bot: 📚 Bienvenue dans les matières du Bac C. Choisis ta matière pour commencer la révision :
+[2025-07-02 20:04:34] Utilisateur: Mathématiques
+[2025-07-02 20:04:34] Bot: ❓ Quelle est la capitale du Burkina Faso ?
+[2025-07-02 20:04:39] Utilisateur: ⬅️ Retour
+[2025-07-02 20:04:39] Commande /start
+[2025-07-02 20:04:39] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:04:43] Utilisateur: Bac D
+[2025-07-02 20:04:43] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 20:04:45] Utilisateur: Français
+[2025-07-02 20:04:45] Bot: ❓ Quelle est la capitale du Burkina Faso ?
+[2025-07-02 20:04:48] Utilisateur: Ouagadougou
+[2025-07-02 20:04:48] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 20:04:58] Utilisateur: ⬅️ Retour
+[2025-07-02 20:04:58] Commande /start
+[2025-07-02 20:04:58] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:05:00] Utilisateur: BEPC
+[2025-07-02 20:05:00] Bot: Choisis une matière BEPC :
+[2025-07-02 20:05:02] Utilisateur: Mathématiques
+[2025-07-02 20:05:02] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 20:05:03] Utilisateur: 20
+[2025-07-02 20:05:03] Bot: ✅ Bonne réponse !
+[2025-07-02 20:05:03] Bot: ℹ️ Explication : 12 + 8 = 20.
+[2025-07-02 20:05:03] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 20:05:09] Utilisateur: ⬅️ Retour
+[2025-07-02 20:05:09] Commande /start
+[2025-07-02 20:05:09] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:05:11] Utilisateur: Bac D
+[2025-07-02 20:05:11] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 20:05:12] Utilisateur: Histoire
+[2025-07-02 20:05:12] Bot: ❓ Quelle est la capitale du Burkina Faso ?
+[2025-07-02 20:05:14] Utilisateur: Ouagadougou
+[2025-07-02 20:05:14] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 20:07:48] Utilisateur: ⬅️ Retour
+[2025-07-02 20:07:48] Commande /start
+[2025-07-02 20:07:48] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:07:50] Utilisateur: Espace
+[2025-07-02 20:07:50] Bot: 👤 Bienvenue dans ton espace personnel !
+Des fonctionnalités viendront bientôt.
+[2025-07-02 20:07:51] Utilisateur: ⬅️ Retour
+[2025-07-02 20:07:51] Commande /start
+[2025-07-02 20:07:51] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:07:53] Utilisateur: BEPC.G
+[2025-07-02 20:07:53] Bot: Choisis une matière :
+[2025-07-02 20:07:55] Utilisateur: ⬅️ Retour
+[2025-07-02 20:07:55] Commande /start
+[2025-07-02 20:07:55] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:08:06] Utilisateur: Concours
+[2025-07-02 20:08:06] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 20:08:10] Utilisateur: BEPC.G
+[2025-07-02 20:08:10] Bot: Choisis une matière :
+[2025-07-02 20:08:13] Utilisateur: ⬅️ Retour
+[2025-07-02 20:08:13] Commande /start
+[2025-07-02 20:08:13] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:08:15] Utilisateur: BEPC.G
+[2025-07-02 20:08:15] Bot: Choisis une matière :
+[2025-07-02 20:08:38] Utilisateur: ⬅️ Retour
+[2025-07-02 20:08:38] Commande /start
+[2025-07-02 20:08:38] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:08:41] Utilisateur: Bac D
+[2025-07-02 20:08:41] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 20:08:42] Utilisateur: Mathématiques
+[2025-07-02 20:08:42] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 20:09:45] Utilisateur: ⬅️ Retour
+[2025-07-02 20:09:45] Commande /start
+[2025-07-02 20:09:45] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:09:48] Utilisateur: Bac D
+[2025-07-02 20:09:48] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 20:09:49] Utilisateur: Mathématiques
+[2025-07-02 20:09:49] Bot: ❓ Quelle est la capitale du Burkina Faso ?
+[2025-07-02 20:09:51] Utilisateur: Ouagadougou
+[2025-07-02 20:09:51] Bot: ❌ Aucun QCM trouvé.
+[2025-07-02 20:09:52] Utilisateur: ⬅️ Retour
+[2025-07-02 20:09:52] Commande /start
+[2025-07-02 20:09:52] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:09:55] Utilisateur: Concours
+[2025-07-02 20:09:55] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-02 20:09:57] Utilisateur: BEPC.G
+[2025-07-02 20:09:57] Bot: ❓ Quel est le rôle principal du Parlement dans un État démocratique ?
+[2025-07-02 20:09:58] Utilisateur: Appliquer les lois
+[2025-07-02 20:09:58] Bot: ❌ Mauvaise réponse. Bonne réponse : Faire les lois
+[2025-07-02 20:09:59] Bot: ❓ Quel est le rôle principal du Parlement dans un État démocratique ?
+[2025-07-02 20:10:03] Utilisateur: ⬅️ Retour
+[2025-07-02 20:10:03] Commande /start
+[2025-07-02 20:10:03] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:18:21] Utilisateur: Bac D
+[2025-07-02 20:18:21] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 20:18:26] Utilisateur: Bac D
+[2025-07-02 20:18:26] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 20:18:36] Utilisateur: Informations
+[2025-07-02 20:18:36] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 20:18:37] Utilisateur: Informations
+[2025-07-02 20:18:37] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 20:18:42] Utilisateur: Bac D
+[2025-07-02 20:18:42] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 20:19:09] Utilisateur: ⬅️ Retour
+[2025-07-02 20:19:09] Commande /start
+[2025-07-02 20:19:09] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:19:14] Utilisateur: Bac D
+[2025-07-02 20:19:14] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-02 20:19:20] Utilisateur: Mathématiques
+[2025-07-02 20:19:20] Bot: ❓ Quelle est la capitale du Burkina Faso ?
+[2025-07-02 20:19:50] Utilisateur: ⬅️ Retour
+[2025-07-02 20:19:50] Commande /start
+[2025-07-02 20:19:50] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:19:52] Utilisateur: Bac C
+[2025-07-02 20:19:52] Bot: 📚 Bienvenue dans les matières du Bac C. Choisis ta matière pour commencer la révision :
+[2025-07-02 20:19:54] Utilisateur: Mathématiques
+[2025-07-02 20:19:54] Bot: ❓ Quelle est la capitale du Burkina Faso ?
+[2025-07-02 20:19:55] Utilisateur: Ouagadougou
+[2025-07-02 20:19:55] Bot: ✅ Bonne réponse !
+[2025-07-02 20:19:55] Bot: ℹ️ Explication : Ouagadougou est la capitale politique et administrative du Burkina Faso.
+[2025-07-02 20:19:56] Bot: ❓ Quel est l'élément chimique représenté par le symbole 'O' ?
+[2025-07-02 20:20:04] Utilisateur: ⬅️ Retour
+[2025-07-02 20:20:05] Commande /start
+[2025-07-02 20:20:05] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:20:09] Utilisateur: BEPC
+[2025-07-02 20:20:09] Bot: Choisis une matière BEPC :
+[2025-07-02 20:20:11] Utilisateur: Mathématiques
+[2025-07-02 20:20:11] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 20:20:13] Utilisateur: 20
+[2025-07-02 20:20:13] Bot: ✅ Bonne réponse !
+[2025-07-02 20:20:14] Bot: ℹ️ Explication : 12 + 8 = 20.
+[2025-07-02 20:20:15] Bot: ❓ Combien font 12 + 8 ?
+[2025-07-02 20:20:17] Utilisateur: ⬅️ Retour
+[2025-07-02 20:20:17] Commande /start
+[2025-07-02 20:20:17] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:20:19] Utilisateur: Bac A
+[2025-07-02 20:25:58] Utilisateur: Informations
+[2025-07-02 20:25:58] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 20:25:58] Utilisateur: Informations
+[2025-07-02 20:25:58] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 20:26:06] Utilisateur: ⬅️ Retour
+[2025-07-02 20:26:06] Commande /start
+[2025-07-02 20:26:06] Bot: 👋 Bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:26:13] Utilisateur: Bac A
+[2025-07-02 20:26:13] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-02 20:26:22] Utilisateur: Philosophie
+[2025-07-02 20:26:22] Bot: ❓ Quelle est la capitale du Burkina Faso ?
+[2025-07-02 20:26:27] Utilisateur: Ouagadougou
+[2025-07-02 20:26:27] Bot: ✅ Bonne réponse !
+[2025-07-02 20:26:28] Bot: ℹ️ Explication : Ouagadougou est la capitale politique et administrative du Burkina Faso.
+[2025-07-02 20:26:28] Bot: ❓ Quel est le résultat de 5 + 7 ?
+[2025-07-02 20:27:26] Utilisateur: 10
+[2025-07-02 20:27:26] Bot: ❌ Mauvaise réponse. Bonne réponse : 12
+[2025-07-02 20:27:26] Bot: ℹ️ Explication : 5 + 7 = 12.
+[2025-07-02 20:27:27] Bot: ❓ Quel est l’animal emblématique souvent associé au Burkina Faso ?
+[2025-07-02 20:27:46] Utilisateur: Lion
+[2025-07-02 20:27:46] Bot: ❌ Mauvaise réponse. Bonne réponse : Éléphant
+[2025-07-02 20:27:47] Bot: ℹ️ Explication : L'éléphant est un symbole important dans la culture burkinabè.
+[2025-07-02 20:27:48] Bot: ❓ Quel est l’animal emblématique souvent associé au Burkina Faso ?
+[2025-07-02 20:38:03] Utilisateur: ⬅️ Retour
+[2025-07-02 20:38:03] Commande /start
+[2025-07-02 20:38:03] Bot: 👋 Bonjour @BarakaAdministrateur !
+Bienvenue sur le bot éducatif.
+
+Choisis une option :
+[2025-07-02 20:38:14] Utilisateur: Technique
+[2025-07-02 20:38:14] Bot: ⚙️ Option Technique bientôt disponible...
+[2025-07-02 20:38:16] Utilisateur: ⬅️ Retour
+[2025-07-02 20:38:16] Commande /start
+[2025-07-02 20:38:16] Bot: 👋 Re-bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:44:33] Utilisateur: Informations
+[2025-07-02 20:44:33] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-02 20:44:35] Utilisateur: ⬅️ Retour
+[2025-07-02 20:44:35] Commande /start
+[2025-07-02 20:44:35] Bot: 👋 Re-bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:44:39] Utilisateur: Quitter le bot
+[2025-07-02 20:44:39] Bot: 🙏 Merci d'avoir révisé avec nous, à la prochaine pour une autre formation. Bonne suite, BarakaAdministrateur !
+[2025-07-02 20:49:57] Commande /start
+[2025-07-02 20:49:57] Bot: 👋 Re-bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:50:02] Utilisateur: Informations
+[2025-07-02 20:50:02] Bot: ❌ Option non reconnue. Tape /start pour recommencer.
+[2025-07-02 20:50:10] Utilisateur: Espace
+[2025-07-02 20:50:10] Bot: ❌ Option non reconnue. Tape /start pour recommencer.
+[2025-07-02 20:50:11] Utilisateur: BEPC
+[2025-07-02 20:50:11] Bot: ❌ Option non reconnue. Tape /start pour recommencer.
+[2025-07-02 20:50:14] Utilisateur: Bac A
+[2025-07-02 20:50:14] Bot: ❌ Option non reconnue. Tape /start pour recommencer.
+[2025-07-02 20:50:15] Utilisateur: Bac C
+[2025-07-02 20:50:15] Bot: ❌ Option non reconnue. Tape /start pour recommencer.
+[2025-07-02 20:50:16] Utilisateur: Bac C
+[2025-07-02 20:50:16] Bot: ❌ Option non reconnue. Tape /start pour recommencer.
+[2025-07-02 20:50:19] Utilisateur: Quitter le bot
+[2025-07-02 20:50:19] Bot: 🙏 Merci d'avoir révisé avec nous, à la prochaine pour une autre formation. Bonne suite, BarakaAdministrateur !
+[2025-07-02 20:50:23] Utilisateur: 🔄 Revenir au menu
+[2025-07-02 20:50:23] Bot: ❌ Option non reconnue. Tape /start pour recommencer.
+[2025-07-02 20:50:29] Utilisateur: 🔄 Revenir au menu
+[2025-07-02 20:50:29] Bot: ❌ Option non reconnue. Tape /start pour recommencer.
+[2025-07-02 20:50:30] Commande /start
+[2025-07-02 20:50:30] Bot: 👋 Re-bienvenue sur le bot éducatif !
+
+Choisis une option :
+[2025-07-02 20:53:11] Utilisateur: Quitter le bot
+[2025-07-02 20:53:11] Bot: 🙏 Merci d'avoir révisé avec nous, à la prochaine pour une autre formation. Bonne suite, BarakaAdministrateur !
+[2025-07-02 20:53:15] Utilisateur: Bac A
+[2025-07-02 20:53:15] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-02 20:53:16] Utilisateur: Français
+[2025-07-02 20:53:16] Bot: ❓ Quelle est la capitale du Burkina Faso ?
+[2025-07-02 20:53:17] Utilisateur: Ouagadougou
+[2025-07-02 20:53:17] Bot: ✅ Bonne réponse !
+[2025-07-02 20:53:18] Bot: ℹ️ Explication : Ouagadougou est la capitale politique et administrative du Burkina Faso.
+[2025-07-02 20:53:18] Bot: ❓ Quel est l'élément chimique représenté par le symbole 'O' ?
+[2025-07-02 20:53:23] Utilisateur: Oxygène
+[2025-07-02 20:53:23] Bot: ✅ Bonne réponse !
+[2025-07-02 20:53:23] Bot: ℹ️ Explication : Le symbole 'O' correspond à l'oxygène dans le tableau périodique.
+[2025-07-02 20:53:23] Bot: ❓ Quel est l'élément chimique représenté par le symbole 'O' ?
+[2025-07-03 08:06:30] Commande /start
+[2025-07-03 08:06:30] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:06:38] Utilisateur: Informations
+[2025-07-03 08:06:38] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-03 08:06:41] Utilisateur: ⬅️ Retour
+[2025-07-03 08:06:41] Commande /start
+[2025-07-03 08:06:41] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:06:50] Utilisateur: BEPC
+[2025-07-03 08:06:50] Bot: Choisis une matière BEPC :
+[2025-07-03 08:06:52] Utilisateur: Mathématiques
+[2025-07-03 08:06:52] Bot:  Combien font 12 + 8 ?
+[2025-07-03 08:06:55] Utilisateur: 18
+[2025-07-03 08:06:55] Bot: Mauvaise réponse. Bonne réponse : 20
+[2025-07-03 08:06:55] Bot: Explication : 12 + 8 = 20.
+[2025-07-03 08:06:56] Bot: Quel est le carré de 5 ?
+[2025-07-03 08:07:02] Utilisateur: ⬅️ Retour
+[2025-07-03 08:07:02] Commande /start
+[2025-07-03 08:07:02] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:07:05] Utilisateur: Concours
+[2025-07-03 08:07:05] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-03 08:07:08] Utilisateur: BEPC.G
+[2025-07-03 08:07:08] Bot:  Quel est le rôle principal du Parlement dans un État démocratique ?
+[2025-07-03 08:07:48] Utilisateur: Appliquer les lois
+[2025-07-03 08:07:48] Bot: Mauvaise réponse. Bonne réponse : Faire les lois
+[2025-07-03 08:07:52] Bot: Quel est le rôle principal du Parlement dans un État démocratique ?
+[2025-07-03 08:07:54] Utilisateur: ⬅️ Retour
+[2025-07-03 08:07:54] Commande /start
+[2025-07-03 08:07:54] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:07:56] Utilisateur: Quitter le bot
+[2025-07-03 08:07:56] Bot: Merci d'avoir révisé avec nous, à la prochaine pour une nouvelle experieure. Bonne suite, BarakaAdministrateur !
+[2025-07-03 08:11:16] Utilisateur: Bac A
+[2025-07-03 08:11:16] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-03 08:11:19] Utilisateur: Espagnol
+[2025-07-03 08:11:19] Bot:  Quelle est la capitale du Burkina Faso ?
+[2025-07-03 08:11:21] Utilisateur: Ouagadougou
+[2025-07-03 08:11:21] Bot: Bonne réponse !
+[2025-07-03 08:11:21] Bot: Explication : Ouagadougou est la capitale politique et administrative du Burkina Faso.
+[2025-07-03 08:11:22] Bot: Quel est le résultat de 5 + 7 ?
+[2025-07-03 08:11:33] Utilisateur: 13
+[2025-07-03 08:11:33] Bot: Mauvaise réponse. Bonne réponse : 12
+[2025-07-03 08:11:34] Bot: Explication : 5 + 7 = 12.
+[2025-07-03 08:11:35] Bot: Quel est le résultat de 5 + 7 ?
+[2025-07-03 08:12:07] Utilisateur: ⬅️ Retour
+[2025-07-03 08:12:08] Commande /start
+[2025-07-03 08:12:08] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:12:30] Utilisateur: Informations
+[2025-07-03 08:12:30] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-03 08:12:36] Utilisateur: ⬅️ Retour
+[2025-07-03 08:12:36] Commande /start
+[2025-07-03 08:12:36] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:12:43] Utilisateur: Quitter le bot
+[2025-07-03 08:12:43] Bot: Merci d'avoir révisé avec nous, à la prochaine pour une nouvelle experieure. Bonne suite, BarakaAdministrateur !
+[2025-07-03 08:12:48] Utilisateur: Démarrer
+[2025-07-03 08:12:48] Commande /start
+[2025-07-03 08:12:48] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:12:50] Utilisateur: Espace
+[2025-07-03 08:12:50] Bot: 👤 Bienvenue dans ton espace personnel !
+Des fonctionnalités viendront bientôt.
+[2025-07-03 08:12:52] Utilisateur: ⬅️ Retour
+[2025-07-03 08:12:52] Commande /start
+[2025-07-03 08:12:52] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:13:13] Utilisateur: Bac C
+[2025-07-03 08:13:13] Bot: 📚 Bienvenue dans les matières du Bac C. Choisis ta matière pour commencer la révision :
+[2025-07-03 08:13:16] Utilisateur: Mathématiques
+[2025-07-03 08:13:16] Bot:  Quelle est la capitale du Burkina Faso ?
+[2025-07-03 08:13:17] Utilisateur: Ouagadougou
+[2025-07-03 08:13:17] Bot: Bonne réponse !
+[2025-07-03 08:13:18] Bot: Explication : Ouagadougou est la capitale politique et administrative du Burkina Faso.
+[2025-07-03 08:13:18] Bot: Quelle est la capitale du Burkina Faso ?
+[2025-07-03 08:13:21] Utilisateur: ⬅️ Retour
+[2025-07-03 08:13:21] Commande /start
+[2025-07-03 08:13:21] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:16:38] Utilisateur: Quitter le bot
+[2025-07-03 08:16:38] Bot: Merci d'avoir révisé avec nous, à la prochaine pour une nouvelle experieure. Bonne suite, BarakaAdministrateur !
+[2025-07-03 08:18:45] Commande /start
+[2025-07-03 08:18:45] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:18:46] Commande /start
+[2025-07-03 08:18:46] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:18:46] Commande /start
+[2025-07-03 08:18:46] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:18:50] Utilisateur: Informations
+[2025-07-03 08:18:50] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-03 08:18:53] Utilisateur: ⬅️ Retour
+[2025-07-03 08:18:53] Commande /start
+[2025-07-03 08:18:53] Bot: Choisis une option pour continuer :
+[2025-07-03 08:18:58] Utilisateur: Quitter le bot
+[2025-07-03 08:18:58] Bot: Merci d'avoir révisé avec nous, à la prochaine pour une nouvelle experieure. Bonne suite, BarakaAdministrateur !
+[2025-07-03 08:19:00] Utilisateur: Démarrer
+[2025-07-03 08:19:00] Commande /start
+[2025-07-03 08:19:00] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:20:04] Utilisateur: Concours
+[2025-07-03 08:20:04] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-03 08:24:50] Utilisateur: Quitter le bot
+[2025-07-03 08:24:50] Bot: Merci d'avoir révisé avec nous, à la prochaine pour une nouvelle experieure. Bonne suite, BarakaAdministrateur !
+[2025-07-03 08:24:52] Utilisateur: Démarrer
+[2025-07-03 08:24:52] Commande /start
+[2025-07-03 08:24:52] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:24:56] Utilisateur: Informations
+[2025-07-03 08:24:56] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-03 08:25:00] Utilisateur: ⬅️ Retour
+[2025-07-03 08:25:00] Commande /start
+[2025-07-03 08:25:00] Bot: Choisis une option pour continuer :
+[2025-07-03 08:25:01] Utilisateur: Espace
+[2025-07-03 08:25:01] Bot: 👤 Bienvenue dans ton espace personnel !
+Des fonctionnalités viendront bientôt.
+[2025-07-03 08:25:02] Utilisateur: ⬅️ Retour
+[2025-07-03 08:25:02] Commande /start
+[2025-07-03 08:25:02] Bot: Choisis une option pour continuer :
+[2025-07-03 08:25:04] Utilisateur: BEPC
+[2025-07-03 08:25:04] Bot: 📚 Tu as choisi la section *BEPC*. Prépare-toi à tester tes connaissances !
+[2025-07-03 08:25:05] Bot: Choisis une matière BEPC :
+[2025-07-03 08:25:12] Utilisateur: Mathématiques
+[2025-07-03 08:25:12] Bot: Combien font 12 + 8 ?
+[2025-07-03 08:25:14] Utilisateur: ⬅️ Retour
+[2025-07-03 08:25:14] Commande /start
+[2025-07-03 08:25:14] Bot: Choisis une option pour continuer :
+[2025-07-03 08:25:17] Utilisateur: Bac A
+[2025-07-03 08:25:17] Bot: 📘 Tu as choisi la section *BAC A*. Choisis une matière pour commencer :
+[2025-07-03 08:25:17] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-03 08:25:23] Utilisateur: Philosophie
+[2025-07-03 08:25:23] Bot: Quelle est la capitale du Burkina Faso ?
+[2025-07-03 08:25:27] Utilisateur: Ouagadougou
+[2025-07-03 08:25:27] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-03 08:25:37] Utilisateur: Ouagadougou
+[2025-07-03 08:25:37] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-03 08:30:03] Commande /start
+[2025-07-03 08:30:03] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 08:30:07] Utilisateur: Informations
+[2025-07-03 08:30:07] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-03 08:30:12] Utilisateur: ⬅️ Retour
+[2025-07-03 08:30:12] Commande /start
+[2025-07-03 08:30:12] Bot: Choisis une option pour continuer :
+[2025-07-03 08:30:14] Utilisateur: BEPC
+[2025-07-03 08:30:14] Bot: 📚 Tu as choisi la section *BEPC*. Prépare-toi à tester tes connaissances !
+[2025-07-03 08:30:14] Bot: Choisis une matière BEPC :
+[2025-07-03 08:30:16] Utilisateur: Mathématiques
+[2025-07-03 08:30:16] Bot: Combien font 12 + 8 ?
+[2025-07-03 08:30:23] Utilisateur: 18
+[2025-07-03 08:30:23] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-03 08:32:43] Utilisateur: ⬅️ Retour
+[2025-07-03 08:32:43] Commande /start
+[2025-07-03 08:32:43] Bot: Choisis une option pour continuer :
+[2025-07-03 08:32:47] Utilisateur: BEPC
+[2025-07-03 08:32:47] Bot: 📚 Tu as choisi la section *BEPC*. Prépare-toi à tester tes connaissances !
+[2025-07-03 08:32:47] Bot: Choisis une matière BEPC :
+[2025-07-03 08:32:49] Utilisateur: Mathématiques
+[2025-07-03 08:32:49] Bot: Combien font 12 + 8 ?
+[2025-07-03 08:32:53] Utilisateur: 20
+[2025-07-03 08:32:53] Bot: Bonne réponse !
+[2025-07-03 08:32:53] Bot: Explication : 12 + 8 = 20.
+[2025-07-03 08:32:53] Bot: Quel est le carré de 5 ?
+[2025-07-03 08:33:01] Utilisateur: 25
+[2025-07-03 08:33:01] Bot: Bonne réponse !
+[2025-07-03 08:33:07] Bot: Explication : 5 × 5 = 25.
+[2025-07-03 08:33:08] Bot: Combien font 12 + 8 ?
+[2025-07-03 08:33:15] Utilisateur: ⬅️ Retour
+[2025-07-03 08:33:15] Bot: Choix invalide, veuillez réessayer.
+[2025-07-03 08:33:35] Utilisateur: ⬅️ Retour
+[2025-07-03 08:33:35] Bot: Choix invalide, veuillez réessayer.
+[2025-07-03 08:33:43] Utilisateur: 20
+[2025-07-03 08:33:43] Bot: Bonne réponse !
+[2025-07-03 08:33:43] Bot: Explication : 12 + 8 = 20.
+[2025-07-03 08:33:44] Bot: Quel est le carré de 5 ?
+[2025-07-03 08:33:46] Utilisateur: ⬅️ Retour
+[2025-07-03 08:33:46] Bot: Choix invalide, veuillez réessayer.
+[2025-07-03 08:42:46] Utilisateur: ⬅️ Retour
+[2025-07-03 08:42:46] Commande /start
+[2025-07-03 08:42:46] Bot: Choisis une option pour continuer :
+[2025-07-03 08:42:46] Utilisateur: ⬅️ Retour
+[2025-07-03 08:42:46] Commande /start
+[2025-07-03 08:42:46] Bot: Choisis une option pour continuer :
+[2025-07-03 08:42:47] Utilisateur: ⬅️ Retour
+[2025-07-03 08:42:47] Commande /start
+[2025-07-03 08:42:47] Bot: Choisis une option pour continuer :
+[2025-07-03 08:42:47] Utilisateur: ⬅️ Retour
+[2025-07-03 08:42:47] Commande /start
+[2025-07-03 08:42:47] Bot: Choisis une option pour continuer :
+[2025-07-03 08:42:53] Utilisateur: Informations
+[2025-07-03 08:42:53] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-03 08:42:54] Utilisateur: ⬅️ Retour
+[2025-07-03 08:42:54] Commande /start
+[2025-07-03 08:42:54] Bot: Choisis une option pour continuer :
+[2025-07-03 08:42:56] Utilisateur: BEPC
+[2025-07-03 08:42:56] Bot: 📚 Tu as choisi la section *BEPC*. Prépare-toi à tester tes connaissances !
+[2025-07-03 08:42:56] Bot: Choisis une matière BEPC :
+[2025-07-03 08:42:57] Utilisateur: Mathématiques
+[2025-07-03 08:42:57] Bot: Combien font 12 + 8 ?
+[2025-07-03 08:42:59] Utilisateur: 20
+[2025-07-03 08:42:59] Bot: Bonne réponse !
+[2025-07-03 08:42:59] Bot: Explication : 12 + 8 = 20.
+[2025-07-03 08:43:00] Bot: Combien font 12 + 8 ?
+[2025-07-03 08:43:01] Utilisateur: ⬅️ Retour
+[2025-07-03 08:43:01] Bot: Choix invalide, veuillez réessayer.
+[2025-07-03 08:43:04] Utilisateur: ⬅️ Retour
+[2025-07-03 08:43:04] Bot: Choix invalide, veuillez réessayer.
+[2025-07-03 08:43:16] Utilisateur: ⬅️ Retour
+[2025-07-03 08:43:16] Bot: Choix invalide, veuillez réessayer.
+[2025-07-03 08:43:19] Utilisateur: 20
+[2025-07-03 08:43:19] Bot: Bonne réponse !
+[2025-07-03 08:43:19] Bot: Explication : 12 + 8 = 20.
+[2025-07-03 08:43:20] Bot: Quel est le carré de 5 ?
+[2025-07-03 08:43:21] Utilisateur: ⬅️ Retour
+[2025-07-03 08:43:21] Bot: Choix invalide, veuillez réessayer.
+[2025-07-03 08:43:23] Utilisateur: ⬅️ Retour
+[2025-07-03 08:43:23] Bot: Choix invalide, veuillez réessayer.
+[2025-07-03 08:43:25] Utilisateur: ⬅️ Retour
+[2025-07-03 08:43:25] Bot: Choix invalide, veuillez réessayer.
+[2025-07-03 08:56:00] Utilisateur: ⬅️ Retour
+[2025-07-03 08:56:00] Commande /start
+[2025-07-03 08:56:00] Bot: Choisis une option pour continuer :
+[2025-07-03 08:56:04] Utilisateur: BEPC
+[2025-07-03 08:56:04] Bot: 📚 Tu as choisi la section *BEPC*. Prépare-toi à tester tes connaissances !
+[2025-07-03 08:56:04] Bot: Choisis une matière BEPC :
+[2025-07-03 08:56:05] Utilisateur: Mathématiques
+[2025-07-03 08:56:05] Bot: Combien font 12 + 8 ?
+[2025-07-03 08:56:07] Utilisateur: 18
+[2025-07-03 08:56:07] Bot: Mauvaise réponse. Bonne réponse : 20
+[2025-07-03 08:56:07] Bot: Explication : 12 + 8 = 20.
+[2025-07-03 08:56:07] Bot: Quel est le carré de 5 ?
+[2025-07-03 08:56:09] Utilisateur: ⬅️ Retour
+[2025-07-03 08:56:09] Bot: Choix invalide, veuillez réessayer.
+[2025-07-03 15:33:08] Commande /start
+[2025-07-03 15:33:08] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 15:33:12] Utilisateur: Informations
+[2025-07-03 15:33:24] Utilisateur: Informations
+[2025-07-03 15:33:26] Utilisateur: Espace
+[2025-07-03 15:33:28] Utilisateur: BEPC
+[2025-07-03 15:33:34] Utilisateur: Bac A
+[2025-07-03 15:33:35] Utilisateur: Technique
+[2025-07-03 15:33:36] Utilisateur: Quitter le bot
+[2025-07-03 15:33:40] Commande /start
+[2025-07-03 15:33:40] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 15:33:42] Utilisateur: Informations
+[2025-07-03 15:33:52] Commande /start
+[2025-07-03 15:33:52] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 15:33:55] Utilisateur: Espace
+[2025-07-03 15:35:58] Utilisateur: Quitter le bot
+[2025-07-03 15:36:04] Commande /start
+[2025-07-03 15:36:04] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 15:36:06] Utilisateur: Informations
+[2025-07-03 15:36:08] Utilisateur: Espace
+[2025-07-03 15:36:09] Utilisateur: BEPC
+[2025-07-03 15:36:10] Utilisateur: Bac A
+[2025-07-03 15:36:10] Utilisateur: Bac C
+[2025-07-03 15:36:11] Utilisateur: Bac D
+[2025-07-03 15:36:12] Utilisateur: Technique
+[2025-07-03 15:36:13] Utilisateur: Quitter le bot
+[2025-07-03 15:49:14] Commande /start
+[2025-07-03 15:49:14] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 15:50:14] Utilisateur: Informations
+[2025-07-03 15:50:14] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-03 15:50:32] Commande /start
+[2025-07-03 15:50:32] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 15:51:18] Utilisateur: Informations
+[2025-07-03 15:51:18] Bot: ℹ️ Bienvenue dans la section Informations !
+Ici tu trouveras des conseils et actus utiles.
+[2025-07-03 19:02:36] Utilisateur: ⬅️ Retour
+[2025-07-03 19:02:36] Commande /start
+[2025-07-03 19:02:36] Bot: Choisis une option pour continuer :
+[2025-07-03 19:02:43] Utilisateur: Espace
+[2025-07-03 19:02:43] Bot: 😊 *Bienvenue dans l'espace !*
+
+L’espace est une fenêtre vers d’autres opportunités, entièrement gratuites.
+
+🔹 *1️⃣ Canal des Opportunités :*
+- 💼 Offres d'emploi
+- 💡 Idées business (avec ou sans fonds)
+- 🎓 Formations multiples
+- 🤝 Partenariats
+Rejoignez-nous en suivant ce lien :
+*Lien :*
+
+📚 *2️⃣ Groupe Études :*
+- 📝 Sujets de devoirs et d'examens
+- 🔒 Partage d'exercices bloqués et complexes par la communauté
+- 🤗 Assistance entre élèves
+- 💬 Conseils personnalisés
+- 📚 Devoirs, révisions et formations sur mesure
+- ✅ Corrections de tous les exercices partagés
+- 🗣️ Avis sur nos activités
+Rejoignez la communauté en suivant ce lien :
+*Lien :*
+
+📰 *3️⃣ Canal Info & Actualités :*
+- 🕒 Restez à jour sur les actualités
+- 📢 Accès aux informations importantes
+- ⏰ Rappels essentiels
+Rejoignez la communauté en suivant ce lien :
+*Lien :*
+
+🛒 *4️⃣ Canal Activités :*
+- 🎁 Dons de produits gratuits
+- 📦 Offres de produits
+- 🔄 Échanges de produits
+- 💰 Ventes de produits
+- 🛍️ Achats de produits
+- 🗑️ Vides greniers
+- 🏷️ Bonnes affaires
+Le message épinglé dans le canal vous donnera plus d'informations.
+Suivez le lien et intégrez :
+*Lien :*
+
+✨ D'autres offres et opportunités sont en cours de préparation. Chaque nouvelle option, opportunité ou information vous sera communiquée.
+
+🙏 Merci et nous vous souhaitons la meilleure expérience avec nous !
+[2025-07-03 19:03:18] Utilisateur: ⬅️ Retour
+[2025-07-03 19:03:18] Commande /start
+[2025-07-03 19:03:18] Bot: Choisis une option pour continuer :
+[2025-07-03 19:03:20] Utilisateur: Informations
+[2025-07-03 19:03:20] Bot: 🎓 *Bienvenue sur notre Bot de Formation !*
+
+Notre bot intelligent (IA) a été conçu pour vous permettre de vous former gratuitement dans plusieurs domaines 📚🌐.
+
+📌 *Notice d'utilisation :*
+🔹 Dans l’option /espace, vous trouverez des extensions essentielles : Business, Actualités, Études, etc.
+🔹 Les options de niveau permettent de choisir votre classe ou série pour une formation adaptée 🏫.
+🔹 L’option *Technique* (F1, F3, Comptabilité...) sera bientôt disponible. Une notification vous sera envoyée.
+➡️ Certaines matières générales sont similaires aux techniques : les élèves techniques peuvent donc aussi suivre les formations BEPC et BAC.
+🔹 Les formations pour le *niveau supérieur au BAC* (concours) seront bientôt disponibles.
+🔹 À tout moment, vous pouvez quitter le bot ou revenir au menu principal avec les boutons prévus 🔙.
+
+📚 *Contenu pédagogique :*
+✅ Le bot propose des milliers de QCM par niveau avec correction et explication après chaque réponse 🧠✨.
+✅ La formation aux concours contient des questions aléatoires : culture générale, tests psychotechniques, matières scolaires, etc.
+✅ Le bot propose des exercices courts et des questions de révision 📝.
+➡️ Pour les sujets complets (examens, devoirs...), allez dans /espace pour accéder aux canaux.
+
+⚠️ *Important :*
+🚨 Le bot peut gérer des milliers d’utilisateurs en même temps. Pour une meilleure expérience, utilisez uniquement les boutons proposés.
+🎁 Le bot est 100% gratuit. N'hésitez pas à le partager autour de vous.
+💎 La formation est professionnelle, efficace et équivalente à une formation payante.
+
+⚖️ *Droits et responsabilités :*
+🚫 Interdiction de vendre, publier ou dupliquer le contenu ou les canaux du bot sans autorisation.
+👁️ Les conversations sont enregistrées. Chaque utilisateur est identifié dès sa première utilisation.
+
+👥 *Droits de l’utilisateur :*
+💬 Commenter dans le groupe (/espace)
+🤝 S’entraider entre utilisateurs
+📥 Publier et traiter les exercices proposés
+📩 Utiliser les contenus partagés par la communauté
+📤 Utiliser les contenus officiels (si autorisés)
+🗣 Recommander le bot ou ses canaux
+📬 Nous contacter
+
+🌍 *Origine et objectifs :*
+🇧🇫 Créé au Burkina Faso pour offrir une formation gratuite de qualité.
+📈 Objectif : proposer des formations, des idées d’entrepreneuriat, réduire le chômage et améliorer la réussite scolaire.
+🌍 Le bot intégrera bientôt d'autres pays et propose déjà une section internationale dans /espace.
+📱 Il sera bientôt disponible sur d’autres applications pour une meilleure accessibilité.
+
+📞 *Contact :*
+Telegram
+WhatsApp
+Instagram
+Mail
+Facebook
+TikTok
+YouTube
+📌 Merci de laisser un message complet avec l’objet de votre demande. Les messages non explicites (ex : « bonjour » seul) ne recevront pas de réponse.
+
+🆕 *À venir :*
+🚀 Compétitions entre amis
+🌍 Intégration de nouveaux pays
+🧪 Déploiement du niveau technique
+🎓 Formation concours supérieur au BAC
+♿️ Accessibilité pour malvoyants/malentendants
+🏆 Récompenses pour les meilleurs utilisateurs
+[2025-07-03 19:03:47] Utilisateur: ⬅️ Retour
+[2025-07-03 19:03:47] Commande /start
+[2025-07-03 19:03:47] Bot: Choisis une option pour continuer :
+[2025-07-03 19:04:10] Utilisateur: Espace
+[2025-07-03 19:04:10] Bot: 😊 *Bienvenue dans l'espace !*
+
+L’espace est une fenêtre vers d’autres opportunités, entièrement gratuites.
+
+🔹 *1️⃣ Canal des Opportunités :*
+- 💼 Offres d'emploi
+- 💡 Idées business (avec ou sans fonds)
+- 🎓 Formations multiples
+- 🤝 Partenariats
+Rejoignez-nous en suivant ce lien :
+*Lien :*
+
+📚 *2️⃣ Groupe Études :*
+- 📝 Sujets de devoirs et d'examens
+- 🔒 Partage d'exercices bloqués et complexes par la communauté
+- 🤗 Assistance entre élèves
+- 💬 Conseils personnalisés
+- 📚 Devoirs, révisions et formations sur mesure
+- ✅ Corrections de tous les exercices partagés
+- 🗣️ Avis sur nos activités
+Rejoignez la communauté en suivant ce lien :
+*Lien :*
+
+📰 *3️⃣ Canal Info & Actualités :*
+- 🕒 Restez à jour sur les actualités
+- 📢 Accès aux informations importantes
+- ⏰ Rappels essentiels
+Rejoignez la communauté en suivant ce lien :
+*Lien :*
+
+🛒 *4️⃣ Canal Activités :*
+- 🎁 Dons de produits gratuits
+- 📦 Offres de produits
+- 🔄 Échanges de produits
+- 💰 Ventes de produits
+- 🛍️ Achats de produits
+- 🗑️ Vides greniers
+- 🏷️ Bonnes affaires
+Le message épinglé dans le canal vous donnera plus d'informations.
+Suivez le lien et intégrez :
+*Lien :*
+
+✨ D'autres offres et opportunités sont en cours de préparation. Chaque nouvelle option, opportunité ou information vous sera communiquée.
+
+🙏 Merci et nous vous souhaitons la meilleure expérience avec nous !
+[2025-07-03 19:04:16] Utilisateur: Espace
+[2025-07-03 19:04:16] Bot: 😊 *Bienvenue dans l'espace !*
+
+L’espace est une fenêtre vers d’autres opportunités, entièrement gratuites.
+
+🔹 *1️⃣ Canal des Opportunités :*
+- 💼 Offres d'emploi
+- 💡 Idées business (avec ou sans fonds)
+- 🎓 Formations multiples
+- 🤝 Partenariats
+Rejoignez-nous en suivant ce lien :
+*Lien :*
+
+📚 *2️⃣ Groupe Études :*
+- 📝 Sujets de devoirs et d'examens
+- 🔒 Partage d'exercices bloqués et complexes par la communauté
+- 🤗 Assistance entre élèves
+- 💬 Conseils personnalisés
+- 📚 Devoirs, révisions et formations sur mesure
+- ✅ Corrections de tous les exercices partagés
+- 🗣️ Avis sur nos activités
+Rejoignez la communauté en suivant ce lien :
+*Lien :*
+
+📰 *3️⃣ Canal Info & Actualités :*
+- 🕒 Restez à jour sur les actualités
+- 📢 Accès aux informations importantes
+- ⏰ Rappels essentiels
+Rejoignez la communauté en suivant ce lien :
+*Lien :*
+
+🛒 *4️⃣ Canal Activités :*
+- 🎁 Dons de produits gratuits
+- 📦 Offres de produits
+- 🔄 Échanges de produits
+- 💰 Ventes de produits
+- 🛍️ Achats de produits
+- 🗑️ Vides greniers
+- 🏷️ Bonnes affaires
+Le message épinglé dans le canal vous donnera plus d'informations.
+Suivez le lien et intégrez :
+*Lien :*
+
+✨ D'autres offres et opportunités sont en cours de préparation. Chaque nouvelle option, opportunité ou information vous sera communiquée.
+
+🙏 Merci et nous vous souhaitons la meilleure expérience avec nous !
+[2025-07-03 19:04:20] Utilisateur: Informations
+[2025-07-03 19:04:20] Bot: 🎓 *Bienvenue sur notre Bot de Formation !*
+
+Notre bot intelligent (IA) a été conçu pour vous permettre de vous former gratuitement dans plusieurs domaines 📚🌐.
+
+📌 *Notice d'utilisation :*
+🔹 Dans l’option /espace, vous trouverez des extensions essentielles : Business, Actualités, Études, etc.
+🔹 Les options de niveau permettent de choisir votre classe ou série pour une formation adaptée 🏫.
+🔹 L’option *Technique* (F1, F3, Comptabilité...) sera bientôt disponible. Une notification vous sera envoyée.
+➡️ Certaines matières générales sont similaires aux techniques : les élèves techniques peuvent donc aussi suivre les formations BEPC et BAC.
+🔹 Les formations pour le *niveau supérieur au BAC* (concours) seront bientôt disponibles.
+🔹 À tout moment, vous pouvez quitter le bot ou revenir au menu principal avec les boutons prévus 🔙.
+
+📚 *Contenu pédagogique :*
+✅ Le bot propose des milliers de QCM par niveau avec correction et explication après chaque réponse 🧠✨.
+✅ La formation aux concours contient des questions aléatoires : culture générale, tests psychotechniques, matières scolaires, etc.
+✅ Le bot propose des exercices courts et des questions de révision 📝.
+➡️ Pour les sujets complets (examens, devoirs...), allez dans /espace pour accéder aux canaux.
+
+⚠️ *Important :*
+🚨 Le bot peut gérer des milliers d’utilisateurs en même temps. Pour une meilleure expérience, utilisez uniquement les boutons proposés.
+🎁 Le bot est 100% gratuit. N'hésitez pas à le partager autour de vous.
+💎 La formation est professionnelle, efficace et équivalente à une formation payante.
+
+⚖️ *Droits et responsabilités :*
+🚫 Interdiction de vendre, publier ou dupliquer le contenu ou les canaux du bot sans autorisation.
+👁️ Les conversations sont enregistrées. Chaque utilisateur est identifié dès sa première utilisation.
+
+👥 *Droits de l’utilisateur :*
+💬 Commenter dans le groupe (/espace)
+🤝 S’entraider entre utilisateurs
+📥 Publier et traiter les exercices proposés
+📩 Utiliser les contenus partagés par la communauté
+📤 Utiliser les contenus officiels (si autorisés)
+🗣 Recommander le bot ou ses canaux
+📬 Nous contacter
+
+🌍 *Origine et objectifs :*
+🇧🇫 Créé au Burkina Faso pour offrir une formation gratuite de qualité.
+📈 Objectif : proposer des formations, des idées d’entrepreneuriat, réduire le chômage et améliorer la réussite scolaire.
+🌍 Le bot intégrera bientôt d'autres pays et propose déjà une section internationale dans /espace.
+📱 Il sera bientôt disponible sur d’autres applications pour une meilleure accessibilité.
+
+📞 *Contact :*
+Telegram
+WhatsApp
+Instagram
+Mail
+Facebook
+TikTok
+YouTube
+📌 Merci de laisser un message complet avec l’objet de votre demande. Les messages non explicites (ex : « bonjour » seul) ne recevront pas de réponse.
+
+🆕 *À venir :*
+🚀 Compétitions entre amis
+🌍 Intégration de nouveaux pays
+🧪 Déploiement du niveau technique
+🎓 Formation concours supérieur au BAC
+♿️ Accessibilité pour malvoyants/malentendants
+🏆 Récompenses pour les meilleurs utilisateurs
+[2025-07-03 19:07:38] Utilisateur: ⬅️ Retour
+[2025-07-03 19:07:39] Commande /start
+[2025-07-03 19:07:39] Bot: Choisis une option pour continuer :
+[2025-07-03 19:07:42] Utilisateur: BEPC
+[2025-07-03 19:07:42] Bot: 📚 Tu as choisi la section *BEPC*. Prépare-toi à tester tes connaissances !
+[2025-07-03 19:07:42] Bot: Choisis une matière BEPC :
+[2025-07-03 19:09:16] Utilisateur: ⬅️ Retour
+[2025-07-03 19:09:16] Commande /start
+[2025-07-03 19:09:16] Bot: Choisis une option pour continuer :
+[2025-07-03 19:09:16] Utilisateur: ⬅️ Retour
+[2025-07-03 19:09:16] Commande /start
+[2025-07-03 19:09:16] Bot: Choisis une option pour continuer :
+[2025-07-03 19:09:20] Utilisateur: Bac A
+[2025-07-03 19:09:20] Bot: 📘 Tu as choisi la section *BAC A*. Choisis une matière pour commencer :
+[2025-07-03 19:09:20] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-03 19:09:30] Utilisateur: Anglais
+[2025-07-03 19:09:30] Bot: Quelle est la capitale du Burkina Faso ?
+[2025-07-03 19:09:34] Utilisateur: Ouagadougou
+[2025-07-03 19:09:34] Bot: Bonne réponse !
+[2025-07-03 19:09:34] Bot: Explication : Ouagadougou est la capitale politique et administrative du Burkina Faso.
+[2025-07-03 19:09:34] Bot: Quel est l’animal emblématique souvent associé au Burkina Faso ?
+[2025-07-03 19:09:47] Utilisateur: Éléphant
+[2025-07-03 19:09:47] Bot: Bonne réponse !
+[2025-07-03 19:09:49] Bot: Explication : L'éléphant est un symbole important dans la culture burkinabè.
+[2025-07-03 19:09:49] Bot: Quel est l'élément chimique représenté par le symbole 'O' ?
+[2025-07-03 19:09:57] Utilisateur: ⬅️ Retour
+[2025-07-03 19:09:57] Bot: Choix invalide, veuillez réessayer.
+[2025-07-03 20:08:37] Commande /start
+[2025-07-03 20:08:37] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 20:08:42] Utilisateur: Informations
+[2025-07-03 20:08:42] Bot: 🎓 Bienvenue sur notre Bot de Formation !
+
+Notre bot intelligent (IA) a été conçu pour vous permettre de vous former gratuitement dans plusieurs domaines 📚🌐.
+
+📌 Notice d'utilisation :
+🔹 Dans l’option /espace, vous trouverez des extensions essentielles : Business, Actualités, Études, etc.
+🔹 Les options de niveau permettent de choisir votre classe ou série pour une formation adaptée 🏫.
+🔹 L’option Technique (F1, F3, Comptabilité...) sera bientôt disponible. Une notification vous sera envoyée.
+➡️ Certaines matières générales sont similaires aux techniques : les élèves techniques peuvent donc aussi suivre les formations BEPC et BAC.
+🔹 Les formations pour le niveau supérieur au BAC (concours) seront bientôt disponibles.
+🔹 À tout moment, vous pouvez quitter le bot ou revenir au menu principal avec les boutons prévus 🔙.
+
+📚 Contenu pédagogique :
+✅ Le bot propose des milliers de QCM par niveau avec correction et explication après chaque réponse 🧠✨.
+✅ La formation aux concours contient des questions aléatoires : culture générale, tests psychotechniques, matières scolaires, etc.
+✅ Le bot propose des exercices courts et des questions de révision 📝.
+➡️ Pour les sujets complets (examens, devoirs...), allez dans /espace pour accéder aux canaux.
+
+⚠️ Important :
+🚨 Le bot peut gérer des milliers d’utilisateurs en même temps. Pour une meilleure expérience, utilisez uniquement les boutons proposés.
+🎁 Le bot est 100% gratuit. N'hésitez pas à le partager autour de vous.
+💎 La formation est professionnelle, efficace et équivalente à une formation payante.
+
+⚖️ Droits et responsabilités :
+🚫 Interdiction de vendre, publier ou dupliquer le contenu ou les canaux du bot sans autorisation.
+👁️ Les conversations sont enregistrées. Chaque utilisateur est identifié dès sa première utilisation.
+
+👥 Droits de l’utilisateur :
+💬 Commenter dans le groupe (/espace)
+🤝 S’entraider entre utilisateurs
+📥 Publier et traiter les exercices proposés
+📩 Utiliser les contenus partagés par la communauté
+📤 Utiliser les contenus officiels (si autorisés)
+🗣 Recommander le bot ou ses canaux
+📬 Nous contacter
+
+🌍 Origine et objectifs :
+🇧🇫 Créé au Burkina Faso pour offrir une formation gratuite de qualité.
+📈 Objectif : proposer des formations, des idées d’entrepreneuriat, réduire le chômage et améliorer la réussite scolaire.
+🌍 Le bot intégrera bientôt d'autres pays et propose déjà une section internationale dans /espace.
+📱 Il sera bientôt disponible sur d’autres applications pour une meilleure accessibilité.
+
+📞 Contact :
+Telegram
+WhatsApp
+Instagram
+Mail
+Facebook
+TikTok
+YouTube
+📌 Merci de laisser un message complet avec l’objet de votre demande. Les messages non explicites (ex : « bonjour » seul) ne recevront pas de réponse.
+
+🆕 À venir :
+🚀 Compétitions entre amis
+🌍 Intégration de nouveaux pays
+🧪 Déploiement du niveau technique
+🎓 Formation concours supérieur au BAC
+♿️ Accessibilité pour malvoyants/malentendants
+🏆 Récompenses pour les meilleurs utilisateurs
+[2025-07-03 20:08:44] Utilisateur: ⬅️ Retour
+[2025-07-03 20:08:44] Commande /start
+[2025-07-03 20:08:44] Bot: Choisis une option pour continuer :
+[2025-07-03 20:08:46] Utilisateur: Espace
+[2025-07-03 20:08:46] Bot: 😊 Bienvenue dans l'espace !
+
+L’espace est une fenêtre vers d’autres opportunités, entièrement gratuites.
+
+🔹 1️⃣ Canal des Opportunités :
+- 💼 Offres d'emploi
+- 💡 Idées business (avec ou sans fonds)
+- 🎓 Formations multiples
+- 🤝 Partenariats
+Rejoignez-nous en suivant ce lien :
+Lien :
+
+📚 2️⃣ Groupe Études :
+- 📝 Sujets de devoirs et d'examens
+- 🔒 Partage d'exercices bloqués et complexes par la communauté
+- 🤗 Assistance entre élèves
+- 💬 Conseils personnalisés
+- 📚 Devoirs, révisions et formations sur mesure
+- ✅ Corrections de tous les exercices partagés
+- 🗣️ Avis sur nos activités
+Rejoignez la communauté en suivant ce lien :
+Lien :
+
+📰 3️⃣ Canal Info & Actualités :
+- 🕒 Restez à jour sur les actualités
+- 📢 Accès aux informations importantes
+- ⏰ Rappels essentiels
+Rejoignez la communauté en suivant ce lien :
+Lien :
+
+🛒 4️⃣ Canal Activités :
+- 🎁 Dons de produits gratuits
+- 📦 Offres de produits
+- 🔄 Échanges de produits
+- 💰 Ventes de produits
+- 🛍️ Achats de produits
+- 🗑️ Vides greniers
+- 🏷️ Bonnes affaires
+Le message épinglé dans le canal vous donnera plus d'informations.
+Suivez le lien et intégrez :
+Lien :
+
+✨ D'autres offres et opportunités sont en cours de préparation. Chaque nouvelle option, opportunité ou information vous sera communiquée.
+
+🙏 Merci et nous vous souhaitons la meilleure expérience avec nous !
+[2025-07-03 20:08:48] Utilisateur: ⬅️ Retour
+[2025-07-03 20:08:48] Commande /start
+[2025-07-03 20:08:48] Bot: Choisis une option pour continuer :
+[2025-07-03 20:08:50] Utilisateur: BEPC
+[2025-07-03 20:08:50] Bot: 📚 Tu as choisi la section *BEPC*. Prépare-toi à tester tes connaissances !
+[2025-07-03 20:08:50] Bot: Choisis une matière BEPC :
+[2025-07-03 20:08:52] Utilisateur: Mathématiques
+[2025-07-03 20:08:52] Bot: Combien font 12 + 8 ?
+[2025-07-03 20:08:54] Utilisateur: 20
+[2025-07-03 20:08:54] Bot: Bonne réponse !
+[2025-07-03 20:08:54] Bot: Explication : 12 + 8 = 20.
+[2025-07-03 20:08:55] Bot: Quel est le carré de 5 ?
+[2025-07-03 20:08:56] Utilisateur: ⬅️ Retour
+[2025-07-03 20:08:56] Commande /start
+[2025-07-03 20:08:56] Bot: Choisis une option pour continuer :
+[2025-07-03 20:09:03] Utilisateur: Concours
+[2025-07-03 20:09:03] Bot: 🎯 Bienvenue dans la section *Concours* !
+Choisis un niveau pour consulter les matières 👇
+[2025-07-03 20:09:04] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-03 20:09:11] Utilisateur: BEPC.G
+[2025-07-03 20:09:11] Bot: Quel est le rôle principal du Parlement dans un État démocratique ?
+[2025-07-03 20:09:14] Utilisateur: Contrôler les citoyens
+[2025-07-03 20:09:14] Bot: Mauvaise réponse. Bonne réponse : Faire les lois
+[2025-07-03 20:09:14] Bot: Quelle est la capitale politique du Burkina Faso ?
+[2025-07-03 20:09:25] Utilisateur: Ouagadougou
+[2025-07-03 20:09:25] Bot: Bonne réponse !
+[2025-07-03 20:09:26] Bot: Quelle est la capitale politique du Burkina Faso ?
+[2025-07-03 20:09:30] Utilisateur: ⬅️ Retour
+[2025-07-03 20:09:30] Commande /start
+[2025-07-03 20:09:30] Bot: Choisis une option pour continuer :
+[2025-07-03 20:20:29] Commande /start
+[2025-07-03 20:20:29] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 20:20:31] Commande /start
+[2025-07-03 20:20:31] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 20:20:41] Utilisateur: Informations
+[2025-07-03 20:20:41] Bot: 🎓 Bienvenue sur notre Bot de Formation !
+
+Notre bot intelligent (IA) a été conçu pour vous permettre de vous former gratuitement dans plusieurs domaines 📚🌐.
+
+📌 Notice d'utilisation :
+🔹 Dans l’option /espace, vous trouverez des extensions essentielles : Business, Actualités, Études, etc.
+🔹 Les options de niveau permettent de choisir votre classe ou série pour une formation adaptée 🏫.
+🔹 L’option Technique (F1, F3, Comptabilité...) sera bientôt disponible. Une notification vous sera envoyée.
+➡️ Certaines matières générales sont similaires aux techniques : les élèves techniques peuvent donc aussi suivre les formations BEPC et BAC.
+🔹 Les formations pour le niveau supérieur au BAC (concours) seront bientôt disponibles.
+🔹 À tout moment, vous pouvez quitter le bot ou revenir au menu principal avec les boutons prévus 🔙.
+
+📚 Contenu pédagogique :
+✅ Le bot propose des milliers de QCM par niveau avec correction et explication après chaque réponse 🧠✨.
+✅ La formation aux concours contient des questions aléatoires : culture générale, tests psychotechniques, matières scolaires, etc.
+✅ Le bot propose des exercices courts et des questions de révision 📝.
+➡️ Pour les sujets complets (examens, devoirs...), allez dans /espace pour accéder aux canaux.
+
+⚠️ Important :
+🚨 Le bot peut gérer des milliers d’utilisateurs en même temps. Pour une meilleure expérience, utilisez uniquement les boutons proposés.
+🎁 Le bot est 100% gratuit. N'hésitez pas à le partager autour de vous.
+💎 La formation est professionnelle, efficace et équivalente à une formation payante.
+
+⚖️ Droits et responsabilités :
+🚫 Interdiction de vendre, publier ou dupliquer le contenu ou les canaux du bot sans autorisation.
+👁️ Les conversations sont enregistrées. Chaque utilisateur est identifié dès sa première utilisation.
+
+👥 Droits de l’utilisateur :
+💬 Commenter dans le groupe (/espace)
+🤝 S’entraider entre utilisateurs
+📥 Publier et traiter les exercices proposés
+📩 Utiliser les contenus partagés par la communauté
+📤 Utiliser les contenus officiels (si autorisés)
+🗣 Recommander le bot ou ses canaux
+📬 Nous contacter
+
+🌍 Origine et objectifs :
+🇧🇫 Créé au Burkina Faso pour offrir une formation gratuite de qualité.
+📈 Objectif : proposer des formations, des idées d’entrepreneuriat, réduire le chômage et améliorer la réussite scolaire.
+🌍 Le bot intégrera bientôt d'autres pays et propose déjà une section internationale dans /espace.
+📱 Il sera bientôt disponible sur d’autres applications pour une meilleure accessibilité.
+
+📞 Contact :
+Telegram
+WhatsApp
+Instagram
+Mail
+Facebook
+TikTok
+YouTube
+📌 Merci de laisser un message complet avec l’objet de votre demande. Les messages non explicites (ex : « bonjour » seul) ne recevront pas de réponse.
+
+🆕 À venir :
+🚀 Compétitions entre amis
+🌍 Intégration de nouveaux pays
+🧪 Déploiement du niveau technique
+🎓 Formation concours supérieur au BAC
+♿️ Accessibilité pour malvoyants/malentendants
+🏆 Récompenses pour les meilleurs utilisateurs
+[2025-07-03 20:20:43] Utilisateur: ⬅️ Retour
+[2025-07-03 20:20:43] Commande /start
+[2025-07-03 20:20:43] Bot: Choisis une option pour continuer :
+[2025-07-03 20:21:41] Bot: Veux-tu recevoir chaque jour un QCM pour réviser automatiquement ?
+[2025-07-03 20:21:50] Utilisateur: Oui
+[2025-07-03 20:21:50] Bot: ✅ Tu es maintenant inscrit(e) au programme de révision automatique. Tu recevras un QCM chaque jour.
+[2025-07-03 20:21:58] Utilisateur: Non
+[2025-07-03 20:21:58] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-03 20:22:05] Commande /start
+[2025-07-03 20:22:05] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 20:33:11] Utilisateur: Quitter le bot
+[2025-07-03 20:33:11] Bot: Merci d'avoir révisé avec nous, à la prochaine pour une nouvelle experieure. Bonne suite, BarakaAdministrateur !
+[2025-07-03 20:33:13] Utilisateur: Démarrer
+[2025-07-03 20:33:13] Commande /start
+[2025-07-03 20:33:13] Bot: Bon retour parmis nous ! prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 20:33:15] Utilisateur: BEPC
+[2025-07-03 20:33:15] Bot: 📚 Tu as choisi la section *BEPC*. Prépare-toi à tester tes connaissances !
+[2025-07-03 20:33:15] Bot: Choisis une matière BEPC :
+[2025-07-03 20:33:17] Utilisateur: Mathématiques
+[2025-07-03 20:33:17] Bot: Combien font 12 + 8 ?
+[2025-07-03 20:33:20] Utilisateur: 24
+[2025-07-03 20:33:20] Bot: Mauvaise réponse. Bonne réponse : 20
+[2025-07-03 20:33:21] Bot: Explication : 12 + 8 = 20.
+[2025-07-03 20:33:21] Bot: Quel est le carré de 5 ?
+[2025-07-03 20:33:24] Utilisateur: ⬅️ Retour
+[2025-07-03 20:33:24] Commande /start
+[2025-07-03 20:33:24] Bot: Choisis une option pour continuer :
+[2025-07-03 20:33:39] Utilisateur: Informations
+[2025-07-03 20:33:39] Bot: 🎓 Bienvenue sur notre Bot de Formation !
+
+Notre bot intelligent (IA) a été conçu pour vous permettre de vous former gratuitement dans plusieurs domaines 📚🌐.
+
+📌 Notice d'utilisation :
+🔹 Dans l’option /espace, vous trouverez des extensions essentielles : Business, Actualités, Études, etc.
+🔹 Les options de niveau permettent de choisir votre classe ou série pour une formation adaptée 🏫.
+🔹 L’option Technique (F1, F3, Comptabilité...) sera bientôt disponible. Une notification vous sera envoyée.
+➡️ Certaines matières générales sont similaires aux techniques : les élèves techniques peuvent donc aussi suivre les formations BEPC et BAC.
+🔹 Les formations pour le niveau supérieur au BAC (concours) seront bientôt disponibles.
+🔹 À tout moment, vous pouvez quitter le bot ou revenir au menu principal avec les boutons prévus 🔙.
+
+📚 Contenu pédagogique :
+✅ Le bot propose des milliers de QCM par niveau avec correction et explication après chaque réponse 🧠✨.
+✅ La formation aux concours contient des questions aléatoires : culture générale, tests psychotechniques, matières scolaires, etc.
+✅ Le bot propose des exercices courts et des questions de révision 📝.
+➡️ Pour les sujets complets (examens, devoirs...), allez dans /espace pour accéder aux canaux.
+
+⚠️ Important :
+🚨 Le bot peut gérer des milliers d’utilisateurs en même temps. Pour une meilleure expérience, utilisez uniquement les boutons proposés.
+🎁 Le bot est 100% gratuit. N'hésitez pas à le partager autour de vous.
+💎 La formation est professionnelle, efficace et équivalente à une formation payante.
+
+⚖️ Droits et responsabilités :
+🚫 Interdiction de vendre, publier ou dupliquer le contenu ou les canaux du bot sans autorisation.
+👁️ Les conversations sont enregistrées. Chaque utilisateur est identifié dès sa première utilisation.
+
+👥 Droits de l’utilisateur :
+💬 Commenter dans le groupe (/espace)
+🤝 S’entraider entre utilisateurs
+📥 Publier et traiter les exercices proposés
+📩 Utiliser les contenus partagés par la communauté
+📤 Utiliser les contenus officiels (si autorisés)
+🗣 Recommander le bot ou ses canaux
+📬 Nous contacter
+
+🌍 Origine et objectifs :
+🇧🇫 Créé au Burkina Faso pour offrir une formation gratuite de qualité.
+📈 Objectif : proposer des formations, des idées d’entrepreneuriat, réduire le chômage et améliorer la réussite scolaire.
+🌍 Le bot intégrera bientôt d'autres pays et propose déjà une section internationale dans /espace.
+📱 Il sera bientôt disponible sur d’autres applications pour une meilleure accessibilité.
+
+📞 Contact :
+Telegram
+WhatsApp
+Instagram
+Mail
+Facebook
+TikTok
+YouTube
+📌 Merci de laisser un message complet avec l’objet de votre demande. Les messages non explicites (ex : « bonjour » seul) ne recevront pas de réponse.
+
+🆕 À venir :
+🚀 Compétitions entre amis
+🌍 Intégration de nouveaux pays
+🧪 Déploiement du niveau technique
+🎓 Formation concours supérieur au BAC
+♿️ Accessibilité pour malvoyants/malentendants
+🏆 Récompenses pour les meilleurs utilisateurs
+[2025-07-03 20:33:43] Utilisateur: ⬅️ Retour
+[2025-07-03 20:33:43] Commande /start
+[2025-07-03 20:33:43] Bot: Choisis une option pour continuer :
+[2025-07-03 20:33:45] Utilisateur: Espace
+[2025-07-03 20:33:45] Bot: 😊 Bienvenue dans l'espace !
+
+L’espace est une fenêtre vers d’autres opportunités, entièrement gratuites.
+
+🔹 1️⃣ Canal des Opportunités :
+- 💼 Offres d'emploi
+- 💡 Idées business (avec ou sans fonds)
+- 🎓 Formations multiples
+- 🤝 Partenariats
+Rejoignez-nous en suivant ce lien :
+Lien :
+
+📚 2️⃣ Groupe Études :
+- 📝 Sujets de devoirs et d'examens
+- 🔒 Partage d'exercices bloqués et complexes par la communauté
+- 🤗 Assistance entre élèves
+- 💬 Conseils personnalisés
+- 📚 Devoirs, révisions et formations sur mesure
+- ✅ Corrections de tous les exercices partagés
+- 🗣️ Avis sur nos activités
+Rejoignez la communauté en suivant ce lien :
+Lien :
+
+📰 3️⃣ Canal Info & Actualités :
+- 🕒 Restez à jour sur les actualités
+- 📢 Accès aux informations importantes
+- ⏰ Rappels essentiels
+Rejoignez la communauté en suivant ce lien :
+Lien :
+
+🛒 4️⃣ Canal Activités :
+- 🎁 Dons de produits gratuits
+- 📦 Offres de produits
+- 🔄 Échanges de produits
+- 💰 Ventes de produits
+- 🛍️ Achats de produits
+- 🗑️ Vides greniers
+- 🏷️ Bonnes affaires
+Le message épinglé dans le canal vous donnera plus d'informations.
+Suivez le lien et intégrez :
+Lien :
+
+✨ D'autres offres et opportunités sont en cours de préparation. Chaque nouvelle option, opportunité ou information vous sera communiquée.
+
+🙏 Merci et nous vous souhaitons la meilleure expérience avec nous !
+[2025-07-03 20:33:46] Utilisateur: ⬅️ Retour
+[2025-07-03 20:33:46] Commande /start
+[2025-07-03 20:33:46] Bot: Choisis une option pour continuer :
+[2025-07-03 20:33:48] Utilisateur: BEPC
+[2025-07-03 20:33:48] Bot: 📚 Tu as choisi la section *BEPC*. Prépare-toi à tester tes connaissances !
+[2025-07-03 20:33:48] Bot: Choisis une matière BEPC :
+[2025-07-03 20:33:54] Utilisateur: Mathématiques
+[2025-07-03 20:33:54] Bot: Combien font 12 + 8 ?
+[2025-07-03 20:35:22] Utilisateur: 20
+[2025-07-03 20:35:22] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-03 20:35:36] Commande /start
+[2025-07-03 20:35:36] Bot: Bon retour parmi nous ! Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 20:36:10] Commande /start
+[2025-07-03 20:36:10] Bot: Bon retour parmi nous ! Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 20:36:15] Commande /start
+[2025-07-03 20:36:15] Bot: Bon retour parmi nous ! Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 20:36:22] Utilisateur: ⬅️ Retour
+[2025-07-03 20:36:23] Commande /start
+[2025-07-03 20:36:23] Bot: Choisis une option pour continuer :
+[2025-07-03 20:36:25] Utilisateur: 📚 Informations
+[2025-07-03 20:36:25] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-03 20:36:48] Utilisateur: 📚 Informations
+[2025-07-03 20:36:48] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-03 20:37:36] Commande /start
+[2025-07-03 20:37:36] Bot: Bon retour parmi nous ! Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 20:37:44] Commande /start
+[2025-07-03 20:37:44] Bot: Bon retour parmi nous ! Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 20:38:28] Commande /start
+[2025-07-03 20:38:28] Bot: Bon retour parmi nous ! Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-03 20:38:31] Utilisateur: 📚 Informations
+[2025-07-03 20:38:31] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-03 20:38:37] Utilisateur: 👤 Espace
+[2025-07-03 20:38:37] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-03 20:38:42] Utilisateur: 📝 BEPC
+[2025-07-03 20:38:42] Bot: 📚 Tu as choisi la section *BEPC*. Prépare-toi à tester tes connaissances !
+[2025-07-03 20:38:42] Bot: Choisis une matière BEPC :
+[2025-07-03 20:38:52] Utilisateur: ⬅️ Retour
+[2025-07-03 20:38:52] Commande /start
+[2025-07-03 20:38:52] Bot: Choisis une option pour continuer :
+[2025-07-03 20:38:56] Utilisateur: 🎓 Bac A
+[2025-07-03 20:38:56] Bot: 📘 Tu as choisi la section *BAC A*. Choisis une matière pour commencer :
+[2025-07-03 20:38:56] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-03 20:38:59] Utilisateur: ⬅️ Retour
+[2025-07-03 20:38:59] Commande /start
+[2025-07-03 20:38:59] Bot: Choisis une option pour continuer :
+[2025-07-03 20:39:02] Utilisateur: 🎯 Concours
+[2025-07-03 20:39:02] Bot: 🎯 Bienvenue dans la section *Concours* !
+Choisis un niveau pour consulter les matières 👇
+[2025-07-03 20:39:03] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-03 20:39:05] Utilisateur: BEPC.G
+[2025-07-03 20:39:25] Utilisateur: BEPC.G
+[2025-07-03 20:39:27] Utilisateur: ⬅️ Retour
+[2025-07-03 20:39:27] Commande /start
+[2025-07-03 20:39:27] Bot: Choisis une option pour continuer :
+[2025-07-04 08:21:50] Commande /start
+[2025-07-04 08:21:50] Bot: 🎉 Bon retour, Mes salutations !
+‎⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-04 08:21:51] Commande /start
+[2025-07-04 08:21:51] Bot: 🎉 Bon retour, Mes salutations !
+‎⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-04 08:22:06] Utilisateur: Informations
+[2025-07-04 08:22:06] Bot: 🎓 Bienvenue sur notre Bot de Formation !
+
+Notre bot intelligent (IA) a été conçu pour vous permettre de vous former gratuitement dans plusieurs domaines 📚🌐.
+
+📌 Notice d'utilisation :
+🔹 Dans l’option /espace, vous trouverez des extensions essentielles : Business, Actualités, Études, etc.
+🔹 Les options de niveau permettent de choisir votre classe ou série pour une formation adaptée 🏫.
+🔹 L’option Technique (F1, F3, Comptabilité...) sera bientôt disponible. Une notification vous sera envoyée.
+➡️ Certaines matières générales sont similaires aux techniques : les élèves techniques peuvent donc aussi suivre les formations BEPC et BAC.
+🔹 Les formations pour le niveau supérieur au BAC (concours) seront bientôt disponibles.
+🔹 À tout moment, vous pouvez quitter le bot ou revenir au menu principal avec les boutons prévus 🔙.
+
+📚 Contenu pédagogique :
+✅ Le bot propose des milliers de QCM par niveau avec correction et explication après chaque réponse 🧠✨.
+✅ La formation aux concours contient des questions aléatoires : culture générale, tests psychotechniques, matières scolaires, etc.
+✅ Le bot propose des exercices courts et des questions de révision 📝.
+➡️ Pour les sujets complets (examens, devoirs...), allez dans /espace pour accéder aux canaux.
+
+⚠️ Important :
+🚨 Le bot peut gérer des milliers d’utilisateurs en même temps. Pour une meilleure expérience, utilisez uniquement les boutons proposés.
+🎁 Le bot est 100% gratuit. N'hésitez pas à le partager autour de vous.
+💎 La formation est professionnelle, efficace et équivalente à une formation payante.
+
+⚖️ Droits et responsabilités :
+🚫 Interdiction de vendre, publier ou dupliquer le contenu ou les canaux du bot sans autorisation.
+👁️ Les conversations sont enregistrées. Chaque utilisateur est identifié dès sa première utilisation.
+
+👥 Droits de l’utilisateur :
+💬 Commenter dans le groupe (/espace)
+🤝 S’entraider entre utilisateurs
+📥 Publier et traiter les exercices proposés
+📩 Utiliser les contenus partagés par la communauté
+📤 Utiliser les contenus officiels (si autorisés)
+🗣 Recommander le bot ou ses canaux
+📬 Nous contacter
+
+🌍 Origine et objectifs :
+🇧🇫 Créé au Burkina Faso pour offrir une formation gratuite de qualité.
+📈 Objectif : proposer des formations, des idées d’entrepreneuriat, réduire le chômage et améliorer la réussite scolaire.
+🌍 Le bot intégrera bientôt d'autres pays et propose déjà une section internationale dans /espace.
+📱 Il sera bientôt disponible sur d’autres applications pour une meilleure accessibilité.
+
+📞 Contact :
+Telegram
+WhatsApp
+Instagram
+Mail
+Facebook
+TikTok
+YouTube
+📌 Merci de laisser un message complet avec l’objet de votre demande. Les messages non explicites (ex : « bonjour » seul) ne recevront pas de réponse.
+
+🆕 À venir :
+🚀 Compétitions entre amis
+🌍 Intégration de nouveaux pays
+🧪 Déploiement du niveau technique
+🎓 Formation concours supérieur au BAC
+♿️ Accessibilité pour malvoyants/malentendants
+🏆 Récompenses pour les meilleurs utilisateurs
+[2025-07-04 08:22:23] Utilisateur: Informations
+[2025-07-04 08:22:23] Bot: 🎓 Bienvenue sur notre Bot de Formation !
+
+Notre bot intelligent (IA) a été conçu pour vous permettre de vous former gratuitement dans plusieurs domaines 📚🌐.
+
+📌 Notice d'utilisation :
+🔹 Dans l’option /espace, vous trouverez des extensions essentielles : Business, Actualités, Études, etc.
+🔹 Les options de niveau permettent de choisir votre classe ou série pour une formation adaptée 🏫.
+🔹 L’option Technique (F1, F3, Comptabilité...) sera bientôt disponible. Une notification vous sera envoyée.
+➡️ Certaines matières générales sont similaires aux techniques : les élèves techniques peuvent donc aussi suivre les formations BEPC et BAC.
+🔹 Les formations pour le niveau supérieur au BAC (concours) seront bientôt disponibles.
+🔹 À tout moment, vous pouvez quitter le bot ou revenir au menu principal avec les boutons prévus 🔙.
+
+📚 Contenu pédagogique :
+✅ Le bot propose des milliers de QCM par niveau avec correction et explication après chaque réponse 🧠✨.
+✅ La formation aux concours contient des questions aléatoires : culture générale, tests psychotechniques, matières scolaires, etc.
+✅ Le bot propose des exercices courts et des questions de révision 📝.
+➡️ Pour les sujets complets (examens, devoirs...), allez dans /espace pour accéder aux canaux.
+
+⚠️ Important :
+🚨 Le bot peut gérer des milliers d’utilisateurs en même temps. Pour une meilleure expérience, utilisez uniquement les boutons proposés.
+🎁 Le bot est 100% gratuit. N'hésitez pas à le partager autour de vous.
+💎 La formation est professionnelle, efficace et équivalente à une formation payante.
+
+⚖️ Droits et responsabilités :
+🚫 Interdiction de vendre, publier ou dupliquer le contenu ou les canaux du bot sans autorisation.
+👁️ Les conversations sont enregistrées. Chaque utilisateur est identifié dès sa première utilisation.
+
+👥 Droits de l’utilisateur :
+💬 Commenter dans le groupe (/espace)
+🤝 S’entraider entre utilisateurs
+📥 Publier et traiter les exercices proposés
+📩 Utiliser les contenus partagés par la communauté
+📤 Utiliser les contenus officiels (si autorisés)
+🗣 Recommander le bot ou ses canaux
+📬 Nous contacter
+
+🌍 Origine et objectifs :
+🇧🇫 Créé au Burkina Faso pour offrir une formation gratuite de qualité.
+📈 Objectif : proposer des formations, des idées d’entrepreneuriat, réduire le chômage et améliorer la réussite scolaire.
+🌍 Le bot intégrera bientôt d'autres pays et propose déjà une section internationale dans /espace.
+📱 Il sera bientôt disponible sur d’autres applications pour une meilleure accessibilité.
+
+📞 Contact :
+Telegram
+WhatsApp
+Instagram
+Mail
+Facebook
+TikTok
+YouTube
+📌 Merci de laisser un message complet avec l’objet de votre demande. Les messages non explicites (ex : « bonjour » seul) ne recevront pas de réponse.
+
+🆕 À venir :
+🚀 Compétitions entre amis
+🌍 Intégration de nouveaux pays
+🧪 Déploiement du niveau technique
+🎓 Formation concours supérieur au BAC
+♿️ Accessibilité pour malvoyants/malentendants
+🏆 Récompenses pour les meilleurs utilisateurs
+[2025-07-04 08:22:42] Utilisateur: ⬅️ Retour
+[2025-07-04 08:22:42] Commande /start
+[2025-07-04 08:22:42] Bot: Choisis une option pour continuer :
+[2025-07-04 08:22:45] Utilisateur: Espace
+[2025-07-04 08:22:45] Bot: 😊 Bienvenue dans l'espace !
+
+L’espace est une fenêtre vers d’autres opportunités, entièrement gratuites.
+
+🔹 1️⃣ Canal des Opportunités :
+- 💼 Offres d'emploi
+- 💡 Idées business (avec ou sans fonds)
+- 🎓 Formations multiples
+- 🤝 Partenariats
+Rejoignez-nous en suivant ce lien :
+Lien :
+
+📚 2️⃣ Groupe Études :
+- 📝 Sujets de devoirs et d'examens
+- 🔒 Partage d'exercices bloqués et complexes par la communauté
+- 🤗 Assistance entre élèves
+- 💬 Conseils personnalisés
+- 📚 Devoirs, révisions et formations sur mesure
+- ✅ Corrections de tous les exercices partagés
+- 🗣️ Avis sur nos activités
+Rejoignez la communauté en suivant ce lien :
+Lien :
+
+📰 3️⃣ Canal Info & Actualités :
+- 🕒 Restez à jour sur les actualités
+- 📢 Accès aux informations importantes
+- ⏰ Rappels essentiels
+Rejoignez la communauté en suivant ce lien :
+Lien :
+
+🛒 4️⃣ Canal Activités :
+- 🎁 Dons de produits gratuits
+- 📦 Offres de produits
+- 🔄 Échanges de produits
+- 💰 Ventes de produits
+- 🛍️ Achats de produits
+- 🗑️ Vides greniers
+- 🏷️ Bonnes affaires
+Le message épinglé dans le canal vous donnera plus d'informations.
+Suivez le lien et intégrez :
+Lien :
+
+✨ D'autres offres et opportunités sont en cours de préparation. Chaque nouvelle option, opportunité ou information vous sera communiquée.
+
+🙏 Merci et nous vous souhaitons la meilleure expérience avec nous !
+[2025-07-04 08:22:46] Utilisateur: ⬅️ Retour
+[2025-07-04 08:22:46] Commande /start
+[2025-07-04 08:22:46] Bot: Choisis une option pour continuer :
+[2025-07-04 08:22:48] Utilisateur: BEPC
+[2025-07-04 08:22:48] Bot: ‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+[2025-07-04 08:22:48] Bot: Choisis une matière BEPC :
+[2025-07-04 08:23:00] Utilisateur: Mathématiques
+[2025-07-04 08:23:00] Bot: Combien font 12 + 8 ?
+[2025-07-04 08:23:07] Utilisateur: 20
+[2025-07-04 08:23:07] Bot: 🎉 Félicitations 🙂 c'est la bonne réponse !
+[2025-07-04 08:23:07] Bot: 👉 Une brève explication pour toi : 12 + 8 = 20.
+[2025-07-04 08:23:08] Bot: Quel est le carré de 5 ?
+[2025-07-04 08:23:14] Utilisateur: 15
+[2025-07-04 08:23:14] Bot: 🙂 Tu étais presque, hélas ce n’est pas la bonne réponse ❌.
+👉 La bonne réponse était : 25
+[2025-07-04 08:23:15] Bot: 👉 Une brève explication pour toi : 5 × 5 = 25.
+[2025-07-04 08:23:15] Bot: Quel est le carré de 5 ?
+[2025-07-04 08:23:25] Utilisateur: ⬅️ Retour
+[2025-07-04 08:23:25] Commande /start
+[2025-07-04 08:23:25] Bot: Choisis une option pour continuer :
+[2025-07-04 08:27:12] Commande /start
+[2025-07-04 08:27:12] Bot: 🎉 Bon retour, Mes salutations !
+‎⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-04 08:27:14] Utilisateur: Informations
+[2025-07-04 08:27:14] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-04 08:27:17] Utilisateur: Espace
+[2025-07-04 08:27:17] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-04 08:27:19] Utilisateur: BEPC
+[2025-07-04 08:27:19] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-04 08:27:24] Utilisateur: Bac A
+[2025-07-04 08:27:24] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-04 08:27:25] Utilisateur: Bac C
+[2025-07-04 08:27:25] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-04 08:27:29] Utilisateur: Concours
+[2025-07-04 08:27:29] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-04 08:27:29] Utilisateur: Technique
+[2025-07-04 08:27:29] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-04 08:27:31] Utilisateur: Quitter le bot
+[2025-07-04 08:27:31] Bot: ‎🙏Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.
+‎🔔 N’hésitez pas à revenir quand vous voulez.
+‎🍀 Bonne continuation, BarakaAdministrateur !
+[2025-07-04 08:33:42] Utilisateur: Démarrer
+[2025-07-04 08:33:42] Commande /start
+[2025-07-04 08:33:42] Bot: 🎉 Bon retour, Mes salutations !
+‎⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-04 08:33:46] Utilisateur: Informations
+[2025-07-04 08:33:46] Bot: 🎓 Bienvenue sur notre Bot de Formation !
+
+Notre bot intelligent (IA) a été conçu pour vous permettre de vous former gratuitement dans plusieurs domaines 📚🌐.
+
+📌 Notice d'utilisation :
+🔹 Dans l’option /espace, vous trouverez des extensions essentielles : Business, Actualités, Études, etc.
+🔹 Les options de niveau permettent de choisir votre classe ou série pour une formation adaptée 🏫.
+🔹 L’option Technique (F1, F3, Comptabilité...) sera bientôt disponible. Une notification vous sera envoyée.
+➡️ Certaines matières générales sont similaires aux techniques : les élèves techniques peuvent donc aussi suivre les formations BEPC et BAC.
+🔹 Les formations pour le niveau supérieur au BAC (concours) seront bientôt disponibles.
+🔹 À tout moment, vous pouvez quitter le bot ou revenir au menu principal avec les boutons prévus 🔙.
+
+📚 Contenu pédagogique :
+✅ Le bot propose des milliers de QCM par niveau avec correction et explication après chaque réponse 🧠✨.
+✅ La formation aux concours contient des questions aléatoires : culture générale, tests psychotechniques, matières scolaires, etc.
+✅ Le bot propose des exercices courts et des questions de révision 📝.
+➡️ Pour les sujets complets (examens, devoirs...), allez dans /espace pour accéder aux canaux.
+
+⚠️ Important :
+🚨 Le bot peut gérer des milliers d’utilisateurs en même temps. Pour une meilleure expérience, utilisez uniquement les boutons proposés.
+🎁 Le bot est 100% gratuit. N'hésitez pas à le partager autour de vous.
+💎 La formation est professionnelle, efficace et équivalente à une formation payante.
+
+⚖️ Droits et responsabilités :
+🚫 Interdiction de vendre, publier ou dupliquer le contenu ou les canaux du bot sans autorisation.
+👁️ Les conversations sont enregistrées. Chaque utilisateur est identifié dès sa première utilisation.
+
+👥 Droits de l’utilisateur :
+💬 Commenter dans le groupe (/espace)
+🤝 S’entraider entre utilisateurs
+📥 Publier et traiter les exercices proposés
+📩 Utiliser les contenus partagés par la communauté
+📤 Utiliser les contenus officiels (si autorisés)
+🗣 Recommander le bot ou ses canaux
+📬 Nous contacter
+
+🌍 Origine et objectifs :
+🇧🇫 Créé au Burkina Faso pour offrir une formation gratuite de qualité.
+📈 Objectif : proposer des formations, des idées d’entrepreneuriat, réduire le chômage et améliorer la réussite scolaire.
+🌍 Le bot intégrera bientôt d'autres pays et propose déjà une section internationale dans /espace.
+📱 Il sera bientôt disponible sur d’autres applications pour une meilleure accessibilité.
+
+📞 Contact :
+Telegram
+WhatsApp
+Instagram
+Mail
+Facebook
+TikTok
+YouTube
+📌 Merci de laisser un message complet avec l’objet de votre demande. Les messages non explicites (ex : « bonjour » seul) ne recevront pas de réponse.
+
+🆕 À venir :
+🚀 Compétitions entre amis
+🌍 Intégration de nouveaux pays
+🧪 Déploiement du niveau technique
+🎓 Formation concours supérieur au BAC
+♿️ Accessibilité pour malvoyants/malentendants
+🏆 Récompenses pour les meilleurs utilisateurs
+[2025-07-04 08:33:47] Utilisateur: ⬅️ Retour
+[2025-07-04 08:33:47] Commande /start
+[2025-07-04 08:33:47] Bot: Choisis une option pour continuer :
+[2025-07-04 08:33:49] Utilisateur: Espace
+[2025-07-04 08:33:49] Bot: 😊 Bienvenue dans l'espace !
+
+L’espace est une fenêtre vers d’autres opportunités, entièrement gratuites.
+
+🔹 1️⃣ Canal des Opportunités :
+- 💼 Offres d'emploi
+- 💡 Idées business (avec ou sans fonds)
+- 🎓 Formations multiples
+- 🤝 Partenariats
+Rejoignez-nous en suivant ce lien :
+Lien :
+
+📚 2️⃣ Groupe Études :
+- 📝 Sujets de devoirs et d'examens
+- 🔒 Partage d'exercices bloqués et complexes par la communauté
+- 🤗 Assistance entre élèves
+- 💬 Conseils personnalisés
+- 📚 Devoirs, révisions et formations sur mesure
+- ✅ Corrections de tous les exercices partagés
+- 🗣️ Avis sur nos activités
+Rejoignez la communauté en suivant ce lien :
+Lien :
+
+📰 3️⃣ Canal Info & Actualités :
+- 🕒 Restez à jour sur les actualités
+- 📢 Accès aux informations importantes
+- ⏰ Rappels essentiels
+Rejoignez la communauté en suivant ce lien :
+Lien :
+
+🛒 4️⃣ Canal Activités :
+- 🎁 Dons de produits gratuits
+- 📦 Offres de produits
+- 🔄 Échanges de produits
+- 💰 Ventes de produits
+- 🛍️ Achats de produits
+- 🗑️ Vides greniers
+- 🏷️ Bonnes affaires
+Le message épinglé dans le canal vous donnera plus d'informations.
+Suivez le lien et intégrez :
+Lien :
+
+✨ D'autres offres et opportunités sont en cours de préparation. Chaque nouvelle option, opportunité ou information vous sera communiquée.
+
+🙏 Merci et nous vous souhaitons la meilleure expérience avec nous !
+[2025-07-04 08:33:50] Utilisateur: ⬅️ Retour
+[2025-07-04 08:33:50] Commande /start
+[2025-07-04 08:33:50] Bot: Choisis une option pour continuer :
+[2025-07-04 08:33:52] Utilisateur: BEPC
+[2025-07-04 08:33:52] Bot: ‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+[2025-07-04 08:33:52] Bot: Choisis une matière BEPC :
+[2025-07-04 08:33:55] Utilisateur: Mathématiques
+[2025-07-04 08:33:55] Bot: Combien font 12 + 8 ?
+[2025-07-04 08:33:57] Utilisateur: 20
+[2025-07-04 08:33:57] Bot: 🌟 Excellente réponse, continue comme ça !
+[2025-07-04 08:33:57] Bot: 👉 Une brève explication pour toi : 12 + 8 = 20.
+[2025-07-04 08:33:58] Bot: Quel est le carré de 5 ?
+[2025-07-04 08:34:02] Utilisateur: 25
+[2025-07-04 08:34:02] Bot: 👏 Bravo, c’est exactement ça !
+[2025-07-04 08:34:02] Bot: 👉 Une brève explication pour toi : 5 × 5 = 25.
+[2025-07-04 08:34:02] Bot: Quel est le carré de 5 ?
+[2025-07-04 08:34:05] Utilisateur: 25
+[2025-07-04 08:34:05] Bot: 🌟 Excellente réponse, continue comme ça !
+[2025-07-04 08:34:06] Bot: 👉 Une brève explication pour toi : 5 × 5 = 25.
+[2025-07-04 08:34:06] Bot: Quel est le carré de 5 ?
+[2025-07-04 08:34:09] Utilisateur: 25
+[2025-07-04 08:34:09] Bot: 🎉 Félicitations 🙂 c'est la bonne réponse !
+[2025-07-04 08:34:09] Bot: 👉 Une brève explication pour toi : 5 × 5 = 25.
+[2025-07-04 08:34:10] Bot: Combien font 12 + 8 ?
+[2025-07-04 08:34:18] Utilisateur: 20
+[2025-07-04 08:34:18] Bot: 🎯 Tu as visé juste, bien joué !
+[2025-07-04 08:34:19] Bot: 👉 Une brève explication pour toi : 12 + 8 = 20.
+[2025-07-04 08:34:19] Bot: Combien font 12 + 8 ?
+[2025-07-04 08:34:24] Utilisateur: ⬅️ Retour
+[2025-07-04 08:34:24] Commande /start
+[2025-07-04 08:34:24] Bot: Choisis une option pour continuer :
+[2025-07-04 08:34:33] Utilisateur: Concours
+[2025-07-04 08:34:33] Bot: 🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.
+‎🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.! 
+Choisis un niveau pour consulter les matières 👇
+[2025-07-04 08:34:35] Bot: 🏆 Choisis un concours à préparer :
+[2025-07-04 08:34:39] Utilisateur: CEP
+[2025-07-04 08:34:39] Bot: Combien font 7 + 5 ?
+[2025-07-04 08:34:41] Utilisateur: 12
+[2025-07-04 08:34:41] Bot: ✅ Bonne réponse, tu gères ça !
+[2025-07-04 08:34:42] Bot: 👉 Une brève explication pour toi : 7 + 5 = 12.
+[2025-07-04 08:34:43] Bot: Combien y a-t-il de pieds dans un mètre ?
+[2025-07-04 08:34:47] Utilisateur: ⬅️ Retour
+[2025-07-04 08:34:47] Commande /start
+[2025-07-04 08:34:47] Bot: Choisis une option pour continuer :
+[2025-07-04 08:34:51] Utilisateur: Technique
+[2025-07-04 08:34:51] Bot: 🔧 Option Technique bientôt disponible...
+[2025-07-04 08:34:53] Utilisateur: ⬅️ Retour
+[2025-07-04 08:34:53] Commande /start
+[2025-07-04 08:34:53] Bot: Choisis une option pour continuer :
+[2025-07-04 08:34:56] Utilisateur: Quitter le bot
+[2025-07-04 08:34:56] Bot: ‎🙏Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.
+‎🔔 N’hésitez pas à revenir quand vous voulez.
+‎🍀 Bonne continuation, BarakaAdministrateur !
+[2025-07-04 08:35:25] Bot: Message envoyé avec succes à 1 utilisateur(s).
+[2025-07-04 08:35:46] Bot: 👥 Utilisateurs :
+
+ID: 6227031560
+Nom: BarakaAdministrateur
+Username: @BarakaAdministrateur
+
+
+[2025-07-04 08:36:35] Utilisateur: Démarrer
+[2025-07-04 08:36:35] Commande /start
+[2025-07-04 08:36:35] Bot: 🎉 Bon retour, Mes salutations !
+‎⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-04 08:40:51] Utilisateur: Quitter le bot
+[2025-07-04 08:40:51] Bot: ‎🙏Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.
+‎🔔 N’hésitez pas à revenir quand vous voulez.
+‎🍀 Bonne continuation, BarakaAdministrateur !
+[2025-07-04 08:40:52] Utilisateur: Démarrer
+[2025-07-04 08:40:52] Commande /start
+[2025-07-04 08:40:52] Bot: 🎉 Bon retour, Mes salutations !
+‎⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-04 08:40:54] Utilisateur: BEPC
+[2025-07-04 08:40:54] Bot: ‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+[2025-07-04 08:40:54] Bot: Choisis une matière BEPC :
+[2025-07-04 08:40:56] Utilisateur: Français
+[2025-07-04 08:40:56] Bot: Quel est le résultat de 25 ÷ 5 ?
+[2025-07-04 08:40:59] Utilisateur: 5
+[2025-07-04 08:40:59] Bot: 👏 Bravo, c’est exactement ça !
+[2025-07-04 08:41:00] Bot: 👉 Une brève explication pour toi : 25 divisé par 5 donne 5.
+[2025-07-04 08:41:00] Bot: En quelle année a eu lieu la révolution française ?
+[2025-07-04 08:41:05] Utilisateur: ⬅️ Retour
+[2025-07-04 08:41:05] Commande /start
+[2025-07-04 08:41:05] Bot: Choisis une option pour continuer :
+[2025-07-04 08:41:19] Utilisateur: Quitter le bot
+[2025-07-04 08:41:19] Bot: ‎🙏Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.
+‎🔔 N’hésitez pas à revenir quand vous voulez.
+‎🍀 Bonne continuation, BarakaAdministrateur !
+[2025-07-04 08:42:25] Utilisateur: Démarrer
+[2025-07-04 08:42:25] Commande /start
+[2025-07-04 08:42:25] Bot: 🎉 Bon retour, Mes salutations !
+‎⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-04 08:42:27] Utilisateur: Bac A
+[2025-07-04 08:42:27] Bot: 📘 Tu as choisi la section BAC A. ‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen. :
+[2025-07-04 08:42:27] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-04 08:42:30] Utilisateur: Français🎉
+[2025-07-04 08:42:30] Bot: Quelle est la capitale du Burkina Faso ?
+[2025-07-04 08:42:42] Utilisateur: Ouagadougou
+[2025-07-04 08:42:42] Bot: 🎉 Félicitations 🙂 c'est la bonne réponse !
+[2025-07-04 08:42:43] Bot: 👉 Une brève explication pour toi : Ouagadougou est la capitale politique et administrative du Burkina Faso.
+[2025-07-04 08:42:43] Bot: Quel est l’animal emblématique souvent associé au Burkina Faso ?
+[2025-07-04 08:42:50] Utilisateur: Lion
+[2025-07-04 08:42:50] Bot: 😕 Oups, ce n’est pas la bonne réponse ❌.
+👉 La bonne réponse était : Éléphant
+[2025-07-04 08:42:52] Bot: 👉 Une brève explication pour toi : L'éléphant est un symbole important dans la culture burkinabè.
+[2025-07-04 08:42:52] Bot: Quel est le résultat de 5 + 7 ?
+[2025-07-04 08:42:55] Utilisateur: 11
+[2025-07-04 08:42:55] Bot: ❌ Raté cette fois ! La bonne réponse était : 12
+[2025-07-04 08:42:56] Bot: 👉 Une brève explication pour toi : 5 + 7 = 12.
+[2025-07-04 08:42:56] Bot: Quel est l’animal emblématique souvent associé au Burkina Faso ?
+[2025-07-04 08:44:20] Utilisateur: ⬅️ Retour
+[2025-07-04 08:44:20] Commande /start
+[2025-07-04 08:44:20] Bot: Choisis une option pour continuer :
+[2025-07-04 08:44:26] Utilisateur: Quitter le bot
+[2025-07-04 08:44:26] Bot: ‎🙏Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.
+‎🔔 N’hésitez pas à revenir quand vous voulez.
+‎🍀 Bonne continuation, BarakaAdministrateur !
+[2025-07-04 08:44:28] Utilisateur: Démarrer
+[2025-07-04 08:44:28] Commande /start
+[2025-07-04 08:44:28] Bot: 🎉 Bon retour, Mes salutations !
+‎⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-04 08:44:32] Utilisateur: Bac D
+[2025-07-04 08:44:32] Bot: 🔬 Tu es dans la section BAC D. ‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen. :
+[2025-07-04 08:44:32] Bot: 📚 Bienvenue dans les matières du Bac D. Sélectionne une matière pour débuter ta préparation :
+[2025-07-04 08:44:37] Utilisateur: ⬅️ Retour
+[2025-07-04 08:44:37] Commande /start
+[2025-07-04 08:44:37] Bot: Choisis une option pour continuer :
+[2025-07-04 08:44:40] Utilisateur: Bac A
+[2025-07-04 08:44:40] Bot: 📘 Tu as choisi la section BAC A. ‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen. :
+[2025-07-04 08:44:40] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-04 08:44:44] Utilisateur: ⬅️ Retour
+[2025-07-04 08:44:44] Commande /start
+[2025-07-04 08:44:44] Bot: Choisis une option pour continuer :

@@ -1,0 +1,22 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le résultat de 25 ÷ 5 ?",
+      "options": ["4", "5", "6", "7"],
+      "reponse": "5",
+      "explication": "25 divisé par 5 donne 5."
+    },
+    {
+      "question": "En quelle année a eu lieu la révolution française ?",
+      "options": ["1789", "1914", "1492", "1804"],
+      "reponse": "1789",
+      "explication": "La Révolution française a commencé en 1789."
+    },
+    {
+      "question": "Quel organe permet la respiration chez l'homme ?",
+      "options": ["Le cœur", "Le foie", "Les poumons", "Les reins"],
+      "reponse": "Les poumons",
+      "explication": "Les poumons assurent les échanges gazeux nécessaires à la respiration."
+    }
+  ]
+}

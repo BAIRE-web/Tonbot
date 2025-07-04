@@ -1,0 +1,4 @@
+{
+  "message": "Choisis une matière BEPC :",
+  "matieres": ["Mathématiques", "Français", "Histoire", "Géographie", "Physique", "Chimie", "SVT", "Anglais"]
+}
