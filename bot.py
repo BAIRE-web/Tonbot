@@ -3,7 +3,10 @@ import os
 import unicodedata
 import random
 import re
+import threading
 from datetime import datetime
+from http.server import BaseHTTPRequestHandler, HTTPServer
+
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import (
     ApplicationBuilder,
@@ -24,23 +27,25 @@ BOT_TOKEN = "8033893954:AAF1_CkE0ivqywZuuMeP3nbTZjrE-fM-ZKc"
 if not os.path.exists("logs"):
     os.makedirs("logs")
 
+
 def enlever_emojis(text):
     emoji_pattern = re.compile(
-        "[" 
-        "\U0001F600-\U0001F64F"  # emoticônes
-        "\U0001F300-\U0001F5FF"  # symboles et pictogrammes
-        "\U0001F680-\U0001F6FF"  # transport et symboles
-        "\U0001F1E0-\U0001F1FF"  # drapeaux (lettres régionales)
-        "\U00002700-\U000027BF"  # divers symboles
+        "[" "\U0001F600-\U0001F64F"
+        "\U0001F300-\U0001F5FF"
+        "\U0001F680-\U0001F6FF"
+        "\U0001F1E0-\U0001F1FF"
+        "\U00002700-\U000027BF"
         "\U000024C2-\U0001F251"
         "]+", flags=re.UNICODE)
     return emoji_pattern.sub(r'', text)
+
 
 def log_message(user_id, message):
     chemin = os.path.join("logs", f"{user_id}.txt")
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(chemin, "a", encoding="utf-8") as f:
         f.write(f"[{now}] {message}\n")
+
 
 def increment_stat(cle):
     chemin = "stats.json"
@@ -52,9 +57,11 @@ def increment_stat(cle):
     with open(chemin, "w", encoding="utf-8") as f:
         json.dump(stats, f, ensure_ascii=False, indent=2)
 
+
 def normaliser_nom(nom):
     nom = unicodedata.normalize("NFD", nom).encode("ascii", "ignore").decode("utf-8")
     return nom.lower().replace(" ", "_")
+
 
 def charger_json(fichier):
     chemin = os.path.join(DATA_DIR, fichier)
@@ -62,6 +69,7 @@ def charger_json(fichier):
         with open(chemin, "r", encoding="utf-8") as f:
             return json.load(f)
     return {}
+
 
 def sauvegarder_utilisateur(user):
     chemin = os.path.join(DATA_DIR, "users.json")
@@ -82,13 +90,16 @@ def sauvegarder_utilisateur(user):
     with open(chemin, "w", encoding="utf-8") as f:
         json.dump(users, f, ensure_ascii=False, indent=2)
 
+
 def generer_clavier(options):
     return ReplyKeyboardMarkup([[opt] for opt in options], resize_keyboard=True)
+
 
 async def repondre(update: Update, message: str, clavier=None):
     user_id = update.effective_user.id
     log_message(user_id, f"Bot: {message}")
     await update.message.reply_text(message, reply_markup=clavier)
+
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE, message_personnalise=True):
     user = update.effective_user
@@ -103,13 +114,13 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE, message_pers
 
     if not deja_accueilli:
         nom = user.first_name or user.full_name or "cher utilisateur"
-        msg = f"‎✨ Mes salutations {nom} !\nBienvenue sur notre bot éducatif. Chaque option vous conduit à une suite personnalisée.\n‎↩️ Pour revenir au menu principal ou quitter une formation, utilisez simplement le bouton « Retour ».\n\nChoisis une option :"
+        msg = f"✨ Mes salutations {nom} !\nBienvenue sur notre bot éducatif. Chaque option vous conduit à une suite personnalisée.\n↩️ Pour revenir au menu principal ou quitter une formation, utilisez simplement le bouton « Retour ».\n\nChoisis une option :"
         users[user_id]["bienvenue"] = True
         with open(chemin, "w", encoding="utf-8") as f:
             json.dump(users, f, ensure_ascii=False, indent=2)
     else:
         if message_personnalise:
-            msg = "🎉 Bon retour, Mes salutations !\n‎⚡ Prêt(e) pour une nouvelle expérience ? \n\nChoisis une option :"
+            msg = "🎉 Bon retour, Mes salutations !\n⚡ Prêt(e) pour une nouvelle expérience ? \n\nChoisis une option :"
         else:
             msg = "Choisis une option pour continuer :"
 
@@ -121,6 +132,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE, message_pers
             "Informations", "Espace", "BEPC", "Bac A", "Bac C", "Bac D", "Concours", "Technique", "Quitter le bot"
         ])
     )
+
 
 async def broadcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if update.effective_user.id != ADMIN_USER_ID:
@@ -145,6 +157,7 @@ async def broadcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
             pass
     await repondre(update, f"Message envoyé avec succes à {count} utilisateur(s).")
 
+
 async def listusers(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if update.effective_user.id != ADMIN_USER_ID:
         await repondre(update, "Fonction non reconnue, merci de faire un choix valide.")
@@ -159,6 +172,7 @@ async def listusers(update: Update, context: ContextTypes.DEFAULT_TYPE):
     for uid, info in users.items():
         msg += f"ID: {uid}\nNom: {info.get('nom','')}\nUsername: @{info.get('username','')}\n\n"
     await repondre(update, msg[:4000])
+
 
 async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.effective_user
@@ -230,7 +244,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     if texte == "Quitter le bot":
         nom = user.first_name or user.full_name or "cher utilisateur"
-        msg = f"‎🙏Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.\n‎🔔 N’hésitez pas à revenir quand vous voulez.\n‎🍀 Bonne continuation, {nom} !"
+        msg = f"🙏Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.\n🔔 N’hésitez pas à revenir quand vous voulez.\n🍀 Bonne continuation, {nom} !"
         await repondre(update, msg, generer_clavier(["Démarrer"]))
         user_states.pop(user_id, None)
         user_progress.pop(user_id, None)
@@ -277,14 +291,15 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         increment_stat(f"section_{texte_normalise}")
 
         intro_messages = {
-            "concours": "🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.\n‎🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.! \nChoisis un niveau pour consulter les matières 👇",
-            "bepc": "‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.\n‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.",
-            "bac a": "📘 Tu as choisi la section BAC A. ‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.\n‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen. :",
-            "bac c": "🧪 Bienvenue en BAC C. ‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.\n‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen. :",
-            "bac d": "🔬 Tu es dans la section BAC D. ‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.\n‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen. :",
+            "concours": "🎯 📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.\n🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.! \nChoisis un niveau pour consulter les matières 👇",
+            "bepc": "📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.\n🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.",
+            "bac a": "📘 Tu as choisi la section BAC A. 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.\n🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen. :",
+            "bac c": "🧪 Bienvenue en BAC C. 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.\n🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen. :",
+            "bac d": "🔬 Tu es dans la section BAC D. 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.\n🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen. :",
         }
         if texte_normalise in intro_messages:
             await repondre(update, intro_messages[texte_normalise])
+
         await repondre(update, msg, generer_clavier(matieres + ["⬅️ Retour"]))
         return
 
@@ -305,10 +320,33 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await repondre(update, "Option non reconnue. Tape /start pour recommencer.")
 
-def main():
+
+def lancer_bot():
     app = ApplicationBuilder().token(BOT_TOKEN).build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("broadcast", broadcast))
     app.add_handler(CommandHandler("listusers", listusers))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
     app.run_polling()
+
+
+# === Ajout du serveur HTTP pour Render ===
+def lancer_http():
+    class Handler(BaseHTTPRequestHandler):
+        def do_GET(self):
+            self.send_response(200)
+            self.end_headers()
+            self.wfile.write(b"Bot Telegram actif.")
+
+    port = int(os.environ.get("PORT", 10000))
+server = HTTPServer(("0.0.0.0", port), Handler)
+
+
+# === Lancement en parallèle ===
+if __name__ == "__main__":
+    if os.environ.get("RENDER", "") == "true":
+        threading.Thread(target=lancer_bot).start()
+        threading.Thread(target=lancer_http).start()
+    else:
+        threading.Thread(target=lancer_http).start()
+        lancer_bot()
