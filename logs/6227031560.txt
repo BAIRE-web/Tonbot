@@ -2371,3 +2371,256 @@ Choisis une option :
 [2025-07-04 08:44:44] Utilisateur: ⬅️ Retour
 [2025-07-04 08:44:44] Commande /start
 [2025-07-04 08:44:44] Bot: Choisis une option pour continuer :
+[2025-07-05 10:05:55] Utilisateur: Français
+[2025-07-05 10:05:55] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-05 10:05:55] Utilisateur: Anglais
+[2025-07-05 10:05:55] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-05 10:05:55] Utilisateur: ⬅️ Retour
+[2025-07-05 10:05:55] Commande /start
+[2025-07-05 10:05:55] Bot: Choisis une option pour continuer :
+[2025-07-05 10:05:56] Utilisateur: ⬅️ Retour
+[2025-07-05 10:05:56] Commande /start
+[2025-07-05 10:05:56] Bot: Choisis une option pour continuer :
+[2025-07-05 10:05:56] Utilisateur: ⬅️ Retour
+[2025-07-05 10:05:56] Commande /start
+[2025-07-05 10:05:56] Bot: Choisis une option pour continuer :
+[2025-07-05 10:05:56] Commande /start
+[2025-07-05 10:05:56] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-05 10:05:56] Commande /start
+[2025-07-05 10:05:56] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-05 10:05:57] Commande /start
+[2025-07-05 10:05:57] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-05 10:05:57] Commande /start
+[2025-07-05 10:05:57] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-05 10:05:57] Commande /start
+[2025-07-05 10:05:57] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-05 10:05:57] Commande /start
+[2025-07-05 10:05:57] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-05 10:05:57] Commande /start
+[2025-07-05 10:05:57] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-05 10:06:08] Utilisateur: Informations
+[2025-07-05 10:06:08] Bot: 🎓 Bienvenue sur notre Bot de Formation !
+
+Notre bot intelligent (IA) a été conçu pour vous permettre de vous former gratuitement dans plusieurs domaines 📚🌐.
+
+📌 Notice d'utilisation :
+🔹 Dans l’option /espace, vous trouverez des extensions essentielles : Business, Actualités, Études, etc.
+🔹 Les options de niveau permettent de choisir votre classe ou série pour une formation adaptée 🏫.
+🔹 L’option Technique (F1, F3, Comptabilité...) sera bientôt disponible. Une notification vous sera envoyée.
+➡️ Certaines matières générales sont similaires aux techniques : les élèves techniques peuvent donc aussi suivre les formations BEPC et BAC.
+🔹 Les formations pour le niveau supérieur au BAC (concours) seront bientôt disponibles.
+🔹 À tout moment, vous pouvez quitter le bot ou revenir au menu principal avec les boutons prévus 🔙.
+
+📚 Contenu pédagogique :
+✅ Le bot propose des milliers de QCM par niveau avec correction et explication après chaque réponse 🧠✨.
+✅ La formation aux concours contient des questions aléatoires : culture générale, tests psychotechniques, matières scolaires, etc.
+✅ Le bot propose des exercices courts et des questions de révision 📝.
+➡️ Pour les sujets complets (examens, devoirs...), allez dans /espace pour accéder aux canaux.
+
+⚠️ Important :
+🚨 Le bot peut gérer des milliers d’utilisateurs en même temps. Pour une meilleure expérience, utilisez uniquement les boutons proposés.
+🎁 Le bot est 100% gratuit. N'hésitez pas à le partager autour de vous.
+💎 La formation est professionnelle, efficace et équivalente à une formation payante.
+
+⚖️ Droits et responsabilités :
+🚫 Interdiction de vendre, publier ou dupliquer le contenu ou les canaux du bot sans autorisation.
+👁️ Les conversations sont enregistrées. Chaque utilisateur est identifié dès sa première utilisation.
+
+👥 Droits de l’utilisateur :
+💬 Commenter dans le groupe (/espace)
+🤝 S’entraider entre utilisateurs
+📥 Publier et traiter les exercices proposés
+📩 Utiliser les contenus partagés par la communauté
+📤 Utiliser les contenus officiels (si autorisés)
+🗣 Recommander le bot ou ses canaux
+📬 Nous contacter
+
+🌍 Origine et objectifs :
+🇧🇫 Créé au Burkina Faso pour offrir une formation gratuite de qualité.
+📈 Objectif : proposer des formations, des idées d’entrepreneuriat, réduire le chômage et améliorer la réussite scolaire.
+🌍 Le bot intégrera bientôt d'autres pays et propose déjà une section internationale dans /espace.
+📱 Il sera bientôt disponible sur d’autres applications pour une meilleure accessibilité.
+
+📞 Contact :
+Telegram
+WhatsApp
+Instagram
+Mail
+Facebook
+TikTok
+YouTube
+📌 Merci de laisser un message complet avec l’objet de votre demande. Les messages non explicites (ex : « bonjour » seul) ne recevront pas de réponse.
+
+🆕 À venir :
+🚀 Compétitions entre amis
+🌍 Intégration de nouveaux pays
+🧪 Déploiement du niveau technique
+🎓 Formation concours supérieur au BAC
+♿️ Accessibilité pour malvoyants/malentendants
+🏆 Récompenses pour les meilleurs utilisateurs
+[2025-07-05 10:08:32] Utilisateur: Espace
+[2025-07-05 10:08:32] Bot: 😊 Bienvenue dans l'espace !
+
+L’espace est une fenêtre vers d’autres opportunités, entièrement gratuites.
+
+🔹 1️⃣ Canal des Opportunités :
+- 💼 Offres d'emploi
+- 💡 Idées business (avec ou sans fonds)
+- 🎓 Formations multiples
+- 🤝 Partenariats
+Rejoignez-nous en suivant ce lien :
+Lien :
+
+📚 2️⃣ Groupe Études :
+- 📝 Sujets de devoirs et d'examens
+- 🔒 Partage d'exercices bloqués et complexes par la communauté
+- 🤗 Assistance entre élèves
+- 💬 Conseils personnalisés
+- 📚 Devoirs, révisions et formations sur mesure
+- ✅ Corrections de tous les exercices partagés
+- 🗣️ Avis sur nos activités
+Rejoignez la communauté en suivant ce lien :
+Lien :
+
+📰 3️⃣ Canal Info & Actualités :
+- 🕒 Restez à jour sur les actualités
+- 📢 Accès aux informations importantes
+- ⏰ Rappels essentiels
+Rejoignez la communauté en suivant ce lien :
+Lien :
+
+🛒 4️⃣ Canal Activités :
+- 🎁 Dons de produits gratuits
+- 📦 Offres de produits
+- 🔄 Échanges de produits
+- 💰 Ventes de produits
+- 🛍️ Achats de produits
+- 🗑️ Vides greniers
+- 🏷️ Bonnes affaires
+Le message épinglé dans le canal vous donnera plus d'informations.
+Suivez le lien et intégrez :
+Lien :
+
+✨ D'autres offres et opportunités sont en cours de préparation. Chaque nouvelle option, opportunité ou information vous sera communiquée.
+
+🙏 Merci et nous vous souhaitons la meilleure expérience avec nous !
+[2025-07-05 10:08:32] Utilisateur: BEPC
+[2025-07-05 10:08:32] Bot: 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+[2025-07-05 10:08:32] Bot: Choisis une matière BEPC :
+[2025-07-05 10:08:32] Utilisateur: Informations
+[2025-07-05 10:08:32] Bot: 🎓 Bienvenue sur notre Bot de Formation !
+
+Notre bot intelligent (IA) a été conçu pour vous permettre de vous former gratuitement dans plusieurs domaines 📚🌐.
+
+📌 Notice d'utilisation :
+🔹 Dans l’option /espace, vous trouverez des extensions essentielles : Business, Actualités, Études, etc.
+🔹 Les options de niveau permettent de choisir votre classe ou série pour une formation adaptée 🏫.
+🔹 L’option Technique (F1, F3, Comptabilité...) sera bientôt disponible. Une notification vous sera envoyée.
+➡️ Certaines matières générales sont similaires aux techniques : les élèves techniques peuvent donc aussi suivre les formations BEPC et BAC.
+🔹 Les formations pour le niveau supérieur au BAC (concours) seront bientôt disponibles.
+🔹 À tout moment, vous pouvez quitter le bot ou revenir au menu principal avec les boutons prévus 🔙.
+
+📚 Contenu pédagogique :
+✅ Le bot propose des milliers de QCM par niveau avec correction et explication après chaque réponse 🧠✨.
+✅ La formation aux concours contient des questions aléatoires : culture générale, tests psychotechniques, matières scolaires, etc.
+✅ Le bot propose des exercices courts et des questions de révision 📝.
+➡️ Pour les sujets complets (examens, devoirs...), allez dans /espace pour accéder aux canaux.
+
+⚠️ Important :
+🚨 Le bot peut gérer des milliers d’utilisateurs en même temps. Pour une meilleure expérience, utilisez uniquement les boutons proposés.
+🎁 Le bot est 100% gratuit. N'hésitez pas à le partager autour de vous.
+💎 La formation est professionnelle, efficace et équivalente à une formation payante.
+
+⚖️ Droits et responsabilités :
+🚫 Interdiction de vendre, publier ou dupliquer le contenu ou les canaux du bot sans autorisation.
+👁️ Les conversations sont enregistrées. Chaque utilisateur est identifié dès sa première utilisation.
+
+👥 Droits de l’utilisateur :
+💬 Commenter dans le groupe (/espace)
+🤝 S’entraider entre utilisateurs
+📥 Publier et traiter les exercices proposés
+📩 Utiliser les contenus partagés par la communauté
+📤 Utiliser les contenus officiels (si autorisés)
+🗣 Recommander le bot ou ses canaux
+📬 Nous contacter
+
+🌍 Origine et objectifs :
+🇧🇫 Créé au Burkina Faso pour offrir une formation gratuite de qualité.
+📈 Objectif : proposer des formations, des idées d’entrepreneuriat, réduire le chômage et améliorer la réussite scolaire.
+🌍 Le bot intégrera bientôt d'autres pays et propose déjà une section internationale dans /espace.
+📱 Il sera bientôt disponible sur d’autres applications pour une meilleure accessibilité.
+
+📞 Contact :
+Telegram
+WhatsApp
+Instagram
+Mail
+Facebook
+TikTok
+YouTube
+📌 Merci de laisser un message complet avec l’objet de votre demande. Les messages non explicites (ex : « bonjour » seul) ne recevront pas de réponse.
+
+🆕 À venir :
+🚀 Compétitions entre amis
+🌍 Intégration de nouveaux pays
+🧪 Déploiement du niveau technique
+🎓 Formation concours supérieur au BAC
+♿️ Accessibilité pour malvoyants/malentendants
+🏆 Récompenses pour les meilleurs utilisateurs
+[2025-07-05 10:08:34] Utilisateur: ⬅️ Retour
+[2025-07-05 10:08:34] Commande /start
+[2025-07-05 10:08:34] Bot: Choisis une option pour continuer :
+[2025-07-05 10:08:36] Utilisateur: BEPC
+[2025-07-05 10:08:36] Bot: 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+[2025-07-05 10:08:36] Bot: Choisis une matière BEPC :
+[2025-07-05 10:08:36] Utilisateur: BEPC
+[2025-07-05 10:08:36] Bot: 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+[2025-07-05 10:08:36] Bot: Choisis une matière BEPC :
+[2025-07-05 10:08:38] Utilisateur: Mathématiques
+[2025-07-05 10:08:38] Bot: Combien font 12 + 8 ?
+[2025-07-05 10:08:40] Utilisateur: 18
+[2025-07-05 10:08:41] Bot: ❌ Raté cette fois ! La bonne réponse était : 20
+[2025-07-05 10:08:41] Bot: 👉 Une brève explication pour toi : 12 + 8 = 20.
+[2025-07-05 10:08:41] Bot: Quel est le carré de 5 ?
+[2025-07-05 10:08:45] Utilisateur: ⬅️ Retour
+[2025-07-05 10:08:45] Commande /start
+[2025-07-05 10:08:45] Bot: Choisis une option pour continuer :
+[2025-07-05 10:08:49] Utilisateur: Quitter le bot
+[2025-07-05 10:08:49] Bot: 🙏Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.
+🔔 N’hésitez pas à revenir quand vous voulez.
+🍀 Bonne continuation, BarakaAdministrateur !
+[2025-07-05 10:08:52] Utilisateur: Démarrer
+[2025-07-05 10:08:52] Commande /start
+[2025-07-05 10:08:52] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-05 10:08:54] Utilisateur: Technique
+[2025-07-05 10:08:54] Bot: 🔧 Option Technique bientôt disponible...
+[2025-07-05 10:08:56] Utilisateur: ⬅️ Retour
+[2025-07-05 10:08:56] Commande /start
+[2025-07-05 10:08:56] Bot: Choisis une option pour continuer :
