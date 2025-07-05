@@ -16,3 +16,5 @@ if __name__ == "__main__":
     main()
 import sys
 print("Python version:", sys.version)
+import sys
+print("✅ Version Python utilisée :", sys.version)
