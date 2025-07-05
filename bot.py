@@ -14,7 +14,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN")  # Ajoute ça dans Render > Environment
 
 # === Commande /start ===
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("👋 Bonjour, je suis en ligne sur Render !")
+    await update.message.reply_text("🌟 Salut ! Ton bot est connecté et prêt à te répondre sur Render 🚀")
 
 # === Serveur HTTP pour Render (port obligatoire) ===
 def lancer_http():
