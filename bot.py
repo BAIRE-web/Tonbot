@@ -332,15 +332,15 @@ def lancer_bot():
 
 # === Ajout du serveur HTTP pour Render ===
 def lancer_http():
+    port = int(os.environ.get("PORT", 10000))  # ← Cette ligne est obligatoire
     class Handler(BaseHTTPRequestHandler):
         def do_GET(self):
             self.send_response(200)
             self.end_headers()
             self.wfile.write(b"Bot Telegram actif.")
 
-    port = int(os.environ.get("PORT", 10000))
-server = HTTPServer(("0.0.0.0", port), Handler)
-
+    server = HTTPServer(("0.0.0.0", port), Handler)
+    server.serve_forever()
 
 # === Lancement en parallèle ===
 if __name__ == "__main__":
