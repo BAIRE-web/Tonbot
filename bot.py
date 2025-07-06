@@ -1,5 +1,3 @@
-# === Début du script allégé et structuré ===
-
 import os
 import json
 import unicodedata
@@ -98,7 +96,6 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE, message_pers
     user = update.effective_user
     user_id = str(user.id)
     sauvegarder_utilisateur(user)
-
     chemin = os.path.join(DATA_DIR, "users.json")
     with open(chemin, "r", encoding="utf-8") as f:
         users = json.load(f)
@@ -160,11 +157,12 @@ async def listusers(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.effective_user
     user_id = user.id
-    texte = update.message.text.strip()
-    log_message(user_id, f"Utilisateur: {texte}")
+    texte_original = update.message.text.strip()  # ✅ Texte original avec emojis
+    texte = normaliser_nom(enlever_emojis(texte_original))  # ✅ Texte normalisé sans emojis
+    log_message(user_id, f"Utilisateur: {texte_original}")
     sauvegarder_utilisateur(user)
 
-    if texte == "⬅️ Retour":
+    if texte_original == "⬅️ Retour":
         user_states[user_id] = "menu"
         user_progress.pop(user_id, None)
         await start(update, context, message_personnalise=False)
@@ -186,15 +184,14 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         options = question.get("options", [])
         bonne = question.get("reponse", "")
 
-        if texte not in options:
+        if texte_original not in options:
             await repondre(update, messages["choix_invalide"], generer_clavier(options + ["⬅️ Retour"]))
             return
 
-        # Vérification réponse
-        texte_sans_emoji = normaliser_nom(enlever_emojis(texte).strip())
-        bonne_sans_emoji = normaliser_nom(enlever_emojis(bonne).strip())
+        texte_clean = normaliser_nom(enlever_emojis(texte_original).strip())
+        bonne_clean = normaliser_nom(enlever_emojis(bonne).strip())
 
-        if texte_sans_emoji == bonne_sans_emoji:
+        if texte_clean == bonne_clean:
             await repondre(update, random.choice(messages["reponses_bonnes"]))
         else:
             await repondre(update, random.choice([m.replace("{bonne}", bonne) for m in messages["reponses_mauvaises"]]))
@@ -207,18 +204,17 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await repondre(update, suivant['question'], generer_clavier(suivant.get("options", []) + ["⬅️ Retour"]))
         return
 
-    if texte.lower() in ["/start", "start", "démarrer"]:
+    if texte in ["/start", "start", "demarrer", "démarrer"]:
         await start(update, context)
         return
 
-    if texte == "Quitter le bot":
+    if texte_original == "Quitter le bot":
         nom = user.first_name or user.full_name or "cher utilisateur"
         await repondre(update, messages["quitter"].replace("{nom}", nom), generer_clavier(["Démarrer"]))
         user_states.pop(user_id, None)
         user_progress.pop(user_id, None)
         return
 
-    # Sections fixes (infos, espace)
     section_static = {
         "informations": "informations.json",
         "infos": "informations.json",
@@ -227,49 +223,43 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "espace": "espace.json",
         "compte": "espace.json"
     }
-    if texte.lower() in section_static:
-        cle = texte.lower()
+    if texte in section_static:
+        cle = texte
         user_states[user_id] = cle
         data = charger_json(section_static[cle])
         await repondre(update, data.get("message", "Aucune donnée disponible."), generer_clavier(["⬅️ Retour"]))
         increment_stat(f"static_{cle}")
         return
 
-    # Sections dynamiques (examen ou révision)
     choix_sections = {
         "bepc": "bepc.json",
-        "bac a": "bac_a.json",
-        "bac c": "bac_c.json",
-        "bac d": "bac_d.json",
+        "bac_a": "bac_a.json",
+        "bac_c": "bac_c.json",
+        "bac_d": "bac_d.json",
         "concours": "concours.json",
         "technique": None,
     }
 
-    texte_normalise = texte.lower()
-
-    if texte_normalise in choix_sections:
-        user_states[user_id] = texte_normalise
-        if texte_normalise == "technique":
+    if texte in choix_sections:
+        user_states[user_id] = texte
+        if texte == "technique":
             await repondre(update, messages["technique_indisponible"], generer_clavier(["⬅️ Retour"]))
             return
 
-        data = charger_json(choix_sections[texte_normalise])
+        data = charger_json(choix_sections[texte])
         matieres = data.get("matieres", [])
-        msg = intros.get(texte_normalise, "") + "\n\n" + data.get("message", "Choisis une matière :")
-
-        increment_stat(f"section_{texte_normalise}")
+        msg = intros.get(texte, "") + "\n\n" + data.get("message", "Choisis une matière :")
+        increment_stat(f"section_{texte}")
         await repondre(update, msg.strip(), generer_clavier(matieres + ["⬅️ Retour"]))
         return
 
-    # Si l’utilisateur est dans une section d'examen, charger la matière choisie
     if user_id in user_states and user_states[user_id] in choix_sections:
         prefix = normaliser_nom(user_states[user_id])
-        matiere = normaliser_nom(texte)
+        matiere = normaliser_nom(texte_original)
         fichier_qcm = f"{prefix}_{matiere}.json"
         qcm_data = charger_json(fichier_qcm)
 
         increment_stat(f"matiere_{prefix}_{matiere}")
-
         if "qcm" in qcm_data and qcm_data["qcm"]:
             user_states[user_id] = f"qcm_{prefix}_{matiere}"
             user_progress[user_id] = 0
@@ -279,7 +269,6 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
         return
 
-    # Par défaut
     await repondre(update, messages["non_compris"])
 
 def lancer_bot():
@@ -295,5 +284,3 @@ if __name__ == "__main__":
         os.makedirs("logs")
     threading.Thread(target=lancer_flask).start()
     lancer_bot()
-
-# === Fin du script adapté ===
