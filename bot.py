@@ -1,7 +1,6 @@
 import os
 import threading
-from http.server import BaseHTTPRequestHandler, HTTPServer
-
+from flask import Flask
 from telegram import Update
 from telegram.ext import (
     ApplicationBuilder,
@@ -12,29 +11,29 @@ from telegram.ext import (
 # Récupération sécurisée du token
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
+# === Création du serveur Flask ===
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "Bot actif ✅"
+
+# === Lancement du serveur Flask dans un thread ===
+def lancer_flask():
+    port = int(os.environ.get("PORT", 10000))  # Port fourni par Render
+    app.run(host="0.0.0.0", port=port)
+
 # === Réponse à la commande /start ===
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("✅ Ton bot Telegram fonctionne parfaitement avec Render et Docker !")
 
-# === Petit serveur HTTP pour éviter l'arrêt du service sur Render ===
-def lancer_http():
-    port = int(os.environ.get("PORT", 10000))  # Port fourni par Render
-    class SimpleHandler(BaseHTTPRequestHandler):
-        def do_GET(self):
-            self.send_response(200)
-            self.end_headers()
-            # Correction ici : on encode la chaîne en UTF-8 pour inclure l'émoji
-            self.wfile.write("Bot actif ✅".encode("utf-8"))
-    server = HTTPServer(("0.0.0.0", port), SimpleHandler)
-    server.serve_forever()
-
 # === Lancement du bot ===
 def lancer_bot():
-    app = ApplicationBuilder().token(BOT_TOKEN).build()
-    app.add_handler(CommandHandler("start", start))
-    app.run_polling()
+    app_bot = ApplicationBuilder().token(BOT_TOKEN).build()
+    app_bot.add_handler(CommandHandler("start", start))
+    app_bot.run_polling()
 
-# === Lancer le bot et le serveur HTTP en parallèle ===
+# === Lancer Flask + bot en parallèle ===
 if __name__ == "__main__":
-    threading.Thread(target=lancer_http).start()
+    threading.Thread(target=lancer_flask).start()
     lancer_bot()
