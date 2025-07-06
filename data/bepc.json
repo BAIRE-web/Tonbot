@@ -1,4 +1,13 @@
 {
-  "message": "Choisis une matière BEPC :",
-  "matieres": ["Mathématiques", "Français", "Histoire", "Géographie", "Physique", "Chimie", "SVT", "Anglais"]
+  "message": "📘 Choisis une matière pour le BEPC :",
+  "matieres": [
+    "📐 Mathématiques",
+    "📖 Français",
+    "📜 Histoire",
+    "🌍 Géographie",
+    "⚡ Physique",
+    "⚗️ Chimie",
+    "🧬 SVT",
+    "🇬🇧 Anglais"
+  ]
 }

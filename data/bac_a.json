@@ -1,13 +1,13 @@
 {
   "message": "🎓 Choisis une matière pour le BAC A :",
   "matieres": [
-    "Français🎉",
-    "Allemand",
-    "Espagnol",
-    "Anglais",
-    "Mathématiques",
-    "Histoire",
-    "Géographie",
-    "Philosophie"
+    "📖 Français",
+    "🇩🇪 Allemand",
+    "🇪🇸 Espagnol",
+    "🇬🇧 Anglais",
+    "📐 Mathématiques",
+    "📜 Histoire",
+    "🌍 Géographie",
+    "💭 Philosophie"
   ]
 }

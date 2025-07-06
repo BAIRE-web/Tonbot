@@ -1,9 +1,9 @@
 {
   "message": "🏆 Choisis un concours à préparer :",
   "matieres": [
-    "CEP",
-    "BEPC.G",
-    "BAC",
-    "Supérieur à BAC"
+    "📘 CEP",
+    "📗 BEPC.G",
+    "📕 BAC",
+    "🎓 Supérieur à BAC"
   ]
 }
