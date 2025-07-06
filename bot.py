@@ -23,7 +23,8 @@ def lancer_http():
         def do_GET(self):
             self.send_response(200)
             self.end_headers()
-            self.wfile.write(b"Bot actif ✅")
+            # Correction ici : on encode la chaîne en UTF-8 pour inclure l'émoji
+            self.wfile.write("Bot actif ✅".encode("utf-8"))
     server = HTTPServer(("0.0.0.0", port), SimpleHandler)
     server.serve_forever()
 
