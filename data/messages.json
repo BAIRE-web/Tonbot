@@ -1,0 +1,25 @@
+{
+  "bienvenue": "‎✨ Mes salutations {nom} !\nBienvenue sur notre bot éducatif. Chaque option vous conduit à une suite personnalisée.\n↩️ Pour revenir au menu principal ou quitter une formation, utilise le bouton « Retour ».\n\nChoisis une option :",
+  "retour": "🎉 Bon retour, Mes salutations !\n⚡ Prêt(e) pour une nouvelle expérience ? \n\nChoisis une option :",
+  "choix": "Choisis une option pour continuer :",
+  "quitter": "🙏 Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.\n🔔 N’hésite pas à revenir quand tu veux.\n🍀 Bonne continuation, {nom} !",
+  "non_admin": "Fonction non reconnue, merci de faire un choix valide.",
+  "qcm_introuvable": "⚠️ Aucun QCM trouvé. Merci de renouveler votre choix.",
+  "choix_invalide": "❌ Choix invalide, veuillez réessayer.",
+  "technique_indisponible": "🔧 L’option Technique est bientôt disponible...",
+  "non_compris": "Option non reconnue. Tape /start pour recommencer.",
+  "reponses_bonnes": [
+    "🎉 Félicitations 🙂 c'est la bonne réponse !",
+    "✅ Bonne réponse, tu gères ça !",
+    "👏 Bravo, c’est exactement ça !",
+    "🎯 Tu as visé juste, bien joué !",
+    "🌟 Excellente réponse, continue comme ça !"
+  ],
+  "reponses_mauvaises": [
+    "😕 Oups, ce n’est pas la bonne réponse ❌.\n👉 La bonne réponse était : {bonne}",
+    "🙂 Tu étais presque, hélas ce n’est pas la bonne réponse ❌.\n👉 La bonne réponse était : {bonne}",
+    "❌ Raté cette fois ! La bonne réponse était : {bonne}",
+    "🙁 Dommage, ce n’était pas ça. 👉 Réponse attendue : {bonne}",
+    "🧐 Mauvaise pioche ! La bonne réponse était : {bonne}"
+  ]
+}
