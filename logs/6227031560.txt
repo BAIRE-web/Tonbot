@@ -2624,3 +2624,102 @@ Choisis une option :
 [2025-07-05 10:08:56] Utilisateur: ⬅️ Retour
 [2025-07-05 10:08:56] Commande /start
 [2025-07-05 10:08:56] Bot: Choisis une option pour continuer :
+[2025-07-06 14:16:55] Commande /start
+[2025-07-06 14:16:55] Bot: 🎉 Bon retour, Mes salutations !
+‎⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-06 14:16:58] Utilisateur: Informations
+[2025-07-06 14:16:58] Bot: 🎓 Bienvenue sur notre Bot de Formation !
+
+Notre bot intelligent (IA) a été conçu pour vous permettre de vous former gratuitement dans plusieurs domaines 📚🌐.
+
+📌 Notice d'utilisation :
+🔹 Dans l’option /espace, vous trouverez des extensions essentielles : Business, Actualités, Études, etc.
+🔹 Les options de niveau permettent de choisir votre classe ou série pour une formation adaptée 🏫.
+🔹 L’option Technique (F1, F3, Comptabilité...) sera bientôt disponible. Une notification vous sera envoyée.
+➡️ Certaines matières générales sont similaires aux techniques : les élèves techniques peuvent donc aussi suivre les formations BEPC et BAC.
+🔹 Les formations pour le niveau supérieur au BAC (concours) seront bientôt disponibles.
+🔹 À tout moment, vous pouvez quitter le bot ou revenir au menu principal avec les boutons prévus 🔙.
+
+📚 Contenu pédagogique :
+✅ Le bot propose des milliers de QCM par niveau avec correction et explication après chaque réponse 🧠✨.
+✅ La formation aux concours contient des questions aléatoires : culture générale, tests psychotechniques, matières scolaires, etc.
+✅ Le bot propose des exercices courts et des questions de révision 📝.
+➡️ Pour les sujets complets (examens, devoirs...), allez dans /espace pour accéder aux canaux.
+
+⚠️ Important :
+🚨 Le bot peut gérer des milliers d’utilisateurs en même temps. Pour une meilleure expérience, utilisez uniquement les boutons proposés.
+🎁 Le bot est 100% gratuit. N'hésitez pas à le partager autour de vous.
+💎 La formation est professionnelle, efficace et équivalente à une formation payante.
+
+⚖️ Droits et responsabilités :
+🚫 Interdiction de vendre, publier ou dupliquer le contenu ou les canaux du bot sans autorisation.
+👁️ Les conversations sont enregistrées. Chaque utilisateur est identifié dès sa première utilisation.
+
+👥 Droits de l’utilisateur :
+💬 Commenter dans le groupe (/espace)
+🤝 S’entraider entre utilisateurs
+📥 Publier et traiter les exercices proposés
+📩 Utiliser les contenus partagés par la communauté
+📤 Utiliser les contenus officiels (si autorisés)
+🗣 Recommander le bot ou ses canaux
+📬 Nous contacter
+
+🌍 Origine et objectifs :
+🇧🇫 Créé au Burkina Faso pour offrir une formation gratuite de qualité.
+📈 Objectif : proposer des formations, des idées d’entrepreneuriat, réduire le chômage et améliorer la réussite scolaire.
+🌍 Le bot intégrera bientôt d'autres pays et propose déjà une section internationale dans /espace.
+📱 Il sera bientôt disponible sur d’autres applications pour une meilleure accessibilité.
+
+📞 Contact :
+Telegram
+WhatsApp
+Instagram
+Mail
+Facebook
+TikTok
+YouTube
+📌 Merci de laisser un message complet avec l’objet de votre demande. Les messages non explicites (ex : « bonjour » seul) ne recevront pas de réponse.
+
+🆕 À venir :
+🚀 Compétitions entre amis
+🌍 Intégration de nouveaux pays
+🧪 Déploiement du niveau technique
+🎓 Formation concours supérieur au BAC
+♿️ Accessibilité pour malvoyants/malentendants
+🏆 Récompenses pour les meilleurs utilisateurs
+[2025-07-06 14:16:59] Utilisateur: ⬅️ Retour
+[2025-07-06 14:16:59] Commande /start
+[2025-07-06 14:16:59] Bot: Choisis une option pour continuer :
+[2025-07-06 14:17:01] Utilisateur: BEPC
+[2025-07-06 14:17:01] Bot: ‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+[2025-07-06 14:17:01] Bot: Choisis une matière BEPC :
+[2025-07-06 14:17:02] Utilisateur: Mathématiques
+[2025-07-06 14:17:02] Bot: Combien font 12 + 8 ?
+[2025-07-06 14:17:04] Utilisateur: 18
+[2025-07-06 14:17:04] Bot: ❌ Raté cette fois ! La bonne réponse était : 20
+[2025-07-06 14:17:04] Bot: 👉 Une brève explication pour toi : 12 + 8 = 20.
+[2025-07-06 14:17:04] Bot: Combien font 12 + 8 ?
+[2025-07-06 14:17:06] Utilisateur: ⬅️ Retour
+[2025-07-06 14:17:06] Commande /start
+[2025-07-06 14:17:06] Bot: Choisis une option pour continuer :
+[2025-07-06 14:17:24] Utilisateur: Bac A
+[2025-07-06 14:17:24] Bot: 📘 Tu as choisi la section BAC A. ‎📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+‎🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen. :
+[2025-07-06 14:17:24] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-06 14:17:26] Utilisateur: Français🎉
+[2025-07-06 14:17:26] Bot: Quelle est la capitale du Burkina Faso ?
+[2025-07-06 14:17:27] Utilisateur: Koudougou
+[2025-07-06 14:17:27] Bot: 😕 Oups, ce n’est pas la bonne réponse ❌.
+👉 La bonne réponse était : Ouagadougou
+[2025-07-06 14:17:28] Bot: 👉 Une brève explication pour toi : Ouagadougou est la capitale politique et administrative du Burkina Faso.
+[2025-07-06 14:17:28] Bot: Quelle est la capitale du Burkina Faso ?
+[2025-07-06 14:17:35] Utilisateur: ⬅️ Retour
+[2025-07-06 14:17:35] Commande /start
+[2025-07-06 14:17:35] Bot: Choisis une option pour continuer :
+[2025-07-06 14:17:39] Utilisateur: Quitter le bot
+[2025-07-06 14:17:39] Bot: ‎🙏Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.
+‎🔔 N’hésitez pas à revenir quand vous voulez.
+‎🍀 Bonne continuation, BarakaAdministrateur !

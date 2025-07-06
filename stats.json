@@ -1,15 +1,15 @@
 {
   "section_concours": 31,
-  "section_bepc": 35,
+  "section_bepc": 36,
   "matiere_concours_bac": 3,
-  "infos": 26,
-  "matiere_bepc_mathematiques": 24,
+  "infos": 27,
+  "matiere_bepc_mathematiques": 25,
   "section_concours bepc": 1,
   "section_bac d": 16,
   "matiere_bac d_mathematiques": 5,
   "section_concours bac": 1,
   "section_concours cep": 1,
-  "section_bac a": 11,
+  "section_bac a": 12,
   "matiere_bac a_espagnol": 1,
   "matiere_concours_cep": 5,
   "matiere_concours_superieur_a_bac": 3,
@@ -27,7 +27,7 @@
   "section_bepc.g": 3,
   "matiere_bac_d_mathematiques": 2,
   "matiere_bac_a_philosophie": 2,
-  "matiere_bac_a_francais": 2,
+  "matiere_bac_a_francais": 3,
   "matiere_bac_a_espagnol": 1,
   "matiere_bac_a_anglais": 1
 }
