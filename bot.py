@@ -269,6 +269,19 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await repondre(update, msg.strip(), generer_clavier(matieres + ["⬅️ Retour"]))
         return
 
+    # Gérer "supérieur à bac" dans concours comme message simple
+    if user_id in user_states and user_states[user_id] == "concours":
+        prefix = "concours"
+        matiere = normaliser_nom(enlever_emojis(texte_original))
+        if matiere == "superieur_a_bac":  # doit correspondre exactement à ton JSON
+            data = charger_json("concours_superieur_a_bac.json")  # ou "concours.json" si c'est dedans
+            if "message" in data:
+                await repondre(update, data["message"], generer_clavier(["⬅️ Retour"]))
+            else:
+                await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
+            return
+
+    # Gestion normale QCM pour les autres matières/contenus
     if user_id in user_states and user_states[user_id] in choix_sections:
         prefix = normaliser_nom(user_states[user_id])
         matiere = normaliser_nom(enlever_emojis(texte_original))
