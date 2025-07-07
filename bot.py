@@ -33,10 +33,26 @@ def lancer_flask():
     flask_app.run(host="0.0.0.0", port=port)
 
 def enlever_emojis(text):
-    pattern = re.compile("[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF"
-                         "\U0001F680-\U0001F6FF\U0001F1E0-\U0001F1FF"
-                         "\U00002700-\U000027BF\U000024C2-\U0001F251]+", re.UNICODE)
-    return pattern.sub(r'', text)
+    emoji_pattern = re.compile("["
+        u"\U0001F600-\U0001F64F"
+        u"\U0001F300-\U0001F5FF"
+        u"\U0001F680-\U0001F6FF"
+        u"\U0001F1E0-\U0001F1FF"
+        u"\U00002500-\U00002BEF"
+        u"\U00002702-\U000027B0"
+        u"\U000024C2-\U0001F251"
+        u"\U0001f926-\U0001f937"
+        u"\U00010000-\U0010ffff"
+        u"\u2640-\u2642"
+        u"\u2600-\u2B55"
+        u"\u200d"
+        u"\u23cf"
+        u"\u23e9"
+        u"\u231a"
+        u"\ufe0f"
+        u"\u3030"
+        "]+", flags=re.UNICODE)
+    return emoji_pattern.sub(r'', text).strip()
 
 def log_message(user_id, message):
     chemin = os.path.join("logs", f"{user_id}.txt")
@@ -87,7 +103,6 @@ async def repondre(update: Update, message: str, clavier=None):
     log_message(update.effective_user.id, f"Bot: {message}")
     await update.message.reply_text(message, reply_markup=clavier)
 
-# Messages et introductions dynamiques (à charger depuis JSON)
 messages = charger_json("messages.json")
 intros = charger_json("intro.json")
 claviers = charger_json("claviers.json")
@@ -157,8 +172,8 @@ async def listusers(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.effective_user
     user_id = user.id
-    texte_original = update.message.text.strip()  # ✅ Texte original avec emojis
-    texte = normaliser_nom(enlever_emojis(texte_original))  # ✅ Texte normalisé sans emojis
+    texte_original = update.message.text.strip()
+    texte = normaliser_nom(enlever_emojis(texte_original))
     log_message(user_id, f"Utilisateur: {texte_original}")
     sauvegarder_utilisateur(user)
 
@@ -184,12 +199,13 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         options = question.get("options", [])
         bonne = question.get("reponse", "")
 
-        if texte_original not in options:
+        texte_clean = normaliser_nom(enlever_emojis(texte_original).strip())
+        options_clean = [normaliser_nom(enlever_emojis(opt).strip()) for opt in options]
+        bonne_clean = normaliser_nom(enlever_emojis(bonne).strip())
+
+        if texte_clean not in options_clean:
             await repondre(update, messages["choix_invalide"], generer_clavier(options + ["⬅️ Retour"]))
             return
-
-        texte_clean = normaliser_nom(enlever_emojis(texte_original).strip())
-        bonne_clean = normaliser_nom(enlever_emojis(bonne).strip())
 
         if texte_clean == bonne_clean:
             await repondre(update, random.choice(messages["reponses_bonnes"]))
@@ -255,7 +271,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     if user_id in user_states and user_states[user_id] in choix_sections:
         prefix = normaliser_nom(user_states[user_id])
-        matiere = normaliser_nom(texte_original)
+        matiere = normaliser_nom(enlever_emojis(texte_original))
         fichier_qcm = f"{prefix}_{matiere}.json"
         qcm_data = charger_json(fichier_qcm)
 
