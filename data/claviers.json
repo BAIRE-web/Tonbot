@@ -1,6 +1,6 @@
 {
   "menu_principal": [
-    "ℹ️ Informations",
+    "❔Informations",
     "👤 Espace",
     "📚 BEPC",
     "🎓 Bac A",
@@ -8,6 +8,6 @@
     "🔬 Bac D",
     "🎯 Concours",
     "🔧 Technique",
-    "❌ Quitter le bot"
+    "👋 Quitter le bot"
   ]
 }
