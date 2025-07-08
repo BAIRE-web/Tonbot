@@ -17,6 +17,186 @@
       "options": ["Le cœur", "Le foie", "Les poumons", "Les reins"],
       "reponse": "Les poumons",
       "explication": "Les poumons assurent les échanges gazeux nécessaires à la respiration."
+    },
+    {
+      "question": "Quel est l'hymne national du Burkina Faso ?",
+      "options": ["La Marseillaise", "Le Ditanyè", "Le Sankariste", "La Patrie"],
+      "reponse": "Le Ditanyè",
+      "explication": "Le Ditanyè est l'hymne national du Burkina Faso."
+    },
+    {
+      "question": "Quelle est la couleur du drapeau du Burkina Faso ?",
+      "options": ["Vert, blanc, rouge", "Rouge, jaune, vert", "Noir, rouge, jaune", "Vert, jaune, bleu"],
+      "reponse": "Rouge, jaune, vert",
+      "explication": "Le drapeau du Burkina Faso est rouge et vert avec une étoile jaune."
+    },
+    {
+      "question": "Qui est un bon citoyen ?",
+      "options": ["Celui qui vole", "Celui qui respecte les lois", "Celui qui insulte", "Celui qui détruit"],
+      "reponse": "Celui qui respecte les lois",
+      "explication": "Un bon citoyen respecte les lois de son pays."
+    },
+    {
+      "question": "Quel est le rôle de la police ?",
+      "options": ["Cuisiner", "Maintenir l’ordre", "Donner des médicaments", "Construire des routes"],
+      "reponse": "Maintenir l’ordre",
+      "explication": "La police protège les citoyens et fait respecter la loi."
+    },
+    {
+      "question": "Que faut-il faire à l’école ?",
+      "options": ["Se bagarrer", "Écouter les enseignants", "Jeter les papiers par terre", "Fuir les cours"],
+      "reponse": "Écouter les enseignants",
+      "explication": "Le bon comportement à l’école aide à bien apprendre."
+    },
+    {
+      "question": "Le président du Faso est élu par…",
+      "options": ["les militaires", "le peuple", "les chefs", "le gouvernement"],
+      "reponse": "le peuple",
+      "explication": "Le président est élu au suffrage universel par les citoyens."
+    },
+    {
+      "question": "Le respect des aînés est un signe de…",
+      "options": ["manque d’éducation", "mauvais comportement", "bonne éducation", "richesse"],
+      "reponse": "bonne éducation",
+      "explication": "Respecter les aînés montre qu’on est bien éduqué."
+    },
+    {
+      "question": "Que doit-on faire en entendant l’hymne national ?",
+      "options": ["Parler fort", "Rester assis", "Se lever et se taire", "Danser"],
+      "reponse": "Se lever et se taire",
+      "explication": "Se lever et rester calme montre du respect pour la nation."
+    },
+    {
+      "question": "Pourquoi faut-il respecter les règles ?",
+      "options": ["Pour éviter les punitions", "Pour désobéir", "Pour troubler", "Pour créer le désordre"],
+      "reponse": "Pour éviter les punitions",
+      "explication": "Respecter les règles assure une bonne cohabitation."
+    },
+    {
+      "question": "Quand on trouve un objet perdu, on doit…",
+      "options": ["le garder", "le vendre", "le casser", "le remettre à son propriétaire ou au maître"],
+      "reponse": "le remettre à son propriétaire ou au maître",
+      "explication": "C’est un acte d’honnêteté."
+    },
+    {
+      "question": "Quelle attitude est correcte à la maison ?",
+      "options": ["Obéir aux parents", "Insulter les parents", "Voler", "Crier fort"],
+      "reponse": "Obéir aux parents",
+      "explication": "L’obéissance montre le respect familial."
+    },
+    {
+      "question": "Le civisme c’est…",
+      "options": ["détruire l’école", "respecter les lois et les biens publics", "refuser d’aller à l’école", "ne pas saluer"],
+      "reponse": "respecter les lois et les biens publics",
+      "explication": "Le civisme est un comportement responsable envers la société."
+    },
+    {
+      "question": "Une infraction est…",
+      "options": ["un bon comportement", "le respect des règles", "le non-respect des lois", "un travail scolaire"],
+      "reponse": "le non-respect des lois",
+      "explication": "Commettre une infraction signifie violer la loi."
+    },
+    {
+      "question": "L’hygiène est importante pour…",
+      "options": ["être malade", "être mal vu", "avoir une bonne santé", "salir l’environnement"],
+      "reponse": "avoir une bonne santé",
+      "explication": "L’hygiène évite les maladies."
+    },
+    {
+      "question": "Les déchets doivent être jetés…",
+      "options": ["dans la rue", "dans les toilettes", "dans une poubelle", "dans la cour"],
+      "reponse": "dans une poubelle",
+      "explication": "C’est un geste écologique et responsable."
+    },
+    {
+      "question": "Quand on tousse, il faut…",
+      "options": ["tousser sur les gens", "mettre la main ou le coude devant la bouche", "crier", "ne rien faire"],
+      "reponse": "mettre la main ou le coude devant la bouche",
+      "explication": "Cela évite de propager les microbes."
+    },
+    {
+      "question": "L’école est un lieu pour…",
+      "options": ["s’amuser uniquement", "dormir", "apprendre", "se bagarrer"],
+      "reponse": "apprendre",
+      "explication": "L’école forme les futurs citoyens."
+    },
+    {
+      "question": "Le drapeau est…",
+      "options": ["un jeu", "un symbole national", "un vêtement", "un animal"],
+      "reponse": "un symbole national",
+      "explication": "Il représente le pays et doit être respecté."
+    },
+    {
+      "question": "Un citoyen a des…",
+      "options": ["animaux", "devoirs et droits", "cadeaux", "maîtres"],
+      "reponse": "devoirs et droits",
+      "explication": "Chaque citoyen a des droits (santé, école) et des devoirs (respect, vote)."
+    },
+    {
+      "question": "Quel comportement est mauvais ?",
+      "options": ["Respecter les autres", "Jeter les ordures dans la poubelle", "Aider les camarades", "Insulter les autres"],
+      "reponse": "Insulter les autres",
+      "explication": "L’insulte est un manque de respect."
+    },
+    {
+      "question": "Que faut-il faire en cas d’accident ?",
+      "options": ["Courir", "Alerter un adulte", "Filmer", "Fuir"],
+      "reponse": "Alerter un adulte",
+      "explication": "Demander de l’aide est un geste responsable."
+    },
+    {
+      "question": "La solidarité signifie…",
+      "options": ["Se moquer", "Aider les autres", "Voler", "Se battre"],
+      "reponse": "Aider les autres",
+      "explication": "Être solidaire, c’est soutenir les autres."
+    },
+    {
+      "question": "Respecter le bien public c’est…",
+      "options": ["Casser les bancs", "Taguer les murs", "Utiliser avec soin", "Jeter des papiers"],
+      "reponse": "Utiliser avec soin",
+      "explication": "Les biens publics sont pour tout le monde."
+    },
+    {
+      "question": "Un comportement civique est…",
+      "options": ["mentir", "aider les personnes âgées", "voler", "refuser l’ordre"],
+      "reponse": "aider les personnes âgées",
+      "explication": "Aider montre un bon comportement citoyen."
+    },
+    {
+      "question": "Que faire si on tombe malade ?",
+      "options": ["Aller au marché", "Se soigner avec les feuilles", "Aller au centre de santé", "Se cacher"],
+      "reponse": "Aller au centre de santé",
+      "explication": "Le centre de santé est le lieu adapté pour les soins."
+    },
+    {
+      "question": "Les symboles de l’État sont…",
+      "options": ["les films", "le drapeau, l’hymne, les armoiries", "la musique", "les habits"],
+      "reponse": "le drapeau, l’hymne, les armoiries",
+      "explication": "Ce sont les signes qui représentent le pays."
+    },
+    {
+      "question": "Un enfant bien éduqué…",
+      "options": ["obéit, salue, respecte", "crie, tape, vole", "ment, insulte", "jette tout au sol"],
+      "reponse": "obéit, salue, respecte",
+      "explication": "Ce sont des qualités d’un enfant responsable."
+    },
+    {
+      "question": "Qui dirige une commune ?",
+      "options": ["Le préfet", "Le maire", "Le roi", "Le commerçant"],
+      "reponse": "Le maire",
+      "explication": "Le maire est élu pour gérer la commune."
+    },
+    {
+      "question": "Pourquoi faut-il éviter les bagarres ?",
+      "options": ["C’est amusant", "Pour éviter les blessures", "Pour montrer sa force", "Pour se défendre toujours"],
+      "reponse": "Pour éviter les blessures",
+      "explication": "La violence cause des dégâts physiques et sociaux."
+    },
+    {
+      "question": "Le harcèlement est…",
+      "options": ["une aide", "un soutien", "une moquerie répétée", "un conseil"],
+      "reponse": "une moquerie répétée",
+      "explication": "Le harcèlement est interdit, il fait souffrir."
     }
   ]
 }
