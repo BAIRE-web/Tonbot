@@ -197,6 +197,2345 @@
       "options": ["une aide", "un soutien", "une moquerie répétée", "un conseil"],
       "reponse": "une moquerie répétée",
       "explication": "Le harcèlement est interdit, il fait souffrir."
+    },
+    {
+      "question": "Quel organe permet de respirer ?",
+      "options": ["Le cœur", "Le foie", "Les poumons", "L'estomac"],
+      "reponse": "Les poumons",
+      "explication": "Les poumons permettent l’entrée de l’oxygène dans le corps."
+    },
+    {
+      "question": "Quelle partie de la plante capte la lumière du soleil ?",
+      "options": ["La tige", "Les racines", "Les feuilles", "La fleur"],
+      "reponse": "Les feuilles",
+      "explication": "Les feuilles captent la lumière pour la photosynthèse."
+    },
+    {
+      "question": "Quel est l’organe de la vision ?",
+      "options": ["La bouche", "L'œil", "Le nez", "L’oreille"],
+      "reponse": "L'œil",
+      "explication": "L’œil permet de voir."
+    },
+    {
+      "question": "Quel est l’animal qui pond des œufs ?",
+      "options": ["Chèvre", "Chat", "Poule", "Chien"],
+      "reponse": "Poule",
+      "explication": "La poule est un oiseau ovipare."
+    },
+    {
+      "question": "Quelle est la fonction du cœur ?",
+      "options": ["Filtrer l’air", "Pomper le sang", "Produire des hormones", "Mastiquer les aliments"],
+      "reponse": "Pomper le sang",
+      "explication": "Le cœur pousse le sang dans les vaisseaux du corps."
+    },
+    {
+      "question": "Les racines servent à…",
+      "options": ["Respirer", "Attirer les animaux", "Absorber l’eau", "Faire des fruits"],
+      "reponse": "Absorber l’eau",
+      "explication": "Les racines absorbent l’eau et les sels minéraux du sol."
+    },
+    {
+      "question": "Comment appelle-t-on un animal qui mange de la viande ?",
+      "options": ["Herbivore", "Omnivore", "Carnivore", "Végétarien"],
+      "reponse": "Carnivore",
+      "explication": "Un carnivore se nourrit uniquement de viande."
+    },
+    {
+      "question": "Quel est le rôle de la bouche ?",
+      "options": ["Voir", "Manger", "Respirer", "Marcher"],
+      "reponse": "Manger",
+      "explication": "La bouche sert à mâcher et avaler les aliments."
+    },
+    {
+      "question": "La grenouille vit…",
+      "options": ["Seulement dans l’eau", "Dans les arbres", "Dans l’eau et sur la terre", "Dans le sable sec"],
+      "reponse": "Dans l’eau et sur la terre",
+      "explication": "La grenouille est un amphibien, elle vit dans deux milieux."
+    },
+    {
+      "question": "Quel organe produit l’urine ?",
+      "options": ["Le cœur", "Le foie", "Les reins", "Les poumons"],
+      "reponse": "Les reins",
+      "explication": "Les reins filtrent le sang pour produire l’urine."
+    },
+    {
+      "question": "Quel animal a des écailles ?",
+      "options": ["Chien", "Crocodile", "Singe", "Éléphant"],
+      "reponse": "Crocodile",
+      "explication": "Le crocodile a une peau couverte d’écailles épaisses."
+    },
+    {
+      "question": "Quel est le rôle de la peau ?",
+      "options": ["Aider à voir", "Protéger le corps", "Faire digérer", "Filtrer le sang"],
+      "reponse": "Protéger le corps",
+      "explication": "La peau protège contre les microbes, le froid et les blessures."
+    },
+    {
+      "question": "L’arbre pousse grâce à…",
+      "options": ["La chaleur", "L’eau et la lumière", "Le vent", "Le bruit"],
+      "reponse": "L’eau et la lumière",
+      "explication": "L’eau et la lumière sont indispensables à la croissance d’un arbre."
+    },
+    {
+      "question": "Quelle est la principale fonction des fruits ?",
+      "options": ["Donner des fleurs", "Protéger les graines", "Fabriquer des feuilles", "Faire de l’ombre"],
+      "reponse": "Protéger les graines",
+      "explication": "Le fruit contient et protège la graine pour la reproduction."
+    },
+    {
+      "question": "Quel est le rôle du nez ?",
+      "options": ["Marcher", "Respirer", "Manger", "Voir"],
+      "reponse": "Respirer",
+      "explication": "Le nez permet de respirer et sentir les odeurs."
+    },
+    {
+      "question": "Le lion est un…",
+      "options": ["Herbivore", "Omnivore", "Carnivore", "Insecte"],
+      "reponse": "Carnivore",
+      "explication": "Le lion mange uniquement de la viande."
+    },
+    {
+      "question": "Que faut-il faire avant de manger ?",
+      "options": ["Courir", "Laver les mains", "Se gratter", "Crier"],
+      "reponse": "Laver les mains",
+      "explication": "L’hygiène des mains évite les maladies."
+    },
+    {
+      "question": "Quel insecte produit le miel ?",
+      "options": ["Papillon", "Guêpe", "Abeille", "Mouche"],
+      "reponse": "Abeille",
+      "explication": "L’abeille fabrique le miel à partir du nectar des fleurs."
+    },
+    {
+      "question": "Quel organe est responsable de la digestion ?",
+      "options": ["Les poumons", "Le foie", "L’estomac", "Les reins"],
+      "reponse": "L’estomac",
+      "explication": "L’estomac transforme les aliments en nutriments."
+    },
+    {
+      "question": "Quel est l’organe de l’ouïe ?",
+      "options": ["L’œil", "Le nez", "La bouche", "L’oreille"],
+      "reponse": "L’oreille",
+      "explication": "L’oreille permet d’entendre les sons."
+    },
+    {
+      "question": "L’alimentation équilibrée contient…",
+      "options": ["Seulement du riz", "Des aliments variés", "Des bonbons", "Des boissons sucrées"],
+      "reponse": "Des aliments variés",
+      "explication": "Une bonne alimentation contient protéines, légumes, céréales, fruits…"
+    },
+    {
+      "question": "Comment les poissons respirent-ils ?",
+      "options": ["Avec les branchies", "Avec les poumons", "Avec la peau", "Avec les nageoires"],
+      "reponse": "Avec les branchies",
+      "explication": "Les poissons prennent l’oxygène de l’eau grâce à leurs branchies."
+    },
+    {
+      "question": "Quels sont les besoins d’une plante ?",
+      "options": ["Feuilles et vent", "Air, lumière, eau", "Chaleur et sable", "Insectes et animaux"],
+      "reponse": "Air, lumière, eau",
+      "explication": "Les plantes ont besoin de lumière, d’air et d’eau pour vivre."
+    },
+    {
+      "question": "Quel animal a une carapace ?",
+      "options": ["Chat", "Tortue", "Singe", "Chien"],
+      "reponse": "Tortue",
+      "explication": "La tortue est protégée par une carapace dure."
+    },
+    {
+      "question": "La reproduction des plantes commence par…",
+      "options": ["Les racines", "Les feuilles", "Les fleurs", "Le tronc"],
+      "reponse": "Les fleurs",
+      "explication": "Les fleurs produisent les graines pour faire de nouvelles plantes."
+    },
+    {
+      "question": "Comment s’appelle le petit du mouton ?",
+      "options": ["Chevreau", "Agneau", "Veau", "Poulain"],
+      "reponse": "Agneau",
+      "explication": "Le bébé du mouton s’appelle l’agneau."
+    },
+    {
+      "question": "Une piqûre de moustique peut transmettre…",
+      "options": ["La rougeole", "Le paludisme", "La varicelle", "La rage"],
+      "reponse": "Le paludisme",
+      "explication": "Le moustique anophèle peut transmettre le paludisme."
+    },
+    {
+      "question": "Quel comportement est bon pour la santé ?",
+      "options": ["Se laver régulièrement", "Manger trop gras", "Boire de l’alcool", "Dormir tard"],
+      "reponse": "Se laver régulièrement",
+      "explication": "L’hygiène empêche les maladies."
+    },
+    {
+      "question": "Quelle partie du corps contient les dents ?",
+      "options": ["Le pied", "L’oreille", "La bouche", "Le nez"],
+      "reponse": "La bouche",
+      "explication": "Les dents sont situées dans la bouche pour mastiquer les aliments."
+    },
+    {
+      "question": "Le cycle de vie du papillon commence par…",
+      "options": ["Larve", "Œuf", "Chenille", "Papillon"],
+      "reponse": "Œuf",
+      "explication": "Le papillon naît d’un œuf, puis devient chenille, chrysalide, et adulte."
+    },
+    {
+      "question": "En quelle année le Burkina Faso a-t-il obtenu son indépendance ?",
+      "options": ["1960", "1958", "1962", "1983"],
+      "reponse": "1960",
+      "explication": "Le Burkina Faso a obtenu son indépendance le 5 août 1960."
+    },
+    {
+      "question": "Quel est l'ancien nom du Burkina Faso ?",
+      "options": ["Afrique Occidentale", "Haute-Volta", "Bobo-Dioulasso", "Sénégambie"],
+      "reponse": "Haute-Volta",
+      "explication": "Avant 1984, le Burkina Faso s’appelait la Haute-Volta."
+    },
+    {
+      "question": "Qui a donné le nom 'Burkina Faso' au pays ?",
+      "options": ["Maurice Yaméogo", "Thomas Sankara", "Blaise Compaoré", "Ouézzin Coulibaly"],
+      "reponse": "Thomas Sankara",
+      "explication": "C’est Thomas Sankara qui a renommé le pays en 1984."
+    },
+    {
+      "question": "Quel héros est surnommé le 'père de la révolution burkinabè' ?",
+      "options": ["Blaise Compaoré", "Thomas Sankara", "Naba Kougri", "Yennenga"],
+      "reponse": "Thomas Sankara",
+      "explication": "Thomas Sankara est connu pour ses réformes et son leadership révolutionnaire."
+    },
+    {
+      "question": "Le premier président du Burkina Faso fut…",
+      "options": ["Thomas Sankara", "Maurice Yaméogo", "Lamizana", "Blaise Compaoré"],
+      "reponse": "Maurice Yaméogo",
+      "explication": "Maurice Yaméogo fut président de 1960 à 1966."
+    },
+    {
+      "question": "Yennenga est considérée comme…",
+      "options": ["Une déesse", "Une guerrière", "Une présidente", "Une exploratrice"],
+      "reponse": "Une guerrière",
+      "explication": "Yennenga est une princesse guerrière à l’origine du peuple Mossi."
+    },
+    {
+      "question": "Le peuple Mossi est fondé par…",
+      "options": ["Samo", "Ouedraogo", "Sankara", "Dioula"],
+      "reponse": "Ouedraogo",
+      "explication": "Ouedraogo, fils de Yennenga, est considéré comme le fondateur du peuple Mossi."
+    },
+    {
+      "question": "Quel empire était situé au nord de l’actuel Burkina Faso ?",
+      "options": ["Empire Mossi", "Empire du Mali", "Empire Songhaï", "Empire du Ghana"],
+      "reponse": "Empire du Mali",
+      "explication": "L’Empire du Mali s’étendait vers le nord du pays actuel."
+    },
+    {
+      "question": "Quelle grande guerre a eu lieu entre 1914 et 1918 ?",
+      "options": ["Seconde Guerre mondiale", "Guerre de l’Indépendance", "Première Guerre mondiale", "Guerre froide"],
+      "reponse": "Première Guerre mondiale",
+      "explication": "La Première Guerre mondiale s’est déroulée de 1914 à 1918."
+    },
+    {
+      "question": "Quel pays colonisa la Haute-Volta ?",
+      "options": ["Portugal", "Allemagne", "France", "Angleterre"],
+      "reponse": "France",
+      "explication": "La Haute-Volta était une colonie française jusqu’en 1960."
+    },
+    {
+      "question": "Quel événement s’est passé le 15 octobre 1987 ?",
+      "options": ["Fête nationale", "Mort de Sankara", "Indépendance", "Coup d’État contre Yaméogo"],
+      "reponse": "Mort de Sankara",
+      "explication": "Thomas Sankara fut assassiné lors du coup d’État du 15 octobre 1987."
+    },
+    {
+      "question": "Quelle est la date de la fête de l’indépendance ?",
+      "options": ["11 décembre", "14 juillet", "5 août", "1er juin"],
+      "reponse": "5 août",
+      "explication": "Le 5 août est la date de l’indépendance du Burkina Faso (1960)."
+    },
+    {
+      "question": "La fête nationale du Burkina est célébrée le…",
+      "options": ["11 décembre", "5 août", "24 mai", "4 octobre"],
+      "reponse": "11 décembre",
+      "explication": "Le 11 décembre marque la commémoration de la République (1958)."
+    },
+    {
+      "question": "La Seconde Guerre mondiale a eu lieu de…",
+      "options": ["1939 à 1945", "1914 à 1918", "1950 à 1955", "1960 à 1965"],
+      "reponse": "1939 à 1945",
+      "explication": "Elle opposa les Alliés et les forces de l’Axe de 1939 à 1945."
+    },
+    {
+      "question": "Qu’est-ce que l’AOF ?",
+      "options": ["Une armée", "Une région", "Afrique Occidentale Française", "Un syndicat"],
+      "reponse": "Afrique Occidentale Française",
+      "explication": "L’AOF était une fédération coloniale française regroupant plusieurs pays d’Afrique de l’Ouest."
+    },
+    {
+      "question": "Quel est le rôle de Norbert Zongo ?",
+      "options": ["Journaliste engagé", "Président", "Soldat", "Commerçant"],
+      "reponse": "Journaliste engagé",
+      "explication": "Norbert Zongo dénonçait la corruption et fut assassiné en 1998."
+    },
+    {
+      "question": "Le colonisateur imposait des travaux forcés appelés…",
+      "options": ["volontariat", "impôt", "corvée", "service militaire"],
+      "reponse": "corvée",
+      "explication": "Les populations devaient accomplir des travaux sans salaire (corvées)."
+    },
+    {
+      "question": "La démocratie signifie…",
+      "options": ["Dictature du roi", "Pouvoir du peuple", "Règle militaire", "Autorité religieuse"],
+      "reponse": "Pouvoir du peuple",
+      "explication": "La démocratie est un régime où le peuple choisit ses dirigeants."
+    },
+    {
+      "question": "L’indépendance du Burkina Faso a été proclamée par…",
+      "options": ["Sankara", "Compaoré", "Yaméogo", "Ouattara"],
+      "reponse": "Yaméogo",
+      "explication": "Maurice Yaméogo a proclamé l’indépendance en 1960."
+    },
+    {
+      "question": "Quel président a été renversé en 2014 ?",
+      "options": ["Thomas Sankara", "Roch Kaboré", "Blaise Compaoré", "Yaméogo"],
+      "reponse": "Blaise Compaoré",
+      "explication": "Blaise Compaoré a quitté le pouvoir en octobre 2014 suite à une insurrection populaire."
+    },
+    {
+      "question": "Quel est le nom de l’armée burkinabè ?",
+      "options": ["FDS", "RSP", "UPC", "ADF"],
+      "reponse": "FDS",
+      "explication": "Les Forces de Défense et de Sécurité protègent le pays."
+    },
+    {
+      "question": "La déclaration des droits de l’homme date de…",
+      "options": ["1948", "1984", "1789", "1960"],
+      "reponse": "1789",
+      "explication": "Elle a été adoptée pendant la Révolution française."
+    },
+    {
+      "question": "Quel pays africain a résisté à la colonisation ?",
+      "options": ["Ghana", "Éthiopie", "Niger", "Togo"],
+      "reponse": "Éthiopie",
+      "explication": "L’Éthiopie n’a jamais été colonisée, sauf brève occupation italienne."
+    },
+    {
+      "question": "La traite négrière désigne…",
+      "options": ["commerce de bétail", "commerce des esclaves noirs", "commerce de l’or", "guerre"],
+      "reponse": "commerce des esclaves noirs",
+      "explication": "Les esclaves africains étaient vendus vers l’Amérique et l’Europe."
+    },
+    {
+      "question": "La Conférence de Berlin de 1885 concerne…",
+      "options": ["l’école", "le partage de l’Afrique", "les guerres", "l’économie"],
+      "reponse": "le partage de l’Afrique",
+      "explication": "Les puissances européennes se sont partagées l’Afrique."
+    },
+    {
+      "question": "Qui est Nelson Mandela ?",
+      "options": ["Président ghanéen", "Chef militaire", "Héros sud-africain", "Burkinabè"],
+      "reponse": "Héros sud-africain",
+      "explication": "Mandela a lutté contre l’apartheid en Afrique du Sud."
+    },
+    {
+      "question": "Qui élit le président dans une démocratie ?",
+      "options": ["les militaires", "le roi", "le peuple", "les chefs coutumiers"],
+      "reponse": "le peuple",
+      "explication": "Dans une démocratie, c’est le peuple qui vote."
+    },
+    {
+      "question": "Quelle est la forme de gouvernement du Burkina Faso ?",
+      "options": ["monarchie", "dictature", "république", "empire"],
+      "reponse": "république",
+      "explication": "Le Burkina Faso est une république."
+    },
+    {
+      "question": "Un citoyen responsable doit…",
+      "options": ["voler", "mentir", "respecter les lois", "être violent"],
+      "reponse": "respecter les lois",
+      "explication": "Le respect des lois est une qualité de bon citoyen."
+    },
+    {
+      "question": "Qui a été le président du Faso après la transition de 2015 ?",
+      "options": ["Kafando", "Roch Kaboré", "Diendéré", "Sankara"],
+      "reponse": "Roch Kaboré",
+      "explication": "Roch Marc Christian Kaboré a été élu en novembre 2015."
+    },
+    {
+      "question": "Quelle est la capitale du Burkina Faso ?",
+      "options": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Dori"],
+      "reponse": "Ouagadougou",
+      "explication": "Ouagadougou est la capitale politique et administrative du Burkina Faso."
+    },
+    {
+      "question": "Combien de régions compte le Burkina Faso ?",
+      "options": ["10", "13", "15", "12"],
+      "reponse": "13",
+      "explication": "Le Burkina Faso est divisé en 13 régions administratives."
+    },
+    {
+      "question": "Quel fleuve traverse Bobo-Dioulasso ?",
+      "options": ["Kou", "Niger", "Volta Blanche", "Comoé"],
+      "reponse": "Kou",
+      "explication": "Le fleuve Kou traverse la ville de Bobo-Dioulasso."
+    },
+    {
+      "question": "Quelle est la deuxième plus grande ville du Burkina Faso ?",
+      "options": ["Ouahigouya", "Bobo-Dioulasso", "Fada N’Gourma", "Koudougou"],
+      "reponse": "Bobo-Dioulasso",
+      "explication": "Bobo-Dioulasso est la deuxième ville après Ouagadougou."
+    },
+    {
+      "question": "Le Burkina Faso est situé sur quel continent ?",
+      "options": ["Europe", "Asie", "Afrique", "Amérique"],
+      "reponse": "Afrique",
+      "explication": "Le Burkina Faso est un pays d’Afrique de l’Ouest."
+    },
+    {
+      "question": "Quelle direction est opposée au nord ?",
+      "options": ["Sud", "Est", "Ouest", "Nord-est"],
+      "reponse": "Sud",
+      "explication": "Le sud est l’opposé du nord."
+    },
+    {
+      "question": "Quel pays ne partage pas de frontière avec le Burkina Faso ?",
+      "options": ["Ghana", "Niger", "Mali", "Sénégal"],
+      "reponse": "Sénégal",
+      "explication": "Le Burkina Faso ne partage pas de frontière directe avec le Sénégal."
+    },
+    {
+      "question": "Quelle est la région la plus à l’Est du Burkina ?",
+      "options": ["Hauts-Bassins", "Est", "Centre-Est", "Boucle du Mouhoun"],
+      "reponse": "Est",
+      "explication": "La région 'Est' se trouve à l’extrémité orientale du pays."
+    },
+    {
+      "question": "Quel est le relief dominant du Burkina Faso ?",
+      "options": ["Montagneux", "Plaine", "Désert", "Forêt"],
+      "reponse": "Plaine",
+      "explication": "Le relief du Burkina est principalement constitué de plaines."
+    },
+    {
+      "question": "Combien de pays bordent le Burkina Faso ?",
+      "options": ["4", "6", "7", "5"],
+      "reponse": "6",
+      "explication": "Le Burkina Faso est entouré de 6 pays : Mali, Niger, Bénin, Togo, Ghana, Côte d’Ivoire."
+    },
+    {
+      "question": "Quel est le fleuve principal du Burkina Faso ?",
+      "options": ["Volta", "Congo", "Nil", "Niger"],
+      "reponse": "Volta",
+      "explication": "Le système fluvial de la Volta (Noire, Blanche et Rouge) est le plus important."
+    },
+    {
+      "question": "Quel est le point cardinal opposé à l’ouest ?",
+      "options": ["Nord", "Est", "Sud", "Sud-est"],
+      "reponse": "Est",
+      "explication": "L’est est opposé à l’ouest sur la rose des vents."
+    },
+    {
+      "question": "Dans quelle région se trouve Ouahigouya ?",
+      "options": ["Sahel", "Nord", "Centre-Nord", "Centre-Ouest"],
+      "reponse": "Nord",
+      "explication": "Ouahigouya est la capitale de la région du Nord."
+    },
+    {
+      "question": "Quel pays est au nord du Burkina Faso ?",
+      "options": ["Côte d’Ivoire", "Togo", "Mali", "Bénin"],
+      "reponse": "Mali",
+      "explication": "Le Mali se trouve au nord du Burkina Faso."
+    },
+    {
+      "question": "La Volta Noire prend sa source dans…",
+      "options": ["le Sahel", "la Boucle du Mouhoun", "les Cascades", "l’Est"],
+      "reponse": "la Boucle du Mouhoun",
+      "explication": "La Volta Noire prend sa source dans la région de la Boucle du Mouhoun."
+    },
+    {
+      "question": "Le climat du Burkina Faso est…",
+      "options": ["tropical", "désertique", "polaire", "tempéré"],
+      "reponse": "tropical",
+      "explication": "Le pays a un climat tropical avec deux saisons."
+    },
+    {
+      "question": "Quelle région est connue pour ses cascades naturelles ?",
+      "options": ["Centre", "Nord", "Cascades", "Est"],
+      "reponse": "Cascades",
+      "explication": "La région des Cascades porte ce nom à cause de ses chutes d’eau."
+    },
+    {
+      "question": "Quel est le nom de la frontière entre le Burkina Faso et le Ghana ?",
+      "options": ["frontière Nord", "frontière Est", "frontière Sud", "frontière Ouest"],
+      "reponse": "frontière Sud",
+      "explication": "Le Ghana est situé au sud du Burkina Faso."
+    },
+    {
+      "question": "Quel pays est situé à l’Est du Burkina Faso ?",
+      "options": ["Togo", "Niger", "Mali", "Côte d’Ivoire"],
+      "reponse": "Niger",
+      "explication": "Le Niger est à l’Est du Burkina Faso."
+    },
+    {
+      "question": "Dans quelle région se trouve Gaoua ?",
+      "options": ["Est", "Sud-Ouest", "Nord", "Centre-Est"],
+      "reponse": "Sud-Ouest",
+      "explication": "Gaoua est la capitale de la région du Sud-Ouest."
+    },
+    {
+      "question": "La ville de Fada N’Gourma est dans la région…",
+      "options": ["Centre-Nord", "Est", "Centre-Est", "Nord"],
+      "reponse": "Est",
+      "explication": "Fada N’Gourma est la capitale de la région de l’Est."
+    },
+    {
+      "question": "Combien de provinces composent le Burkina Faso ?",
+      "options": ["45", "13", "30", "60"],
+      "reponse": "45",
+      "explication": "Le Burkina Faso est divisé en 45 provinces."
+    },
+    {
+      "question": "Quel continent contient le plus de pays ?",
+      "options": ["Europe", "Amérique", "Afrique", "Asie"],
+      "reponse": "Afrique",
+      "explication": "L’Afrique est le continent avec le plus grand nombre de pays."
+    },
+    {
+      "question": "Le désert du Sahara est situé au…",
+      "options": ["sud du Burkina", "nord de l’Afrique", "centre du Burkina", "ouest de l’Europe"],
+      "reponse": "nord de l’Afrique",
+      "explication": "Le Sahara est situé au nord de l’Afrique."
+    },
+    {
+      "question": "Quel est le plus grand continent ?",
+      "options": ["Afrique", "Asie", "Europe", "Amérique"],
+      "reponse": "Asie",
+      "explication": "L’Asie est le plus grand continent par la taille et la population."
+    },
+    {
+      "question": "Quel océan borde l’Afrique de l’Ouest ?",
+      "options": ["Pacifique", "Indien", "Atlantique", "Arctique"],
+      "reponse": "Atlantique",
+      "explication": "L’Afrique de l’Ouest est bordée par l’océan Atlantique."
+    },
+    {
+      "question": "Quel point cardinal est à droite sur une carte ?",
+      "options": ["Nord", "Sud", "Est", "Ouest"],
+      "reponse": "Est",
+      "explication": "Sur une carte, l’Est est à droite quand le nord est en haut."
+    },
+    {
+      "question": "Dans quelle région se trouve Ziniaré ?",
+      "options": ["Centre", "Centre-Nord", "Plateau Central", "Est"],
+      "reponse": "Plateau Central",
+      "explication": "Ziniaré est la capitale de la région du Plateau Central."
+    },
+    {
+      "question": "Quelle activité est liée à la géographie ?",
+      "options": ["Lire un poème", "Étudier les cartes", "Faire des calculs", "Jouer au football"],
+      "reponse": "Étudier les cartes",
+      "explication": "La géographie s’intéresse à l’étude des lieux, des cartes et des paysages."
+    },
+    {
+      "question": "Quel est le nom du grand marché de Ouagadougou ?",
+      "options": ["Rood-Woko", "Koulouba", "Marché noir", "Wemtenga"],
+      "reponse": "Rood-Woko",
+      "explication": "Rood-Woko est le plus grand marché de Ouagadougou."
+    },
+    {
+      "question": "Quel est le groupe sujet dans la phrase : « Le garçon court vite. » ?",
+      "options": ["court", "vite", "Le garçon", "garçon court"],
+      "reponse": "Le garçon",
+      "explication": "Le groupe sujet est ce qui fait l’action, ici 'Le garçon'."
+    },
+    {
+      "question": "Quel est le verbe dans : « Ma sœur chante bien. » ?",
+      "options": ["Ma", "sœur", "chante", "bien"],
+      "reponse": "chante",
+      "explication": "'Chante' est le verbe, c’est l’action."
+    },
+    {
+      "question": "Dans la phrase : « Les enfants jouent. », le mot 'enfants' est…",
+      "options": ["un verbe", "un adjectif", "un nom", "un pronom"],
+      "reponse": "un nom",
+      "explication": "'Enfants' est un nom (personnes)."
+    },
+    {
+      "question": "Quel mot est un pronom ?",
+      "options": ["manger", "maison", "je", "bleu"],
+      "reponse": "je",
+      "explication": "'Je' est un pronom personnel."
+    },
+    {
+      "question": "Dans la phrase : « Il lit un livre. », le mot 'lit' est…",
+      "options": ["un nom", "un verbe", "un adjectif", "un pronom"],
+      "reponse": "un verbe",
+      "explication": "'Lit' est le verbe de la phrase."
+    },
+    {
+      "question": "Le mot 'gentil' est…",
+      "options": ["un nom", "un verbe", "un adjectif", "un pronom"],
+      "reponse": "un adjectif",
+      "explication": "'Gentil' décrit quelqu’un → c’est un adjectif."
+    },
+    {
+      "question": "Quel est le type de phrase : « Où vas-tu ? »",
+      "options": ["déclarative", "exclamative", "interrogative", "impérative"],
+      "reponse": "interrogative",
+      "explication": "C’est une question, donc phrase interrogative."
+    },
+    {
+      "question": "Dans : « Le chat noir dort. », 'noir' est…",
+      "options": ["un nom", "un adjectif", "un verbe", "un pronom"],
+      "reponse": "un adjectif",
+      "explication": "Il décrit le chat → c’est un adjectif."
+    },
+    {
+      "question": "Quel est le féminin de 'acteur' ?",
+      "options": ["actrice", "acteuse", "acteur", "acte"],
+      "reponse": "actrice",
+      "explication": "Le féminin d’'acteur' est 'actrice'."
+    },
+    {
+      "question": "Dans : « Paul mange une pomme. », 'une pomme' est…",
+      "options": ["sujet", "verbe", "complément", "adjectif"],
+      "reponse": "complément",
+      "explication": "'Une pomme' complète le verbe → complément d'objet."
+    },
+    {
+      "question": "Quel mot est un adjectif ?",
+      "options": ["beau", "marcher", "livre", "nous"],
+      "reponse": "beau",
+      "explication": "'Beau' décrit un nom → adjectif."
+    },
+    {
+      "question": "Quel est le pluriel de 'le stylo' ?",
+      "options": ["les stylos", "le stylos", "les stylo", "stylo"],
+      "reponse": "les stylos",
+      "explication": "'Le' devient 'les', et 'stylo' prend un 's'."
+    },
+    {
+      "question": "Dans : « Les enfants lisent. », combien de mots sont conjugués ?",
+      "options": ["1", "2", "3", "aucun"],
+      "reponse": "1",
+      "explication": "Seul 'lisent' est conjugué."
+    },
+    {
+      "question": "Quel est le sujet de : « Mon père travaille dur. » ?",
+      "options": ["Mon père", "travaille", "dur", "père travaille"],
+      "reponse": "Mon père",
+      "explication": "'Mon père' est celui qui fait l’action."
+    },
+    {
+      "question": "Quel est le genre de 'fleur' ?",
+      "options": ["masculin", "féminin", "neutre", "invariable"],
+      "reponse": "féminin",
+      "explication": "On dit 'la fleur'."
+    },
+    {
+      "question": "Dans : « Il joue bien. », 'bien' est…",
+      "options": ["un nom", "un adjectif", "un adverbe", "un pronom"],
+      "reponse": "un adverbe",
+      "explication": "Il précise le verbe → c’est un adverbe."
+    },
+    {
+      "question": "Quel mot est un déterminant ?",
+      "options": ["le", "chien", "vite", "manger"],
+      "reponse": "le",
+      "explication": "'Le' détermine un nom → c’est un déterminant."
+    },
+    {
+      "question": "Dans la phrase : « Nous sommes contents. », quel est l'accord ?",
+      "options": ["féminin singulier", "masculin pluriel", "masculin singulier", "aucun"],
+      "reponse": "masculin pluriel",
+      "explication": "'Nous' est pluriel, 'contents' prend un 's'."
+    },
+    {
+      "question": "Quelle phrase est une phrase impérative ?",
+      "options": ["Tu vas à l’école ?", "Va à l’école !", "Il va à l’école.", "Pourquoi vas-tu ?"],
+      "reponse": "Va à l’école !",
+      "explication": "Elle donne un ordre → impérative."
+    },
+    {
+      "question": "Le mot 'ils' est un…",
+      "options": ["nom", "verbe", "adjectif", "pronom"],
+      "reponse": "pronom",
+      "explication": "'Ils' remplace un groupe de personnes → pronom."
+    },
+    {
+      "question": "Quel est le pluriel de 'un enfant' ?",
+      "options": ["des enfants", "des enfant", "les enfants", "un enfants"],
+      "reponse": "des enfants",
+      "explication": "'Un enfant' devient 'des enfants'."
+    },
+    {
+      "question": "Quel est le genre de 'ami' ?",
+      "options": ["féminin", "masculin", "invariable", "les deux"],
+      "reponse": "masculin",
+      "explication": "On dit 'un ami'."
+    },
+    {
+      "question": "Quel mot est un nom ?",
+      "options": ["courir", "rapide", "maison", "je"],
+      "reponse": "maison",
+      "explication": "'Maison' est une chose → nom commun."
+    },
+    {
+      "question": "Dans : « Elle mange vite. », que représente 'Elle' ?",
+      "options": ["un verbe", "un pronom", "un nom", "un adverbe"],
+      "reponse": "un pronom",
+      "explication": "'Elle' remplace un nom → c’est un pronom."
+    },
+    {
+      "question": "Quel est le temps de la phrase : « Ils marchaient lentement. » ?",
+      "options": ["présent", "futur", "imparfait", "passé composé"],
+      "reponse": "imparfait",
+      "explication": "'Marchaient' est conjugué à l’imparfait."
+    },
+    {
+      "question": "Quel est le verbe dans la phrase : « Je mange une mangue. » ?",
+      "options": ["je", "mange", "une", "mangue"],
+      "reponse": "mange",
+      "explication": "Le verbe est 'mange', c’est l’action que fait le sujet."
+    },
+    {
+      "question": "Quel est le temps de la phrase : « Il joue au ballon. » ?",
+      "options": ["passé", "futur", "présent", "imparfait"],
+      "reponse": "présent",
+      "explication": "Le verbe 'joue' est au présent."
+    },
+    {
+      "question": "Complète : « Nous ___ un gâteau. »",
+      "options": ["mange", "manges", "mangent", "mangeons"],
+      "reponse": "mangeons",
+      "explication": "Avec 'nous', on dit 'nous mangeons'."
+    },
+    {
+      "question": "Quel est le sujet dans la phrase : « Marie lit un livre. » ?",
+      "options": ["lit", "livre", "Marie", "un"],
+      "reponse": "Marie",
+      "explication": "'Marie' est celle qui fait l’action, c’est donc le sujet."
+    },
+    {
+      "question": "Conjugue le verbe 'avoir' au présent avec 'tu' :",
+      "options": ["as", "ai", "a", "avez"],
+      "reponse": "as",
+      "explication": "Tu as → 2e personne du singulier du verbe 'avoir'."
+    },
+    {
+      "question": "Quel est le temps de la phrase : « Nous irons à l’école. » ?",
+      "options": ["présent", "passé", "futur", "imparfait"],
+      "reponse": "futur",
+      "explication": "'Irons' est un verbe conjugué au futur simple."
+    },
+    {
+      "question": "Complète : « Ils ___ à la maison. »",
+      "options": ["reste", "restes", "restons", "restent"],
+      "reponse": "restent",
+      "explication": "Avec 'ils', on utilise 'restent' → terminaison -ent."
+    },
+    {
+      "question": "Conjugue 'être' avec 'je' au présent.",
+      "options": ["es", "suis", "est", "sommes"],
+      "reponse": "suis",
+      "explication": "Je suis → 1re personne du singulier du verbe 'être'."
+    },
+    {
+      "question": "Conjugue 'aller' au futur avec 'il' :",
+      "options": ["ira", "va", "allait", "allez"],
+      "reponse": "ira",
+      "explication": "Il ira → futur simple du verbe 'aller'."
+    },
+    {
+      "question": "Complète : « Tu ___ ton livre. » (verbe 'oublier')",
+      "options": ["oublies", "oublie", "oublient", "oublions"],
+      "reponse": "oublies",
+      "explication": "Avec 'tu', la terminaison est -es → tu oublies."
+    },
+    {
+      "question": "Conjugue 'venir' au présent avec 'nous' :",
+      "options": ["venons", "venez", "viens", "vient"],
+      "reponse": "venons",
+      "explication": "Nous venons → 1re personne du pluriel au présent."
+    },
+    {
+      "question": "Quel est le temps de la phrase : « J’ai dormi tôt. » ?",
+      "options": ["futur", "imparfait", "passé composé", "présent"],
+      "reponse": "passé composé",
+      "explication": "'J’ai dormi' est une forme composée du passé."
+    },
+    {
+      "question": "Complète : « Elles ___ bien en classe. »",
+      "options": ["travailles", "travaillent", "travaille", "travaillons"],
+      "reponse": "travaillent",
+      "explication": "Avec 'elles', le verbe prend -ent → elles travaillent."
+    },
+    {
+      "question": "Conjugue 'faire' au présent avec 'il' :",
+      "options": ["fait", "fais", "faisez", "font"],
+      "reponse": "fait",
+      "explication": "Il fait → verbe 'faire' au présent."
+    },
+    {
+      "question": "Conjugue 'finir' au présent avec 'je' :",
+      "options": ["finis", "finit", "finissons", "finissez"],
+      "reponse": "finis",
+      "explication": "Je finis → verbe du 2e groupe au présent."
+    },
+    {
+      "question": "Complète : « Vous ___ souvent au marché. »",
+      "options": ["allez", "allons", "va", "aller"],
+      "reponse": "allez",
+      "explication": "Vous allez → 2e personne du pluriel."
+    },
+    {
+      "question": "Conjugue 'prendre' au futur avec 'je' :",
+      "options": ["prendrai", "prends", "prend", "prenais"],
+      "reponse": "prendrai",
+      "explication": "'Je prendrai' → futur simple du verbe 'prendre'."
+    },
+    {
+      "question": "Complète : « Ils ___ à l’unisson. » (verbe chanter)",
+      "options": ["chante", "chantes", "chantent", "chantons"],
+      "reponse": "chantent",
+      "explication": "Ils chantent → terminaison -ent au présent."
+    },
+    {
+      "question": "Complète : « Tu ___ bien ton rôle. » (verbe jouer)",
+      "options": ["jouons", "joues", "joue", "jouent"],
+      "reponse": "joues",
+      "explication": "Tu joues → terminaison -es au présent."
+    },
+    {
+      "question": "Conjugue 'parler' au présent avec 'vous' :",
+      "options": ["parle", "parlez", "parlons", "parlais"],
+      "reponse": "parlez",
+      "explication": "Vous parlez → 2e personne du pluriel."
+    },
+    {
+      "question": "Complète : « Je ___ souvent mes devoirs. » (verbe faire)",
+      "options": ["fait", "fais", "faites", "faisons"],
+      "reponse": "fais",
+      "explication": "Je fais → 1re personne du singulier du verbe 'faire'."
+    },
+    {
+      "question": "Quel est le temps de la phrase : « Il avait fini son travail. »",
+      "options": ["futur", "passé composé", "présent", "plus-que-parfait"],
+      "reponse": "plus-que-parfait",
+      "explication": "'Avait fini' est du plus-que-parfait (avoir à l’imparfait + participe passé)."
+    },
+    {
+      "question": "Conjugue 'voir' au futur avec 'nous' :",
+      "options": ["verrons", "voyons", "vont", "voient"],
+      "reponse": "verrons",
+      "explication": "Nous verrons → futur simple du verbe 'voir'."
+    },
+    {
+      "question": "Complète : « Il ___ une lettre à son frère. » (verbe écrire)",
+      "options": ["écris", "écrit", "écrivent", "écrivons"],
+      "reponse": "écrit",
+      "explication": "Il écrit → 3e personne du singulier du verbe 'écrire'."
+    },
+    {
+      "question": "Conjugue 'pouvoir' au présent avec 'je' :",
+      "options": ["peux", "peut", "pouvons", "peuvent"],
+      "reponse": "peux",
+      "explication": "Je peux → verbe 'pouvoir' au présent."
+    },
+    {
+      "question": "Quel est le synonyme de 'rapide' ?",
+      "options": ["lent", "vite", "court", "froid"],
+      "reponse": "vite",
+      "explication": "'Vite' a le même sens que 'rapide'."
+    },
+    {
+      "question": "Quel est le contraire de 'grand' ?",
+      "options": ["gros", "fort", "petit", "rapide"],
+      "reponse": "petit",
+      "explication": "Le contraire de 'grand' est 'petit'."
+    },
+    {
+      "question": "Le mot 'maison' désigne…",
+      "options": ["un animal", "un fruit", "un lieu d’habitation", "une boisson"],
+      "reponse": "un lieu d’habitation",
+      "explication": "Une maison est un lieu où l'on habite."
+    },
+    {
+      "question": "Quel mot a un sens proche de 'content' ?",
+      "options": ["triste", "heureux", "fatigué", "malade"],
+      "reponse": "heureux",
+      "explication": "'Content' signifie aussi 'heureux'."
+    },
+    {
+      "question": "Quel mot est le contraire de 'jour' ?",
+      "options": ["nuit", "lumière", "matin", "soleil"],
+      "reponse": "nuit",
+      "explication": "Le contraire de 'jour' est 'nuit'."
+    },
+    {
+      "question": "Quel est le synonyme de 'terminer' ?",
+      "options": ["commencer", "finir", "avancer", "sauter"],
+      "reponse": "finir",
+      "explication": "'Terminer' veut dire 'finir'."
+    },
+    {
+      "question": "Que fait-on avec une fourchette ?",
+      "options": ["écrire", "dessiner", "manger", "marcher"],
+      "reponse": "manger",
+      "explication": "Une fourchette sert à manger."
+    },
+    {
+      "question": "Le mot 'chaud' est le contraire de…",
+      "options": ["brûlant", "tiède", "froid", "sec"],
+      "reponse": "froid",
+      "explication": "'Froid' est le contraire de 'chaud'."
+    },
+    {
+      "question": "Que fait-on avec un stylo ?",
+      "options": ["cuisiner", "écrire", "marcher", "chanter"],
+      "reponse": "écrire",
+      "explication": "On utilise un stylo pour écrire."
+    },
+    {
+      "question": "Quel mot est un fruit ?",
+      "options": ["voiture", "banane", "chaise", "gomme"],
+      "reponse": "banane",
+      "explication": "La banane est un fruit."
+    },
+    {
+      "question": "Quel est le contraire de 'debout' ?",
+      "options": ["assis", "content", "rapide", "lent"],
+      "reponse": "assis",
+      "explication": "Le contraire de 'debout' est 'assis'."
+    },
+    {
+      "question": "Quel est le mot qui désigne une boisson ?",
+      "options": ["pain", "eau", "chaise", "table"],
+      "reponse": "eau",
+      "explication": "L’eau est une boisson."
+    },
+    {
+      "question": "Quel mot est le synonyme de 'fatigué' ?",
+      "options": ["joyeux", "endormi", "énergique", "triste"],
+      "reponse": "endormi",
+      "explication": "'Fatigué' et 'endormi' expriment un état de repos ou faiblesse."
+    },
+    {
+      "question": "Le mot 'animal' désigne…",
+      "options": ["un objet", "un être vivant", "un fruit", "un meuble"],
+      "reponse": "un être vivant",
+      "explication": "Un animal est un être vivant."
+    },
+    {
+      "question": "Quel est le contraire de 'ouvrir' ?",
+      "options": ["fermer", "marcher", "chanter", "tomber"],
+      "reponse": "fermer",
+      "explication": "On ferme ce qu’on a ouvert."
+    },
+    {
+      "question": "Quel mot désigne une couleur ?",
+      "options": ["chaud", "bleu", "rapide", "lent"],
+      "reponse": "bleu",
+      "explication": "'Bleu' est une couleur."
+    },
+    {
+      "question": "Quel mot désigne un animal ?",
+      "options": ["poulet", "maïs", "pagne", "pied"],
+      "reponse": "poulet",
+      "explication": "Le poulet est un animal domestique."
+    },
+    {
+      "question": "Le mot 'chaussure' sert à…",
+      "options": ["marcher", "manger", "nager", "regarder"],
+      "reponse": "marcher",
+      "explication": "Les chaussures servent à marcher."
+    },
+    {
+      "question": "Quel est le contraire de 'lourd' ?",
+      "options": ["lent", "rapide", "léger", "fort"],
+      "reponse": "léger",
+      "explication": "Ce qui n’est pas lourd est léger."
+    },
+    {
+      "question": "Quel mot est le synonyme de 'beau' ?",
+      "options": ["laid", "joli", "fort", "mauvais"],
+      "reponse": "joli",
+      "explication": "'Beau' et 'joli' ont un sens proche."
+    },
+    {
+      "question": "Un mot du même sens que 'parler' est…",
+      "options": ["crier", "chanter", "dire", "manger"],
+      "reponse": "dire",
+      "explication": "'Dire' est une forme de parole, donc synonyme de 'parler'."
+    },
+    {
+      "question": "Quel est le contraire de 'vivant' ?",
+      "options": ["éveillé", "mort", "fou", "calme"],
+      "reponse": "mort",
+      "explication": "'Mort' est le contraire de 'vivant'."
+    },
+    {
+      "question": "Quel est le synonyme de 'aider' ?",
+      "options": ["blesser", "soutenir", "ignorer", "déranger"],
+      "reponse": "soutenir",
+      "explication": "'Soutenir' signifie aussi 'aider'."
+    },
+    {
+      "question": "Quel mot désigne un métier ?",
+      "options": ["chat", "boulanger", "brosse", "table"],
+      "reponse": "boulanger",
+      "explication": "Le boulanger est une personne qui fait du pain."
+    },
+    {
+      "question": "Quel mot est le contraire de 'haut' ?",
+      "options": ["long", "petit", "bas", "gros"],
+      "reponse": "bas",
+      "explication": "Le contraire de 'haut' est 'bas'."
+    },
+    {
+      "question": "Si un commerçant achète un sac de riz à 10 000 F et le revend à 12 000 F, quel est son bénéfice ?",
+      "options": ["1000 F", "1500 F", "2000 F", "2500 F"],
+      "reponse": "2000 F",
+      "explication": "Bénéfice = Prix de vente - Prix d'achat = 12 000 - 10 000 = 2000 F."
+    },
+    {
+      "question": "Un élève achète un stylo à 150 F et le revend à 100 F. Il a fait une…",
+      "options": ["bénéfice", "perte", "promotion", "gratuité"],
+      "reponse": "perte",
+      "explication": "Il revend moins cher qu’il a acheté → il perd de l’argent."
+    },
+    {
+      "question": "Prix d’achat : 500 F / Prix de revente : 700 F. Le bénéfice est de…",
+      "options": ["100 F", "150 F", "200 F", "300 F"],
+      "reponse": "200 F",
+      "explication": "700 - 500 = 200 F de bénéfice."
+    },
+    {
+      "question": "Un commerçant achète 5 bananes à 100 F chacune. Combien a-t-il dépensé ?",
+      "options": ["300 F", "400 F", "500 F", "600 F"],
+      "reponse": "500 F",
+      "explication": "100 F × 5 = 500 F de coût total d'achat."
+    },
+    {
+      "question": "Un élève vend un bonbon à 25 F alors qu’il l’a acheté à 50 F. Quelle est la perte ?",
+      "options": ["25 F", "50 F", "20 F", "15 F"],
+      "reponse": "25 F",
+      "explication": "Perte = 50 - 25 = 25 F."
+    },
+    {
+      "question": "Un commerçant achète un article 1000 F et le revend 1000 F. Il a…",
+      "options": ["fait un bénéfice", "fait une perte", "rien gagné", "donné"],
+      "reponse": "rien gagné",
+      "explication": "1000 - 1000 = 0 → pas de gain ni de perte."
+    },
+    {
+      "question": "Si tu gagnes 300 F après revente, on parle de…",
+      "options": ["perte", "dette", "bénéfice", "cadeau"],
+      "reponse": "bénéfice",
+      "explication": "Gagner de l'argent après vente = bénéfice."
+    },
+    {
+      "question": "Un commerçant achète un article à 800 F et le revend à 750 F. Sa perte est de…",
+      "options": ["50 F", "40 F", "60 F", "70 F"],
+      "reponse": "50 F",
+      "explication": "800 - 750 = 50 F de perte."
+    },
+    {
+      "question": "Quel est le prix total de 3 livres à 250 F chacun ?",
+      "options": ["500 F", "750 F", "850 F", "1000 F"],
+      "reponse": "750 F",
+      "explication": "3 × 250 F = 750 F."
+    },
+    {
+      "question": "Un commerçant achète une chemise à 2000 F et fait un bénéfice de 500 F. À combien a-t-il revendu la chemise ?",
+      "options": ["2500 F", "2200 F", "2700 F", "3000 F"],
+      "reponse": "2500 F",
+      "explication": "Prix de vente = Achat + Bénéfice = 2000 + 500 = 2500 F."
+    },
+    {
+      "question": "Awa a 3 mangues. Elle en achète 2 de plus. Combien en a-t-elle maintenant ?",
+      "options": ["4", "5", "6", "3"],
+      "reponse": "5",
+      "explication": "3 + 2 = 5 mangues."
+    },
+    {
+      "question": "Un cahier coûte 250 F. Combien coûtent 2 cahiers ?",
+      "options": ["500 F", "400 F", "350 F", "450 F"],
+      "reponse": "500 F",
+      "explication": "250 F × 2 = 500 F."
+    },
+    {
+      "question": "Quel est le plus petit nombre ?",
+      "options": ["25", "12", "8", "16"],
+      "reponse": "8",
+      "explication": "8 est le plus petit parmi ces nombres."
+    },
+    {
+      "question": "Salif a 10 billes. Il en donne 4 à son ami. Combien lui en reste-t-il ?",
+      "options": ["4", "5", "6", "7"],
+      "reponse": "6",
+      "explication": "10 - 4 = 6 billes."
+    },
+    {
+      "question": "Le double de 8 est…",
+      "options": ["14", "15", "16", "18"],
+      "reponse": "16",
+      "explication": "8 × 2 = 16."
+    },
+    {
+      "question": "Combien font 9 + 6 ?",
+      "options": ["14", "15", "16", "13"],
+      "reponse": "15",
+      "explication": "9 + 6 = 15."
+    },
+    {
+      "question": "Quelle est la moitié de 18 ?",
+      "options": ["8", "9", "10", "11"],
+      "reponse": "9",
+      "explication": "18 ÷ 2 = 9."
+    },
+    {
+      "question": "Dans une classe, il y a 12 garçons et 8 filles. Combien d’élèves au total ?",
+      "options": ["18", "20", "21", "22"],
+      "reponse": "20",
+      "explication": "12 + 8 = 20 élèves."
+    },
+    {
+      "question": "Si on partage 12 bonbons entre 4 enfants, chaque enfant reçoit…",
+      "options": ["2", "3", "4", "6"],
+      "reponse": "3",
+      "explication": "12 ÷ 4 = 3 bonbons."
+    },
+    {
+      "question": "Quelle est la somme de 7, 2 et 1 ?",
+      "options": ["8", "9", "10", "11"],
+      "reponse": "10",
+      "explication": "7 + 2 + 1 = 10."
+    },
+    {
+      "question": "Combien de billets de 100 F pour faire 500 F ?",
+      "options": ["4", "5", "6", "10"],
+      "reponse": "5",
+      "explication": "5 × 100 F = 500 F."
+    },
+    {
+      "question": "Quel est le résultat de 30 - 15 ?",
+      "options": ["10", "15", "20", "25"],
+      "reponse": "15",
+      "explication": "30 - 15 = 15."
+    },
+    {
+      "question": "Quel nombre est pair ?",
+      "options": ["5", "7", "9", "8"],
+      "reponse": "8",
+      "explication": "8 est divisible par 2, donc pair."
+    },
+    {
+      "question": "Quel est le triple de 5 ?",
+      "options": ["10", "15", "20", "25"],
+      "reponse": "15",
+      "explication": "5 × 3 = 15."
+    },
+    {
+      "question": "Lequel des nombres suivants est impair ?",
+      "options": ["2", "4", "6", "7"],
+      "reponse": "7",
+      "explication": "7 n’est pas divisible par 2, donc impair."
+    },
+    {
+      "question": "Une boîte contient 6 rangées de 5 bonbons. Combien au total ?",
+      "options": ["30", "25", "35", "40"],
+      "reponse": "30",
+      "explication": "6 × 5 = 30 bonbons."
+    },
+    {
+      "question": "Quel est le résultat de 100 - 75 ?",
+      "options": ["30", "25", "20", "15"],
+      "reponse": "25",
+      "explication": "100 - 75 = 25."
+    },
+    {
+      "question": "Combien y a-t-il de dizaines dans 90 ?",
+      "options": ["9", "10", "8", "7"],
+      "reponse": "9",
+      "explication": "90 ÷ 10 = 9 dizaines."
+    },
+    {
+      "question": "Quel nombre est entre 30 et 40 ?",
+      "options": ["28", "32", "42", "29"],
+      "reponse": "32",
+      "explication": "32 se trouve entre 30 et 40."
+    },
+    {
+      "question": "Aïcha a 1000 F et achète un livre à 600 F. Combien lui reste-t-il ?",
+      "options": ["200 F", "300 F", "400 F", "500 F"],
+      "reponse": "400 F",
+      "explication": "1000 F - 600 F = 400 F."
+    },
+    {
+      "question": "Quelle est la formule pour calculer le périmètre d’un rectangle ?",
+      "options": ["L × l", "L + l", "2 × (L + l)", "L × L"],
+      "reponse": "2 × (L + l)",
+      "explication": "Le périmètre d’un rectangle est égal à 2 fois la somme de la longueur et de la largeur."
+    },
+    {
+      "question": "Quelle est la formule de l’aire d’un carré ?",
+      "options": ["C × C", "2 × C", "C + C", "C ÷ 2"],
+      "reponse": "C × C",
+      "explication": "L’aire d’un carré est le côté multiplié par lui-même."
+    },
+    {
+      "question": "Quelle est la formule de l’aire d’un rectangle ?",
+      "options": ["L + l", "L × l", "2 × (L + l)", "L ÷ l"],
+      "reponse": "L × l",
+      "explication": "L’aire d’un rectangle est la longueur multipliée par la largeur."
+    },
+    {
+      "question": "Combien font 1 mètre en centimètres ?",
+      "options": ["10 cm", "100 cm", "1000 cm", "1 cm"],
+      "reponse": "100 cm",
+      "explication": "1 mètre est égal à 100 centimètres."
+    },
+    {
+      "question": "Combien de côtés a un carré ?",
+      "options": ["3", "4", "5", "6"],
+      "reponse": "4",
+      "explication": "Un carré a 4 côtés égaux."
+    },
+    {
+      "question": "Quelle est la formule du périmètre d’un carré ?",
+      "options": ["C × C", "4 × C", "2 × C", "C + C"],
+      "reponse": "4 × C",
+      "explication": "Le périmètre d’un carré est égal à 4 fois la longueur d’un côté."
+    },
+    {
+      "question": "Quel est l’unité de mesure de l’aire ?",
+      "options": ["cm", "cm²", "cm³", "m"],
+      "reponse": "cm²",
+      "explication": "L’aire s’exprime en unité de surface : cm², m², etc."
+    },
+    {
+      "question": "Si un rectangle a 5 cm de long et 3 cm de large, son aire est…",
+      "options": ["15 cm", "15 cm²", "8 cm²", "5 cm²"],
+      "reponse": "15 cm²",
+      "explication": "Aire = L × l = 5 × 3 = 15 cm²."
+    },
+    {
+      "question": "Quel est le périmètre d’un carré de 6 cm de côté ?",
+      "options": ["12 cm", "36 cm", "24 cm", "18 cm"],
+      "reponse": "24 cm",
+      "explication": "Périmètre = 4 × C = 4 × 6 = 24 cm."
+    },
+    {
+      "question": "Quelle opération est utilisée pour partager équitablement ?",
+      "options": ["Addition", "Soustraction", "Multiplication", "Division"],
+      "reponse": "Division",
+      "explication": "La division permet de partager équitablement une quantité."
+    },
+    {
+      "question": "Si un carré a une aire de 25 cm², alors son côté mesure…",
+      "options": ["4 cm", "5 cm", "6 cm", "7 cm"],
+      "reponse": "5 cm",
+      "explication": "Côté = √25 = 5."
+    },
+    {
+      "question": "Quelle est l’unité de mesure de la masse ?",
+      "options": ["litre", "mètre", "kilogramme", "heure"],
+      "reponse": "kilogramme",
+      "explication": "La masse se mesure en kilogrammes ou grammes."
+    },
+    {
+      "question": "Combien de millilitres dans 1 litre ?",
+      "options": ["100 ml", "500 ml", "1000 ml", "10 ml"],
+      "reponse": "1000 ml",
+      "explication": "1 litre = 1000 millilitres."
+    },
+    {
+      "question": "Le tiers de 12 est…",
+      "options": ["3", "4", "5", "6"],
+      "reponse": "4",
+      "explication": "12 ÷ 3 = 4."
+    },
+    {
+      "question": "Si tu as 3 billets de 100 F, tu as…",
+      "options": ["200 F", "300 F", "100 F", "400 F"],
+      "reponse": "300 F",
+      "explication": "3 × 100 = 300 F."
+    },
+    {
+      "question": "Pour trouver le périmètre, on…",
+      "options": ["multiplie les côtés", "divise les côtés", "additionne tous les côtés", "soustrait les côtés"],
+      "reponse": "additionne tous les côtés",
+      "explication": "Le périmètre est la somme de tous les côtés."
+    },
+    {
+      "question": "L’aire se mesure en…",
+      "options": ["cm", "cm²", "kg", "h"],
+      "reponse": "cm²",
+      "explication": "Les unités d’aire sont toujours au carré (m², cm², etc.)."
+    },
+    {
+      "question": "Un rectangle de 4 cm de long et 2 cm de large a un périmètre de…",
+      "options": ["6 cm", "8 cm", "12 cm", "10 cm"],
+      "reponse": "12 cm",
+      "explication": "Périmètre = 2 × (4 + 2) = 12 cm."
+    },
+    {
+      "question": "Une pièce de 5 francs est plus petite que…",
+      "options": ["1 franc", "10 francs", "2 francs", "5 francs"],
+      "reponse": "10 francs",
+      "explication": "10 francs est plus que 5 francs."
+    },
+    {
+      "question": "Quel est le quart de 20 ?",
+      "options": ["4", "5", "10", "6"],
+      "reponse": "5",
+      "explication": "20 ÷ 4 = 5."
+    },
+    {
+      "question": "Si tu ouvres un parapluie, c’est sûrement parce qu’il…",
+      "options": ["fait chaud", "fait nuit", "pleut", "fait beau"],
+      "reponse": "pleut",
+      "explication": "On utilise un parapluie quand il pleut pour se protéger de l’eau."
+    },
+    {
+      "question": "Lequel de ces objets est le plus utile pour éteindre un feu ?",
+      "options": ["Casserole", "Seau d’eau", "Balai", "Télécommande"],
+      "reponse": "Seau d’eau",
+      "explication": "On peut verser de l’eau sur le feu pour l’éteindre."
+    },
+    {
+      "question": "Si un ballon monte dans le ciel, c’est parce qu’il est…",
+      "options": ["vide", "gonflé d’air", "rempli de pierre", "cassé"],
+      "reponse": "gonflé d’air",
+      "explication": "Le ballon monte car il est léger et rempli d’air ou d’hélium."
+    },
+    {
+      "question": "Lequel ne se mange pas ?",
+      "options": ["Pain", "Savon", "Riz", "Pomme"],
+      "reponse": "Savon",
+      "explication": "Le savon sert à se laver, pas à être mangé."
+    },
+    {
+      "question": "Quel objet sert à couper ?",
+      "options": ["Cuillère", "Couteau", "Assiette", "Bol"],
+      "reponse": "Couteau",
+      "explication": "On utilise un couteau pour couper des aliments."
+    },
+    {
+      "question": "Lequel ne vole pas ?",
+      "options": ["Oiseau", "Avion", "Chauve-souris", "Poisson"],
+      "reponse": "Poisson",
+      "explication": "Le poisson nage, il ne vole pas."
+    },
+    {
+      "question": "Si tu as très soif, tu bois…",
+      "options": ["de l’eau", "du savon", "du feu", "du sable"],
+      "reponse": "de l’eau",
+      "explication": "On boit de l’eau pour étancher la soif."
+    },
+    {
+      "question": "Quand tu es fatigué, que dois-tu faire ?",
+      "options": ["Crier", "Manger", "Dormir", "Danser"],
+      "reponse": "Dormir",
+      "explication": "Le sommeil aide le corps à se reposer quand on est fatigué."
+    },
+    {
+      "question": "Que faut-il faire avant de manger ?",
+      "options": ["Courir", "Regarder la télé", "Se laver les mains", "Dormir"],
+      "reponse": "Se laver les mains",
+      "explication": "Il est important de se laver les mains pour éviter les microbes avant de manger."
+    },
+    {
+      "question": "Si tu casses un verre, que dois-tu faire ?",
+      "options": ["Fuir", "Rire", "Ramasser les morceaux", "Sauter"],
+      "reponse": "Ramasser les morceaux",
+      "explication": "Il faut nettoyer les morceaux pour éviter qu’on ne se blesse."
+    },
+    {
+      "question": "Combien font 6 + 3 ?",
+      "options": ["8", "9", "10", "7"],
+      "reponse": "9",
+      "explication": "6 + 3 = 9."
+    },
+    {
+      "question": "Combien font 10 - 4 ?",
+      "options": ["7", "5", "6", "4"],
+      "reponse": "6",
+      "explication": "10 - 4 = 6."
+    },
+    {
+      "question": "Combien font 2 × 5 ?",
+      "options": ["7", "10", "8", "12"],
+      "reponse": "10",
+      "explication": "2 multiplié par 5 donne 10."
+    },
+    {
+      "question": "Quel est le double de 7 ?",
+      "options": ["14", "12", "10", "15"],
+      "reponse": "14",
+      "explication": "Le double de 7, c'est 7 × 2 = 14."
+    },
+    {
+      "question": "Quel est le tiers de 9 ?",
+      "options": ["3", "6", "4", "2"],
+      "reponse": "3",
+      "explication": "9 ÷ 3 = 3."
+    },
+    {
+      "question": "Quel nombre complète : 4, 6, 8, ... ?",
+      "options": ["9", "10", "11", "12"],
+      "reponse": "10",
+      "explication": "On ajoute 2 à chaque fois : 4+2=6, 6+2=8, 8+2=10."
+    },
+    {
+      "question": "Combien font 3 × 3 ?",
+      "options": ["6", "9", "8", "7"],
+      "reponse": "9",
+      "explication": "3 multiplié par 3 donne 9."
+    },
+    {
+      "question": "Combien font 12 - 7 ?",
+      "options": ["6", "4", "5", "3"],
+      "reponse": "5",
+      "explication": "12 - 7 = 5."
+    },
+    {
+      "question": "Quelle forme a 4 côtés égaux ?",
+      "options": ["Triangle", "Cercle", "Carré", "Rectangle"],
+      "reponse": "Carré",
+      "explication": "Le carré a 4 côtés égaux."
+    },
+    {
+      "question": "Combien de côtés a un triangle ?",
+      "options": ["2", "3", "4", "5"],
+      "reponse": "3",
+      "explication": "Un triangle a 3 côtés."
+    },
+    {
+      "question": "Quelle est la moitié de 10 ?",
+      "options": ["3", "4", "5", "6"],
+      "reponse": "5",
+      "explication": "La moitié de 10 est 5."
+    },
+    {
+      "question": "Quel est le triple de 4 ?",
+      "options": ["12", "10", "8", "16"],
+      "reponse": "12",
+      "explication": "3 × 4 = 12."
+    },
+    {
+      "question": "Quel est le nom de cette forme ronde ?",
+      "options": ["Carré", "Cercle", "Triangle", "Rectangle"],
+      "reponse": "Cercle",
+      "explication": "Le cercle est la seule forme parfaitement ronde."
+    },
+    {
+      "question": "Combien de côtés a un rectangle ?",
+      "options": ["3", "4", "5", "6"],
+      "reponse": "4",
+      "explication": "Un rectangle a 4 côtés (2 longs et 2 courts)."
+    },
+    {
+      "question": "Combien font 8 + 5 ?",
+      "options": ["13", "14", "12", "11"],
+      "reponse": "13",
+      "explication": "8 + 5 = 13."
+    },
+    {
+      "question": "Quel est le carré du chiffre 3 ?",
+      "options": ["6", "9", "12", "3"],
+      "reponse": "9",
+      "explication": "3 × 3 = 9, donc le carré de 3 est 9."
+    },
+    {
+      "question": "Quelle forme n’a pas de côté ?",
+      "options": ["Carré", "Rectangle", "Cercle", "Triangle"],
+      "reponse": "Cercle",
+      "explication": "Le cercle est une ligne courbe fermée sans côté."
+    },
+    {
+      "question": "Quelle forme a 4 côtés, mais pas tous égaux ?",
+      "options": ["Carré", "Rectangle", "Triangle", "Rond"],
+      "reponse": "Rectangle",
+      "explication": "Le rectangle a 4 côtés : 2 longs et 2 courts."
+    },
+    {
+      "question": "Combien font 20 - 5 ?",
+      "options": ["14", "15", "16", "13"],
+      "reponse": "15",
+      "explication": "20 - 5 = 15."
+    },
+    {
+      "question": "Combien font 6 × 2 ?",
+      "options": ["10", "11", "12", "13"],
+      "reponse": "12",
+      "explication": "6 multiplié par 2 donne 12."
+    },
+    {
+      "question": "Quel mot ne correspond pas aux autres ?",
+      "options": ["Chien", "Chat", "Poule", "Avion"],
+      "reponse": "Avion",
+      "explication": "Chien, chat et poule sont des animaux ; l’avion est un objet."
+    },
+    {
+      "question": "Quelle forme peut rouler ?",
+      "options": ["Carré", "Triangle", "Cercle", "Rectangle"],
+      "reponse": "Cercle",
+      "explication": "Seul le cercle peut rouler car il est rond."
+    },
+    {
+      "question": "Quel est le nombre qui suit : 3, 6, 9, 12, ... ?",
+      "options": ["13", "14", "15", "16"],
+      "reponse": "15",
+      "explication": "On ajoute 3 à chaque fois. 12 + 3 = 15."
+    },
+    {
+      "question": "Lequel de ces mots est un fruit ?",
+      "options": ["Chien", "Banane", "Voiture", "Chaise"],
+      "reponse": "Banane",
+      "explication": "Banane est un fruit, les autres ne le sont pas."
+    },
+    {
+      "question": "Quelle heure vient après 14h ?",
+      "options": ["13h", "15h", "12h", "10h"],
+      "reponse": "15h",
+      "explication": "Après 14h vient 15h dans l’ordre du temps."
+    },
+    {
+      "question": "Quel nombre complète la suite : 1, 2, 4, 7, 11, ... ?",
+      "options": ["14", "15", "16", "17"],
+      "reponse": "16",
+      "explication": "On ajoute +1, +2, +3, +4... donc +5 → 11 + 5 = 16."
+    },
+    {
+      "question": "Quel est l'intrus ?",
+      "options": ["Brosse", "Peigne", "Crayon", "Savon"],
+      "reponse": "Crayon",
+      "explication": "Les autres servent à la toilette, sauf le crayon."
+    },
+    {
+      "question": "Quelle est la couleur du ciel quand il fait beau ?",
+      "options": ["Rouge", "Bleu", "Vert", "Noir"],
+      "reponse": "Bleu",
+      "explication": "Quand il fait beau, le ciel est bleu."
+    },
+    {
+      "question": "Combien font 5 + 4 ?",
+      "options": ["8", "9", "10", "11"],
+      "reponse": "9",
+      "explication": "5 + 4 = 9."
+    },
+    {
+      "question": "Quel mot commence par la même lettre que 'balle' ?",
+      "options": ["Banane", "Roue", "Table", "Chien"],
+      "reponse": "Banane",
+      "explication": "Balle et banane commencent par la lettre B."
+    },
+    {
+      "question": "Si lundi est le 1er jour, quel est le 3e ?",
+      "options": ["Mardi", "Jeudi", "Mercredi", "Dimanche"],
+      "reponse": "Mercredi",
+      "explication": "Lundi (1), Mardi (2), Mercredi (3)."
+    },
+    {
+      "question": "Quel objet permet de lire l’heure ?",
+      "options": ["Chaussure", "Stylo", "Montre", "Sac"],
+      "reponse": "Montre",
+      "explication": "La montre sert à lire l’heure."
+    },
+    {
+      "question": "Quel animal est le plus petit ?",
+      "options": ["Éléphant", "Chien", "Souris", "Lion"],
+      "reponse": "Souris",
+      "explication": "La souris est bien plus petite que les autres."
+    },
+    {
+      "question": "Quelle figure a trois côtés ?",
+      "options": ["Cercle", "Carré", "Triangle", "Rectangle"],
+      "reponse": "Triangle",
+      "explication": "Le triangle a trois côtés."
+    },
+    {
+      "question": "Quel est le contraire de 'jour' ?",
+      "options": ["Clair", "Matin", "Nuit", "Soleil"],
+      "reponse": "Nuit",
+      "explication": "Le contraire de jour est la nuit."
+    },
+    {
+      "question": "Si tu es au nord, l’est est à ta... ?",
+      "options": ["Gauche", "Droite", "Devant", "Derrière"],
+      "reponse": "Droite",
+      "explication": "Face au nord, l’est est à droite."
+    },
+    {
+      "question": "Quel mot est mal écrit ?",
+      "options": ["Maison", "Table", "Voitur", "Fenêtre"],
+      "reponse": "Voitur",
+      "explication": "Il manque un 'e' à 'Voitur', ça doit être 'Voiture'."
+    },
+    {
+      "question": "Quel mot complète : le chat miaule, le chien ... ?",
+      "options": ["Meugle", "Aboie", "Ronronne", "Parle"],
+      "reponse": "Aboie",
+      "explication": "Le chien aboie, c’est son cri."
+    },
+    {
+      "question": "Quel est l'intrus ?",
+      "options": ["Lundi", "Jeudi", "Avril", "Mardi"],
+      "reponse": "Avril",
+      "explication": "Avril est un mois, les autres sont des jours."
+    },
+    {
+      "question": "Que fait-on avec un crayon ?",
+      "options": ["Dormir", "Manger", "Écrire", "Marcher"],
+      "reponse": "Écrire",
+      "explication": "On utilise un crayon pour écrire."
+    },
+    {
+      "question": "Quel nombre vient après 7 dans la suite : 2, 4, 5, 7, ... ?",
+      "options": ["8", "9", "10", "11"],
+      "reponse": "8",
+      "explication": "On ajoute alternativement +2 et +1. Donc après 7, on ajoute +1 pour obtenir 8."
+    },
+    {
+      "question": "Lequel ne correspond pas aux autres ?",
+      "options": ["Banane", "Mangue", "Orange", "Carotte"],
+      "reponse": "Carotte",
+      "explication": "La carotte est un légume, les autres sont des fruits."
+    },
+    {
+      "question": "Combien font : 3 + 3 + 3 = ?",
+      "options": ["6", "9", "12", "3"],
+      "reponse": "9",
+      "explication": "3 + 3 = 6, et 6 + 3 = 9."
+    },
+    {
+      "question": "Quel est l’objet qui peut rouler facilement ?",
+      "options": ["Balle", "Chaise", "Livre", "Boîte"],
+      "reponse": "Balle",
+      "explication": "Seule la balle est ronde et peut rouler."
+    },
+    {
+      "question": "Si tu es face au nord, où est l’ouest ?",
+      "options": ["À droite", "À gauche", "Derrière", "Devant"],
+      "reponse": "À gauche",
+      "explication": "Quand on regarde vers le nord, l’ouest est à gauche."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 6 ?",
+      "options": ["11", "12", "13", "14"],
+      "reponse": "12",
+      "explication": "2 fois 6 donne 12."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 7 ?",
+      "options": ["13", "14", "15", "16"],
+      "reponse": "14",
+      "explication": "2 fois 7 donne 14."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 8 ?",
+      "options": ["15", "16", "17", "18"],
+      "reponse": "16",
+      "explication": "2 fois 8 donne 16."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 9 ?",
+      "options": ["17", "18", "19", "20"],
+      "reponse": "18",
+      "explication": "2 fois 9 donne 18."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 10 ?",
+      "options": ["19", "20", "21", "22"],
+      "reponse": "20",
+      "explication": "2 fois 10 donne 20."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 11 ?",
+      "options": ["21", "22", "23", "24"],
+      "reponse": "22",
+      "explication": "2 fois 11 donne 22."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 12 ?",
+      "options": ["23", "24", "25", "26"],
+      "reponse": "24",
+      "explication": "2 fois 12 donne 24."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 13 ?",
+      "options": ["25", "26", "27", "28"],
+      "reponse": "26",
+      "explication": "2 fois 13 donne 26."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 14 ?",
+      "options": ["27", "28", "29", "30"],
+      "reponse": "28",
+      "explication": "2 fois 14 donne 28."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 15 ?",
+      "options": ["29", "30", "31", "32"],
+      "reponse": "30",
+      "explication": "2 fois 15 donne 30."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 16 ?",
+      "options": ["31", "32", "33", "34"],
+      "reponse": "32",
+      "explication": "2 fois 16 donne 32."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 17 ?",
+      "options": ["33", "34", "35", "36"],
+      "reponse": "34",
+      "explication": "2 fois 17 donne 34."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 18 ?",
+      "options": ["35", "36", "37", "38"],
+      "reponse": "36",
+      "explication": "2 fois 18 donne 36."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 19 ?",
+      "options": ["37", "38", "39", "40"],
+      "reponse": "38",
+      "explication": "2 fois 19 donne 38."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 20 ?",
+      "options": ["39", "40", "41", "42"],
+      "reponse": "40",
+      "explication": "2 fois 20 donne 40."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 21 ?",
+      "options": ["41", "42", "43", "44"],
+      "reponse": "42",
+      "explication": "2 fois 21 donne 42."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 22 ?",
+      "options": ["43", "44", "45", "46"],
+      "reponse": "44",
+      "explication": "2 fois 22 donne 44."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 23 ?",
+      "options": ["45", "46", "47", "48"],
+      "reponse": "46",
+      "explication": "2 fois 23 donne 46."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 24 ?",
+      "options": ["47", "48", "49", "50"],
+      "reponse": "48",
+      "explication": "2 fois 24 donne 48."
+    },
+    {
+      "question": "Quelle est la valeur de 2 x 25 ?",
+      "options": ["49", "50", "51", "52"],
+      "reponse": "50",
+      "explication": "2 fois 25 donne 50."
+    },
+    {
+      "question": "Comment dit-on 'chien' en anglais ?",
+      "options": ["Cat", "Goat", "Dog", "Bird"],
+      "reponse": "Dog",
+      "explication": "'Chien' se dit 'Dog' en anglais."
+    },
+    {
+      "question": "Comment dit-on 'bonjour' en anglais ?",
+      "options": ["Thank you", "Hello", "Sorry", "Goodbye"],
+      "reponse": "Hello",
+      "explication": "'Bonjour' se traduit par 'Hello'."
+    },
+    {
+      "question": "Quelle est la traduction de 'merci' en anglais ?",
+      "options": ["Please", "Sorry", "Thank you", "Excuse me"],
+      "reponse": "Thank you",
+      "explication": "'Merci' en anglais c’est 'Thank you'."
+    },
+    {
+      "question": "Comment dit-on 'maison' en anglais ?",
+      "options": ["Room", "School", "House", "Garden"],
+      "reponse": "House",
+      "explication": "'Maison' se dit 'House'."
+    },
+    {
+      "question": "Quel mot anglais veut dire 'livre' ?",
+      "options": ["Library", "Book", "Notebook", "Pen"],
+      "reponse": "Book",
+      "explication": "'Livre' en anglais c’est 'Book'."
+    },
+    {
+      "question": "Comment dit-on 'eau' en anglais ?",
+      "options": ["Milk", "Water", "Juice", "Oil"],
+      "reponse": "Water",
+      "explication": "'Eau' = 'Water' en anglais."
+    },
+    {
+      "question": "Comment dit-on 'école' en anglais ?",
+      "options": ["Class", "Room", "School", "Desk"],
+      "reponse": "School",
+      "explication": "'École' = 'School'."
+    },
+    {
+      "question": "Quelle est la traduction de 'chat' en anglais ?",
+      "options": ["Cat", "Dog", "Bird", "Fish"],
+      "reponse": "Cat",
+      "explication": "'Chat' = 'Cat'."
+    },
+    {
+      "question": "Comment dit-on 'table' en anglais ?",
+      "options": ["Chair", "Table", "Board", "Bench"],
+      "reponse": "Table",
+      "explication": "'Table' se dit aussi 'Table' en anglais."
+    },
+    {
+      "question": "Quel est le mot anglais pour 'père' ?",
+      "options": ["Father", "Mother", "Uncle", "Brother"],
+      "reponse": "Father",
+      "explication": "'Père' se dit 'Father'."
+    },
+    {
+      "question": "Comment dit-on 'mère' en anglais ?",
+      "options": ["Mother", "Father", "Sister", "Aunt"],
+      "reponse": "Mother",
+      "explication": "'Mère' = 'Mother' en anglais."
+    },
+    {
+      "question": "Quel mot anglais veut dire 'chaise' ?",
+      "options": ["Table", "Chair", "Bench", "Board"],
+      "reponse": "Chair",
+      "explication": "'Chaise' = 'Chair'."
+    },
+    {
+      "question": "Comment dit-on 'bonjour tout le monde' ?",
+      "options": ["Hi friends", "Hello everyone", "Good night", "Goodbye all"],
+      "reponse": "Hello everyone",
+      "explication": "'Bonjour tout le monde' = 'Hello everyone'."
+    },
+    {
+      "question": "Quel est le mot anglais pour 'porte' ?",
+      "options": ["Window", "Wall", "Gate", "Door"],
+      "reponse": "Door",
+      "explication": "'Porte' se dit 'Door'."
+    },
+    {
+      "question": "Comment dit-on 'frère' en anglais ?",
+      "options": ["Father", "Brother", "Cousin", "Uncle"],
+      "reponse": "Brother",
+      "explication": "'Frère' = 'Brother'."
+    },
+    {
+      "question": "Quel mot anglais signifie 'fille' (enfant) ?",
+      "options": ["Boy", "Man", "Girl", "Woman"],
+      "reponse": "Girl",
+      "explication": "'Fille' = 'Girl'."
+    },
+    {
+      "question": "Comment dit-on 'garçon' en anglais ?",
+      "options": ["Man", "Boy", "Son", "Uncle"],
+      "reponse": "Boy",
+      "explication": "'Garçon' = 'Boy'."
+    },
+    {
+      "question": "Quelle est la couleur de l’herbe (grass) ?",
+      "options": ["Green", "Red", "Blue", "Black"],
+      "reponse": "Green",
+      "explication": "L'herbe est verte = 'Green'."
+    },
+    {
+      "question": "Comment dit-on 'je suis fatigué' en anglais ?",
+      "options": ["I am fine", "I am hungry", "I am tired", "I am happy"],
+      "reponse": "I am tired",
+      "explication": "'Je suis fatigué' = 'I am tired'."
+    },
+    {
+      "question": "Quel mot anglais signifie 'bonsoir' ?",
+      "options": ["Good morning", "Good evening", "Good night", "Goodbye"],
+      "reponse": "Good evening",
+      "explication": "'Bonsoir' = 'Good evening'."
+    },
+    {
+      "question": "Comment complète-t-on cette phrase : 'He ___ a book.' ?",
+      "options": ["read", "reads", "reading", "is read"],
+      "reponse": "reads",
+      "explication": "À la 3e personne du singulier (he), on ajoute -s au verbe : 'He reads'."
+    },
+    {
+      "question": "Quel est l’article indéfini correct pour 'apple' ?",
+      "options": ["a", "an", "the", "no article"],
+      "reponse": "an",
+      "explication": "On utilise 'an' avant une voyelle : 'an apple'."
+    },
+    {
+      "question": "Quelle est la bonne forme du verbe : 'They ___ at school.' ?",
+      "options": ["is", "are", "am", "was"],
+      "reponse": "are",
+      "explication": "Avec 'they', on utilise 'are' : 'They are at school'."
+    },
+    {
+      "question": "Complète : 'I ___ a pen.'",
+      "options": ["has", "have", "having", "am"],
+      "reponse": "have",
+      "explication": "Avec 'I', on utilise 'have' : 'I have a pen'."
+    },
+    {
+      "question": "Quel pronom correspond à 'Marie et moi' ?",
+      "options": ["They", "We", "You", "She"],
+      "reponse": "We",
+      "explication": "'Marie et moi' = 'We' en anglais."
+    },
+    {
+      "question": "Quel mot remplace 'le chat' dans : 'The cat is black. ___ is small.'",
+      "options": ["She", "It", "He", "They"],
+      "reponse": "It",
+      "explication": "On utilise 'It' pour un animal ou une chose : 'It is small'."
+    },
+    {
+      "question": "Quel est le pluriel correct de 'baby' ?",
+      "options": ["babys", "babies", "babyes", "babie"],
+      "reponse": "babies",
+      "explication": "Les mots finissant par -y précédé d’une consonne prennent -ies : 'babies'."
+    },
+    {
+      "question": "Quelle est la forme négative de : 'He plays football.' ?",
+      "options": ["He not play football.", "He don't play football.", "He doesn't play football.", "He isn't play football."],
+      "reponse": "He doesn't play football.",
+      "explication": "La négation à la 3e personne est : 'He doesn't + base verbale'."
+    },
+    {
+      "question": "Complète : 'They ___ not here.'",
+      "options": ["are", "is", "was", "am"],
+      "reponse": "are",
+      "explication": "'They' prend 'are' : 'They are not here'."
+    },
+    {
+      "question": "Quel est le bon pronom pour 'Paul' ?",
+      "options": ["She", "They", "He", "It"],
+      "reponse": "He",
+      "explication": "'Paul' est un garçon, donc le pronom est 'He'."
+    },
+    {
+      "question": "Quel mot anglais signifie 'eau' ?",
+      "options": ["Milk", "Juice", "Water", "Oil"],
+      "reponse": "Water",
+      "explication": "'Eau' = 'Water'."
+    },
+    {
+      "question": "Comment dit-on 'cahier' en anglais ?",
+      "options": ["Notebook", "Book", "Pen", "Desk"],
+      "reponse": "Notebook",
+      "explication": "'Cahier' = 'Notebook'."
+    },
+    {
+      "question": "Quel est le mot anglais pour 'chaussure' ?",
+      "options": ["Shirt", "Shoe", "Hat", "Short"],
+      "reponse": "Shoe",
+      "explication": "'Chaussure' se dit 'Shoe'."
+    },
+    {
+      "question": "Comment dit-on 'tête' en anglais ?",
+      "options": ["Hand", "Head", "Foot", "Arm"],
+      "reponse": "Head",
+      "explication": "'Tête' = 'Head'."
+    },
+    {
+      "question": "Quel mot anglais désigne 'pomme' ?",
+      "options": ["Apple", "Banana", "Orange", "Mango"],
+      "reponse": "Apple",
+      "explication": "'Pomme' = 'Apple'."
+    },
+    {
+      "question": "Quel est le mot anglais pour 'stylo' ?",
+      "options": ["Pencil", "Pen", "Paper", "Eraser"],
+      "reponse": "Pen",
+      "explication": "'Stylo' = 'Pen'."
+    },
+    {
+      "question": "Comment dit-on 'vache' en anglais ?",
+      "options": ["Cow", "Sheep", "Goat", "Pig"],
+      "reponse": "Cow",
+      "explication": "'Vache' = 'Cow'."
+    },
+    {
+      "question": "Quel mot anglais signifie 'soleil' ?",
+      "options": ["Rain", "Moon", "Sun", "Cloud"],
+      "reponse": "Sun",
+      "explication": "'Soleil' = 'Sun'."
+    },
+    {
+      "question": "Quel est le mot anglais pour 'professeur' ?",
+      "options": ["Director", "Teacher", "Student", "Driver"],
+      "reponse": "Teacher",
+      "explication": "'Professeur' = 'Teacher'."
+    },
+    {
+      "question": "Comment dit-on 'main' en anglais ?",
+      "options": ["Leg", "Foot", "Hand", "Eye"],
+      "reponse": "Hand",
+      "explication": "'Main' = 'Hand'."
+    },
+    {
+      "question": "Comment complète-t-on : 'I ___ to school every day.' ?",
+      "options": ["go", "goes", "going", "gone"],
+      "reponse": "go",
+      "explication": "Avec 'I', on utilise la base verbale : 'I go to school'."
+    },
+    {
+      "question": "Quelle est la bonne conjugaison : 'She ___ milk every morning.' ?",
+      "options": ["drink", "drinks", "drinking", "drank"],
+      "reponse": "drinks",
+      "explication": "À la 3e personne (she), on ajoute -s : 'She drinks'."
+    },
+    {
+      "question": "Complète : 'They ___ football on Sundays.'",
+      "options": ["play", "plays", "playing", "played"],
+      "reponse": "play",
+      "explication": "Avec 'they', on utilise le verbe sans -s : 'They play'."
+    },
+    {
+      "question": "Quelle est la forme correcte : 'He ___ to the market.'",
+      "options": ["go", "goes", "going", "gone"],
+      "reponse": "goes",
+      "explication": "'He' → verbe + -s : 'He goes to the market'."
+    },
+    {
+      "question": "Complète : 'You ___ very fast.'",
+      "options": ["run", "runs", "ran", "running"],
+      "reponse": "run",
+      "explication": "Avec 'you', on utilise 'run' : 'You run fast'."
+    },
+    {
+      "question": "Comment dit-on : 'Elle mange du riz.' ?",
+      "options": ["She eat rice", "She eats rice", "She is rice", "She eating rice"],
+      "reponse": "She eats rice",
+      "explication": "'Elle' = 'She' et on ajoute -s au verbe : 'She eats rice'."
+    },
+    {
+      "question": "Complète : 'We ___ English at school.'",
+      "options": ["learn", "learns", "learning", "learnt"],
+      "reponse": "learn",
+      "explication": "Avec 'we', le verbe ne change pas : 'We learn English'."
+    },
+    {
+      "question": "Quelle est la bonne réponse : 'My brother ___ in class.'",
+      "options": ["is", "are", "am", "be"],
+      "reponse": "is",
+      "explication": "'My brother' = il → 'is'."
+    },
+    {
+      "question": "Comment complète-t-on : 'I ___ a student.'",
+      "options": ["am", "is", "are", "be"],
+      "reponse": "am",
+      "explication": "Avec 'I', on dit 'I am'."
+    },
+    {
+      "question": "Quelle est la conjugaison correcte : 'They ___ not here.'",
+      "options": ["is", "are", "am", "be"],
+      "reponse": "are",
+      "explication": "'They' → 'are' : 'They are not here'."
+    },
+    {
+      "question": "Quelle est la capitale du Burkina Faso ?",
+      "options": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Banfora"],
+      "reponse": "Ouagadougou",
+      "explication": "La capitale politique et administrative du Burkina Faso est Ouagadougou."
+    },
+    {
+      "question": "Quel fleuve traverse la ville de Bobo-Dioulasso ?",
+      "options": ["Kou", "Mouhoun", "Nakambé", "Comoé"],
+      "reponse": "Kou",
+      "explication": "Le fleuve Kou traverse Bobo-Dioulasso."
+    },
+    {
+      "question": "Combien de jours y a-t-il dans une semaine ?",
+      "options": ["5", "6", "7", "8"],
+      "reponse": "7",
+      "explication": "Une semaine a 7 jours : lundi à dimanche."
+    },
+    {
+      "question": "Quel est l’animal qui est le roi de la savane ?",
+      "options": ["Lion", "Éléphant", "Guépard", "Zèbre"],
+      "reponse": "Lion",
+      "explication": "Le lion est surnommé le roi de la savane."
+    },
+    {
+      "question": "Qui est le fondateur de l’Union africaine ?",
+      "options": ["Kwame Nkrumah", "Thomas Sankara", "Nelson Mandela", "Modibo Keita"],
+      "reponse": "Kwame Nkrumah",
+      "explication": "Kwame Nkrumah est un des pères fondateurs de l’OUA, devenue Union africaine."
+    },
+    {
+      "question": "Combien de continents y a-t-il dans le monde ?",
+      "options": ["4", "5", "6", "7"],
+      "reponse": "5",
+      "explication": "On compte 5 continents habités : Afrique, Amérique, Asie, Europe et Océanie."
+    },
+    {
+      "question": "Quel est l'instrument utilisé pour mesurer la température ?",
+      "options": ["Baromètre", "Thermomètre", "Boussole", "Altimètre"],
+      "reponse": "Thermomètre",
+      "explication": "On utilise un thermomètre pour mesurer la température."
+    },
+    {
+      "question": "Que signifie les couleurs du drapeau du Burkina Faso ?",
+      "options": [
+        "Le rouge pour la révolution, le vert pour l’espoir, l’étoile pour le peuple",
+        "Rouge pour le sang, vert pour l’environnement, étoile pour l’armée",
+        "Rouge pour le travail, vert pour l’argent, étoile pour le ciel",
+        "Rouge pour l’amour, vert pour la paix, étoile pour la lumière"
+      ],
+      "reponse": "Le rouge pour la révolution, le vert pour l’espoir, l’étoile pour le peuple",
+      "explication": "Les couleurs symbolisent l'histoire et les valeurs du pays."
+    },
+    {
+      "question": "Combien y a-t-il d’heures dans une journée ?",
+      "options": ["10", "24", "12", "30"],
+      "reponse": "24",
+      "explication": "Une journée complète dure 24 heures."
+    },
+    {
+      "question": "Quel est le plus grand pays d’Afrique par la superficie ?",
+      "options": ["Nigeria", "Algérie", "RDC", "Soudan"],
+      "reponse": "Algérie",
+      "explication": "L’Algérie est le plus grand pays africain par sa superficie."
+    },
+    {
+      "question": "Comment s’appelle le président actuel du Burkina Faso (2025) ?",
+      "options": ["Ibrahim Traoré", "Paul-Henri Damiba", "Roch Kaboré", "Blaise Compaoré"],
+      "reponse": "Ibrahim Traoré",
+      "explication": "Ibrahim Traoré est le président de transition en 2025."
+    },
+    {
+      "question": "Quelle est la monnaie utilisée au Burkina Faso ?",
+      "options": ["Franc guinéen", "Naira", "Franc CFA", "Euro"],
+      "reponse": "Franc CFA",
+      "explication": "Le Burkina Faso utilise le franc CFA (XOF)."
+    },
+    {
+      "question": "Quel est l’arbre symbole du Burkina Faso ?",
+      "options": ["Karité", "Baobab", "Manguier", "Acacia"],
+      "reponse": "Karité",
+      "explication": "Le karité est un arbre emblématique dont les fruits servent à produire du beurre de karité."
+    },
+    {
+      "question": "Quelle est la fête nationale du Burkina Faso ?",
+      "options": ["1er janvier", "11 décembre", "4 août", "5 septembre"],
+      "reponse": "11 décembre",
+      "explication": "Le 11 décembre célèbre l’indépendance du pays obtenue en 1960."
+    },
+    {
+      "question": "Quel est le jour de repos dans la semaine ?",
+      "options": ["Lundi", "Samedi", "Vendredi", "Dimanche"],
+      "reponse": "Dimanche",
+      "explication": "Le dimanche est généralement un jour de repos."
+    },
+    {
+      "question": "Quel est l’organe qui fait circuler le sang ?",
+      "options": ["Le foie", "Le cerveau", "Le cœur", "Le poumon"],
+      "reponse": "Le cœur",
+      "explication": "Le cœur est un organe qui pompe le sang dans tout le corps."
+    },
+    {
+      "question": "Combien y a-t-il de jours en février (année non bissextile) ?",
+      "options": ["30", "29", "28", "27"],
+      "reponse": "28",
+      "explication": "Février a 28 jours sauf les années bissextiles (29 jours)."
+    },
+    {
+      "question": "Quelle est la langue officielle du Burkina Faso ?",
+      "options": ["Mooré", "Dioula", "Français", "Gourmanchéma"],
+      "reponse": "Français",
+      "explication": "La langue officielle est le français, mais plusieurs langues nationales sont parlées."
+    },
+    {
+      "question": "Quel est le nom du désert en Afrique du Nord ?",
+      "options": ["Kalahari", "Namib", "Sahara", "Gobi"],
+      "reponse": "Sahara",
+      "explication": "Le Sahara est le plus grand désert chaud du monde, situé en Afrique du Nord."
+    },
+    {
+      "question": "Quel est le principal repas de base au Burkina Faso ?",
+      "options": ["Riz", "Spaghetti", "To", "Pain"],
+      "reponse": "To",
+      "explication": "Le 'To' (ou tô) est un plat local à base de farine de mil ou de maïs."
+    },
+    {
+      "question": "Quelle est la saison où il pleut beaucoup ?",
+      "options": ["Saison sèche", "Saison des récoltes", "Saison des pluies", "Hiver"],
+      "reponse": "Saison des pluies",
+      "explication": "La saison des pluies dure de mai à septembre environ au Burkina."
+    },
+    {
+      "question": "Quel est le pays voisin à l’est du Burkina Faso ?",
+      "options": ["Ghana", "Togo", "Niger", "Côte d’Ivoire"],
+      "reponse": "Niger",
+      "explication": "Le Niger est à l’est du Burkina Faso."
+    },
+    {
+      "question": "Quel est le nom de l’école après le primaire ?",
+      "options": ["Crèche", "Université", "Collège", "Centre de formation"],
+      "reponse": "Collège",
+      "explication": "Après le primaire, on entre au collège (école secondaire)."
+    },
+    {
+      "question": "Comment s’appelle le document qui prouve l’identité d’un citoyen ?",
+      "options": ["Carte de transport", "Carte d'identité", "Carte scolaire", "Facture"],
+      "reponse": "Carte d'identité",
+      "explication": "La carte d'identité nationale est un document officiel d’identification."
+    },
+    {
+      "question": "Quel métier soigne les malades ?",
+      "options": ["Policier", "Médecin", "Chauffeur", "Maçon"],
+      "reponse": "Médecin",
+      "explication": "Le médecin soigne les malades à l’hôpital ou au dispensaire."
+    },
+    {
+      "question": "Quel jour célèbre-t-on la fête du travail ?",
+      "options": ["8 mars", "1er mai", "14 juillet", "24 décembre"],
+      "reponse": "1er mai",
+      "explication": "La fête du travail est célébrée le 1er mai."
+    },
+    {
+      "question": "Quelle partie du corps sert à voir ?",
+      "options": ["La bouche", "Le nez", "L’œil", "La main"],
+      "reponse": "L’œil",
+      "explication": "On voit grâce à nos yeux."
+    },
+    {
+      "question": "Comment s’appelle le chef de l’école ?",
+      "options": ["Maître", "Gardien", "Directeur", "Bibliothécaire"],
+      "reponse": "Directeur",
+      "explication": "Le directeur est le responsable de l’école."
+    },
+    {
+      "question": "Quel est le jour de la fête de Noël ?",
+      "options": ["31 décembre", "24 décembre", "25 décembre", "1er janvier"],
+      "reponse": "25 décembre",
+      "explication": "Noël est célébré le 25 décembre chaque année."
+    },
+    {
+      "question": "Qui est le président du Burkina Faso en 2025 ?",
+      "options": ["Roch Kaboré", "Ibrahim Traoré", "Paul-Henri Damiba", "Blaise Compaoré"],
+      "reponse": "Ibrahim Traoré",
+      "explication": "Ibrahim Traoré est président de transition du Burkina Faso depuis 2022."
+    },
+    {
+      "question": "Comment appelle-t-on la personne qui dirige un pays ?",
+      "options": ["Ministre", "Président", "Député", "Maire"],
+      "reponse": "Président",
+      "explication": "Le président est le chef de l'État, celui qui dirige un pays."
+    },
+    {
+      "question": "Quel est le rôle du maire ?",
+      "options": ["Diriger un village", "Gérer une commune", "Commander l’armée", "Faire les lois"],
+      "reponse": "Gérer une commune",
+      "explication": "Le maire est responsable de la gestion d’une commune ou d’une ville."
+    },
+    {
+      "question": "Qui vote les lois dans un pays ?",
+      "options": ["Le peuple", "Le président", "L’Assemblée nationale", "Le gouvernement"],
+      "reponse": "L’Assemblée nationale",
+      "explication": "Les députés réunis à l’Assemblée votent les lois du pays."
+    },
+    {
+      "question": "Comment appelle-t-on le lieu où les lois sont votées ?",
+      "options": ["Le tribunal", "La mairie", "L’Assemblée", "La préfecture"],
+      "reponse": "L’Assemblée",
+      "explication": "Les lois sont votées à l’Assemblée nationale par les députés."
+    },
+    {
+      "question": "Qui est chargé d’appliquer les lois dans un pays ?",
+      "options": ["Les policiers", "Les juges", "Le gouvernement", "Les citoyens"],
+      "reponse": "Le gouvernement",
+      "explication": "Le gouvernement applique les lois votées par l’Assemblée."
+    },
+    {
+      "question": "Comment s’appelle le texte fondamental d’un pays ?",
+      "options": ["Loi", "Règlement", "Code", "Constitution"],
+      "reponse": "Constitution",
+      "explication": "La Constitution est le texte de base qui organise les pouvoirs dans un pays."
+    },
+    {
+      "question": "Quel est le symbole du pouvoir dans une république ?",
+      "options": ["Le trône", "Le sceptre", "Le drapeau", "La Constitution"],
+      "reponse": "La Constitution",
+      "explication": "Dans une république, la Constitution représente l’organisation du pouvoir."
+    },
+    {
+      "question": "Quelle structure politique regroupe les pays d’Afrique ?",
+      "options": ["ONU", "UA", "CEDEAO", "OTAN"],
+      "reponse": "UA",
+      "explication": "L’Union africaine (UA) est une organisation politique regroupant les pays africains."
+    },
+    {
+      "question": "Quel droit permet de choisir les dirigeants d’un pays ?",
+      "options": ["Le droit de grève", "Le droit de propriété", "Le droit de vote", "Le droit d’expression"],
+      "reponse": "Le droit de vote",
+      "explication": "Le droit de vote permet aux citoyens d’élire leurs dirigeants."
+    },
+    {
+      "question": "Qui est l’auteur du poème *« Je suis Africain »* ?",
+      "options": ["Birago Diop", "David Diop", "Aimé Césaire", "Léopold Sédar Senghor"],
+      "reponse": "David Diop",
+      "explication": "David Diop est un poète africain célèbre pour ses poèmes engagés, dont 'Je suis Africain'."
+    },
+    {
+      "question": "Qui a écrit le poème *« Afrique mon Afrique »* ?",
+      "options": ["David Diop", "Léon Gontran Damas", "Léopold Sédar Senghor", "Aimé Césaire"],
+      "reponse": "David Diop",
+      "explication": "Le poème 'Afrique mon Afrique' a été écrit par David Diop, poète engagé pour l’Afrique."
+    },
+    {
+      "question": "Qui est l’auteur de la récitation *« Prière pour aller à l’école »* ?",
+      "options": ["Bernard Dadié", "Seydou Badian", "Jean de la Fontaine", "Amadou Hampâté Bâ"],
+      "reponse": "Bernard Dadié",
+      "explication": "Ce poème plein d’émotion est de l’écrivain ivoirien Bernard Dadié."
+    },
+    {
+      "question": "Qui a composé l’hymne national du Burkina Faso *« Une seule nuit »* ?",
+      "options": ["Thomas Sankara", "Patrick Ilboudo", "Sombié Ben Idriss", "Joseph Ki-Zerbo"],
+      "reponse": "Thomas Sankara",
+      "explication": "L’hymne 'Une seule nuit' a été écrit par le président Thomas Sankara en 1984."
+    },
+    {
+      "question": "Qui est l’auteur du poème *« Le sommeil »*, souvent appris au primaire ?",
+      "options": ["Jean Aicard", "Arthur Rimbaud", "Paul Verlaine", "Victor Hugo"],
+      "reponse": "Jean Aicard",
+      "explication": "'Le sommeil' est un poème de Jean Aicard, souvent étudié à l’école."
+    },
+    {
+      "question": "Qui a écrit la récitation *« La fourmi et la cigale »* ?",
+      "options": ["Jean de la Fontaine", "Charles Perrault", "Victor Hugo", "Alphonse Daudet"],
+      "reponse": "Jean de la Fontaine",
+      "explication": "Jean de la Fontaine est célèbre pour ses fables comme 'La cigale et la fourmi'."
+    },
+    {
+      "question": "Quel auteur est connu pour la récitation *« Le corbeau et le renard »* ?",
+      "options": ["Jean de la Fontaine", "La Bruyère", "Paul Éluard", "Voltaire"],
+      "reponse": "Jean de la Fontaine",
+      "explication": "'Le corbeau et le renard' est une fable bien connue de Jean de la Fontaine."
+    },
+    {
+      "question": "Qui est l’auteur de *« Parlez-moi de mon pays »* (poème chanté aussi) ?",
+      "options": ["Titinga Frédéric Pacéré", "Bernard Dadié", "Seydou Badian", "Thomas Sankara"],
+      "reponse": "Titinga Frédéric Pacéré",
+      "explication": "C’est un poète burkinabè connu pour sa défense de la culture africaine."
+    },
+    {
+      "question": "Qui a écrit *« Liberté »*, une récitation classique souvent apprise à l’école ?",
+      "options": ["Paul Éluard", "Victor Hugo", "Voltaire", "Rimbaud"],
+      "reponse": "Paul Éluard",
+      "explication": "Ce poème engagé a été écrit par Paul Éluard pendant la Seconde Guerre mondiale."
+    },
+    {
+      "question": "Qui est connu pour la récitation *« Mon petit frère »* ?",
+      "options": ["Camara Laye", "Birago Diop", "René Philombe", "Amadou Hampâté Bâ"],
+      "reponse": "René Philombe",
+      "explication": "René Philombe est un écrivain camerounais très présent dans les textes scolaires africains."
     }
   ]
 }
