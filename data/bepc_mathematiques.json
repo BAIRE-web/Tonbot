@@ -11,6 +11,180 @@
       "options": ["10", "15", "20", "25"],
       "reponse": "25",
       "explication": "5 × 5 = 25."
+    },
+    {
+      "question": "Quelle est la forme développée de (a + b)² ?",
+      "options": ["a² + b²", "a² + 2ab + b²", "a² - 2ab + b²", "2a² + 2b²"],
+      "reponse": "a² + 2ab + b²",
+      "explication": "(a + b)² = a² + 2ab + b² est une identité remarquable."
+    },
+    {
+      "question": "Quelle est la forme développée de (a - b)² ?",
+      "options": ["a² + b²", "a² + 2ab + b²", "a² - 2ab + b²", "a² - b²"],
+      "reponse": "a² - 2ab + b²",
+      "explication": "(a - b)² = a² - 2ab + b²."
+    },
+    {
+      "question": "Quelle est la formule de (a + b)(a - b) ?",
+      "options": ["a² - b²", "a² + b²", "a² - 2ab", "a² + 2ab"],
+      "reponse": "a² - b²",
+      "explication": "C'est l'identité remarquable appelée différence de carrés."
+    },
+    {
+      "question": "Développe : (x + 3)²",
+      "options": ["x² + 6x + 9", "x² + 9", "x² + 3x + 3", "x² + 2x + 9"],
+      "reponse": "x² + 6x + 9",
+      "explication": "Formule : (a + b)² = a² + 2ab + b² → x² + 6x + 9."
+    },
+    {
+      "question": "Développe : (2x - 5)²",
+      "options": ["4x² - 20x + 25", "4x² - 10x + 5", "4x² + 20x + 25", "4x² - 10x + 25"],
+      "reponse": "4x² - 20x + 25",
+      "explication": "Formule : (a - b)² = a² - 2ab + b²."
+    },
+    {
+      "question": "Factorise : x² - 9",
+      "options": ["(x + 3)(x - 3)", "(x - 9)(x + 1)", "(x + 9)(x - 1)", "(x + 2)(x - 2)"],
+      "reponse": "(x + 3)(x - 3)",
+      "explication": "x² - 9 = x² - 3² → différence de carrés."
+    },
+    {
+      "question": "Développe : (x + 1)(x - 1)",
+      "options": ["x² - 1", "x² + 1", "x² - 2x + 1", "x² + 2x + 1"],
+      "reponse": "x² - 1",
+      "explication": "Formule : (a + b)(a - b) = a² - b²."
+    },
+    {
+      "question": "Quelle est la formule du carré d’une somme ?",
+      "options": ["a² + b²", "a² + 2ab + b²", "a² - 2ab + b²", "a² + ab + b²"],
+      "reponse": "a² + 2ab + b²",
+      "explication": "(a + b)² = a² + 2ab + b²."
+    },
+    {
+      "question": "Factorise : 4x² - 25",
+      "options": ["(2x - 5)(2x + 5)", "(4x - 5)(x + 5)", "(x - 5)(x + 5)", "(2x - 25)(2x + 1)"],
+      "reponse": "(2x - 5)(2x + 5)",
+      "explication": "4x² - 25 = (2x)² - 5² → différence de carrés."
+    },
+    {
+      "question": "Quelle est la formule du carré d’une différence ?",
+      "options": ["a² + 2ab + b²", "a² - 2ab + b²", "a² + b²", "a² - ab + b²"],
+      "reponse": "a² - 2ab + b²",
+      "explication": "(a - b)² = a² - 2ab + b²."
+    },
+    {
+      "question": "Quelle est la formule pour aⁿ × aᵐ ?",
+      "options": ["aⁿ⁺ᵐ", "aⁿ - aᵐ", "aⁿᵐ", "aⁿ⁻ᵐ"],
+      "reponse": "aⁿ⁺ᵐ",
+      "explication": "Même base → on additionne les exposants."
+    },
+    {
+      "question": "Quelle est la formule pour aⁿ ÷ aᵐ (a ≠ 0) ?",
+      "options": ["aⁿ⁺ᵐ", "aⁿ⁻ᵐ", "aⁿᵐ", "aᵐ⁻ⁿ"],
+      "reponse": "aⁿ⁻ᵐ",
+      "explication": "Même base → on soustrait les exposants."
+    },
+    {
+      "question": "Quelle est la formule pour (aᵐ)ⁿ ?",
+      "options": ["aᵐ⁺ⁿ", "aᵐ⁻ⁿ", "aᵐⁿ", "aⁿ⁺ᵐ"],
+      "reponse": "aᵐⁿ",
+      "explication": "(aᵐ)ⁿ = a puissance (m × n)."
+    },
+    {
+      "question": "Quelle est la formule de base de l’équation ax + b = 0 ?",
+      "options": ["x = b/a", "x = a - b", "x = -b/a", "x = -a/b"],
+      "reponse": "x = -b/a",
+      "explication": "On isole x : ax = -b donc x = -b/a."
+    },
+    {
+      "question": "Développe : (3x + 2)(3x - 2)",
+      "options": ["9x² - 4", "9x² + 4", "6x² - 4x + 4", "3x² - 4"],
+      "reponse": "9x² - 4",
+      "explication": "Identité remarquable : a² - b²."
+    },
+    {
+      "question": "Développe : (x - 4)²",
+      "options": ["x² - 8x + 16", "x² + 8x + 16", "x² - 4", "x² + 16"],
+      "reponse": "x² - 8x + 16",
+      "explication": "(a - b)² = a² - 2ab + b²."
+    },
+    {
+      "question": "Quelle est la forme factorisée de x² + 2x + 1 ?",
+      "options": ["(x + 1)²", "(x - 1)²", "(x + 1)(x - 1)", "(x + 2)(x + 1)"],
+      "reponse": "(x + 1)²",
+      "explication": C’est le carré parfait : (x + 1)²."
+    },
+    {
+      "question": "Quelle est la forme factorisée de x² - 2x + 1 ?",
+      "options": ["(x - 1)²", "(x + 1)²", "(x - 2)(x + 2)", "(x - 1)(x + 1)"],
+      "reponse": "(x - 1)²",
+      "explication": C’est le carré parfait : (x - 1)²."
+    },
+    {
+      "question": "Factorise : x² - 4x + 4",
+      "options": ["(x - 2)²", "(x + 2)²", "(x - 4)(x + 1)", "(x + 2)(x - 2)"],
+      "reponse": "(x - 2)²",
+      "explication": x² - 4x + 4 = (x - 2)²."
+    },
+    {
+      "question": "Formule du produit de deux binômes conjugués :",
+      "options": ["a² - b²", "a² + 2ab + b²", "a² - 2ab + b²", "(a + b)²"],
+      "reponse": "a² - b²",
+      "explication": (a + b)(a - b) = a² - b²."
+    },
+    {
+      "question": "Formule de développement de (a + b)³",
+      "options": ["a³ + 3a²b + 3ab² + b³", "a² + 2ab + b²", "a³ + b³", "(a + b)(a² - ab + b²)"],
+      "reponse": "a³ + 3a²b + 3ab² + b³",
+      "explication": C'est le cube d'une somme."
+    },
+    {
+      "question": "Comment factorise-t-on : ab + ac",
+      "options": ["a(b + c)", "b(a + c)", "a + b + c", "ac(b + 1)"],
+      "reponse": "a(b + c)",
+      "explication": On met a en facteur commun."
+    },
+    {
+      "question": "Développe : (x + 5)²",
+      "options": ["x² + 10x + 25", "x² + 25", "x² + 5x + 25", "x² + 10x + 5"],
+      "reponse": "x² + 10x + 25",
+      "explication": Formule : (a + b)² = a² + 2ab + b²."
+    },
+    {
+      "question": "Développe : (2x + 3)²",
+      "options": ["4x² + 12x + 9", "4x² + 6x + 9", "2x² + 6x + 9", "4x² + 6x + 3"],
+      "reponse": "4x² + 12x + 9",
+      "explication": a² + 2ab + b² avec a = 2x, b = 3."
+    },
+    {
+      "question": "Factorise : x² - 36",
+      "options": ["(x - 6)(x + 6)", "(x - 9)(x + 4)", "(x - 3)(x + 12)", "(x - 18)(x + 2)"],
+      "reponse": "(x - 6)(x + 6)",
+      "explication": Différence de carrés : x² - 6²."
+    },
+    {
+      "question": "Résous : 5x + 10 = 0",
+      "options": ["x = -2", "x = 2", "x = -10", "x = 10"],
+      "reponse": "x = -2",
+      "explication": 5x = -10 donc x = -10/5 = -2."
+    },
+    {
+      "question": "Formule d’une fonction affine :",
+      "options": ["f(x) = ax + b", "f(x) = a + bx", "f(x) = x² + b", "f(x) = ab + x"],
+      "reponse": "f(x) = ax + b",
+      "explication": C’est la forme générale d’une fonction affine."
+    },
+    {
+      "question": "Formule de développement de (a - b)³",
+      "options": ["a³ - 3a²b + 3ab² - b³", "a³ - b³", "a² - b²", "a³ - ab²"],
+      "reponse": "a³ - 3a²b + 3ab² - b³",
+      "explication": Cube d'une différence."
+    },
+    {
+      "question": "Factorise : a² - 6a + 9",
+      "options": ["(a - 3)²", "(a + 3)²", "(a - 9)(a + 1)", "(a + 6)(a - 3)"],
+      "reponse": "(a - 3)²",
+      "explication": C’est un carré parfait : (a - 3)²."
     }
   ]
 }
