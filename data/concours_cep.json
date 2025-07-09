@@ -2536,6 +2536,936 @@
       "options": ["Camara Laye", "Birago Diop", "René Philombe", "Amadou Hampâté Bâ"],
       "reponse": "René Philombe",
       "explication": "René Philombe est un écrivain camerounais très présent dans les textes scolaires africains."
+    },
+    {
+      "question": "Combien de centimètres y a-t-il dans 1 mètre ?",
+      "options": ["10 cm", "100 cm", "1000 cm", "50 cm"],
+      "reponse": "100 cm",
+      "explication": "1 mètre = 100 centimètres."
+    },
+    {
+      "question": "Combien de minutes y a-t-il dans 1 heure ?",
+      "options": ["30", "60", "100", "90"],
+      "reponse": "60",
+      "explication": "1 heure = 60 minutes."
+    },
+    {
+      "question": "Quel instrument utilise-t-on pour mesurer la longueur ?",
+      "options": ["Balance", "Règle", "Thermomètre", "Montre"],
+      "reponse": "Règle",
+      "explication": "On mesure une longueur avec une règle ou un mètre."
+    },
+    {
+      "question": "Combien de jours y a-t-il dans une semaine ?",
+      "options": ["5", "6", "7", "8"],
+      "reponse": "7",
+      "explication": "Une semaine a 7 jours."
+    },
+    {
+      "question": "Quelle est la moitié de 100 ?",
+      "options": ["25", "40", "50", "60"],
+      "reponse": "50",
+      "explication": "100 divisé par 2 donne 50."
+    },
+    {
+      "question": "Quelle pièce de monnaie vaut le plus ?",
+      "options": ["50 francs", "25 francs", "100 francs", "5 francs"],
+      "reponse": "100 francs",
+      "explication": "Parmi ces pièces, 100 F est la plus grande valeur."
+    },
+    {
+      "question": "Quel est le nom du polygone à 3 côtés ?",
+      "options": ["Carré", "Rectangle", "Triangle", "Cercle"],
+      "reponse": "Triangle",
+      "explication": "Un triangle a 3 côtés."
+    },
+    {
+      "question": "Quel est le double de 15 ?",
+      "options": ["30", "25", "45", "20"],
+      "reponse": "30",
+      "explication": "Le double de 15 est 2 × 15 = 30."
+    },
+    {
+      "question": "Combien de grammes y a-t-il dans 1 kilogramme ?",
+      "options": ["100 g", "1000 g", "10 g", "500 g"],
+      "reponse": "1000 g",
+      "explication": "1 kg = 1000 grammes."
+    },
+    {
+      "question": "Quel solide a 6 faces carrées ?",
+      "options": ["Cône", "Cylindre", "Cube", "Sphère"],
+      "reponse": "Cube",
+      "explication": "Le cube a 6 faces carrées."
+    },
+    {
+      "question": "Si tu ajoutes 10 à 45, tu obtiens :",
+      "options": ["50", "55", "60", "45"],
+      "reponse": "55",
+      "explication": "45 + 10 = 55."
+    },
+    {
+      "question": "Quel est le quart de 20 ?",
+      "options": ["5", "10", "4", "8"],
+      "reponse": "5",
+      "explication": "20 ÷ 4 = 5."
+    },
+    {
+      "question": "Une boîte contient 6 rangées de 5 billes. Combien de billes en tout ?",
+      "options": ["11", "25", "30", "35"],
+      "reponse": "30",
+      "explication": "6 × 5 = 30 billes."
+    },
+    {
+      "question": "Quelle est la valeur de 2 billets de 500 francs ?",
+      "options": ["500 F", "1000 F", "1500 F", "200 F"],
+      "reponse": "1000 F",
+      "explication": "2 × 500 = 1000 francs."
+    },
+    {
+      "question": "Combien de côtés a un rectangle ?",
+      "options": ["3", "4", "5", "6"],
+      "reponse": "4",
+      "explication": "Un rectangle a 4 côtés."
+    },
+    {
+      "question": "Que mesure-t-on avec une balance ?",
+      "options": ["Temps", "Longueur", "Poids", "Volume"],
+      "reponse": "Poids",
+      "explication": "La balance sert à mesurer la masse ou le poids."
+    },
+    {
+      "question": "Combien d’heures dans une demi-journée ?",
+      "options": ["6", "8", "12", "24"],
+      "reponse": "12",
+      "explication": "Une journée = 24 h → demi-journée = 12 h."
+    },
+    {
+      "question": "Combien de zéros dans 1 000 ?",
+      "options": ["1", "2", "3", "4"],
+      "reponse": "3",
+      "explication": "Mille (1000) a trois zéros."
+    },
+    {
+      "question": "Quel est le résultat de 7 × 3 ?",
+      "options": ["21", "24", "18", "27"],
+      "reponse": "21",
+      "explication": "7 multiplié par 3 donne 21."
+    },
+    {
+      "question": "Quel est l’angle d’un triangle équilatéral ?",
+      "options": ["30°", "45°", "60°", "90°"],
+      "reponse": "60°",
+      "explication": "Chaque angle dans un triangle équilatéral mesure 60°."
+    },
+    {
+      "question": "Quelle figure a tous ses côtés égaux et 4 angles droits ?",
+      "options": ["Cercle", "Carré", "Triangle", "Rectangle"],
+      "reponse": "Carré",
+      "explication": "Le carré a 4 côtés égaux et 4 angles droits."
+    },
+    {
+      "question": "Un litre équivaut à combien de millilitres ?",
+      "options": ["100 ml", "500 ml", "1000 ml", "1500 ml"],
+      "reponse": "1000 ml",
+      "explication": "1 litre = 1000 millilitres."
+    },
+    {
+      "question": "Si un cahier coûte 200 F, combien pour 4 cahiers ?",
+      "options": ["600 F", "700 F", "800 F", "1000 F"],
+      "reponse": "800 F",
+      "explication": "200 × 4 = 800 francs."
+    },
+    {
+      "question": "Combien y a-t-il de mois dans une année ?",
+      "options": ["10", "11", "12", "13"],
+      "reponse": "12",
+      "explication": "Une année comprend 12 mois."
+    },
+    {
+      "question": "Quelle est la moitié de 40 ?",
+      "options": ["15", "20", "25", "30"],
+      "reponse": "20",
+      "explication": "40 ÷ 2 = 20."
+    },
+    {
+      "question": "Quel est le plus petit nombre entre : 4, 2, 8, 5 ?",
+      "options": ["4", "2", "8", "5"],
+      "reponse": "2",
+      "explication": "2 est le plus petit nombre ici."
+    },
+    {
+      "question": "Combien de côtés a un cercle ?",
+      "options": ["0", "1", "2", "4"],
+      "reponse": "0",
+      "explication": "Un cercle n’a pas de côté."
+    },
+    {
+      "question": "Quel est le nombre qui suit 99 ?",
+      "options": ["98", "100", "101", "90"],
+      "reponse": "100",
+      "explication": "Après 99 vient 100."
+    },
+    {
+      "question": "Lequel est un nombre pair ?",
+      "options": ["5", "9", "12", "13"],
+      "reponse": "12",
+      "explication": "Un nombre pair est divisible par 2, 12 l’est."
+    },
+    {
+      "question": "Combien de semaines dans un mois (en moyenne) ?",
+      "options": ["2", "3", "4", "6"],
+      "reponse": "4",
+      "explication": "Un mois dure environ 4 semaines (30 ÷ 7)."
+    },
+    {
+      "question": "Quel mot est bien écrit ?",
+      "options": ["chanbre", "chambre", "chambr", "chamb"],
+      "reponse": "chambre",
+      "explication": "Le mot correct est 'chambre' avec un 'e' à la fin."
+    },
+    {
+      "question": "Complète : Le chat est ____ la table.",
+      "options": ["sur", "dans", "sous", "avec"],
+      "reponse": "sous",
+      "explication": "La bonne phrase est 'Le chat est sous la table'."
+    },
+    {
+      "question": "Quel mot n’est pas un nom ?",
+      "options": ["école", "pomme", "joue", "chaise"],
+      "reponse": "joue",
+      "explication": "'Joue' est un verbe ici, les autres sont des noms."
+    },
+    {
+      "question": "Quel mot est mal écrit ?",
+      "options": ["travail", "tableau", "maison", "mezan"],
+      "reponse": "mezan",
+      "explication": "'Mezan' est une faute, le mot correct est 'maison'."
+    },
+    {
+      "question": "Choisis le mot bien écrit.",
+      "options": ["sienture", "ceinture", "ceintur", "seinchure"],
+      "reponse": "ceinture",
+      "explication": "Le mot bien écrit est 'ceinture'."
+    },
+    {
+      "question": "Complète : Il ____ une orange.",
+      "options": ["mange", "mangent", "manger", "mangé"],
+      "reponse": "mange",
+      "explication": "Sujet 'il' → verbe 'mange' (3e personne)."
+    },
+    {
+      "question": "Quel mot a le son [on] ?",
+      "options": ["maman", "pantalon", "chapeau", "papa"],
+      "reponse": "pantalon",
+      "explication": "'Pantalon' contient le son [on]."
+    },
+    {
+      "question": "Quel mot est féminin ?",
+      "options": ["chaise", "livre", "stylo", "cahier"],
+      "reponse": "chaise",
+      "explication": "'Chaise' est un nom féminin, les autres sont masculins."
+    },
+    {
+      "question": "Choisis la bonne phrase.",
+      "options": ["Il mange les riz.", "Il mangent du riz.", "Il mange du riz.", "Ils mange du riz."],
+      "reponse": "Il mange du riz.",
+      "explication": "Le sujet 'il' prend 'mange', et on dit 'du riz'."
+    },
+    {
+      "question": "Quel mot complète la phrase : J'ai une ____ de chocolat.",
+      "options": ["table", "tablette", "mangue", "moto"],
+      "reponse": "tablette",
+      "explication": "On dit 'une tablette de chocolat'."
+    },
+    {
+      "question": "Quel mot est bien écrit ?",
+      "options": ["livre", "livr", "livrée", "livreé"],
+      "reponse": "livre",
+      "explication": "'Livre' est un mot simple bien orthographié."
+    },
+    {
+      "question": "Complète : Il fait ____ chaud aujourd’hui.",
+      "options": ["bien", "trop", "beaucoup", "tres"],
+      "reponse": "trop",
+      "explication": "On dit : 'Il fait trop chaud'."
+    },
+    {
+      "question": "Quel mot ne rime pas avec les autres ?",
+      "options": ["chat", "rat", "tapis", "plat"],
+      "reponse": "tapis",
+      "explication": "Les autres riment avec 'a'."
+    },
+    {
+      "question": "Quel mot est un verbe ?",
+      "options": ["parler", "table", "stylo", "fenêtre"],
+      "reponse": "parler",
+      "explication": "'Parler' est un verbe à l’infinitif."
+    },
+    {
+      "question": "Quel mot est au pluriel ?",
+      "options": ["chaise", "livres", "cahier", "crayon"],
+      "reponse": "livres",
+      "explication": "Le 's' indique le pluriel → 'livres'."
+    },
+    {
+      "question": "Quel mot complète : Le soleil se ____.",
+      "options": ["lève", "lèvent", "léve", "levé"],
+      "reponse": "lève",
+      "explication": "'Le soleil se lève' → 3e personne du singulier."
+    },
+    {
+      "question": "Quel mot est mal écrit ?",
+      "options": ["lait", "né", "sien", "solei"],
+      "reponse": "solei",
+      "explication": "On écrit 'soleil' et non 'solei'."
+    },
+    {
+      "question": "Quel mot est un adjectif ?",
+      "options": ["beau", "bois", "verre", "stylo"],
+      "reponse": "beau",
+      "explication": "'Beau' est un adjectif qualificatif."
+    },
+    {
+      "question": "Complète : Il y a des ____ dans le jardin.",
+      "options": ["fleur", "fleurs", "fleurre", "flere"],
+      "reponse": "fleurs",
+      "explication": "Pluriel de 'fleur' = 'fleurs'."
+    },
+    {
+      "question": "Quel mot est bien accordé ?",
+      "options": ["les enfant", "les enfants", "le enfants", "les enffants"],
+      "reponse": "les enfants",
+      "explication": "On écrit : 'les enfants'."
+    },
+    {
+      "question": "Quel est le contraire de 'grand' ?",
+      "options": ["petit", "gros", "large", "fort"],
+      "reponse": "petit",
+      "explication": "Le contraire de 'grand' est 'petit'."
+    },
+    {
+      "question": "Complète : Elle ____ au marché.",
+      "options": ["va", "vas", "vont", "aller"],
+      "reponse": "va",
+      "explication": "Sujet 'elle' → verbe 'va'."
+    },
+    {
+      "question": "Quel mot est un pronom ?",
+      "options": ["maison", "livre", "je", "jouer"],
+      "reponse": "je",
+      "explication": "'Je' est un pronom personnel."
+    },
+    {
+      "question": "Quel mot est mal écrit ?",
+      "options": ["pain", "pin", "painne", "panne"],
+      "reponse": "painne",
+      "explication": "Ce mot n’existe pas en français."
+    },
+    {
+      "question": "Quel mot est synonyme de 'rapidement' ?",
+      "options": ["vite", "lentement", "tard", "beaucoup"],
+      "reponse": "vite",
+      "explication": "'Vite' veut dire 'rapidement'."
+    },
+    {
+      "question": "Quel mot est un nom commun ?",
+      "options": ["chien", "Il", "vite", "manger"],
+      "reponse": "chien",
+      "explication": "'Chien' est un nom commun."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["journé", "journée", "jurnée", "journer"],
+      "reponse": "journée",
+      "explication": "'Journée' est le mot correct."
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "options": ["Tu mange la pomme.", "Tu manges la pomme.", "Tu manges le pommes.", "Tu mange les pommes."],
+      "reponse": "Tu manges la pomme.",
+      "explication": "Le sujet 'tu' prend 'manges'."
+    },
+    {
+      "question": "Quel mot est mal écrit ?",
+      "options": ["camion", "avion", "camionne", "camions"],
+      "reponse": "camionne",
+      "explication": "On dit 'camion' ou 'camionneur', mais pas 'camionne'."
+    },
+    {
+      "question": "Quel mot correspond à un lieu ?",
+      "options": ["chaise", "table", "école", "beau"],
+      "reponse": "école",
+      "explication": "'École' désigne un lieu."
+    },
+    {
+      "question": "En quelle année la Haute-Volta devient-elle le Burkina Faso ?",
+      "options": ["1960", "1984", "1983", "1991"],
+      "reponse": "1984",
+      "explication": "Le 4 août 1984, Thomas Sankara change le nom Haute-Volta en Burkina Faso."
+    },
+    {
+      "question": "Quelle est la date de l’indépendance du Burkina Faso ?",
+      "options": ["5 août 1960", "11 décembre 1958", "4 août 1984", "3 janvier 1966"],
+      "reponse": "5 août 1960",
+      "explication": "Le Burkina Faso (Haute-Volta à l’époque) devient indépendant le 5 août 1960."
+    },
+    {
+      "question": "Quand Thomas Sankara a-t-il pris le pouvoir ?",
+      "options": ["4 août 1983", "5 août 1984", "15 octobre 1987", "3 janvier 1966"],
+      "reponse": "4 août 1983",
+      "explication": "Thomas Sankara prend le pouvoir par un coup d’État le 4 août 1983."
+    },
+    {
+      "question": "Quand a eu lieu l’assassinat de Thomas Sankara ?",
+      "options": ["15 octobre 1987", "4 août 1984", "3 janvier 1966", "5 août 1960"],
+      "reponse": "15 octobre 1987",
+      "explication": "Thomas Sankara est assassiné le 15 octobre 1987."
+    },
+    {
+      "question": "Quelle date marque la fête nationale du Burkina Faso ?",
+      "options": ["5 août", "4 août", "15 octobre", "11 décembre"],
+      "reponse": "11 décembre",
+      "explication": "Le 11 décembre célèbre la proclamation de la République en 1958."
+    },
+    {
+      "question": "Quand a eu lieu la chute de Blaise Compaoré ?",
+      "options": ["30 octobre 2014", "15 octobre 1987", "4 août 1983", "5 août 1960"],
+      "reponse": "30 octobre 2014",
+      "explication": "Blaise Compaoré a été renversé le 30 octobre 2014 par une insurrection populaire."
+    },
+    {
+      "question": "En quelle année Blaise Compaoré est-il arrivé au pouvoir ?",
+      "options": ["1987", "1983", "1984", "1991"],
+      "reponse": "1987",
+      "explication": "Il prend le pouvoir après l’assassinat de Sankara, en 1987."
+    },
+    {
+      "question": "Quand Roch Marc Christian Kaboré est-il élu président ?",
+      "options": ["2015", "2014", "2020", "2011"],
+      "reponse": "2015",
+      "explication": "Roch Kaboré est élu président en novembre 2015."
+    },
+    {
+      "question": "Quand le Burkina Faso est-il devenu une république autonome ?",
+      "options": ["11 décembre 1958", "5 août 1960", "4 août 1984", "15 octobre 1987"],
+      "reponse": "11 décembre 1958",
+      "explication": "La Haute-Volta devient une République autonome au sein de la Communauté française en 1958."
+    },
+    {
+      "question": "Quelle date célèbre l’arrivée de l’armée au pouvoir pour la première fois ?",
+      "options": ["3 janvier 1966", "4 août 1983", "15 octobre 1987", "11 décembre 1958"],
+      "reponse": "3 janvier 1966",
+      "explication": "Le président Yaméogo est renversé le 3 janvier 1966 par l’armée."
+    },
+    {
+      "question": "Quand la Constitution de la IVe République a-t-elle été adoptée ?",
+      "options": ["2 juin 1991", "11 décembre 1958", "4 août 1983", "15 octobre 1987"],
+      "reponse": "2 juin 1991",
+      "explication": "La Constitution actuelle a été adoptée le 2 juin 1991."
+    },
+    {
+      "question": "Quand les premières élections multipartites ont-elles eu lieu ?",
+      "options": ["1991", "2000", "1987", "2015"],
+      "reponse": "1991",
+      "explication": "Les premières élections multipartites ont eu lieu en 1991 sous Blaise Compaoré."
+    },
+    {
+      "question": "Quand la ville de Ouagadougou est-elle devenue capitale ?",
+      "options": ["1904", "1960", "1983", "1987"],
+      "reponse": "1904",
+      "explication": "Ouagadougou est désignée capitale de la colonie de la Haute-Volta en 1904."
+    },
+    {
+      "question": "Quelle date est associée à l’insurrection populaire contre le 5e mandat ?",
+      "options": ["30 octobre 2014", "4 août 1983", "15 octobre 1987", "11 décembre 2015"],
+      "reponse": "30 octobre 2014",
+      "explication": "C’est le 30 octobre 2014 que le peuple s’est soulevé contre le projet de 5e mandat de Blaise Compaoré."
+    },
+    {
+      "question": "Quel jour célèbre la révolution burkinabè menée par Sankara ?",
+      "options": ["4 août", "5 août", "11 décembre", "15 octobre"],
+      "reponse": "4 août",
+      "explication": "La révolution sankariste commence le 4 août 1983, jour symbolique pour le pays."
+    },
+    {
+      "question": "Complète : Papa va au ____.",
+      "options": ["lit", "marché", "stylo", "manger"],
+      "reponse": "marché",
+      "explication": "La phrase correcte est : Papa va au marché."
+    },
+    {
+      "question": "Complète : Le chat est dans la ____.",
+      "options": ["chaise", "voiture", "maison", "table"],
+      "reponse": "maison",
+      "explication": "On dit : Le chat est dans la maison."
+    },
+    {
+      "question": "Que fait l’enfant ? – L’enfant lit un ____.",
+      "options": ["arbre", "livre", "chocolat", "pain"],
+      "reponse": "livre",
+      "explication": "On lit un livre, pas un chocolat."
+    },
+    {
+      "question": "Complète : Il fait très ____ aujourd’hui.",
+      "options": ["chaud", "marcher", "école", "vite"],
+      "reponse": "chaud",
+      "explication": "La bonne phrase est : Il fait très chaud aujourd’hui."
+    },
+    {
+      "question": "Choisis la bonne phrase.",
+      "options": ["Le soleil brille.", "Le soleil mange.", "Le soleil boit.", "Le soleil dort."],
+      "reponse": "Le soleil brille.",
+      "explication": "Le soleil ne mange pas, il brille."
+    },
+    {
+      "question": "Complète : La fille joue avec sa ____.",
+      "options": ["moto", "poupée", "table", "chaise"],
+      "reponse": "poupée",
+      "explication": "Les filles jouent souvent avec des poupées."
+    },
+    {
+      "question": "Que fait maman ? – Maman ____ la vaisselle.",
+      "options": ["lit", "mange", "lave", "marche"],
+      "reponse": "lave",
+      "explication": "On lave la vaisselle, on ne la mange pas."
+    },
+    {
+      "question": "Où dort le bébé ?",
+      "options": ["Dans un lit", "Dans une assiette", "Dans un stylo", "Dans une chaise"],
+      "reponse": "Dans un lit",
+      "explication": "Un bébé dort dans un lit."
+    },
+    {
+      "question": "Complète : Le poisson vit dans ____.",
+      "options": ["l’air", "l’eau", "le sable", "la forêt"],
+      "reponse": "l’eau",
+      "explication": "Les poissons vivent dans l’eau."
+    },
+    {
+      "question": "Complète : Il boit un verre de ____.",
+      "options": ["pain", "riz", "lait", "chaise"],
+      "reponse": "lait",
+      "explication": "On boit un verre de lait."
+    },
+    {
+      "question": "Complète : Le cheval est un ____.",
+      "options": ["animal", "fruit", "pays", "objet"],
+      "reponse": "animal",
+      "explication": "Le cheval est un animal domestique."
+    },
+    {
+      "question": "Où est le ballon ? – Le ballon est ____ la table.",
+      "options": ["sur", "dans", "devant", "sous"],
+      "reponse": "sous",
+      "explication": "Le ballon peut être 'sous' la table."
+    },
+    {
+      "question": "Qui mange ? – ____ mange une banane.",
+      "options": ["Le ballon", "Le garçon", "La voiture", "La chaise"],
+      "reponse": "Le garçon",
+      "explication": "Le garçon peut manger, pas les objets."
+    },
+    {
+      "question": "Complète : J'aime le ____ de mangue.",
+      "options": ["stylo", "jus", "pain", "livre"],
+      "reponse": "jus",
+      "explication": "On dit : jus de mangue."
+    },
+    {
+      "question": "Choisis la bonne phrase.",
+      "options": ["Le stylo dort.", "Le stylo est rouge.", "Le stylo court.", "Le stylo mange."],
+      "reponse": "Le stylo est rouge.",
+      "explication": "Un stylo peut avoir une couleur, mais ne court pas."
+    },
+    {
+      "question": "Complète : L’enfant met ses cahiers dans ____.",
+      "options": ["l’assiette", "le sac", "le lit", "la chaise"],
+      "reponse": "le sac",
+      "explication": "Les cahiers vont dans un sac d’école."
+    },
+    {
+      "question": "Que fait le coq ? – Le coq ____ le matin.",
+      "options": ["crie", "marche", "vole", "nage"],
+      "reponse": "crie",
+      "explication": "On dit que le coq crie ou chante le matin."
+    },
+    {
+      "question": "Complète : La pluie tombe du ____.",
+      "options": ["sol", "toit", "ciel", "mur"],
+      "reponse": "ciel",
+      "explication": "La pluie vient du ciel."
+    },
+    {
+      "question": "Complète : Grand-mère fait du ____ au feu.",
+      "options": ["riz", "papier", "pain", "bois"],
+      "reponse": "riz",
+      "explication": "On fait du riz à la cuisine."
+    },
+    {
+      "question": "Choisis la bonne phrase.",
+      "options": ["Les enfants jouent.", "Les enfants bois.", "Les enfants cour.", "Les enfants aller."],
+      "reponse": "Les enfants jouent.",
+      "explication": "Verbe 'jouer' conjugué à la 3e personne du pluriel."
+    },
+    {
+      "question": "Quel est le synonyme de 'rapide' ?",
+      "options": ["lent", "vite", "fort", "chaud"],
+      "reponse": "vite",
+      "explication": "'Vite' est un mot qui a le même sens que 'rapide'."
+    },
+    {
+      "question": "Quel est le contraire de 'grand' ?",
+      "options": ["gros", "haut", "petit", "fort"],
+      "reponse": "petit",
+      "explication": "Le contraire de 'grand' est 'petit'."
+    },
+    {
+      "question": "Quel est le synonyme de 'content' ?",
+      "options": ["fâché", "heureux", "triste", "peur"],
+      "reponse": "heureux",
+      "explication": "'Heureux' veut dire presque la même chose que 'content'."
+    },
+    {
+      "question": "Quel est le contraire de 'chaud' ?",
+      "options": ["froid", "brûlant", "rapide", "lent"],
+      "reponse": "froid",
+      "explication": "Le contraire de 'chaud' est 'froid'."
+    },
+    {
+      "question": "Quel mot a le même sens que 'joli' ?",
+      "options": ["moche", "beau", "triste", "long"],
+      "reponse": "beau",
+      "explication": "'Beau' est un synonyme de 'joli'."
+    },
+    {
+      "question": "Quel est le contraire de 'noir' ?",
+      "options": ["gris", "sombre", "clair", "blanc"],
+      "reponse": "blanc",
+      "explication": "'Blanc' est le contraire de 'noir'."
+    },
+    {
+      "question": "Quel est le synonyme de 'maison' ?",
+      "options": ["foyer", "route", "arbre", "vélo"],
+      "reponse": "foyer",
+      "explication": "'Foyer' est un mot qui peut aussi vouloir dire 'maison'."
+    },
+    {
+      "question": "Quel mot est un homonyme de 'verre' ?",
+      "options": ["vert", "fer", "voir", "mer"],
+      "reponse": "vert",
+      "explication": "'Verre' et 'vert' se prononcent pareil mais n’ont pas le même sens."
+    },
+    {
+      "question": "Quel est le contraire de 'sale' ?",
+      "options": ["propre", "lourd", "vide", "plein"],
+      "reponse": "propre",
+      "explication": "'Propre' est le contraire de 'sale'."
+    },
+    {
+      "question": "Quel est le synonyme de 'terminer' ?",
+      "options": ["manger", "finir", "commencer", "voler"],
+      "reponse": "finir",
+      "explication": "'Terminer' veut dire la même chose que 'finir'."
+    },
+    {
+      "question": "Quel est le contraire de 'haut' ?",
+      "options": ["court", "grand", "bas", "gros"],
+      "reponse": "bas",
+      "explication": "'Bas' est le contraire de 'haut'."
+    },
+    {
+      "question": "Quel mot est un homonyme de 'mer' ?",
+      "options": ["mère", "miel", "mètre", "père"],
+      "reponse": "mère",
+      "explication": "'Mer' et 'mère' se prononcent pareil mais ont des sens différents."
+    },
+    {
+      "question": "Quel est le synonyme de 'fatigué' ?",
+      "options": ["joyeux", "épuisé", "rapide", "fort"],
+      "reponse": "épuisé",
+      "explication": "'Épuisé' veut dire très fatigué."
+    },
+    {
+      "question": "Quel est le contraire de 'ouvrir' ?",
+      "options": ["fermer", "manger", "écrire", "parler"],
+      "reponse": "fermer",
+      "explication": "On ouvre une porte, on la ferme aussi. Ce sont des contraires."
+    },
+    {
+      "question": "Quel mot est un homonyme de 'sang' ?",
+      "options": ["cent", "sans", "cinq", "sain"],
+      "reponse": "sans",
+      "explication": "'Sang' et 'sans' se prononcent pareil, mais ne signifient pas la même chose."
+    },
+    {
+      "question": "Quel est le synonyme de 'rapidement' ?",
+      "options": ["vite", "lentement", "doucement", "peu"],
+      "reponse": "vite",
+      "explication": "'Vite' est un synonyme de 'rapidement'."
+    },
+    {
+      "question": "Quel est le contraire de 'jeune' ?",
+      "options": ["petit", "grand", "vieux", "rapide"],
+      "reponse": "vieux",
+      "explication": "'Vieux' est le contraire de 'jeune'."
+    },
+    {
+      "question": "Quel est le synonyme de 'parler' ?",
+      "options": ["regarder", "dire", "manger", "lire"],
+      "reponse": "dire",
+      "explication": "'Parler' et 'dire' sont des mots proches en sens."
+    },
+    {
+      "question": "Quel mot est un homonyme de 'l’air' ?",
+      "options": ["l’aire", "laire", "l’art", "l’arme"],
+      "reponse": "l’aire",
+      "explication": "'L’air' et 'l’aire' se prononcent pareil, mais ont des sens différents."
+    },
+    {
+      "question": "Quel est le contraire de 'debout' ?",
+      "options": ["assis", "marcher", "sauter", "manger"],
+      "reponse": "assis",
+      "explication": "'Assis' est le contraire de 'debout'."
+    },
+    {
+      "question": "Quel est le synonyme de 'rire' ?",
+      "options": ["pleurer", "chanter", "sourire", "rigoler"],
+      "reponse": "rigoler",
+      "explication": "'Rire' et 'rigoler' ont le même sens."
+    },
+    {
+      "question": "Quel mot est un homonyme de 'foie' ?",
+      "options": ["fois", "voie", "fouet", "voix"],
+      "reponse": "fois",
+      "explication": "'Foie' (organe) et 'fois' (nombre) se prononcent pareil."
+    },
+    {
+      "question": "Quel est le contraire de 'lourd' ?",
+      "options": ["léger", "grand", "petit", "court"],
+      "reponse": "léger",
+      "explication": "'Léger' est le contraire de 'lourd'."
+    },
+    {
+      "question": "Quel est le synonyme de 'intelligent' ?",
+      "options": ["sage", "rapide", "malin", "beau"],
+      "reponse": "malin",
+      "explication": "'Malin' est un mot qui peut vouloir dire intelligent."
+    },
+    {
+      "question": "Quel mot est un homonyme de 'pain' ?",
+      "options": ["pin", "pinte", "pan", "pont"],
+      "reponse": "pin",
+      "explication": "'Pain' (à manger) et 'pin' (arbre) ont la même prononciation."
+    },
+    {
+      "question": "Quel est le contraire de 'arriver' ?",
+      "options": ["courir", "partir", "tomber", "entrer"],
+      "reponse": "partir",
+      "explication": "On arrive à un endroit, on en part aussi : ce sont des contraires."
+    },
+    {
+      "question": "Quel est le synonyme de 'beaucoup' ?",
+      "options": ["peu", "trop", "assez", "énormément"],
+      "reponse": "énormément",
+      "explication": "'Beaucoup' veut dire 'énormément'."
+    },
+    {
+      "question": "Quel est le contraire de 'jour' ?",
+      "options": ["matin", "lundi", "nuit", "mois"],
+      "reponse": "nuit",
+      "explication": "'Nuit' est le contraire de 'jour'."
+    },
+    {
+      "question": "Quel est le synonyme de 'travailler' ?",
+      "options": ["jouer", "dormir", "laborer", "bosser"],
+      "reponse": "bosser",
+      "explication": "'Bosser' est un synonyme familier de 'travailler'."
+    },
+    {
+      "question": "Quel mot est un homonyme de 'saut' ?",
+      "options": ["seau", "sot", "saut", "seau"],
+      "reponse": "seau",
+      "explication": "'Saut' (action) et 'seau' (objet) se prononcent pareil."
+    },
+    {
+      "question": "Quel animal est un mammifère ?",
+      "options": ["Crocodile", "Chèvre", "Poule", "Grenouille"],
+      "reponse": "Chèvre",
+      "explication": "La chèvre est un mammifère car elle allaite ses petits."
+    },
+    {
+      "question": "L’homme est un :",
+      "options": ["Poisson", "Oiseau", "Mammifère", "Reptile"],
+      "reponse": "Mammifère",
+      "explication": "L’homme est un mammifère car il a des poils et allaite les bébés."
+    },
+    {
+      "question": "Quel est l’organe qui permet de respirer ?",
+      "options": ["Cœur", "Foie", "Poumon", "Estomac"],
+      "reponse": "Poumon",
+      "explication": "Les poumons servent à respirer l’air."
+    },
+    {
+      "question": "Chez l’homme, l’organe de la digestion est :",
+      "options": ["Estomac", "Poumon", "Langue", "Rein"],
+      "reponse": "Estomac",
+      "explication": "L’estomac aide à digérer les aliments."
+    },
+    {
+      "question": "Quel est l’animal qui pond des œufs ?",
+      "options": ["Chien", "Chat", "Poule", "Mouton"],
+      "reponse": "Poule",
+      "explication": "La poule pond des œufs, contrairement aux mammifères."
+    },
+    {
+      "question": "Quel animal a des plumes ?",
+      "options": ["Poisson", "Chien", "Pigeon", "Chèvre"],
+      "reponse": "Pigeon",
+      "explication": "Les oiseaux comme le pigeon ont des plumes."
+    },
+    {
+      "question": "Combien de jambes a un être humain ?",
+      "options": ["2", "3", "4", "1"],
+      "reponse": "2",
+      "explication": "L’être humain a deux jambes pour marcher."
+    },
+    {
+      "question": "Quel organe sert à pomper le sang ?",
+      "options": ["Poumon", "Foie", "Cœur", "Estomac"],
+      "reponse": "Cœur",
+      "explication": "Le cœur fait circuler le sang dans le corps."
+    },
+    {
+      "question": "Les cheveux poussent sur :",
+      "options": ["Les bras", "Les pieds", "La tête", "Les yeux"],
+      "reponse": "La tête",
+      "explication": "Les cheveux se trouvent sur la tête."
+    },
+    {
+      "question": "Le serpent est un :",
+      "options": ["Mammifère", "Poisson", "Reptile", "Oiseau"],
+      "reponse": "Reptile",
+      "explication": "Le serpent est un reptile qui pond des œufs."
+    },
+    {
+      "question": "Les chats nourrissent leurs petits avec :",
+      "options": ["Des graines", "Leur lait", "Des insectes", "Des feuilles"],
+      "reponse": "Leur lait",
+      "explication": "Les chats sont des mammifères et allaitent leurs petits."
+    },
+    {
+      "question": "L’homme et la vache ont en commun :",
+      "options": ["Les plumes", "Les écailles", "Le sang chaud", "Les nageoires"],
+      "reponse": "Le sang chaud",
+      "explication": "Ce sont tous les deux des mammifères à sang chaud."
+    },
+    {
+      "question": "Quel est l’organe qui entend ?",
+      "options": ["Le nez", "L’oreille", "La bouche", "La main"],
+      "reponse": "L’oreille",
+      "explication": "C’est l’oreille qui permet d’entendre."
+    },
+    {
+      "question": "Quel animal vit dans l’eau ?",
+      "options": ["Chat", "Oiseau", "Poisson", "Chien"],
+      "reponse": "Poisson",
+      "explication": "Le poisson vit dans l’eau et respire avec des branchies."
+    },
+    {
+      "question": "L’homme marche sur :",
+      "options": ["4 pattes", "Ses mains", "Ses genoux", "2 jambes"],
+      "reponse": "2 jambes",
+      "explication": "L’homme se déplace en marchant sur deux jambes."
+    },
+    {
+      "question": "La vache donne :",
+      "options": ["Des œufs", "Du lait", "Des graines", "Du jus"],
+      "reponse": "Du lait",
+      "explication": "La vache est un mammifère, elle produit du lait."
+    },
+    {
+      "question": "Les doigts sont situés sur :",
+      "options": ["Les pieds", "Le nez", "Les mains", "Les genoux"],
+      "reponse": "Les mains",
+      "explication": "Les doigts sont au bout des mains."
+    },
+    {
+      "question": "Quel organe nous permet de voir ?",
+      "options": ["Le nez", "L’œil", "La bouche", "L’oreille"],
+      "reponse": "L’œil",
+      "explication": "Les yeux servent à voir."
+    },
+    {
+      "question": "Quel est le mode de reproduction des mammifères ?",
+      "options": ["Ils pondent", "Ils naissent dans l’eau", "Ils naissent vivants", "Ils éclatent d’un fruit"],
+      "reponse": "Ils naissent vivants",
+      "explication": "Les mammifères mettent au monde des bébés vivants."
+    },
+    {
+      "question": "Les oiseaux utilisent leurs ailes pour :",
+      "options": ["Marcher", "Grimper", "Voler", "Pêcher"],
+      "reponse": "Voler",
+      "explication": "Les ailes permettent aux oiseaux de voler."
+    },
+    {
+      "question": "Combien de doigts une main humaine possède-t-elle ?",
+      "options": ["3", "4", "5", "6"],
+      "reponse": "5",
+      "explication": "Chaque main a 5 doigts."
+    },
+    {
+      "question": "Quel animal n’est pas un mammifère ?",
+      "options": ["Chien", "Crocodile", "Chèvre", "Singe"],
+      "reponse": "Crocodile",
+      "explication": "Le crocodile pond des œufs, ce n’est pas un mammifère."
+    },
+    {
+      "question": "Quel est le rôle du nez ?",
+      "options": ["Voir", "Respirer", "Manger", "Écrire"],
+      "reponse": "Respirer",
+      "explication": "On respire par le nez."
+    },
+    {
+      "question": "Les poumons sont dans :",
+      "options": ["Le ventre", "La tête", "La poitrine", "Le bras"],
+      "reponse": "La poitrine",
+      "explication": "Les poumons sont dans la cage thoracique."
+    },
+    {
+      "question": "Quel animal est aussi un primate comme l’homme ?",
+      "options": ["Singe", "Poule", "Chien", "Cheval"],
+      "reponse": "Singe",
+      "explication": "Le singe est un primate, comme l’homme."
+    },
+    {
+      "question": "Quel animal a une trompe ?",
+      "options": ["Chèvre", "Girafe", "Éléphant", "Lion"],
+      "reponse": "Éléphant",
+      "explication": "L’éléphant a une longue trompe pour boire et sentir."
+    },
+    {
+      "question": "Quel organe aide à goûter ?",
+      "options": ["Main", "Nez", "Œil", "Langue"],
+      "reponse": "Langue",
+      "explication": "On goûte avec la langue."
+    },
+    {
+      "question": "Quels animaux ont une carapace ?",
+      "options": ["Poissons", "Chèvres", "Tortues", "Serpents"],
+      "reponse": "Tortues",
+      "explication": "La carapace protège la tortue."
+    },
+    {
+      "question": "L’homme se déplace avec :",
+      "options": ["Les oreilles", "Les jambes", "Les dents", "Le nez"],
+      "reponse": "Les jambes",
+      "explication": "L’homme marche grâce à ses jambes."
+    },
+    {
+      "question": "Où trouve-t-on le cœur ?",
+      "options": ["Dans la tête", "Dans le bras", "Dans la poitrine", "Dans le pied"],
+      "reponse": "Dans la poitrine",
+      "explication": "Le cœur est situé dans la poitrine."
     }
   ]
 }
