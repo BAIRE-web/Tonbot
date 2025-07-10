@@ -480,8 +480,6 @@
       "reponse": "Vrai",
       "explication": "La somme des racines est toujours supérieure ou égale à la racine de la somme."
     },
-{
-  "qcm": [
     {
       "question": "Simplifie : √50",
       "options": ["5√2", "10√5", "25√2", "2√25"],
