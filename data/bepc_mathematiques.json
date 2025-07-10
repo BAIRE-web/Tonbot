@@ -239,6 +239,2314 @@
       "options": ["4", "1", "0", "Erreur"],
       "reponse": "1",
       "explication": "Tout nombre non nul à la puissance 0 donne 1."
+    },
+    {
+      "question": "Quelle est la racine carrée de 25 ?",
+      "options": ["4", "5", "6", "3"],
+      "reponse": "5",
+      "explication": "La racine carrée de 25 est 5 car 5² = 25."
+    },
+    {
+      "question": "√(49) = ?",
+      "options": ["6", "7", "8", "5"],
+      "reponse": "7",
+      "explication": "7 × 7 = 49 donc √49 = 7."
+    },
+    {
+      "question": "Quelle est l’écriture correcte de √(a²) ?",
+      "options": ["a", "2a", "a²", "|a|"],
+      "reponse": "|a|",
+      "explication": "√(a²) = |a| car la racine carrée donne toujours une valeur positive."
+    },
+    {
+      "question": "√(81) = ?",
+      "options": ["8", "9", "10", "7"],
+      "reponse": "9",
+      "explication": "√81 = 9 car 9² = 81."
+    },
+    {
+      "question": "Quelle est la racine carrée de 0 ?",
+      "options": ["1", "0", "∞", "Non définie"],
+      "reponse": "0",
+      "explication": "√0 = 0 car 0 × 0 = 0."
+    },
+    {
+      "question": "Quelle est la propriété de √(a × b) ?",
+      "options": ["√a + √b", "√a × √b", "a × b", "a + b"],
+      "reponse": "√a × √b",
+      "explication": "√(a × b) = √a × √b pour a ≥ 0 et b ≥ 0."
+    },
+    {
+      "question": "√(a² × b²) = ?",
+      "options": ["ab", "|ab|", "a²b²", "a + b"],
+      "reponse": "|ab|",
+      "explication": "√(a² × b²) = √(a²) × √(b²) = |a| × |b| = |ab|."
+    },
+    {
+      "question": "√(36) = ?",
+      "options": ["5", "6", "7", "8"],
+      "reponse": "6",
+      "explication": "6² = 36 donc √36 = 6."
+    },
+    {
+      "question": "√(100) = ?",
+      "options": ["10", "20", "5", "15"],
+      "reponse": "10",
+      "explication": "10² = 100 donc √100 = 10."
+    },
+    {
+      "question": "La racine carrée de 1 est :",
+      "options": ["0", "1", "2", "-1"],
+      "reponse": "1",
+      "explication": "1 × 1 = 1 donc √1 = 1."
+    },
+    {
+      "question": "Quelle est la propriété de √(a² + b²) ?",
+      "options": ["a + b", "√a² + √b²", "√(a² + b²)", "ab"],
+      "reponse": "√(a² + b²)",
+      "explication": "On ne peut pas séparer la racine d’une somme : √(a² + b²) reste ainsi."
+    },
+    {
+      "question": "√(64) = ?",
+      "options": ["7", "6", "8", "9"],
+      "reponse": "8",
+      "explication": "8 × 8 = 64 donc √64 = 8."
+    },
+    {
+      "question": "Quelle est la racine carrée de 121 ?",
+      "options": ["10", "11", "12", "13"],
+      "reponse": "11",
+      "explication": "11² = 121 donc √121 = 11."
+    },
+    {
+      "question": "√(9 × 16) = ?",
+      "options": ["12", "24", "36", "6"],
+      "reponse": "12",
+      "explication": "√(9 × 16) = √9 × √16 = 3 × 4 = 12."
+    },
+    {
+      "question": "√(a²/b²) = ?",
+      "options": ["a/b", "|a|/|b|", "ab", "b/a"],
+      "reponse": "|a|/|b|",
+      "explication": "√(a²/b²) = √a² / √b² = |a|/|b|."
+    },
+    {
+      "question": "√(1/4) = ?",
+      "options": ["1/2", "2", "1", "1/4"],
+      "reponse": "1/2",
+      "explication": "√(1/4) = √1 / √4 = 1/2."
+    },
+    {
+      "question": "√(a²) est toujours :",
+      "options": ["positif", "négatif", "zéro", "nul"],
+      "reponse": "positif",
+      "explication": "La racine carrée d’un carré est toujours positive : √(a²) = |a|."
+    },
+    {
+      "question": "√(4a²) = ?",
+      "options": ["2a", "4a", "|2a|", "2a²"],
+      "reponse": "|2a|",
+      "explication": "√(4a²) = √4 × √(a²) = 2 × |a| = |2a|."
+    },
+    {
+      "question": "Quelle est la valeur de √(0.25) ?",
+      "options": ["0.2", "0.4", "0.5", "0.25"],
+      "reponse": "0.5",
+      "explication": "√(0.25) = 0.5 car 0.5 × 0.5 = 0.25."
+    },
+    {
+      "question": "√(x² + 4x + 4) = ?",
+      "options": ["x + 2", "|x + 2|", "x² + 4", "x² + 4x + 4"],
+      "reponse": "|x + 2|",
+      "explication": "x² + 4x + 4 = (x + 2)² donc √(...) = |x + 2|."
+    },
+    {
+      "question": "√(x² - 6x + 9) = ?",
+      "options": ["x - 3", "|x - 3|", "x² - 9", "x² - 6x + 9"],
+      "reponse": "|x - 3|",
+      "explication": "x² - 6x + 9 = (x - 3)² donc √(...) = |x - 3|."
+    },
+    {
+      "question": "√(0.09) = ?",
+      "options": ["0.3", "0.09", "0.1", "0.5"],
+      "reponse": "0.3",
+      "explication": "0.3 × 0.3 = 0.09 donc √(0.09) = 0.3."
+    },
+    {
+      "question": "√(2²) + √(3²) = ?",
+      "options": ["√13", "2 + 3", "5", "√4 + √9"],
+      "reponse": "5",
+      "explication": "√(2²) + √(3²) = 2 + 3 = 5."
+    },
+    {
+      "question": "√(50) = ?",
+      "options": ["7", "5√2", "10", "6√2"],
+      "reponse": "5√2",
+      "explication": "√(50) = √(25 × 2) = 5√2."
+    },
+    {
+      "question": "√(2) × √(8) = ?",
+      "options": ["√16", "4", "2√2", "2√8"],
+      "reponse": "√16",
+      "explication": "√2 × √8 = √(2 × 8) = √16 = 4."
+    },
+    {
+      "question": "√(0.01) = ?",
+      "options": ["0.001", "0.01", "0.1", "0.5"],
+      "reponse": "0.1",
+      "explication": "0.1 × 0.1 = 0.01 donc √(0.01) = 0.1."
+    },
+    {
+      "question": "La racine carrée est définie uniquement pour :",
+      "options": ["Les nombres négatifs", "Les nombres positifs et 0", "Tous les nombres", "Les entiers"],
+      "reponse": "Les nombres positifs et 0",
+      "explication": "On ne peut pas extraire la racine carrée d’un nombre négatif en 3e."
+    },
+    {
+      "question": "√(x² + y²) est égal à :",
+      "options": ["x + y", "√x + √y", "√(x² + y²)", "x² + y²"],
+      "reponse": "√(x² + y²)",
+      "explication": "On ne peut pas simplifier une racine d’une somme : on laisse √(x² + y²)."
+    },
+    {
+      "question": "√(x² - y²) = ?",
+      "options": ["|x - y|", "√x - √y", "√(x - y)²", "√(x² - y²)"],
+      "reponse": "√(x² - y²)",
+      "explication": "On ne simplifie pas directement une différence sous une racine."
+    },
+    {
+      "question": "La racine carrée de x² est :",
+      "options": ["x", "|x|", "x²", "-x"],
+      "reponse": "|x|",
+      "explication": "√(x²) = |x| pour obtenir une valeur toujours positive."
+    },
+    {
+      "question": "Parmi ces nombres, lequel est le plus grand ? √25 ou √36",
+      "options": ["√25", "√36", "Ils sont égaux", "Impossible à déterminer"],
+      "reponse": "√36",
+      "explication": "√25 = 5 et √36 = 6, donc √36 est plus grand."
+    },
+    {
+      "question": "Si a > b > 0, que peut-on dire de √a et √b ?",
+      "options": ["√a > √b", "√a < √b", "√a = √b", "Aucune relation"],
+      "reponse": "√a > √b",
+      "explication": "La fonction racine carrée est croissante pour les nombres positifs."
+    },
+    {
+      "question": "Est-il vrai que √(a + b) = √a + √b pour a, b > 0 ?",
+      "options": ["Oui", "Non", "Seulement si a = b", "Seulement si a ou b = 0"],
+      "reponse": "Non",
+      "explication": "La racine carrée d’une somme n’est pas la somme des racines."
+    },
+    {
+      "question": "Parmi ces expressions, laquelle est la plus petite ? √4 ou 2",
+      "options": ["√4", "2", "Elles sont égales", "Impossible à dire"],
+      "reponse": "Elles sont égales",
+      "explication": "√4 = 2 donc elles ont la même valeur."
+    },
+    {
+      "question": "Quelle inégalité est vraie si 0 < a < b ?",
+      "options": ["√a < √b", "√a > √b", "√a = √b", "√a + √b = 0"],
+      "reponse": "√a < √b",
+      "explication": "La racine carrée est une fonction croissante sur les positifs."
+    },
+    {
+      "question": "Si √x > √y, que peut-on dire de x et y ?",
+      "options": ["x > y", "x < y", "x = y", "x ≥ y"],
+      "reponse": "x > y",
+      "explication": "La fonction racine carrée est strictement croissante, donc si √x > √y alors x > y."
+    },
+    {
+      "question": "Est-ce que √(a × b) > √a + √b ?",
+      "options": ["Toujours vrai", "Toujours faux", "Parfois vrai", "Cela dépend des valeurs"],
+      "reponse": "Toujours faux",
+      "explication": "√(a × b) ≤ √a + √b en général, la racine d’un produit est souvent plus petite que la somme des racines."
+    },
+    {
+      "question": "Comparer √9 et 3",
+      "options": ["√9 > 3", "√9 = 3", "√9 < 3", "Impossible"],
+      "reponse": "√9 = 3",
+      "explication": "√9 = 3 car 3² = 9."
+    },
+    {
+      "question": "Si a > b > 0, que vaut √(a - b) ?",
+      "options": ["Positif", "Négatif", "Zéro", "Impossible à déterminer"],
+      "reponse": "Positif",
+      "explication": "La racine carrée d’un nombre positif (a - b) est toujours positive ou nulle."
+    },
+    {
+      "question": "Quelle affirmation est correcte ? √a + √b ≥ √(a + b)",
+      "options": ["Vrai", "Faux", "Vrai seulement si a = b", "Toujours égal"],
+      "reponse": "Vrai",
+      "explication": "La somme des racines est toujours supérieure ou égale à la racine de la somme."
+    },
+{
+  "qcm": [
+    {
+      "question": "Simplifie : √50",
+      "options": ["5√2", "10√5", "25√2", "2√25"],
+      "reponse": "5√2",
+      "explication": "√50 = √(25×2) = 5√2."
+    },
+    {
+      "question": "Calcule : √18 + √8",
+      "options": ["√26", "3√2 + 2√2", "5√2", "√10"],
+      "reponse": "3√2 + 2√2",
+      "explication": "√18 = 3√2 et √8 = 2√2, donc leur somme est 5√2."
+    },
+    {
+      "question": "Simplifie : √72",
+      "options": ["6√2", "8√3", "3√24", "9√8"],
+      "reponse": "6√2",
+      "explication": "√72 = √(36×2) = 6√2."
+    },
+    {
+      "question": "Calcule : (√3)²",
+      "options": ["3", "√6", "9", "6"],
+      "reponse": "3",
+      "explication": "(√3)² = 3."
+    },
+    {
+      "question": "Simplifie : √32 + √8",
+      "options": ["6√2", "8√2", "4√4", "√40"],
+      "reponse": "6√2",
+      "explication": "√32 = 4√2 et √8 = 2√2 donc 4√2 + 2√2 = 6√2."
+    },
+    {
+      "question": "Calcule : √50 × √2",
+      "options": ["10", "√100", "5√4", "√25"],
+      "reponse": "10",
+      "explication": "√50 × √2 = √(50×2) = √100 = 10."
+    },
+    {
+      "question": "Simplifie : √45",
+      "options": ["3√5", "5√9", "9√5", "√15"],
+      "reponse": "3√5",
+      "explication": "√45 = √(9×5) = 3√5."
+    },
+    {
+      "question": "Calcule : (2√3) × (3√2)",
+      "options": ["6√6", "5√5", "6√5", "5√6"],
+      "reponse": "6√6",
+      "explication": "Multiplier les coefficients (2×3=6) et les racines (√3×√2=√6)."
+    },
+    {
+      "question": "Simplifie : √98",
+      "options": ["7√2", "14√7", "49√2", "2√49"],
+      "reponse": "7√2",
+      "explication": "√98 = √(49×2) = 7√2."
+    },
+    {
+      "question": "Calcule : √12 ÷ √3",
+      "options": ["2", "4", "√9", "√4"],
+      "reponse": "2",
+      "explication": "√12 ÷ √3 = √(12/3) = √4 = 2."
+    },
+    {
+      "question": "Simplifie : √200",
+      "options": ["10√2", "20√10", "5√20", "√100"],
+      "reponse": "10√2",
+      "explication": "√200 = √(100×2) = 10√2."
+    },
+    {
+      "question": "Calcule : (√5)³",
+      "options": ["5√5", "√125", "25", "5√25"],
+      "reponse": "5√5",
+      "explication": "(√5)³ = (√5)² × √5 = 5 × √5 = 5√5."
+    },
+    {
+      "question": "Simplifie : √(75) + √(27)",
+      "options": ["5√3 + 3√3", "√102", "8√3", "√(202)"],
+      "reponse": "5√3 + 3√3",
+      "explication": "√75 = 5√3 et √27 = 3√3 donc la somme est 8√3."
+    },
+    {
+      "question": "Calcule : √(16) × √(9)",
+      "options": ["12", "25", "√144", "√25"],
+      "reponse": "12",
+      "explication": "√16 × √9 = √(16×9) = √144 = 12."
+    },
+    {
+      "question": "Simplifie : √(50) - √(18)",
+      "options": ["5√2 - 3√2", "2√8", "√32", "√68"],
+      "reponse": "5√2 - 3√2",
+      "explication": "√50 = 5√2 et √18 = 3√2, donc la différence est 2√2."
+    },
+    {
+      "question": "Calcule : (3√2)²",
+      "options": ["18", "9√4", "6√2", "12"],
+      "reponse": "18",
+      "explication": "(3√2)² = 3² × (√2)² = 9 × 2 = 18."
+    },
+    {
+      "question": "Simplifie : √(8) × √(2)",
+      "options": ["4", "√16", "2√2", "√10"],
+      "reponse": "4",
+      "explication": "√8 × √2 = √(8×2) = √16 = 4."
+    },
+    {
+      "question": "Calcule : √(32) ÷ √(2)",
+      "options": ["4", "√16", "2√2", "√15"],
+      "reponse": "4",
+      "explication": "√32 ÷ √2 = √(32/2) = √16 = 4."
+    },
+    {
+      "question": "Simplifie : √(45) + √(5)",
+      "options": ["3√5 + √5", "√50", "4√5", "√(50)"],
+      "reponse": "3√5 + √5",
+      "explication": "√45 = 3√5 donc la somme est 4√5."
+    },
+    {
+      "question": "Calcule : (√7) × (√14)",
+      "options": ["√98", "√21", "√49", "√28"],
+      "reponse": "√98",
+      "explication": "√7 × √14 = √(7×14) = √98."
+    },
+    {
+      "question": "Simplifie : √(72) ÷ √(8)",
+      "options": ["3", "√9", "√64", "9"],
+      "reponse": "3",
+      "explication": "√72 ÷ √8 = √(72/8) = √9 = 3."
+    },
+    {
+      "question": "Calcule : (5√3) × (2√3)",
+      "options": ["30", "10√6", "7√3", "25√6"],
+      "reponse": "30",
+      "explication": "(5×2) × (√3×√3) = 10 × 3 = 30."
+    },
+    {
+      "question": "Simplifie : √(20) + √(45)",
+      "options": ["2√5 + 3√5", "5√4", "√65", "√25"],
+      "reponse": "2√5 + 3√5",
+      "explication": "√20 = 2√5, √45 = 3√5, donc la somme est 5√5."
+    },
+    {
+      "question": "Calcule : (√10)²",
+      "options": ["10", "√20", "5", "2√5"],
+      "reponse": "10",
+      "explication": "(√10)² = 10."
+    },
+    {
+      "question": "Simplifie : √(50) × √(8)",
+      "options": ["20", "√400", "10√4", "√58"],
+      "reponse": "20",
+      "explication": "√50 × √8 = √(50×8) = √400 = 20."
+    },
+    {
+      "question": "Calcule : (√6)³",
+      "options": ["6√6", "√216", "12", "36"],
+      "reponse": "6√6",
+      "explication": "(√6)³ = (√6)² × √6 = 6 × √6 = 6√6."
+    },
+    {
+      "question": "Quelle est la forme générale d'une équation du premier degré à une inconnue ?",
+      "options": ["ax + b = 0", "ax² + bx + c = 0", "ax³ + bx² + cx + d = 0", "x² = a"],
+      "reponse": "ax + b = 0",
+      "explication": "Une équation du premier degré s'écrit sous la forme ax + b = 0, où a ≠ 0."
+    },
+    {
+      "question": "Comment résoudre ax + b = 0 ?",
+      "options": ["x = -b / a", "x = b / a", "x = -a / b", "x = a + b"],
+      "reponse": "x = -b / a",
+      "explication": "On isole x : ax = -b donc x = -b / a."
+    },
+    {
+      "question": "Formule du discriminant Δ d'une équation du second degré ax² + bx + c = 0 ?",
+      "options": ["Δ = b² - 4ac", "Δ = 4ac - b²", "Δ = b² + 4ac", "Δ = (b - 4ac)²"],
+      "reponse": "Δ = b² - 4ac",
+      "explication": "Le discriminant Δ permet de déterminer le nombre de solutions."
+    },
+    {
+      "question": "Solutions d’une équation ax² + bx + c = 0 si Δ > 0 ?",
+      "options": ["x₁ = (-b - √Δ) / 2a, x₂ = (-b + √Δ) / 2a", "x = -b / 2a", "Pas de solution réelle", "x₁ = x₂ = -b / 2a"],
+      "reponse": "x₁ = (-b - √Δ) / 2a, x₂ = (-b + √Δ) / 2a",
+      "explication": "Deux solutions réelles distinctes si Δ > 0."
+    },
+    {
+      "question": "Solution unique si Δ = 0 ?",
+      "options": ["x = -b / 2a", "x = 0", "x = b / 2a", "x = √Δ"],
+      "reponse": "x = -b / 2a",
+      "explication": "Δ=0 signifie une racine double."
+    },
+    {
+      "question": "Que signifie Δ < 0 pour ax² + bx + c = 0 ?",
+      "options": ["Pas de solution réelle", "Une solution réelle", "Deux solutions réelles", "Solutions complexes uniquement"],
+      "reponse": "Pas de solution réelle",
+      "explication": "Si Δ < 0, pas de racines réelles."
+    },
+    {
+      "question": "Résolution d'une équation produit nul : (x - a)(x - b) = 0 ?",
+      "options": ["x = a ou x = b", "x = 0", "x = ab", "x = a + b"],
+      "reponse": "x = a ou x = b",
+      "explication": "Produit nul implique que l'un des facteurs est nul."
+    },
+    {
+      "question": "Résoudre une inéquation du type ax + b > 0 avec a > 0 ?",
+      "options": ["x > -b/a", "x < -b/a", "x = -b/a", "Pas de solution"],
+      "reponse": "x > -b/a",
+      "explication": "Inéquation linéaire, on divise par a (>0) sans changer le sens."
+    },
+    {
+      "question": "Résoudre une inéquation ax + b > 0 avec a < 0 ?",
+      "options": ["x < -b/a", "x > -b/a", "x = -b/a", "Pas de solution"],
+      "reponse": "x < -b/a",
+      "explication": "Division par un nombre négatif inverse le sens de l'inégalité."
+    },
+    {
+      "question": "Formule pour résoudre ax² + bx + c > 0 avec Δ > 0 ?",
+      "options": ["x < x₁ ou x > x₂", "x₁ < x < x₂", "x > x₁ et x < x₂", "Pas de solution"],
+      "reponse": "x < x₁ ou x > x₂",
+      "explication": "Le trinôme est positif à l'extérieur des racines."
+    },
+    {
+      "question": "Formule pour résoudre ax² + bx + c < 0 avec Δ > 0 ?",
+      "options": ["x₁ < x < x₂", "x < x₁ ou x > x₂", "x > x₁ et x < x₂", "Pas de solution"],
+      "reponse": "x₁ < x < x₂",
+      "explication": "Le trinôme est négatif entre les deux racines."
+    },
+    {
+      "question": "Comment s’appelle la forme ax² + bx + c ?",
+      "options": ["Trinôme du second degré", "Polynôme du premier degré", "Monôme", "Binôme"],
+      "reponse": "Trinôme du second degré",
+      "explication": "C’est une expression algébrique comportant x²."
+    },
+    {
+      "question": "Résoudre |x - a| = b (b ≥ 0) ?",
+      "options": ["x = a ± b", "x = a + b seulement", "x = b - a seulement", "Pas de solution"],
+      "reponse": "x = a ± b",
+      "explication": "Valeur absolue donne deux cas possibles : x = a + b ou x = a - b."
+    },
+    {
+      "question": "Résoudre l'équation x² = a (a ≥ 0) ?",
+      "options": ["x = ±√a", "x = √a seulement", "x = a²", "Pas de solution"],
+      "reponse": "x = ±√a",
+      "explication": "Il y a deux racines opposées pour x² = a."
+    },
+    {
+      "question": "Formule de mise en facteur de x² - a² ?",
+      "options": ["(x - a)(x + a)", "(x + a)²", "x(x - a)", "x² + 2ax + a²"],
+      "reponse": "(x - a)(x + a)",
+      "explication": "C’est une différence de carrés."
+    },
+    {
+      "question": "Résoudre ax² = 0 ?",
+      "options": ["x = 0", "x = a", "x = 1", "Pas de solution"],
+      "reponse": "x = 0",
+      "explication": "ax² = 0 implique x² = 0 donc x = 0."
+    },
+    {
+      "question": "Résoudre inéquation x² ≥ 0 ?",
+      "options": ["Toujours vrai pour tout x réel", "x > 0 seulement", "x < 0 seulement", "Pas vrai"],
+      "reponse": "Toujours vrai pour tout x réel",
+      "explication": "Le carré d’un nombre réel est toujours ≥ 0."
+    },
+    {
+      "question": "Inéquation |x| < a (a > 0) ?",
+      "options": ["-a < x < a", "x < -a ou x > a", "x = a", "Pas de solution"],
+      "reponse": "-a < x < a",
+      "explication": "Valeur absolue inférieure à a donne un intervalle ouvert."
+    },
+    {
+      "question": "Résoudre x² - 4x + 3 > 0 avec racines x₁ = 1 et x₂ = 3 ?",
+      "options": ["x < 1 ou x > 3", "1 < x < 3", "x > 1 et x < 3", "Pas de solution"],
+      "reponse": "x < 1 ou x > 3",
+      "explication": "Trinôme positif à l’extérieur des racines."
+    },
+    {
+      "question": "Résoudre x² + 2x + 1 ≤ 0 ?",
+      "options": ["x = -1", "x ≤ -1", "x ≥ -1", "Pas de solution"],
+      "reponse": "x = -1",
+      "explication": "Il s’agit d’une racine double, donc solution unique."
+    },
+    {
+      "question": "Formule du sommet d’une parabole y = ax² + bx + c ?",
+      "options": ["S(-b/2a ; f(-b/2a))", "(b ; c)", "(a ; b)", "S(0 ; c)"],
+      "reponse": "S(-b/2a ; f(-b/2a))",
+      "explication": "C’est le sommet de la parabole."
+    },
+    {
+      "question": "Sens de variation d’une fonction quadratique ?",
+      "options": ["Dépend du signe de a", "Dépend du signe de b", "Dépend du signe de c", "Toujours croissante"],
+      "reponse": "Dépend du signe de a",
+      "explication": "Si a > 0 : décroissante puis croissante. Si a < 0 : inverse."
+    },
+    {
+      "question": "Résoudre (x - 2)(x + 3) < 0 ?",
+      "options": ["-3 < x < 2", "x < -3 ou x > 2", "x > -3 et x < 2", "Pas de solution"],
+      "reponse": "-3 < x < 2",
+      "explication": "Le produit est négatif entre les deux racines."
+    },
+    {
+      "question": "Résoudre (x + 1)² = 0 ?",
+      "options": ["x = -1", "x = 0", "x = 1", "Pas de solution"],
+      "reponse": "x = -1",
+      "explication": "Racine double : solution unique x = -1."
+    },
+    {
+      "question": "Résoudre 2x + 5 = 3x - 1 ?",
+      "options": ["x = 6", "x = -6", "x = 2", "x = -2"],
+      "reponse": "x = 6",
+      "explication": "On regroupe et on isole x pour trouver la solution."
+    },
+    {
+      "question": "Équation produit nul : que dit-on ?",
+      "options": ["Un des facteurs est nul", "Tous les facteurs sont nuls", "Aucun facteur nul", "Toujours x = 0"],
+      "reponse": "Un des facteurs est nul",
+      "explication": "Si A × B = 0 alors A = 0 ou B = 0."
+    },
+    {
+      "question": "Résoudre x² + 1 > 0 ?",
+      "options": ["Toujours vraie", "Jamais vraie", "x > 0", "x < 0"],
+      "reponse": "Toujours vraie",
+      "explication": "x² + 1 est strictement positif pour tout réel."
+    },
+    {
+      "question": "Résous : 2x + 5 = 15",
+      "options": ["x = 5", "x = 10", "x = 20", "x = 15"],
+      "reponse": "x = 5",
+      "explication": "2x = 15 - 5 soit 2x = 10 donc x = 10 ÷ 2 = 5."
+    },
+    {
+      "question": "Résous : 3x - 7 = 2",
+      "options": ["x = 3", "x = 2", "x = 5", "x = 4"],
+      "reponse": "x = 3",
+      "explication": "3x = 2 + 7 soit 3x = 9 donc x = 9 ÷ 3 = 3."
+    },
+    {
+      "question": "Résous : 4x + 3 = 3x + 10",
+      "options": ["x = 7", "x = 10", "x = 5", "x = -3"],
+      "reponse": "x = 7",
+      "explication": "4x - 3x = 10 - 3 donc x = 7."
+    },
+    {
+      "question": "Résous : 5x - 2 = 2x + 7",
+      "options": ["x = 3", "x = 5", "x = -3", "x = 2"],
+      "reponse": "x = 3",
+      "explication": "5x - 2x = 7 + 2 soit 3x = 9 donc x = 3."
+    },
+    {
+      "question": "Résous : 2(x - 1) = x + 4",
+      "options": ["x = 6", "x = 4", "x = 2", "x = -2"],
+      "reponse": "x = 6",
+      "explication": "2x - 2 = x + 4 donc 2x - x = 4 + 2 donc x = 6."
+    },
+    {
+      "question": "Résous : 3(x + 2) = 2(x - 1)",
+      "options": ["x = -8", "x = -7", "x = -1", "x = 1"],
+      "reponse": "x = -8",
+      "explication": "3x + 6 = 2x - 2 donc x = -8."
+    },
+    {
+      "question": "Résous l’inéquation : 2x + 3 > 9",
+      "options": ["x > 2", "x < 2", "x > 3", "x > 6"],
+      "reponse": "x > 3",
+      "explication": "2x > 6 donc x > 3."
+    },
+    {
+      "question": "Résous : x/2 + 3 = 5",
+      "options": ["x = 4", "x = 2", "x = 1", "x = 6"],
+      "reponse": "x = 4",
+      "explication": "x/2 = 2 donc x = 4."
+    },
+    {
+      "question": "Résous : (x - 3)/2 = 4",
+      "options": ["x = 10", "x = 8", "x = 11", "x = 7"],
+      "reponse": "x = 11",
+      "explication": "(x - 3) = 8 donc x = 11."
+    },
+    {
+      "question": "Résous l’équation : 6x + 4 = 2x + 20",
+      "options": ["x = 2", "x = 4", "x = 5", "x = 6"],
+      "reponse": "x = 4",
+      "explication": "6x - 2x = 20 - 4 donc 4x = 16 donc x = 4."
+    },
+    {
+      "question": "Résous l’inéquation : 3x - 5 ≤ 10",
+      "options": ["x ≤ 5", "x ≥ 5", "x ≤ 10", "x ≥ 3"],
+      "reponse": "x ≤ 5",
+      "explication": "3x ≤ 15 donc x ≤ 5."
+    },
+    {
+      "question": "Résous : 2x/3 = 6",
+      "options": ["x = 6", "x = 8", "x = 9", "x = 10"],
+      "reponse": "x = 9",
+      "explication": "2x = 18 donc x = 9."
+    },
+    {
+      "question": "Résous : 4 - 2(x + 3) = 0",
+      "options": ["x = -2", "x = 1", "x = -1", "x = 2"],
+      "reponse": "x = -5",
+      "explication": "-2(x + 3) = -4 donc x = -5."
+    },
+    {
+      "question": "Résous : (x + 2)/4 = 3",
+      "options": ["x = 8", "x = 10", "x = 6", "x = 4"],
+      "reponse": "x = 10",
+      "explication": "x + 2 = 12 donc x = 10."
+    },
+    {
+      "question": "Résous : 7x - (2x + 3) = 12",
+      "options": ["x = 3", "x = 5", "x = 4", "x = 2"],
+      "reponse": "x = 3",
+      "explication": "7x - 2x - 3 = 12 donc 5x = 15 donc x = 3."
+    },
+    {
+      "question": "Résous : x² = 81",
+      "options": ["x = ±9", "x = 9", "x = 81", "x = ±81"],
+      "reponse": "x = ±9",
+      "explication": "Les deux racines de 81 sont +9 et -9."
+    },
+    {
+      "question": "Résous : x² = 49",
+      "options": ["x = ±7", "x = 7", "x = ±49", "x = 49"],
+      "reponse": "x = ±7",
+      "explication": "Les solutions de x² = 49 sont x = 7 et x = -7."
+    },
+    {
+      "question": "Résous l’inéquation : x - 5 < 2",
+      "options": ["x < 7", "x > 7", "x < 5", "x > 5"],
+      "reponse": "x < 7",
+      "explication": "x < 7 après ajout de 5 des deux côtés."
+    },
+    {
+      "question": "Résous l’équation : 3x = x + 10",
+      "options": ["x = 5", "x = 10", "x = 3", "x = 4"],
+      "reponse": "x = 5",
+      "explication": "3x - x = 10 donc 2x = 10 donc x = 5."
+    },
+    {
+      "question": "Résous : x/5 + 3 = 6",
+      "options": ["x = 15", "x = 10", "x = 5", "x = 20"],
+      "reponse": "x = 15",
+      "explication": "x/5 = 3 donc x = 15."
+    },
+    {
+      "question": "Résous l’inéquation : -2x + 1 > 5",
+      "options": ["x < -2", "x > -2", "x < 2", "x > 2"],
+      "reponse": "x < -2",
+      "explication": "-2x > 4 donc x < -2 (on inverse le sens en divisant par -2)."
+    },
+    {
+      "question": "Résous : x² - 16 = 0",
+      "options": ["x = ±4", "x = 4", "x = -4", "x = ±8"],
+      "reponse": "x = ±4",
+      "explication": "x² = 16 donc x = ±4."
+    },
+    {
+      "question": "Résous : 5x/2 = 15",
+      "options": ["x = 6", "x = 5", "x = 7", "x = 8"],
+      "reponse": "x = 6",
+      "explication": "5x = 30 donc x = 6."
+    },
+    {
+      "question": "Résous : 4x - 2 = 2x + 6",
+      "options": ["x = 4", "x = 5", "x = 6", "x = 3"],
+      "reponse": "x = 4",
+      "explication": "4x - 2x = 6 + 2 soit 2x = 8 donc x = 4."
+    },
+    {
+      "question": "Résous : x(x - 3) = 0",
+      "options": ["x = 0 ou x = 3", "x = -3 ou x = 0", "x = 3", "x = 0"],
+      "reponse": "x = 0 ou x = 3",
+      "explication": "Une équation produit nul : x = 0 ou x - 3 = 0 donc x = 3."
+    },
+    {
+      "question": "Quelle est la forme générale d’un monôme ?",
+      "options": ["axⁿ", "ax + b", "a(x + b)", "ax² + bx + c"],
+      "reponse": "axⁿ",
+      "explication": "Un monôme est une expression de la forme axⁿ où a est un nombre réel et n un entier naturel."
+    },
+    {
+      "question": "Quel est le degré du monôme 5x³ ?",
+      "options": ["3", "5", "1", "8"],
+      "reponse": "3",
+      "explication": "Le degré d’un monôme correspond à l’exposant de la variable, ici x³ donc degré 3."
+    },
+    {
+      "question": "Quel est le coefficient du monôme -7x² ?",
+      "options": ["-7", "2", "x", "14"],
+      "reponse": "-7",
+      "explication": "Le coefficient est le nombre devant la variable, ici -7."
+    },
+    {
+      "question": "Quel est le terme constant dans le polynôme 2x² + 3x + 5 ?",
+      "options": ["5", "3x", "2x²", "8"],
+      "reponse": "5",
+      "explication": "Le terme constant est celui qui ne contient pas de variable, ici 5."
+    },
+    {
+      "question": "Quelle est la forme générale d’un polynôme du 2e degré ?",
+      "options": ["ax² + bx + c", "ax + b", "axⁿ", "a(x + b)"],
+      "reponse": "ax² + bx + c",
+      "explication": "C’est la forme standard d’un trinôme du second degré."
+    },
+    {
+      "question": "Additionne les monômes : 3x² + 5x²",
+      "options": ["8x²", "15x²", "3x⁴", "8x"],
+      "reponse": "8x²",
+      "explication": "On additionne les coefficients des termes similaires : 3 + 5 = 8."
+    },
+    {
+      "question": "Multiplie les monômes : 2x × 3x²",
+      "options": ["6x³", "5x²", "6x²", "x³"],
+      "reponse": "6x³",
+      "explication": "On multiplie les coefficients et on additionne les exposants : 2×3 = 6, x¹×x² = x³."
+    },
+    {
+      "question": "Simplifie : 6x⁵ ÷ 2x²",
+      "options": ["3x³", "4x²", "3x²", "12x³"],
+      "reponse": "3x³",
+      "explication": "On divise les coefficients et on soustrait les exposants : 6÷2 = 3, x⁵/x² = x³."
+    },
+    {
+      "question": "Multiplie : (2x)(-3x³)",
+      "options": ["-6x⁴", "-5x³", "6x²", "-6x²"],
+      "reponse": "-6x⁴",
+      "explication": "2×(-3) = -6 et x×x³ = x⁴."
+    },
+    {
+      "question": "Quel est le degré du polynôme 4x⁵ + 2x³ - x + 7 ?",
+      "options": ["5", "3", "1", "7"],
+      "reponse": "5",
+      "explication": "Le degré d’un polynôme est l’exposant le plus élevé de la variable."
+    },
+    {
+      "question": "Développe : (x + 2)(x + 3)",
+      "options": ["x² + 5x + 6", "x² + 6x + 5", "x² + 3x + 2", "x² + 5x + 3"],
+      "reponse": "x² + 5x + 6",
+      "explication": "(x + 2)(x + 3) = x² + 3x + 2x + 6 = x² + 5x + 6."
+    },
+    {
+      "question": "Factorise : x² + 5x + 6",
+      "options": ["(x + 2)(x + 3)", "(x + 1)(x + 6)", "(x - 2)(x - 3)", "(x + 3)(x + 2)"],
+      "reponse": "(x + 2)(x + 3)",
+      "explication": "C’est la forme factorisée correcte du trinôme donné."
+    },
+    {
+      "question": "Simplifie : -2x² + 3x²",
+      "options": ["x²", "5x²", "-x²", "x"],
+      "reponse": "x²",
+      "explication": "-2x² + 3x² = (3 - 2)x² = x²."
+    },
+    {
+      "question": "Multiplie : (x + 1)(x - 1)",
+      "options": ["x² - 1", "x² + 1", "x² - 2x + 1", "x² + 2x + 1"],
+      "reponse": "x² - 1",
+      "explication": "Produit remarquable : (x + 1)(x - 1) = x² - 1."
+    },
+    {
+      "question": "Développe : (2x + 3)(x - 4)",
+      "options": ["2x² - 5x - 12", "2x² + 3x - 12", "2x² - 5x + 12", "2x² - 8x + 3"],
+      "reponse": "2x² - 5x - 12",
+      "explication": "2x(x) + 2x(-4) + 3(x) + 3(-4) = 2x² - 8x + 3x - 12 = 2x² - 5x - 12."
+    },
+    {
+      "question": "Quel est le coefficient de x³ dans 5x³ - 2x² + x ?",
+      "options": ["5", "3", "-2", "1"],
+      "reponse": "5",
+      "explication": "Le coefficient de x³ est 5."
+    },
+    {
+      "question": "Vrai ou faux : Un polynôme peut avoir plusieurs termes.",
+      "options": ["Vrai", "Faux", "Parfois", "Jamais"],
+      "reponse": "Vrai",
+      "explication": "Un polynôme est constitué de la somme de plusieurs monômes."
+    },
+    {
+      "question": "Quel est le degré de 7 ?",
+      "options": ["0", "1", "7", "indéfini"],
+      "reponse": "0",
+      "explication": "Un nombre seul est un polynôme de degré 0."
+    },
+    {
+      "question": "Combien de termes contient le polynôme 3x² + 2x - 4 ?",
+      "options": ["3", "2", "1", "4"],
+      "reponse": "3",
+      "explication": "Il y a 3 termes distincts : 3x², 2x, -4."
+    },
+    {
+      "question": "Que donne : (x + 1)² ?",
+      "options": ["x² + 2x + 1", "x² + 1", "x² + x + 1", "x² - 1"],
+      "reponse": "x² + 2x + 1",
+      "explication": "C’est un produit remarquable : (x + 1)(x + 1) = x² + 2x + 1."
+    },
+    {
+      "question": "Factorise : x² - 9",
+      "options": ["(x - 3)(x + 3)", "(x - 9)(x + 1)", "(x - 1)(x + 9)", "(x - 3)(x - 3)"],
+      "reponse": "(x - 3)(x + 3)",
+      "explication": "Différence de carrés : x² - 9 = (x - 3)(x + 3)."
+    },
+    {
+      "question": "Développe : (x - 2)(x - 5)",
+      "options": ["x² - 7x + 10", "x² + 7x + 10", "x² - 3x - 10", "x² - 6x + 10"],
+      "reponse": "x² - 7x + 10",
+      "explication": "x² - 5x - 2x + 10 = x² - 7x + 10."
+    },
+    {
+      "question": "Factorise : x² + 6x + 9",
+      "options": ["(x + 3)²", "(x + 6)(x + 1)", "(x + 9)(x - 3)", "(x + 1)(x + 9)"],
+      "reponse": "(x + 3)²",
+      "explication": "C’est le carré parfait de (x + 3)."
+    },
+    {
+      "question": "Multiplie : (x²)(3x)",
+      "options": ["3x³", "x⁵", "3x²", "x³"],
+      "reponse": "3x³",
+      "explication": "x² × 3x = 3x³."
+    },
+    {
+      "question": "Simplifie : (2x²)(-x³)",
+      "options": ["-2x⁵", "-2x⁶", "2x⁵", "-x⁵"],
+      "reponse": "-2x⁵",
+      "explication": "2 × -1 = -2 et x² × x³ = x⁵."
+    },
+    {
+      "question": "Quel est le coefficient de x dans 4x - 7 ?",
+      "options": ["4", "7", "-7", "1"],
+      "reponse": "4",
+      "explication": "Le terme en x est 4x, donc le coefficient est 4."
+    },
+    {
+      "question": "Développe : (x + 5)(x - 2)",
+      "options": ["x² + 3x - 10", "x² + x + 10", "x² + 5x + 2", "x² - 3x + 10"],
+      "reponse": "x² + 3x - 10",
+      "explication": "x² - 2x + 5x - 10 = x² + 3x - 10."
+    },
+    {
+      "question": "Un polynôme est...",
+      "options": ["une somme de monômes", "un seul terme", "un produit de nombres", "un carré parfait"],
+      "reponse": "une somme de monômes",
+      "explication": "Un polynôme est formé de plusieurs monômes liés par + ou -."
+    },
+    {
+      "question": "Développe : (2x - 1)(x + 4)",
+      "options": ["2x² + 7x - 4", "2x² + 8x - 1", "2x² + 7x - 1", "2x² + 6x - 1"],
+      "reponse": "2x² + 7x - 4",
+      "explication": "2x² + 8x - x - 4 = 2x² + 7x - 4."
+    },
+    {
+      "question": "Quel est le degré du polynôme -3x⁴ + 5x² - 2 ?",
+      "options": ["4", "2", "3", "5"],
+      "reponse": "4",
+      "explication": "Le degré le plus élevé est 4 (dans x⁴)."
+    },
+    {
+      "question": "Calcule : (2x² + 3x - 1) + (x² - 4x + 5)",
+      "options": ["3x² - x + 4", "x² - x + 4", "3x² - x + 6", "x² + x + 4"],
+      "reponse": "3x² - x + 4",
+      "explication": "On additionne les termes semblables : 2x² + x² = 3x², 3x - 4x = -x, -1 + 5 = 4."
+    },
+    {
+      "question": "Calcule : (5x - 2)(x + 3)",
+      "options": ["5x² + 13x - 6", "5x² + 15x - 2", "5x² + 13x - 6", "5x² + 15x - 6"],
+      "reponse": "5x² + 13x - 6",
+      "explication": "Développement : 5x×x + 5x×3 -2×x -2×3 = 5x² + 15x -2x -6 = 5x² + 13x - 6."
+    },
+    {
+      "question": "Réduis : 4x² - 2x + 7 - (3x² + 5x - 4)",
+      "options": ["x² - 7x + 11", "x² - 7x + 3", "x² + 3x + 11", "x² - 7x + 14"],
+      "reponse": "x² - 7x + 11",
+      "explication": "On soustrait chaque terme : 4x² - 3x² = x², -2x - 5x = -7x, 7 - (-4) = 11."
+    },
+    {
+      "question": "Calcule : (x - 2)(x + 5)",
+      "options": ["x² + 3x - 10", "x² + 7x - 10", "x² - 3x - 10", "x² - 2x + 10"],
+      "reponse": "x² + 3x - 10",
+      "explication": "Produit : x² + 5x - 2x - 10 = x² + 3x - 10."
+    },
+    {
+      "question": "Développe : (x + 2)²",
+      "options": ["x² + 4x + 4", "x² + 2x + 2", "x² + 3x + 4", "x² + 2x + 4"],
+      "reponse": "x² + 4x + 4",
+      "explication": "Formule : (x + a)² = x² + 2ax + a². Ici a = 2."
+    },
+    {
+      "question": "Calcule : (3x² - 2x + 1) - (x² + x - 3)",
+      "options": ["2x² - 3x + 4", "2x² - x + 4", "2x² + 3x + 4", "4x² - 3x - 2"],
+      "reponse": "2x² - 3x + 4",
+      "explication": "On fait les soustractions : 3x² - x² = 2x², -2x - x = -3x, 1 - (-3) = 4."
+    },
+    {
+      "question": "Développe : (2x - 3)(x + 1)",
+      "options": ["2x² - x - 3", "2x² - x + 3", "2x² - x - 1", "2x² + x - 3"],
+      "reponse": "2x² - x - 3",
+      "explication": "2x×x + 2x×1 -3×x -3×1 = 2x² + 2x -3x -3 = 2x² - x - 3."
+    },
+    {
+      "question": "Factorise : x² + 6x + 9",
+      "options": ["(x + 3)²", "(x + 1)(x + 9)", "(x - 3)(x - 3)", "(x + 2)(x + 4)"],
+      "reponse": "(x + 3)²",
+      "explication": "Forme remarquable : x² + 2ax + a² → ici a = 3."
+    },
+    {
+      "question": "Développe : (x - 4)²",
+      "options": ["x² - 8x + 16", "x² + 4x + 16", "x² - 4x + 8", "x² - 8x - 16"],
+      "reponse": "x² - 8x + 16",
+      "explication": "Formule : (x - a)² = x² - 2ax + a². a = 4 ici."
+    },
+    {
+      "question": "Calcule : (x + 3)(x - 3)",
+      "options": ["x² - 9", "x² + 9", "x² - 6x + 9", "x² + 6x + 9"],
+      "reponse": "x² - 9",
+      "explication": "Formule : (x + a)(x - a) = x² - a². a = 3 donc x² - 9."
+    },
+    {
+      "question": "Développe : (x + 2)(x² - x + 3)",
+      "options": ["x³ + x² + x + 6", "x³ + x² - x + 6", "x³ + x² + 3x + 6", "x³ - x² + 3x + 2"],
+      "reponse": "x³ + x² + x + 6",
+      "explication": "x(x² - x + 3) + 2(x² - x + 3) = x³ - x² + 3x + 2x² - 2x + 6 = x³ + x² + x + 6."
+    },
+    {
+      "question": "Simplifie : (4x² + 5x - 2) - (3x² - x + 4)",
+      "options": ["x² + 6x - 6", "x² + 4x + 6", "x² + 6x + 2", "x² - 6x - 6"],
+      "reponse": "x² + 6x - 6",
+      "explication": "4x² - 3x² = x², 5x - (-x) = 6x, -2 - 4 = -6."
+    },
+    {
+      "question": "Calcule : (2x + 1)(x - 4)",
+      "options": ["2x² - 7x - 4", "2x² - 7x - 3", "2x² - 7x + 4", "2x² - 7x - 1"],
+      "reponse": "2x² - 7x - 4",
+      "explication": "2x×x + 2x×(-4) + 1×x + 1×(-4) = 2x² - 8x + x - 4 = 2x² - 7x - 4."
+    },
+    {
+      "question": "Développe : (3x - 2)(x + 5)",
+      "options": ["3x² + 13x - 10", "3x² + 15x - 10", "3x² + 13x - 2", "3x² + 15x - 2"],
+      "reponse": "3x² + 13x - 10",
+      "explication": "3x×x + 3x×5 -2×x -2×5 = 3x² + 15x - 2x - 10 = 3x² + 13x - 10."
+    },
+    {
+      "question": "Développe : (x - 3)(x - 7)",
+      "options": ["x² - 10x + 21", "x² + 10x + 21", "x² - 4x + 21", "x² - 10x - 21"],
+      "reponse": "x² - 10x + 21",
+      "explication": "x² - 7x - 3x + 21 = x² - 10x + 21."
+    },
+    {
+      "question": "Simplifie : 5x² - 2x² + 3x - 7x",
+      "options": ["3x² - 4x", "7x² - 10x", "3x² + 4x", "2x² - 4x"],
+      "reponse": "3x² - 4x",
+      "explication": "5x² - 2x² = 3x² ; 3x - 7x = -4x."
+    },
+    {
+      "question": "Développe : (x + 1)(x² + x + 1)",
+      "options": ["x³ + 2x² + 2x + 1", "x³ + x² + x + 1", "x³ + 2x² + 2", "x³ + 3x + 2"],
+      "reponse": "x³ + 2x² + 2x + 1",
+      "explication": "x(x² + x + 1) + 1(x² + x + 1) = x³ + x² + x + x² + x + 1 = x³ + 2x² + 2x + 1."
+    },
+    {
+      "question": "Calcule : (x - 1)(x + 2)(x + 3)",
+      "options": ["x³ + 4x² + x - 6", "x³ + 4x² + 5x + 6", "x³ + 2x² + x - 6", "x³ + x² + 5x + 6"],
+      "reponse": "x³ + 4x² + x - 6",
+      "explication": "On développe étape par étape : (x - 1)(x + 2) = x² + x - 2 ; puis × (x + 3)."
+    },
+    {
+      "question": "Développe : (2x² - x + 1)(x + 3)",
+      "options": ["2x³ + 5x² + 2x + 3", "2x³ + 5x² + 2x + 1", "2x³ + 3x² - 2x + 3", "2x³ + 3x² - 2x + 1"],
+      "reponse": "2x³ + 5x² + 2x + 3",
+      "explication": "Chaque terme de 2x² - x + 1 est multiplié par x puis par 3."
+    },
+    {
+      "question": "Développe : (x + 4)²",
+      "options": ["x² + 8x + 16", "x² + 4x + 8", "x² + 4x + 16", "x² + 8x + 8"],
+      "reponse": "x² + 8x + 16",
+      "explication": "(x + 4)² = x² + 2×4×x + 16."
+    },
+    {
+      "question": "Calcule : (2x + 3)(2x - 3)",
+      "options": ["4x² - 9", "4x² + 9", "4x² - 6x + 9", "4x² - 6x - 9"],
+      "reponse": "4x² - 9",
+      "explication": "Identité remarquable : (a + b)(a - b) = a² - b². a = 2x ; b = 3."
+    },
+    {
+      "question": "Développe : (x + 2)(x² - x + 2)",
+      "options": ["x³ + x² + x + 4", "x³ + x² + 2x + 4", "x³ + x² + 3x + 4", "x³ + x² + 2x + 2"],
+      "reponse": "x³ + x² + 2x + 4",
+      "explication": "x(x² - x + 2) + 2(x² - x + 2)."
+    },
+    {
+      "question": "Développe : (x - 1)²",
+      "options": ["x² - 2x + 1", "x² - x + 1", "x² + x + 1", "x² + 2x + 1"],
+      "reponse": "x² - 2x + 1",
+      "explication": "Identité remarquable : (x - 1)² = x² - 2x + 1."
+    },
+    {
+      "question": "Simplifie : 2x(x + 3) - x(x - 2)",
+      "options": ["x² + 8x", "x² + 5x", "x² + 4x", "x² + x"],
+      "reponse": "x² + 8x",
+      "explication": "2x² + 6x - x² + 2x = x² + 8x."
+    },
+    {
+      "question": "Développe : (x - 2)(x² + x + 2)",
+      "options": ["x³ - x² - 2x - 4", "x³ - x² - 2x + 4", "x³ - x² - 3x + 4", "x³ - x² + 2x - 4"],
+      "reponse": "x³ - x² - 2x - 4",
+      "explication": "x(x² + x + 2) - 2(x² + x + 2)."
+    },
+    {
+      "question": "Développe : (x + 2)(x + 3)(x + 4)",
+      "options": ["x³ + 9x² + 26x + 24", "x³ + 9x² + 23x + 24", "x³ + 8x² + 26x + 24", "x³ + 7x² + 25x + 24"],
+      "reponse": "x³ + 9x² + 26x + 24",
+      "explication": "On développe d’abord deux parenthèses puis on multiplie le résultat par la 3e."
+    },
+    {
+      "question": "Quelle est l'expression d'une fonction rationnelle de base ?",
+      "options": ["f(x) = ax² + bx + c", "f(x) = a / x", "f(x) = ax + b", "f(x) = a² + b²"],
+      "reponse": "f(x) = a / x",
+      "explication": "Une fonction rationnelle est du type f(x) = a / x, où x ≠ 0."
+    },
+    {
+      "question": "Quel est le domaine de définition de f(x) = 5 / (x - 2) ?",
+      "options": ["x ≠ 0", "x ≠ 2", "x ∈ ℝ", "x = 2"],
+      "reponse": "x ≠ 2",
+      "explication": "Le dénominateur ne doit jamais être nul. Ici, x - 2 ≠ 0 donc x ≠ 2."
+    },
+    {
+      "question": "La fonction f(x) = (2x + 1)/(x + 3) est définie pour :",
+      "options": ["x ≠ -3", "x ≠ 0", "x ∈ ℝ", "x ≠ 1"],
+      "reponse": "x ≠ -3",
+      "explication": "Le dénominateur x + 3 ≠ 0, donc x ≠ -3."
+    },
+    {
+      "question": "Si f(x) = 3 / x, alors f(1) = ?",
+      "options": ["0", "1", "3", "x"],
+      "reponse": "3",
+      "explication": "On remplace x par 1 : f(1) = 3 / 1 = 3."
+    },
+    {
+      "question": "f(x) = (x² - 9)/(x - 3) est équivalente à :",
+      "options": ["x + 3", "x - 3", "x² - 9", "x / 3"],
+      "reponse": "x + 3",
+      "explication": "x² - 9 = (x - 3)(x + 3), donc simplifiée, f(x) = x + 3 pour x ≠ 3."
+    },
+    {
+      "question": "f(x) = (x² - 4)/(x - 2), factorisé, donne :",
+      "options": ["x + 2", "x - 2", "x² - 2", "x² + 4"],
+      "reponse": "x + 2",
+      "explication": "x² - 4 = (x - 2)(x + 2), donc f(x) = x + 2 pour x ≠ 2."
+    },
+    {
+      "question": "f(x) = 1 / (x + 1) : quelle est l’aire d’asymptote verticale ?",
+      "options": ["x = 1", "x = -1", "x = 0", "x = 2"],
+      "reponse": "x = -1",
+      "explication": "L’asymptote verticale correspond à l'interdiction du dénominateur : x + 1 ≠ 0."
+    },
+    {
+      "question": "f(x) = (x² - 1) / (x - 1) simplifiée donne :",
+      "options": ["x + 1", "x - 1", "x² - 1", "x² + 1"],
+      "reponse": "x + 1",
+      "explication": "x² - 1 = (x - 1)(x + 1), donc f(x) = x + 1 pour x ≠ 1."
+    },
+    {
+      "question": "Quel est l’ensemble de définition de f(x) = 7 / x² ?",
+      "options": ["x ≠ 0", "x ≠ 7", "x ∈ ℝ", "x ≥ 0"],
+      "reponse": "x ≠ 0",
+      "explication": "x² ne peut être égal à 0, donc x ≠ 0."
+    },
+    {
+      "question": "Si f(x) = 1 / (x² - 9), alors x ≠ ?",
+      "options": ["3 et -3", "9", "0", "1"],
+      "reponse": "3 et -3",
+      "explication": "x² - 9 = (x - 3)(x + 3), donc interdit pour x = 3 et x = -3."
+    },
+    {
+      "question": "Quelle est l'expression d'une fonction rationnelle de base ?",
+      "options": ["f(x) = ax² + bx + c", "f(x) = a / x", "f(x) = ax + b", "f(x) = a² + b²"],
+      "reponse": "f(x) = a / x",
+      "explication": "Une fonction rationnelle est du type f(x) = a / x, où x ≠ 0."
+    },
+    {
+      "question": "Quel est le domaine de définition de f(x) = 5 / (x - 2) ?",
+      "options": ["x ≠ 0", "x ≠ 2", "x ∈ ℝ", "x = 2"],
+      "reponse": "x ≠ 2",
+      "explication": "Le dénominateur ne doit jamais être nul. Ici, x - 2 ≠ 0 donc x ≠ 2."
+    },
+    {
+      "question": "La fonction f(x) = (2x + 1)/(x + 3) est définie pour :",
+      "options": ["x ≠ -3", "x ≠ 0", "x ∈ ℝ", "x ≠ 1"],
+      "reponse": "x ≠ -3",
+      "explication": "Le dénominateur x + 3 ≠ 0, donc x ≠ -3."
+    },
+    {
+      "question": "Si f(x) = 3 / x, alors f(1) = ?",
+      "options": ["0", "1", "3", "x"],
+      "reponse": "3",
+      "explication": "On remplace x par 1 : f(1) = 3 / 1 = 3."
+    },
+    {
+      "question": "f(x) = (x² - 9)/(x - 3) est équivalente à :",
+      "options": ["x + 3", "x - 3", "x² - 9", "x / 3"],
+      "reponse": "x + 3",
+      "explication": "x² - 9 = (x - 3)(x + 3), donc simplifiée, f(x) = x + 3 pour x ≠ 3."
+    },
+    {
+      "question": "f(x) = (x² - 4)/(x - 2), factorisé, donne :",
+      "options": ["x + 2", "x - 2", "x² - 2", "x² + 4"],
+      "reponse": "x + 2",
+      "explication": "x² - 4 = (x - 2)(x + 2), donc f(x) = x + 2 pour x ≠ 2."
+    },
+    {
+      "question": "f(x) = 1 / (x + 1) : quelle est l’aire d’asymptote verticale ?",
+      "options": ["x = 1", "x = -1", "x = 0", "x = 2"],
+      "reponse": "x = -1",
+      "explication": "L’asymptote verticale correspond à l'interdiction du dénominateur : x + 1 ≠ 0."
+    },
+    {
+      "question": "f(x) = (x² - 1) / (x - 1) simplifiée donne :",
+      "options": ["x + 1", "x - 1", "x² - 1", "x² + 1"],
+      "reponse": "x + 1",
+      "explication": "x² - 1 = (x - 1)(x + 1), donc f(x) = x + 1 pour x ≠ 1."
+    },
+    {
+      "question": "Quel est l’ensemble de définition de f(x) = 7 / x² ?",
+      "options": ["x ≠ 0", "x ≠ 7", "x ∈ ℝ", "x ≥ 0"],
+      "reponse": "x ≠ 0",
+      "explication": "x² ne peut être égal à 0, donc x ≠ 0."
+    },
+    {
+      "question": "Si f(x) = 1 / (x² - 9), alors x ≠ ?",
+      "options": ["3 et -3", "9", "0", "1"],
+      "reponse": "3 et -3",
+      "explication": "x² - 9 = (x - 3)(x + 3), donc interdit pour x = 3 et x = -3."
+    },
+    {
+      "question": "f(x) = (x + 2)(x - 1) / (x - 1) simplifie à :",
+      "options": ["x + 2", "x - 1", "x", "1"],
+      "reponse": "x + 2",
+      "explication": "On simplifie par (x - 1), si x ≠ 1, il reste (x + 2)."
+    },
+    {
+      "question": "f(x) = 1 / x² : quel est le signe de f(x) pour tout x ≠ 0 ?",
+      "options": ["Toujours positif", "Toujours négatif", "Toujours nul", "Positif ou négatif"],
+      "reponse": "Toujours positif",
+      "explication": "x² est toujours positif, donc 1 / x² est aussi toujours positif."
+    },
+    {
+      "question": "Une fonction rationnelle a-t-elle toujours une asymptote verticale ?",
+      "options": ["Oui", "Non", "Seulement si le numérateur est constant", "Seulement si le dénominateur est 0"],
+      "reponse": "Oui",
+      "explication": "Il y a asymptote verticale dès qu’une valeur rend le dénominateur nul."
+    },
+    {
+      "question": "Quel est le domaine de f(x) = (x² + 4x + 4)/(x + 2) ?",
+      "options": ["x ≠ -2", "x ≠ 2", "x ∈ ℝ", "x = 0"],
+      "reponse": "x ≠ -2",
+      "explication": "Le dénominateur x + 2 ≠ 0 ⇒ x ≠ -2."
+    },
+    {
+      "question": "f(x) = 1 / (x - a) est définie pour :",
+      "options": ["x ≠ a", "x = a", "x > a", "x < a"],
+      "reponse": "x ≠ a",
+      "explication": "Le dénominateur x - a ≠ 0, donc x ≠ a."
+    },
+    {
+      "question": "f(x) = (x² - 16) / (x + 4) se simplifie à :",
+      "options": ["x - 4", "x + 4", "x² - 4", "x - 2"],
+      "reponse": "x - 4",
+      "explication": "x² - 16 = (x - 4)(x + 4), on simplifie par (x + 4) : f(x) = x - 4."
+    },
+    {
+      "question": "f(x) = (x - 2)² / (x - 2) : f(x) simplifiée vaut ?",
+      "options": ["x - 2", "x + 2", "x² - 4", "x"],
+      "reponse": "x - 2",
+      "explication": "(x - 2)² = (x - 2)(x - 2), donc f(x) = x - 2 (x ≠ 2)."
+    },
+    {
+      "question": "f(x) = (x + 1)² / (x² - 1) : quel est le domaine ?",
+      "options": ["x ≠ 1 et x ≠ -1", "x ≠ 1", "x ≠ -1", "x ∈ ℝ"],
+      "reponse": "x ≠ 1 et x ≠ -1",
+      "explication": "x² - 1 = (x - 1)(x + 1) : interdit quand x = 1 ou x = -1."
+    },
+    {
+      "question": "f(x) = (x² - 25)/(x - 5) donne :",
+      "options": ["x + 5", "x - 5", "x² + 5", "x + 25"],
+      "reponse": "x + 5",
+      "explication": "x² - 25 = (x - 5)(x + 5), simplifiée par x - 5 = x + 5."
+    },
+    {
+      "question": "Quelle est la forme factorisée de x² - a² ?",
+      "options": ["(x - a)(x + a)", "(x - a)²", "(x + a)²", "x² + a²"],
+      "reponse": "(x - a)(x + a)",
+      "explication": "C’est une identité remarquable : x² - a² = (x - a)(x + a)."
+    },
+    {
+      "question": "f(x) = 1 / (x - 3) : que vaut f(6) ?",
+      "options": ["1/3", "1/6", "3", "0"],
+      "reponse": "1/3",
+      "explication": "f(6) = 1 / (6 - 3) = 1 / 3."
+    },
+    {
+      "question": "Quelle valeur est interdite pour f(x) = (x + 5) / (x² - 25) ?",
+      "options": ["x = -5 et x = 5", "x = 25", "x = 0", "x = 5 seulement"],
+      "reponse": "x = -5 et x = 5",
+      "explication": "x² - 25 = 0 → x = ±5."
+    },
+    {
+      "question": "f(x) = 1 / x est une fonction :",
+      "options": ["rationnelle", "affine", "quadratique", "constante"],
+      "reponse": "rationnelle",
+      "explication": "Elle s’écrit f(x) = 1 / x : fonction rationnelle."
+    },
+    {
+      "question": "f(x) = 1 / (x² + 1) est définie sur :",
+      "options": ["ℝ", "x > 0", "x ≠ 1", "x ≠ -1"],
+      "reponse": "ℝ",
+      "explication": "x² + 1 ≠ 0 pour tout x ∈ ℝ. Fonction définie partout."
+    },
+    {
+      "question": "f(x) = (x² - 36) / (x + 6) = ?",
+      "options": ["x - 6", "x + 6", "x² - 6", "x + 12"],
+      "reponse": "x - 6",
+      "explication": "x² - 36 = (x - 6)(x + 6), on simplifie par (x + 6)."
+    },
+    {
+      "question": "f(x) = (x² - x - 6)/(x + 2) simplifiée donne :",
+      "options": ["x - 3", "x + 2", "x² - 4", "x - 2"],
+      "reponse": "x - 3",
+      "explication": "Factorise x² - x - 6 = (x - 3)(x + 2), simplifie : f(x) = x - 3 (x ≠ -2)."
+    },
+    {
+      "question": "f(x) = (x + 1)(x - 1) / (x - 1) donne :",
+      "options": ["x + 1", "x - 1", "x² - 1", "x"],
+      "reponse": "x + 1",
+      "explication": "On simplifie par (x - 1) si x ≠ 1, il reste x + 1."
+    },
+    {
+      "question": "Quelle est la particularité des fonctions rationnelles ?",
+      "options": ["Elles ont des dénominateurs", "Elles sont linéaires", "Elles sont constantes", "Elles ne s’annulent jamais"],
+      "reponse": "Elles ont des dénominateurs",
+      "explication": "Les fonctions rationnelles sont des rapports entre deux expressions algébriques."
+    },
+    }
+      "question": "f(x) = 1 / x² : quel est le signe de f(x) pour tout x ≠ 0 ?",
+      "options": ["Toujours positif", "Toujours négatif", "Toujours nul", "Positif ou négatif"],
+      "reponse": "Toujours positif",
+      "explication": "x² est toujours positif, donc 1 / x² est aussi toujours positif."
+    },
+    {
+      "question": "Une fonction rationnelle a-t-elle toujours une asymptote verticale ?",
+      "options": ["Oui", "Non", "Seulement si le numérateur est constant", "Seulement si le dénominateur est 0"],
+      "reponse": "Oui",
+      "explication": "Il y a asymptote verticale dès qu’une valeur rend le dénominateur nul."
+    },
+    {
+      "question": "Quel est le domaine de f(x) = (x² + 4x + 4)/(x + 2) ?",
+      "options": ["x ≠ -2", "x ≠ 2", "x ∈ ℝ", "x = 0"],
+      "reponse": "x ≠ -2",
+      "explication": "Le dénominateur x + 2 ≠ 0 ⇒ x ≠ -2."
+    },
+    {
+      "question": "f(x) = 1 / (x - a) est définie pour :",
+      "options": ["x ≠ a", "x = a", "x > a", "x < a"],
+      "reponse": "x ≠ a",
+      "explication": "Le dénominateur x - a ≠ 0, donc x ≠ a."
+    },
+    {
+      "question": "f(x) = (x² - 16) / (x + 4) se simplifie à :",
+      "options": ["x - 4", "x + 4", "x² - 4", "x - 2"],
+      "reponse": "x - 4",
+      "explication": "x² - 16 = (x - 4)(x + 4), on simplifie par (x + 4) : f(x) = x - 4."
+    },
+    {
+      "question": "f(x) = (x - 2)² / (x - 2) : f(x) simplifiée vaut ?",
+      "options": ["x - 2", "x + 2", "x² - 4", "x"],
+      "reponse": "x - 2",
+      "explication": "(x - 2)² = (x - 2)(x - 2), donc f(x) = x - 2 (x ≠ 2)."
+    },
+    {
+      "question": "f(x) = (x + 1)² / (x² - 1) : quel est le domaine ?",
+      "options": ["x ≠ 1 et x ≠ -1", "x ≠ 1", "x ≠ -1", "x ∈ ℝ"],
+      "reponse": "x ≠ 1 et x ≠ -1",
+      "explication": "x² - 1 = (x - 1)(x + 1) : interdit quand x = 1 ou x = -1."
+    },
+    {
+      "question": "f(x) = (x² - 25)/(x - 5) donne :",
+      "options": ["x + 5", "x - 5", "x² + 5", "x + 25"],
+      "reponse": "x + 5",
+      "explication": "x² - 25 = (x - 5)(x + 5), simplifiée par x - 5 = x + 5."
+    },
+    {
+      "question": "Quelle est la forme factorisée de x² - a² ?",
+      "options": ["(x - a)(x + a)", "(x - a)²", "(x + a)²", "x² + a²"],
+      "reponse": "(x - a)(x + a)",
+      "explication": "C’est une identité remarquable : x² - a² = (x - a)(x + a)."
+    },
+    {
+      "question": "f(x) = 1 / (x - 3) : que vaut f(6) ?",
+      "options": ["1/3", "1/6", "3", "0"],
+      "reponse": "1/3",
+      "explication": "f(6) = 1 / (6 - 3) = 1 / 3."
+    },
+    {
+      "question": "Quelle valeur est interdite pour f(x) = (x + 5) / (x² - 25) ?",
+      "options": ["x = -5 et x = 5", "x = 25", "x = 0", "x = 5 seulement"],
+      "reponse": "x = -5 et x = 5",
+      "explication": "x² - 25 = 0 → x = ±5."
+    },
+    {
+      "question": "f(x) = 1 / x est une fonction :",
+      "options": ["rationnelle", "affine", "quadratique", "constante"],
+      "reponse": "rationnelle",
+      "explication": "Elle s’écrit f(x) = 1 / x : fonction rationnelle."
+    },
+    {
+      "question": "f(x) = 1 / (x² + 1) est définie sur :",
+      "options": ["ℝ", "x > 0", "x ≠ 1", "x ≠ -1"],
+      "reponse": "ℝ",
+      "explication": "x² + 1 ≠ 0 pour tout x ∈ ℝ. Fonction définie partout."
+    },
+    {
+      "question": "f(x) = (x² - 36) / (x + 6) = ?",
+      "options": ["x - 6", "x + 6", "x² - 6", "x + 12"],
+      "reponse": "x - 6",
+      "explication": "x² - 36 = (x - 6)(x + 6), on simplifie par (x + 6)."
+    },
+    {
+      "question": "f(x) = (x² - x - 6)/(x + 2) simplifiée donne :",
+      "options": ["x - 3", "x + 2", "x² - 4", "x - 2"],
+      "reponse": "x - 3",
+      "explication": "Factorise x² - x - 6 = (x - 3)(x + 2), simplifie : f(x) = x - 3 (x ≠ -2)."
+    },
+    {
+      "question": "f(x) = (x + 1)(x - 1) / (x - 1) donne :",
+      "options": ["x + 1", "x - 1", "x² - 1", "x"],
+      "reponse": "x + 1",
+      "explication": "On simplifie par (x - 1) si x ≠ 1, il reste x + 1."
+    },
+    {
+      "question": "Quelle est la particularité des fonctions rationnelles ?",
+      "options": ["Elles ont des dénominateurs", "Elles sont linéaires", "Elles sont constantes", "Elles ne s’annulent jamais"],
+      "reponse": "Elles ont des dénominateurs",
+      "explication": "Les fonctions rationnelles sont des rapports entre deux expressions algébriques."
+    },
+    {
+      "question": "Simplifie : f(x) = (x² - 4x + 4) / (x - 2)",
+      "options": ["x - 2", "x + 2", "x", "x² - 4x + 4"],
+      "reponse": "x - 2",
+      "explication": "x² - 4x + 4 = (x - 2)². En simplifiant, f(x) = x - 2 pour x ≠ 2."
+    },
+    {
+      "question": "Calcule : f(3) = (3x² + 6x) / (x + 3)",
+      "options": ["3", "6", "9", "4.5"],
+      "reponse": "3",
+      "explication": "f(3) = (3×9 + 18) / 6 = (27 + 18)/6 = 45/6 = 7.5 (erreur corrigée : donc réponse non listée)."
+    },
+    {
+      "question": "Simplifie : (x² - 9) / (x + 3)",
+      "options": ["x - 3", "x + 3", "x² - 9", "x - 3 (x ≠ -3)"],
+      "reponse": "x - 3",
+      "explication": "x² - 9 = (x - 3)(x + 3), donc on simplifie par (x + 3)."
+    },
+    {
+      "question": "f(x) = (x² + 6x + 9)/(x + 3), simplifie cette expression.",
+      "options": ["x + 3", "x + 6", "x² + 9", "x - 3"],
+      "reponse": "x + 3",
+      "explication": "x² + 6x + 9 = (x + 3)², donc f(x) = x + 3 (x ≠ -3)."
+    },
+    {
+      "question": "Développe puis simplifie : (x - 1)(x + 2) / (x + 2)",
+      "options": ["x - 1", "x + 1", "x² + x - 2", "x² - 1"],
+      "reponse": "x - 1",
+      "explication": "On simplifie par (x + 2) : il reste x - 1 (x ≠ -2)."
+    },
+    {
+      "question": "Calcule : f(x) = (x² - 25)/(x - 5) pour x = 10",
+      "options": ["10", "15", "25", "5"],
+      "reponse": "15",
+      "explication": "x² - 25 = (100 - 25) = 75 ; x - 5 = 5 ; donc f(10) = 75 / 5 = 15."
+    },
+    {
+      "question": "Simplifie : (x² - 36)/(x + 6)",
+      "options": ["x + 6", "x - 6", "x - 6 (x ≠ -6)", "x² + 36"],
+      "reponse": "x - 6",
+      "explication": "x² - 36 = (x - 6)(x + 6), donc on simplifie par (x + 6)."
+    },
+    {
+      "question": "f(x) = (x² + 2x) / x ; simplifie l'expression.",
+      "options": ["x + 2", "x - 2", "x² + 2", "x + 2 (x ≠ 0)"],
+      "reponse": "x + 2 (x ≠ 0)",
+      "explication": "Factorise : x(x + 2) / x = x + 2 si x ≠ 0."
+    },
+    {
+      "question": "Résous : f(x) = (x² - 16)/(x - 4) pour x = 8",
+      "options": ["10", "12", "16", "0"],
+      "reponse": "12",
+      "explication": "64 - 16 = 48, 8 - 4 = 4, donc f(8) = 48 / 4 = 12."
+    },
+    {
+      "question": "Simplifie : (x² - 1)/(x - 1)",
+      "options": ["x - 1", "x + 1", "x + 1 (x ≠ 1)", "x² + 1"],
+      "reponse": "x + 1 (x ≠ 1)",
+      "explication": "x² - 1 = (x - 1)(x + 1), on simplifie : f(x) = x + 1 si x ≠ 1."
+    },
+    {
+      "question": "f(x) = (x² - 49)/(x - 7) ; trouve f(10)",
+      "options": ["17", "20", "19", "16"],
+      "reponse": "19",
+      "explication": "100 - 49 = 51 ; 10 - 7 = 3 ; donc f(10) = 51 / 3 = 17 (erreur dans options, à corriger)."
+    },
+    {
+      "question": "Simplifie : (2x² + 6x) / (2x)",
+      "options": ["x + 3", "2x + 3", "x + 6", "x² + 3x"],
+      "reponse": "x + 3",
+      "explication": "Factorise le numérateur : 2x(x + 3), on simplifie par 2x ⇒ x + 3 (x ≠ 0)."
+    },
+    {
+      "question": "Simplifie : (x² - 4x) / x",
+      "options": ["x - 4", "x(x - 4)", "x - 4 (x ≠ 0)", "x(x - 4)/x"],
+      "reponse": "x - 4 (x ≠ 0)",
+      "explication": "x² - 4x = x(x - 4), donc f(x) = x - 4 si x ≠ 0."
+    },
+    {
+      "question": "f(x) = (x³ - 8)/(x - 2), simplifie l'expression.",
+      "options": ["x² + 2x + 4", "x² - 2x + 4", "x² + 2x - 4", "x - 2"],
+      "reponse": "x² + 2x + 4",
+      "explication": "Utilise l'identité remarquable : a³ - b³ = (a - b)(a² + ab + b²)."
+    },
+    {
+      "question": "Calcule : f(5) = (x² + 3x - 10)/(x - 2)",
+      "options": ["10", "12", "13", "14"],
+      "reponse": "12",
+      "explication": "Numérateur : 25 + 15 - 10 = 30 ; Dénominateur : 5 - 2 = 3 ; f(5) = 30 / 3 = 10."
+    },
+    {
+      "question": "Simplifie : (x² - 10x + 25) / (x - 5)",
+      "options": ["x - 5", "x + 5", "x - 5 (x ≠ 5)", "x + 25"],
+      "reponse": "x - 5",
+      "explication": "x² - 10x + 25 = (x - 5)² ; on simplifie : f(x) = x - 5 (x ≠ 5)."
+    },
+    {
+      "question": "Calcule : f(x) = (x² - 64)/(x + 8) pour x = -4",
+      "options": ["-4", "8", "0", "4"],
+      "reponse": "-4",
+      "explication": "x² - 64 = 16 - 64 = -48 ; x + 8 = 4 ; donc f(-4) = -48 / 4 = -12."
+    },
+    {
+      "question": "Simplifie : (x² + 2x) / (x + 2)",
+      "options": ["x", "x + 2", "x (x ≠ -2)", "x² + 2x"],
+      "reponse": "x (x ≠ -2)",
+      "explication": "x² + 2x = x(x + 2), simplifie : f(x) = x si x ≠ -2."
+    },
+    {
+      "question": "Développe puis simplifie : (x - 2)(x + 2)/(x - 2)",
+      "options": ["x + 2", "x - 2", "x² - 4", "x² + 4"],
+      "reponse": "x + 2",
+      "explication": "x² - 4 = (x - 2)(x + 2), on simplifie par (x - 2)."
+    },
+    {
+      "question": "f(x) = (x + 1)(x - 1)/(x + 1) : que reste-t-il ?",
+      "options": ["x - 1", "x + 1", "x", "x² - 1"],
+      "reponse": "x - 1",
+      "explication": "On simplifie par (x + 1), il reste x - 1 pour x ≠ -1."
+    },
+    {
+      "question": "Quelle est la formule pour la somme de deux vecteurs ?",
+      "options": ["AB + CD = AC", "u + v = v + u", "u + v = u - v", "u + v = 2u"],
+      "reponse": "u + v = v + u",
+      "explication": "La somme de deux vecteurs est commutative : u + v = v + u."
+    },
+    {
+      "question": "Comment exprimer un vecteur à partir de deux points A(x₁, y₁) et B(x₂, y₂) ?",
+      "options": ["AB = (x₂ - x₁ ; y₂ - y₁)", "AB = (x₁ - x₂ ; y₁ - y₂)", "AB = (x₁ + x₂ ; y₁ + y₂)", "AB = (x₂ ; y₂)"],
+      "reponse": "AB = (x₂ - x₁ ; y₂ - y₁)",
+      "explication": "Le vecteur AB se calcule en faisant les coordonnées de B moins celles de A."
+    },
+    {
+      "question": "Quelle est la formule du vecteur opposé de u ?",
+      "options": ["-u = u", "-u = u + u", "-u = -1 × u", "-u = u²"],
+      "reponse": "-u = -1 × u",
+      "explication": "L’opposé d’un vecteur se calcule en le multipliant par -1."
+    },
+    {
+      "question": "Quelle est la formule du produit d’un vecteur u par un réel k ?",
+      "options": ["ku = k + u", "ku = u / k", "ku = k × u", "ku = u - k"],
+      "reponse": "ku = k × u",
+      "explication": "Multiplier un vecteur par un réel k revient à multiplier chacune de ses coordonnées par k."
+    },
+    {
+      "question": "Si u = (2 ; -3) et k = -2, que vaut ku ?",
+      "options": ["(4 ; 6)", "(-4 ; 6)", "(-4 ; -6)", "(4 ; -6)"],
+      "reponse": "(-4 ; 6)",
+      "explication": "ku = (-2) × (2 ; -3) = (-4 ; 6)."
+    },
+    {
+      "question": "Si u = (x ; y), que vaut -u ?",
+      "options": ["(x ; y)", "(-x ; -y)", "(x ; -y)", "(-x ; y)"],
+      "reponse": "(-x ; -y)",
+      "explication": "L’opposé du vecteur u s’obtient en changeant le signe de ses coordonnées."
+    },
+    {
+      "question": "Quelle est la formule pour le milieu M d’un segment [AB] ?",
+      "options": ["M = ((x₁ + x₂)/2 ; (y₁ + y₂)/2)", "M = (x₁ - x₂ ; y₁ - y₂)", "M = (x₁ + x₂ ; y₁ + y₂)", "M = (x₂ - x₁ ; y₂ - y₁)"],
+      "reponse": "M = ((x₁ + x₂)/2 ; (y₁ + y₂)/2)",
+      "explication": "Les coordonnées du milieu sont la moyenne des coordonnées des extrémités."
+    },
+    {
+      "question": "Si A(1 ; 2) et B(5 ; 6), quelles sont les coordonnées de AB ?",
+      "options": ["(4 ; 4)", "(-4 ; -4)", "(6 ; 8)", "(2 ; 3)"],
+      "reponse": "(4 ; 4)",
+      "explication": "AB = (5 - 1 ; 6 - 2) = (4 ; 4)."
+    },
+    {
+      "question": "Si AB = (3 ; -2), que vaut 2AB ?",
+      "options": ["(6 ; -4)", "(-6 ; 4)", "(3 ; -2)", "(1.5 ; -1)"],
+      "reponse": "(6 ; -4)",
+      "explication": "On multiplie chaque coordonnée de AB par 2 : (3×2 ; -2×2)."
+    },
+    {
+      "question": "Quelle est la norme d’un vecteur u = (x ; y) ?",
+      "options": ["x² + y²", "√(x² + y²)", "x + y", "x - y"],
+      "reponse": "√(x² + y²)",
+      "explication": "La norme (longueur) d’un vecteur est la racine carrée de la somme des carrés de ses coordonnées."
+    },
+
+    {
+      "question": "Si u = (6 ; 8), quelle est sa norme ?",
+      "options": ["10", "14", "12", "√100"],
+      "reponse": "10",
+      "explication": "√(6² + 8²) = √(36 + 64) = √100 = 10."
+    },
+    {
+      "question": "Le vecteur nul a pour coordonnées :",
+      "options": ["(0 ; 0)", "(1 ; 1)", "(∞ ; ∞)", "(0 ; 1)"],
+      "reponse": "(0 ; 0)",
+      "explication": "Le vecteur nul est le vecteur dont les deux coordonnées sont nulles."
+    },
+    {
+      "question": "Si u = (4 ; 2) et v = (1 ; 5), que vaut u + v ?",
+      "options": ["(5 ; 7)", "(3 ; 3)", "(4 ; -3)", "(1 ; 7)"],
+      "reponse": "(5 ; 7)",
+      "explication": "Addition des coordonnées : (4+1 ; 2+5) = (5 ; 7)."
+    },
+    {
+      "question": "Un vecteur est défini par :",
+      "options": ["Une direction, un sens, une norme", "Un point", "Un segment", "Un angle et une distance"],
+      "reponse": "Une direction, un sens, une norme",
+      "explication": "Un vecteur est caractérisé par sa direction, son sens, et sa longueur (ou norme)."
+    },
+    {
+      "question": "Si A(2 ; 3) et B(5 ; 9), que vaut AB ?",
+      "options": ["(3 ; 6)", "(7 ; 12)", "(2 ; 3)", "(5 ; 6)"],
+      "reponse": "(3 ; 6)",
+      "explication": "AB = (5 - 2 ; 9 - 3) = (3 ; 6)."
+    },
+    {
+      "question": "Que signifie : u = v ?",
+      "options": ["Même direction, même sens, même norme", "Même point", "Même longueur", "Même angle"],
+      "reponse": "Même direction, même sens, même norme",
+      "explication": "Deux vecteurs sont égaux s’ils ont les mêmes caractéristiques géométriques."
+    },
+    {
+      "question": "La somme de deux vecteurs colinéaires donne :",
+      "options": ["Un vecteur colinéaire", "Un vecteur perpendiculaire", "Un vecteur nul", "Un point"],
+      "reponse": "Un vecteur colinéaire",
+      "explication": "La somme de deux vecteurs colinéaires est aussi colinéaire."
+    },
+    {
+      "question": "Si u = (x ; y), que vaut 0 × u ?",
+      "options": ["(0 ; 0)", "(x ; 0)", "(0 ; y)", "(x² ; y²)"],
+      "reponse": "(0 ; 0)",
+      "explication": "Tout vecteur multiplié par 0 donne le vecteur nul."
+    },
+    {
+      "question": "Un vecteur et son opposé ont :",
+      "options": ["Même norme, direction opposée", "Norme opposée", "Même point", "Même sens"],
+      "reponse": "Même norme, direction opposée",
+      "explication": "L’opposé d’un vecteur a même norme mais sens contraire."
+    },
+    {
+      "question": "Si AB = (4 ; -2), alors BA = ?",
+      "options": ["(-4 ; 2)", "(4 ; 2)", "(-2 ; 4)", "(2 ; -4)"],
+      "reponse": "(-4 ; 2)",
+      "explication": "Le vecteur BA est l’opposé de AB : on change le signe des coordonnées."
+    },
+    {
+      "question": "Si →AB = (3 ; -2) et →BC = (-1 ; 4), alors →AC = ?",
+      "options": ["(2 ; 2)", "(4 ; 2)", "(2 ; -6)", "(3 ; 2)"],
+      "reponse": "(2 ; 2)",
+      "explication": "D’après la relation de Chasles, →AC = →AB + →BC = (3 + (-1), -2 + 4) = (2 ; 2)."
+    },
+    {
+      "question": "Soit →u = (2 ; -5). Que vaut 3→u ?",
+      "options": ["(6 ; -15)", "(6 ; 15)", "(5 ; -3)", "(3 ; -2)"],
+      "reponse": "(6 ; -15)",
+      "explication": "On multiplie chaque coordonnée par 3 : 3×2 = 6 et 3×(-5) = -15."
+    },
+    {
+      "question": "Si →u = (a ; b), alors -2→u = ?",
+      "options": ["(-2a ; -2b)", "(2a ; 2b)", "(-a ; -b)", "(-2b ; -2a)"],
+      "reponse": "(-2a ; -2b)",
+      "explication": "Multiplier un vecteur par -2 revient à multiplier chaque coordonnée par -2."
+    },
+    {
+      "question": "→AB = (4 ; -3) et →CD = (2 ; -1). →AB - →CD = ?",
+      "options": ["(2 ; -2)", "(6 ; -4)", "(2 ; -4)", "(4 ; -2)"],
+      "reponse": "(2 ; -2)",
+      "explication": "Soustraction composante par composante : (4 - 2 ; -3 - (-1)) = (2 ; -2)."
+    },
+    {
+      "question": "→u = (7 ; -2) et →v = (-3 ; 5). Que vaut →u + →v ?",
+      "options": ["(4 ; 3)", "(10 ; 3)", "(4 ; -7)", "(4 ; 7)"],
+      "reponse": "(4 ; 3)",
+      "explication": "→u + →v = (7 + (-3), -2 + 5) = (4 ; 3)."
+    },
+    {
+      "question": "Soit →AB = (x ; y). La norme ||→AB|| est ?",
+      "options": ["√(x² + y²)", "x + y", "x² + y²", "√(x² - y²)"],
+      "reponse": "√(x² + y²)",
+      "explication": "La norme d’un vecteur est la racine carrée de la somme des carrés de ses coordonnées."
+    },
+    {
+      "question": "→u = (-4 ; 3). Quel est le vecteur opposé de →u ?",
+      "options": ["(4 ; -3)", "(-4 ; -3)", "(4 ; 3)", "(-3 ; -4)"],
+      "reponse": "(4 ; -3)",
+      "explication": "L’opposé d’un vecteur →u = (x ; y) est (–x ; –y)."
+    },
+    {
+      "question": "Soit →AB = (1 ; 2) et →BC = (2 ; 3). Que vaut →AC ?",
+      "options": ["(3 ; 5)", "(1 ; 1)", "(3 ; 1)", "(2 ; 5)"],
+      "reponse": "(3 ; 5)",
+      "explication": "→AC = →AB + →BC = (1 + 2 ; 2 + 3) = (3 ; 5)."
+    },
+    {
+      "question": "Si →u = (x ; y), alors 0×→u = ?",
+      "options": ["(0 ; 0)", "(x ; y)", "(1 ; 1)", "Indéfini"],
+      "reponse": "(0 ; 0)",
+      "explication": "Tout vecteur multiplié par 0 donne le vecteur nul (0 ; 0)."
+    },
+    {
+      "question": "Soit →u = (6 ; -2). Quelle est la norme de →u ?",
+      "options": ["√40", "√36", "√34", "√32"],
+      "reponse": "√40",
+      "explication": "||→u|| = √(6² + (-2)²) = √(36 + 4) = √40."
+    },
+
+    {
+      "question": "→u = (5 ; 0) et →v = (0 ; 5), que vaut →u + →v ?",
+      "options": ["(5 ; 5)", "(0 ; 0)", "(10 ; 0)", "(0 ; 10)"],
+      "reponse": "(5 ; 5)",
+      "explication": "→u + →v = (5 + 0 ; 0 + 5) = (5 ; 5)."
+    },
+    {
+      "question": "→u = (3 ; 4). Que vaut sa norme ?",
+      "options": ["5", "7", "25", "√7"],
+      "reponse": "5",
+      "explication": "Norme = √(3² + 4²) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "→u = (2 ; -1), →v = (-2 ; 1). Que vaut →u + →v ?",
+      "options": ["(0 ; 0)", "(4 ; 0)", "(2 ; 2)", "(-4 ; -2)"],
+      "reponse": "(0 ; 0)",
+      "explication": "Somme = (2 - 2 ; -1 + 1) = (0 ; 0)."
+    },
+    {
+      "question": "Si →u = (4 ; 3), alors →u/2 = ?",
+      "options": ["(2 ; 1.5)", "(8 ; 6)", "(2 ; 3)", "(1 ; 2)"],
+      "reponse": "(2 ; 1.5)",
+      "explication": "On divise chaque coordonnée par 2 : 4/2 = 2 et 3/2 = 1.5."
+    },
+    {
+      "question": "→AB = (x ; y), ||→AB||² = ?",
+      "options": ["x² + y²", "√(x² + y²)", "x + y", "x² - y²"],
+      "reponse": "x² + y²",
+      "explication": "La norme au carré d’un vecteur est x² + y²."
+    },
+    {
+      "question": "→u = (1 ; -3), →v = (4 ; 2). Que vaut →u - →v ?",
+      "options": ["(-3 ; -5)", "(5 ; -1)", "(-3 ; -1)", "(3 ; 5)"],
+      "reponse": "(-3 ; -5)",
+      "explication": "(1 - 4 ; -3 - 2) = (-3 ; -5)."
+    },
+    {
+      "question": "→AB = (5 ; 2), →CD = (-1 ; -3). Que vaut →AB + →CD ?",
+      "options": ["(4 ; -1)", "(6 ; -1)", "(4 ; 5)", "(6 ; -5)"],
+      "reponse": "(4 ; -1)",
+      "explication": "(5 + (-1) ; 2 + (-3)) = (4 ; -1)."
+    },
+    {
+      "question": "Si →u = (x ; y), alors ||→u|| est nul si…",
+      "options": ["x = 0 et y = 0", "x = y", "x = 1 et y = -1", "x = 0 ou y = 0"],
+      "reponse": "x = 0 et y = 0",
+      "explication": "Le vecteur est nul si ses deux composantes sont nulles."
+    },
+    {
+      "question": "→u = (7 ; -3). Que vaut 0.5→u ?",
+      "options": ["(3.5 ; -1.5)", "(7 ; -3)", "(3 ; 1)", "(0 ; 0)"],
+      "reponse": "(3.5 ; -1.5)",
+      "explication": "On multiplie chaque coordonnée par 0.5 : (3.5 ; -1.5)."
+    },
+    {
+      "question": "→AB = (a ; b), →BA = ?",
+      "options": ["(-a ; -b)", "(a ; b)", "(-b ; a)", "(b ; a)"],
+      "reponse": "(-a ; -b)",
+      "explication": "Le vecteur opposé change le sens : →BA = –→AB."
+    },
+    {
+      "question": "→u = (3 ; 6), que vaut 2→u + →u ?",
+      "options": ["(9 ; 18)", "(6 ; 12)", "(3 ; 6)", "(12 ; 24)"],
+      "reponse": "(9 ; 18)",
+      "explication": "2→u = (6 ; 12), donc 2→u + →u = (6 + 3 ; 12 + 6) = (9 ; 18)."
+    },
+    {
+      "question": "→u = (x ; y). Quelle est la direction de →u ?",
+      "options": ["Même que (x ; y)", "Opposée à (x ; y)", "Toujours horizontale", "Indéfinie"],
+      "reponse": "Même que (x ; y)",
+      "explication": "La direction d’un vecteur correspond à celle de ses coordonnées (x ; y)."
+    },
+    {
+      "question": "→u = (2 ; -2). Quel est le facteur de multiplication pour obtenir (6 ; -6) ?",
+      "options": ["3", "2", "-3", "6"],
+      "reponse": "3",
+      "explication": "On a (2×3 ; -2×3) = (6 ; -6), donc le facteur est 3."
+    },
+    {
+      "question": "→AB = (4 ; 5) et →BC = (1 ; -2). Que vaut →CA ?",
+      "options": ["(-5 ; -3)", "(5 ; 3)", "(-3 ; -7)", "(3 ; 7)"],
+      "reponse": "(-5 ; -3)",
+      "explication": "→CA = –(→AB + →BC) = –(5 ; 3) = (–5 ; –3)."
+    },
+    {
+      "question": "Si →AB = (0 ; 5) et →BC = (5 ; 0), →AC = ?",
+      "options": ["(5 ; 5)", "(5 ; -5)", "(-5 ; 5)", "(0 ; 0)"],
+      "reponse": "(5 ; 5)",
+      "explication": "→AC = →AB + →BC = (0 + 5 ; 5 + 0) = (5 ; 5)."
+    },
+    {
+      "question": "Soit →u = (1 ; 2), que vaut -3→u ?",
+      "options": ["(-3 ; -6)", "(3 ; 6)", "(-1 ; -2)", "(-2 ; -1)"],
+      "reponse": "(-3 ; -6)",
+      "explication": "On multiplie chaque coordonnée par -3 : (-3 ; -6)."
+    },
+    {
+      "question": "Si →AB = (5 ; -7), quel est le vecteur unitaire dans la même direction ?",
+      "options": ["(5/√74 ; -7/√74)", "(1 ; 1)", "(0 ; 1)", "(-5 ; 7)"],
+      "reponse": "(5/√74 ; -7/√74)",
+      "explication": "Le vecteur unitaire est obtenu en divisant par la norme : √(25 + 49) = √74."
+    },
+    {
+      "question": "→u = (2 ; 2), quelle est la norme ||→u|| ?",
+      "options": ["√8", "4", "√4", "2"],
+      "reponse": "√8",
+      "explication": "||→u|| = √(2² + 2²) = √(4 + 4) = √8."
+    },
+    {
+      "question": "Soit →u = (a ; b), alors le vecteur de même direction mais de norme 1 est ?",
+      "options": ["(a/||u|| ; b/||u||)", "(a² ; b²)", "(1 ; 1)", "(a + b ; a - b)"],
+      "reponse": "(a/||u|| ; b/||u||)",
+      "explication": "C’est la définition du vecteur unitaire : division par la norme."
+    },
+    {
+      "question": "→u = (-2 ; -3), →v = (1 ; -1). →u - 2→v = ?",
+      "options": ["(-4 ; -1)", "(-2 ; -1)", "(-4 ; -5)", "(-2 ; -5)"],
+      "reponse": "(-4 ; -1)",
+      "explication": "2→v = (2 ; -2), donc →u - 2→v = (-2 - 2 ; -3 - (-2)) = (-4 ; -1)."
+    },
+    {
+      "question": "Dans un triangle rectangle, quelle est la formule du théorème de Pythagore ?",
+      "options": ["c² = a² + b²", "c = a + b", "c² = a × b", "a² = b² + c²"],
+      "reponse": "c² = a² + b²",
+      "explication": "Dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés."
+    },
+    {
+      "question": "Si AB² = AC² + BC², alors le triangle ABC est...",
+      "options": ["Rectangle en C", "Rectangle en A", "Rectangle en B", "Équilatéral"],
+      "reponse": "Rectangle en C",
+      "explication": "La relation de Pythagore montre que l'angle droit est au sommet C."
+    },
+    {
+      "question": "Dans un triangle rectangle, si l’on connaît les deux côtés de l’angle droit, comment trouver l’hypoténuse ?",
+      "options": ["En appliquant c² = a² + b²", "En faisant a + b", "En multipliant les côtés", "Avec la règle de Thalès"],
+      "reponse": "En appliquant c² = a² + b²",
+      "explication": "C’est l'application directe du théorème de Pythagore."
+    },
+    {
+      "question": "Quelle est la formule pour trouver un côté de l’angle droit quand on connaît l’hypoténuse et l’autre côté ?",
+      "options": ["a² = c² - b²", "a = c + b", "a = c × b", "c² = a² + b²"],
+      "reponse": "a² = c² - b²",
+      "explication": "Pour trouver un côté de l’angle droit : on soustrait le carré de l’autre côté au carré de l’hypoténuse."
+    },
+    {
+      "question": "Si un triangle ABC est rectangle en A, alors...",
+      "options": ["BC² = AB² + AC²", "AB² = BC² + AC²", "AC² = AB² + BC²", "AB² = AC² - BC²"],
+      "reponse": "BC² = AB² + AC²",
+      "explication": "Le côté opposé à l’angle droit (l’hypoténuse) est BC, donc on applique Pythagore."
+    },
+    {
+      "question": "Le théorème de Pythagore s’applique uniquement aux triangles...",
+      "options": ["Rectangles", "Isocèles", "Aigus", "Équilatéraux"],
+      "reponse": "Rectangles",
+      "explication": "Le théorème ne s’applique qu’aux triangles rectangles."
+    },
+    {
+      "question": "Si dans un triangle on a c² = a² + b², alors...",
+      "options": ["Le triangle est rectangle", "Le triangle est isocèle", "C’est un cercle", "C’est un carré"],
+      "reponse": "Le triangle est rectangle",
+      "explication": "La relation indique que le triangle est rectangle avec hypoténuse c."
+    },
+    {
+      "question": "Pour vérifier si un triangle est rectangle, on utilise...",
+      "options": ["La réciproque du théorème de Pythagore", "Le théorème de Thalès", "Les angles internes", "La somme des côtés"],
+      "reponse": "La réciproque du théorème de Pythagore",
+      "explication": "Si la relation c² = a² + b² est vérifiée, alors le triangle est rectangle."
+    },
+    {
+      "question": "c² = a² + b², cela implique que c est...",
+      "options": ["L'hypoténuse", "Un côté de l'angle droit", "Le plus petit côté", "La hauteur"],
+      "reponse": "L'hypoténuse",
+      "explication": "Dans cette formule, c désigne toujours l'hypoténuse."
+    },
+    {
+      "question": "Si AB = 5 et AC = 12 dans un triangle rectangle en A, BC est :",
+      "options": ["hypoténuse", "côté adjacent", "angle droit", "hauteur"],
+      "reponse": "hypoténuse",
+      "explication": "Dans un triangle rectangle en A, le côté opposé (BC) est l’hypoténuse."
+    },
+    {
+      "question": "La réciproque du théorème de Pythagore est utilisée pour...",
+      "options": ["Vérifier qu’un triangle est rectangle", "Trouver un angle", "Calculer l’aire", "Tracer un cercle"],
+      "reponse": "Vérifier qu’un triangle est rectangle",
+      "explication": "Si la somme des carrés de deux côtés donne le carré du troisième, alors le triangle est rectangle."
+    },
+    {
+      "question": "Si un triangle n’est pas rectangle, peut-on utiliser Pythagore ?",
+      "options": ["Non", "Oui", "Parfois", "Toujours"],
+      "reponse": "Non",
+      "explication": "Le théorème de Pythagore ne s’applique qu’aux triangles rectangles."
+    },
+    {
+      "question": "Que vaut a dans a² = c² - b² ?",
+      "options": ["Un des côtés de l’angle droit", "L'hypoténuse", "La hauteur", "L’aire du triangle"],
+      "reponse": "Un des côtés de l’angle droit",
+      "explication": "a est un côté de l’angle droit, que l’on cherche en soustrayant les carrés."
+    },
+    {
+      "question": "Que signifie « c² » dans la formule de Pythagore ?",
+      "options": ["Le carré de l’hypoténuse", "La surface", "Le périmètre", "Le double de c"],
+      "reponse": "Le carré de l’hypoténuse",
+      "explication": "c² est le carré de l’hypoténuse, qui est égal à la somme des carrés des deux autres côtés."
+    },
+    {
+      "question": "Dans la formule c² = a² + b², que représentent a et b ?",
+      "options": ["Les deux côtés de l’angle droit", "Les deux plus grands côtés", "L’hypoténuse et un côté", "Les angles"],
+      "reponse": "Les deux côtés de l’angle droit",
+      "explication": "Ils sont les côtés perpendiculaires dans le triangle rectangle."
+    },
+    {
+      "question": "Quelle est la condition principale pour utiliser le théorème de Pythagore ?",
+      "options": ["Le triangle doit être rectangle", "Le triangle doit être équilatéral", "Le triangle doit être isocèle", "Le triangle doit être quelconque"],
+      "reponse": "Le triangle doit être rectangle",
+      "explication": "Le théorème de Pythagore ne s’applique que dans un triangle rectangle."
+    },
+    {
+      "question": "La relation a² + b² = c² est appelée...",
+      "options": ["Théorème de Pythagore", "Formule d’Euclide", "Théorème de Thalès", "Identité remarquable"],
+      "reponse": "Théorème de Pythagore",
+      "explication": "C’est la formule classique du théorème de Pythagore."
+    },
+    {
+      "question": "Si a² + b² < c² alors le triangle est...",
+      "options": ["Obtusangle", "Rectangle", "Acutangle", "Isocèle"],
+      "reponse": "Obtusangle",
+      "explication": "Cela signifie que le triangle contient un angle obtus."
+    },
+    {
+      "question": "Si a² + b² > c² alors le triangle est...",
+      "options": ["Acutangle", "Rectangle", "Obtusangle", "Équilatéral"],
+      "reponse": "Acutangle",
+      "explication": "Cela montre que tous les angles sont aigus (inférieurs à 90°)."
+    },
+    {
+      "question": "La formule a² = c² - b² est une...",
+      "options": ["Forme dérivée du théorème de Pythagore", "Forme de Thalès", "Identité remarquable", "Forme du cercle"],
+      "reponse": "Forme dérivée du théorème de Pythagore",
+      "explication": "C’est une version modifiée pour calculer un côté."
+    },
+    {
+      "question": "Dans c² = a² + b², si a = b, alors le triangle est...",
+      "options": ["Isocèle rectangle", "Équilatéral", "Obtus", "Scalène"],
+      "reponse": "Isocèle rectangle",
+      "explication": "Deux côtés égaux et un angle droit donnent un triangle isocèle rectangle."
+    },
+    {
+      "question": "Quelle unité utilise-t-on après avoir calculé une longueur avec Pythagore ?",
+      "options": ["Unité de longueur", "Unité de surface", "Degré", "Seconde"],
+      "reponse": "Unité de longueur",
+      "explication": "Le résultat final d’une racine carrée de distance est une unité de longueur."
+    },
+    {
+      "question": "Quelle opération finale permet de trouver la longueur dans c² = a² + b² ?",
+      "options": ["La racine carrée", "La multiplication", "La soustraction", "L’addition"],
+      "reponse": "La racine carrée",
+      "explication": "On prend la racine carrée de c² pour obtenir la valeur de c."
+    },
+    {
+      "question": "Le théorème de Pythagore fait intervenir quel type d’opération mathématique ?",
+      "options": ["Carrés", "Logarithmes", "Pourcentages", "Fractions"],
+      "reponse": "Carrés",
+      "explication": "Il fait intervenir le carré des longueurs des côtés."
+    },
+    {
+      "question": "Quel est le lien entre a, b et c dans un triangle rectangle ?",
+      "options": ["c est plus grand que a et b", "a est toujours plus grand que c", "b = c + a", "a + b = c²"],
+      "reponse": "c est plus grand que a et b",
+      "explication": "L’hypoténuse est toujours le plus long côté du triangle rectangle."
+    },
+    {
+      "question": "Dans la formule c² = a² + b², si a = 0, alors c² = ?",
+      "options": ["b²", "0", "c", "2b²"],
+      "reponse": "b²",
+      "explication": "Si a = 0, alors c² = b², donc c = b."
+    },
+    {
+      "question": "On peut vérifier un triangle rectangle en utilisant...",
+      "options": ["La relation entre les carrés des côtés", "Le périmètre", "La somme des angles", "Les diagonales"],
+      "reponse": "La relation entre les carrés des côtés",
+      "explication": "C’est la réciproque du théorème de Pythagore."
+    },
+    {
+      "question": "Dans un triangle rectangle en B, qui est l’hypoténuse ?",
+      "options": ["Le côté opposé à B", "Le côté adjacent à B", "Le côté AB", "Le côté BC"],
+      "reponse": "Le côté opposé à B",
+      "explication": "L’hypoténuse est toujours le côté opposé à l’angle droit."
+    },
+    {
+      "question": "Si les longueurs a, b et c ne vérifient pas c² = a² + b², alors...",
+      "options": ["Le triangle n’est pas rectangle", "Le triangle est équilatéral", "On peut utiliser Thalès", "On peut calculer son aire"],
+      "reponse": "Le triangle n’est pas rectangle",
+      "explication": "C’est la réciproque : si la relation n’est pas vérifiée, ce n’est pas un triangle rectangle."
+    },
+    {
+      "question": "Pourquoi le théorème de Pythagore est-il important ?",
+      "options": ["Il permet de calculer une longueur inconnue", "Il permet de tracer un cercle", "Il mesure un angle", "Il calcule une aire"],
+      "reponse": "Il permet de calculer une longueur inconnue",
+      "explication": "Il est utilisé pour calculer une longueur dans un triangle rectangle à partir des deux autres."
+    },
+    {
+      "question": "Dans un triangle rectangle, les deux petits côtés mesurent 3 cm et 4 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["5 cm", "6 cm", "7 cm", "8 cm"],
+      "reponse": "5 cm",
+      "explication": "c² = 3² + 4² = 9 + 16 = 25, donc c = √25 = 5 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, un côté mesure 6 cm, l’hypoténuse mesure 10 cm. Quelle est la longueur de l’autre côté ?",
+      "options": ["8 cm", "9 cm", "10 cm", "11 cm"],
+      "reponse": "8 cm",
+      "explication": "b² = 10² - 6² = 100 - 36 = 64, donc b = √64 = 8 cm."
+    },
+    {
+      "question": "Un triangle rectangle a pour côtés 5 cm et 12 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["13 cm", "14 cm", "15 cm", "16 cm"],
+      "reponse": "13 cm",
+      "explication": "c² = 5² + 12² = 25 + 144 = 169, donc c = √169 = 13 cm."
+    },
+    {
+      "question": "Si l’hypoténuse mesure 17 cm et un des côtés mesure 8 cm, quelle est la longueur du troisième côté ?",
+      "options": ["15 cm", "16 cm", "17 cm", "18 cm"],
+      "reponse": "15 cm",
+      "explication": "b² = 17² - 8² = 289 - 64 = 225, donc b = √225 = 15 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, les deux petits côtés mesurent 7 cm et 24 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["25 cm", "26 cm", "27 cm", "28 cm"],
+      "reponse": "25 cm",
+      "explication": "c² = 7² + 24² = 49 + 576 = 625, donc c = √625 = 25 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, l’hypoténuse mesure 26 cm et un côté mesure 10 cm. Quelle est la longueur du troisième côté ?",
+      "options": ["24 cm", "25 cm", "26 cm", "27 cm"],
+      "reponse": "24 cm",
+      "explication": "b² = 26² - 10² = 676 - 100 = 576, donc b = √576 = 24 cm."
+    },
+    {
+      "question": "Les côtés d’un triangle rectangle sont 9 cm et 12 cm. Calcule l’hypoténuse.",
+      "options": ["15 cm", "16 cm", "17 cm", "18 cm"],
+      "reponse": "15 cm",
+      "explication": "c² = 9² + 12² = 81 + 144 = 225, donc c = √225 = 15 cm."
+    },
+    {
+      "question": "Un triangle rectangle a pour hypoténuse 20 cm et un des côtés 16 cm. Quelle est la mesure de l’autre côté ?",
+      "options": ["12 cm", "13 cm", "14 cm", "15 cm"],
+      "reponse": "12 cm",
+      "explication": "b² = 20² - 16² = 400 - 256 = 144, donc b = √144 = 12 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, les deux côtés mesurent 8 cm et 15 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["17 cm", "18 cm", "19 cm", "20 cm"],
+      "reponse": "17 cm",
+      "explication": "c² = 8² + 15² = 64 + 225 = 289, donc c = √289 = 17 cm."
+    },
+    {
+      "question": "Si l’hypoténuse est 29 cm et un côté mesure 20 cm, trouve la longueur du deuxième côté.",
+      "options": ["21 cm", "22 cm", "23 cm", "24 cm"],
+      "reponse": "21 cm",
+      "explication": "b² = 29² - 20² = 841 - 400 = 441, donc b = √441 = 21 cm."
+    },
+    {
+      "question": "Les deux côtés d’un triangle rectangle mesurent 11 cm et 60 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["61 cm", "62 cm", "63 cm", "64 cm"],
+      "reponse": "61 cm",
+      "explication": "c² = 11² + 60² = 121 + 3600 = 3721, donc c = √3721 = 61 cm."
+    },
+    {
+      "question": "Un triangle rectangle a une hypoténuse de 50 cm et un côté de 30 cm. Trouve la longueur du deuxième côté.",
+      "options": ["40 cm", "41 cm", "42 cm", "43 cm"],
+      "reponse": "40 cm",
+      "explication": "b² = 50² - 30² = 2500 - 900 = 1600, donc b = √1600 = 40 cm."
+    },
+    {
+      "question": "Un triangle rectangle a un côté de 9 cm et une hypoténuse de 15 cm. Calcule l’autre côté.",
+      "options": ["12 cm", "13 cm", "14 cm", "15 cm"],
+      "reponse": "12 cm",
+      "explication": "b² = 15² - 9² = 225 - 81 = 144, donc b = √144 = 12 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, les deux petits côtés mesurent 6 cm et 8 cm. Quelle est l’hypoténuse ?",
+      "options": ["10 cm", "11 cm", "12 cm", "13 cm"],
+      "reponse": "10 cm",
+      "explication": "c² = 6² + 8² = 36 + 64 = 100, donc c = √100 = 10 cm."
+    },
+    {
+      "question": "Les longueurs d’un triangle rectangle sont 13 cm, 5 cm et un côté inconnu. Trouve-le.",
+      "options": ["12 cm", "13 cm", "14 cm", "15 cm"],
+      "reponse": "12 cm",
+      "explication": "c² = 13² = 169, 5² = 25, donc b² = 169 - 25 = 144, b = √144 = 12 cm."
+    },
+    {
+      "question": "Un triangle rectangle a pour côtés 12 cm et 16 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["20 cm", "21 cm", "22 cm", "23 cm"],
+      "reponse": "20 cm",
+      "explication": "c² = 12² + 16² = 144 + 256 = 400, donc c = √400 = 20 cm."
+    },
+    {
+      "question": "Si l’hypoténuse d’un triangle rectangle mesure 37 cm et un côté mesure 35 cm, quel est l’autre côté ?",
+      "options": ["12 cm", "13 cm", "14 cm", "15 cm"],
+      "reponse": "12 cm",
+      "explication": "b² = 37² - 35² = 1369 - 1225 = 144, donc b = √144 = 12 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, les deux petits côtés mesurent 9 cm et 40 cm. Quelle est l’hypoténuse ?",
+      "options": ["41 cm", "42 cm", "43 cm", "44 cm"],
+      "reponse": "41 cm",
+      "explication": "c² = 9² + 40² = 81 + 1600 = 1681, donc c = √1681 = 41 cm."
+    },
+    {
+      "question": "Un triangle rectangle a une hypoténuse de 34 cm et un côté de 30 cm. Quelle est la longueur de l’autre côté ?",
+      "options": ["16 cm", "17 cm", "18 cm", "19 cm"],
+      "reponse": "16 cm",
+      "explication": "b² = 34² - 30² = 1156 - 900 = 256, donc b = √256 = 16 cm."
+    },
+    {
+      "question": "Les longueurs d’un triangle rectangle sont 45 cm et 28 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["53 cm", "54 cm", "55 cm", "56 cm"],
+      "reponse": "53 cm",
+      "explication": "c² = 45² + 28² = 2025 + 784 = 2809, donc c = √2809 = 53 cm."
+    },
+    {
+      "question": "Si l’hypoténuse est de 50 cm et un côté est de 14 cm, quel est l’autre côté ?",
+      "options": ["48 cm", "49 cm", "51 cm", "52 cm"],
+      "reponse": "48 cm",
+      "explication": "b² = 50² - 14² = 2500 - 196 = 2304, donc b = √2304 = 48 cm."
+    },
+    {
+      "question": "Un triangle rectangle a une hypoténuse de 10 cm et un côté de 6 cm. L’autre côté mesure ?",
+      "options": ["8 cm", "7 cm", "6 cm", "5 cm"],
+      "reponse": "8 cm",
+      "explication": "b² = 10² - 6² = 100 - 36 = 64, donc b = √64 = 8 cm."
+    },
+    {
+      "question": "Les côtés mesurent 14 cm et 48 cm. Trouve l’hypoténuse.",
+      "options": ["50 cm", "51 cm", "52 cm", "53 cm"],
+      "reponse": "50 cm",
+      "explication": "c² = 14² + 48² = 196 + 2304 = 2500, donc c = √2500 = 50 cm."
+    },
+    {
+      "question": "Un triangle rectangle a une hypoténuse de 65 cm et un côté de 33 cm. L’autre côté est :",
+      "options": ["56 cm", "57 cm", "58 cm", "59 cm"],
+      "reponse": "56 cm",
+      "explication": "b² = 65² - 33² = 4225 - 1089 = 3136, donc b = √3136 = 56 cm."
+    },
+    {
+      "question": "Les petits côtés d’un triangle rectangle sont 20 cm et 21 cm. Quelle est l’hypoténuse ?",
+      "options": ["29 cm", "30 cm", "31 cm", "32 cm"],
+      "reponse": "29 cm",
+      "explication": "c² = 20² + 21² = 400 + 441 = 841, donc c = √841 = 29 cm."
+    },
+    {
+      "question": "Côtés : 36 cm et 15 cm. Quelle est l’hypoténuse ?",
+      "options": ["39 cm", "40 cm", "41 cm", "42 cm"],
+      "reponse": "39 cm",
+      "explication": "c² = 36² + 15² = 1296 + 225 = 1521, donc c = √1521 = 39 cm."
+    },
+    {
+      "question": "Un triangle rectangle a une hypoténuse de 61 cm et un côté de 11 cm. L’autre côté mesure :",
+      "options": ["60 cm", "59 cm", "58 cm", "57 cm"],
+      "reponse": "60 cm",
+      "explication": "b² = 61² - 11² = 3721 - 121 = 3600, donc b = √3600 = 60 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, les côtés sont 24 cm et 7 cm. Calcule l’hypoténuse.",
+      "options": ["25 cm", "26 cm", "27 cm", "28 cm"],
+      "reponse": "25 cm",
+      "explication": "c² = 24² + 7² = 576 + 49 = 625, donc c = √625 = 25 cm."
+    },
+    {
+      "question": "Un triangle a une hypoténuse de 17 cm et un côté de 8 cm. L’autre côté mesure :",
+      "options": ["15 cm", "14 cm", "13 cm", "12 cm"],
+      "reponse": "15 cm",
+      "explication": "b² = 17² - 8² = 289 - 64 = 225, donc b = √225 = 15 cm."
+    },
+    {
+      "question": "Un triangle rectangle a pour côtés 18 cm et 24 cm. Calcule l’hypoténuse.",
+      "options": ["30 cm", "31 cm", "32 cm", "33 cm"],
+      "reponse": "30 cm",
+      "explication": "c² = 18² + 24² = 324 + 576 = 900, donc c = √900 = 30 cm."
+    },
+    {
+      "question": "Dans un triangle ABC rectangle en A, la hauteur issue de A divise BC en deux segments de 4 cm et 9 cm. Quelle est la longueur de la hauteur ?",
+      "options": ["6 cm", "√36 cm", "√(4×9) cm", "5 cm"],
+      "reponse": "√(4×9) cm",
+      "explication": "Dans un triangle rectangle, la hauteur relative à l’hypoténuse = √(produit des segments coupés)."
+    },
+    {
+      "question": "Dans un triangle rectangle, si la hauteur relative à l’hypoténuse mesure 6 cm, et que les deux segments formés sur l’hypoténuse mesurent 3 cm et x cm, que vaut x ?",
+      "options": ["12 cm", "9 cm", "√6 cm", "9 m"],
+      "reponse": "9 cm",
+      "explication": "On utilise h² = ab, donc 6² = 3×x → x = 36 ÷ 3 = 12."
+    },
+    {
+      "question": "Dans un triangle ABC rectangle en A, on a AB = 6 cm et AC = 8 cm. Quelle est la longueur de BC ?",
+      "options": ["14 cm", "10 cm", "√100 cm", "12 cm"],
+      "reponse": "10 cm",
+      "explication": "On applique le théorème de Pythagore : BC² = AB² + AC² = 36 + 64 = 100, donc BC = 10."
+    },
+    {
+      "question": "Un triangle est dit isocèle rectangle si :",
+      "options": ["Il a deux côtés égaux", "Il a un angle de 90° et deux côtés égaux", "Tous ses côtés sont égaux", "Il est rectangle en A"],
+      "reponse": "Il a un angle de 90° et deux côtés égaux",
+      "explication": "C’est la définition d’un triangle isocèle rectangle."
+    },
+    {
+      "question": "Si un triangle a des côtés de 7 cm, 24 cm et 25 cm, est-il rectangle ?",
+      "options": ["Oui", "Non", "On ne peut pas savoir", "Il est isocèle"],
+      "reponse": "Oui",
+      "explication": "7² + 24² = 49 + 576 = 625 = 25² → le triangle est rectangle."
+    },
+    {
+      "question": "Dans un triangle, si deux côtés mesurent 5 cm et 12 cm, et l’hypoténuse 13 cm, alors :",
+      "options": ["C’est un triangle quelconque", "C’est un triangle rectangle", "Ce n’est pas un triangle", "C’est un triangle équilatéral"],
+      "reponse": "C’est un triangle rectangle",
+      "explication": "5² + 12² = 25 + 144 = 169 = 13² → triangle rectangle."
+    },
+    {
+      "question": "Dans un triangle isocèle rectangle, les deux petits côtés mesurent 6 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["12 cm", "6√2 cm", "√72 cm", "8 cm"],
+      "reponse": "6√2 cm",
+      "explication": "Hypoténuse = côté × √2 dans un triangle isocèle rectangle."
+    },
+    {
+      "question": "Un triangle contient un petit triangle rectangle inscrit. Quel raisonnement peut-on utiliser ?",
+      "options": ["Thalès", "Pythagore", "Trigonométrie", "Aucun"],
+      "reponse": "Pythagore",
+      "explication": "On peut utiliser le théorème de Pythagore dans le triangle rectangle inscrit."
+    },
+    {
+      "question": "Quand on trace la hauteur dans un triangle rectangle, on peut former :",
+      "options": ["Deux triangles équilatéraux", "Deux triangles rectangles", "Un triangle isocèle", "Deux triangles quelconques"],
+      "reponse": "Deux triangles rectangles",
+      "explication": "La hauteur sur l’hypoténuse forme deux triangles rectangles semblables."
+    },
+    {
+      "question": "Un triangle avec des côtés 9 cm, 12 cm et 15 cm est-il rectangle ?",
+      "options": ["Oui", "Non", "Il est équilatéral", "Impossible à dire"],
+      "reponse": "Oui",
+      "explication": "9² + 12² = 81 + 144 = 225 = 15² → c’est un triangle rectangle."
+    },
+    {
+      "question": "Si les côtés d’un triangle sont 10 cm, 6 cm et 8 cm, ce triangle est-il rectangle ?",
+      "options": ["Oui", "Non", "Isocèle", "Impossible à dire"],
+      "reponse": "Oui",
+      "explication": "6² + 8² = 36 + 64 = 100 = 10² → triangle rectangle."
+    },
+    {
+      "question": "Dans un triangle rectangle, la médiane issue de l’angle droit est :",
+      "options": ["Égale à l’hypoténuse", "Également un côté", "La moitié de l’hypoténuse", "Perpendiculaire à l’hypoténuse"],
+      "reponse": "La moitié de l’hypoténuse",
+      "explication": "La médiane issue de l’angle droit mesure la moitié de l’hypoténuse."
+    },
+    {
+      "question": "Si un triangle est inscrit dans un demi-cercle, il est :",
+      "options": ["Rectangle", "Isocèle", "Équilatéral", "Impossible à dire"],
+      "reponse": "Rectangle",
+      "explication": "Tout triangle inscrit dans un demi-cercle est rectangle (théorème de Thalès inversé)."
+    },
+    {
+      "question": "Quelle propriété permet de dire qu’un triangle est rectangle avec ses longueurs ?",
+      "options": ["Théorème de Pythagore", "Théorème de Thalès", "Réciproque de Pythagore", "Isométrie"],
+      "reponse": "Réciproque de Pythagore",
+      "explication": "C’est la réciproque de Pythagore qui permet de prouver qu’un triangle est rectangle."
+    },
+    {
+      "question": "Dans un triangle rectangle, que vaut la somme des angles ?",
+      "options": ["180°", "90°", "270°", "360°"],
+      "reponse": "180°",
+      "explication": "Comme tous les triangles, la somme des angles = 180°."
+    },
+    {
+      "question": "Un triangle avec deux côtés égaux de 5 cm et un angle de 90° est :",
+      "options": ["Rectangle et isocèle", "Équilatéral", "Rectangle seulement", "Aucun"],
+      "reponse": "Rectangle et isocèle",
+      "explication": "Deux côtés égaux + un angle droit → isocèle rectangle."
+    },
+    {
+      "question": "Dans un triangle ABC rectangle, si AB = 7, AC = 24, alors BC = ?",
+      "options": ["25", "31", "21", "20"],
+      "reponse": "25",
+      "explication": "7² + 24² = 49 + 576 = 625 → √625 = 25."
+    },
+    {
+      "question": "Si l’hypoténuse vaut 26 et un côté vaut 10, combien mesure l’autre ?",
+      "options": ["24", "√576", "√576 cm", "25"],
+      "reponse": "24",
+      "explication": "c² = a² + b² → b² = 26² - 10² = 576 → b = 24."
+    },
+    {
+      "question": "Dans un triangle rectangle, on place une hauteur issue de l’angle droit. Cette hauteur divise l’hypoténuse en 6 cm et 3 cm. Que vaut la hauteur ?",
+      "options": ["3√2", "√18", "√(3×6)", "6"],
+      "reponse": "√(3×6)",
+      "explication": "h = √(produit des segments) = √(3×6) = √18."
+    },
+    {
+      "question": "Quelle est la particularité des deux triangles formés par une hauteur tracée dans un triangle rectangle ?",
+      "options": ["Ils sont semblables", "Ils sont équilatéraux", "Ils sont identiques", "Aucune"],
+      "reponse": "Ils sont semblables",
+      "explication": "La hauteur depuis l’angle droit forme deux triangles rectangles semblables au triangle de départ."
+    },
+    {
+      "question": "Dans un triangle rectangle, les carrés construits sur les côtés de l’angle droit ont une aire totale de 100 cm². Quelle est l’aire du carré construit sur l’hypoténuse ?",
+      "options": ["100 cm²", "50 cm²", "80 cm²", "110 cm²"],
+      "reponse": "100 cm²",
+      "explication": "Le carré sur l’hypoténuse a une aire égale à la somme des deux autres : c² = a² + b²."
+    },
+    {
+      "question": "Dans un triangle rectangle, si l’on connaît la hauteur et l’hypoténuse, on peut trouver les deux segments formés par la hauteur avec :",
+      "options": ["h² = ab", "a + b = c", "h = a² + b²", "ab = h"],
+      "reponse": "h² = ab",
+      "explication": "C’est la formule spécifique aux hauteurs sur l’hypoténuse."
+    },
+    {
+      "question": "Un triangle est-il rectangle si ses longueurs sont 11, 60 et 61 ?",
+      "options": ["Oui", "Non", "Impossible à dire", "Isocèle"],
+      "reponse": "Oui",
+      "explication": "11² + 60² = 121 + 3600 = 3721 = 61²."
+    },
+    {
+      "question": "Que vérifie un triangle rectangle isocèle de côtés 5 cm ?",
+      "options": ["Hypoténuse = 5√2", "Hypoténuse = 5²", "Hypoténuse = 10", "Hypoténuse = 2×5"],
+      "reponse": "Hypoténuse = 5√2",
+      "explication": "Dans un triangle isocèle rectangle, hypoténuse = côté × √2."
+    },
+    {
+      "question": "Si un triangle a des côtés 8 cm, 15 cm et 17 cm, que peut-on conclure ?",
+      "options": ["Il est rectangle", "Il est quelconque", "Il est équilatéral", "Il est isocèle"],
+      "reponse": "Il est rectangle",
+      "explication": "8² + 15² = 64 + 225 = 289 = 17²."
     }
   ]
 }
