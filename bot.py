@@ -19,6 +19,7 @@ from telegram.error import Forbidden
 DATA_DIR = "data"
 user_states = {}
 user_progress = {}
+user_states_avis = set()  # Pour suivre les utilisateurs en mode "avis"
 ADMIN_USER_ID = 6227031560
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
@@ -130,6 +131,45 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE, message_pers
     log_message(user.id, "Commande /start")
     await repondre(update, msg, generer_clavier(claviers["menu_principal"]))
 
+
+# --- Nouvelle commande /avis ---
+async def avis_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = update.effective_user.id
+    user_states_avis.add(user_id)
+    await update.message.reply_text("Quel est votre avis ou suggestion ?")
+
+async def avis_message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = update.effective_user.id
+    if user_id not in user_states_avis:
+        return False  # Pas en mode avis, on continue normalement
+
+    texte = update.message.text.strip()
+    chemin_avis = "avis.json"
+
+    avis_list = []
+    if os.path.exists(chemin_avis):
+        with open(chemin_avis, "r", encoding="utf-8") as f:
+            try:
+                avis_list = json.load(f)
+            except:
+                avis_list = []
+
+    avis_list.append({
+        "user_id": user_id,
+        "username": update.effective_user.username or "",
+        "message": texte,
+        "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    })
+
+    with open(chemin_avis, "w", encoding="utf-8") as f:
+        json.dump(avis_list, f, ensure_ascii=False, indent=2)
+
+    user_states_avis.remove(user_id)
+    await update.message.reply_text("Merci pour votre message !")
+    await start(update, context)
+    return True
+
+
 async def broadcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if update.effective_user.id != ADMIN_USER_ID:
         await repondre(update, messages["non_admin"])
@@ -175,6 +215,10 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     texte = normaliser_nom(enlever_emojis(texte_original))
     log_message(user_id, f"Utilisateur: {texte_original}")
     sauvegarder_utilisateur(user)
+
+    # Vérifie si on est en mode "avis"
+    if await avis_message_handler(update, context):
+        return
 
     if texte_original == "⬅️ Retour":
         user_states[user_id] = "menu"
@@ -324,6 +368,7 @@ def lancer_bot():
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("broadcast", broadcast))
     app.add_handler(CommandHandler("listusers", listusers))
+    app.add_handler(CommandHandler("avis", avis_command))  # Ajout commande /avis ici
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
     app.run_polling()
 
