@@ -17,6 +17,225 @@
       "options": ["Le cœur", "Le foie", "Les poumons", "Les reins"],
       "reponse": "Les poumons",
       "explication": "Les poumons assurent les échanges gazeux nécessaires à la respiration."
-    }
-  ]
-}
+    },
+    {
+      "question": "Quel est le but principal d'un texte narratif ?",
+      "options": [
+        "Expliquer un concept",
+        "Raconter une histoire",
+        "Donner des instructions",
+        "Présenter des arguments"
+      ],
+      "reponse": "Raconter une histoire",
+      "explication": "Un texte narratif sert à raconter des événements ou une histoire, avec des personnages et une intrigue."
+    },
+    {
+      "question": "Quel type de texte présente des faits réels et des descriptions précises ?",
+      "options": [
+        "Texte descriptif",
+        "Texte argumentatif",
+        "Texte narratif",
+        "Texte explicatif"
+      ],
+      "reponse": "Texte descriptif",
+      "explication": "Le texte descriptif donne des détails précis sur un lieu, une personne ou un objet pour que le lecteur visualise clairement."
+    },
+    {
+      "question": "Dans un texte argumentatif, l'auteur cherche principalement à :",
+      "options": [
+        "Raconter une histoire",
+        "Donner son opinion et convaincre",
+        "Décrire un lieu",
+        "Expliquer un phénomène"
+      ],
+      "reponse": "Donner son opinion et convaincre",
+      "explication": "Le texte argumentatif expose des idées et cherche à persuader le lecteur par des arguments."
+    },
+    {
+      "question": "Quelle est la caractéristique principale d'un texte explicatif ?",
+      "options": [
+        "Il raconte une histoire",
+        "Il décrit des personnages",
+        "Il explique un phénomène ou un processus",
+        "Il donne des conseils"
+      ],
+      "reponse": "Il explique un phénomène ou un processus",
+      "explication": "Un texte explicatif clarifie comment quelque chose fonctionne ou pourquoi un phénomène se produit."
+    },
+    {
+      "question": "Dans la compréhension de texte, que signifie « inférer » ?",
+      "options": [
+        "Chercher des informations explicites",
+        "Deviner ou comprendre des idées implicites",
+        "Répéter le texte mot à mot",
+        "Écrire un résumé"
+      ],
+      "reponse": "Deviner ou comprendre des idées implicites",
+      "explication": "Inférer, c’est comprendre ce qui n’est pas dit directement, en lisant entre les lignes."
+    },
+    {
+      "question": "Pourquoi est-il important de repérer les mots clés dans un texte ?",
+      "options": [
+        "Pour trouver le titre",
+        "Pour comprendre le sujet principal",
+        "Pour copier le texte",
+        "Pour connaître la date de publication"
+      ],
+      "reponse": "Pour comprendre le sujet principal",
+      "explication": "Les mots clés aident à saisir le thème et les idées importantes du texte."
+    },
+    {
+      "question": "Dans un texte narratif, que désigne le « point de vue » ?",
+      "options": [
+        "La position géographique du narrateur",
+        "Le moment où se passe l’histoire",
+        "La perspective depuis laquelle l’histoire est racontée",
+        "Le titre du texte"
+      ],
+      "reponse": "La perspective depuis laquelle l’histoire est racontée",
+      "explication": "Le point de vue peut être à la première personne, troisième personne, etc., influençant la narration."
+    },
+    {
+      "question": "Qu’est-ce qu’un résumé ?",
+      "options": [
+        "Une copie du texte",
+        "Une courte reformulation des idées principales",
+        "Une critique du texte",
+        "Un texte argumentatif"
+      ],
+      "reponse": "Une courte reformulation des idées principales",
+      "explication": "Un résumé synthétise les points essentiels du texte pour faciliter la mémorisation."
+    },
+    {
+      "question": "Quelle est la différence entre un texte descriptif et un texte narratif ?",
+      "options": [
+        "Le texte narratif raconte, le descriptif décrit",
+        "Ils sont identiques",
+        "Le descriptif donne des opinions, le narratif non",
+        "Le narratif est plus court"
+      ],
+      "reponse": "Le texte narratif raconte, le descriptif décrit",
+      "explication": "Le narratif raconte une histoire, tandis que le descriptif détaille une personne, un lieu ou une chose."
+    },
+    {
+      "question": "Comment peut-on reconnaître un texte argumentatif ?",
+      "options": [
+        "Par des questions posées",
+        "Par des descriptions détaillées",
+        "Par des opinions et des arguments pour convaincre",
+        "Par des récits d’événements"
+      ],
+      "reponse": "Par des opinions et des arguments pour convaincre",
+      "explication": "Le texte argumentatif utilise des raisons pour persuader le lecteur d’une idée."
+    },
+    {
+      "question": "Dans un texte explicatif, quels mots ou expressions trouve-t-on souvent ?",
+      "options": [
+        "D’abord, ensuite, enfin",
+        "Je pense que, selon moi",
+        "Il était une fois, soudain",
+        "Vite, doucement, lentement"
+      ],
+      "reponse": "D’abord, ensuite, enfin",
+      "explication": "Ces mots organisent les étapes et clarifient la progression d’un processus expliqué."
+    },
+    {
+      "question": "Que signifie « lecture suivie » ?",
+      "options": [
+        "Lire un texte en sautant des passages",
+        "Lire un texte avec analyse et compréhension approfondies",
+        "Lire très vite",
+        "Lire sans comprendre"
+      ],
+      "reponse": "Lire un texte avec analyse et compréhension approfondies",
+      "explication": "La lecture suivie consiste à étudier un texte pour en saisir le sens global et les détails."
+    },
+    {
+      "question": "Qu’est-ce qu’un texte argumentatif cherche à éviter ?",
+      "options": [
+        "Les exemples",
+        "Les émotions",
+        "Les opinions contraires",
+        "Les fausses informations"
+      ],
+      "reponse": "Les fausses informations",
+      "explication": "Un bon texte argumentatif doit être basé sur des faits et des raisonnements corrects."
+    },
+    {
+      "question": "Quel rôle joue le « narrateur » dans un texte narratif ?",
+      "options": [
+        "Il explique les règles",
+        "Il raconte l’histoire",
+        "Il critique le texte",
+        "Il décrit un lieu"
+      ],
+      "reponse": "Il raconte l’histoire",
+      "explication": "Le narrateur est la voix qui relate les événements dans le texte."
+    },
+    {
+      "question": "Pourquoi les questions de compréhension sont-elles importantes ?",
+      "options": [
+        "Pour vérifier la compréhension du texte",
+        "Pour recopier le texte",
+        "Pour écrire un autre texte",
+        "Pour mémoriser le titre"
+      ],
+      "reponse": "Pour vérifier la compréhension du texte",
+      "explication": "Elles permettent de s’assurer que le lecteur a bien compris les idées du texte."
+    },
+    {
+      "question": "Qu’est-ce qu’une idée principale dans un texte ?",
+      "options": [
+        "Un détail secondaire",
+        "L’idée centrale ou thème du texte",
+        "Une citation",
+        "Un adjectif"
+      ],
+      "reponse": "L’idée centrale ou thème du texte",
+      "explication": "C’est le message principal que l’auteur veut transmettre."
+    },
+    {
+      "question": "Comment peut-on repérer les idées secondaires ?",
+      "options": [
+        "Elles sont souvent expliquées par des exemples ou détails",
+        "Elles sont toujours en début de texte",
+        "Elles sont en gras",
+        "Elles sont répétées plusieurs fois"
+      ],
+      "reponse": "Elles sont souvent expliquées par des exemples ou détails",
+      "explication": "Les idées secondaires soutiennent et détaillent l’idée principale."
+    },
+    {
+      "question": "Que signifie « explicative » dans un texte ?",
+      "options": [
+        "Qui raconte une histoire",
+        "Qui décrit une scène",
+        "Qui explique ou clarifie un sujet",
+        "Qui donne un ordre"
+      ],
+      "reponse": "Qui explique ou clarifie un sujet",
+      "explication": "Un texte explicatif vise à faire comprendre un phénomène ou une idée."
+    },
+    {
+      "question": "Qu’est-ce qu’un texte descriptif met en avant ?",
+      "options": [
+        "Les sentiments de l’auteur",
+        "Les actions des personnages",
+        "Les caractéristiques et détails d’un objet ou lieu",
+        "Les causes d’un événement"
+      ],
+      "reponse": "Les caractéristiques et détails d’un objet ou lieu",
+      "explication": "Il cherche à peindre une image précise dans l’esprit du lecteur."
+    },
+    {
+      "question": "Comment s’appelle la partie qui résume l’histoire dans un texte narratif ?",
+      "options": [
+        "Le résumé",
+        "L’introduction",
+        "Le dénouement",
+        "Le corps du texte"
+      ],
+      "reponse": "Le résumé",
+      "explication": "Le résumé synthétise les points clés de l’histoire racontée."
+    },
+
