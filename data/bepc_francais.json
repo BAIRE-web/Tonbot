@@ -1,241 +1,125 @@
 {
   "qcm": [
     {
-      "question": "Quel est le résultat de 25 ÷ 5 ?",
-      "options": ["4", "5", "6", "7"],
-      "reponse": "5",
-      "explication": "25 divisé par 5 donne 5."
+      "question": "Quel mot est un nom commun ?",
+      "options": ["manger", "ville", "vite", "elle"],
+      "reponse": "ville",
+      "explication": "Un nom commun désigne une chose, un lieu, une personne de manière générale."
     },
     {
-      "question": "En quelle année a eu lieu la révolution française ?",
-      "options": ["1789", "1914", "1492", "1804"],
-      "reponse": "1789",
-      "explication": "La Révolution française a commencé en 1789."
+      "question": "Quel mot est un adjectif qualificatif ?",
+      "options": ["rouge", "manger", "lentement", "sur"],
+      "reponse": "rouge",
+      "explication": "L’adjectif qualificatif donne une qualité au nom."
     },
     {
-      "question": "Quel organe permet la respiration chez l'homme ?",
-      "options": ["Le cœur", "Le foie", "Les poumons", "Les reins"],
-      "reponse": "Les poumons",
-      "explication": "Les poumons assurent les échanges gazeux nécessaires à la respiration."
+      "question": "Quel mot est un verbe ?",
+      "options": ["lent", "vite", "chanter", "sous"],
+      "reponse": "chanter",
+      "explication": "Un verbe exprime une action ou un état."
     },
     {
-      "question": "Quel est le but principal d'un texte narratif ?",
-      "options": [
-        "Expliquer un concept",
-        "Raconter une histoire",
-        "Donner des instructions",
-        "Présenter des arguments"
-      ],
-      "reponse": "Raconter une histoire",
-      "explication": "Un texte narratif sert à raconter des événements ou une histoire, avec des personnages et une intrigue."
+      "question": "Quel mot est un adverbe ?",
+      "options": ["vite", "maison", "il", "chaise"],
+      "reponse": "vite",
+      "explication": "L’adverbe modifie un verbe, un adjectif ou un autre adverbe."
     },
     {
-      "question": "Quel type de texte présente des faits réels et des descriptions précises ?",
-      "options": [
-        "Texte descriptif",
-        "Texte argumentatif",
-        "Texte narratif",
-        "Texte explicatif"
-      ],
-      "reponse": "Texte descriptif",
-      "explication": "Le texte descriptif donne des détails précis sur un lieu, une personne ou un objet pour que le lecteur visualise clairement."
+      "question": "Quel mot est un pronom personnel ?",
+      "options": ["maison", "lui", "lentement", "beau"],
+      "reponse": "lui",
+      "explication": "Un pronom personnel remplace un nom (ex : il, elle, lui...)."
     },
     {
-      "question": "Dans un texte argumentatif, l'auteur cherche principalement à :",
-      "options": [
-        "Raconter une histoire",
-        "Donner son opinion et convaincre",
-        "Décrire un lieu",
-        "Expliquer un phénomène"
-      ],
-      "reponse": "Donner son opinion et convaincre",
-      "explication": "Le texte argumentatif expose des idées et cherche à persuader le lecteur par des arguments."
+      "question": "Quel mot est une préposition ?",
+      "options": ["sur", "chanter", "je", "rouge"],
+      "reponse": "sur",
+      "explication": "La préposition introduit un complément (ex : sur la table)."
     },
     {
-      "question": "Quelle est la caractéristique principale d'un texte explicatif ?",
-      "options": [
-        "Il raconte une histoire",
-        "Il décrit des personnages",
-        "Il explique un phénomène ou un processus",
-        "Il donne des conseils"
-      ],
-      "reponse": "Il explique un phénomène ou un processus",
-      "explication": "Un texte explicatif clarifie comment quelque chose fonctionne ou pourquoi un phénomène se produit."
+      "question": "Quel mot est une conjonction de coordination ?",
+      "options": ["et", "dans", "elle", "vite"],
+      "reponse": "et",
+      "explication": "Une conjonction de coordination relie deux éléments (ex : et, mais, ou...)."
     },
     {
-      "question": "Dans la compréhension de texte, que signifie « inférer » ?",
-      "options": [
-        "Chercher des informations explicites",
-        "Deviner ou comprendre des idées implicites",
-        "Répéter le texte mot à mot",
-        "Écrire un résumé"
-      ],
-      "reponse": "Deviner ou comprendre des idées implicites",
-      "explication": "Inférer, c’est comprendre ce qui n’est pas dit directement, en lisant entre les lignes."
+      "question": "Quel mot est une interjection ?",
+      "options": ["Ah !", "le", "par", "ils"],
+      "reponse": "Ah !",
+      "explication": "Une interjection exprime une émotion ou une réaction spontanée."
     },
     {
-      "question": "Pourquoi est-il important de repérer les mots clés dans un texte ?",
-      "options": [
-        "Pour trouver le titre",
-        "Pour comprendre le sujet principal",
-        "Pour copier le texte",
-        "Pour connaître la date de publication"
-      ],
-      "reponse": "Pour comprendre le sujet principal",
-      "explication": "Les mots clés aident à saisir le thème et les idées importantes du texte."
+      "question": "Quel mot est un adjectif ?",
+      "options": ["grand", "maison", "il", "dans"],
+      "reponse": "grand",
+      "explication": "L’adjectif décrit un nom (ex : une grande maison)."
     },
     {
-      "question": "Dans un texte narratif, que désigne le « point de vue » ?",
-      "options": [
-        "La position géographique du narrateur",
-        "Le moment où se passe l’histoire",
-        "La perspective depuis laquelle l’histoire est racontée",
-        "Le titre du texte"
-      ],
-      "reponse": "La perspective depuis laquelle l’histoire est racontée",
-      "explication": "Le point de vue peut être à la première personne, troisième personne, etc., influençant la narration."
+      "question": "Quel mot est un nom propre ?",
+      "options": ["Ouagadougou", "ville", "rapide", "manger"],
+      "reponse": "Ouagadougou",
+      "explication": "Un nom propre désigne une personne ou un lieu unique et commence par une majuscule."
     },
     {
-      "question": "Qu’est-ce qu’un résumé ?",
-      "options": [
-        "Une copie du texte",
-        "Une courte reformulation des idées principales",
-        "Une critique du texte",
-        "Un texte argumentatif"
-      ],
-      "reponse": "Une courte reformulation des idées principales",
-      "explication": "Un résumé synthétise les points essentiels du texte pour faciliter la mémorisation."
+      "question": "Quel mot est un pronom possessif ?",
+      "options": ["le mien", "elle", "dans", "vite"],
+      "reponse": "le mien",
+      "explication": "Le pronom possessif indique la possession (le mien, le tien...)."
     },
     {
-      "question": "Quelle est la différence entre un texte descriptif et un texte narratif ?",
-      "options": [
-        "Le texte narratif raconte, le descriptif décrit",
-        "Ils sont identiques",
-        "Le descriptif donne des opinions, le narratif non",
-        "Le narratif est plus court"
-      ],
-      "reponse": "Le texte narratif raconte, le descriptif décrit",
-      "explication": "Le narratif raconte une histoire, tandis que le descriptif détaille une personne, un lieu ou une chose."
+      "question": "Quel mot est une conjonction de subordination ?",
+      "options": ["parce que", "et", "ou", "ah"],
+      "reponse": "parce que",
+      "explication": "Elle relie une subordonnée à une principale (parce que, lorsque...)."
     },
     {
-      "question": "Comment peut-on reconnaître un texte argumentatif ?",
-      "options": [
-        "Par des questions posées",
-        "Par des descriptions détaillées",
-        "Par des opinions et des arguments pour convaincre",
-        "Par des récits d’événements"
-      ],
-      "reponse": "Par des opinions et des arguments pour convaincre",
-      "explication": "Le texte argumentatif utilise des raisons pour persuader le lecteur d’une idée."
+      "question": "Quel mot est un verbe conjugué ?",
+      "options": ["chanté", "chanter", "chante", "chant"],
+      "reponse": "chante",
+      "explication": "Un verbe conjugué est mis au temps et à la personne (ex : il chante)."
     },
     {
-      "question": "Dans un texte explicatif, quels mots ou expressions trouve-t-on souvent ?",
-      "options": [
-        "D’abord, ensuite, enfin",
-        "Je pense que, selon moi",
-        "Il était une fois, soudain",
-        "Vite, doucement, lentement"
-      ],
-      "reponse": "D’abord, ensuite, enfin",
-      "explication": "Ces mots organisent les étapes et clarifient la progression d’un processus expliqué."
+      "question": "Quel mot est un adverbe de temps ?",
+      "options": ["hier", "beau", "maison", "il"],
+      "reponse": "hier",
+      "explication": "L’adverbe de temps indique quand se passe l’action."
     },
     {
-      "question": "Que signifie « lecture suivie » ?",
-      "options": [
-        "Lire un texte en sautant des passages",
-        "Lire un texte avec analyse et compréhension approfondies",
-        "Lire très vite",
-        "Lire sans comprendre"
-      ],
-      "reponse": "Lire un texte avec analyse et compréhension approfondies",
-      "explication": "La lecture suivie consiste à étudier un texte pour en saisir le sens global et les détails."
+      "question": "Quel mot est une préposition ?",
+      "options": ["sous", "vite", "il", "joli"],
+      "reponse": "sous",
+      "explication": "Une préposition introduit souvent un complément de lieu ou de temps."
     },
     {
-      "question": "Qu’est-ce qu’un texte argumentatif cherche à éviter ?",
-      "options": [
-        "Les exemples",
-        "Les émotions",
-        "Les opinions contraires",
-        "Les fausses informations"
-      ],
-      "reponse": "Les fausses informations",
-      "explication": "Un bon texte argumentatif doit être basé sur des faits et des raisonnements corrects."
+      "question": "Quel mot est une interjection ?",
+      "options": ["zut", "elle", "manger", "maison"],
+      "reponse": "zut",
+      "explication": "Les interjections expriment des émotions ou des réactions."
     },
     {
-      "question": "Quel rôle joue le « narrateur » dans un texte narratif ?",
-      "options": [
-        "Il explique les règles",
-        "Il raconte l’histoire",
-        "Il critique le texte",
-        "Il décrit un lieu"
-      ],
-      "reponse": "Il raconte l’histoire",
-      "explication": "Le narrateur est la voix qui relate les événements dans le texte."
+      "question": "Quel mot est un nom ?",
+      "options": ["chien", "vite", "par", "mais"],
+      "reponse": "chien",
+      "explication": "Un nom désigne un être ou une chose."
     },
     {
-      "question": "Pourquoi les questions de compréhension sont-elles importantes ?",
-      "options": [
-        "Pour vérifier la compréhension du texte",
-        "Pour recopier le texte",
-        "Pour écrire un autre texte",
-        "Pour mémoriser le titre"
-      ],
-      "reponse": "Pour vérifier la compréhension du texte",
-      "explication": "Elles permettent de s’assurer que le lecteur a bien compris les idées du texte."
+      "question": "Quel mot est un pronom démonstratif ?",
+      "options": ["celui-là", "vite", "dans", "elle"],
+      "reponse": "celui-là",
+      "explication": "Un pronom démonstratif désigne une chose ou une personne en la montrant."
     },
     {
-      "question": "Qu’est-ce qu’une idée principale dans un texte ?",
-      "options": [
-        "Un détail secondaire",
-        "L’idée centrale ou thème du texte",
-        "Une citation",
-        "Un adjectif"
-      ],
-      "reponse": "L’idée centrale ou thème du texte",
-      "explication": "C’est le message principal que l’auteur veut transmettre."
+      "question": "Quel mot est un verbe à l’infinitif ?",
+      "options": ["parler", "parlé", "parle", "parles"],
+      "reponse": "parler",
+      "explication": "L'infinitif est la forme de base du verbe (finissant souvent par -er, -ir, -re)."
     },
     {
-      "question": "Comment peut-on repérer les idées secondaires ?",
-      "options": [
-        "Elles sont souvent expliquées par des exemples ou détails",
-        "Elles sont toujours en début de texte",
-        "Elles sont en gras",
-        "Elles sont répétées plusieurs fois"
-      ],
-      "reponse": "Elles sont souvent expliquées par des exemples ou détails",
-      "explication": "Les idées secondaires soutiennent et détaillent l’idée principale."
-    },
-    {
-      "question": "Que signifie « explicative » dans un texte ?",
-      "options": [
-        "Qui raconte une histoire",
-        "Qui décrit une scène",
-        "Qui explique ou clarifie un sujet",
-        "Qui donne un ordre"
-      ],
-      "reponse": "Qui explique ou clarifie un sujet",
-      "explication": "Un texte explicatif vise à faire comprendre un phénomène ou une idée."
-    },
-    {
-      "question": "Qu’est-ce qu’un texte descriptif met en avant ?",
-      "options": [
-        "Les sentiments de l’auteur",
-        "Les actions des personnages",
-        "Les caractéristiques et détails d’un objet ou lieu",
-        "Les causes d’un événement"
-      ],
-      "reponse": "Les caractéristiques et détails d’un objet ou lieu",
-      "explication": "Il cherche à peindre une image précise dans l’esprit du lecteur."
-    },
-    {
-      "question": "Comment s’appelle la partie qui résume l’histoire dans un texte narratif ?",
-      "options": [
-        "Le résumé",
-        "L’introduction",
-        "Le dénouement",
-        "Le corps du texte"
-      ],
-      "reponse": "Le résumé",
-      "explication": "Le résumé synthétise les points clés de l’histoire racontée."
-    },
+      "question": "Quel mot est un adverbe de manière ?",
+      "options": ["doucement", "hier", "il", "chat"],
+      "reponse": "doucement",
+      "explication": "Un adverbe de manière indique comment une action est faite."
+    }
+  ]
+}
 
