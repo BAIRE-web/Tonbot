@@ -261,50 +261,6 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await start(update, context, message_personnalise=False)
         return
 
-async def reset_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-
-    if user_id not in user_scores or user_scores[user_id]["actuel"]["total"] == 0:
-        await repondre(update, "Tu n'as aucun score actuel à réinitialiser.")
-        return
-
-    historique_scores.setdefault(str(user_id), [])
-    historique_scores[str(user_id)].append({
-        "total": user_scores[user_id]["actuel"]["total"],
-        "correct": user_scores[user_id]["actuel"]["correct"],
-        "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    })
-
-    save_historique_scores()
-
-    user_scores[user_id]["actuel"] = {"total": 0, "correct": 0}
-    save_user_scores()
-
-    await repondre(update, "✅ Ton score actuel a été réinitialisé. (Un historique a été conservé)")
-
-async def historique(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = str(update.effective_user.id)
-
-    if user_id not in historique_scores or not historique_scores[user_id]:
-        await repondre(update, "Aucun historique de score trouvé.")
-        return
-
-    msg = "🗂️ Historique de tes scores supprimés :\n\n"
-    for score in historique_scores[user_id][-5:]:
-        msg += f"📅 {score['date']} — ✅ {score['correct']} / {score['total']}\n"
-
-    await repondre(update, msg)
-
-async def supprimer_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-
-    if user_id in user_scores:
-        del user_scores[user_id]
-        save_user_scores()
-        await repondre(update, "✅ Ton score a été supprimé définitivement.")
-    else:
-        await repondre(update, "❌ Vous n'avez aucun score enregistré.")
-
     # Gestion des QCM, sections, etc. (à adapter selon ton code)
     # --- Exemple de gestion simple QCM ---
     if user_id in user_states and user_states[user_id].startswith("qcm_"):
@@ -442,20 +398,11 @@ def save_user_scores():
     chemin = "user_scores.json"
     with open(chemin, "w", encoding="utf-8") as f:
         json.dump(user_scores, f, ensure_ascii=False, indent=2)
-def save_historique_scores():
-    with open("historique_suppression.json", "w", encoding="utf-8") as f:
-        json.dump(historique_scores, f, ensure_ascii=False, indent=2)
 
 user_scores = {}
 if os.path.exists("user_scores.json"):
     with open("user_scores.json", "r", encoding="utf-8") as f:
         user_scores = json.load(f)
-historique_scores = {}
-
-# Charger l'historique si le fichier existe
-if os.path.exists("historique_suppression.json"):
-    with open("historique_suppression.json", "r", encoding="utf-8") as f:
-        historique_scores = json.load(f)
 
 # --- Commande /reset_score pour sauvegarder l'historique et remettre à zéro ---
 async def reset_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -496,27 +443,6 @@ async def historique(update: Update, context: ContextTypes.DEFAULT_TYPE):
         msg += f"{i}. 📅 {entry['date']} - ✅ {correct}/{total} → {pourcentage}%\n"
 
     await update.message.reply_text(msg)
-
-# --- Commande /supprimer_score : l'utilisateur supprime ses propres scores ---
-async def supprimer_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    nom = update.effective_user.first_name or "Utilisateur"
-
-    if str(user_id) in user_scores:
-        # Sauvegarder dans un log personnel avant suppression
-        historique_avant = user_scores[str(user_id)].copy()
-        chemin_historique = os.path.join("logs", f"{user_id}_suppression_score.txt")
-        now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        with open(chemin_historique, "a", encoding="utf-8") as f:
-            f.write(f"[{now}] Suppression du score : {json.dumps(historique_avant, ensure_ascii=False)}\n")
-
-        # Supprimer le score
-        del user_scores[str(user_id)]
-        save_user_scores()
-
-        await update.message.reply_text("✅ Vos scores ont été supprimés avec succès.")
-    else:
-        await update.message.reply_text("❌ Vous n'avez aucun score enregistré.")
 
 # --- Voir son propre score ---
 async def profil_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -574,9 +500,10 @@ def lancer_bot():
     app.add_handler(CommandHandler("listeavis", listeavis))
     app.add_handler(CommandHandler("reset_score", reset_score))
     app.add_handler(CommandHandler("historique", historique))
+
+    # Ajout des commandes profil et scores
     app.add_handler(CommandHandler("profil", profil_command))
     app.add_handler(CommandHandler("scores", scores_command))
-    app.add_handler(CommandHandler("supprimer_score", supprimer_score))  # ✅ ajout ici
 
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
     app.run_polling()
