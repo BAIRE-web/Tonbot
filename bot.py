@@ -34,22 +34,22 @@ def lancer_flask():
     flask_app.run(host="0.0.0.0", port=port)
 
 def enlever_emojis(text):
-    emoji_pattern = re.compile("["
-        u"\U0001F600-\U0001F64F"
+    emoji_pattern = re.compile("["                                   
+        u"\U0001F600-\U0001F64F"                                      
         u"\U0001F300-\U0001F5FF"
         u"\U0001F680-\U0001F6FF"
-        u"\U0001F1E0-\U0001F1FF"
+        u"\U0001F1E0-\U0001F1FF"                                      
         u"\U00002500-\U00002BEF"
-        u"\U00002702-\U000027B0"
+        u"\U00002702-\U000027B0"                                      
         u"\U000024C2-\U0001F251"
-        u"\U0001f926-\U0001f937"
+        u"\U0001f926-\U0001f937"                                      
         u"\U00010000-\U0010ffff"
-        u"\u2640-\u2642"
-        u"\u2600-\u2B55"
+        u"\u2640-\u2642"                                              
+        u"\u2600-\u2B55"                                              
         u"\u200d"
-        u"\u23cf"
+        u"\u23cf"                                                     
         u"\u23e9"
-        u"\u231a"
+        u"\u231a"                                                     
         u"\ufe0f"
         u"\u3030"
         "]+", flags=re.UNICODE)
@@ -131,7 +131,6 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE, message_pers
     log_message(user.id, "Commande /start")
     await repondre(update, msg, generer_clavier(claviers["menu_principal"]))
 
-
 # --- Commande /avis pour que l'utilisateur envoie un avis ---
 async def avis_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
@@ -212,12 +211,10 @@ async def listeavis(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if update.effective_user.id != ADMIN_USER_ID:
         await repondre(update, "❌ Vous n'êtes pas autorisé à utiliser cette commande.")
         return
-
     chemin_avis = "avis.json"
     if not os.path.exists(chemin_avis):
         await repondre(update, "Aucun avis n'a encore été envoyé.")
         return
-
     with open(chemin_avis, "r", encoding="utf-8") as f:
         try:
             avis_list = json.load(f)
@@ -228,7 +225,6 @@ async def listeavis(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not avis_list:
         await repondre(update, "Aucun avis n'a encore été envoyé.")
         return
-
     messages_avis = []
     for avis in avis_list:
         msg = f"👤 @{avis.get('username', 'inconnu')} (ID: {avis.get('user_id')}):\n" \
@@ -255,6 +251,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     log_message(user_id, f"Utilisateur: {texte_original}")
     sauvegarder_utilisateur(user)
 
+    # Vérifie si on est en mode "avis"
     if await avis_message_handler(update, context):
         return
 
@@ -264,8 +261,136 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await start(update, context, message_personnalise=False)
         return
 
-    # Ton code habituel pour gérer les QCM, sections, etc.
-    # ...
+    # Gestion des QCM, sections, etc. (à adapter selon ton code)
+    # --- Exemple de gestion simple QCM ---
+    if user_id in user_states and user_states[user_id].startswith("qcm_"):
+        state = user_states[user_id]
+        prefix, matiere = "_".join(state.split("_")[1:-1]), state.split("_")[-1]
+        fichier_qcm = f"{prefix}_{matiere}.json"
+        qcm_data = charger_json(fichier_qcm)
+        if not qcm_data or "qcm" not in qcm_data:
+            await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
+            user_states[user_id] = prefix
+            return
+        index = user_progress.get(user_id, 0)
+        question = qcm_data["qcm"][index]
+        options = question.get("options", [])
+        bonne = question.get("reponse", "")
+
+        texte_clean = normaliser_nom(enlever_emojis(texte_original).strip())
+        options_clean = [normaliser_nom(enlever_emojis(opt).strip()) for opt in options]
+        bonne_clean = normaliser_nom(enlever_emojis(bonne).strip())
+
+        if texte_clean not in options_clean:
+            await repondre(update, messages["choix_invalide"], generer_clavier(options + ["⬅️ Retour"]))
+            return
+
+        if user_id not in user_scores:
+            user_scores[user_id] = {
+                "nom": user.first_name,
+                "actuel": {"total": 0, "correct": 0},
+                "historique": []
+            }
+
+        user_scores[user_id]["nom"] = user.first_name
+        user_scores[user_id]["actuel"]["total"] += 1
+
+        if texte_clean == bonne_clean:
+            await repondre(update, random.choice(messages["reponses_bonnes"]))
+            user_scores[user_id]["actuel"]["correct"] += 1
+        else:
+            mauvaise = random.choice([m.replace("{bonne}", bonne) for m in messages["reponses_mauvaises"]])
+            await repondre(update, mauvaise)
+
+        if "explication" in question:
+            await repondre(update, f"👉 {question['explication']}")
+
+        # Passage à la question suivante
+        user_progress[user_id] = (index + 1) % len(qcm_data["qcm"])
+        suivant = qcm_data["qcm"][user_progress[user_id]]
+        await repondre(update, suivant['question'], generer_clavier(suivant.get("options", []) + ["⬅️ Retour"]))
+
+        save_user_scores()
+        return
+
+    if texte in ["/start", "start", "demarrer", "démarrer"]:
+        await start(update, context)
+        return
+
+    if texte_original == "Quitter le bot":
+        nom = user.first_name or user.full_name or "cher utilisateur"
+        await repondre(update, messages["quitter"].replace("{nom}", nom), generer_clavier(["Démarrer"]))
+        user_states.pop(user_id, None)
+        user_progress.pop(user_id, None)
+        return
+
+    # Gestion des sections statiques (informations, profil, etc.)
+    section_static = {
+        "informations": "informations.json",
+        "infos": "informations.json",
+        "info": "informations.json",
+        "profil": "espace.json",
+        "espace": "espace.json",
+        "compte": "espace.json"
+    }
+
+    if texte in section_static:
+        cle = texte
+        user_states[user_id] = cle
+        data = charger_json(section_static[cle])
+        await repondre(update, data.get("message", "Aucune donnée disponible."), generer_clavier(["⬅️ Retour"]))
+        increment_stat(f"static_{cle}")
+        return
+
+    # Sections pour choix d’examens, matières, etc. (adapter selon ton code)
+    choix_sections = {
+        "bepc": "bepc.json",
+        "bac_a": "bac_a.json",
+        "bac_c": "bac_c.json",
+        "bac_d": "bac_d.json",
+        "concours": "concours.json",
+        "technique": None,
+    }
+
+    if texte in choix_sections:
+        user_states[user_id] = texte
+        if texte == "technique":
+            await repondre(update, messages["technique_indisponible"], generer_clavier(["⬅️ Retour"]))
+            return
+        data = charger_json(choix_sections[texte])
+        matieres = data.get("matieres", [])
+        msg = intros.get(texte, "") + "\n\n" + data.get("message", "Choisis une matière :")
+        increment_stat(f"section_{texte}")
+        await repondre(update, msg.strip(), generer_clavier(matieres + ["⬅️ Retour"]))
+        return
+
+    # Gestion concours (exemple)
+    if user_id in user_states and user_states[user_id] == "concours":
+        prefix = "concours"
+        matiere = normaliser_nom(enlever_emojis(texte_original))
+        if matiere == "superieur_a_bac":
+            data = charger_json("concours_superieur_a_bac.json")
+            if "message" in data:
+                await repondre(update, data["message"], generer_clavier(["⬅️ Retour"]))
+            else:
+                await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
+            return
+
+    if user_id in user_states and user_states[user_id] in choix_sections:
+        prefix = normaliser_nom(user_states[user_id])
+        matiere = normaliser_nom(enlever_emojis(texte_original))
+        fichier_qcm = f"{prefix}_{matiere}.json"
+        qcm_data = charger_json(fichier_qcm)
+        increment_stat(f"matiere_{prefix}_{matiere}")
+
+        if "qcm" in qcm_data and qcm_data["qcm"]:
+            user_states[user_id] = f"qcm_{prefix}_{matiere}"
+            user_progress[user_id] = 0
+            question = qcm_data["qcm"][0]
+            await repondre(update, question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
+        else:
+            await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
+        return
 
     await repondre(update, messages["non_compris"])
 
@@ -279,13 +404,55 @@ if os.path.exists("user_scores.json"):
     with open("user_scores.json", "r", encoding="utf-8") as f:
         user_scores = json.load(f)
 
+# --- Commande /reset_score pour sauvegarder l'historique et remettre à zéro ---
+async def reset_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = str(update.effective_user.id)
+    scores = user_scores.get(user_id)
+    if not scores or scores["actuel"]["total"] == 0:
+        await update.message.reply_text("Tu n'as aucun score actuel à réinitialiser.")
+        return
+
+    # Sauvegarde dans l'historique avant reset
+    historique.append({
+        "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "total": scores["actuel"]["total"],
+        "correct": scores["actuel"]["correct"]
+    })
+
+    # Réinitialisation du score actuel
+    scores["actuel"] = {"total": 0, "correct": 0}
+    scores["historique"] = historique
+    user_scores[user_id] = scores
+    save_user_scores()
+
+    await update.message.reply_text("✅ Ton score a été réinitialisé, mais l'historique est conservé.")
+
+async def historique(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = str(update.effective_user.id)
+    scores = user_scores.get(user_id)
+    if not scores or not scores.get("historique"):
+        await update.message.reply_text("Aucun historique de score trouvé.")
+        return
+
+    historique = scores["historique"]
+    msg = "📊 Historique de tes scores :\n\n"
+    for i, entry in enumerate(historique[-5:], 1):  # Affiche les 5 derniers
+        total = entry["total"]
+        correct = entry["correct"]
+        pourcentage = round((correct / total) * 100, 2) if total else 0
+        msg += f"{i}. 📅 {entry['date']} - ✅ {correct}/{total} → {pourcentage}%\n"
+
+    await update.message.reply_text(msg)
+
 def lancer_bot():
     app = ApplicationBuilder().token(BOT_TOKEN).build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("broadcast", broadcast))
     app.add_handler(CommandHandler("listusers", listusers))
-    app.add_handler(CommandHandler("avis", avis_command))  # Ajout commande /avis ici
-    app.add_handler(CommandHandler("listeavis", listeavis))  # Commande admin pour voir les avis
+    app.add_handler(CommandHandler("avis", avis_command))
+    app.add_handler(CommandHandler("listeavis", listeavis))
+    app.add_handler(CommandHandler("reset_score", reset_score))
+    app.add_handler(CommandHandler("historique", historique))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
     app.run_polling()
 
