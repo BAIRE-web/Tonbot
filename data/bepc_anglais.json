@@ -1,10 +1,1846 @@
 {
   "qcm": [
     {
-      "question": "What is the English word for 'chat'?",
-      "options": ["Dog", "Cat", "Horse", "Bird"],
-      "reponse": "Cat",
-      "explication": "'Chat' means 'Cat' in English."
+      "question": "What do we call your mother’s sister?",
+      "options": ["Aunt", "Niece", "Cousin", "Grandmother"],
+      "reponse": "Aunt",
+      "explication": "Your mother's or father's sister is called your aunt."
+    },
+    {
+      "question": "Who is your father’s father?",
+      "options": ["Uncle", "Cousin", "Grandfather", "Brother"],
+      "reponse": "Grandfather",
+      "explication": "Your father's father is your grandfather."
+    },
+    {
+      "question": "My brother’s son is my...",
+      "options": ["Nephew", "Uncle", "Cousin", "Grandson"],
+      "reponse": "Nephew",
+      "explication": "The son of your brother or sister is your nephew."
+    },
+    {
+      "question": "Your sister’s daughter is your...",
+      "options": ["Niece", "Cousin", "Daughter", "Wife"],
+      "reponse": "Niece",
+      "explication": "The daughter of your brother or sister is your niece."
+    },
+    {
+      "question": "A person who is married to your mother or father is your...",
+      "options": ["Parent", "Spouse", "Partner", "Step-parent"],
+      "reponse": "Step-parent",
+      "explication": "If your mother or father remarries, their new spouse is your step-parent."
+    },
+    {
+      "question": "Who is your mother’s mother?",
+      "options": ["Aunt", "Grandmother", "Niece", "Sister"],
+      "reponse": "Grandmother",
+      "explication": "Your mother’s mother is your grandmother."
+    },
+    {
+      "question": "Your cousin is...",
+      "options": ["Your brother", "Your uncle", "Your parent's sibling", "Your uncle or aunt's child"],
+      "reponse": "Your uncle or aunt's child",
+      "explication": "A cousin is the child of your aunt or uncle."
+    },
+    {
+      "question": "What do we call the person you marry?",
+      "options": ["Boyfriend", "Parent", "Spouse", "Sibling"],
+      "reponse": "Spouse",
+      "explication": "A spouse is a husband or wife – the person you marry."
+    },
+    {
+      "question": "Who is your wife’s or husband’s father?",
+      "options": ["Brother-in-law", "Father-in-law", "Stepfather", "Uncle"],
+      "reponse": "Father-in-law",
+      "explication": "Your spouse’s father is your father-in-law."
+    },
+    {
+      "question": "Your sibling is...",
+      "options": ["Your friend", "Your child", "Your brother or sister", "Your cousin"],
+      "reponse": "Your brother or sister",
+      "explication": "A sibling is a brother or sister."
+    },
+    {
+      "question": "Your twin is...",
+      "options": ["Your best friend", "Your classmate", "Your cousin", "Someone born at the same time as you"],
+      "reponse": "Someone born at the same time as you",
+      "explication": "A twin is a sibling born on the same day as you."
+    },
+    {
+      "question": "What do we call children who have no parents?",
+      "options": ["Twins", "Siblings", "Orphans", "Nieces"],
+      "reponse": "Orphans",
+      "explication": "Children without parents are called orphans."
+    },
+    {
+      "question": "Who is your father's brother?",
+      "options": ["Uncle", "Cousin", "Nephew", "Grandfather"],
+      "reponse": "Uncle",
+      "explication": "Your father's brother is your uncle."
+    },
+    {
+      "question": "What do we call the ceremony when two people get married?",
+      "options": ["Baptism", "Funeral", "Wedding", "Birthday"],
+      "reponse": "Wedding",
+      "explication": "A wedding is a ceremony where two people get married."
+    },
+    {
+      "question": "If you are not married, you are...",
+      "options": ["Single", "Married", "Engaged", "Divorced"],
+      "reponse": "Single",
+      "explication": "A person who is not married is single."
+    },
+    {
+      "question": "Your mother’s son is your...",
+      "options": ["Uncle", "Brother", "Cousin", "Nephew"],
+      "reponse": "Brother",
+      "explication": "Your mother’s son is your brother."
+    },
+    {
+      "question": "Your uncle’s son is your...",
+      "options": ["Cousin", "Nephew", "Brother", "Father"],
+      "reponse": "Cousin",
+      "explication": "The child of your uncle is your cousin."
+    },
+    {
+      "question": "The person you share a room with is called a...",
+      "options": ["Neighbor", "Roommate", "Classmate", "Relative"],
+      "reponse": "Roommate",
+      "explication": "A roommate is a person you share a room or apartment with."
+    },
+    {
+      "question": "Your daughter’s daughter is your...",
+      "options": ["Aunt", "Niece", "Granddaughter", "Sister"],
+      "reponse": "Granddaughter",
+      "explication": "Your child’s child is your grandchild. A daughter’s daughter is a granddaughter."
+    },
+    {
+      "question": "What do we call a man who is married?",
+      "options": ["Spouse", "Brother", "Husband", "Uncle"],
+      "reponse": "Husband",
+      "explication": "A married man is called a husband."
+    },
+    {
+      "question": "What subject deals with numbers and calculations?",
+      "options": ["Biology", "Mathematics", "Geography", "History"],
+      "reponse": "Mathematics",
+      "explication": "Mathematics is the study of numbers, shapes, and calculations."
+    },
+    {
+      "question": "Which school subject teaches about plants and animals?",
+      "options": ["Chemistry", "Biology", "History", "Economics"],
+      "reponse": "Biology",
+      "explication": "Biology is the science of living organisms."
+    },
+    {
+      "question": "What do we use to write on a blackboard?",
+      "options": ["Pen", "Pencil", "Chalk", "Marker"],
+      "reponse": "Chalk",
+      "explication": "Chalk is used to write on a blackboard."
+    },
+    {
+      "question": "What subject helps students to understand the past?",
+      "options": ["Geography", "Literature", "Civics", "History"],
+      "reponse": "History",
+      "explication": "History is the study of past events."
+    },
+    {
+      "question": "What is the person who teaches you at school called?",
+      "options": ["Student", "Lecturer", "Teacher", "Principal"],
+      "reponse": "Teacher",
+      "explication": "A teacher is the person who educates students."
+    },
+    {
+      "question": "Which of the following is NOT a school subject?",
+      "options": ["Science", "Art", "Music", "Hospital"],
+      "reponse": "Hospital",
+      "explication": "Hospital is a place, not a school subject."
+    },
+    {
+      "question": "What do we use to erase mistakes in pencil writing?",
+      "options": ["Chalk", "Eraser", "Sharpener", "Ruler"],
+      "reponse": "Eraser",
+      "explication": "An eraser is used to remove pencil marks."
+    },
+    {
+      "question": "Where do students sit during lessons?",
+      "options": ["Library", "Office", "Canteen", "Classroom"],
+      "reponse": "Classroom",
+      "explication": "Lessons take place in the classroom."
+    },
+    {
+      "question": "What do we call the head of a school?",
+      "options": ["Teacher", "Director", "Principal", "Inspector"],
+      "reponse": "Principal",
+      "explication": "The principal is the head of the school."
+    },
+    {
+      "question": "What object do students use to carry books?",
+      "options": ["Bag", "Box", "Folder", "Desk"],
+      "reponse": "Bag",
+      "explication": "Students use a school bag to carry books and materials."
+    },
+    {
+      "question": "Which of these is a school supply?",
+      "options": ["Notebook", "Television", "Couch", "Spoon"],
+      "reponse": "Notebook",
+      "explication": "A notebook is used by students to write notes."
+    },
+    {
+      "question": "What do you call a book that contains many subjects?",
+      "options": ["Novel", "Magazine", "Textbook", "Notebook"],
+      "reponse": "Textbook",
+      "explication": "A textbook is a school book used for learning subjects."
+    },
+    {
+      "question": "Which subject teaches about maps and countries?",
+      "options": ["Civics", "Geography", "Literature", "Physics"],
+      "reponse": "Geography",
+      "explication": "Geography teaches about Earth, countries, and maps."
+    },
+    {
+      "question": "What is the correct classroom instruction? '____ your books.'",
+      "options": ["Close", "Eat", "Drive", "Cook"],
+      "reponse": "Close",
+      "explication": "In the classroom, the teacher may say: 'Close your books.'"
+    },
+    {
+      "question": "What do we call a short test at school?",
+      "options": ["Homework", "Exam", "Quiz", "Vacation"],
+      "reponse": "Quiz",
+      "explication": "A quiz is a short test to check understanding."
+    },
+    {
+      "question": "Which material do students use to draw straight lines?",
+      "options": ["Compass", "Pen", "Ruler", "Eraser"],
+      "reponse": "Ruler",
+      "explication": "A ruler helps draw straight lines in geometry or design."
+    },
+    {
+      "question": "What does a student use to sharpen pencils?",
+      "options": ["Razor", "Knife", "Sharpener", "Scissors"],
+      "reponse": "Sharpener",
+      "explication": "A pencil sharpener is used to make pencils sharp again."
+    },
+    {
+      "question": "Which of these helps us learn English better?",
+      "options": ["Grammar book", "French teacher", "Math tool", "Microscope"],
+      "reponse": "Grammar book",
+      "explication": "A grammar book is useful in learning English language rules."
+    },
+    {
+      "question": "What subject involves studying laws and citizenship?",
+      "options": ["Civics", "Biology", "Art", "Mathematics"],
+      "reponse": "Civics",
+      "explication": "Civics teaches rights, duties, and responsibilities of citizens."
+    },
+    {
+      "question": "A classroom instruction: '____ attention!'",
+      "options": ["Do", "Take", "Pay", "Give"],
+      "reponse": "Pay",
+      "explication": "The correct expression is 'Pay attention!'"
+    },
+    {
+      "question": "Which of the following is a fruit?",
+      "options": ["Carrot", "Banana", "Cabbage", "Onion"],
+      "reponse": "Banana",
+      "explication": "Banana is a sweet yellow fruit, unlike carrot or onion which are vegetables."
+    },
+    {
+      "question": "What do we usually drink in the morning?",
+      "options": ["Milk", "Soup", "Soda", "Wine"],
+      "reponse": "Milk",
+      "explication": "Milk is a common drink for breakfast, especially for children."
+    },
+    {
+      "question": "Which food is made from wheat?",
+      "options": ["Rice", "Bread", "Beans", "Orange"],
+      "reponse": "Bread",
+      "explication": "Bread is made from flour which comes from wheat."
+    },
+    {
+      "question": "Which of these is a dairy product?",
+      "options": ["Cheese", "Fish", "Chicken", "Orange juice"],
+      "reponse": "Cheese",
+      "explication": "Dairy products are made from milk, like cheese and yogurt."
+    },
+    {
+      "question": "What is the main ingredient in a salad?",
+      "options": ["Sugar", "Lettuce", "Flour", "Meat"],
+      "reponse": "Lettuce",
+      "explication": "Lettuce is a leafy vegetable often used as the base of a salad."
+    },
+    {
+      "question": "Which one is NOT a fruit?",
+      "options": ["Pineapple", "Tomato", "Potato", "Apple"],
+      "reponse": "Potato",
+      "explication": "Potato is a tuber (root vegetable), not a fruit."
+    },
+    {
+      "question": "Which drink is unhealthy when taken too much?",
+      "options": ["Water", "Juice", "Milk", "Soda"],
+      "reponse": "Soda",
+      "explication": "Soda contains a lot of sugar and can be harmful if consumed too much."
+    },
+    {
+      "question": "Which of the following is a source of protein?",
+      "options": ["Bread", "Fish", "Apple", "Rice"],
+      "reponse": "Fish",
+      "explication": "Protein is found in animal products like fish, meat, and eggs."
+    },
+    {
+      "question": "What do vegetarians usually NOT eat?",
+      "options": ["Carrots", "Chicken", "Rice", "Beans"],
+      "reponse": "Chicken",
+      "explication": "Vegetarians do not eat meat, including chicken."
+    },
+    {
+      "question": "What do we use to sweeten tea?",
+      "options": ["Salt", "Pepper", "Sugar", "Oil"],
+      "reponse": "Sugar",
+      "explication": "Sugar is the common sweetener used in tea or coffee."
+    },
+    {
+      "question": "Which of these is often eaten as dessert?",
+      "options": ["Soup", "Ice cream", "Chicken", "Rice"],
+      "reponse": "Ice cream",
+      "explication": "Desserts are sweet foods, and ice cream is a popular example."
+    },
+    {
+      "question": "Which fruit is usually yellow inside?",
+      "options": ["Watermelon", "Pineapple", "Grape", "Tomato"],
+      "reponse": "Pineapple",
+      "explication": "The inside of a pineapple is typically yellow and juicy."
+    },
+    {
+      "question": "Which of these is used for cooking?",
+      "options": ["Soap", "Flour", "Pen", "Book"],
+      "reponse": "Flour",
+      "explication": "Flour is a cooking ingredient used in baking and preparing dough."
+    },
+    {
+      "question": "Which one is a hot drink?",
+      "options": ["Juice", "Tea", "Water", "Yogurt"],
+      "reponse": "Tea",
+      "explication": "Tea is often served hot, especially in the morning or evening."
+    },
+    {
+      "question": "Which of these is a breakfast food?",
+      "options": ["Chicken", "Pizza", "Cereal", "Salad"],
+      "reponse": "Cereal",
+      "explication": "Cereal is a common food eaten in the morning with milk."
+    },
+    {
+      "question": "What do you need to make an omelette?",
+      "options": ["Bread", "Fish", "Eggs", "Sugar"],
+      "reponse": "Eggs",
+      "explication": "An omelette is made by beating and frying eggs."
+    },
+    {
+      "question": "What food is known to contain a lot of vitamins?",
+      "options": ["Chips", "Vegetables", "Sweets", "Fried chicken"],
+      "reponse": "Vegetables",
+      "explication": "Vegetables are rich in vitamins and nutrients."
+    },
+    {
+      "question": "Which of the following is spicy?",
+      "options": ["Pepper", "Milk", "Banana", "Bread"],
+      "reponse": "Pepper",
+      "explication": "Pepper adds heat or spice to food."
+    },
+    {
+      "question": "Which meal is eaten in the afternoon?",
+      "options": ["Dinner", "Supper", "Lunch", "Breakfast"],
+      "reponse": "Lunch",
+      "explication": "Lunch is typically eaten around noon or early afternoon."
+    },
+    {
+      "question": "Which of the following is a vegetable?",
+      "options": ["Mango", "Carrot", "Apple", "Banana"],
+      "reponse": "Carrot",
+      "explication": "Carrot is a root vegetable commonly used in cooking and salads."
+    },
+    {
+      "question": "Which part of the body do we use to see?",
+      "options": ["Ears", "Eyes", "Nose", "Mouth"],
+      "reponse": "Eyes",
+      "explication": "We use our eyes to see and observe the world around us."
+    },
+    {
+      "question": "Which part of the body helps us to smell?",
+      "options": ["Nose", "Eyes", "Mouth", "Ears"],
+      "reponse": "Nose",
+      "explication": "The nose allows us to breathe and detect smells."
+    },
+    {
+      "question": "Which organ pumps blood in the body?",
+      "options": ["Liver", "Brain", "Heart", "Lungs"],
+      "reponse": "Heart",
+      "explication": "The heart pumps blood and keeps the circulatory system working."
+    },
+    {
+      "question": "What do we use to hear sounds?",
+      "options": ["Mouth", "Hands", "Eyes", "Ears"],
+      "reponse": "Ears",
+      "explication": "Our ears detect sound and help with balance."
+    },
+    {
+      "question": "Which of the following is a disease?",
+      "options": ["Stomach", "Tooth", "Fever", "Arm"],
+      "reponse": "Fever",
+      "explication": "Fever is a symptom or disease when body temperature is high."
+    },
+    {
+      "question": "Which of the following is a part of the arm?",
+      "options": ["Knee", "Elbow", "Ankle", "Toes"],
+      "reponse": "Elbow",
+      "explication": "The elbow connects the upper and lower parts of the arm."
+    },
+    {
+      "question": "What do you take when you are sick?",
+      "options": ["Water", "Food", "Medicine", "Juice"],
+      "reponse": "Medicine",
+      "explication": "Medicine helps cure or relieve symptoms of illnesses."
+    },
+    {
+      "question": "Where do sick people go for treatment?",
+      "options": ["Market", "Hospital", "School", "Church"],
+      "reponse": "Hospital",
+      "explication": "Hospitals are places where doctors and nurses care for the sick."
+    },
+    {
+      "question": "What do we use to walk?",
+      "options": ["Ears", "Legs", "Hands", "Eyes"],
+      "reponse": "Legs",
+      "explication": "Legs support the body and help us move from place to place."
+    },
+    {
+      "question": "Which part of the face do we use to talk?",
+      "options": ["Eyes", "Mouth", "Nose", "Ears"],
+      "reponse": "Mouth",
+      "explication": "We use our mouth to speak, eat, and breathe."
+    },
+    {
+      "question": "Which of the following is an illness?",
+      "options": ["Running", "Toothache", "Sleeping", "Thinking"],
+      "reponse": "Toothache",
+      "explication": "Toothache is pain in the tooth, often due to a cavity or infection."
+    },
+    {
+      "question": "Which part of the body connects the head to the shoulders?",
+      "options": ["Leg", "Back", "Neck", "Hand"],
+      "reponse": "Neck",
+      "explication": "The neck supports the head and allows it to move."
+    },
+    {
+      "question": "Which of these is not a body part?",
+      "options": ["Liver", "Shoe", "Eye", "Arm"],
+      "reponse": "Shoe",
+      "explication": "A shoe is an item of clothing, not a part of the body."
+    },
+    {
+      "question": "What do we use to hold things?",
+      "options": ["Legs", "Eyes", "Hands", "Feet"],
+      "reponse": "Hands",
+      "explication": "We use hands and fingers to grasp and carry objects."
+    },
+    {
+      "question": "If someone coughs and sneezes, what might they have?",
+      "options": ["A headache", "A cold", "An injury", "A toothache"],
+      "reponse": "A cold",
+      "explication": "Coughing and sneezing are common signs of a cold."
+    },
+    {
+      "question": "Which of the following helps with breathing?",
+      "options": ["Heart", "Stomach", "Lungs", "Bones"],
+      "reponse": "Lungs",
+      "explication": "The lungs take in oxygen and release carbon dioxide when we breathe."
+    },
+    {
+      "question": "What do we use to taste food?",
+      "options": ["Ears", "Eyes", "Tongue", "Nose"],
+      "reponse": "Tongue",
+      "explication": "The tongue has taste buds that allow us to taste flavors."
+    },
+    {
+      "question": "Which of these can you use when you have a headache?",
+      "options": ["Glasses", "Aspirin", "Soap", "Juice"],
+      "reponse": "Aspirin",
+      "explication": "Aspirin is a medicine used to relieve pain like headaches."
+    },
+    {
+      "question": "Which part of the body bends at the middle of your leg?",
+      "options": ["Elbow", "Shoulder", "Knee", "Ankle"],
+      "reponse": "Knee",
+      "explication": "The knee allows the leg to bend for walking or sitting."
+    },
+    {
+      "question": "What do doctors use to check if you have a fever?",
+      "options": ["Stethoscope", "Thermometer", "Syringe", "Microscope"],
+      "reponse": "Thermometer",
+      "explication": "A thermometer measures body temperature to check for fever."
+    },
+    {
+      "question": "Which of these is NOT a part of the human body?",
+      "options": ["Leg", "Book", "Arm", "Head"],
+      "reponse": "Book",
+      "explication": "A book is an object, not a part of the body."
+    },
+    {
+      "question": "Which part of the body do we use to see?",
+      "options": ["Nose", "Ears", "Eyes", "Mouth"],
+      "reponse": "Eyes",
+      "explication": "We use our eyes to see."
+    },
+    {
+      "question": "What do we use to smell things?",
+      "options": ["Ears", "Nose", "Mouth", "Feet"],
+      "reponse": "Nose",
+      "explication": "The nose is the organ used for smelling."
+    },
+    {
+      "question": "Which part helps us to walk?",
+      "options": ["Hands", "Legs", "Ears", "Eyes"],
+      "reponse": "Legs",
+      "explication": "Legs support movement like walking and running."
+    },
+    {
+      "question": "Which part of the body helps you hear?",
+      "options": ["Eyes", "Nose", "Ears", "Mouth"],
+      "reponse": "Ears",
+      "explication": "Ears are used to hear sounds."
+    },
+    {
+      "question": "Which part of your body hurts if you have a headache?",
+      "options": ["Leg", "Back", "Head", "Arm"],
+      "reponse": "Head",
+      "explication": "A headache is a pain in the head."
+    },
+    {
+      "question": "What should you do if you have a fever?",
+      "options": ["Drink cold water", "Ignore it", "See a doctor", "Go for a walk"],
+      "reponse": "See a doctor",
+      "explication": "Fever can be a sign of illness, so it is best to consult a doctor."
+    },
+    {
+      "question": "Which part of the body do we use to write?",
+      "options": ["Feet", "Eyes", "Hands", "Ears"],
+      "reponse": "Hands",
+      "explication": "We write using our hands."
+    },
+    {
+      "question": "What is the correct word for a pain in the stomach?",
+      "options": ["Headache", "Stomachache", "Backache", "Toothache"],
+      "reponse": "Stomachache",
+      "explication": "A pain in the stomach is called a stomachache."
+    },
+    {
+      "question": "What do we use to taste food?",
+      "options": ["Eyes", "Nose", "Tongue", "Ears"],
+      "reponse": "Tongue",
+      "explication": "The tongue allows us to taste different flavors."
+    },
+    {
+      "question": "What is the function of the lungs?",
+      "options": ["To see", "To breathe", "To hear", "To walk"],
+      "reponse": "To breathe",
+      "explication": "Lungs help us breathe by taking in oxygen and releasing carbon dioxide."
+    },
+    {
+      "question": "What should you do if you have a toothache?",
+      "options": ["Eat sugar", "See a dentist", "Ignore it", "Drink cold water"],
+      "reponse": "See a dentist",
+      "explication": "Toothaches are treated by dentists."
+    },
+    {
+      "question": "If someone is coughing a lot, they probably have a problem with their:",
+      "options": ["Eyes", "Legs", "Throat", "Ears"],
+      "reponse": "Throat",
+      "explication": "Coughing usually involves the throat or lungs."
+    },
+    {
+      "question": "What do you take when you are sick?",
+      "options": ["Water", "Juice", "Medicine", "Coffee"],
+      "reponse": "Medicine",
+      "explication": "Medicine helps to cure or relieve sickness."
+    },
+    {
+      "question": "If you break your leg, what do you need?",
+      "options": ["Sunglasses", "Crutches", "Hat", "Shoes"],
+      "reponse": "Crutches",
+      "explication": "Crutches help you walk when your leg is broken."
+    },
+    {
+      "question": "What is the correct name for a doctor who treats teeth?",
+      "options": ["Dentist", "Optician", "Nurse", "Surgeon"],
+      "reponse": "Dentist",
+      "explication": "A dentist is a doctor specialized in treating teeth."
+    },
+    {
+      "question": "Which of the following is NOT an illness?",
+      "options": ["Flu", "Cough", "Cold", "Hat"],
+      "reponse": "Hat",
+      "explication": "A hat is clothing, not an illness."
+    },
+    {
+      "question": "Which organ pumps blood in the body?",
+      "options": ["Brain", "Lungs", "Heart", "Stomach"],
+      "reponse": "Heart",
+      "explication": "The heart pumps blood throughout the body."
+    },
+    {
+      "question": "What does a thermometer measure?",
+      "options": ["Blood pressure", "Height", "Temperature", "Weight"],
+      "reponse": "Temperature",
+      "explication": "A thermometer is used to check the body's temperature."
+    },
+    {
+      "question": "Which of these is a healthy habit?",
+      "options": ["Sleeping all day", "Eating junk food", "Exercising regularly", "Skipping meals"],
+      "reponse": "Exercising regularly",
+      "explication": "Regular exercise helps keep the body fit and healthy."
+    },
+    {
+      "question": "What do we call the natural surroundings where plants and animals live?",
+      "options": ["Environment", "Pollution", "Weather", "Climate"],
+      "reponse": "Environment",
+      "explication": "The environment is the natural world where living things exist."
+    },
+    {
+      "question": "What is the main cause of air pollution?",
+      "options": ["Trees", "Factories", "Rain", "Wind"],
+      "reponse": "Factories",
+      "explication": "Factories release smoke and harmful gases that pollute the air."
+    },
+    {
+      "question": "Which gas do plants take in for photosynthesis?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+      "reponse": "Carbon dioxide",
+      "explication": "Plants use carbon dioxide from the air to produce food."
+    },
+    {
+      "question": "What do we call the thin layer of gases surrounding the Earth?",
+      "options": ["Atmosphere", "Ocean", "Forest", "Soil"],
+      "reponse": "Atmosphere",
+      "explication": "The atmosphere is the layer of gases that surrounds our planet."
+    },
+    {
+      "question": "Which of these is a renewable source of energy?",
+      "options": ["Coal", "Oil", "Wind", "Natural gas"],
+      "reponse": "Wind",
+      "explication": "Wind energy is renewable because it comes from natural wind."
+    },
+    {
+      "question": "What term describes the gradual increase in Earth's temperature?",
+      "options": ["Global warming", "Rainfall", "Pollution", "Humidity"],
+      "reponse": "Global warming",
+      "explication": "Global warming is the rise in Earth's average temperature."
+    },
+    {
+      "question": "Which of these can cause water pollution?",
+      "options": ["Factories", "Trees", "Sunlight", "Clouds"],
+      "reponse": "Factories",
+      "explication": "Factories can release harmful chemicals into water bodies."
+    },
+    {
+      "question": "What weather phenomenon is measured with a thermometer?",
+      "options": ["Temperature", "Rainfall", "Wind speed", "Humidity"],
+      "reponse": "Temperature",
+      "explication": "Temperature shows how hot or cold the air is."
+    },
+    {
+      "question": "What do we call the particles of dust, smoke, and chemicals in the air?",
+      "options": ["Pollutants", "Clouds", "Ozone", "Rain"],
+      "reponse": "Pollutants",
+      "explication": "Pollutants are harmful substances in the air."
+    },
+    {
+      "question": "Which of these is a greenhouse gas?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+      "reponse": "Carbon dioxide",
+      "explication": "Carbon dioxide traps heat in the atmosphere, contributing to global warming."
+    },
+    {
+      "question": "What is the term for heavy rainfall causing rivers to overflow?",
+      "options": ["Flood", "Drought", "Storm", "Earthquake"],
+      "reponse": "Flood",
+      "explication": "A flood happens when water covers land that is usually dry."
+    },
+    {
+      "question": "What type of pollution is caused by loud sounds?",
+      "options": ["Noise pollution", "Air pollution", "Water pollution", "Light pollution"],
+      "reponse": "Noise pollution",
+      "explication": "Noise pollution is excessive or harmful sound."
+    },
+    {
+      "question": "Which layer protects the Earth from harmful ultraviolet rays?",
+      "options": ["Ozone layer", "Soil", "Water", "Clouds"],
+      "reponse": "Ozone layer",
+      "explication": "The ozone layer absorbs most of the Sun’s UV rays."
+    },
+    {
+      "question": "What term describes the amount of water vapor in the air?",
+      "options": ["Humidity", "Temperature", "Pressure", "Wind speed"],
+      "reponse": "Humidity",
+      "explication": "Humidity measures how much moisture is in the air."
+    },
+    {
+      "question": "Which activity helps reduce pollution and protect the environment?",
+      "options": ["Recycling", "Burning trash", "Using plastic bags", "Cutting trees"],
+      "reponse": "Recycling",
+      "explication": "Recycling reduces waste and pollution by reusing materials."
+    },
+    {
+      "question": "Choisis la bonne forme du verbe 'to be' au présent pour 'He ___ a teacher.'",
+      "options": ["am", "is", "are", "be"],
+      "reponse": "is",
+      "explication": "'He' est à la 3e personne du singulier, donc on utilise 'is'."
+    },
+    {
+      "question": "Complète : 'They ___ happy.'",
+      "options": ["is", "are", "am", "be"],
+      "reponse": "are",
+      "explication": "'They' est pluriel, on utilise 'are' pour le présent de 'to be'."
+    },
+    {
+      "question": "Quelle est la forme correcte de 'to have' pour 'She ___ a cat'?",
+      "options": ["have", "has", "had", "haves"],
+      "reponse": "has",
+      "explication": "À la 3e personne du singulier, 'have' devient 'has'."
+    },
+    {
+      "question": "Choisis la bonne forme pour 'I ___ a bike.'",
+      "options": ["has", "have", "had", "haves"],
+      "reponse": "have",
+      "explication": "'I' utilise 'have' au présent."
+    },
+    {
+      "question": "Complète : 'We ___ go to school.' (avec 'can')",
+      "options": ["can", "must", "should", "have to"],
+      "reponse": "can",
+      "explication": "'Can' exprime la capacité ou la possibilité."
+    },
+    {
+      "question": "Complète : 'You ___ finish your homework before playing.' (obligation)",
+      "options": ["can", "must", "should", "have"],
+      "reponse": "must",
+      "explication": "'Must' exprime une obligation forte."
+    },
+    {
+      "question": "Complète : 'They ___ be tired after the trip.' (conseil)",
+      "options": ["can", "must", "should", "have to"],
+      "reponse": "should",
+      "explication": "'Should' exprime un conseil ou une suggestion."
+    },
+    {
+      "question": "Complète : 'I ___ swim very well.' (capacité au présent)",
+      "options": ["can", "must", "should", "have to"],
+      "reponse": "can",
+      "explication": "'Can' exprime une capacité."
+    },
+    {
+      "question": "Choisis la bonne négation : 'She ___ have a car.' (impossibilité)",
+      "options": ["can not", "must not", "should not", "have not"],
+      "reponse": "can not",
+      "explication": "'Can not' (can't) exprime l'impossibilité."
+    },
+    {
+      "question": "Complète : 'You ___ see a doctor if you feel sick.' (conseil)",
+      "options": ["must", "should", "can", "have to"],
+      "reponse": "should",
+      "explication": "'Should' est utilisé pour donner un conseil."
+    },
+    {
+      "question": "Quelle forme correcte pour la phrase : 'He ___ a big house.'?",
+      "options": ["have", "has", "had", "haves"],
+      "reponse": "has",
+      "explication": "À la 3e personne du singulier, on utilise 'has' pour 'to have'."
+    },
+    {
+      "question": "Complète : 'I ___ be late today.' (possibilité)",
+      "options": ["can", "must", "should", "have to"],
+      "reponse": "can",
+      "explication": "'Can' exprime une possibilité."
+    },
+    {
+      "question": "Choisis la forme correcte : 'We ___ study hard for the exam.' (obligation)",
+      "options": ["can", "must", "should", "have to"],
+      "reponse": "must",
+      "explication": "'Must' exprime une forte obligation."
+    },
+    {
+      "question": "Complète la phrase : 'She ___ not like chocolate.' (négation)",
+      "options": ["can", "must", "should", "does"],
+      "reponse": "does",
+      "explication": "Pour la négation au présent simple à la 3e personne, on utilise 'does not'."
+    },
+    {
+      "question": "Complète : 'You ___ clean your room before going out.' (conseil)",
+      "options": ["must", "can", "should", "have to"],
+      "reponse": "should",
+      "explication": "'Should' sert à donner un conseil."
+    },
+    {
+      "question": "Complète : 'They ___ have finished the work by now.' (obligation au passé)",
+      "options": ["can", "must", "should", "have to"],
+      "reponse": "must",
+      "explication": "'Must' peut aussi exprimer une forte probabilité ou obligation."
+    },
+    {
+      "question": "Complète : 'I ___ to go to school every day.' (verbe 'avoir' en sens de devoir)",
+      "options": ["have", "has", "must", "should"],
+      "reponse": "have",
+      "explication": "'Have to' exprime une obligation ou nécessité."
+    },
+    {
+      "question": "Quel article indéfini utilise-t-on devant un mot commençant par une voyelle ?",
+      "options": ["a", "an", "the", "aucun"],
+      "reponse": "an",
+      "explication": "On utilise 'an' devant un mot qui commence par une voyelle pour faciliter la prononciation."
+    },
+    {
+      "question": "Complétez : I have ___ apple.",
+      "options": ["a", "an", "the", "aucun"],
+      "reponse": "an",
+      "explication": "'Apple' commence par une voyelle, donc on utilise 'an'."
+    },
+    {
+      "question": "Quel article défini utilise-t-on pour parler d'un objet spécifique ?",
+      "options": ["a", "an", "the", "aucun"],
+      "reponse": "the",
+      "explication": "'The' est utilisé pour désigner quelque chose de précis, connu de l'interlocuteur."
+    },
+    {
+      "question": "Complétez : ___ sun is hot today.",
+      "options": ["A", "An", "The", "aucun"],
+      "reponse": "The",
+      "explication": "On utilise 'the' avec les choses uniques comme le soleil."
+    },
+    {
+      "question": "Complétez : I saw ___ cat in the garden.",
+      "options": ["a", "an", "the", "aucun"],
+      "reponse": "a",
+      "explication": "Le mot 'cat' commence par une consonne, donc on utilise 'a'."
+    },
+    {
+      "question": "L’article 'the' est-il utilisé avec les noms au pluriel ?",
+      "options": ["Oui", "Non"],
+      "reponse": "Oui",
+      "explication": "'The' peut être utilisé avec les noms au pluriel pour parler de choses spécifiques."
+    },
+    {
+      "question": "Complétez : ___ dogs in this park are friendly.",
+      "options": ["A", "An", "The", "aucun"],
+      "reponse": "The",
+      "explication": "On parle des chiens spécifiques du parc, donc 'the'."
+    },
+    {
+      "question": "L’article 'a' peut-il être utilisé devant un nom pluriel ?",
+      "options": ["Oui", "Non"],
+      "reponse": "Non",
+      "explication": "'A' ne s'utilise qu'avec des noms au singulier."
+    },
+    {
+      "question": "Complétez : I need ___ orange.",
+      "options": ["a", "an", "the", "aucun"],
+      "reponse": "an",
+      "explication": "Orange commence par une voyelle, donc on utilise 'an'."
+    },
+    {
+      "question": "Complétez : She drinks ___ water every day.",
+      "options": ["a", "an", "the", "aucun"],
+      "reponse": "aucun",
+      "explication": "‘Water’ est un nom non comptable et utilisé ici en général, donc pas d’article."
+    },
+    {
+      "question": "Quel article utilise-t-on devant un métier ?",
+      "options": ["a", "an", "the", "aucun"],
+      "reponse": "a",
+      "explication": "On utilise souvent 'a' ou 'an' devant un métier (ex: a teacher)."
+    },
+    {
+      "question": "Complétez : He is ___ engineer.",
+      "options": ["a", "an", "the", "aucun"],
+      "reponse": "an",
+      "explication": "Engineer commence par une voyelle, donc on utilise 'an'."
+    },
+    {
+      "question": "Complétez : ___ moon is bright tonight.",
+      "options": ["A", "An", "The", "aucun"],
+      "reponse": "The",
+      "explication": "La lune est unique, donc on utilise 'the'."
+    },
+    {
+      "question": "Peut-on utiliser 'the' avec des noms géographiques ?",
+      "options": ["Oui", "Non"],
+      "reponse": "Oui",
+      "explication": "Oui, pour certains comme 'the Nile', 'the Alps'."
+    },
+    {
+      "question": "Complétez : I live near ___ Amazon River.",
+      "options": ["a", "an", "the", "aucun"],
+      "reponse": "the",
+      "explication": "On utilise 'the' avec des noms de fleuves."
+    },
+    {
+      "question": "Quel article est correct : '___ United States' ?",
+      "options": ["a", "an", "the", "aucun"],
+      "reponse": "the",
+      "explication": "On utilise 'the' devant des noms de pays au pluriel."
+    },
+    {
+      "question": "Complétez : She bought ___ new car.",
+      "options": ["a", "an", "the", "aucun"],
+      "reponse": "a",
+      "explication": "Devant 'new car', on utilise 'a' car c’est un objet non défini."
+    },
+    {
+      "question": "Quel est le pluriel de 'cat' ?",
+      "options": ["cats", "cat", "cates", "caties"],
+      "reponse": "cats",
+      "explication": "Le pluriel régulier se forme généralement en ajoutant un 's' à la fin du nom."
+    },
+    {
+      "question": "Quel est le pluriel de 'child' ?",
+      "options": ["childs", "children", "childes", "child"],
+      "reponse": "children",
+      "explication": "'Child' est un nom irrégulier dont le pluriel est 'children'."
+    },
+    {
+      "question": "Quel est le pluriel de 'bus' ?",
+      "options": ["buses", "bus", "buss", "busses"],
+      "reponse": "buses",
+      "explication": "Les noms terminés par 's' prennent généralement 'es' au pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de 'mouse' ?",
+      "options": ["mouses", "mices", "mice", "mouse"],
+      "reponse": "mice",
+      "explication": "'Mouse' est un nom irrégulier avec un pluriel en 'mice'."
+    },
+    {
+      "question": "Quel est le pluriel de 'knife' ?",
+      "options": ["knifes", "knives", "knife", "knifves"],
+      "reponse": "knives",
+      "explication": "Certains noms en 'fe' changent en 'ves' au pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de 'box' ?",
+      "options": ["boxs", "boxes", "box", "boxies"],
+      "reponse": "boxes",
+      "explication": "Les noms finissant par 'x' prennent 'es' au pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de 'foot' ?",
+      "options": ["foots", "feet", "footes", "feets"],
+      "reponse": "feet",
+      "explication": "'Foot' est un nom irrégulier dont le pluriel est 'feet'."
+    },
+    {
+      "question": "Quel est le pluriel de 'lady' ?",
+      "options": ["ladys", "ladies", "lady", "ladiess"],
+      "reponse": "ladies",
+      "explication": "Les noms finissant par une consonne + 'y' changent 'y' en 'ies' au pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de 'baby' ?",
+      "options": ["babies", "babys", "baby", "babyes"],
+      "reponse": "babies",
+      "explication": "Même règle que pour 'lady' avec les noms en 'y' précédé d'une consonne."
+    },
+    {
+      "question": "Quel est le pluriel de 'deer' ?",
+      "options": ["deers", "deer", "deeres", "deerss"],
+      "reponse": "deer",
+      "explication": "'Deer' est un nom invariable au pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de 'tomato' ?",
+      "options": ["tomatos", "tomatoes", "tomatees", "tomateos"],
+      "reponse": "tomatoes",
+      "explication": "Certains noms terminés par 'o' prennent 'es' au pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de 'leaf' ?",
+      "options": ["leafs", "leaves", "leafes", "leavs"],
+      "reponse": "leaves",
+      "explication": "Certains noms en 'f' changent en 'ves' au pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de 'sheep' ?",
+      "options": ["sheeps", "sheep", "sheepss", "sheepes"],
+      "reponse": "sheep",
+      "explication": "'Sheep' est un nom invariable au pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de 'wolf' ?",
+      "options": ["wolfs", "wolves", "wolvs", "wolffes"],
+      "reponse": "wolves",
+      "explication": "Comme 'leaf', 'wolf' change le 'f' en 'ves' au pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de 'city' ?",
+      "options": ["citys", "cities", "cityes", "citis"],
+      "reponse": "cities",
+      "explication": "Noms en 'y' précédés d'une consonne changent 'y' en 'ies' au pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de 'church' ?",
+      "options": ["churchs", "churches", "churches", "churchies"],
+      "reponse": "churches",
+      "explication": "Les noms finissant par 'ch' prennent 'es' au pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de 'baby' ?",
+      "options": ["babys", "babies", "baby", "babyes"],
+      "reponse": "babies",
+      "explication": "Voir question 9, même règle."
+    },
+    {
+      "question": "Quel est le pluriel de 'ox' ?",
+      "options": ["oxes", "oxen", "oxs", "oxens"],
+      "reponse": "oxen",
+      "explication": "'Ox' est un nom irrégulier avec le pluriel 'oxen'."
+    },
+    {
+      "question": "Quel est le pluriel de 'man' ?",
+      "options": ["mans", "men", "man", "mens"],
+      "reponse": "men",
+      "explication": "'Man' est un nom irrégulier dont le pluriel est 'men'."
+    },
+    {
+      "question": "Quel est le pluriel de 'woman' ?",
+      "options": ["womans", "women", "woman", "womens"],
+      "reponse": "women",
+      "explication": "Comme 'man', 'woman' est irrégulier au pluriel."
+    },
+    {
+      "question": "Quelle préposition indique un lieu situé à l'intérieur de quelque chose ?",
+      "options": ["on", "in", "at", "under"],
+      "reponse": "in",
+      "explication": "'In' indique une position à l'intérieur d'un espace ou d'un objet."
+    },
+    {
+      "question": "Quelle préposition utilise-t-on pour parler d'un lieu situé sur une surface ?",
+      "options": ["under", "on", "in", "between"],
+      "reponse": "on",
+      "explication": "'On' indique une position sur une surface."
+    },
+    {
+      "question": "Quelle préposition correspond à un point précis dans le temps ?",
+      "options": ["at", "in", "on", "during"],
+      "reponse": "at",
+      "explication": "'At' est utilisée pour indiquer un moment précis (ex : at 5 pm)."
+    },
+    {
+      "question": "Quelle préposition utilise-t-on pour une période plus longue (mois, années) ?",
+      "options": ["at", "in", "on", "by"],
+      "reponse": "in",
+      "explication": "'In' est employé pour les périodes comme les mois, années ou siècles."
+    },
+    {
+      "question": "Quelle préposition correspond à un jour ou une date spécifique ?",
+      "options": ["on", "in", "at", "during"],
+      "reponse": "on",
+      "explication": "'On' est utilisée pour des jours ou dates précises."
+    },
+    {
+      "question": "Quel mot complète la phrase : I will meet you ___ the park.",
+      "options": ["at", "in", "on", "by"],
+      "reponse": "in",
+      "explication": "Pour indiquer un lieu comme un parc, on utilise 'in'."
+    },
+    {
+      "question": "Quel mot complète la phrase : The book is ___ the table.",
+      "options": ["in", "on", "under", "between"],
+      "reponse": "on",
+      "explication": "'On' indique que l'objet est posé sur une surface."
+    },
+    {
+      "question": "Quel mot complète la phrase : We arrived ___ the airport at 6 pm.",
+      "options": ["at", "in", "on", "by"],
+      "reponse": "at",
+      "explication": "'At' est utilisé pour un lieu précis et un moment spécifique."
+    },
+    {
+      "question": "Quelle préposition indique la position en dessous de quelque chose ?",
+      "options": ["under", "above", "next to", "between"],
+      "reponse": "under",
+      "explication": "'Under' signifie en dessous de."
+    },
+    {
+      "question": "Quel mot complète la phrase : The meeting is scheduled ___ Monday.",
+      "options": ["in", "at", "on", "by"],
+      "reponse": "on",
+      "explication": "'On' est utilisé pour parler d’un jour spécifique."
+    },
+    {
+      "question": "Quel mot complète la phrase : She was born ___ 1990.",
+      "options": ["at", "on", "in", "by"],
+      "reponse": "in",
+      "explication": "'In' est utilisé pour une année."
+    },
+    {
+      "question": "Quelle préposition indique une position entre deux objets ?",
+      "options": ["on", "under", "between", "in"],
+      "reponse": "between",
+      "explication": "'Between' signifie entre deux éléments."
+    },
+    {
+      "question": "Quel mot complète la phrase : The bus arrives ___ 8 o'clock.",
+      "options": ["at", "in", "on", "by"],
+      "reponse": "at",
+      "explication": "'At' est employé pour une heure précise."
+    },
+    {
+      "question": "Quel mot complète la phrase : I will finish the work ___ Friday.",
+      "options": ["at", "on", "in", "by"],
+      "reponse": "by",
+      "explication": "'By' signifie au plus tard à un moment donné."
+    },
+    {
+      "question": "Quel mot complète la phrase : The cat is hiding ___ the sofa.",
+      "options": ["under", "on", "in", "next to"],
+      "reponse": "under",
+      "explication": "'Under' indique une position sous un objet."
+    },
+    {
+      "question": "Quel mot complète la phrase : They live ___ New York.",
+      "options": ["at", "on", "in", "by"],
+      "reponse": "in",
+      "explication": "'In' est utilisé pour une ville."
+    },
+    {
+      "question": "Quel mot complète la phrase : The keys are ___ my bag.",
+      "options": ["in", "on", "under", "between"],
+      "reponse": "in",
+      "explication": "'In' signifie à l’intérieur d’un espace fermé."
+    },
+    {
+      "question": "Quel mot complète la phrase : The school is located ___ the bank and the post office.",
+      "options": ["on", "between", "under", "next to"],
+      "reponse": "between",
+      "explication": "'Between' est utilisé pour indiquer une position au milieu de deux points."
+    },
+    {
+      "question": "Quelle préposition indique un lieu proche sans contact direct ?",
+      "options": ["next to", "on", "in", "under"],
+      "reponse": "next to",
+      "explication": "'Next to' signifie à côté de, proche mais sans contact direct."
+    },
+    {
+      "question": "Quel mot complète la phrase : We will go to the beach ___ the summer.",
+      "options": ["at", "in", "on", "by"],
+      "reponse": "in",
+      "explication": "'In' est utilisé pour les saisons et périodes longues."
+    },
+    {
+      "question": "How do you say 'Je m’appelle Paul' en anglais ?",
+      "options": ["My name is Paul", "I am called Paul", "I call Paul", "Paul is me"],
+      "reponse": "My name is Paul",
+      "explication": "« My name is » est la façon correcte de dire 'Je m’appelle' en anglais."
+    },
+    {
+      "question": "Comment demander l’âge de quelqu’un ?",
+      "options": ["How old are you?", "What is your age?", "You are old?", "How do you age?"],
+      "reponse": "How old are you?",
+      "explication": "« How old are you? » est la question correcte pour demander l’âge."
+    },
+    {
+      "question": "Quelle phrase pour dire « Je viens du Burkina Faso » ?",
+      "options": ["I come from Burkina Faso", "I from Burkina Faso", "I am from Burkina Faso", "I am come Burkina Faso"],
+      "reponse": "I am from Burkina Faso",
+      "explication": "Pour dire son origine, on utilise 'I am from ...'."
+    },
+    {
+      "question": "Comment dire « Voici mon frère » ?",
+      "options": ["This is my brother", "Here is my brother", "It is my brother", "That is my brother"],
+      "reponse": "This is my brother",
+      "explication": "'This is' s’utilise pour présenter quelqu’un proche."
+    },
+    {
+      "question": "Quelle phrase correspond à « Je suis étudiant » ?",
+      "options": ["I am a student", "I student", "I am student", "I be a student"],
+      "reponse": "I am a student",
+      "explication": "En anglais, on utilise 'I am a...' pour dire sa profession ou statut."
+    },
+    {
+      "question": "Comment dire « Elle s’appelle Awa » ?",
+      "options": ["Her name is Awa", "She name is Awa", "She is called Awa", "Her is Awa"],
+      "reponse": "Her name is Awa",
+      "explication": "« Her name is » est correct pour dire son nom à propos d’une autre personne."
+    },
+    {
+      "question": "Quelle est la bonne question pour demander 'Comment tu t’appelles ?' ?",
+      "options": ["What is your name?", "How you call?", "Who are you?", "What your name is?"],
+      "reponse": "What is your name?",
+      "explication": "La formule correcte est 'What is your name?'."
+    },
+    {
+      "question": "Comment répondre à 'Where are you from?' ?",
+      "options": ["I am from Burkina Faso", "I from Burkina Faso", "From Burkina Faso", "I comes Burkina Faso"],
+      "reponse": "I am from Burkina Faso",
+      "explication": "Réponse complète : 'I am from ...'."
+    },
+    {
+      "question": "Comment dire 'Enchanté(e)' en anglais ?",
+      "options": ["Nice to meet you", "Happy to meet you", "Pleased to meet you", "All of these"],
+      "reponse": "All of these",
+      "explication": "Toutes ces expressions sont correctes pour dire 'Enchanté(e)'."
+    },
+    {
+      "question": "Quelle est la bonne façon de dire 'Je suis content de te rencontrer' ?",
+      "options": ["I am happy to meet you", "I am glad meet you", "I happy to meet you", "I am happy meet you"],
+      "reponse": "I am happy to meet you",
+      "explication": "La structure complète est 'I am happy to meet you'."
+    },
+    {
+      "question": "Comment dire 'J’ai deux frères et une sœur' ?",
+      "options": ["I have two brothers and one sister", "I has two brothers and one sister", "I have two brother and one sister", "I have two brothers and one sisters"],
+      "reponse": "I have two brothers and one sister",
+      "explication": "Le pluriel 'brothers' et singulier 'sister' sont corrects."
+    },
+    {
+      "question": "Quelle phrase correspond à 'Je travaille à la maison' ?",
+      "options": ["I work at home", "I works at home", "I working at home", "I work in home"],
+      "reponse": "I work at home",
+      "explication": "'At home' est correct pour dire 'à la maison'."
+    },
+    {
+      "question": "Comment dire 'Le dimanche, je vais à l’église' ?",
+      "options": ["On Sunday, I go to church", "At Sunday, I go to church", "In Sunday, I go to church", "Sunday, I go to church"],
+      "reponse": "On Sunday, I go to church",
+      "explication": "On est utilisé pour les jours précis."
+    },
+    {
+      "question": "Comment dire 'Ma mère travaille comme enseignante' ?",
+      "options": ["My mother works as a teacher", "My mother work as teacher", "My mother working as a teacher", "My mother works like teacher"],
+      "reponse": "My mother works as a teacher",
+      "explication": "Le verbe s’accorde avec le sujet (she/works)."
+    },
+    {
+      "question": "Quelle phrase veut dire 'Je joue au football' ?",
+      "options": ["I play football", "I plays football", "I playing football", "I played football"],
+      "reponse": "I play football",
+      "explication": "Présent simple : 'I play'."
+    },
+    {
+      "question": "Comment dire 'Mes parents habitent à Ouagadougou' ?",
+      "options": ["My parents live in Ouagadougou", "My parents lives in Ouagadougou", "My parents living in Ouagadougou", "My parents live at Ouagadougou"],
+      "reponse": "My parents live in Ouagadougou",
+      "explication": "'Live in' est utilisé pour parler d’un lieu."
+    },
+    {
+      "question": "Comment demander 'Que fais-tu pendant ton temps libre ?' ?",
+      "options": ["What do you do in your free time?", "What you do in your free time?", "What do you do at your free time?", "What do you in your free time?"],
+      "reponse": "What do you do in your free time?",
+      "explication": "Question avec auxiliaire do et préposition in."
+    },
+    {
+      "question": "Quelle phrase correspond à 'Je lis souvent des livres' ?",
+      "options": ["I often read books", "I reads often books", "I read often books", "I often reads books"],
+      "reponse": "I often read books",
+      "explication": "Adverbe 'often' placé avant le verbe."
+    },
+    {
+      "question": "Comment dire 'Nous aimons regarder la télévision le soir' ?",
+      "options": ["We like to watch TV in the evening", "We likes to watch TV in the evening", "We like watch TV in the evening", "We like to watching TV in the evening"],
+      "reponse": "We like to watch TV in the evening",
+      "explication": "Infinitif 'to watch' après 'like'."
+    },
+    {
+      "question": "Quelle phrase signifie 'Il joue du piano tous les jours' ?",
+      "options": ["He plays the piano every day", "He play the piano every day", "He playing the piano every day", "He played the piano every day"],
+      "reponse": "He plays the piano every day",
+      "explication": "3e personne du singulier avec 's'."
+    },
+    {
+      "question": "Comment dire 'La maison est grande' ?",
+      "options": ["The house is big", "The house are big", "The house is bigger", "The house are bigger"],
+      "reponse": "The house is big",
+      "explication": "Adjectif au singulier avec verbe 'is'."
+    },
+    {
+      "question": "Quelle phrase signifie 'Elle a les cheveux longs' ?",
+      "options": ["She has long hair", "She have long hair", "She has long hairs", "She have long hairs"],
+      "reponse": "She has long hair",
+      "explication": "'Hair' est un nom non comptable, donc pas de pluriel."
+    },
+    {
+      "question": "Comment dire 'Le livre est sur la table' ?",
+      "options": ["The book is on the table", "The book is in the table", "The book is at the table", "The book is by the table"],
+      "reponse": "The book is on the table",
+      "explication": "Préposition 'on' pour une surface."
+    },
+    {
+      "question": "Quelle phrase correspond à 'Il est grand et fort' ?",
+      "options": ["He is tall and strong", "He is tall and stronger", "He are tall and strong", "He is tall or strong"],
+      "reponse": "He is tall and strong",
+      "explication": "Adjectifs coordonnés avec 'and'."
+    },
+    {
+      "question": "Comment dire 'La voiture est rouge' ?",
+      "options": ["The car is red", "The car are red", "The car is reds", "The car is reddish"],
+      "reponse": "The car is red",
+      "explication": "Adjectif de couleur simple."
+    },
+    {
+      "question": "Quelle phrase signifie 'Le chien est sous la chaise' ?",
+      "options": ["The dog is under the chair", "The dog is on the chair", "The dog is in the chair", "The dog is at the chair"],
+      "reponse": "The dog is under the chair",
+      "explication": "Préposition 'under' pour sous."
+    },
+    {
+      "question": "Comment dire 'La porte est ouverte' ?",
+      "options": ["The door is open", "The door are open", "The door is opened", "The door is opening"],
+      "reponse": "The door is open",
+      "explication": "Adjectif 'open' et non participe passé."
+    },
+    {
+      "question": "Quelle phrase veut dire 'Il porte un chapeau bleu' ?",
+      "options": ["He wears a blue hat", "He wear a blue hat", "He wearing a blue hat", "He wore a blue hat"],
+      "reponse": "He wears a blue hat",
+      "explication": "Présent simple 3e personne 'wears'."
+    },
+    {
+      "question": "Comment dire 'Les fenêtres sont fermées' ?",
+      "options": ["The windows are closed", "The windows is closed", "The windows are closing", "The windows is close"],
+      "reponse": "The windows are closed",
+      "explication": "Pluriel avec 'are' + participe passé."
+    },
+    {
+      "question": "Quelle phrase signifie 'Le ciel est bleu aujourd’hui' ?",
+      "options": ["The sky is blue today", "The sky are blue today", "The sky is blue nowadays", "The sky is blued today"],
+      "reponse": "The sky is blue today",
+      "explication": "Adjectif couleur avec adverbe de temps."
+    },
+    {
+      "question": "Comment dire 'Je pense que c’est une bonne idée' ?",
+      "options": ["I think it is a good idea", "I think it are a good idea", "I thinks it is a good idea", "I think it is good idea"],
+      "reponse": "I think it is a good idea",
+      "explication": "Structure simple de l’opinion."
+    },
+    {
+      "question": "Quelle phrase veut dire 'Je suis d’accord avec toi' ?",
+      "options": ["I agree with you", "I agree you", "I agrees with you", "I agree on you"],
+      "reponse": "I agree with you",
+      "explication": "'Agree with' est la bonne expression."
+    },
+    {
+      "question": "Comment dire 'Je ne suis pas sûr' ?",
+      "options": ["I am not sure", "I am not sure of", "I am no sure", "I am not surely"],
+      "reponse": "I am not sure",
+      "explication": "Adjectif 'sure' avec négation."
+    },
+    {
+      "question": "Quelle phrase signifie 'Selon moi, c’est important' ?",
+      "options": ["In my opinion, it is important", "In my opinion, it are important", "In my opinion, it important", "On my opinion, it is important"],
+      "reponse": "In my opinion, it is important",
+      "explication": "Expression classique pour donner une opinion."
+    },
+    {
+      "question": "Comment dire 'Je préfère ce livre' ?",
+      "options": ["I prefer this book", "I prefers this book", "I prefer that book", "I preferred this book"],
+      "reponse": "I prefer this book",
+      "explication": "Verbe au présent simple sans 's' pour 'I'."
+    },
+    {
+      "question": "Quelle phrase correspond à 'Je n’aime pas ce film' ?",
+      "options": ["I don't like this movie", "I no like this movie", "I not like this movie", "I doesn't like this movie"],
+      "reponse": "I don't like this movie",
+      "explication": "Négation correcte avec 'do not'."
+    },
+    {
+      "question": "Comment dire 'C’est trop cher' ?",
+      "options": ["It is too expensive", "It is very expensive", "It too expensive", "It is so expensive"],
+      "reponse": "It is too expensive",
+      "explication": "L’adverbe 'too' signifie 'trop'."
+    },
+    {
+      "question": "Quelle phrase veut dire 'Je crois que c’est vrai' ?",
+      "options": ["I believe it is true", "I believe it are true", "I believes it is true", "I believe it is truth"],
+      "reponse": "I believe it is true",
+      "explication": "Verbe de croyance au présent simple."
+    },
+    {
+      "question": "Comment dire 'Je suis d’accord avec cette idée' ?",
+      "options": ["I agree with this idea", "I agree this idea", "I agrees with this idea", "I agree on this idea"],
+      "reponse": "I agree with this idea",
+      "explication": "Préposition 'with' obligatoire."
+    },
+    {
+      "question": "Quelle phrase signifie 'Je ne suis pas d’accord' ?",
+      "options": ["I disagree", "I don't agree", "I not agree", "I disagreed"],
+      "reponse": "I disagree",
+      "explication": "Le verbe 'disagree' exprime la négation."
+    },
+    {
+      "question": "Quel est le bon dialogue pour dire bonjour ?",
+      "options": ["Hello! How are you?", "Hi! Where are you?", "Hey! What you do?", "Hello! What is your name?"],
+      "reponse": "Hello! How are you?",
+      "explication": "Salutation courante suivie d’une question."
+    },
+    {
+      "question": "Comment demander le prix d’un objet au marché ?",
+      "options": ["How much is this?", "How many is this?", "How much are this?", "What price this?"],
+      "reponse": "How much is this?",
+      "explication": "Formule correcte pour demander un prix."
+    },
+    {
+      "question": "Quelle phrase correspond à 'Je voudrais un kilo de tomates' ?",
+      "options": ["I would like a kilo of tomatoes", "I want kilo tomatoes", "I like kilo of tomatoes", "I would want a kilo tomatoes"],
+      "reponse": "I would like a kilo of tomatoes",
+      "explication": "Formule polie pour demander."
+    },
+    {
+      "question": "Comment demander où se trouve la banque ?",
+      "options": ["Where is the bank?", "Where are the bank?", "What is the bank?", "Where be the bank?"],
+      "reponse": "Where is the bank?",
+      "explication": "Question correcte avec 'is' pour lieu singulier."
+    },
+    {
+      "question": "Quelle est la bonne réponse à 'How are you?' ?",
+      "options": ["I’m fine, thank you", "I am fine, thanks", "Fine thanks", "All are correct"],
+      "reponse": "All are correct",
+      "explication": "Plusieurs réponses possibles polies."
+    },
+    {
+      "question": "Comment dire 'Je suis perdu, pouvez-vous m’aider ?' ?",
+      "options": ["I am lost, can you help me?", "I lost, can you help me?", "I am lose, can you help me?", "I am lost, you help me?"],
+      "reponse": "I am lost, can you help me?",
+      "explication": "Expression correcte avec 'can'."
+    },
+    {
+      "question": "Quelle phrase veut dire 'Je cherche la gare' ?",
+      "options": ["I am looking for the station", "I look the station", "I am look for the station", "I look for station"],
+      "reponse": "I am looking for the station",
+      "explication": "Forme progressive utilisée."
+    },
+    {
+      "question": "Comment demander l’heure ?",
+      "options": ["What time is it?", "What is time?", "What the time?", "What time it is?"],
+      "reponse": "What time is it?",
+      "explication": "Formule correcte pour demander l’heure."
+    },
+    {
+      "question": "Quel est le temps utilisé dans : 'She goes to school every day' ?",
+      "options": ["Present simple", "Present continuous", "Past simple", "Future simple"],
+      "reponse": "Present simple",
+      "explication": "Le présent simple est utilisé pour parler d’habitudes ou de vérités générales."
+    },
+    {
+      "question": "Choisis la bonne conjugaison au présent simple :",
+      "options": ["He go to work", "He goes to work", "He going to work", "He gone to work"],
+      "reponse": "He goes to work",
+      "explication": "À la 3e personne, on ajoute -s au verbe au présent simple."
+    },
+    {
+      "question": "Quelle phrase est au present continuous ?",
+      "options": ["I am eating", "I eat", "I will eat", "I have eaten"],
+      "reponse": "I am eating",
+      "explication": "Le présent continu est formé avec 'am/is/are + verbe en -ing' pour une action en cours."
+    },
+    {
+      "question": "Quel temps est utilisé dans : 'They were playing football' ?",
+      "options": ["Past continuous", "Present continuous", "Past simple", "Present perfect"],
+      "reponse": "Past continuous",
+      "explication": "Le past continuous exprime une action en cours dans le passé."
+    },
+    {
+      "question": "Complète : 'Yesterday, he ___ a book.'",
+      "options": ["reads", "is reading", "read", "will read"],
+      "reponse": "read",
+      "explication": "Le passé simple est utilisé pour une action terminée dans le passé."
+    },
+    {
+      "question": "Quel temps exprime une action passée liée au présent ?",
+      "options": ["Present perfect", "Past simple", "Future simple", "Past continuous"],
+      "reponse": "Present perfect",
+      "explication": "Le present perfect (have/has + participe passé) relie passé et présent."
+    },
+    {
+      "question": "Quelle est la forme correcte du present perfect ?",
+      "options": ["She have visited", "She has visited", "She is visited", "She visit"],
+      "reponse": "She has visited",
+      "explication": "Avec 'she', on utilise 'has' au present perfect."
+    },
+    {
+      "question": "Quel temps est dans : 'They had eaten before we arrived' ?",
+      "options": ["Past perfect", "Present perfect", "Past continuous", "Future perfect"],
+      "reponse": "Past perfect",
+      "explication": "Le past perfect (had + participe passé) montre une action antérieure à une autre dans le passé."
+    },
+    {
+      "question": "Comment exprimer un futur certain ?",
+      "options": ["I am going to study", "I studied", "I have studied", "I was studying"],
+      "reponse": "I am going to study",
+      "explication": "'Going to' est utilisé pour un futur planifié ou certain."
+    },
+    {
+      "question": "Complète : 'Tomorrow, she ___ go to the market.'",
+      "options": ["will", "will be", "shall", "go"],
+      "reponse": "will",
+      "explication": "On utilise 'will' suivi de la base verbale pour exprimer le futur."
+    },
+    {
+      "question": "Quelle phrase est au future perfect ?",
+      "options": ["I will have finished", "I have finished", "I will finish", "I had finished"],
+      "reponse": "I will have finished",
+      "explication": "Le futur parfait (will have + participe passé) exprime une action accomplie dans le futur."
+    },
+    {
+      "question": "Complète : 'If I had money, I ___ travel.'",
+      "options": ["will", "would", "shall", "have"],
+      "reponse": "would",
+      "explication": "Le conditionnel est utilisé avec 'would + verbe' pour parler d’une hypothèse."
+    },
+    {
+      "question": "Transforme en négatif : 'She plays tennis.'",
+      "options": ["She doesn’t play tennis", "She not play tennis", "She no plays tennis", "She don't play tennis"],
+      "reponse": "She doesn’t play tennis",
+      "explication": "Au présent simple, on utilise 'doesn’t' + base verbale pour la négation à la 3e personne."
+    },
+    {
+      "question": "Quel temps exprime une action régulière dans le passé ?",
+      "options": ["Used to", "Present perfect", "Present simple", "Future perfect"],
+      "reponse": "Used to",
+      "explication": "'Used to' est utilisé pour parler d’une habitude passée qui n’existe plus."
+    },
+    {
+      "question": "Quelle phrase est correcte au présent simple ?",
+      "options": ["I do my homework", "I am do my homework", "I doing my homework", "I have do my homework"],
+      "reponse": "I do my homework",
+      "explication": "Au présent simple, on utilise la base verbale avec 'I'."
+    },
+    {
+      "question": "Quelle phrase est une question au présent continu ?",
+      "options": ["Are you coming?", "You coming?", "Do you coming?", "Will you coming?"],
+      "reponse": "Are you coming?",
+      "explication": "On utilise 'are' en début de question au présent continu."
+    },
+    {
+      "question": "Quel temps est dans : 'By 2026, she will have graduated.'",
+      "options": ["Future perfect", "Past perfect", "Present perfect", "Future simple"],
+      "reponse": "Future perfect",
+      "explication": "'Will have + participe passé' exprime une action terminée à un moment futur."
+    },
+    {
+      "question": "Comment dire 'J’étais en train de manger' ?",
+      "options": ["I was eating", "I am eating", "I have eaten", "I will eat"],
+      "reponse": "I was eating",
+      "explication": "Le past continuous exprime une action en cours dans le passé."
+    },
+    {
+      "question": "Complète : 'He ___ not seen this movie before.'",
+      "options": ["has", "have", "had", "will"],
+      "reponse": "has",
+      "explication": "'Has' est utilisé avec 'he' au present perfect."
+    },
+    {
+      "question": "Quelle phrase est correcte au conditionnel passé ?",
+      "options": ["I would have gone", "I will have gone", "I would went", "I go"],
+      "reponse": "I would have gone",
+      "explication": "Le conditionnel passé : 'would have + participe passé'."
+    },
+    {
+      "question": "Complète : 'She ___ studying when I called.'",
+      "options": ["was", "is", "has", "will"],
+      "reponse": "was",
+      "explication": "Le verbe 'be' au passé ('was') pour former le past continuous."
+    },
+    {
+      "question": "Quelle phrase est correcte pour le futur avec 'going to' ?",
+      "options": ["They are going to travel", "They going to travel", "They are go to travel", "They is going travel"],
+      "reponse": "They are going to travel",
+      "explication": "Forme correcte : 'are going to + verbe'."
+    },
+    {
+      "question": "Quel temps exprime une action passée juste avant une autre ?",
+      "options": ["Past perfect", "Past simple", "Present perfect", "Future perfect"],
+      "reponse": "Past perfect",
+      "explication": "'Had + participe passé' indique une action antérieure à une autre dans le passé."
+    },
+    {
+      "question": "Quelle phrase est correcte pour parler de l’avenir ?",
+      "options": ["He will start school next week", "He start school next week", "He started school next week", "He is start school next week"],
+      "reponse": "He will start school next week",
+      "explication": "Futur simple : 'will + verbe'."
+    },
+    {
+      "question": "Complète : 'She ___ been to London.'",
+      "options": ["has", "is", "was", "will"],
+      "reponse": "has",
+      "explication": "On utilise 'has' pour le present perfect avec 'she'."
+    },
+    {
+      "question": "Où placer l’adverbe dans : 'She ____ plays tennis.'",
+      "options": ["always", "plays always", "always plays", "plays tennis always"],
+      "reponse": "always",
+      "explication": "L’adverbe de fréquence comme 'always' se place avant le verbe principal."
+    },
+    {
+      "question": "Choisis la bonne phrase avec un adverbe de fréquence au présent :",
+      "options": ["He drinks usually coffee", "He usually drinks coffee", "He drinks coffee usually", "Usually he drinks coffee"],
+      "reponse": "He usually drinks coffee",
+      "explication": "L’adverbe de fréquence est placé entre le sujet et le verbe au présent simple."
+    },
+    {
+      "question": "Quelle phrase est correcte au passé avec un adverbe ?",
+      "options": ["She always went to school", "She went always to school", "She go always to school", "Always she went to school"],
+      "reponse": "She always went to school",
+      "explication": "Même au passé, l’adverbe de fréquence précède le verbe."
+    },
+    {
+      "question": "Complète : 'They ___ arrive late.'",
+      "options": ["often", "oftenly", "much", "frequently"],
+      "reponse": "often",
+      "explication": "'Often' est un adverbe de fréquence courant pour exprimer une habitude."
+    },
+    {
+      "question": "Quel adverbe convient au passé simple ?",
+      "options": ["yesterday", "now", "soon", "always"],
+      "reponse": "yesterday",
+      "explication": "'Yesterday' est typiquement utilisé avec le past simple pour exprimer une action terminée."
+    },
+    {
+      "question": "Où place-t-on 'never' dans : 'He ______ eats vegetables.'",
+      "options": ["never", "eats never", "never eats", "eats vegetables never"],
+      "reponse": "never",
+      "explication": "L’adverbe de fréquence se place juste avant le verbe principal."
+    },
+    {
+      "question": "Choisis l’adverbe adapté au futur simple : 'She will ___ come.'",
+      "options": ["certainly", "yesterday", "before", "ago"],
+      "reponse": "certainly",
+      "explication": "'Certainly' convient au futur pour exprimer une probabilité ou une certitude."
+    },
+    {
+      "question": "Dans la phrase : 'I have already eaten.' Quel est le temps utilisé ?",
+      "options": ["Present perfect", "Past perfect", "Past simple", "Present continuous"],
+      "reponse": "Present perfect",
+      "explication": "Le present perfect est utilisé avec 'already' pour indiquer qu’une action est terminée."
+    },
+    {
+      "question": "Complète : 'She is ___ sleeping.'",
+      "options": ["still", "yet", "already", "just"],
+      "reponse": "still",
+      "explication": "'Still' indique que l’action continue, et se place avant le verbe principal en be + -ing."
+    },
+    {
+      "question": "Quel adverbe est typique du present perfect ?",
+      "options": ["already", "always", "yesterday", "never"],
+      "reponse": "already",
+      "explication": "L’adverbe 'already' est souvent utilisé avec le present perfect pour indiquer qu’une action est terminée plus tôt que prévu."
+    },
+    {
+      "question": "Complète avec la bonne position : 'He has ___ finished his work.'",
+      "options": ["already", "finished already", "has already finished", "already has finished"],
+      "reponse": "has already finished",
+      "explication": "Avec les temps composés, l’adverbe se place entre l’auxiliaire et le verbe principal."
+    },
+    {
+      "question": "Quel adverbe marque clairement le past perfect ?",
+      "options": ["by the time", "now", "always", "yet"],
+      "reponse": "by the time",
+      "explication": "'By the time' introduit souvent une phrase au past perfect pour exprimer une action antérieure."
+    },
+    {
+      "question": "Quel est le bon ordre : 'I will ___ definitely go.'",
+      "options": ["definitely", "go definitely", "definitely go", "will go definitely"],
+      "reponse": "definitely",
+      "explication": "L’adverbe se place entre 'will' et le verbe principal."
+    },
+    {
+      "question": "Quel adverbe convient avec le présent continu ?",
+      "options": ["still", "ago", "yesterday", "already"],
+      "reponse": "still",
+      "explication": "'Still' montre qu’une action est toujours en cours."
+    },
+    {
+      "question": "Complète : 'They haven’t arrived ___.’",
+      "options": ["yet", "still", "ago", "already"],
+      "reponse": "yet",
+      "explication": "‘Yet’ est utilisé dans les phrases négatives avec le present perfect."
+    },
+    {
+      "question": "Complète la phrase : 'He ___ comes late.'",
+      "options": ["rarely", "rare", "seldom", "few"],
+      "reponse": "rarely",
+      "explication": "'Rarely' est un adverbe de fréquence exprimant la rareté."
+    },
+    {
+      "question": "Quel adverbe ne s’emploie pas avec le futur simple ?",
+      "options": ["ago", "soon", "later", "tomorrow"],
+      "reponse": "ago",
+      "explication": "'Ago' est utilisé exclusivement avec le passé."
+    },
+    {
+      "question": "Quel adverbe change le sens en fonction du placement ?",
+      "options": ["only", "never", "always", "often"],
+      "reponse": "only",
+      "explication": "‘Only’ peut modifier différents éléments de la phrase selon sa position (verbe, sujet, complément…)."
+    },
+    {
+      "question": "Complète : 'She was ___ talking when the bell rang.'",
+      "options": ["still", "yet", "already", "again"],
+      "reponse": "still",
+      "explication": "‘Still’ est utilisé pour indiquer que l’action était toujours en cours au moment d’un événement passé."
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "options": ["He never is late", "He is never late", "He late never is", "Never he is late"],
+      "reponse": "He is never late",
+      "explication": "Avec le verbe 'to be', l’adverbe vient après le verbe."
+    },
+    {
+      "question": "Complète : 'I had ___ seen that movie before.'",
+      "options": ["never", "already", "yet", "still"],
+      "reponse": "never",
+      "explication": "‘Never’ est bien utilisé avec le past perfect ici pour une action jamais réalisée."
+    },
+    {
+      "question": "Complète : 'He ___ goes to the gym.'",
+      "options": ["often", "many", "more", "most"],
+      "reponse": "often",
+      "explication": "'Often' est un adverbe de fréquence ; les autres mots ne conviennent pas dans ce contexte."
+    },
+    {
+      "question": "Quel adverbe exprime la régularité dans le futur ?",
+      "options": ["regularly", "yesterday", "before", "ago"],
+      "reponse": "regularly",
+      "explication": "‘Regularly’ signifie ‘régulièrement’ et peut être utilisé pour parler d’habitudes futures."
+    },
+    {
+      "question": "Complète : 'She can ___ sing very well.'",
+      "options": ["really", "real", "realy", "most"],
+      "reponse": "really",
+      "explication": "'Really' est un adverbe qui modifie ici 'sing' pour indiquer l’intensité."
+    },
+    {
+      "question": "Quel adverbe exprime l’action immédiate ?",
+      "options": ["just", "now", "again", "still"],
+      "reponse": "just",
+      "explication": "'Just' est souvent utilisé avec le present perfect pour une action très récente."
+    },
+    {
+      "question": "Complète : 'I have lived here ___ 2015.'",
+      "options": ["since", "for", "ago", "already"],
+      "reponse": "since",
+      "explication": "'Since' s’utilise avec un point de départ précis (ex : since 2015)."
+    },
+    {
+      "question": "Complète : 'She has been working ___ three hours.'",
+      "options": ["for", "since", "ago", "yet"],
+      "reponse": "for",
+      "explication": "'For' s’utilise avec une durée (ex : for 3 hours = depuis 3 heures)."
+    },
+    {
+      "question": "Complète : 'I saw him two days ___.'",
+      "options": ["ago", "since", "for", "already"],
+      "reponse": "ago",
+      "explication": "'Ago' indique combien de temps s’est écoulé depuis un événement passé."
+    },
+    {
+      "question": "Complète : 'He has ___ finished his homework.'",
+      "options": ["already", "yet", "just", "still"],
+      "reponse": "already",
+      "explication": "'Already' indique qu’une action est terminée, souvent plus tôt que prévu."
+    },
+    {
+      "question": "Complète : 'I haven’t eaten ___.’",
+      "options": ["yet", "still", "already", "just"],
+      "reponse": "yet",
+      "explication": "'Yet' est utilisé dans les phrases négatives ou interrogatives avec le present perfect."
+    },
+    {
+      "question": "Complète : 'He is ___ waiting for you.'",
+      "options": ["still", "already", "just", "since"],
+      "reponse": "still",
+      "explication": "'Still' exprime que l’action est toujours en cours."
+    },
+    {
+      "question": "Complète : 'I have ___ seen him at the shop.'",
+      "options": ["just", "since", "still", "for"],
+      "reponse": "just",
+      "explication": "'Just' est utilisé avec le present perfect pour une action très récente."
+    },
+    {
+      "question": "Complète : 'They have lived in Paris ___ 10 years.'",
+      "options": ["for", "since", "ago", "yet"],
+      "reponse": "for",
+      "explication": "'For' introduit une durée (ex : for 10 years = pendant/durant 10 ans)."
+    },
+    {
+      "question": "Complète : 'We have been friends ___ childhood.'",
+      "options": ["since", "for", "already", "just"],
+      "reponse": "since",
+      "explication": "'Since' s’utilise avec un moment précis (ex : since childhood = depuis l’enfance)."
+    },
+    {
+      "question": "Quel mot exprime une action qui n’est toujours pas faite ?",
+      "options": ["yet", "already", "just", "for"],
+      "reponse": "yet",
+      "explication": "'Yet' s’utilise pour dire qu’une action attend toujours d’être réalisée."
+    },
+    {
+      "question": "Complète : 'My house is ___ than yours.'",
+      "options": ["bigger", "biggest", "more big", "most big"],
+      "reponse": "bigger",
+      "explication": "On ajoute '-er' aux adjectifs courts pour former le comparatif (big → bigger)."
+    },
+    {
+      "question": "Complète : 'This book is ___ than the other one.'",
+      "options": ["more interesting", "interester", "interestinger", "most interesting"],
+      "reponse": "more interesting",
+      "explication": "Pour les adjectifs longs, on utilise 'more + adjectif'."
+    },
+    {
+      "question": "Complète : 'It’s the ___ day of my life.'",
+      "options": ["best", "better", "good", "more good"],
+      "reponse": "best",
+      "explication": "'Best' est le superlatif irrégulier de 'good'."
+    },
+    {
+      "question": "Complète : 'She is ___ than her sister.'",
+      "options": ["taller", "tallest", "more tall", "most tall"],
+      "reponse": "taller",
+      "explication": "'Tall' est un adjectif court, on utilise '-er' au comparatif."
+    },
+    {
+      "question": "Complète : 'This is the ___ building in the city.'",
+      "options": ["tallest", "taller", "more tall", "most taller"],
+      "reponse": "tallest",
+      "explication": "Le superlatif des adjectifs courts se forme avec 'the + adjectif + est'."
+    },
+    {
+      "question": "Complète : 'She speaks ___ than me.'",
+      "options": ["more fluently", "fluenter", "most fluent", "fluentlier"],
+      "reponse": "more fluently",
+      "explication": "Les adverbes en -ly utilisent 'more' pour le comparatif."
+    },
+    {
+      "question": "Complète : 'He runs ___ than John.'",
+      "options": ["faster", "fastly", "fastest", "most fast"],
+      "reponse": "faster",
+      "explication": "'Fast' est un adverbe régulier : fast → faster → fastest."
+    },
+    {
+      "question": "Complète : 'She is the ___ student in the class.'",
+      "options": ["most intelligent", "more intelligent", "intelligenter", "intelligentest"],
+      "reponse": "most intelligent",
+      "explication": "Adjectifs longs → superlatif : the most + adjectif."
+    },
+    {
+      "question": "Complète : 'Your explanation is ___ than mine.'",
+      "options": ["clearer", "more clear", "clearest", "most clear"],
+      "reponse": "clearer",
+      "explication": "‘Clear’ est un adjectif court à deux syllabes pouvant prendre -er."
+    },
+    {
+      "question": "Complète : 'This test is ___ than the last one.'",
+      "options": ["easier", "more easy", "easyer", "most easy"],
+      "reponse": "easier",
+      "explication": "‘Easy’ suit la règle du 'y' → 'ier' pour former le comparatif (easy → easier)."
     }
   ]
 }
