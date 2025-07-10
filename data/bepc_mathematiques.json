@@ -1,178 +1,244 @@
 {
   "qcm": [
     {
-      "question": "Quelle est la forme développée de (a + b)^2 ?",
-      "options": ["a^2 + b^2", "a^2 + 2ab + b^2", "a^2 - 2ab + b^2", "2a^2 + 2b^2"],
-      "reponse": "a^2 + 2ab + b^2",
-      "explication": "(a + b)^2 = a^2 + 2ab + b^2 est une identité remarquable."
+      "question": "Quel ensemble de nombres est représenté par ℕ ?",
+      "options": ["Les entiers naturels", "Les entiers relatifs", "Les rationnels", "Les réels"],
+      "reponse": "Les entiers naturels",
+      "explication": "ℕ représente les entiers naturels : 0, 1, 2, 3…"
     },
     {
-      "question": "Quelle est la forme développée de (a - b)^2 ?",
-      "options": ["a^2 + b^2", "a^2 + 2ab + b^2", "a^2 - 2ab + b^2", "a^2 - b^2"],
-      "reponse": "a^2 - 2ab + b^2",
-      "explication": "(a - b)^2 = a^2 - 2ab + b^2."
+      "question": "Quel ensemble contient les nombres négatifs entiers ?",
+      "options": ["ℕ", "ℝ", "ℤ", "ℚ"],
+      "reponse": "ℤ",
+      "explication": "ℤ contient tous les entiers : positifs, négatifs et zéro."
     },
     {
-      "question": "Quelle est la formule de (a + b)(a - b) ?",
-      "options": ["a^2 - b^2", "a^2 + b^2", "a^2 - 2ab", "a^2 + 2ab"],
-      "reponse": "a^2 - b^2",
-      "explication": "C'est l'identité remarquable appelée différence de carrés."
+      "question": "Le nombre 3,75 appartient à quel ensemble ?",
+      "options": ["ℕ", "ℤ", "ℚ", "ℕ*"],
+      "reponse": "ℚ",
+      "explication": "3,75 est un nombre décimal, donc un nombre rationnel (ℚ)."
     },
     {
-      "question": "Développe : (x + 3)^2",
-      "options": ["x^2 + 6x + 9", "x^2 + 9", "x^2 + 3x + 3", "x^2 + 2x + 9"],
-      "reponse": "x^2 + 6x + 9",
-      "explication": "Formule : (a + b)^2 = a^2 + 2ab + b^2 → x^2 + 6x + 9."
+      "question": "Quel ensemble regroupe tous les nombres qui peuvent être écrits sous forme de fractions ?",
+      "options": ["ℤ", "ℝ", "ℚ", "ℕ"],
+      "reponse": "ℚ",
+      "explication": "ℚ est l’ensemble des nombres rationnels, qui peuvent s’écrire a/b."
     },
     {
-      "question": "Développe : (2x - 5)^2",
-      "options": ["4x^2 - 20x + 25", "4x^2 - 10x + 5", "4x^2 + 20x + 25", "4x^2 - 10x + 25"],
-      "reponse": "4x^2 - 20x + 25",
-      "explication": "Formule : (a - b)^2 = a^2 - 2ab + b^2."
+      "question": "√2 appartient à quel ensemble ?",
+      "options": ["ℚ", "ℤ", "ℝ", "ℕ"],
+      "reponse": "ℝ",
+      "explication": "√2 est un nombre irrationnel, donc il appartient à ℝ mais pas à ℚ."
     },
     {
-      "question": "Factorise : x^2 - 9",
-      "options": ["(x + 3)(x - 3)", "(x - 9)(x + 1)", "(x + 9)(x - 1)", "(x + 2)(x - 2)"],
-      "reponse": "(x + 3)(x - 3)",
-      "explication": "x^2 - 9 = x^2 - 3^2 → différence de carrés."
+      "question": "Quel ensemble comprend les nombres comme -3 et +4 ?",
+      "options": ["ℕ", "ℚ", "ℤ", "ℝ"],
+      "reponse": "ℤ",
+      "explication": "-3 et +4 sont des entiers relatifs, donc dans ℤ."
     },
     {
-      "question": "Développe : (x + 1)(x - 1)",
-      "options": ["x^2 - 1", "x^2 + 1", "x^2 - 2x + 1", "x^2 + 2x + 1"],
-      "reponse": "x^2 - 1",
-      "explication": "Formule : (a + b)(a - b) = a^2 - b^2."
+      "question": "Le nombre 0 appartient à quel(s) ensemble(s) ?",
+      "options": ["ℕ uniquement", "ℤ uniquement", "ℕ et ℤ", "Aucun"],
+      "reponse": "ℕ et ℤ",
+      "explication": "0 est un entier naturel et aussi un entier relatif."
     },
     {
-      "question": "Quelle est la formule du carré d’une somme ?",
-      "options": ["a^2 + b^2", "a^2 + 2ab + b^2", "a^2 - 2ab + b^2", "a^2 + ab + b^2"],
-      "reponse": "a^2 + 2ab + b^2",
-      "explication": "(a + b)^2 = a^2 + 2ab + b^2."
+      "question": "Quel ensemble contient tous les nombres possibles, y compris irrationnels ?",
+      "options": ["ℕ", "ℤ", "ℚ", "ℝ"],
+      "reponse": "ℝ",
+      "explication": "ℝ contient tous les réels : entiers, décimaux, rationnels et irrationnels."
     },
     {
-      "question": "Factorise : 4x^2 - 25",
-      "options": ["(2x - 5)(2x + 5)", "(4x - 5)(x + 5)", "(x - 5)(x + 5)", "(2x - 25)(2x + 1)"],
-      "reponse": "(2x - 5)(2x + 5)",
-      "explication": "4x^2 - 25 = (2x)^2 - 5^2 → différence de carrés."
+      "question": "Quel symbole représente l’ensemble des nombres rationnels ?",
+      "options": ["ℤ", "ℚ", "ℝ", "ℕ"],
+      "reponse": "ℚ",
+      "explication": "ℚ (de ‘quotient’) désigne les rationnels."
     },
     {
-      "question": "Quelle est la formule du carré d’une différence ?",
-      "options": ["a^2 + 2ab + b^2", "a^2 - 2ab + b^2", "a^2 + b^2", "a^2 - ab + b^2"],
-      "reponse": "a^2 - 2ab + b^2",
-      "explication": "(a - b)^2 = a^2 - 2ab + b^2."
+      "question": "Quel ensemble est le plus grand parmi ceux-ci ?",
+      "options": ["ℕ", "ℤ", "ℚ", "ℝ"],
+      "reponse": "ℝ",
+      "explication": "ℝ est l’ensemble le plus vaste : ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ."
     },
     {
-      "question": "Quelle est la formule pour a^n × a^m ?",
-      "options": ["a^(n+m)", "a^n - a^m", "a^n*m", "a^(n-m)"],
-      "reponse": "a^(n+m)",
-      "explication": "Même base → on additionne les exposants."
+      "question": "Quel est le résultat de (-3) + (+5) ?",
+      "options": ["-8", "+2", "-2", "+8"],
+      "reponse": "+2",
+      "explication": "On soustrait 5 - 3 = 2, et on garde le signe du plus grand, donc +2."
     },
     {
-      "question": "Quelle est la formule pour a^n ÷ a^m (a ≠ 0) ?",
-      "options": ["a^(n+m)", "a^(n-m)", "a^n*m", "a^(m-n)"],
-      "reponse": "a^(n-m)",
-      "explication": "Même base → on soustrait les exposants."
+      "question": "Combien vaut (-4) - (-6) ?",
+      "options": ["+2", "-2", "-10", "+10"],
+      "reponse": "+2",
+      "explication": "Soustraire un nombre négatif revient à l’ajouter : -4 - (-6) = -4 + 6 = +2."
     },
     {
-      "question": "Quelle est la formule pour (a^m)^n ?",
-      "options": ["a^(m+n)", "a^(m-n)", "a^(m*n)", "a^(n+m)"],
-      "reponse": "a^(m*n)",
-      "explication": "(a^m)^n = a puissance (m × n)."
+      "question": "Résultat de (-3) × (-7) ?",
+      "options": ["-21", "+21", "+10", "-10"],
+      "reponse": "+21",
+      "explication": "Le produit de deux négatifs est toujours positif."
     },
     {
-      "question": "Quelle est la formule de base de l’équation ax + b = 0 ?",
-      "options": ["x = b/a", "x = a - b", "x = -b/a", "x = -a/b"],
-      "reponse": "x = -b/a",
-      "explication": "On isole x : ax = -b donc x = -b/a."
+      "question": "Quelle est l'écriture simplifiée de 5/10 ?",
+      "options": ["2/5", "1/2", "3/5", "1/5"],
+      "reponse": "1/2",
+      "explication": "PGCD de 5 et 10 = 5. Donc 5/10 = 1/2."
     },
     {
-      "question": "Développe : (3x + 2)(3x - 2)",
-      "options": ["9x^2 - 4", "9x^2 + 4", "6x^2 - 4x + 4", "3x^2 - 4"],
-      "reponse": "9x^2 - 4",
-      "explication": "Identité remarquable : a^2 - b^2."
+      "question": "Quelle est la valeur de 3² ?",
+      "options": ["6", "9", "12", "8"],
+      "reponse": "9",
+      "explication": "3² = 3 × 3 = 9."
     },
     {
-      "question": "Développe : (x - 4)^2",
-      "options": ["x^2 - 8x + 16", "x^2 + 8x + 16", "x^2 - 4", "x^2 + 16"],
-      "reponse": "x^2 - 8x + 16",
-      "explication": "(a - b)^2 = a^2 - 2ab + b^2."
+      "question": "Quel est le résultat de 2 × (-5) ?",
+      "options": ["+10", "-10", "-3", "+3"],
+      "reponse": "-10",
+      "explication": "Positif × Négatif = Négatif."
     },
     {
-      "question": "Quelle est la forme factorisée de x^2 + 2x + 1 ?",
-      "options": ["(x + 1)^2", "(x - 1)^2", "(x + 1)(x - 1)", "(x + 2)(x + 1)"],
-      "reponse": "(x + 1)^2",
-      "explication": "C’est le carré parfait : (x + 1)^2."
+      "question": "Combien vaut (-15) ÷ (+3) ?",
+      "options": ["+5", "-5", "-3", "+3"],
+      "reponse": "-5",
+      "explication": "Un négatif divisé par un positif donne un résultat négatif."
     },
     {
-      "question": "Quelle est la forme factorisée de x^2 - 2x + 1 ?",
-      "options": ["(x - 1)^2", "(x + 1)^2", "(x - 2)(x + 2)", "(x - 1)(x + 1)"],
-      "reponse": "(x - 1)^2",
-      "explication": "C’est le carré parfait : (x - 1)^2."
+      "question": "Simplifie la fraction 18/24.",
+      "options": ["3/4", "2/3", "4/5", "5/6"],
+      "reponse": "3/4",
+      "explication": "PGCD(18,24)=6 donc 18/24 = 3/4."
     },
     {
-      "question": "Factorise : x^2 - 4x + 4",
-      "options": ["(x - 2)^2", "(x + 2)^2", "(x - 4)(x + 1)", "(x + 2)(x - 2)"],
-      "reponse": "(x - 2)^2",
-      "explication": "x^2 - 4x + 4 = (x - 2)^2."
+      "question": "Quel est le carré de 4 ?",
+      "options": ["8", "12", "16", "14"],
+      "reponse": "16",
+      "explication": "4² = 4 × 4 = 16."
     },
     {
-      "question": "Formule du produit de deux binômes conjugués :",
-      "options": ["a^2 - b^2", "a^2 + 2ab + b^2", "a^2 - 2ab + b^2", "(a + b)^2"],
-      "reponse": "a^2 - b^2",
-      "explication": "(a + b)(a - b) = a^2 - b^2."
+      "question": "Quel est le cube de 2 ?",
+      "options": ["6", "8", "4", "10"],
+      "reponse": "8",
+      "explication": "2³ = 2 × 2 × 2 = 8."
     },
     {
-      "question": "Formule de développement de (a + b)^3",
-      "options": ["a^3 + 3a^2b + 3ab^2 + b^3", "a^2 + 2ab + b^2", "a^3 + b^3", "(a + b)(a^2 - ab + b^2)"],
-      "reponse": "a^3 + 3a^2b + 3ab^2 + b^3",
-      "explication": "C'est le cube d'une somme."
+      "question": "Simplifie 36/48.",
+      "options": ["3/4", "2/3", "5/6", "4/5"],
+      "reponse": "3/4",
+      "explication": "PGCD(36,48)=12 donc 36/48 = 3/4."
     },
     {
-      "question": "Comment factorise-t-on : ab + ac",
-      "options": ["a(b + c)", "b(a + c)", "a + b + c", "ac(b + 1)"],
-      "reponse": "a(b + c)",
-      "explication": "On met a en facteur commun."
+      "question": "Quel est le signe de (-6) + (-2) ?",
+      "options": ["Positif", "Négatif", "Zéro", "Indéfini"],
+      "reponse": "Négatif",
+      "explication": "Somme de deux négatifs reste négative."
     },
     {
-      "question": "Développe : (x + 5)^2",
-      "options": ["x^2 + 10x + 25", "x^2 + 25", "x^2 + 5x + 25", "x^2 + 10x + 5"],
-      "reponse": "x^2 + 10x + 25",
-      "explication": "Formule : (a + b)^2 = a^2 + 2ab + b^2."
+      "question": "Que vaut 10⁰ ?",
+      "options": ["0", "10", "1", "10⁰"],
+      "reponse": "1",
+      "explication": "Tout nombre élevé à la puissance 0 vaut 1."
     },
     {
-      "question": "Développe : (2x + 3)^2",
-      "options": ["4x^2 + 12x + 9", "4x^2 + 6x + 9", "2x^2 + 6x + 9", "4x^2 + 6x + 3"],
-      "reponse": "4x^2 + 12x + 9",
-      "explication": "a^2 + 2ab + b^2 avec a = 2x, b = 3."
+      "question": "Résultat de (-12) ÷ (-3) ?",
+      "options": ["-4", "+4", "+3", "-3"],
+      "reponse": "+4",
+      "explication": "Négatif ÷ Négatif = Positif."
     },
     {
-      "question": "Factorise : x^2 - 36",
-      "options": ["(x - 6)(x + 6)", "(x - 9)(x + 4)", "(x - 3)(x + 12)", "(x - 18)(x + 2)"],
-      "reponse": "(x - 6)(x + 6)",
-      "explication": "Différence de carrés : x^2 - 6^2."
+      "question": "Simplifie 14/49.",
+      "options": ["2/7", "1/4", "3/5", "4/7"],
+      "reponse": "2/7",
+      "explication": "PGCD(14,49)=7 donc 14/49 = 2/7."
     },
     {
-      "question": "Résous : 5x + 10 = 0",
-      "options": ["x = -2", "x = 2", "x = -10", "x = 10"],
-      "reponse": "x = -2",
-      "explication": "5x = -10 donc x = -10/5 = -2."
+      "question": "Quel est le résultat de (-5) + (-5) ?",
+      "options": ["0", "-10", "+10", "-5"],
+      "reponse": "-10",
+      "explication": "Somme de deux négatifs : -5 + -5 = -10."
     },
     {
-      "question": "Formule d’une fonction affine :",
-      "options": ["f(x) = ax + b", "f(x) = a + bx", "f(x) = x^2 + b", "f(x) = ab + x"],
-      "reponse": "f(x) = ax + b",
-      "explication": "C’est la forme générale d’une fonction affine."
+      "question": "Quelle est la valeur de 2⁴ ?",
+      "options": ["8", "10", "12", "16"],
+      "reponse": "16",
+      "explication": "2⁴ = 2 × 2 × 2 × 2 = 16."
     },
     {
-      "question": "Formule de développement de (a - b)^3",
-      "options": ["a^3 - 3a^2b + 3ab^2 - b^3", "a^3 - b^3", "a^2 - b^2", "a^3 - ab^2"],
-      "reponse": "a^3 - 3a^2b + 3ab^2 - b^3",
-      "explication": "Cube d'une différence."
+      "question": "Combien vaut (-18) ÷ 6 ?",
+      "options": ["-3", "-6", "+3", "+6"],
+      "reponse": "-3",
+      "explication": "Un négatif divisé par un positif = négatif."
     },
     {
-      "question": "Factorise : a^2 - 6a + 9",
-      "options": ["(a - 3)^2", "(a + 3)^2", "(a - 9)(a + 1)", "(a + 6)(a - 3)"],
-      "reponse": "(a - 3)^2",
-      "explication": "C’est un carré parfait : (a - 3)^2."
+      "question": "Résultat de 0 × (-12) ?",
+      "options": ["12", "0", "-12", "Indéfini"],
+      "reponse": "0",
+      "explication": "Tout nombre multiplié par 0 donne 0."
+    },
+    {
+      "question": "Simplifie la fraction 15/20.",
+      "options": ["3/4", "1/2", "4/5", "2/3"],
+      "reponse": "3/4",
+      "explication": "PGCD(15,20)=5 donc 15/20 = 3/4."
+    },
+    {
+      "question": "Quelle est la valeur absolue de -8 ?",
+      "options": ["+8", "-8", "0", "Impossible"],
+      "reponse": "+8",
+      "explication": "La valeur absolue ignore le signe, donc |−8| = 8."
+    },
+    {
+      "question": "Quel est le contraire de -12 ?",
+      "options": ["12", "-12", "0", "+24"],
+      "reponse": "12",
+      "explication": "Le contraire de -12 est +12."
+    },
+    {
+      "question": "Quelle est la valeur de 5³ ?",
+      "options": ["25", "15", "125", "100"],
+      "reponse": "125",
+      "explication": "5³ = 5 × 5 × 5 = 125."
+    },
+    {
+      "question": "Quel est le signe de (+8) - (+10) ?",
+      "options": ["Négatif", "Positif", "Zéro", "Impossible"],
+      "reponse": "Négatif",
+      "explication": "+8 - 10 = -2 donc résultat négatif."
+    },
+    {
+      "question": "Simplifie 42/56.",
+      "options": ["3/4", "2/3", "5/6", "6/7"],
+      "reponse": "3/4",
+      "explication": "PGCD(42,56)=14 donc 42/56 = 3/4."
+    },
+    {
+      "question": "Combien vaut 9² ?",
+      "options": ["18", "81", "72", "36"],
+      "reponse": "81",
+      "explication": "9 × 9 = 81."
+    },
+    {
+      "question": "Quel est le résultat de -7 + 0 ?",
+      "options": ["-7", "0", "7", "-1"],
+      "reponse": "-7",
+      "explication": "Ajouter 0 ne change rien à la valeur."
+    },
+    {
+      "question": "Combien vaut 100 ÷ (-10) ?",
+      "options": ["+10", "-10", "0", "-100"],
+      "reponse": "-10",
+      "explication": "100 ÷ (-10) = -10."
+    },
+    {
+      "question": "Quel est le carré de -6 ?",
+      "options": ["-36", "36", "-12", "6"],
+      "reponse": "36",
+      "explication": "(-6)² = -6 × -6 = 36."
+    },
+    {
+      "question": "Que vaut 4⁰ ?",
+      "options": ["4", "1", "0", "Erreur"],
+      "reponse": "1",
+      "explication": "Tout nombre non nul à la puissance 0 donne 1."
     }
   ]
 }
