@@ -19,6 +19,8 @@ from telegram.error import Forbidden
 DATA_DIR = "data"
 user_states = {}
 user_progress = {}
+user_scores = {}
+
 ADMIN_USER_ID = 6227031560
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
@@ -103,7 +105,27 @@ async def repondre(update: Update, message: str, clavier=None):
     log_message(update.effective_user.id, f"Bot: {message}")
     await update.message.reply_text(message, reply_markup=clavier)
 
-messages = charger_json("messages.json")
+def save_user_scores():
+    chemin = "user_scores.json"
+    with open(chemin, "w", encoding="utf-8") as f:
+        json.dump(user_scores, f, ensure_ascii=False, indent=2)
+
+if os.path.exists("user_scores.json"):
+    with open("user_scores.json", "r", encoding="utf-8") as f:
+        user_scores = json.load(f)
+
+# ➕ Commande /profil
+async def profil(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = update.effective_user.id
+    if user_id in user_scores:
+        nom = user_scores[user_id].get("nom", update.effective_user.first_name)
+        total = user_scores[user_id]["actuel"].get("total", 0)
+        correct = user_scores[user_id]["actuel"].get("correct", 0)
+        msg = f"👤 Profil de {nom}\n\n📊 Questions répondues : {total}\n✅ Bonnes réponses : {correct}"
+    else:
+        msg = "Aucune donnée enregistrée pour vous."
+    await repondre(update, msg)
+gmessages = charger_json("messages.json")
 intros = charger_json("intro.json")
 claviers = charger_json("claviers.json")
 
@@ -309,21 +331,12 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await repondre(update, messages["non_compris"])
 
-def save_user_scores():
-    chemin = "user_scores.json"
-    with open(chemin, "w", encoding="utf-8") as f:
-        json.dump(user_scores, f, ensure_ascii=False, indent=2)
-
-user_scores = {}
-if os.path.exists("user_scores.json"):
-    with open("user_scores.json", "r", encoding="utf-8") as f:
-        user_scores = json.load(f)
-
 def lancer_bot():
     app = ApplicationBuilder().token(BOT_TOKEN).build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("broadcast", broadcast))
     app.add_handler(CommandHandler("listusers", listusers))
+    app.add_handler(CommandHandler("profil", profil))  # <-- Ajout ici !
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
     app.run_polling()
 
