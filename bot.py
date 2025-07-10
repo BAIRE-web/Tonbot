@@ -444,8 +444,55 @@ async def historique(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await update.message.reply_text(msg)
 
+# --- Voir son propre score ---
+async def profil_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user = update.effective_user
+    uid = user.id
+    if uid not in user_scores:
+        await repondre(update, "Aucun score enregistré pour vous.")
+        return
+
+    score = user_scores[uid]["actuel"]
+    total = score["total"]
+    correct = score["correct"]
+    pourcentage = (correct / total * 100) if total > 0 else 0
+
+    msg = f"📊 *Votre score actuel :*\n\n"
+    msg += f"✔️ Correctes : {correct}\n❌ Total : {total}\n"
+    msg += f"🎯 Précision : {pourcentage:.1f}%"
+    await update.message.reply_text(msg, parse_mode="Markdown")
+
+
+# --- Voir les scores des autres utilisateurs (admin uniquement) ---
+async def scores_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    if update.effective_user.id != ADMIN_USER_ID:
+        await repondre(update, "❌ Vous n'avez pas l'autorisation.")
+        return
+
+    if not user_scores:
+        await repondre(update, "Aucun score n'a encore été enregistré.")
+        return
+
+    msg = "📈 *Scores des utilisateurs :*\n\n"
+    count = 0
+    for uid, data in user_scores.items():
+        score = data.get("actuel", {})
+        correct = score.get("correct", 0)
+        total = score.get("total", 0)
+        if total == 0:
+            continue
+        pourcentage = correct / total * 100
+        nom = data.get("nom", f"ID:{uid}")
+        msg += f"{nom} → {correct}/{total} ({pourcentage:.1f}%)\n"
+        count += 1
+        if count >= 30:  # limite d'affichage
+            break
+
+    await update.message.reply_text(msg, parse_mode="Markdown")
+
 def lancer_bot():
     app = ApplicationBuilder().token(BOT_TOKEN).build()
+
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("broadcast", broadcast))
     app.add_handler(CommandHandler("listusers", listusers))
@@ -453,8 +500,14 @@ def lancer_bot():
     app.add_handler(CommandHandler("listeavis", listeavis))
     app.add_handler(CommandHandler("reset_score", reset_score))
     app.add_handler(CommandHandler("historique", historique))
+
+    # Ajout des commandes profil et scores
+    app.add_handler(CommandHandler("profil", profil_command))
+    app.add_handler(CommandHandler("scores", scores_command))
+
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
     app.run_polling()
+
 
 if __name__ == "__main__":
     if not os.path.exists("logs"):
