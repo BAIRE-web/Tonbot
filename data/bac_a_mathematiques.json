@@ -29,6 +29,36 @@
       "options": ["Éléphant", "Lion", "Girafe", "Chameau"],
       "reponse": "Éléphant",
       "explication": "L'éléphant est un symbole important dans la culture burkinabè."
+    },
+    {
+      "question": "Quel est le carré de 6 ?",
+      "options": ["12", "36", "18", "30"],
+      "reponse": "36",
+      "explication": "6² = 6 × 6 = 36."
+    },
+    {
+      "question": "Quelle est la valeur approximative de √49 ?",
+      "options": ["6", "7", "8", "9"],
+      "reponse": "7",
+      "explication": "La racine carrée de 49 est 7, car 7 × 7 = 49."
+    },
+    {
+      "question": "Résous : 3² + 4² = ?",
+      "options": ["12", "25", "21", "9"],
+      "reponse": "25",
+      "explication": "3² = 9 et 4² = 16, donc 9 + 16 = 25."
+    },
+    {
+      "question": "Quelle formule donne l’aire d’un cercle ?",
+      "options": ["2πr", "πr²", "πd", "r²"],
+      "reponse": "πr²",
+      "explication": "L’aire d’un cercle est donnée par la formule A = πr², avec r le rayon."
+    },
+    {
+      "question": "Quelle est la valeur de 2³ ?",
+      "options": ["6", "8", "4", "9"],
+      "reponse": "8",
+      "explication": "2³ signifie 2 × 2 × 2 = 8."
     }
   ]
 }

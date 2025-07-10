@@ -2,11 +2,11 @@
   "bienvenue": "‎✨ Mes salutations {nom} !\nBienvenue sur notre bot éducatif. Chaque option vous conduit à une suite personnalisée.\n↩️ Pour revenir au menu principal ou quitter une formation, utilise le bouton « Retour ».\n\nChoisis une option :",
   "retour": "🎉 Bon retour, Mes salutations !\n⚡ Prêt(e) pour une nouvelle expérience ? \n\nChoisis une option :",
   "choix": "Choisis une option pour continuer :",
-  "quitter": "🙏 Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.\n🔔 N’hésite pas à revenir quand tu veux.\n🍀 Bonne continuation, {nom} !",
+  "quitter": "🙏 Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.\n🔔 N’hésitez pas à revenir quand vous voulez.\n🍀 Bonne continuation, {nom} !",
   "non_admin": "Fonction non reconnue, merci de faire un choix valide.",
   "qcm_introuvable": "⚠️ Aucun QCM trouvé. Merci de renouveler votre choix.",
   "choix_invalide": "❌ Choix invalide, veuillez réessayer.",
-  "technique_indisponible": "🔧 L’option Technique est bientôt disponible...",
+  "technique_indisponible": "🔧La section dédiée aux filières techniques est actuellement en cours de développement. Vous recevrez une notification dès qu'elle sera pleinement disponible.\nEn attendant, certaines matières étant similaires à celles de l’enseignement général, vous avez la possibilité de consulter les niveaux équivalents pour poursuivre votre apprentissage.\nRendez-vous dans la section Espace pour integrer nos groupes et canaux pour continuer votre apprentissage.\nEn attendant, certaines matières étant similaires à celles de l’enseignement général, vous avez la possibilité de consulter les niveaux équivalents pour poursuivre votre apprentissage.\nBienvenue à tous, et excellente aventure sur notre plateforme éducative.😊",
   "non_compris": "Option non reconnue. Tape /start pour recommencer.",
   "reponses_bonnes": [
     "🎉 Félicitations 🙂 c'est la bonne réponse !",
