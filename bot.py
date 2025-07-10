@@ -444,6 +444,27 @@ async def historique(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await update.message.reply_text(msg)
 
+# --- Commande /supprimer_score : l'utilisateur supprime ses propres scores ---
+async def supprimer_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = update.effective_user.id
+    nom = update.effective_user.first_name or "Utilisateur"
+
+    if str(user_id) in user_scores:
+        # Sauvegarder dans un log personnel avant suppression
+        historique_avant = user_scores[str(user_id)].copy()
+        chemin_historique = os.path.join("logs", f"{user_id}_suppression_score.txt")
+        now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        with open(chemin_historique, "a", encoding="utf-8") as f:
+            f.write(f"[{now}] Suppression du score : {json.dumps(historique_avant, ensure_ascii=False)}\n")
+
+        # Supprimer le score
+        del user_scores[str(user_id)]
+        save_user_scores()
+
+        await update.message.reply_text("✅ Vos scores ont été supprimés avec succès.")
+    else:
+        await update.message.reply_text("❌ Vous n'avez aucun score enregistré.")
+
 # --- Voir son propre score ---
 async def profil_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.effective_user
@@ -500,10 +521,9 @@ def lancer_bot():
     app.add_handler(CommandHandler("listeavis", listeavis))
     app.add_handler(CommandHandler("reset_score", reset_score))
     app.add_handler(CommandHandler("historique", historique))
-
-    # Ajout des commandes profil et scores
     app.add_handler(CommandHandler("profil", profil_command))
     app.add_handler(CommandHandler("scores", scores_command))
+    app.add_handler(CommandHandler("supprimer_score", supprimer_score))  # ✅ ajout ici
 
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
     app.run_polling()
