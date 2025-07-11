@@ -401,6 +401,722 @@
       "options": ["Toujours vraie", "Jamais vraie", "x > 0", "x < 0"],
       "reponse": "Toujours vraie",
       "explication": "x² + 1 est strictement positif pour tout réel."
+    },
+    {
+      "question": "Parmi ces nombres, lequel est le plus grand ? √25 ou √36",
+      "options": ["√25", "√36", "Ils sont égaux", "Impossible à déterminer"],
+      "reponse": "√36",
+      "explication": "√25 = 5 et √36 = 6, donc √36 est plus grand."
+    },
+    {
+      "question": "Si a > b > 0, que peut-on dire de √a et √b ?",
+      "options": ["√a > √b", "√a < √b", "√a = √b", "Aucune relation"],
+      "reponse": "√a > √b",
+      "explication": "La fonction racine carrée est croissante pour les nombres positifs."
+    },
+    {
+      "question": "Est-il vrai que √(a + b) = √a + √b pour a, b > 0 ?",
+      "options": ["Oui", "Non", "Seulement si a = b", "Seulement si a ou b = 0"],
+      "reponse": "Non",
+      "explication": "La racine carrée d’une somme n’est pas la somme des racines."
+    },
+    {
+      "question": "Parmi ces expressions, laquelle est la plus petite ? √4 ou 2",
+      "options": ["√4", "2", "Elles sont égales", "Impossible à dire"],
+      "reponse": "Elles sont égales",
+      "explication": "√4 = 2 donc elles ont la même valeur."
+    },
+    {
+      "question": "Quelle inégalité est vraie si 0 < a < b ?",
+      "options": ["√a < √b", "√a > √b", "√a = √b", "√a + √b = 0"],
+      "reponse": "√a < √b",
+      "explication": "La racine carrée est une fonction croissante sur les positifs."
+    },
+    {
+      "question": "Si √x > √y, que peut-on dire de x et y ?",
+      "options": ["x > y", "x < y", "x = y", "x ≥ y"],
+      "reponse": "x > y",
+      "explication": "La fonction racine carrée est strictement croissante, donc si √x > √y alors x > y."
+    },
+    {
+      "question": "Est-ce que √(a × b) > √a + √b ?",
+      "options": ["Toujours vrai", "Toujours faux", "Parfois vrai", "Cela dépend des valeurs"],
+      "reponse": "Toujours faux",
+      "explication": "√(a × b) ≤ √a + √b en général, la racine d’un produit est souvent plus petite que la somme des racines."
+    },
+    {
+      "question": "Comparer √9 et 3",
+      "options": ["√9 > 3", "√9 = 3", "√9 < 3", "Impossible"],
+      "reponse": "√9 = 3",
+      "explication": "√9 = 3 car 3² = 9."
+    },
+    {
+      "question": "Si a > b > 0, que vaut √(a - b) ?",
+      "options": ["Positif", "Négatif", "Zéro", "Impossible à déterminer"],
+      "reponse": "Positif",
+      "explication": "La racine carrée d’un nombre positif (a - b) est toujours positive ou nulle."
+    },
+    {
+      "question": "Quelle affirmation est correcte ? √a + √b ≥ √(a + b)",
+      "options": ["Vrai", "Faux", "Vrai seulement si a = b", "Toujours égal"],
+      "reponse": "Vrai",
+      "explication": "La somme des racines est toujours supérieure ou égale à la racine de la somme."
+    },
+    {
+      "question": "Résous : 2x + 5 = 15",
+      "options": ["x = 5", "x = 10", "x = 20", "x = 15"],
+      "reponse": "x = 5",
+      "explication": "2x = 15 - 5 soit 2x = 10 donc x = 10 ÷ 2 = 5."
+    },
+    {
+      "question": "Résous : 3x - 7 = 2",
+      "options": ["x = 3", "x = 2", "x = 5", "x = 4"],
+      "reponse": "x = 3",
+      "explication": "3x = 2 + 7 soit 3x = 9 donc x = 9 ÷ 3 = 3."
+    },
+    {
+      "question": "Résous : 4x + 3 = 3x + 10",
+      "options": ["x = 7", "x = 10", "x = 5", "x = -3"],
+      "reponse": "x = 7",
+      "explication": "4x - 3x = 10 - 3 donc x = 7."
+    },
+    {
+      "question": "Résous : 5x - 2 = 2x + 7",
+      "options": ["x = 3", "x = 5", "x = -3", "x = 2"],
+      "reponse": "x = 3",
+      "explication": "5x - 2x = 7 + 2 soit 3x = 9 donc x = 3."
+    },
+    {
+      "question": "Résous : 2(x - 1) = x + 4",
+      "options": ["x = 6", "x = 4", "x = 2", "x = -2"],
+      "reponse": "x = 6",
+      "explication": "2x - 2 = x + 4 donc 2x - x = 4 + 2 donc x = 6."
+    },
+    {
+      "question": "Résous : 3(x + 2) = 2(x - 1)",
+      "options": ["x = -8", "x = -7", "x = -1", "x = 1"],
+      "reponse": "x = -8",
+      "explication": "3x + 6 = 2x - 2 donc x = -8."
+    },
+    {
+      "question": "Résous l’inéquation : 2x + 3 > 9",
+      "options": ["x > 2", "x < 2", "x > 3", "x > 6"],
+      "reponse": "x > 3",
+      "explication": "2x > 6 donc x > 3."
+    },
+    {
+      "question": "Résous : x/2 + 3 = 5",
+      "options": ["x = 4", "x = 2", "x = 1", "x = 6"],
+      "reponse": "x = 4",
+      "explication": "x/2 = 2 donc x = 4."
+    },
+    {
+      "question": "Résous : (x - 3)/2 = 4",
+      "options": ["x = 10", "x = 8", "x = 11", "x = 7"],
+      "reponse": "x = 11",
+      "explication": "(x - 3) = 8 donc x = 11."
+    },
+    {
+      "question": "Résous l’équation : 6x + 4 = 2x + 20",
+      "options": ["x = 2", "x = 4", "x = 5", "x = 6"],
+      "reponse": "x = 4",
+      "explication": "6x - 2x = 20 - 4 donc 4x = 16 donc x = 4."
+    },
+    {
+      "question": "Résous l’inéquation : 3x - 5 ≤ 10",
+      "options": ["x ≤ 5", "x ≥ 5", "x ≤ 10", "x ≥ 3"],
+      "reponse": "x ≤ 5",
+      "explication": "3x ≤ 15 donc x ≤ 5."
+    },
+    {
+      "question": "Résous : 2x/3 = 6",
+      "options": ["x = 6", "x = 8", "x = 9", "x = 10"],
+      "reponse": "x = 9",
+      "explication": "2x = 18 donc x = 9."
+    },
+    {
+      "question": "Résous : 4 - 2(x + 3) = 0",
+      "options": ["x = -2", "x = 1", "x = -1", "x = 2"],
+      "reponse": "x = -5",
+      "explication": "-2(x + 3) = -4 donc x = -5."
+    },
+    {
+      "question": "Résous : (x + 2)/4 = 3",
+      "options": ["x = 8", "x = 10", "x = 6", "x = 4"],
+      "reponse": "x = 10",
+      "explication": "x + 2 = 12 donc x = 10."
+    },
+    {
+      "question": "Résous : 7x - (2x + 3) = 12",
+      "options": ["x = 3", "x = 5", "x = 4", "x = 2"],
+      "reponse": "x = 3",
+      "explication": "7x - 2x - 3 = 12 donc 5x = 15 donc x = 3."
+    },
+    {
+      "question": "Résous : x² = 81",
+      "options": ["x = ±9", "x = 9", "x = 81", "x = ±81"],
+      "reponse": "x = ±9",
+      "explication": "Les deux racines de 81 sont +9 et -9."
+    },
+    {
+      "question": "Résous : x² = 49",
+      "options": ["x = ±7", "x = 7", "x = ±49", "x = 49"],
+      "reponse": "x = ±7",
+      "explication": "Les solutions de x² = 49 sont x = 7 et x = -7."
+    },
+    {
+      "question": "Résous l’inéquation : x - 5 < 2",
+      "options": ["x < 7", "x > 7", "x < 5", "x > 5"],
+      "reponse": "x < 7",
+      "explication": "x < 7 après ajout de 5 des deux côtés."
+    },
+    {
+      "question": "Résous l’équation : 3x = x + 10",
+      "options": ["x = 5", "x = 10", "x = 3", "x = 4"],
+      "reponse": "x = 5",
+      "explication": "3x - x = 10 donc 2x = 10 donc x = 5."
+    },
+    {
+      "question": "Résous : x/5 + 3 = 6",
+      "options": ["x = 15", "x = 10", "x = 5", "x = 20"],
+      "reponse": "x = 15",
+      "explication": "x/5 = 3 donc x = 15."
+    },
+    {
+      "question": "Résous l’inéquation : -2x + 1 > 5",
+      "options": ["x < -2", "x > -2", "x < 2", "x > 2"],
+      "reponse": "x < -2",
+      "explication": "-2x > 4 donc x < -2 (on inverse le sens en divisant par -2)."
+    },
+    {
+      "question": "Résous : x² - 16 = 0",
+      "options": ["x = ±4", "x = 4", "x = -4", "x = ±8"],
+      "reponse": "x = ±4",
+      "explication": "x² = 16 donc x = ±4."
+    },
+    {
+      "question": "Résous : 5x/2 = 15",
+      "options": ["x = 6", "x = 5", "x = 7", "x = 8"],
+      "reponse": "x = 6",
+      "explication": "5x = 30 donc x = 6."
+    },
+    {
+      "question": "Résous : 4x - 2 = 2x + 6",
+      "options": ["x = 4", "x = 5", "x = 6", "x = 3"],
+      "reponse": "x = 4",
+      "explication": "4x - 2x = 6 + 2 soit 2x = 8 donc x = 4."
+    },
+    {
+      "question": "Résous : x(x - 3) = 0",
+      "options": ["x = 0 ou x = 3", "x = -3 ou x = 0", "x = 3", "x = 0"],
+      "reponse": "x = 0 ou x = 3",
+      "explication": "Une équation produit nul : x = 0 ou x - 3 = 0 donc x = 3."
+    },
+{
+  "qcm": [
+    {
+      "question": "Quelle est la forme générale d’un monôme ?",
+      "options": ["axⁿ", "ax + b", "a(x + b)", "ax² + bx + c"],
+      "reponse": "axⁿ",
+      "explication": "Un monôme est une expression de la forme axⁿ où a est un nombre réel et n un entier naturel."
+    },
+    {
+      "question": "Quel est le degré du monôme 5x³ ?",
+      "options": ["3", "5", "1", "8"],
+      "reponse": "3",
+      "explication": "Le degré d’un monôme correspond à l’exposant de la variable, ici x³ donc degré 3."
+    },
+    {
+      "question": "Quel est le coefficient du monôme -7x² ?",
+      "options": ["-7", "2", "x", "14"],
+      "reponse": "-7",
+      "explication": "Le coefficient est le nombre devant la variable, ici -7."
+    },
+    {
+      "question": "Quel est le terme constant dans le polynôme 2x² + 3x + 5 ?",
+      "options": ["5", "3x", "2x²", "8"],
+      "reponse": "5",
+      "explication": "Le terme constant est celui qui ne contient pas de variable, ici 5."
+    },
+    {
+      "question": "Quelle est la forme générale d’un polynôme du 2e degré ?",
+      "options": ["ax² + bx + c", "ax + b", "axⁿ", "a(x + b)"],
+      "reponse": "ax² + bx + c",
+      "explication": "C’est la forme standard d’un trinôme du second degré."
+    },
+    {
+      "question": "Additionne les monômes : 3x² + 5x²",
+      "options": ["8x²", "15x²", "3x⁴", "8x"],
+      "reponse": "8x²",
+      "explication": "On additionne les coefficients des termes similaires : 3 + 5 = 8."
+    },
+    {
+      "question": "Multiplie les monômes : 2x × 3x²",
+      "options": ["6x³", "5x²", "6x²", "x³"],
+      "reponse": "6x³",
+      "explication": "On multiplie les coefficients et on additionne les exposants : 2×3 = 6, x¹×x² = x³."
+    },
+    {
+      "question": "Simplifie : 6x⁵ ÷ 2x²",
+      "options": ["3x³", "4x²", "3x²", "12x³"],
+      "reponse": "3x³",
+      "explication": "On divise les coefficients et on soustrait les exposants : 6÷2 = 3, x⁵/x² = x³."
+    },
+    {
+      "question": "Multiplie : (2x)(-3x³)",
+      "options": ["-6x⁴", "-5x³", "6x²", "-6x²"],
+      "reponse": "-6x⁴",
+      "explication": "2×(-3) = -6 et x×x³ = x⁴."
+    },
+    {
+      "question": "Quel est le degré du polynôme 4x⁵ + 2x³ - x + 7 ?",
+      "options": ["5", "3", "1", "7"],
+      "reponse": "5",
+      "explication": "Le degré d’un polynôme est l’exposant le plus élevé de la variable."
+    },
+    {
+      "question": "Développe : (x + 2)(x + 3)",
+      "options": ["x² + 5x + 6", "x² + 6x + 5", "x² + 3x + 2", "x² + 5x + 3"],
+      "reponse": "x² + 5x + 6",
+      "explication": "(x + 2)(x + 3) = x² + 3x + 2x + 6 = x² + 5x + 6."
+    },
+    {
+      "question": "Factorise : x² + 5x + 6",
+      "options": ["(x + 2)(x + 3)", "(x + 1)(x + 6)", "(x - 2)(x - 3)", "(x + 3)(x + 2)"],
+      "reponse": "(x + 2)(x + 3)",
+      "explication": "C’est la forme factorisée correcte du trinôme donné."
+    },
+    {
+      "question": "Simplifie : -2x² + 3x²",
+      "options": ["x²", "5x²", "-x²", "x"],
+      "reponse": "x²",
+      "explication": "-2x² + 3x² = (3 - 2)x² = x²."
+    },
+    {
+      "question": "Multiplie : (x + 1)(x - 1)",
+      "options": ["x² - 1", "x² + 1", "x² - 2x + 1", "x² + 2x + 1"],
+      "reponse": "x² - 1",
+      "explication": "Produit remarquable : (x + 1)(x - 1) = x² - 1."
+    },
+    {
+      "question": "Développe : (2x + 3)(x - 4)",
+      "options": ["2x² - 5x - 12", "2x² + 3x - 12", "2x² - 5x + 12", "2x² - 8x + 3"],
+      "reponse": "2x² - 5x - 12",
+      "explication": "2x(x) + 2x(-4) + 3(x) + 3(-4) = 2x² - 8x + 3x - 12 = 2x² - 5x - 12."
+    },
+    {
+      "question": "Quel est le coefficient de x³ dans 5x³ - 2x² + x ?",
+      "options": ["5", "3", "-2", "1"],
+      "reponse": "5",
+      "explication": "Le coefficient de x³ est 5."
+    },
+    {
+      "question": "Vrai ou faux : Un polynôme peut avoir plusieurs termes.",
+      "options": ["Vrai", "Faux", "Parfois", "Jamais"],
+      "reponse": "Vrai",
+      "explication": "Un polynôme est constitué de la somme de plusieurs monômes."
+    },
+    {
+      "question": "Quel est le degré de 7 ?",
+      "options": ["0", "1", "7", "indéfini"],
+      "reponse": "0",
+      "explication": "Un nombre seul est un polynôme de degré 0."
+    },
+    {
+      "question": "Combien de termes contient le polynôme 3x² + 2x - 4 ?",
+      "options": ["3", "2", "1", "4"],
+      "reponse": "3",
+      "explication": "Il y a 3 termes distincts : 3x², 2x, -4."
+    },
+    {
+      "question": "Que donne : (x + 1)² ?",
+      "options": ["x² + 2x + 1", "x² + 1", "x² + x + 1", "x² - 1"],
+      "reponse": "x² + 2x + 1",
+      "explication": "C’est un produit remarquable : (x + 1)(x + 1) = x² + 2x + 1."
+    },
+    {
+      "question": "Factorise : x² - 9",
+      "options": ["(x - 3)(x + 3)", "(x - 9)(x + 1)", "(x - 1)(x + 9)", "(x - 3)(x - 3)"],
+      "reponse": "(x - 3)(x + 3)",
+      "explication": "Différence de carrés : x² - 9 = (x - 3)(x + 3)."
+    },
+    {
+      "question": "Développe : (x - 2)(x - 5)",
+      "options": ["x² - 7x + 10", "x² + 7x + 10", "x² - 3x - 10", "x² - 6x + 10"],
+      "reponse": "x² - 7x + 10",
+      "explication": "x² - 5x - 2x + 10 = x² - 7x + 10."
+    },
+    {
+      "question": "Factorise : x² + 6x + 9",
+      "options": ["(x + 3)²", "(x + 6)(x + 1)", "(x + 9)(x - 3)", "(x + 1)(x + 9)"],
+      "reponse": "(x + 3)²",
+      "explication": "C’est le carré parfait de (x + 3)."
+    },
+    {
+      "question": "Multiplie : (x²)(3x)",
+      "options": ["3x³", "x⁵", "3x²", "x³"],
+      "reponse": "3x³",
+      "explication": "x² × 3x = 3x³."
+    },
+    {
+      "question": "Simplifie : (2x²)(-x³)",
+      "options": ["-2x⁵", "-2x⁶", "2x⁵", "-x⁵"],
+      "reponse": "-2x⁵",
+      "explication": "2 × -1 = -2 et x² × x³ = x⁵."
+    },
+    {
+      "question": "Quel est le coefficient de x dans 4x - 7 ?",
+      "options": ["4", "7", "-7", "1"],
+      "reponse": "4",
+      "explication": "Le terme en x est 4x, donc le coefficient est 4."
+    },
+    {
+      "question": "Développe : (x + 5)(x - 2)",
+      "options": ["x² + 3x - 10", "x² + x + 10", "x² + 5x + 2", "x² - 3x + 10"],
+      "reponse": "x² + 3x - 10",
+      "explication": "x² - 2x + 5x - 10 = x² + 3x - 10."
+    },
+    {
+      "question": "Un polynôme est...",
+      "options": ["une somme de monômes", "un seul terme", "un produit de nombres", "un carré parfait"],
+      "reponse": "une somme de monômes",
+      "explication": "Un polynôme est formé de plusieurs monômes liés par + ou -."
+    },
+    {
+      "question": "Développe : (2x - 1)(x + 4)",
+      "options": ["2x² + 7x - 4", "2x² + 8x - 1", "2x² + 7x - 1", "2x² + 6x - 1"],
+      "reponse": "2x² + 7x - 4",
+      "explication": "2x² + 8x - x - 4 = 2x² + 7x - 4."
+    },
+    {
+      "question": "Quel est le degré du polynôme -3x⁴ + 5x² - 2 ?",
+      "options": ["4", "2", "3", "5"],
+      "reponse": "4",
+      "explication": "Le degré le plus élevé est 4 (dans x⁴)."
+    },
+    {
+      "question": "Calcule : (2x² + 3x - 1) + (x² - 4x + 5)",
+      "options": ["3x² - x + 4", "x² - x + 4", "3x² - x + 6", "x² + x + 4"],
+      "reponse": "3x² - x + 4",
+      "explication": "On additionne les termes semblables : 2x² + x² = 3x², 3x - 4x = -x, -1 + 5 = 4."
+    },
+    {
+      "question": "Calcule : (5x - 2)(x + 3)",
+      "options": ["5x² + 13x - 6", "5x² + 15x - 2", "5x² + 13x - 6", "5x² + 15x - 6"],
+      "reponse": "5x² + 13x - 6",
+      "explication": "Développement : 5x×x + 5x×3 -2×x -2×3 = 5x² + 15x -2x -6 = 5x² + 13x - 6."
+    },
+    {
+      "question": "Réduis : 4x² - 2x + 7 - (3x² + 5x - 4)",
+      "options": ["x² - 7x + 11", "x² - 7x + 3", "x² + 3x + 11", "x² - 7x + 14"],
+      "reponse": "x² - 7x + 11",
+      "explication": "On soustrait chaque terme : 4x² - 3x² = x², -2x - 5x = -7x, 7 - (-4) = 11."
+    },
+    {
+      "question": "Calcule : (x - 2)(x + 5)",
+      "options": ["x² + 3x - 10", "x² + 7x - 10", "x² - 3x - 10", "x² - 2x + 10"],
+      "reponse": "x² + 3x - 10",
+      "explication": "Produit : x² + 5x - 2x - 10 = x² + 3x - 10."
+    },
+    {
+      "question": "Développe : (x + 2)²",
+      "options": ["x² + 4x + 4", "x² + 2x + 2", "x² + 3x + 4", "x² + 2x + 4"],
+      "reponse": "x² + 4x + 4",
+      "explication": "Formule : (x + a)² = x² + 2ax + a². Ici a = 2."
+    },
+    {
+      "question": "Calcule : (3x² - 2x + 1) - (x² + x - 3)",
+      "options": ["2x² - 3x + 4", "2x² - x + 4", "2x² + 3x + 4", "4x² - 3x - 2"],
+      "reponse": "2x² - 3x + 4",
+      "explication": "On fait les soustractions : 3x² - x² = 2x², -2x - x = -3x, 1 - (-3) = 4."
+    },
+    {
+      "question": "Développe : (2x - 3)(x + 1)",
+      "options": ["2x² - x - 3", "2x² - x + 3", "2x² - x - 1", "2x² + x - 3"],
+      "reponse": "2x² - x - 3",
+      "explication": "2x×x + 2x×1 -3×x -3×1 = 2x² + 2x -3x -3 = 2x² - x - 3."
+    },
+    {
+      "question": "Factorise : x² + 6x + 9",
+      "options": ["(x + 3)²", "(x + 1)(x + 9)", "(x - 3)(x - 3)", "(x + 2)(x + 4)"],
+      "reponse": "(x + 3)²",
+      "explication": "Forme remarquable : x² + 2ax + a² → ici a = 3."
+    },
+    {
+      "question": "Développe : (x - 4)²",
+      "options": ["x² - 8x + 16", "x² + 4x + 16", "x² - 4x + 8", "x² - 8x - 16"],
+      "reponse": "x² - 8x + 16",
+      "explication": "Formule : (x - a)² = x² - 2ax + a². a = 4 ici."
+    },
+    {
+      "question": "Calcule : (x + 3)(x - 3)",
+      "options": ["x² - 9", "x² + 9", "x² - 6x + 9", "x² + 6x + 9"],
+      "reponse": "x² - 9",
+      "explication": "Formule : (x + a)(x - a) = x² - a². a = 3 donc x² - 9."
+    },
+    {
+      "question": "Développe : (x + 2)(x² - x + 3)",
+      "options": ["x³ + x² + x + 6", "x³ + x² - x + 6", "x³ + x² + 3x + 6", "x³ - x² + 3x + 2"],
+      "reponse": "x³ + x² + x + 6",
+      "explication": "x(x² - x + 3) + 2(x² - x + 3) = x³ - x² + 3x + 2x² - 2x + 6 = x³ + x² + x + 6."
+    },
+    {
+      "question": "Simplifie : (4x² + 5x - 2) - (3x² - x + 4)",
+      "options": ["x² + 6x - 6", "x² + 4x + 6", "x² + 6x + 2", "x² - 6x - 6"],
+      "reponse": "x² + 6x - 6",
+      "explication": "4x² - 3x² = x², 5x - (-x) = 6x, -2 - 4 = -6."
+    },
+    {
+      "question": "Calcule : (2x + 1)(x - 4)",
+      "options": ["2x² - 7x - 4", "2x² - 7x - 3", "2x² - 7x + 4", "2x² - 7x - 1"],
+      "reponse": "2x² - 7x - 4",
+      "explication": "2x×x + 2x×(-4) + 1×x + 1×(-4) = 2x² - 8x + x - 4 = 2x² - 7x - 4."
+    },
+    {
+      "question": "Développe : (3x - 2)(x + 5)",
+      "options": ["3x² + 13x - 10", "3x² + 15x - 10", "3x² + 13x - 2", "3x² + 15x - 2"],
+      "reponse": "3x² + 13x - 10",
+      "explication": "3x×x + 3x×5 -2×x -2×5 = 3x² + 15x - 2x - 10 = 3x² + 13x - 10."
+    },
+    {
+      "question": "Développe : (x - 3)(x - 7)",
+      "options": ["x² - 10x + 21", "x² + 10x + 21", "x² - 4x + 21", "x² - 10x - 21"],
+      "reponse": "x² - 10x + 21",
+      "explication": "x² - 7x - 3x + 21 = x² - 10x + 21."
+    },
+    {
+      "question": "Simplifie : 5x² - 2x² + 3x - 7x",
+      "options": ["3x² - 4x", "7x² - 10x", "3x² + 4x", "2x² - 4x"],
+      "reponse": "3x² - 4x",
+      "explication": "5x² - 2x² = 3x² ; 3x - 7x = -4x."
+    },
+    {
+      "question": "Développe : (x + 1)(x² + x + 1)",
+      "options": ["x³ + 2x² + 2x + 1", "x³ + x² + x + 1", "x³ + 2x² + 2", "x³ + 3x + 2"],
+      "reponse": "x³ + 2x² + 2x + 1",
+      "explication": "x(x² + x + 1) + 1(x² + x + 1) = x³ + x² + x + x² + x + 1 = x³ + 2x² + 2x + 1."
+    },
+    {
+      "question": "Calcule : (x - 1)(x + 2)(x + 3)",
+      "options": ["x³ + 4x² + x - 6", "x³ + 4x² + 5x + 6", "x³ + 2x² + x - 6", "x³ + x² + 5x + 6"],
+      "reponse": "x³ + 4x² + x - 6",
+      "explication": "On développe étape par étape : (x - 1)(x + 2) = x² + x - 2 ; puis × (x + 3)."
+    },
+    {
+      "question": "Développe : (2x² - x + 1)(x + 3)",
+      "options": ["2x³ + 5x² + 2x + 3", "2x³ + 5x² + 2x + 1", "2x³ + 3x² - 2x + 3", "2x³ + 3x² - 2x + 1"],
+      "reponse": "2x³ + 5x² + 2x + 3",
+      "explication": "Chaque terme de 2x² - x + 1 est multiplié par x puis par 3."
+    },
+    {
+      "question": "Développe : (x + 4)²",
+      "options": ["x² + 8x + 16", "x² + 4x + 8", "x² + 4x + 16", "x² + 8x + 8"],
+      "reponse": "x² + 8x + 16",
+      "explication": "(x + 4)² = x² + 2×4×x + 16."
+    },
+    {
+      "question": "Calcule : (2x + 3)(2x - 3)",
+      "options": ["4x² - 9", "4x² + 9", "4x² - 6x + 9", "4x² - 6x - 9"],
+      "reponse": "4x² - 9",
+      "explication": "Identité remarquable : (a + b)(a - b) = a² - b². a = 2x ; b = 3."
+    },
+    {
+      "question": "Développe : (x + 2)(x² - x + 2)",
+      "options": ["x³ + x² + x + 4", "x³ + x² + 2x + 4", "x³ + x² + 3x + 4", "x³ + x² + 2x + 2"],
+      "reponse": "x³ + x² + 2x + 4",
+      "explication": "x(x² - x + 2) + 2(x² - x + 2)."
+    },
+    {
+      "question": "Développe : (x - 1)²",
+      "options": ["x² - 2x + 1", "x² - x + 1", "x² + x + 1", "x² + 2x + 1"],
+      "reponse": "x² - 2x + 1",
+      "explication": "Identité remarquable : (x - 1)² = x² - 2x + 1."
+    },
+    {
+      "question": "Simplifie : 2x(x + 3) - x(x - 2)",
+      "options": ["x² + 8x", "x² + 5x", "x² + 4x", "x² + x"],
+      "reponse": "x² + 8x",
+      "explication": "2x² + 6x - x² + 2x = x² + 8x."
+    },
+    {
+      "question": "Développe : (x - 2)(x² + x + 2)",
+      "options": ["x³ - x² - 2x - 4", "x³ - x² - 2x + 4", "x³ - x² - 3x + 4", "x³ - x² + 2x - 4"],
+      "reponse": "x³ - x² - 2x - 4",
+      "explication": "x(x² + x + 2) - 2(x² + x + 2)."
+    },
+    {
+      "question": "Développe : (x + 2)(x + 3)(x + 4)",
+      "options": ["x³ + 9x² + 26x + 24", "x³ + 9x² + 23x + 24", "x³ + 8x² + 26x + 24", "x³ + 7x² + 25x + 24"],
+      "reponse": "x³ + 9x² + 26x + 24",
+      "explication": "On développe d’abord deux parenthèses puis on multiplie le résultat par la 3e."
+    },
+    {
+      "question": "Quelle est l'expression d'une fonction rationnelle de base ?",
+      "options": ["f(x) = ax² + bx + c", "f(x) = a / x", "f(x) = ax + b", "f(x) = a² + b²"],
+      "reponse": "f(x) = a / x",
+      "explication": "Une fonction rationnelle est du type f(x) = a / x, où x ≠ 0."
+    },
+    {
+      "question": "Quel est le domaine de définition de f(x) = 5 / (x - 2) ?",
+      "options": ["x ≠ 0", "x ≠ 2", "x ∈ ℝ", "x = 2"],
+      "reponse": "x ≠ 2",
+      "explication": "Le dénominateur ne doit jamais être nul. Ici, x - 2 ≠ 0 donc x ≠ 2."
+    },
+    {
+      "question": "La fonction f(x) = (2x + 1)/(x + 3) est définie pour :",
+      "options": ["x ≠ -3", "x ≠ 0", "x ∈ ℝ", "x ≠ 1"],
+      "reponse": "x ≠ -3",
+      "explication": "Le dénominateur x + 3 ≠ 0, donc x ≠ -3."
+    },
+    {
+      "question": "Si f(x) = 3 / x, alors f(1) = ?",
+      "options": ["0", "1", "3", "x"],
+      "reponse": "3",
+      "explication": "On remplace x par 1 : f(1) = 3 / 1 = 3."
+    },
+    {
+      "question": "f(x) = (x² - 9)/(x - 3) est équivalente à :",
+      "options": ["x + 3", "x - 3", "x² - 9", "x / 3"],
+      "reponse": "x + 3",
+      "explication": "x² - 9 = (x - 3)(x + 3), donc simplifiée, f(x) = x + 3 pour x ≠ 3."
+    },
+    {
+      "question": "f(x) = (x² - 4)/(x - 2), factorisé, donne :",
+      "options": ["x + 2", "x - 2", "x² - 2", "x² + 4"],
+      "reponse": "x + 2",
+      "explication": "x² - 4 = (x - 2)(x + 2), donc f(x) = x + 2 pour x ≠ 2."
+    },
+    {
+      "question": "f(x) = 1 / (x + 1) : quelle est l’aire d’asymptote verticale ?",
+      "options": ["x = 1", "x = -1", "x = 0", "x = 2"],
+      "reponse": "x = -1",
+      "explication": "L’asymptote verticale correspond à l'interdiction du dénominateur : x + 1 ≠ 0."
+    },
+    {
+      "question": "f(x) = (x² - 1) / (x - 1) simplifiée donne :",
+      "options": ["x + 1", "x - 1", "x² - 1", "x² + 1"],
+      "reponse": "x + 1",
+      "explication": "x² - 1 = (x - 1)(x + 1), donc f(x) = x + 1 pour x ≠ 1."
+    },
+    {
+      "question": "Quel est l’ensemble de définition de f(x) = 7 / x² ?",
+      "options": ["x ≠ 0", "x ≠ 7", "x ∈ ℝ", "x ≥ 0"],
+      "reponse": "x ≠ 0",
+      "explication": "x² ne peut être égal à 0, donc x ≠ 0."
+    },
+    {
+      "question": "Si f(x) = 1 / (x² - 9), alors x ≠ ?",
+      "options": ["3 et -3", "9", "0", "1"],
+      "reponse": "3 et -3",
+      "explication": "x² - 9 = (x - 3)(x + 3), donc interdit pour x = 3 et x = -3."
+    },
+    {
+      "question": "f(x) = (x + 2)(x - 1) / (x - 1) simplifie à :",
+      "options": ["x + 2", "x - 1", "x", "1"],
+      "reponse": "x + 2",
+      "explication": "On simplifie par (x - 1), si x ≠ 1, il reste (x + 2)."
+    },
+    {
+      "question": "f(x) = 1 / x² : quel est le signe de f(x) pour tout x ≠ 0 ?",
+      "options": ["Toujours positif", "Toujours négatif", "Toujours nul", "Positif ou négatif"],
+      "reponse": "Toujours positif",
+      "explication": "x² est toujours positif, donc 1 / x² est aussi toujours positif."
+    },
+    {
+      "question": "Une fonction rationnelle a-t-elle toujours une asymptote verticale ?",
+      "options": ["Oui", "Non", "Seulement si le numérateur est constant", "Seulement si le dénominateur est 0"],
+      "reponse": "Oui",
+      "explication": "Il y a asymptote verticale dès qu’une valeur rend le dénominateur nul."
+    },
+    {
+      "question": "Quel est le domaine de f(x) = (x² + 4x + 4)/(x + 2) ?",
+      "options": ["x ≠ -2", "x ≠ 2", "x ∈ ℝ", "x = 0"],
+      "reponse": "x ≠ -2",
+      "explication": "Le dénominateur x + 2 ≠ 0 ⇒ x ≠ -2."
+    },
+    {
+      "question": "f(x) = 1 / (x - a) est définie pour :",
+      "options": ["x ≠ a", "x = a", "x > a", "x < a"],
+      "reponse": "x ≠ a",
+      "explication": "Le dénominateur x - a ≠ 0, donc x ≠ a."
+    },
+    {
+      "question": "f(x) = (x² - 16) / (x + 4) se simplifie à :",
+      "options": ["x - 4", "x + 4", "x² - 4", "x - 2"],
+      "reponse": "x - 4",
+      "explication": "x² - 16 = (x - 4)(x + 4), on simplifie par (x + 4) : f(x) = x - 4."
+    },
+    {
+      "question": "f(x) = (x - 2)² / (x - 2) : f(x) simplifiée vaut ?",
+      "options": ["x - 2", "x + 2", "x² - 4", "x"],
+      "reponse": "x - 2",
+      "explication": "(x - 2)² = (x - 2)(x - 2), donc f(x) = x - 2 (x ≠ 2)."
+    },
+    {
+      "question": "f(x) = (x + 1)² / (x² - 1) : quel est le domaine ?",
+      "options": ["x ≠ 1 et x ≠ -1", "x ≠ 1", "x ≠ -1", "x ∈ ℝ"],
+      "reponse": "x ≠ 1 et x ≠ -1",
+      "explication": "x² - 1 = (x - 1)(x + 1) : interdit quand x = 1 ou x = -1."
+    },
+    {
+      "question": "f(x) = (x² - 25)/(x - 5) donne :",
+      "options": ["x + 5", "x - 5", "x² + 5", "x + 25"],
+      "reponse": "x + 5",
+      "explication": "x² - 25 = (x - 5)(x + 5), simplifiée par x - 5 = x + 5."
+    },
+    {
+      "question": "Quelle est la forme factorisée de x² - a² ?",
+      "options": ["(x - a)(x + a)", "(x - a)²", "(x + a)²", "x² + a²"],
+      "reponse": "(x - a)(x + a)",
+      "explication": "C’est une identité remarquable : x² - a² = (x - a)(x + a)."
+    },
+    {
+      "question": "f(x) = 1 / (x - 3) : que vaut f(6) ?",
+      "options": ["1/3", "1/6", "3", "0"],
+      "reponse": "1/3",
+      "explication": "f(6) = 1 / (6 - 3) = 1 / 3."
+    },
+    {
+      "question": "Quelle valeur est interdite pour f(x) = (x + 5) / (x² - 25) ?",
+      "options": ["x = -5 et x = 5", "x = 25", "x = 0", "x = 5 seulement"],
+      "reponse": "x = -5 et x = 5",
+      "explication": "x² - 25 = 0 → x = ±5."
+    },
+    {
+      "question": "f(x) = 1 / x est une fonction :",
+      "options": ["rationnelle", "affine", "quadratique", "constante"],
+      "reponse": "rationnelle",
+      "explication": "Elle s’écrit f(x) = 1 / x : fonction rationnelle."
+    },
+    {
+      "question": "f(x) = 1 / (x² + 1) est définie sur :",
+      "options": ["ℝ", "x > 0", "x ≠ 1", "x ≠ -1"],
+      "reponse": "ℝ",
+      "explication": "x² + 1 ≠ 0 pour tout x ∈ ℝ. Fonction définie partout."
+    },
+    {
+      "question": "f(x) = (x² - 36) / (x + 6) = ?",
+      "options": ["x - 6", "x + 6", "x² - 6", "x + 12"],
+      "reponse": "x - 6",
+      "explication": "x² - 36 = (x - 6)(x + 6), on simplifie par (x + 6)."
+    },
+    {
+      "question": "f(x) = (x² - x - 6)/(x + 2) simplifiée donne :",
+      "options": ["x - 3", "x + 2", "x² - 4", "x - 2"],
+      "reponse": "x - 3",
+      "explication": "Factorise x² - x - 6 = (x - 3)(x + 2), simplifie : f(x) = x - 3 (x ≠ -2)."
+    },
+    {
+      "question": "f(x) = (x + 1)(x - 1) / (x - 1) donne :",
+      "options": ["x + 1", "x - 1", "x² - 1", "x"],
+      "reponse": "x + 1",
+      "explication": "On simplifie par (x - 1) si x ≠ 1, il reste x + 1."
+    },
+    {
+      "question": "Quelle est la particularité des fonctions rationnelles ?",
+      "options": ["Elles ont des dénominateurs", "Elles sont linéaires", "Elles sont constantes", "Elles ne s’annulent jamais"],
+      "reponse": "Elles ont des dénominateurs",
+      "explication": "Les fonctions rationnelles sont des rapports entre deux expressions algébriques."
     }
   ]
 }
