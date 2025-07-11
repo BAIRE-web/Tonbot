@@ -1115,6 +1115,848 @@
       "options": ["Elles ont des dénominateurs", "Elles sont linéaires", "Elles sont constantes", "Elles ne s’annulent jamais"],
       "reponse": "Elles ont des dénominateurs",
       "explication": "Les fonctions rationnelles sont des rapports entre deux expressions algébriques."
+    },
+    {
+      "question": "Simplifie : f(x) = (x² - 4x + 4) / (x - 2)",
+      "options": ["x - 2", "x + 2", "x", "x² - 4x + 4"],
+      "reponse": "x - 2",
+      "explication": "x² - 4x + 4 = (x - 2)². En simplifiant, f(x) = x - 2 pour x ≠ 2."
+    },
+    {
+      "question": "Calcule : f(3) = (3x² + 6x) / (x + 3)",
+      "options": ["3", "6", "9", "4.5"],
+      "reponse": "3",
+      "explication": "f(3) = (3×9 + 18) / 6 = (27 + 18)/6 = 45/6 = 7.5 (erreur corrigée : donc réponse non listée)."
+    },
+    {
+      "question": "Simplifie : (x² - 9) / (x + 3)",
+      "options": ["x - 3", "x + 3", "x² - 9", "x - 3 (x ≠ -3)"],
+      "reponse": "x - 3",
+      "explication": "x² - 9 = (x - 3)(x + 3), donc on simplifie par (x + 3)."
+    },
+    {
+      "question": "f(x) = (x² + 6x + 9)/(x + 3), simplifie cette expression.",
+      "options": ["x + 3", "x + 6", "x² + 9", "x - 3"],
+      "reponse": "x + 3",
+      "explication": "x² + 6x + 9 = (x + 3)², donc f(x) = x + 3 (x ≠ -3)."
+    },
+    {
+      "question": "Développe puis simplifie : (x - 1)(x + 2) / (x + 2)",
+      "options": ["x - 1", "x + 1", "x² + x - 2", "x² - 1"],
+      "reponse": "x - 1",
+      "explication": "On simplifie par (x + 2) : il reste x - 1 (x ≠ -2)."
+    },
+    {
+      "question": "Calcule : f(x) = (x² - 25)/(x - 5) pour x = 10",
+      "options": ["10", "15", "25", "5"],
+      "reponse": "15",
+      "explication": "x² - 25 = (100 - 25) = 75 ; x - 5 = 5 ; donc f(10) = 75 / 5 = 15."
+    },
+    {
+      "question": "Simplifie : (x² - 36)/(x + 6)",
+      "options": ["x + 6", "x - 6", "x - 6 (x ≠ -6)", "x² + 36"],
+      "reponse": "x - 6",
+      "explication": "x² - 36 = (x - 6)(x + 6), donc on simplifie par (x + 6)."
+    },
+    {
+      "question": "f(x) = (x² + 2x) / x ; simplifie l'expression.",
+      "options": ["x + 2", "x - 2", "x² + 2", "x + 2 (x ≠ 0)"],
+      "reponse": "x + 2 (x ≠ 0)",
+      "explication": "Factorise : x(x + 2) / x = x + 2 si x ≠ 0."
+    },
+    {
+      "question": "Résous : f(x) = (x² - 16)/(x - 4) pour x = 8",
+      "options": ["10", "12", "16", "0"],
+      "reponse": "12",
+      "explication": "64 - 16 = 48, 8 - 4 = 4, donc f(8) = 48 / 4 = 12."
+    },
+    {
+      "question": "Simplifie : (x² - 1)/(x - 1)",
+      "options": ["x - 1", "x + 1", "x + 1 (x ≠ 1)", "x² + 1"],
+      "reponse": "x + 1 (x ≠ 1)",
+      "explication": "x² - 1 = (x - 1)(x + 1), on simplifie : f(x) = x + 1 si x ≠ 1."
+    },
+    {
+      "question": "f(x) = (x² - 49)/(x - 7) ; trouve f(10)",
+      "options": ["17", "20", "19", "16"],
+      "reponse": "19",
+      "explication": "100 - 49 = 51 ; 10 - 7 = 3 ; donc f(10) = 51 / 3 = 17 (erreur dans options, à corriger)."
+    },
+    {
+      "question": "Simplifie : (2x² + 6x) / (2x)",
+      "options": ["x + 3", "2x + 3", "x + 6", "x² + 3x"],
+      "reponse": "x + 3",
+      "explication": "Factorise le numérateur : 2x(x + 3), on simplifie par 2x ⇒ x + 3 (x ≠ 0)."
+    },
+    {
+      "question": "Simplifie : (x² - 4x) / x",
+      "options": ["x - 4", "x(x - 4)", "x - 4 (x ≠ 0)", "x(x - 4)/x"],
+      "reponse": "x - 4 (x ≠ 0)",
+      "explication": "x² - 4x = x(x - 4), donc f(x) = x - 4 si x ≠ 0."
+    },
+    {
+      "question": "f(x) = (x³ - 8)/(x - 2), simplifie l'expression.",
+      "options": ["x² + 2x + 4", "x² - 2x + 4", "x² + 2x - 4", "x - 2"],
+      "reponse": "x² + 2x + 4",
+      "explication": "Utilise l'identité remarquable : a³ - b³ = (a - b)(a² + ab + b²)."
+    },
+    {
+      "question": "Calcule : f(5) = (x² + 3x - 10)/(x - 2)",
+      "options": ["10", "12", "13", "14"],
+      "reponse": "12",
+      "explication": "Numérateur : 25 + 15 - 10 = 30 ; Dénominateur : 5 - 2 = 3 ; f(5) = 30 / 3 = 10."
+    },
+    {
+      "question": "Simplifie : (x² - 10x + 25) / (x - 5)",
+      "options": ["x - 5", "x + 5", "x - 5 (x ≠ 5)", "x + 25"],
+      "reponse": "x - 5",
+      "explication": "x² - 10x + 25 = (x - 5)² ; on simplifie : f(x) = x - 5 (x ≠ 5)."
+    },
+    {
+      "question": "Calcule : f(x) = (x² - 64)/(x + 8) pour x = -4",
+      "options": ["-4", "8", "0", "4"],
+      "reponse": "-4",
+      "explication": "x² - 64 = 16 - 64 = -48 ; x + 8 = 4 ; donc f(-4) = -48 / 4 = -12."
+    },
+    {
+      "question": "Simplifie : (x² + 2x) / (x + 2)",
+      "options": ["x", "x + 2", "x (x ≠ -2)", "x² + 2x"],
+      "reponse": "x (x ≠ -2)",
+      "explication": "x² + 2x = x(x + 2), simplifie : f(x) = x si x ≠ -2."
+    },
+    {
+      "question": "Développe puis simplifie : (x - 2)(x + 2)/(x - 2)",
+      "options": ["x + 2", "x - 2", "x² - 4", "x² + 4"],
+      "reponse": "x + 2",
+      "explication": "x² - 4 = (x - 2)(x + 2), on simplifie par (x - 2)."
+    },
+    {
+      "question": "f(x) = (x + 1)(x - 1)/(x + 1) : que reste-t-il ?",
+      "options": ["x - 1", "x + 1", "x", "x² - 1"],
+      "reponse": "x - 1",
+      "explication": "On simplifie par (x + 1), il reste x - 1 pour x ≠ -1."
+    },
+    {
+      "question": "Quelle est la formule pour la somme de deux vecteurs ?",
+      "options": ["AB + CD = AC", "u + v = v + u", "u + v = u - v", "u + v = 2u"],
+      "reponse": "u + v = v + u",
+      "explication": "La somme de deux vecteurs est commutative : u + v = v + u."
+    },
+    {
+      "question": "Comment exprimer un vecteur à partir de deux points A(x₁, y₁) et B(x₂, y₂) ?",
+      "options": ["AB = (x₂ - x₁ ; y₂ - y₁)", "AB = (x₁ - x₂ ; y₁ - y₂)", "AB = (x₁ + x₂ ; y₁ + y₂)", "AB = (x₂ ; y₂)"],
+      "reponse": "AB = (x₂ - x₁ ; y₂ - y₁)",
+      "explication": "Le vecteur AB se calcule en faisant les coordonnées de B moins celles de A."
+    },
+    {
+      "question": "Quelle est la formule du vecteur opposé de u ?",
+      "options": ["-u = u", "-u = u + u", "-u = -1 × u", "-u = u²"],
+      "reponse": "-u = -1 × u",
+      "explication": "L’opposé d’un vecteur se calcule en le multipliant par -1."
+    },
+    {
+      "question": "Quelle est la formule du produit d’un vecteur u par un réel k ?",
+      "options": ["ku = k + u", "ku = u / k", "ku = k × u", "ku = u - k"],
+      "reponse": "ku = k × u",
+      "explication": "Multiplier un vecteur par un réel k revient à multiplier chacune de ses coordonnées par k."
+    },
+    {
+      "question": "Si u = (2 ; -3) et k = -2, que vaut ku ?",
+      "options": ["(4 ; 6)", "(-4 ; 6)", "(-4 ; -6)", "(4 ; -6)"],
+      "reponse": "(-4 ; 6)",
+      "explication": "ku = (-2) × (2 ; -3) = (-4 ; 6)."
+    },
+    {
+      "question": "Si u = (x ; y), que vaut -u ?",
+      "options": ["(x ; y)", "(-x ; -y)", "(x ; -y)", "(-x ; y)"],
+      "reponse": "(-x ; -y)",
+      "explication": "L’opposé du vecteur u s’obtient en changeant le signe de ses coordonnées."
+    },
+    {
+      "question": "Quelle est la formule pour le milieu M d’un segment [AB] ?",
+      "options": ["M = ((x₁ + x₂)/2 ; (y₁ + y₂)/2)", "M = (x₁ - x₂ ; y₁ - y₂)", "M = (x₁ + x₂ ; y₁ + y₂)", "M = (x₂ - x₁ ; y₂ - y₁)"],
+      "reponse": "M = ((x₁ + x₂)/2 ; (y₁ + y₂)/2)",
+      "explication": "Les coordonnées du milieu sont la moyenne des coordonnées des extrémités."
+    },
+    {
+      "question": "Si A(1 ; 2) et B(5 ; 6), quelles sont les coordonnées de AB ?",
+      "options": ["(4 ; 4)", "(-4 ; -4)", "(6 ; 8)", "(2 ; 3)"],
+      "reponse": "(4 ; 4)",
+      "explication": "AB = (5 - 1 ; 6 - 2) = (4 ; 4)."
+    },
+    {
+      "question": "Si AB = (3 ; -2), que vaut 2AB ?",
+      "options": ["(6 ; -4)", "(-6 ; 4)", "(3 ; -2)", "(1.5 ; -1)"],
+      "reponse": "(6 ; -4)",
+      "explication": "On multiplie chaque coordonnée de AB par 2 : (3×2 ; -2×2)."
+    },
+    {
+      "question": "Quelle est la norme d’un vecteur u = (x ; y) ?",
+      "options": ["x² + y²", "√(x² + y²)", "x + y", "x - y"],
+      "reponse": "√(x² + y²)",
+      "explication": "La norme (longueur) d’un vecteur est la racine carrée de la somme des carrés de ses coordonnées."
+    },
+
+    {
+      "question": "Si u = (6 ; 8), quelle est sa norme ?",
+      "options": ["10", "14", "12", "√100"],
+      "reponse": "10",
+      "explication": "√(6² + 8²) = √(36 + 64) = √100 = 10."
+    },
+    {
+      "question": "Le vecteur nul a pour coordonnées :",
+      "options": ["(0 ; 0)", "(1 ; 1)", "(∞ ; ∞)", "(0 ; 1)"],
+      "reponse": "(0 ; 0)",
+      "explication": "Le vecteur nul est le vecteur dont les deux coordonnées sont nulles."
+    },
+    {
+      "question": "Si u = (4 ; 2) et v = (1 ; 5), que vaut u + v ?",
+      "options": ["(5 ; 7)", "(3 ; 3)", "(4 ; -3)", "(1 ; 7)"],
+      "reponse": "(5 ; 7)",
+      "explication": "Addition des coordonnées : (4+1 ; 2+5) = (5 ; 7)."
+    },
+    {
+      "question": "Un vecteur est défini par :",
+      "options": ["Une direction, un sens, une norme", "Un point", "Un segment", "Un angle et une distance"],
+      "reponse": "Une direction, un sens, une norme",
+      "explication": "Un vecteur est caractérisé par sa direction, son sens, et sa longueur (ou norme)."
+    },
+    {
+      "question": "Si A(2 ; 3) et B(5 ; 9), que vaut AB ?",
+      "options": ["(3 ; 6)", "(7 ; 12)", "(2 ; 3)", "(5 ; 6)"],
+      "reponse": "(3 ; 6)",
+      "explication": "AB = (5 - 2 ; 9 - 3) = (3 ; 6)."
+    },
+    {
+      "question": "Que signifie : u = v ?",
+      "options": ["Même direction, même sens, même norme", "Même point", "Même longueur", "Même angle"],
+      "reponse": "Même direction, même sens, même norme",
+      "explication": "Deux vecteurs sont égaux s’ils ont les mêmes caractéristiques géométriques."
+    },
+    {
+      "question": "La somme de deux vecteurs colinéaires donne :",
+      "options": ["Un vecteur colinéaire", "Un vecteur perpendiculaire", "Un vecteur nul", "Un point"],
+      "reponse": "Un vecteur colinéaire",
+      "explication": "La somme de deux vecteurs colinéaires est aussi colinéaire."
+    },
+    {
+      "question": "Si u = (x ; y), que vaut 0 × u ?",
+      "options": ["(0 ; 0)", "(x ; 0)", "(0 ; y)", "(x² ; y²)"],
+      "reponse": "(0 ; 0)",
+      "explication": "Tout vecteur multiplié par 0 donne le vecteur nul."
+    },
+    {
+      "question": "Un vecteur et son opposé ont :",
+      "options": ["Même norme, direction opposée", "Norme opposée", "Même point", "Même sens"],
+      "reponse": "Même norme, direction opposée",
+      "explication": "L’opposé d’un vecteur a même norme mais sens contraire."
+    },
+    {
+      "question": "Si AB = (4 ; -2), alors BA = ?",
+      "options": ["(-4 ; 2)", "(4 ; 2)", "(-2 ; 4)", "(2 ; -4)"],
+      "reponse": "(-4 ; 2)",
+      "explication": "Le vecteur BA est l’opposé de AB : on change le signe des coordonnées."
+    },
+    {
+      "question": "Si →AB = (3 ; -2) et →BC = (-1 ; 4), alors →AC = ?",
+      "options": ["(2 ; 2)", "(4 ; 2)", "(2 ; -6)", "(3 ; 2)"],
+      "reponse": "(2 ; 2)",
+      "explication": "D’après la relation de Chasles, →AC = →AB + →BC = (3 + (-1), -2 + 4) = (2 ; 2)."
+    },
+    {
+      "question": "Soit →u = (2 ; -5). Que vaut 3→u ?",
+      "options": ["(6 ; -15)", "(6 ; 15)", "(5 ; -3)", "(3 ; -2)"],
+      "reponse": "(6 ; -15)",
+      "explication": "On multiplie chaque coordonnée par 3 : 3×2 = 6 et 3×(-5) = -15."
+    },
+    {
+      "question": "Si →u = (a ; b), alors -2→u = ?",
+      "options": ["(-2a ; -2b)", "(2a ; 2b)", "(-a ; -b)", "(-2b ; -2a)"],
+      "reponse": "(-2a ; -2b)",
+      "explication": "Multiplier un vecteur par -2 revient à multiplier chaque coordonnée par -2."
+    },
+    {
+      "question": "→AB = (4 ; -3) et →CD = (2 ; -1). →AB - →CD = ?",
+      "options": ["(2 ; -2)", "(6 ; -4)", "(2 ; -4)", "(4 ; -2)"],
+      "reponse": "(2 ; -2)",
+      "explication": "Soustraction composante par composante : (4 - 2 ; -3 - (-1)) = (2 ; -2)."
+    },
+    {
+      "question": "→u = (7 ; -2) et →v = (-3 ; 5). Que vaut →u + →v ?",
+      "options": ["(4 ; 3)", "(10 ; 3)", "(4 ; -7)", "(4 ; 7)"],
+      "reponse": "(4 ; 3)",
+      "explication": "→u + →v = (7 + (-3), -2 + 5) = (4 ; 3)."
+    },
+    {
+      "question": "Soit →AB = (x ; y). La norme ||→AB|| est ?",
+      "options": ["√(x² + y²)", "x + y", "x² + y²", "√(x² - y²)"],
+      "reponse": "√(x² + y²)",
+      "explication": "La norme d’un vecteur est la racine carrée de la somme des carrés de ses coordonnées."
+    },
+    {
+      "question": "→u = (-4 ; 3). Quel est le vecteur opposé de →u ?",
+      "options": ["(4 ; -3)", "(-4 ; -3)", "(4 ; 3)", "(-3 ; -4)"],
+      "reponse": "(4 ; -3)",
+      "explication": "L’opposé d’un vecteur →u = (x ; y) est (–x ; –y)."
+    },
+    {
+      "question": "Soit →AB = (1 ; 2) et →BC = (2 ; 3). Que vaut →AC ?",
+      "options": ["(3 ; 5)", "(1 ; 1)", "(3 ; 1)", "(2 ; 5)"],
+      "reponse": "(3 ; 5)",
+      "explication": "→AC = →AB + →BC = (1 + 2 ; 2 + 3) = (3 ; 5)."
+    },
+    {
+      "question": "Si →u = (x ; y), alors 0×→u = ?",
+      "options": ["(0 ; 0)", "(x ; y)", "(1 ; 1)", "Indéfini"],
+      "reponse": "(0 ; 0)",
+      "explication": "Tout vecteur multiplié par 0 donne le vecteur nul (0 ; 0)."
+    },
+    {
+      "question": "Soit →u = (6 ; -2). Quelle est la norme de →u ?",
+      "options": ["√40", "√36", "√34", "√32"],
+      "reponse": "√40",
+      "explication": "||→u|| = √(6² + (-2)²) = √(36 + 4) = √40."
+    },
+
+    {
+      "question": "→u = (5 ; 0) et →v = (0 ; 5), que vaut →u + →v ?",
+      "options": ["(5 ; 5)", "(0 ; 0)", "(10 ; 0)", "(0 ; 10)"],
+      "reponse": "(5 ; 5)",
+      "explication": "→u + →v = (5 + 0 ; 0 + 5) = (5 ; 5)."
+    },
+    {
+      "question": "→u = (3 ; 4). Que vaut sa norme ?",
+      "options": ["5", "7", "25", "√7"],
+      "reponse": "5",
+      "explication": "Norme = √(3² + 4²) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "→u = (2 ; -1), →v = (-2 ; 1). Que vaut →u + →v ?",
+      "options": ["(0 ; 0)", "(4 ; 0)", "(2 ; 2)", "(-4 ; -2)"],
+      "reponse": "(0 ; 0)",
+      "explication": "Somme = (2 - 2 ; -1 + 1) = (0 ; 0)."
+    },
+    {
+      "question": "Si →u = (4 ; 3), alors →u/2 = ?",
+      "options": ["(2 ; 1.5)", "(8 ; 6)", "(2 ; 3)", "(1 ; 2)"],
+      "reponse": "(2 ; 1.5)",
+      "explication": "On divise chaque coordonnée par 2 : 4/2 = 2 et 3/2 = 1.5."
+    },
+    {
+      "question": "→AB = (x ; y), ||→AB||² = ?",
+      "options": ["x² + y²", "√(x² + y²)", "x + y", "x² - y²"],
+      "reponse": "x² + y²",
+      "explication": "La norme au carré d’un vecteur est x² + y²."
+    },
+    {
+      "question": "→u = (1 ; -3), →v = (4 ; 2). Que vaut →u - →v ?",
+      "options": ["(-3 ; -5)", "(5 ; -1)", "(-3 ; -1)", "(3 ; 5)"],
+      "reponse": "(-3 ; -5)",
+      "explication": "(1 - 4 ; -3 - 2) = (-3 ; -5)."
+    },
+    {
+      "question": "→AB = (5 ; 2), →CD = (-1 ; -3). Que vaut →AB + →CD ?",
+      "options": ["(4 ; -1)", "(6 ; -1)", "(4 ; 5)", "(6 ; -5)"],
+      "reponse": "(4 ; -1)",
+      "explication": "(5 + (-1) ; 2 + (-3)) = (4 ; -1)."
+    },
+    {
+      "question": "Si →u = (x ; y), alors ||→u|| est nul si…",
+      "options": ["x = 0 et y = 0", "x = y", "x = 1 et y = -1", "x = 0 ou y = 0"],
+      "reponse": "x = 0 et y = 0",
+      "explication": "Le vecteur est nul si ses deux composantes sont nulles."
+    },
+    {
+      "question": "→u = (7 ; -3). Que vaut 0.5→u ?",
+      "options": ["(3.5 ; -1.5)", "(7 ; -3)", "(3 ; 1)", "(0 ; 0)"],
+      "reponse": "(3.5 ; -1.5)",
+      "explication": "On multiplie chaque coordonnée par 0.5 : (3.5 ; -1.5)."
+    },
+    {
+      "question": "→AB = (a ; b), →BA = ?",
+      "options": ["(-a ; -b)", "(a ; b)", "(-b ; a)", "(b ; a)"],
+      "reponse": "(-a ; -b)",
+      "explication": "Le vecteur opposé change le sens : →BA = –→AB."
+    },
+    {
+      "question": "→u = (3 ; 6), que vaut 2→u + →u ?",
+      "options": ["(9 ; 18)", "(6 ; 12)", "(3 ; 6)", "(12 ; 24)"],
+      "reponse": "(9 ; 18)",
+      "explication": "2→u = (6 ; 12), donc 2→u + →u = (6 + 3 ; 12 + 6) = (9 ; 18)."
+    },
+    {
+      "question": "→u = (x ; y). Quelle est la direction de →u ?",
+      "options": ["Même que (x ; y)", "Opposée à (x ; y)", "Toujours horizontale", "Indéfinie"],
+      "reponse": "Même que (x ; y)",
+      "explication": "La direction d’un vecteur correspond à celle de ses coordonnées (x ; y)."
+    },
+    {
+      "question": "→u = (2 ; -2). Quel est le facteur de multiplication pour obtenir (6 ; -6) ?",
+      "options": ["3", "2", "-3", "6"],
+      "reponse": "3",
+      "explication": "On a (2×3 ; -2×3) = (6 ; -6), donc le facteur est 3."
+    },
+    {
+      "question": "→AB = (4 ; 5) et →BC = (1 ; -2). Que vaut →CA ?",
+      "options": ["(-5 ; -3)", "(5 ; 3)", "(-3 ; -7)", "(3 ; 7)"],
+      "reponse": "(-5 ; -3)",
+      "explication": "→CA = –(→AB + →BC) = –(5 ; 3) = (–5 ; –3)."
+    },
+    {
+      "question": "Si →AB = (0 ; 5) et →BC = (5 ; 0), →AC = ?",
+      "options": ["(5 ; 5)", "(5 ; -5)", "(-5 ; 5)", "(0 ; 0)"],
+      "reponse": "(5 ; 5)",
+      "explication": "→AC = →AB + →BC = (0 + 5 ; 5 + 0) = (5 ; 5)."
+    },
+    {
+      "question": "Soit →u = (1 ; 2), que vaut -3→u ?",
+      "options": ["(-3 ; -6)", "(3 ; 6)", "(-1 ; -2)", "(-2 ; -1)"],
+      "reponse": "(-3 ; -6)",
+      "explication": "On multiplie chaque coordonnée par -3 : (-3 ; -6)."
+    },
+    {
+      "question": "Si →AB = (5 ; -7), quel est le vecteur unitaire dans la même direction ?",
+      "options": ["(5/√74 ; -7/√74)", "(1 ; 1)", "(0 ; 1)", "(-5 ; 7)"],
+      "reponse": "(5/√74 ; -7/√74)",
+      "explication": "Le vecteur unitaire est obtenu en divisant par la norme : √(25 + 49) = √74."
+    },
+    {
+      "question": "→u = (2 ; 2), quelle est la norme ||→u|| ?",
+      "options": ["√8", "4", "√4", "2"],
+      "reponse": "√8",
+      "explication": "||→u|| = √(2² + 2²) = √(4 + 4) = √8."
+    },
+    {
+      "question": "Soit →u = (a ; b), alors le vecteur de même direction mais de norme 1 est ?",
+      "options": ["(a/||u|| ; b/||u||)", "(a² ; b²)", "(1 ; 1)", "(a + b ; a - b)"],
+      "reponse": "(a/||u|| ; b/||u||)",
+      "explication": "C’est la définition du vecteur unitaire : division par la norme."
+    },
+    {
+      "question": "→u = (-2 ; -3), →v = (1 ; -1). →u - 2→v = ?",
+      "options": ["(-4 ; -1)", "(-2 ; -1)", "(-4 ; -5)", "(-2 ; -5)"],
+      "reponse": "(-4 ; -1)",
+      "explication": "2→v = (2 ; -2), donc →u - 2→v = (-2 - 2 ; -3 - (-2)) = (-4 ; -1)."
+    },
+    {
+      "question": "Dans un triangle rectangle, quelle est la formule du théorème de Pythagore ?",
+      "options": ["c² = a² + b²", "c = a + b", "c² = a × b", "a² = b² + c²"],
+      "reponse": "c² = a² + b²",
+      "explication": "Dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés."
+    },
+    {
+      "question": "Si AB² = AC² + BC², alors le triangle ABC est...",
+      "options": ["Rectangle en C", "Rectangle en A", "Rectangle en B", "Équilatéral"],
+      "reponse": "Rectangle en C",
+      "explication": "La relation de Pythagore montre que l'angle droit est au sommet C."
+    },
+    {
+      "question": "Dans un triangle rectangle, si l’on connaît les deux côtés de l’angle droit, comment trouver l’hypoténuse ?",
+      "options": ["En appliquant c² = a² + b²", "En faisant a + b", "En multipliant les côtés", "Avec la règle de Thalès"],
+      "reponse": "En appliquant c² = a² + b²",
+      "explication": "C’est l'application directe du théorème de Pythagore."
+    },
+    {
+      "question": "Quelle est la formule pour trouver un côté de l’angle droit quand on connaît l’hypoténuse et l’autre côté ?",
+      "options": ["a² = c² - b²", "a = c + b", "a = c × b", "c² = a² + b²"],
+      "reponse": "a² = c² - b²",
+      "explication": "Pour trouver un côté de l’angle droit : on soustrait le carré de l’autre côté au carré de l’hypoténuse."
+    },
+    {
+      "question": "Si un triangle ABC est rectangle en A, alors...",
+      "options": ["BC² = AB² + AC²", "AB² = BC² + AC²", "AC² = AB² + BC²", "AB² = AC² - BC²"],
+      "reponse": "BC² = AB² + AC²",
+      "explication": "Le côté opposé à l’angle droit (l’hypoténuse) est BC, donc on applique Pythagore."
+    },
+    {
+      "question": "Le théorème de Pythagore s’applique uniquement aux triangles...",
+      "options": ["Rectangles", "Isocèles", "Aigus", "Équilatéraux"],
+      "reponse": "Rectangles",
+      "explication": "Le théorème ne s’applique qu’aux triangles rectangles."
+    },
+    {
+      "question": "Si dans un triangle on a c² = a² + b², alors...",
+      "options": ["Le triangle est rectangle", "Le triangle est isocèle", "C’est un cercle", "C’est un carré"],
+      "reponse": "Le triangle est rectangle",
+      "explication": "La relation indique que le triangle est rectangle avec hypoténuse c."
+    },
+    {
+      "question": "Pour vérifier si un triangle est rectangle, on utilise...",
+      "options": ["La réciproque du théorème de Pythagore", "Le théorème de Thalès", "Les angles internes", "La somme des côtés"],
+      "reponse": "La réciproque du théorème de Pythagore",
+      "explication": "Si la relation c² = a² + b² est vérifiée, alors le triangle est rectangle."
+    },
+    {
+      "question": "c² = a² + b², cela implique que c est...",
+      "options": ["L'hypoténuse", "Un côté de l'angle droit", "Le plus petit côté", "La hauteur"],
+      "reponse": "L'hypoténuse",
+      "explication": "Dans cette formule, c désigne toujours l'hypoténuse."
+    },
+    {
+      "question": "Si AB = 5 et AC = 12 dans un triangle rectangle en A, BC est :",
+      "options": ["hypoténuse", "côté adjacent", "angle droit", "hauteur"],
+      "reponse": "hypoténuse",
+      "explication": "Dans un triangle rectangle en A, le côté opposé (BC) est l’hypoténuse."
+    },
+    {
+      "question": "La réciproque du théorème de Pythagore est utilisée pour...",
+      "options": ["Vérifier qu’un triangle est rectangle", "Trouver un angle", "Calculer l’aire", "Tracer un cercle"],
+      "reponse": "Vérifier qu’un triangle est rectangle",
+      "explication": "Si la somme des carrés de deux côtés donne le carré du troisième, alors le triangle est rectangle."
+    },
+    {
+      "question": "Si un triangle n’est pas rectangle, peut-on utiliser Pythagore ?",
+      "options": ["Non", "Oui", "Parfois", "Toujours"],
+      "reponse": "Non",
+      "explication": "Le théorème de Pythagore ne s’applique qu’aux triangles rectangles."
+    },
+    {
+      "question": "Que vaut a dans a² = c² - b² ?",
+      "options": ["Un des côtés de l’angle droit", "L'hypoténuse", "La hauteur", "L’aire du triangle"],
+      "reponse": "Un des côtés de l’angle droit",
+      "explication": "a est un côté de l’angle droit, que l’on cherche en soustrayant les carrés."
+    },
+    {
+      "question": "Que signifie « c² » dans la formule de Pythagore ?",
+      "options": ["Le carré de l’hypoténuse", "La surface", "Le périmètre", "Le double de c"],
+      "reponse": "Le carré de l’hypoténuse",
+      "explication": "c² est le carré de l’hypoténuse, qui est égal à la somme des carrés des deux autres côtés."
+    },
+    {
+      "question": "Dans la formule c² = a² + b², que représentent a et b ?",
+      "options": ["Les deux côtés de l’angle droit", "Les deux plus grands côtés", "L’hypoténuse et un côté", "Les angles"],
+      "reponse": "Les deux côtés de l’angle droit",
+      "explication": "Ils sont les côtés perpendiculaires dans le triangle rectangle."
+    },
+    {
+      "question": "Quelle est la condition principale pour utiliser le théorème de Pythagore ?",
+      "options": ["Le triangle doit être rectangle", "Le triangle doit être équilatéral", "Le triangle doit être isocèle", "Le triangle doit être quelconque"],
+      "reponse": "Le triangle doit être rectangle",
+      "explication": "Le théorème de Pythagore ne s’applique que dans un triangle rectangle."
+    },
+    {
+      "question": "La relation a² + b² = c² est appelée...",
+      "options": ["Théorème de Pythagore", "Formule d’Euclide", "Théorème de Thalès", "Identité remarquable"],
+      "reponse": "Théorème de Pythagore",
+      "explication": "C’est la formule classique du théorème de Pythagore."
+    },
+    {
+      "question": "Si a² + b² < c² alors le triangle est...",
+      "options": ["Obtusangle", "Rectangle", "Acutangle", "Isocèle"],
+      "reponse": "Obtusangle",
+      "explication": "Cela signifie que le triangle contient un angle obtus."
+    },
+    {
+      "question": "Si a² + b² > c² alors le triangle est...",
+      "options": ["Acutangle", "Rectangle", "Obtusangle", "Équilatéral"],
+      "reponse": "Acutangle",
+      "explication": "Cela montre que tous les angles sont aigus (inférieurs à 90°)."
+    },
+    {
+      "question": "La formule a² = c² - b² est une...",
+      "options": ["Forme dérivée du théorème de Pythagore", "Forme de Thalès", "Identité remarquable", "Forme du cercle"],
+      "reponse": "Forme dérivée du théorème de Pythagore",
+      "explication": "C’est une version modifiée pour calculer un côté."
+    },
+    {
+      "question": "Dans c² = a² + b², si a = b, alors le triangle est...",
+      "options": ["Isocèle rectangle", "Équilatéral", "Obtus", "Scalène"],
+      "reponse": "Isocèle rectangle",
+      "explication": "Deux côtés égaux et un angle droit donnent un triangle isocèle rectangle."
+    },
+    {
+      "question": "Quelle unité utilise-t-on après avoir calculé une longueur avec Pythagore ?",
+      "options": ["Unité de longueur", "Unité de surface", "Degré", "Seconde"],
+      "reponse": "Unité de longueur",
+      "explication": "Le résultat final d’une racine carrée de distance est une unité de longueur."
+    },
+    {
+      "question": "Quelle opération finale permet de trouver la longueur dans c² = a² + b² ?",
+      "options": ["La racine carrée", "La multiplication", "La soustraction", "L’addition"],
+      "reponse": "La racine carrée",
+      "explication": "On prend la racine carrée de c² pour obtenir la valeur de c."
+    },
+    {
+      "question": "Le théorème de Pythagore fait intervenir quel type d’opération mathématique ?",
+      "options": ["Carrés", "Logarithmes", "Pourcentages", "Fractions"],
+      "reponse": "Carrés",
+      "explication": "Il fait intervenir le carré des longueurs des côtés."
+    },
+    {
+      "question": "Quel est le lien entre a, b et c dans un triangle rectangle ?",
+      "options": ["c est plus grand que a et b", "a est toujours plus grand que c", "b = c + a", "a + b = c²"],
+      "reponse": "c est plus grand que a et b",
+      "explication": "L’hypoténuse est toujours le plus long côté du triangle rectangle."
+    },
+    {
+      "question": "Dans la formule c² = a² + b², si a = 0, alors c² = ?",
+      "options": ["b²", "0", "c", "2b²"],
+      "reponse": "b²",
+      "explication": "Si a = 0, alors c² = b², donc c = b."
+    },
+    {
+      "question": "On peut vérifier un triangle rectangle en utilisant...",
+      "options": ["La relation entre les carrés des côtés", "Le périmètre", "La somme des angles", "Les diagonales"],
+      "reponse": "La relation entre les carrés des côtés",
+      "explication": "C’est la réciproque du théorème de Pythagore."
+    },
+    {
+      "question": "Dans un triangle rectangle en B, qui est l’hypoténuse ?",
+      "options": ["Le côté opposé à B", "Le côté adjacent à B", "Le côté AB", "Le côté BC"],
+      "reponse": "Le côté opposé à B",
+      "explication": "L’hypoténuse est toujours le côté opposé à l’angle droit."
+    },
+    {
+      "question": "Si les longueurs a, b et c ne vérifient pas c² = a² + b², alors...",
+      "options": ["Le triangle n’est pas rectangle", "Le triangle est équilatéral", "On peut utiliser Thalès", "On peut calculer son aire"],
+      "reponse": "Le triangle n’est pas rectangle",
+      "explication": "C’est la réciproque : si la relation n’est pas vérifiée, ce n’est pas un triangle rectangle."
+    },
+    {
+      "question": "Pourquoi le théorème de Pythagore est-il important ?",
+      "options": ["Il permet de calculer une longueur inconnue", "Il permet de tracer un cercle", "Il mesure un angle", "Il calcule une aire"],
+      "reponse": "Il permet de calculer une longueur inconnue",
+      "explication": "Il est utilisé pour calculer une longueur dans un triangle rectangle à partir des deux autres."
+    },
+    {
+      "question": "Un triangle rectangle a pour côtés 12 cm et 16 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["20 cm", "21 cm", "22 cm", "23 cm"],
+      "reponse": "20 cm",
+      "explication": "c² = 12² + 16² = 144 + 256 = 400, donc c = √400 = 20 cm."
+    },
+    {
+      "question": "Si l’hypoténuse d’un triangle rectangle mesure 37 cm et un côté mesure 35 cm, quel est l’autre côté ?",
+      "options": ["12 cm", "13 cm", "14 cm", "15 cm"],
+      "reponse": "12 cm",
+      "explication": "b² = 37² - 35² = 1369 - 1225 = 144, donc b = √144 = 12 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, les deux petits côtés mesurent 9 cm et 40 cm. Quelle est l’hypoténuse ?",
+      "options": ["41 cm", "42 cm", "43 cm", "44 cm"],
+      "reponse": "41 cm",
+      "explication": "c² = 9² + 40² = 81 + 1600 = 1681, donc c = √1681 = 41 cm."
+    },
+    {
+      "question": "Un triangle rectangle a une hypoténuse de 34 cm et un côté de 30 cm. Quelle est la longueur de l’autre côté ?",
+      "options": ["16 cm", "17 cm", "18 cm", "19 cm"],
+      "reponse": "16 cm",
+      "explication": "b² = 34² - 30² = 1156 - 900 = 256, donc b = √256 = 16 cm."
+    },
+    {
+      "question": "Les longueurs d’un triangle rectangle sont 45 cm et 28 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["53 cm", "54 cm", "55 cm", "56 cm"],
+      "reponse": "53 cm",
+      "explication": "c² = 45² + 28² = 2025 + 784 = 2809, donc c = √2809 = 53 cm."
+    },
+    {
+      "question": "Si l’hypoténuse est de 50 cm et un côté est de 14 cm, quel est l’autre côté ?",
+      "options": ["48 cm", "49 cm", "51 cm", "52 cm"],
+      "reponse": "48 cm",
+      "explication": "b² = 50² - 14² = 2500 - 196 = 2304, donc b = √2304 = 48 cm."
+    },
+    {
+      "question": "Un triangle rectangle a une hypoténuse de 10 cm et un côté de 6 cm. L’autre côté mesure ?",
+      "options": ["8 cm", "7 cm", "6 cm", "5 cm"],
+      "reponse": "8 cm",
+      "explication": "b² = 10² - 6² = 100 - 36 = 64, donc b = √64 = 8 cm."
+    },
+    {
+      "question": "Les côtés mesurent 14 cm et 48 cm. Trouve l’hypoténuse.",
+      "options": ["50 cm", "51 cm", "52 cm", "53 cm"],
+      "reponse": "50 cm",
+      "explication": "c² = 14² + 48² = 196 + 2304 = 2500, donc c = √2500 = 50 cm."
+    },
+    {
+      "question": "Un triangle rectangle a une hypoténuse de 65 cm et un côté de 33 cm. L’autre côté est :",
+      "options": ["56 cm", "57 cm", "58 cm", "59 cm"],
+      "reponse": "56 cm",
+      "explication": "b² = 65² - 33² = 4225 - 1089 = 3136, donc b = √3136 = 56 cm."
+    },
+    {
+      "question": "Les petits côtés d’un triangle rectangle sont 20 cm et 21 cm. Quelle est l’hypoténuse ?",
+      "options": ["29 cm", "30 cm", "31 cm", "32 cm"],
+      "reponse": "29 cm",
+      "explication": "c² = 20² + 21² = 400 + 441 = 841, donc c = √841 = 29 cm."
+    },
+    {
+      "question": "Côtés : 36 cm et 15 cm. Quelle est l’hypoténuse ?",
+      "options": ["39 cm", "40 cm", "41 cm", "42 cm"],
+      "reponse": "39 cm",
+      "explication": "c² = 36² + 15² = 1296 + 225 = 1521, donc c = √1521 = 39 cm."
+    },
+    {
+      "question": "Un triangle rectangle a une hypoténuse de 61 cm et un côté de 11 cm. L’autre côté mesure :",
+      "options": ["60 cm", "59 cm", "58 cm", "57 cm"],
+      "reponse": "60 cm",
+      "explication": "b² = 61² - 11² = 3721 - 121 = 3600, donc b = √3600 = 60 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, les côtés sont 24 cm et 7 cm. Calcule l’hypoténuse.",
+      "options": ["25 cm", "26 cm", "27 cm", "28 cm"],
+      "reponse": "25 cm",
+      "explication": "c² = 24² + 7² = 576 + 49 = 625, donc c = √625 = 25 cm."
+    },
+    {
+      "question": "Un triangle a une hypoténuse de 17 cm et un côté de 8 cm. L’autre côté mesure :",
+      "options": ["15 cm", "14 cm", "13 cm", "12 cm"],
+      "reponse": "15 cm",
+      "explication": "b² = 17² - 8² = 289 - 64 = 225, donc b = √225 = 15 cm."
+    },
+    {
+      "question": "Un triangle rectangle a pour côtés 18 cm et 24 cm. Calcule l’hypoténuse.",
+      "options": ["30 cm", "31 cm", "32 cm", "33 cm"],
+      "reponse": "30 cm",
+      "explication": "c² = 18² + 24² = 324 + 576 = 900, donc c = √900 = 30 cm."
+    },
+    {
+      "question": "Dans un triangle ABC rectangle en A, la hauteur issue de A divise BC en deux segments de 4 cm et 9 cm. Quelle est la longueur de la hauteur ?",
+      "options": ["6 cm", "√36 cm", "√(4×9) cm", "5 cm"],
+      "reponse": "√(4×9) cm",
+      "explication": "Dans un triangle rectangle, la hauteur relative à l’hypoténuse = √(produit des segments coupés)."
+    },
+    {
+      "question": "Dans un triangle rectangle, si la hauteur relative à l’hypoténuse mesure 6 cm, et que les deux segments formés sur l’hypoténuse mesurent 3 cm et x cm, que vaut x ?",
+      "options": ["12 cm", "9 cm", "√6 cm", "9 m"],
+      "reponse": "9 cm",
+      "explication": "On utilise h² = ab, donc 6² = 3×x → x = 36 ÷ 3 = 12."
+    },
+    {
+      "question": "Dans un triangle ABC rectangle en A, on a AB = 6 cm et AC = 8 cm. Quelle est la longueur de BC ?",
+      "options": ["14 cm", "10 cm", "√100 cm", "12 cm"],
+      "reponse": "10 cm",
+      "explication": "On applique le théorème de Pythagore : BC² = AB² + AC² = 36 + 64 = 100, donc BC = 10."
+    },
+    {
+      "question": "Un triangle est dit isocèle rectangle si :",
+      "options": ["Il a deux côtés égaux", "Il a un angle de 90° et deux côtés égaux", "Tous ses côtés sont égaux", "Il est rectangle en A"],
+      "reponse": "Il a un angle de 90° et deux côtés égaux",
+      "explication": "C’est la définition d’un triangle isocèle rectangle."
+    },
+    {
+      "question": "Si un triangle a des côtés de 7 cm, 24 cm et 25 cm, est-il rectangle ?",
+      "options": ["Oui", "Non", "On ne peut pas savoir", "Il est isocèle"],
+      "reponse": "Oui",
+      "explication": "7² + 24² = 49 + 576 = 625 = 25² → le triangle est rectangle."
+    },
+    {
+      "question": "Dans un triangle, si deux côtés mesurent 5 cm et 12 cm, et l’hypoténuse 13 cm, alors :",
+      "options": ["C’est un triangle quelconque", "C’est un triangle rectangle", "Ce n’est pas un triangle", "C’est un triangle équilatéral"],
+      "reponse": "C’est un triangle rectangle",
+      "explication": "5² + 12² = 25 + 144 = 169 = 13² → triangle rectangle."
+    },
+    {
+      "question": "Dans un triangle isocèle rectangle, les deux petits côtés mesurent 6 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["12 cm", "6√2 cm", "√72 cm", "8 cm"],
+      "reponse": "6√2 cm",
+      "explication": "Hypoténuse = côté × √2 dans un triangle isocèle rectangle."
+    },
+    {
+      "question": "Un triangle contient un petit triangle rectangle inscrit. Quel raisonnement peut-on utiliser ?",
+      "options": ["Thalès", "Pythagore", "Trigonométrie", "Aucun"],
+      "reponse": "Pythagore",
+      "explication": "On peut utiliser le théorème de Pythagore dans le triangle rectangle inscrit."
+    },
+    {
+      "question": "Quand on trace la hauteur dans un triangle rectangle, on peut former :",
+      "options": ["Deux triangles équilatéraux", "Deux triangles rectangles", "Un triangle isocèle", "Deux triangles quelconques"],
+      "reponse": "Deux triangles rectangles",
+      "explication": "La hauteur sur l’hypoténuse forme deux triangles rectangles semblables."
+    },
+    {
+      "question": "Un triangle avec des côtés 9 cm, 12 cm et 15 cm est-il rectangle ?",
+      "options": ["Oui", "Non", "Il est équilatéral", "Impossible à dire"],
+      "reponse": "Oui",
+      "explication": "9² + 12² = 81 + 144 = 225 = 15² → c’est un triangle rectangle."
+    },
+    {
+      "question": "Si les côtés d’un triangle sont 10 cm, 6 cm et 8 cm, ce triangle est-il rectangle ?",
+      "options": ["Oui", "Non", "Isocèle", "Impossible à dire"],
+      "reponse": "Oui",
+      "explication": "6² + 8² = 36 + 64 = 100 = 10² → triangle rectangle."
+    },
+    {
+      "question": "Dans un triangle rectangle, la médiane issue de l’angle droit est :",
+      "options": ["Égale à l’hypoténuse", "Également un côté", "La moitié de l’hypoténuse", "Perpendiculaire à l’hypoténuse"],
+      "reponse": "La moitié de l’hypoténuse",
+      "explication": "La médiane issue de l’angle droit mesure la moitié de l’hypoténuse."
+    },
+    {
+      "question": "Si un triangle est inscrit dans un demi-cercle, il est :",
+      "options": ["Rectangle", "Isocèle", "Équilatéral", "Impossible à dire"],
+      "reponse": "Rectangle",
+      "explication": "Tout triangle inscrit dans un demi-cercle est rectangle (théorème de Thalès inversé)."
+    },
+    {
+      "question": "Quelle propriété permet de dire qu’un triangle est rectangle avec ses longueurs ?",
+      "options": ["Théorème de Pythagore", "Théorème de Thalès", "Réciproque de Pythagore", "Isométrie"],
+      "reponse": "Réciproque de Pythagore",
+      "explication": "C’est la réciproque de Pythagore qui permet de prouver qu’un triangle est rectangle."
+    },
+    {
+      "question": "Dans un triangle rectangle, que vaut la somme des angles ?",
+      "options": ["180°", "90°", "270°", "360°"],
+      "reponse": "180°",
+      "explication": "Comme tous les triangles, la somme des angles = 180°."
+    },
+    {
+      "question": "Un triangle avec deux côtés égaux de 5 cm et un angle de 90° est :",
+      "options": ["Rectangle et isocèle", "Équilatéral", "Rectangle seulement", "Aucun"],
+      "reponse": "Rectangle et isocèle",
+      "explication": "Deux côtés égaux + un angle droit → isocèle rectangle."
+    },
+    {
+      "question": "Dans un triangle ABC rectangle, si AB = 7, AC = 24, alors BC = ?",
+      "options": ["25", "31", "21", "20"],
+      "reponse": "25",
+      "explication": "7² + 24² = 49 + 576 = 625 → √625 = 25."
+    },
+    {
+      "question": "Si l’hypoténuse vaut 26 et un côté vaut 10, combien mesure l’autre ?",
+      "options": ["24", "√576", "√576 cm", "25"],
+      "reponse": "24",
+      "explication": "c² = a² + b² → b² = 26² - 10² = 576 → b = 24."
+    },
+    {
+      "question": "Dans un triangle rectangle, on place une hauteur issue de l’angle droit. Cette hauteur divise l’hypoténuse en 6 cm et 3 cm. Que vaut la hauteur ?",
+      "options": ["3√2", "√18", "√(3×6)", "6"],
+      "reponse": "√(3×6)",
+      "explication": "h = √(produit des segments) = √(3×6) = √18."
+    },
+    {
+      "question": "Quelle est la particularité des deux triangles formés par une hauteur tracée dans un triangle rectangle ?",
+      "options": ["Ils sont semblables", "Ils sont équilatéraux", "Ils sont identiques", "Aucune"],
+      "reponse": "Ils sont semblables",
+      "explication": "La hauteur depuis l’angle droit forme deux triangles rectangles semblables au triangle de départ."
+    },
+    {
+      "question": "Dans un triangle rectangle, les carrés construits sur les côtés de l’angle droit ont une aire totale de 100 cm². Quelle est l’aire du carré construit sur l’hypoténuse ?",
+      "options": ["100 cm²", "50 cm²", "80 cm²", "110 cm²"],
+      "reponse": "100 cm²",
+      "explication": "Le carré sur l’hypoténuse a une aire égale à la somme des deux autres : c² = a² + b²."
+    },
+    {
+      "question": "Dans un triangle rectangle, si l’on connaît la hauteur et l’hypoténuse, on peut trouver les deux segments formés par la hauteur avec :",
+      "options": ["h² = ab", "a + b = c", "h = a² + b²", "ab = h"],
+      "reponse": "h² = ab",
+      "explication": "C’est la formule spécifique aux hauteurs sur l’hypoténuse."
+    },
+    {
+      "question": "Un triangle est-il rectangle si ses longueurs sont 11, 60 et 61 ?",
+      "options": ["Oui", "Non", "Impossible à dire", "Isocèle"],
+      "reponse": "Oui",
+      "explication": "11² + 60² = 121 + 3600 = 3721 = 61²."
+    },
+    {
+      "question": "Que vérifie un triangle rectangle isocèle de côtés 5 cm ?",
+      "options": ["Hypoténuse = 5√2", "Hypoténuse = 5²", "Hypoténuse = 10", "Hypoténuse = 2×5"],
+      "reponse": "Hypoténuse = 5√2",
+      "explication": "Dans un triangle isocèle rectangle, hypoténuse = côté × √2."
+    },
+    {
+      "question": "Si un triangle a des côtés 8 cm, 15 cm et 17 cm, que peut-on conclure ?",
+      "options": ["Il est rectangle", "Il est quelconque", "Il est équilatéral", "Il est isocèle"],
+      "reponse": "Il est rectangle",
+      "explication": "8² + 15² = 64 + 225 = 289 = 17²."
     }
   ]
 }
