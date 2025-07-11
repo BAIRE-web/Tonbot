@@ -612,8 +612,6 @@
       "reponse": "x = 0 ou x = 3",
       "explication": "Une équation produit nul : x = 0 ou x - 3 = 0 donc x = 3."
     },
-{
-  "qcm": [
     {
       "question": "Quelle est la forme générale d’un monôme ?",
       "options": ["axⁿ", "ax + b", "a(x + b)", "ax² + bx + c"],
