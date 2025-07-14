@@ -1,34 +1,172 @@
 {
   "qcm": [
     {
-      "question": "Quelle est la capitale du Burkina Faso ?",
-      "options": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Banfora"],
-      "reponse": "Ouagadougou",
-      "explication": "Ouagadougou est la capitale politique et administrative du Burkina Faso."
+      "question": "Quelle est la taille d’une matrice 2×3 ?",
+      "options": ["2 lignes et 3 colonnes", "3 lignes et 2 colonnes", "2 colonnes et 3 lignes", "3 colonnes et 2 lignes"],
+      "reponse": "2 lignes et 3 colonnes",
+      "explication": "Une matrice 2×3 a 2 lignes et 3 colonnes."
     },
     {
-      "question": "Quel est le résultat de 5 + 7 ?",
-      "options": ["11", "12", "13", "10"],
-      "reponse": "12",
-      "explication": "5 + 7 = 12."
+      "question": "Comment s’appelle le nombre associé à une matrice carrée ?",
+      "options": ["Déterminant", "Trace", "Inverse", "Transposée"],
+      "reponse": "Déterminant",
+      "explication": "Le déterminant est un scalaire associé à une matrice carrée."
     },
     {
-      "question": "Quel est l'élément chimique représenté par le symbole 'O' ?",
-      "options": ["Oxygène", "Or", "Osmium", "Ozone"],
-      "reponse": "Oxygène",
-      "explication": "Le symbole 'O' correspond à l'oxygène dans le tableau périodique."
+      "question": "Quel est le déterminant d’une matrice 2×2 A = \\(\\begin{pmatrix}a & b \\\\ c & d\\end{pmatrix}\\) ?",
+      "options": ["ad − bc", "ab − cd", "ac − bd", "a + d"],
+      "reponse": "ad − bc",
+      "explication": "Formule classique du déterminant d’une matrice 2×2."
     },
     {
-      "question": "Quelle est la langue officielle du Burkina Faso ?",
-      "options": ["Français", "Anglais", "Espagnol", "Arabe"],
-      "reponse": "Français",
-      "explication": "Le français est la langue officielle du Burkina Faso."
+      "question": "Quelle condition doit vérifier une matrice carrée pour être inversible ?",
+      "options": ["Son déterminant est non nul", "Son déterminant est nul", "Elle est symétrique", "Elle est diagonale"],
+      "reponse": "Son déterminant est non nul",
+      "explication": "Une matrice carrée est inversible si et seulement si son déterminant ≠ 0."
     },
     {
-      "question": "Quel est l’animal emblématique souvent associé au Burkina Faso ?",
-      "options": ["Éléphant", "Lion", "Girafe", "Chameau"],
-      "reponse": "Éléphant",
-      "explication": "L'éléphant est un symbole important dans la culture burkinabè."
+      "question": "Quel est le déterminant d’une matrice identité Iₙ ?",
+      "options": ["1", "0", "n", "−1"],
+      "reponse": "1",
+      "explication": "Le déterminant de la matrice identité est toujours égal à 1."
+    },
+    {
+      "question": "Comment calcule-t-on le déterminant d’une matrice 3×3 A = \\(\\begin{pmatrix}a & b & c \\\\ d & e & f \\\\ g & h & i\\end{pmatrix}\\) ?",
+      "options": ["a(ei − fh) − b(di − fg) + c(dh − eg)", "aei + bfg + cdh", "a + e + i", "a(ei + fh) − b(di + fg) + c(dh + eg)"],
+      "reponse": "a(ei − fh) − b(di − fg) + c(dh − eg)",
+      "explication": "Formule de Sarrus pour le déterminant 3×3."
+    },
+    {
+      "question": "Quelle opération change le signe du déterminant ?",
+      "options": ["Échanger deux lignes", "Multiplier une ligne par 2", "Ajouter une ligne à une autre", "Multiplier toute la matrice par −1"],
+      "reponse": "Échanger deux lignes",
+      "explication": "L’échange de deux lignes inverse le signe du déterminant."
+    },
+    {
+      "question": "Que vaut le déterminant d’une matrice triangulaire ?",
+      "options": ["Produit des éléments diagonaux", "Somme des éléments diagonaux", "Zéro", "Un"],
+      "reponse": "Produit des éléments diagonaux",
+      "explication": "Le déterminant d’une matrice triangulaire est le produit de ses éléments diagonaux."
+    },
+    {
+      "question": "Que vaut le déterminant d’une matrice avec une ligne nulle ?",
+      "options": ["0", "1", "−1", "Non défini"],
+      "reponse": "0",
+      "explication": "Une ligne nulle rend le déterminant nul."
+    },
+    {
+      "question": "Quelle propriété du déterminant justifie que det(AB) = det(A) × det(B) ?",
+      "options": ["Multiplicativité", "Additivité", "Linéarité", "Commutativité"],
+      "reponse": "Multiplicativité",
+      "explication": "Le déterminant est multiplicatif par rapport au produit matriciel."
+    },
+    {
+      "question": "Que vaut det(Aᵀ) où Aᵀ est la transposée de A ?",
+      "options": ["det(A)", "−det(A)", "1", "0"],
+      "reponse": "det(A)",
+      "explication": "Le déterminant est égal à celui de sa transposée."
+    },
+    {
+      "question": "Si on multiplie une ligne d’une matrice par un scalaire k, que devient le déterminant ?",
+      "options": ["Il est multiplié par k", "Il reste inchangé", "Il est multiplié par k²", "Il devient nul"],
+      "reponse": "Il est multiplié par k",
+      "explication": "Le déterminant est linéaire par rapport à chaque ligne."
+    },
+    {
+      "question": "Quelle matrice correspond à la matrice identité 3×3 ?",
+      "options": ["\\(\\begin{pmatrix}1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1\\end{pmatrix}\\)", "\\(\\begin{pmatrix}0 & 1 & 0 \\\\ 1 & 0 & 0 \\\\ 0 & 0 & 1\\end{pmatrix}\\)", "\\(\\begin{pmatrix}1 & 1 & 1 \\\\ 1 & 1 & 1 \\\\ 1 & 1 & 1\\end{pmatrix}\\)", "\\(\\begin{pmatrix}0 & 0 & 0 \\\\ 0 & 0 & 0 \\\\ 0 & 0 & 0\\end{pmatrix}\\)"],
+      "reponse": "\\(\\begin{pmatrix}1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1\\end{pmatrix}\\)",
+      "explication": "Matrice identité avec 1 sur la diagonale et 0 ailleurs."
+    },
+    {
+      "question": "Qu’est-ce qu’une matrice symétrique ?",
+      "options": ["A = Aᵀ", "det(A) = 0", "A est inversible", "A est triangulaire"],
+      "reponse": "A = Aᵀ",
+      "explication": "Une matrice symétrique est égale à sa transposée."
+    },
+    {
+      "question": "Quelle est la trace d’une matrice ?",
+      "options": ["La somme des éléments diagonaux", "Le produit des éléments diagonaux", "Le déterminant", "Le rang"],
+      "reponse": "La somme des éléments diagonaux",
+      "explication": "La trace est la somme des éléments sur la diagonale principale."
+    },
+    {
+      "question": "Si det(A) = 0, que peut-on dire de A ?",
+      "options": ["A n’est pas inversible", "A est identité", "A est diagonale", "A est inversible"],
+      "reponse": "A n’est pas inversible",
+      "explication": "Une matrice avec déterminant nul n’a pas d’inverse."
+    },
+    {
+      "question": "Comment s’appelle la matrice obtenue en échangeant deux lignes d’une matrice ?",
+      "options": ["Matrice élémentaire", "Matrice identité", "Matrice nulle", "Matrice symétrique"],
+      "reponse": "Matrice élémentaire",
+      "explication": "Les matrices élémentaires correspondent aux opérations élémentaires sur les lignes."
+    },
+    {
+      "question": "Que vaut det(kA) si k est un scalaire et A une matrice carrée d’ordre n ?",
+      "options": ["kⁿ × det(A)", "k × det(A)", "det(A)", "n × det(A)"],
+      "reponse": "kⁿ × det(A)",
+      "explication": "Multiplier une matrice par k multiplie son déterminant par kⁿ."
+    },
+    {
+      "question": "Quelle est la matrice nulle 2×2 ?",
+      "options": ["\\(\\begin{pmatrix}0 & 0 \\\\ 0 & 0\\end{pmatrix}\\)", "\\(\\begin{pmatrix}1 & 0 \\\\ 0 & 1\\end{pmatrix}\\)", "\\(\\begin{pmatrix}1 & 1 \\\\ 1 & 1\\end{pmatrix}\\)", "\\(\\begin{pmatrix}0 & 1 \\\\ 1 & 0\\end{pmatrix}\\)"],
+      "reponse": "\\(\\begin{pmatrix}0 & 0 \\\\ 0 & 0\\end{pmatrix}\\)",
+      "explication": "Matrice avec tous les éléments nuls."
+    },
+    {
+      "question": "Quel est le rang maximum d’une matrice 3×2 ?",
+      "options": ["2", "3", "1", "0"],
+      "reponse": "2",
+      "explication": "Le rang maximum est le minimum du nombre de lignes et colonnes."
+    },
+    {
+      "question": "Quelle propriété du déterminant justifie det(A⁻¹) = 1/det(A) ?",
+      "options": ["Multiplicativité", "Linéarité", "Commutativité", "Distributivité"],
+      "reponse": "Multiplicativité",
+      "explication": "Car det(AA⁻¹) = det(I) = 1, on a det(A) × det(A⁻¹) = 1."
+    },
+    {
+      "question": "Si on ajoute une ligne multipliée par un scalaire à une autre ligne, que devient le déterminant ?",
+      "options": ["Il reste inchangé", "Il est multiplié par le scalaire", "Il devient nul", "Il change de signe"],
+      "reponse": "Il reste inchangé",
+      "explication": "Addition d’une ligne multipliée à une autre ne modifie pas le déterminant."
+    },
+    {
+      "question": "Comment s’appelle la matrice obtenue en échangeant deux colonnes ?",
+      "options": ["Matrice élémentaire", "Matrice identité", "Matrice nulle", "Matrice transposée"],
+      "reponse": "Matrice élémentaire",
+      "explication": "Les échanges de colonnes correspondent aussi à des matrices élémentaires."
+    },
+    {
+      "question": "Le produit de deux matrices carrées A et B est-il commutatif ?",
+      "options": ["En général non", "Toujours oui", "Jamais", "Seulement si A = B"],
+      "reponse": "En général non",
+      "explication": "La multiplication matricielle n’est pas commutative en général."
+    },
+    {
+      "question": "Quelle est la transposée de la matrice \\(\\begin{pmatrix}1 & 2 \\\\ 3 & 4\\end{pmatrix}\\) ?",
+      "options": ["\\(\\begin{pmatrix}1 & 3 \\\\ 2 & 4\\end{pmatrix}\\)", "\\(\\begin{pmatrix}4 & 3 \\\\ 2 & 1\\end{pmatrix}\\)", "\\(\\begin{pmatrix}1 & 2 \\\\ 3 & 4\\end{pmatrix}\\)", "\\(\\begin{pmatrix}0 & 0 \\\\ 0 & 0\\end{pmatrix}\\)"],
+      "reponse": "\\(\\begin{pmatrix}1 & 3 \\\\ 2 & 4\\end{pmatrix}\\)",
+      "explication": "La transposée s’obtient en échangeant lignes et colonnes."
+    },
+    {
+      "question": "Quelle est la matrice inverse de \\(\\begin{pmatrix}a & b \\\\ c & d\\end{pmatrix}\\) si det ≠ 0 ?",
+      "options": ["(1/det) \\(\\begin{pmatrix}d & −b \\\\ −c & a\\end{pmatrix}\\)", "(1/det) \\(\\begin{pmatrix}a & b \\\\ c & d\\end{pmatrix}\\)", "\\(\\begin{pmatrix}d & b \\\\ c & a\\end{pmatrix}\\)", "Aucune"],
+      "reponse": "(1/det) \\(\\begin{pmatrix}d & −b \\\\ −c & a\\end{pmatrix}\\)",
+      "explication": "Formule classique de l’inverse 2×2."
+    },
+    {
+      "question": "Quelle propriété caractérise une matrice diagonale ?",
+      "options": ["Tous les éléments hors diagonale sont nuls", "Tous les éléments sont égaux", "Elle est toujours inversible", "Elle est nulle"],
+      "reponse": "Tous les éléments hors diagonale sont nuls",
+      "explication": "Une matrice diagonale a ses seuls éléments non nuls sur la diagonale."
+    },
+    {
+      "question": "Quel est le résultat de A × I où I est la matrice identité ?",
+      "options": ["A", "I", "0", "Non défini"],
+      "reponse": "A",
+      "explication": "La matrice identité est l’élément neutre de la multiplication matricielle."
     }
   ]
 }
