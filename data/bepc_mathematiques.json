@@ -1953,10 +1953,184 @@
       "explication": "Dans un triangle isocèle rectangle, hypoténuse = côté × √2."
     },
     {
-      "question": "Si un triangle a des côtés 8 cm, 15 cm et 17 cm, que peut-on conclure ?",
-      "options": ["Il est rectangle", "Il est quelconque", "Il est équilatéral", "Il est isocèle"],
-      "reponse": "Il est rectangle",
-      "explication": "8² + 15² = 64 + 225 = 289 = 17²."
+      "question": "Quelle est la formule de (a + b)² ?",
+      "options": ["a² + b² + 2ab", "a² - b²", "a² + b² - 2ab", "(a + b)(a - b)"],
+      "reponse": "a² + b² + 2ab",
+      "explication": "(a + b)² est une identité remarquable : carré d'une somme."
+    },
+    {
+      "question": "Quelle est la formule de (a - b)² ?",
+      "options": ["a² - b²", "a² + b² - 2ab", "a² + b² + 2ab", "(a - b)(a + b)"],
+      "reponse": "a² + b² - 2ab",
+      "explication": "(a - b)² = a² + b² - 2ab : carré d’une différence."
+    },
+    {
+      "question": "Quelle est la formule de (a + b)(a - b) ?",
+      "options": ["a² - b²", "a² + b²", "a² + b² - 2ab", "a² + b² + 2ab"],
+      "reponse": "a² - b²",
+      "explication": "Produit d’une somme par une différence : différence de carrés."
+    },
+    {
+      "question": "(x + 3)² = ?",
+      "options": ["x² + 9", "x² + 6x + 9", "x² + 3x", "(x + 3)(x - 3)"],
+      "reponse": "x² + 6x + 9",
+      "explication": "On applique (x + b)² = x² + 2bx + b² avec b = 3."
+    },
+    {
+      "question": "(x - 5)² = ?",
+      "options": ["x² - 25", "x² - 10x + 25", "x² + 10x + 25", "x² + 5x + 25"],
+      "reponse": "x² - 10x + 25",
+      "explication": "Identité (a - b)² avec a = x et b = 5."
+    },
+    {
+      "question": "(2x + 1)² = ?",
+      "options": ["4x² + 4x + 1", "2x² + 1", "4x² + 1", "4x² + 2x + 1"],
+      "reponse": "4x² + 4x + 1",
+      "explication": "(a + b)² → a² + 2ab + b² avec a = 2x, b = 1."
+    },
+    {
+      "question": "(3x - 2)² = ?",
+      "options": ["9x² - 12x + 4", "9x² + 12x + 4", "6x² - 4x + 2", "9x² - 6x + 4"],
+      "reponse": "9x² - 12x + 4",
+      "explication": "On applique la formule (a - b)² avec a = 3x et b = 2."
+    },
+    {
+      "question": "(x + 7)(x - 7) = ?",
+      "options": ["x² - 49", "x² + 49", "x² + 14x + 49", "x² - 14x + 49"],
+      "reponse": "x² - 49",
+      "explication": "Identité (a + b)(a - b) = a² - b², ici b = 7."
+    },
+    {
+      "question": "x² - 10x + 25 est l'identité de :",
+      "options": ["(x - 5)²", "(x + 5)²", "(x - 10)²", "(x + 10)²"],
+      "reponse": "(x - 5)²",
+      "explication": "x² - 10x + 25 = (x - 5)² car 2×5 = 10 et 5² = 25."
+    },
+    {
+      "question": "x² + 6x + 9 est égal à :",
+      "options": ["(x + 3)²", "(x - 3)²", "x(x + 6)", "(x + 9)²"],
+      "reponse": "(x + 3)²",
+      "explication": "2×3 = 6 et 3² = 9 → c’est (x + 3)²."
+    },
+    {
+      "question": "(x + 4)² = ?",
+      "options": ["x² + 8x + 16", "x² - 8x + 16", "x² + 4x + 4", "x² - 4x + 16"],
+      "reponse": "x² + 8x + 16",
+      "explication": "Formule : x² + 2×4×x + 4² = x² + 8x + 16."
+    },
+    {
+      "question": "(x - 3)(x + 3) = ?",
+      "options": ["x² - 9", "x² + 9", "x² - 6x + 9", "x² + 6x + 9"],
+      "reponse": "x² - 9",
+      "explication": "Produit d’une somme par une différence : x² - b²."
+    },
+    {
+      "question": "Développer (2x - 5)(2x + 5) = ?",
+      "options": ["4x² - 25", "4x² + 25", "2x² - 25", "2x² + 20x + 25"],
+      "reponse": "4x² - 25",
+      "explication": "Formule (a - b)(a + b) = a² - b², ici a = 2x, b = 5."
+    },
+    {
+      "question": "Développer (5x + 2)² = ?",
+      "options": ["25x² + 20x + 4", "25x² + 10x + 2", "10x² + 4", "5x² + 10x + 2"],
+      "reponse": "25x² + 20x + 4",
+      "explication": "(a + b)² = a² + 2ab + b² ; a = 5x, b = 2."
+    },
+    {
+      "question": "(4x - 1)² = ?",
+      "options": ["16x² - 8x + 1", "16x² + 8x + 1", "4x² - 2x + 1", "8x² - 4x + 1"],
+      "reponse": "16x² - 8x + 1",
+      "explication": "(a - b)² = a² - 2ab + b² ; a = 4x, b = 1."
+    },
+    {
+      "question": "Factoriser : x² - 36",
+      "options": ["(x + 6)(x - 6)", "(x - 6)²", "(x + 6)²", "(x - 3)(x + 12)"],
+      "reponse": "(x + 6)(x - 6)",
+      "explication": "C’est une différence de carrés : x² - 6²."
+    },
+    {
+      "question": "Développer (x + 1)² = ?",
+      "options": ["x² + 2x + 1", "x² + x + 1", "x² + 1", "x² + 3x + 1"],
+      "reponse": "x² + 2x + 1",
+      "explication": "Carré de la somme avec b = 1."
+    },
+    {
+      "question": "(a + b)(a - b) est équivalent à :",
+      "options": ["a² - b²", "a² + b²", "a² + 2ab", "(a - b)²"],
+      "reponse": "a² - b²",
+      "explication": "C’est l’identité remarquable de la différence de carrés."
+    },
+    {
+      "question": "x² + 12x + 36 est égal à :",
+      "options": ["(x + 6)²", "(x - 6)²", "x(x + 12)", "x² + 6x + 36"],
+      "reponse": "(x + 6)²",
+      "explication": "2×6 = 12 et 6² = 36."
+    },
+    {
+      "question": "x² - 14x + 49 correspond à :",
+      "options": ["(x - 7)²", "(x + 7)²", "x(x - 14)", "x² - 49"],
+      "reponse": "(x - 7)²",
+      "explication": "C’est le carré de (x - 7) : 2×7 = 14, 7² = 49."
+    },
+    {
+      "question": "Forme factorisée de x² - 81 :",
+      "options": ["(x + 9)(x - 9)", "(x + 9)²", "(x - 9)²", "x(x - 81)"],
+      "reponse": "(x + 9)(x - 9)",
+      "explication": "Différence de carrés : x² - 9²."
+    },
+    {
+      "question": "(3x + 4)² = ?",
+      "options": ["9x² + 24x + 16", "9x² + 12x + 16", "6x² + 12x + 16", "3x² + 4x + 16"],
+      "reponse": "9x² + 24x + 16",
+      "explication": "Carré de la somme : (a + b)² = a² + 2ab + b²."
+    },
+    {
+      "question": "(2x - 7)² = ?",
+      "options": ["4x² - 28x + 49", "4x² + 28x + 49", "2x² - 14x + 49", "2x² - 28x + 7"],
+      "reponse": "4x² - 28x + 49",
+      "explication": "(a - b)² = a² - 2ab + b² ; a = 2x, b = 7."
+    },
+    {
+      "question": "Forme développée de (x - 9)² = ?",
+      "options": ["x² - 18x + 81", "x² + 18x + 81", "x² - 9x", "x² + 81"],
+      "reponse": "x² - 18x + 81",
+      "explication": "2×9 = 18 et 9² = 81 → (x - 9)²."
+    },
+    {
+      "question": "(x + 0,5)² = ?",
+      "options": ["x² + x + 0,25", "x² + x + 1", "x² + x + 0,5", "x² + x + 2"],
+      "reponse": "x² + x + 0,25",
+      "explication": "2×0,5x = x et 0,5² = 0,25."
+    },
+    {
+      "question": "(2x + 3)² = ?",
+      "options": ["4x² + 12x + 9", "4x² + 6x + 9", "2x² + 6x + 3", "4x² + 9x + 6"],
+      "reponse": "4x² + 12x + 9",
+      "explication": "2ab = 12x, a² = 4x², b² = 9."
+    },
+    {
+      "question": "(a - b)² développe en :",
+      "options": ["a² - 2ab + b²", "a² + 2ab + b²", "a² - b²", "(a + b)(a - b)"],
+      "reponse": "a² - 2ab + b²",
+      "explication": "C’est la définition de l’identité remarquable du carré d’une différence."
+    },
+    {
+      "question": "(x - 2)(x + 2) = ?",
+      "options": ["x² - 4", "x² + 4", "x² - 2x + 4", "x² + 2x + 4"],
+      "reponse": "x² - 4",
+      "explication": "Différence de carrés : x² - 2² = x² - 4."
+    },
+    {
+      "question": "Développer (7x + 1)² = ?",
+      "options": ["49x² + 14x + 1", "14x + 1", "49x² + x + 1", "7x² + 14x + 1"],
+      "reponse": "49x² + 14x + 1",
+      "explication": "a = 7x, b = 1 → a² + 2ab + b²."
+    },
+    {
+      "question": "Développer (x - 8)² = ?",
+      "options": ["x² - 16x + 64", "x² + 16x + 64", "x² - 8x + 64", "x² - 64x + 8"],
+      "reponse": "x² - 16x + 64",
+      "explication": "2×8x = 16x, 8² = 64, donc (x - 8)²."
     }
   ]
 }
