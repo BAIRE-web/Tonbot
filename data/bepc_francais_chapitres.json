@@ -1,8 +1,20 @@
 {
   "chapitres": [
-    "Introduction",
-    "Grammaire",
-    "Conjugaison",
-    "Orthographe"
+    {
+      "id": "introduction",
+      "titre": "Introduction"
+    },
+    {
+      "id": "grammaire",
+      "titre": "Grammaire"
+    },
+    {
+      "id": "conjugaison",
+      "titre": "Conjugaison"
+    },
+    {
+      "id": "orthographe",
+      "titre": "Orthographe"
+    }
   ]
 }
