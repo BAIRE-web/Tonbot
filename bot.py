@@ -19,7 +19,7 @@ from telegram.error import Forbidden
 DATA_DIR = "data"
 user_states = {}
 user_progress = {}
-user_states_avis = set()  # Pour suivre les utilisateurs en mode "avis"
+user_states_avis = set()
 ADMIN_USER_ID = 6227031560
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
@@ -27,35 +27,36 @@ flask_app = Flask(__name__)
 
 @flask_app.route("/")
 def home():
-    return "✅ Bot éducatif en ligne (Render + Flask + Telegram Bot)"
+    return "✅ Bot éducatif en ligne"
 
 def lancer_flask():
     port = int(os.environ.get("PORT", 10000))
     flask_app.run(host="0.0.0.0", port=port)
 
 def enlever_emojis(text):
-    emoji_pattern = re.compile("["                            
-        u"\U0001F600-\U0001F64F"                              
+    emoji_pattern = re.compile("["
+        u"\U0001F600-\U0001F64F"
         u"\U0001F300-\U0001F5FF"
         u"\U0001F680-\U0001F6FF"
-        u"\U0001F1E0-\U0001F1FF"                              
+        u"\U0001F1E0-\U0001F1FF"
         u"\U00002500-\U00002BEF"
-        u"\U00002702-\U000027B0"                              
+        u"\U00002702-\U000027B0"
         u"\U000024C2-\U0001F251"
-        u"\U0001f926-\U0001f937"                              
+        u"\U0001f926-\U0001f937"
         u"\U00010000-\U0010ffff"
-        u"\u2640-\u2642"                                      
-        u"\u2600-\u2B55"                                      
+        u"\u2640-\u2642"
+        u"\u2600-\u2B55"
         u"\u200d"
-        u"\u23cf"                                             
+        u"\u23cf"
         u"\u23e9"
-        u"\u231a"                                             
+        u"\u231a"
         u"\ufe0f"
         u"\u3030"
         "]+", flags=re.UNICODE)
     return emoji_pattern.sub(r'', text).strip()
 
 def log_message(user_id, message):
+    os.makedirs("logs", exist_ok=True)
     chemin = os.path.join("logs", f"{user_id}.txt")
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(chemin, "a", encoding="utf-8") as f:
@@ -83,6 +84,7 @@ def charger_json(fichier):
     return {}
 
 def sauvegarder_utilisateur(user):
+    os.makedirs(DATA_DIR, exist_ok=True)
     chemin = os.path.join(DATA_DIR, "users.json")
     users = {}
     if os.path.exists(chemin):
@@ -131,7 +133,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE, message_pers
     log_message(user.id, "Commande /start")
     await repondre(update, msg, generer_clavier(claviers["menu_principal"]))
 
-# --- Commande /avis pour que l'utilisateur envoie un avis ---
+# --- Commande /avis ---
 async def avis_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
     user_states_avis.add(user_id)
@@ -140,29 +142,24 @@ async def avis_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def avis_message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
     if user_id not in user_states_avis:
-        return False  # Pas en mode avis, on continue normalement
-
+        return False
     texte = update.message.text.strip()
     chemin_avis = "avis.json"
-
     avis_list = []
     if os.path.exists(chemin_avis):
-        with open(chemin_avis, "r", encoding="utf-8") as f:
-            try:
+        try:
+            with open(chemin_avis, "r", encoding="utf-8") as f:
                 avis_list = json.load(f)
-            except:
-                avis_list = []
-
+        except:
+            avis_list = []
     avis_list.append({
         "user_id": user_id,
         "username": update.effective_user.username or "",
         "message": texte,
         "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     })
-
     with open(chemin_avis, "w", encoding="utf-8") as f:
         json.dump(avis_list, f, ensure_ascii=False, indent=2)
-
     user_states_avis.remove(user_id)
     await update.message.reply_text("Merci pour votre message !")
     await start(update, context)
@@ -191,59 +188,6 @@ async def broadcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
             pass
     await repondre(update, f"Message envoyé à {count} utilisateur(s).")
 
-async def listusers(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    if update.effective_user.id != ADMIN_USER_ID:
-        await repondre(update, messages["non_admin"])
-        return
-    chemin = os.path.join(DATA_DIR, "users.json")
-    if not os.path.exists(chemin):
-        await repondre(update, "Aucun utilisateur.")
-        return
-    with open(chemin, "r", encoding="utf-8") as f:
-        users = json.load(f)
-    msg = "👥 Utilisateurs :\n\n"
-    for uid, info in users.items():
-        msg += f"ID: {uid}\nNom: {info.get('nom','')}\nUsername: @{info.get('username','')}\n\n"
-    await repondre(update, msg[:4000])
-
-# --- Commande admin /listeavis pour voir tous les avis ---
-async def listeavis(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    if update.effective_user.id != ADMIN_USER_ID:
-        await repondre(update, "❌ Vous n'êtes pas autorisé à utiliser cette commande.")
-        return
-    chemin_avis = "avis.json"
-    if not os.path.exists(chemin_avis):
-        await repondre(update, "Aucun avis n'a encore été envoyé.")
-        return
-    with open(chemin_avis, "r", encoding="utf-8") as f:
-        try:
-            avis_list = json.load(f)
-        except Exception:
-            await repondre(update, "Erreur lors de la lecture des avis.")
-            return
-
-    if not avis_list:
-        await repondre(update, "Aucun avis n'a encore été envoyé.")
-        return
-    messages_avis = []
-    for avis in avis_list:
-        msg = f"👤 @{avis.get('username', 'inconnu')} (ID: {avis.get('user_id')}):\n" \
-              f"📝 {avis.get('message')}\n" \
-              f"📅 {avis.get('date')}\n\n"
-        messages_avis.append(msg)
-
-    max_len = 4000
-    current_msg = ""
-    for part in messages_avis:
-        if len(current_msg) + len(part) > max_len:
-            await update.message.reply_text(current_msg)
-            current_msg = part
-        else:
-            current_msg += part
-    if current_msg:
-        await update.message.reply_text(current_msg)
-
-# Fonction pour charger les chapitres d'une matière
 def charger_chapitres(prefix, matiere):
     fichier = f"{prefix}_{matiere}_chapitres.json"
     return charger_json(fichier).get("chapitres", [])
@@ -259,6 +203,15 @@ async def lancer_qcm(update, context, prefix, matiere):
     else:
         await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
 
+user_scores = {}
+if os.path.exists("user_scores.json"):
+    with open("user_scores.json", "r", encoding="utf-8") as f:
+        user_scores = json.load(f)
+
+def save_user_scores():
+    with open("user_scores.json", "w", encoding="utf-8") as f:
+        json.dump(user_scores, f, ensure_ascii=False, indent=2)
+
 async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.effective_user
     user_id = user.id
@@ -267,18 +220,15 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     log_message(user_id, f"Utilisateur: {texte_original}")
     sauvegarder_utilisateur(user)
 
-    # Vérifie si on est en mode "avis"
     if await avis_message_handler(update, context):
         return
 
     if texte_original == "⬅️ Retour":
-        # Retour au menu principal
         user_states[user_id] = "menu"
         user_progress.pop(user_id, None)
         await start(update, context, message_personnalise=False)
         return
 
-    # Gestion QCM (réponses aux questions)
     if user_id in user_states and user_states[user_id].startswith("qcm_"):
         state = user_states[user_id]
         parts = state.split("_")
@@ -296,9 +246,9 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         options = question.get("options", [])
         bonne = question.get("reponse", "")
 
-        texte_clean = normaliser_nom(enlever_emojis(texte_original).strip())
-        options_clean = [normaliser_nom(enlever_emojis(opt).strip()) for opt in options]
-        bonne_clean = normaliser_nom(enlever_emojis(bonne).strip())
+        texte_clean = normaliser_nom(enlever_emojis(texte_original))
+        options_clean = [normaliser_nom(enlever_emojis(opt)) for opt in options]
+        bonne_clean = normaliser_nom(enlever_emojis(bonne))
 
         if texte_clean not in options_clean:
             await repondre(update, messages["choix_invalide"], generer_clavier(options + ["⬅️ Retour"]))
@@ -324,7 +274,6 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         if "explication" in question:
             await repondre(update, f"👉 {question['explication']}")
 
-        # Passage à la question suivante
         user_progress[user_id] = (index + 1) % len(qcm_data["qcm"])
         suivant = qcm_data["qcm"][user_progress[user_id]]
         await repondre(update, suivant['question'], generer_clavier(suivant.get("options", []) + ["⬅️ Retour"]))
@@ -343,91 +292,45 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         user_progress.pop(user_id, None)
         return
 
-    # Gestion sections statiques
-    section_static = {
-        "informations": "informations.json",
-        "infos": "informations.json",
-        "info": "informations.json",
-        "profil": "espace.json",
-        "espace": "espace.json",
-        "compte": "espace.json"
-    }
-
-    if texte in section_static:
-        cle = texte
-        user_states[user_id] = cle
-        data = charger_json(section_static[cle])
-        await repondre(update, data.get("message", "Aucune donnée disponible."), generer_clavier(["⬅️ Retour"]))
-        increment_stat(f"static_{cle}")
-        return
-
-    # Choix d'examens (sections)
-    choix_sections = {
+    sections = {
         "bepc": "bepc.json",
         "bac_a": "bac_a.json",
         "bac_c": "bac_c.json",
         "bac_d": "bac_d.json",
-        "concours": "concours.json",
-        "technique": None,
+        "concours": "concours.json"
     }
 
-    if texte in choix_sections:
+    if texte in sections:
         user_states[user_id] = texte
-        if texte == "technique":
-            await repondre(update, messages["technique_indisponible"], generer_clavier(["⬅️ Retour"]))
-            return
-        data = charger_json(choix_sections[texte])
+        data = charger_json(sections[texte])
         matieres = data.get("matieres", [])
         msg = intros.get(texte, "") + "\n\n" + data.get("message", "Choisis une matière :")
-        increment_stat(f"section_{texte}")
         await repondre(update, msg.strip(), generer_clavier(matieres + ["⬅️ Retour"]))
         return
 
-    # Si on est dans une section de type BEPC ou BAC (choix de matière)
-    if user_id in user_states and user_states[user_id] in choix_sections:
+    if user_id in user_states and user_states[user_id] in sections:
         prefix = user_states[user_id]
         matiere = normaliser_nom(enlever_emojis(texte_original))
-        # Chargement des chapitres
         chapitres = charger_chapitres(prefix, matiere)
         if chapitres:
-            # Passer à l'état "chapitres"
             user_states[user_id] = f"chapitres_{prefix}_{matiere}"
             await repondre(update, "Choisis un chapitre :", generer_clavier(chapitres + ["⬅️ Retour"]))
         else:
-            # Pas de chapitres, lancer direct QCM
             await lancer_qcm(update, context, prefix, matiere)
-        increment_stat(f"matiere_{prefix}_{matiere}")
         return
 
-    # Si on est dans la sélection d'un chapitre
     if user_id in user_states and user_states[user_id].startswith("chapitres_"):
         state = user_states[user_id]
         parts = state.split("_")
         prefix = parts[1]
         matiere = parts[2]
-        chapitre_choisi = normaliser_nom(enlever_emojis(texte_original))
-
-        # On pourrait stocker le chapitre choisi si besoin
-        # Mais ici on lance directement le QCM de la matière
-        # (adaptation possible pour QCM par chapitre)
-
-        # Pour l'instant on lance QCM complet de la matière
         await lancer_qcm(update, context, prefix, matiere)
         return
 
     await repondre(update, messages["non_compris"])
 
-def save_user_scores():
-    chemin = "user_scores.json"
-    with open(chemin, "w", encoding="utf-8") as f:
-        json.dump(user_scores, f, ensure_ascii=False, indent=2)
+# -- Autres commandes utiles --
 
-user_scores = {}
-if os.path.exists("user_scores.json"):
-    with open("user_scores.json", "r", encoding="utf-8") as f:
-        user_scores = json.load(f)
-
-# --- Commande /reset_score ---
 async def reset_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = str(update.effective_user.id)
     scores = user_scores.get(user_id)
@@ -446,8 +349,7 @@ async def reset_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
     scores["historique"] = historique
     user_scores[user_id] = scores
     save_user_scores()
-
-    await update.message.reply_text("✅ Ton score a été réinitialisé, mais l'historique est conservé.")
+    await update.message.reply_text("✅ Ton score a été réinitialisé.")
 
 async def historique(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = str(update.effective_user.id)
@@ -463,74 +365,50 @@ async def historique(update: Update, context: ContextTypes.DEFAULT_TYPE):
         correct = entry["correct"]
         pourcentage = round((correct / total) * 100, 2) if total else 0
         msg += f"{i}. 📅 {entry['date']} - ✅ {correct}/{total} → {pourcentage}%\n"
-
     await update.message.reply_text(msg)
 
-# --- Voir son propre score ---
 async def profil_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user = update.effective_user
-    uid = user.id
+    uid = update.effective_user.id
     if uid not in user_scores:
         await repondre(update, "Aucun score enregistré pour vous.")
         return
-
     score = user_scores[uid]["actuel"]
     total = score["total"]
     correct = score["correct"]
     pourcentage = (correct / total * 100) if total > 0 else 0
-
-    msg = f"📊 *Votre score actuel :*\n\n"
-    msg += f"✔️ Correctes : {correct}\n❌ Total : {total}\n"
-    msg += f"🎯 Précision : {pourcentage:.1f}%"
+    msg = f"📊 *Votre score actuel :*\n\n✔️ Correctes : {correct}\n❌ Total : {total}\n🎯 Précision : {pourcentage:.1f}%"
     await update.message.reply_text(msg, parse_mode="Markdown")
 
-
-# --- Voir les scores des autres utilisateurs (admin uniquement) ---
 async def scores_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if update.effective_user.id != ADMIN_USER_ID:
         await repondre(update, "❌ Vous n'avez pas l'autorisation.")
         return
-
     if not user_scores:
-        await repondre(update, "Aucun score n'a encore été enregistré.")
+        await repondre(update, "Aucun score enregistré.")
         return
-
     msg = "📈 *Scores des utilisateurs :*\n\n"
-    count = 0
     for uid, data in user_scores.items():
-        score = data.get("actuel", {})
-        correct = score.get("correct", 0)
-        total = score.get("total", 0)
+        nom = data.get("nom", f"ID:{uid}")
+        total = data["actuel"].get("total", 0)
+        correct = data["actuel"].get("correct", 0)
         if total == 0:
             continue
-        pourcentage = correct / total * 100
-        nom = data.get("nom", f"ID:{uid}")
-        msg += f"{nom} → {correct}/{total} ({pourcentage:.1f}%)\n"
-        count += 1
-        if count >= 30:
-            break
-
+        pourcentage = round((correct / total) * 100, 1)
+        msg += f"{nom} → {correct}/{total} ({pourcentage}%)\n"
     await update.message.reply_text(msg, parse_mode="Markdown")
 
 def lancer_bot():
     app = ApplicationBuilder().token(BOT_TOKEN).build()
-
     app.add_handler(CommandHandler("start", start))
-    app.add_handler(CommandHandler("broadcast", broadcast))
-    app.add_handler(CommandHandler("listusers", listusers))
     app.add_handler(CommandHandler("avis", avis_command))
-    app.add_handler(CommandHandler("listeavis", listeavis))
+    app.add_handler(CommandHandler("broadcast", broadcast))
     app.add_handler(CommandHandler("reset_score", reset_score))
     app.add_handler(CommandHandler("historique", historique))
     app.add_handler(CommandHandler("profil", profil_command))
     app.add_handler(CommandHandler("scores", scores_command))
-
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
     app.run_polling()
 
-
 if __name__ == "__main__":
-    if not os.path.exists("logs"):
-        os.makedirs("logs")
     threading.Thread(target=lancer_flask).start()
     lancer_bot()
