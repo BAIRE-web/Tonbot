@@ -203,6 +203,17 @@ async def lancer_qcm(update, context, prefix, matiere):
     else:
         await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
 
+async def lancer_qcm_par_chapitre(update, context, prefix, matiere, chapitre):
+    fichier_qcm = f"{prefix}_{matiere}_{chapitre}.json"
+    qcm_data = charger_json(fichier_qcm)
+    if "qcm" in qcm_data and qcm_data["qcm"]:
+        user_states[update.effective_user.id] = f"qcm_{prefix}_{matiere}_{chapitre}"
+        user_progress[update.effective_user.id] = 0
+        question = qcm_data["qcm"][0]
+        await repondre(update, question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
+    else:
+        await repondre(update, "❌ Aucun QCM trouvé pour ce chapitre.", generer_clavier(["⬅️ Retour"]))
+
 user_scores = {}
 if os.path.exists("user_scores.json"):
     with open("user_scores.json", "r", encoding="utf-8") as f:
@@ -319,14 +330,16 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await lancer_qcm(update, context, prefix, matiere)
         return
 
+# Si on est dans la sélection d'un chapitre
     if user_id in user_states and user_states[user_id].startswith("chapitres_"):
-        state = user_states[user_id]
-        parts = state.split("_")
-        prefix = parts[1]
-        matiere = parts[2]
-        await lancer_qcm(update, context, prefix, matiere)
-        return
+    state = user_states[user_id]
+    parts = state.split("_")
+    prefix = parts[1]
+    matiere = parts[2]
+    chapitre = normaliser_nom(enlever_emojis(texte_original))
 
+    await lancer_qcm_par_chapitre(update, context, prefix, matiere, chapitre)
+    return
     await repondre(update, messages["non_compris"])
 
 # -- Autres commandes utiles --
