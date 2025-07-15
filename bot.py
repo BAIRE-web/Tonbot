@@ -355,8 +355,8 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await repondre(update, "❌ Chapitre non reconnu. Choisis parmi les options proposées.", generer_clavier([c["titre"] for c in chapitres_info] + ["⬅️ Retour"]))
             return
 
-        chapitchemin_qcm = f"{prefix}_{matiere}_{chapitre_id}.json"
-print("🔍 Chemin QCM cherché :", chemin_qcm)
+        chemin_qcm = f"{prefix}_{matiere}_{chapitre_id}.json"
+        print("🔍 Chemin QCM cherché :", chemin_qcm)
         qcm_data = charger_json(chemin_qcm)
 
         if not qcm_data.get("qcm"):
