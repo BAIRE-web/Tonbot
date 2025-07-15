@@ -224,8 +224,11 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # Gestion QCM
     if user_states.get(user_id, "").startswith("qcm_"):
         state = user_states[user_id]
-        prefix, matiere = "_".join(state.split("_")[1:-1]), state.split("_")[-1]
-        fichier_qcm = f"{prefix}_{matiere}.json"
+        parts = state.split("_")
+prefix = parts[1]
+matiere = parts[2]
+chapitre_id = "_".join(parts[3:])
+        fichier_qcm = f"{prefix}/{matiere}/{chapitre_id}.json"
         qcm_data = charger_json(fichier_qcm)
         if not qcm_data or "qcm" not in qcm_data:
             await repondre(update, messages.get("qcm_introuvable", ""), generer_clavier(["⬅️ Retour"]))
@@ -324,20 +327,49 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
             return
 
     if user_states.get(user_id) in choix_sections:
-        prefix = normaliser_nom(user_states[user_id])
-        matiere = normaliser_nom(enlever_emojis(texte_original))
-        fichier_qcm = f"{prefix}_{matiere}.json"
-        qcm_data = charger_json(fichier_qcm)
-        increment_stat(f"matiere_{prefix}_{matiere}")
+    prefix = normaliser_nom(user_states[user_id])
+    matiere = normaliser_nom(enlever_emojis(texte_original))
+    user_states[user_id] = f"chapitre_en_attente_{prefix}_{matiere}"
 
-        if qcm_data.get("qcm"):
-            user_states[user_id] = f"qcm_{prefix}_{matiere}"
-            user_progress[user_id] = 0
-            question = qcm_data["qcm"][0]
-            await repondre(update, question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
-        else:
-            await repondre(update, messages.get("qcm_introuvable", ""), generer_clavier(["⬅️ Retour"]))
+    chemin_chapitres = f"{prefix}/{matiere}/chapitres.json"
+    data_chapitres = charger_json(chemin_chapitres)
+    liste = data_chapitres.get("chapitres", [])
+
+    if not liste:
+        await repondre(update, "❌ Aucun chapitre trouvé pour cette matière.", generer_clavier(["⬅️ Retour"]))
         return
+
+    noms_chapitres = [chap["titre"] for chap in liste]
+    user_progress[user_id] = {"chapitres": liste}
+    await repondre(update, f"📘 Choisis un chapitre dans *{matiere}* :", generer_clavier(noms_chapitres + ["⬅️ Retour"]))
+    return
+# Si l'utilisateur doit choisir un chapitre
+if user_states.get(user_id, "").startswith("chapitre_en_attente_"):
+    state = user_states[user_id]
+    _, prefix, matiere = state.split("_", 2)
+    matiere = matiere.strip()
+    chapitres_info = user_progress.get(user_id, {}).get("chapitres", [])
+    titre_choisi = texte_original.strip()
+
+    chapitre = next((c for c in chapitres_info if c["titre"].strip().lower() == titre_choisi.lower()), None)
+    if not chapitre:
+        await repondre(update, "❌ Chapitre non reconnu. Choisis parmi les options proposées.", generer_clavier([c["titre"] for c in chapitres_info] + ["⬅️ Retour"]))
+        return
+
+    chapitre_id = chapitre["id"]
+    chemin_qcm = f"{prefix}/{matiere}/{chapitre_id}.json"
+    qcm_data = charger_json(chemin_qcm)
+
+    if not qcm_data.get("qcm"):
+        await repondre(update, "❌ Aucun QCM trouvé pour ce chapitre.", generer_clavier(["⬅️ Retour"]))
+        return
+
+    # Préparer le QCM
+    user_states[user_id] = f"qcm_{prefix}_{matiere}_{chapitre_id}"
+    user_progress[user_id] = 0
+    question = qcm_data["qcm"][0]
+    await repondre(update, f"📍 Chapitre choisi : *{chapitre['titre']}*\n\n" + question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
+    return
 
     await repondre(update, messages.get("non_compris", ""))
 
