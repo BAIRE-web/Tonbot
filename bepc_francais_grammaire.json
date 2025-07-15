@@ -1,0 +1,88 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la superficie totale du Burkina Faso ?",
+      "options": ["272 967 km²", "274 200 km²", "276 000 km²", "278 500 km²"],
+      "reponse": "272 967 km²",
+      "explication": "La superficie totale du Burkina Faso est de 272 967 km²."
+    },
+    {
+      "question": "Quel était le nombre d'habitants du Burkina Faso lors du recensement de 2006 ?",
+      "options": ["14 017 262", "14 500 000", "15 000 000", "15 500 000"],
+      "reponse": "14 017 262",
+      "explication": "Le Burkina Faso comptait 14 017 262 habitants lors du recensement de 2006."
+    },
+    {
+      "question": "Quel était le nombre d'habitants du Burkina Faso lors du recensement de 2013 ?",
+      "options": ["16 000 000", "17 000 000", "18 000 000", "19 000 000"],
+      "reponse": "Non disponible",
+      "explication": "Les résultats officiels du recensement de 2013 ne sont pas disponibles."
+    },
+    {
+      "question": "Quel était le nombre d'habitants du Burkina Faso lors du recensement de 2019 ?",
+      "options": ["20 487 979", "20 505 155", "21 000 000", "21 500 000"],
+      "reponse": "20 487 979",
+      "explication": "Le Burkina Faso comptait 20 487 979 habitants lors du recensement de 2019."
+    },
+    {
+      "question": "Quelle est la densité de population du Burkina Faso en 2019 ?",
+      "options": ["51,4 hab/km²", "60,0 hab/km²", "75,1 hab/km²", "80,0 hab/km²"],
+      "reponse": "75,1 hab/km²",
+      "explication": "La densité de population du Burkina Faso en 2019 était de 75,1 habitants par km²."
+    },
+    {
+      "question": "Quelle proportion de la population burkinabè vit en milieu urbain selon le recensement de 2019 ?",
+      "options": ["22,7%", "26,3%", "30,0%", "35,0%"],
+      "reponse": "26,3%",
+      "explication": "Selon le recensement de 2019, 26,3% de la population burkinabè vit en milieu urbain."
+    },
+    {
+      "question": "Quelle est la région la plus peuplée du Burkina Faso selon le recensement de 2019 ?",
+      "options": ["Centre", "Hauts-Bassins", "Est", "Sahel"],
+      "reponse": "Centre",
+      "explication": "La région du Centre est la plus peuplée du Burkina Faso avec 3 032 668 habitants, soit 14,8% de la population totale."
+    },
+    {
+      "question": "Quelle est la région la moins peuplée du Burkina Faso selon le recensement de 2019 ?",
+      "options": ["Centre-Sud", "Sahel", "Nord", "Sud-Ouest"],
+      "reponse": "Centre-Sud",
+      "explication": "La région du Centre-Sud est la moins peuplée du Burkina Faso avec 788 341 habitants, soit 3,8% de la population totale."
+    },
+    {
+      "question": "Quel est le taux d'accroissement démographique intercensitaire entre 2006 et 2019 ?",
+      "options": ["2,93%", "3,12%", "3,50%", "4,00%"],
+      "reponse": "2,93%",
+      "explication": "Le taux d'accroissement démographique intercensitaire entre 2006 et 2019 est de 2,93%."
+    },
+    {
+      "question": "Quelle est la proportion de la population burkinabè âgée de moins de 15 ans selon le recensement de 2019 ?",
+      "options": ["45,3%", "50,0%", "55,0%", "60,0%"],
+      "reponse": "45,3%",
+      "explication": "Selon le recensement de 2019, 45,3% de la population burkinabè a moins de 15 ans."
+    },
+    {
+      "question": "Quelle est la proportion de la population burkinabè âgée de 65 ans ou plus selon le recensement de 2019 ?",
+      "options": ["3,4%", "5,0%", "7,0%", "10,0%"],
+      "reponse": "3,4%",
+      "explication": "Selon le recensement de 2019, 3,4% de la population burkinabè a 65 ans ou plus."
+    },
+    {
+      "question": "Quelle est la taille moyenne des ménages au Burkina Faso selon le recensement de 2019 ?",
+      "options": ["4,5", "5,2", "6,0", "6,5"],
+      "reponse": "5,2",
+      "explication": "La taille moyenne des ménages au Burkina Faso selon le recensement de 2019 est de 5,2 individus."
+    },
+    {
+      "question": "Quel est le nombre total de ménages au Burkina Faso selon le recensement de 2019 ?",
+      "options": ["3 907 094", "4 000 000", "4 500 000", "5 000 000"],
+      "reponse": "3 907 094",
+      "explication": "Le nombre total de ménages au Burkina Faso selon le recensement de 2019 est de 3 907 094."
+    },
+    {
+      "question": "Quelle est la proportion de ménages dirigés par une femme au Burkina Faso selon le recensement de 2019 ?",
+      "options": ["10,0%", "15,0%", "20,0%", "16,7%"],
+      "reponse": "16,7%",
+      "explication": "Selon le recensement de 2019, environ 16,7% des ménages au Burkina Faso sont dirigés par une femme."
+    }
+  ]
+}

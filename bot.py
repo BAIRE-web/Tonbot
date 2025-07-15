@@ -34,22 +34,22 @@ def lancer_flask():
     flask_app.run(host="0.0.0.0", port=port)
 
 def enlever_emojis(text):
-    emoji_pattern = re.compile("["                                   
-        u"\U0001F600-\U0001F64F"                                      
+    emoji_pattern = re.compile("["                            
+        u"\U0001F600-\U0001F64F"                              
         u"\U0001F300-\U0001F5FF"
         u"\U0001F680-\U0001F6FF"
-        u"\U0001F1E0-\U0001F1FF"                                      
+        u"\U0001F1E0-\U0001F1FF"                              
         u"\U00002500-\U00002BEF"
-        u"\U00002702-\U000027B0"                                      
+        u"\U00002702-\U000027B0"                              
         u"\U000024C2-\U0001F251"
-        u"\U0001f926-\U0001f937"                                      
+        u"\U0001f926-\U0001f937"                              
         u"\U00010000-\U0010ffff"
-        u"\u2640-\u2642"                                              
-        u"\u2600-\u2B55"                                              
+        u"\u2640-\u2642"                                      
+        u"\u2600-\u2B55"                                      
         u"\u200d"
-        u"\u23cf"                                                     
+        u"\u23cf"                                             
         u"\u23e9"
-        u"\u231a"                                                     
+        u"\u231a"                                             
         u"\ufe0f"
         u"\u3030"
         "]+", flags=re.UNICODE)
@@ -243,6 +243,22 @@ async def listeavis(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if current_msg:
         await update.message.reply_text(current_msg)
 
+# Fonction pour charger les chapitres d'une matière
+def charger_chapitres(prefix, matiere):
+    fichier = f"{prefix}_{matiere}_chapitres.json"
+    return charger_json(fichier).get("chapitres", [])
+
+async def lancer_qcm(update, context, prefix, matiere):
+    fichier_qcm = f"{prefix}_{matiere}.json"
+    qcm_data = charger_json(fichier_qcm)
+    if "qcm" in qcm_data and qcm_data["qcm"]:
+        user_states[update.effective_user.id] = f"qcm_{prefix}_{matiere}"
+        user_progress[update.effective_user.id] = 0
+        question = qcm_data["qcm"][0]
+        await repondre(update, question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
+    else:
+        await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
+
 async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.effective_user
     user_id = user.id
@@ -256,22 +272,25 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return
 
     if texte_original == "⬅️ Retour":
+        # Retour au menu principal
         user_states[user_id] = "menu"
         user_progress.pop(user_id, None)
         await start(update, context, message_personnalise=False)
         return
 
-    # Gestion des QCM, sections, etc. (à adapter selon ton code)
-    # --- Exemple de gestion simple QCM ---
+    # Gestion QCM (réponses aux questions)
     if user_id in user_states and user_states[user_id].startswith("qcm_"):
         state = user_states[user_id]
-        prefix, matiere = "_".join(state.split("_")[1:-1]), state.split("_")[-1]
+        parts = state.split("_")
+        prefix = parts[1]
+        matiere = "_".join(parts[2:])
         fichier_qcm = f"{prefix}_{matiere}.json"
         qcm_data = charger_json(fichier_qcm)
         if not qcm_data or "qcm" not in qcm_data:
             await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
             user_states[user_id] = prefix
             return
+
         index = user_progress.get(user_id, 0)
         question = qcm_data["qcm"][index]
         options = question.get("options", [])
@@ -324,7 +343,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         user_progress.pop(user_id, None)
         return
 
-    # Gestion des sections statiques (informations, profil, etc.)
+    # Gestion sections statiques
     section_static = {
         "informations": "informations.json",
         "infos": "informations.json",
@@ -342,7 +361,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         increment_stat(f"static_{cle}")
         return
 
-    # Sections pour choix d’examens, matières, etc. (adapter selon ton code)
+    # Choix d'examens (sections)
     choix_sections = {
         "bepc": "bepc.json",
         "bac_a": "bac_a.json",
@@ -364,32 +383,36 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await repondre(update, msg.strip(), generer_clavier(matieres + ["⬅️ Retour"]))
         return
 
-    # Gestion concours (exemple)
-    if user_id in user_states and user_states[user_id] == "concours":
-        prefix = "concours"
-        matiere = normaliser_nom(enlever_emojis(texte_original))
-        if matiere == "superieur_a_bac":
-            data = charger_json("concours_superieur_a_bac.json")
-            if "message" in data:
-                await repondre(update, data["message"], generer_clavier(["⬅️ Retour"]))
-            else:
-                await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
-            return
-
+    # Si on est dans une section de type BEPC ou BAC (choix de matière)
     if user_id in user_states and user_states[user_id] in choix_sections:
-        prefix = normaliser_nom(user_states[user_id])
+        prefix = user_states[user_id]
         matiere = normaliser_nom(enlever_emojis(texte_original))
-        fichier_qcm = f"{prefix}_{matiere}.json"
-        qcm_data = charger_json(fichier_qcm)
-        increment_stat(f"matiere_{prefix}_{matiere}")
-
-        if "qcm" in qcm_data and qcm_data["qcm"]:
-            user_states[user_id] = f"qcm_{prefix}_{matiere}"
-            user_progress[user_id] = 0
-            question = qcm_data["qcm"][0]
-            await repondre(update, question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
+        # Chargement des chapitres
+        chapitres = charger_chapitres(prefix, matiere)
+        if chapitres:
+            # Passer à l'état "chapitres"
+            user_states[user_id] = f"chapitres_{prefix}_{matiere}"
+            await repondre(update, "Choisis un chapitre :", generer_clavier(chapitres + ["⬅️ Retour"]))
         else:
-            await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
+            # Pas de chapitres, lancer direct QCM
+            await lancer_qcm(update, context, prefix, matiere)
+        increment_stat(f"matiere_{prefix}_{matiere}")
+        return
+
+    # Si on est dans la sélection d'un chapitre
+    if user_id in user_states and user_states[user_id].startswith("chapitres_"):
+        state = user_states[user_id]
+        parts = state.split("_")
+        prefix = parts[1]
+        matiere = parts[2]
+        chapitre_choisi = normaliser_nom(enlever_emojis(texte_original))
+
+        # On pourrait stocker le chapitre choisi si besoin
+        # Mais ici on lance directement le QCM de la matière
+        # (adaptation possible pour QCM par chapitre)
+
+        # Pour l'instant on lance QCM complet de la matière
+        await lancer_qcm(update, context, prefix, matiere)
         return
 
     await repondre(update, messages["non_compris"])
@@ -404,7 +427,7 @@ if os.path.exists("user_scores.json"):
     with open("user_scores.json", "r", encoding="utf-8") as f:
         user_scores = json.load(f)
 
-# --- Commande /reset_score pour sauvegarder l'historique et remettre à zéro ---
+# --- Commande /reset_score ---
 async def reset_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = str(update.effective_user.id)
     scores = user_scores.get(user_id)
@@ -412,14 +435,13 @@ async def reset_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("Tu n'as aucun score actuel à réinitialiser.")
         return
 
-    # Sauvegarde dans l'historique avant reset
+    historique = scores.get("historique", [])
     historique.append({
         "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "total": scores["actuel"]["total"],
         "correct": scores["actuel"]["correct"]
     })
 
-    # Réinitialisation du score actuel
     scores["actuel"] = {"total": 0, "correct": 0}
     scores["historique"] = historique
     user_scores[user_id] = scores
@@ -436,7 +458,7 @@ async def historique(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     historique = scores["historique"]
     msg = "📊 Historique de tes scores :\n\n"
-    for i, entry in enumerate(historique[-5:], 1):  # Affiche les 5 derniers
+    for i, entry in enumerate(historique[-5:], 1):
         total = entry["total"]
         correct = entry["correct"]
         pourcentage = round((correct / total) * 100, 2) if total else 0
@@ -485,7 +507,7 @@ async def scores_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         nom = data.get("nom", f"ID:{uid}")
         msg += f"{nom} → {correct}/{total} ({pourcentage:.1f}%)\n"
         count += 1
-        if count >= 30:  # limite d'affichage
+        if count >= 30:
             break
 
     await update.message.reply_text(msg, parse_mode="Markdown")
@@ -500,8 +522,6 @@ def lancer_bot():
     app.add_handler(CommandHandler("listeavis", listeavis))
     app.add_handler(CommandHandler("reset_score", reset_score))
     app.add_handler(CommandHandler("historique", historique))
-
-    # Ajout des commandes profil et scores
     app.add_handler(CommandHandler("profil", profil_command))
     app.add_handler(CommandHandler("scores", scores_command))
 
