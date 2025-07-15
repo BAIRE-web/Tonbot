@@ -14,7 +14,6 @@ user_states, user_progress, user_states_avis = {}, {}, set()
 user_scores = {}
 
 flask_app = Flask(__name__)
-
 @flask_app.route("/")
 def home():
     return "✅ Bot éducatif en ligne (Render + Flask + Telegram Bot)"
@@ -188,8 +187,9 @@ async def listeavis(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await repondre(update, "Aucun avis n'a encore été envoyé.")
         return
     with open("avis.json", "r", encoding="utf-8") as f:
-        try: avis_list = json.load(f)
-        except: 
+        try:
+            avis_list = json.load(f)
+        except:
             await repondre(update, "Erreur lors de la lecture des avis.")
             return
     if not avis_list:
@@ -205,175 +205,6 @@ async def listeavis(update: Update, context: ContextTypes.DEFAULT_TYPE):
             current_msg += part
     if current_msg:
         await update.message.reply_text(current_msg)
-
-async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user = update.effective_user
-    user_id = user.id
-    texte_original = update.message.text.strip()
-    texte = normaliser_nom(enlever_emojis(texte_original))
-    log_message(user_id, f"Utilisateur: {texte_original}")
-    sauvegarder_utilisateur(user)
-    if await avis_message_handler(update, context):
-        return
-    if texte_original == "⬅️ Retour":
-        user_states[user_id] = "menu"
-        user_progress.pop(user_id, None)
-        await start(update, context, message_personnalise=False)
-        return
-if user_id in user_states and user_states[user_id].startswith("choix_chapitre_"):
-    parts = user_states[user_id].split("_")
-    prefix = parts[2]
-    matiere = parts[3]
-    chapitre = normaliser_nom(enlever_emojis(texte_original))
-
-    fichier_qcm = f"qcm_{prefix}_{matiere}_{chapitre}.json"
-    qcm_data = charger_json(fichier_qcm)
-
-    if not qcm_data or "qcm" not in qcm_data or not qcm_data["qcm"]:
-        await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
-        return
-
-    user_states[user_id] = f"qcm_{prefix}_{matiere}_{chapitre}"
-    user_progress[user_id] = 0
-    question = qcm_data["qcm"][0]
-    await repondre(update, question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
-    return
-
-    # Gestion QCM
-    if user_id in user_states and user_states[user_id] in choix_sections:
-    prefix = normaliser_nom(user_states[user_id])
-    matiere = normaliser_nom(enlever_emojis(texte_original))
-
-    # Charger fichier matière (pour récupérer les chapitres)
-    fichier_matiere = f"{prefix}_{matiere}.json"
-    data_matiere = charger_json(fichier_matiere)
-
-    chapitres = data_matiere.get("chapitres", [])
-
-    if chapitres:
-        # S'il y a des chapitres, on demande à l'utilisateur de choisir un chapitre
-        user_states[user_id] = f"choix_chapitre_{prefix}_{matiere}"
-        await repondre(update, "Choisis un chapitre :", generer_clavier(chapitres + ["⬅️ Retour"]))
-    else:
-        # Sinon, on lance directement les QCM sur la matière complète
-        fichier_qcm = f"{prefix}_{matiere}.json"
-        qcm_data = charger_json(fichier_qcm)
-        if "qcm" in qcm_data and qcm_data["qcm"]:
-            user_states[user_id] = f"qcm_{prefix}_{matiere}"
-            user_progress[user_id] = 0
-            question = qcm_data["qcm"][0]
-            await repondre(update, question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
-        else:
-            await repondre(update, messages["qcm_introuvable"], generer_clavier(["⬅️ Retour"]))
-        index = user_progress.get(user_id, 0)
-        question = qcm_data["qcm"][index]
-        options = question.get("options", [])
-        bonne = question.get("reponse", "")
-
-        texte_clean = normaliser_nom(enlever_emojis(texte_original).strip())
-        options_clean = [normaliser_nom(enlever_emojis(opt).strip()) for opt in options]
-        bonne_clean = normaliser_nom(enlever_emojis(bonne).strip())
-
-        if texte_clean not in options_clean:
-            await repondre(update, messages.get("choix_invalide", ""), generer_clavier(options + ["⬅️ Retour"]))
-            return
-
-        if user_id not in user_scores:
-            user_scores[user_id] = {"nom": user.first_name, "actuel": {"total": 0, "correct": 0}, "historique": []}
-
-        user_scores[user_id]["nom"] = user.first_name
-        user_scores[user_id]["actuel"]["total"] += 1
-        if texte_clean == bonne_clean:
-            await repondre(update, random.choice(messages.get("reponses_bonnes", [])))
-            user_scores[user_id]["actuel"]["correct"] += 1
-        else:
-            mauvaise = random.choice([m.replace("{bonne}", bonne) for m in messages.get("reponses_mauvaises", [])])
-            await repondre(update, mauvaise)
-
-        if "explication" in question:
-            await repondre(update, f"👉 {question['explication']}")
-
-        user_progress[user_id] = (index + 1) % len(qcm_data["qcm"])
-        suivant = qcm_data["qcm"][user_progress[user_id]]
-        await repondre(update, suivant['question'], generer_clavier(suivant.get("options", []) + ["⬅️ Retour"]))
-
-        sauvegarder_json("user_scores.json", user_scores)
-        return
-
-    if texte in ["/start", "start", "demarrer", "démarrer"]:
-        await start(update, context)
-        return
-
-    if texte_original == "Quitter le bot":
-        nom = user.first_name or user.full_name or "cher utilisateur"
-        await repondre(update, messages.get("quitter", "").replace("{nom}", nom), generer_clavier(["Démarrer"]))
-        user_states.pop(user_id, None)
-        user_progress.pop(user_id, None)
-        return
-
-    section_static = {
-        "informations": "informations.json",
-        "infos": "informations.json",
-        "info": "informations.json",
-        "profil": "espace.json",
-        "espace": "espace.json",
-        "compte": "espace.json"
-    }
-    if texte in section_static:
-        user_states[user_id] = texte
-        data = charger_json(section_static[texte])
-        await repondre(update, data.get("message", "Aucune donnée disponible."), generer_clavier(["⬅️ Retour"]))
-        increment_stat(f"static_{texte}")
-        return
-
-    choix_sections = {
-        "bepc": "bepc.json",
-        "bac_a": "bac_a.json",
-        "bac_c": "bac_c.json",
-        "bac_d": "bac_d.json",
-        "concours": "concours.json",
-        "technique": None,
-    }
-    if texte in choix_sections:
-        user_states[user_id] = texte
-        if texte == "technique":
-            await repondre(update, messages.get("technique_indisponible", ""), generer_clavier(["⬅️ Retour"]))
-            return
-        data = charger_json(choix_sections[texte])
-        matieres = data.get("matieres", [])
-        msg = intros.get(texte, "") + "\n\n" + data.get("message", "Choisis une matière :")
-        increment_stat(f"section_{texte}")
-        await repondre(update, msg.strip(), generer_clavier(matieres + ["⬅️ Retour"]))
-        return
-
-    if user_states.get(user_id) == "concours":
-        prefix = "concours"
-        matiere = normaliser_nom(enlever_emojis(texte_original))
-        if matiere == "superieur_a_bac":
-            data = charger_json("concours_superieur_a_bac.json")
-            if "message" in data:
-                await repondre(update, data["message"], generer_clavier(["⬅️ Retour"]))
-            else:
-                await repondre(update, messages.get("qcm_introuvable", ""), generer_clavier(["⬅️ Retour"]))
-            return
-
-    if user_states.get(user_id) in choix_sections:
-        prefix = normaliser_nom(user_states[user_id])
-        matiere = normaliser_nom(enlever_emojis(texte_original))
-        fichier_qcm = f"{prefix}_{matiere}.json"
-        qcm_data = charger_json(fichier_qcm)
-        increment_stat(f"matiere_{prefix}_{matiere}")
-
-        if qcm_data.get("qcm"):
-            user_states[user_id] = f"qcm_{prefix}_{matiere}"
-            user_progress[user_id] = 0
-            question = qcm_data["qcm"][0]
-            await repondre(update, question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
-        else:
-            await repondre(update, messages.get("qcm_introuvable", ""), generer_clavier(["⬅️ Retour"]))
-        return
-
-    await repondre(update, messages.get("non_compris", ""))
 
 async def reset_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = str(update.effective_user.id)
@@ -438,7 +269,7 @@ async def scores_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         nom = data.get("nom", f"ID:{uid}")
         msg += f"{nom} → {correct}/{total} ({pourcentage:.1f}%)\n"
         count += 1
-        if count >= 30:  # limite d'affichage
+        if count >= 30:
             break
     await update.message.reply_text(msg, parse_mode="Markdown")
 
@@ -454,9 +285,5 @@ def lancer_bot():
     app.add_handler(CommandHandler("profil", profil_command))
     app.add_handler(CommandHandler("scores", scores_command))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
-    app.run_polling()
-
-if __name__ == "__main__":
-    os.makedirs(LOG_DIR, exist_ok=True)
     threading.Thread(target=lancer_flask).start()
-    lancer_bot()
+    app.run_polling()
