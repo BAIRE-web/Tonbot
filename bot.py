@@ -346,7 +346,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if user_states.get(user_id, "").startswith("chapitre_en_attente_"):
         state = user_states[user_id]
         _, prefix, matiere = state.split("_", 2)
-        matiere = matiere.strip()
+        matiere = normaliser_nom(matiere.strip())
         chapitres_info = user_progress.get(user_id, {}).get("chapitres", [])
         titre_choisi = texte_original.strip()
 
@@ -357,6 +357,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
         chapitre_id = chapitre["id"]
         chemin_qcm = f"{prefix}_{matiere}_{chapitre_id}.json"
+        print("Fichier QCM recherché :", chemin_qcm)
         qcm_data = charger_json(chemin_qcm)
 
         if not qcm_data.get("qcm"):
