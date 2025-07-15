@@ -228,7 +228,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         prefix = parts[1]
         matiere = parts[2]
         chapitre_id = "_".join(parts[3:])
-        fichier_qcm = f"{prefix}/{matiere}/{chapitre_id}.json"
+        fichier_qcm = f"{prefix}_{matiere}_{chapitre_id}.json"
         qcm_data = charger_json(fichier_qcm)
         if not qcm_data or "qcm" not in qcm_data:
             await repondre(update, messages.get("qcm_introuvable", ""), generer_clavier(["⬅️ Retour"]))
@@ -330,7 +330,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         matiere = normaliser_nom(enlever_emojis(texte_original))
         user_states[user_id] = f"chapitre_en_attente_{prefix}_{matiere}"
 
-        chemin_chapitres = f"{prefix}/{matiere}/chapitres.json"
+        chemin_chapitres = f"{prefix}_{matiere}_chapitres.json"
         data_chapitres = charger_json(chemin_chapitres)
         liste = data_chapitres.get("chapitres", [])
 
@@ -356,7 +356,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
             return
 
         chapitre_id = chapitre["id"]
-        chemin_qcm = f"{prefix}/{matiere}/{chapitre_id}.json"
+        chemin_qcm = f"{prefix}_{matiere}_{chapitre_id}.json"
         qcm_data = charger_json(chemin_qcm)
 
         if not qcm_data.get("qcm"):
