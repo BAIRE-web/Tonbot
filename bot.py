@@ -223,15 +223,16 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     # Gestion QCM
     if user_states.get(user_id, "").startswith("qcm_"):
-        state = user_states[user_id]
-        parts = state.split("_")
-prefix = parts[1]
-matiere = parts[2]
-chapitre_id = "_".join(parts[3:])
-        fichier_qcm = f"{prefix}/{matiere}/{chapitre_id}.json"
-        qcm_data = charger_json(fichier_qcm)
-        if not qcm_data or "qcm" not in qcm_data:
-            await repondre(update, messages.get("qcm_introuvable", ""), generer_clavier(["⬅️ Retour"]))
+    state = user_states[user_id]
+    parts = state.split("_")
+    prefix = parts[1]
+    matiere = parts[2]
+    chapitre_id = "_".join(parts[3:])
+    fichier_qcm = f"{prefix}/{matiere}/{chapitre_id}.json"
+    qcm_data = charger_json(fichier_qcm)
+    if not qcm_data or "qcm" not in qcm_data:
+        await repondre(update, messages.get("qcm_introuvable", ""), generer_clavier(["⬅️ Retour"]))
+    # … la suite reste inchangée
             user_states[user_id] = prefix
             return
         index = user_progress.get(user_id, 0)
