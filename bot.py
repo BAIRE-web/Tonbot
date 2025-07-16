@@ -496,3 +496,63 @@ if __name__ == "__main__":
     os.makedirs(LOG_DIR, exist_ok=True)
     threading.Thread(target=lancer_flask).start()
     lancer_bot()
+
+from flask import Flask, request
+import requests
+
+flask_app = Flask(__name__)
+
+VERIFY_TOKEN = "ton_token_secret"  # Choisis un mot secret ici
+PAGE_ACCESS_TOKEN = "LE_TOKEN_DE_TA_PAGE_FACEBOOK"  # Remplace ici par le token obtenu sur Facebook
+
+@flask_app.route("/webhook", methods=["GET", "POST"])
+def facebook_webhook():
+    if request.method == "GET":
+        # 👉 Facebook vérifie ici que ton bot est valide
+        token_sent = request.args.get("hub.verify_token")
+        challenge = request.args.get("hub.challenge")
+        if token_sent == VERIFY_TOKEN:
+            return challenge
+        return "Token invalide", 403
+
+    elif request.method == "POST":
+        # 👉 Message reçu de Facebook
+        data = request.get_json()
+        for entry in data.get("entry", []):
+            for message_event in entry.get("messaging", []):
+                sender_id = message_event["sender"]["id"]
+                if "message" in message_event:
+                    texte = message_event["message"].get("text", "")
+                    traiter_message_facebook(sender_id, texte)
+        return "OK", 200
+
+def envoyer_message_facebook(sender_id, texte, options=[]):
+    message_data = {
+        "recipient": {"id": sender_id},
+        "message": {"text": texte}
+    }
+
+    if options:
+        message_data["message"]["quick_replies"] = [
+            {
+                "content_type": "text",
+                "title": opt,
+                "payload": opt
+            } for opt in options
+        ]
+
+    response = requests.post(
+        f"https://graph.facebook.com/v18.0/me/messages?access_token={PAGE_ACCESS_TOKEN}",
+        json=message_data
+    )
+    print("Facebook réponse:", response.status_code, response.text)
+
+def traiter_message_facebook(sender_id, texte):
+    texte_clean = texte.strip().lower()
+
+    if texte_clean in ["/start", "bonjour", "salut"]:
+        envoyer_message_facebook(sender_id, "👋 Bienvenue dans ton assistant éducatif !", ["QCM", "Cours", "⬅️ Retour"])
+    elif texte_clean == "qcm":
+        envoyer_message_facebook(sender_id, "📘 Voici un exemple de QCM :", ["Option A", "Option B", "⬅️ Retour"])
+    else:
+        envoyer_message_facebook(sender_id, "Désolé, je n'ai pas compris. Essaie encore.", ["QCM", "⬅️ Retour"])
