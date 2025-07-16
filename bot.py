@@ -498,32 +498,26 @@ if __name__ == "__main__":
     lancer_bot()
 
 from flask import Flask, request
-import requests
 
 flask_app = Flask(__name__)
 
-VERIFY_TOKEN = "ton_token_secret"  # Choisis un mot secret ici
-PAGE_ACCESS_TOKEN = "LE_TOKEN_DE_TA_PAGE_FACEBOOK"  # Remplace ici par le token obtenu sur Facebook
+VERIFY_TOKEN = "ton_token_secret"  # Même token que sur Facebook
+PAGE_ACCESS_TOKEN = "LE_TOKEN_DE_TA_PAGE_FACEBOOK"  # Ton token page
 
 @flask_app.route("/webhook", methods=["GET", "POST"])
 def facebook_webhook():
     if request.method == "GET":
-        # 👉 Facebook vérifie ici que ton bot est valide
         token_sent = request.args.get("hub.verify_token")
         challenge = request.args.get("hub.challenge")
         if token_sent == VERIFY_TOKEN:
-            return challenge
+            return challenge, 200
         return "Token invalide", 403
 
     elif request.method == "POST":
-        # 👉 Message reçu de Facebook
         data = request.get_json()
-        for entry in data.get("entry", []):
-            for message_event in entry.get("messaging", []):
-                sender_id = message_event["sender"]["id"]
-                if "message" in message_event:
-                    texte = message_event["message"].get("text", "")
-                    traiter_message_facebook(sender_id, texte)
+        # Ici tu traites les messages Facebook reçus
+        # Exemple simple de debug
+        print("Données reçues Facebook :", data)
         return "OK", 200
 
 def envoyer_message_facebook(sender_id, texte, options=[]):
