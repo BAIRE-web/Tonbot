@@ -497,42 +497,42 @@ if __name__ == "__main__":
     threading.Thread(target=lancer_flask).start()
     lancer_bot()
 
+import threading
 import os
 from flask import Flask, request
+from telegram.ext import Application
 
+# === FLASK POUR FACEBOOK ===
 flask_app = Flask(__name__)
 
-VERIFY_TOKEN = "mon_secret123"  # Le même que tu vas mettre sur Facebook
-PAGE_ACCESS_TOKEN = "TON_TOKEN_DE_PAGE_ICI"  # Remplace par ton vrai token
+VERIFY_TOKEN = "mon_secret123"  # Même que celui que tu mets dans Facebook
+PAGE_ACCESS_TOKEN = "TON_TOKEN_FACEBOOK"  # Mets ton vrai token ici
 
 @flask_app.route("/")
 def home():
-    return "✅ Bot éducation actif !"
+    return "✅ Bot éducatif en ligne !"
 
 @flask_app.route("/webhook", methods=["GET", "POST"])
-def facebook_webhook():
+def webhook():
     if request.method == "GET":
         token_sent = request.args.get("hub.verify_token")
         challenge = request.args.get("hub.challenge")
         if token_sent == VERIFY_TOKEN:
             return challenge, 200
         return "Token invalide", 403
-
     elif request.method == "POST":
         data = request.get_json()
-        print("Données reçues :", data)  # Pour débogage
-
-        # Traitement des messages
-        for entry in data.get("entry", []):
-            for event in entry.get("messaging", []):
-                sender_id = event["sender"]["id"]
-                if "message" in event and "text" in event["message"]:
-                    texte = event["message"]["text"]
-                    print(f"Message reçu de {sender_id} : {texte}")
-                    # 👉 Ici tu pourras appeler ta fonction Telegram ou envoyer une réponse
+        # Tu peux ici traiter les messages Facebook comme tu veux
         return "OK", 200
 
-# 🔥 Ne pas oublier cette ligne sinon Render NE FONCTIONNERA PAS
+# === TELEGRAM ===
+def lancer_bot_telegram():
+    application = Application.builder().token("TON_TOKEN_TELEGRAM").build()
+    # Tu ajoutes ici tous tes handlers : application.add_handler(...)
+    application.add_handler(ton_handler_principal)
+    application.run_polling()
+
+# === LANCEMENT DES DEUX ENSEMBLE ===
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))
-    flask_app.run(host="0.0.0.0", port=port)
+    threading.Thread(target=lancer_bot_telegram).start()
+    flask_app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
