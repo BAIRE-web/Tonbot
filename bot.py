@@ -497,20 +497,11 @@ if __name__ == "__main__":
     threading.Thread(target=lancer_flask).start()
     lancer_bot()
 
-import threading
-import os
 from flask import Flask, request
-from telegram.ext import Application
 
-# === FLASK POUR FACEBOOK ===
 flask_app = Flask(__name__)
 
-VERIFY_TOKEN = "mon_secret123"  # Même que celui que tu mets dans Facebook
-PAGE_ACCESS_TOKEN = "TON_TOKEN_FACEBOOK"  # Mets ton vrai token ici
-
-@flask_app.route("/")
-def home():
-    return "✅ Bot éducatif en ligne !"
+VERIFY_TOKEN = "mon_secret123"  # 🟢 EXACTEMENT ce que tu viens de me donner
 
 @flask_app.route("/webhook", methods=["GET", "POST"])
 def webhook():
@@ -521,18 +512,4 @@ def webhook():
             return challenge, 200
         return "Token invalide", 403
     elif request.method == "POST":
-        data = request.get_json()
-        # Tu peux ici traiter les messages Facebook comme tu veux
         return "OK", 200
-
-# === TELEGRAM ===
-def lancer_bot_telegram():
-    application = Application.builder().token("TON_TOKEN_TELEGRAM").build()
-    # Tu ajoutes ici tous tes handlers : application.add_handler(...)
-    application.add_handler(ton_handler_principal)
-    application.run_polling()
-
-# === LANCEMENT DES DEUX ENSEMBLE ===
-if __name__ == "__main__":
-    threading.Thread(target=lancer_bot_telegram).start()
-    flask_app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
