@@ -2723,3 +2723,293 @@ YouTube
 [2025-07-06 14:17:39] Bot: ‎🙏Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.
 ‎🔔 N’hésitez pas à revenir quand vous voulez.
 ‎🍀 Bonne continuation, BarakaAdministrateur !
+[2025-07-16 08:26:00] Commande /start
+[2025-07-16 08:26:00] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-16 08:26:03] Utilisateur: 📚 BEPC
+[2025-07-16 08:26:03] Bot: 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+
+📘 Choisis une matière pour le BEPC :
+[2025-07-16 08:26:05] Utilisateur: 📖 Français
+[2025-07-16 08:26:05] Bot: 📘 Choisis un chapitre dans *francais* :
+[2025-07-16 08:26:06] Utilisateur: Grammaire
+[2025-07-16 08:26:06] Bot: ❌ Aucun QCM trouvé pour ce chapitre.
+[2025-07-16 08:28:14] Utilisateur: ⬅️ Retour
+[2025-07-16 08:28:14] Commande /start
+[2025-07-16 08:28:14] Bot: Choisis une option pour continuer :
+[2025-07-16 08:28:17] Utilisateur: 🎓 Bac A
+[2025-07-16 08:28:17] Bot: 🎓 Choisis une matière pour le BAC A :
+[2025-07-16 08:28:19] Utilisateur: 📖 Français
+[2025-07-16 08:28:19] Bot: ❌ Aucun chapitre trouvé pour cette matière.
+[2025-07-16 08:40:17] Utilisateur: ⬅️ Retour
+[2025-07-16 08:40:17] Commande /start
+[2025-07-16 08:40:17] Bot: Choisis une option pour continuer :
+[2025-07-16 08:40:18] Utilisateur: 📚 BEPC
+[2025-07-16 08:40:18] Bot: 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+
+📘 Choisis une matière pour le BEPC :
+[2025-07-16 08:40:20] Utilisateur: 📖 Français
+[2025-07-16 08:40:20] Bot: 📘 Choisis un chapitre dans *francais* :
+[2025-07-16 08:40:21] Utilisateur: Grammaire
+[2025-07-16 08:40:33] Utilisateur: Grammaire
+[2025-07-16 08:40:34] Utilisateur: Grammaire
+[2025-07-16 08:45:50] Utilisateur: ⬅️ Retour
+[2025-07-16 08:45:50] Commande /start
+[2025-07-16 08:45:50] Bot: Choisis une option pour continuer :
+[2025-07-16 08:45:51] Utilisateur: 📚 BEPC
+[2025-07-16 08:45:51] Bot: 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+
+📘 Choisis une matière pour le BEPC :
+[2025-07-16 08:45:52] Utilisateur: 📖 Français
+[2025-07-16 08:45:52] Bot: 📘 Choisis un chapitre dans *francais* :
+[2025-07-16 08:45:54] Utilisateur: Grammaire
+[2025-07-16 08:45:54] Bot: 📍 Chapitre choisi : *Grammaire*
+
+Quelle est la fonction du mot 'chien' dans la phrase : 'Le chien aboie' ?
+[2025-07-16 08:46:20] Utilisateur: Sujet
+[2025-07-16 08:46:20] Bot: 🎯 Tu as visé juste, bien joué !
+[2025-07-16 08:46:21] Bot: 👉 ‘Chien’ est le sujet car c’est lui qui fait l’action d’aboyer.
+[2025-07-16 08:46:22] Bot: Quel est le temps du verbe dans la phrase : 'Il mangeait une pomme' ?
+[2025-07-16 08:46:34] Utilisateur: Passé composé
+[2025-07-16 08:46:34] Bot: 🙁 Dommage, ce n’était pas ça. 👉 Réponse attendue : Imparfait
+[2025-07-16 08:46:36] Bot: 👉 ‘Maneait’ est conjugué à l’imparfait car il exprime une action passée et inachevée.
+[2025-07-16 08:46:36] Bot: Quelle est la fonction du mot 'chien' dans la phrase : 'Le chien aboie' ?
+[2025-07-16 09:41:43] Utilisateur: ⬅️ Retour
+[2025-07-16 09:41:43] Commande /start
+[2025-07-16 09:41:43] Bot: Choisis une option pour continuer :
+[2025-07-16 09:41:44] Utilisateur: 📚 BEPC
+[2025-07-16 09:41:44] Bot: 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+
+📘 Choisis une matière pour le BEPC :
+[2025-07-16 09:41:45] Utilisateur: 📖 Français
+[2025-07-16 09:41:45] Bot: 📘 Choisis un chapitre dans *francais* :
+[2025-07-16 09:41:47] Utilisateur: Grammaire
+[2025-07-16 09:41:47] Bot: 📍 Chapitre choisi : *Grammaire*
+
+Quelle est la fonction du mot 'chien' dans la phrase : 'Le chien aboie' ?
+[2025-07-16 09:41:49] Utilisateur: COD
+[2025-07-16 09:41:49] Bot: 🙂 Tu étais presque, hélas ce n’est pas la bonne réponse ❌.
+👉 La bonne réponse était : Sujet
+[2025-07-16 09:41:49] Bot: 👉 ‘Chien’ est le sujet car c’est lui qui fait l’action d’aboyer.
+[2025-07-16 09:41:49] Bot: Quel est le temps du verbe dans la phrase : 'Il mangeait une pomme' ?
+[2025-07-16 09:41:50] Utilisateur: ⬅️ Retour
+[2025-07-16 09:41:50] Commande /start
+[2025-07-16 09:41:50] Bot: Choisis une option pour continuer :
+[2025-07-16 09:41:53] Utilisateur: 🎯 Concours
+[2025-07-16 09:41:53] Bot: 🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.
+🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.
+
+🏆 Choisis un concours à préparer :
+[2025-07-16 09:41:58] Utilisateur: 📕 BAC
+[2025-07-16 09:41:58] Bot: ❌ Aucune matière trouvée pour le niveau *BAC*.
+[2025-07-16 09:42:22] Utilisateur: ⬅️ Retour
+[2025-07-16 09:42:22] Commande /start
+[2025-07-16 09:42:22] Bot: Choisis une option pour continuer :
+[2025-07-16 09:42:25] Utilisateur: 🎯 Concours
+[2025-07-16 09:42:25] Bot: 🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.
+🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.
+
+🏆 Choisis un concours à préparer :
+[2025-07-16 09:42:26] Utilisateur: 🎓 Supérieur à BAC
+[2025-07-16 09:42:26] Bot: 🚧 La section Supérieur à BAC est en cours de préparation. Merci de patienter.
+[2025-07-16 09:42:28] Utilisateur: ⬅️ Retour
+[2025-07-16 09:42:28] Commande /start
+[2025-07-16 09:42:28] Bot: Choisis une option pour continuer :
+[2025-07-16 09:45:09] Utilisateur: Quitter le bot
+[2025-07-16 09:45:09] Bot: 🙏 Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.
+🔔 N’hésitez pas à revenir quand vous voulez.
+🍀 Bonne continuation, Cheick BAÏRÉ !
+[2025-07-16 09:45:11] Utilisateur: Démarrer
+[2025-07-16 09:45:11] Commande /start
+[2025-07-16 09:45:11] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-16 09:45:13] Utilisateur: 🎯 Concours
+[2025-07-16 09:45:13] Bot: 🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.
+🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.
+
+🏆 Choisis un concours à préparer :
+[2025-07-16 09:45:15] Utilisateur: 📗 BEPC.G
+[2025-07-16 09:45:15] Bot: 📚 Choisis une matière pour le niveau *BEPC.G* :
+[2025-07-16 09:45:17] Utilisateur: Français
+[2025-07-16 09:45:17] Bot: ❌ Aucun QCM trouvé pour la matière *FRANCAIS* du niveau *BEPC.G*.
+[2025-07-16 09:45:34] Utilisateur: Français
+[2025-07-16 09:45:34] Bot: ❌ Aucun QCM trouvé pour la matière *FRANCAIS* du niveau *BEPC.G*.
+[2025-07-16 09:45:37] Utilisateur: Mathématiques
+[2025-07-16 09:45:37] Bot: ❌ Aucun QCM trouvé pour la matière *MATHEMATIQUES* du niveau *BEPC.G*.
+[2025-07-16 09:45:39] Utilisateur: Histoire-Géographie
+[2025-07-16 09:45:39] Bot: ❌ Aucun QCM trouvé pour la matière *HISTOIRE-GEOGRAPHIE* du niveau *BEPC.G*.
+[2025-07-16 09:48:19] Utilisateur: Français
+[2025-07-16 09:48:19] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-16 09:48:21] Commande /start
+[2025-07-16 09:48:21] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-16 09:48:23] Utilisateur: 🎯 Concours
+[2025-07-16 09:48:23] Bot: 🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.
+🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.
+
+🏆 Choisis un concours à préparer :
+[2025-07-16 09:48:25] Utilisateur: 📗 BEPC.G
+[2025-07-16 09:48:25] Bot: 📚 Choisis une matière pour le niveau *BEPC.G* :
+[2025-07-16 09:48:27] Utilisateur: Français
+[2025-07-16 09:48:27] Bot: ❌ Aucun QCM trouvé pour la matière *FRANCAIS* du niveau *BEPC.G*.
+[2025-07-16 09:50:46] Utilisateur: Français
+[2025-07-16 09:50:46] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-16 09:50:47] Commande /start
+[2025-07-16 09:50:47] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-16 09:50:49] Utilisateur: 🎯 Concours
+[2025-07-16 09:50:49] Bot: 🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.
+🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.
+
+🏆 Choisis un concours à préparer :
+[2025-07-16 09:50:52] Utilisateur: 📗 BEPC.G
+[2025-07-16 09:50:52] Bot: 📚 Choisis une matière pour le niveau *BEPC.G* :
+[2025-07-16 09:50:54] Utilisateur: Français
+[2025-07-16 09:50:54] Bot: 📘 Matière choisie : *FRANCAIS*
+
+*Question 1 :*
+Quel est le synonyme de 'rapide' ?
+[2025-07-16 09:51:26] Utilisateur: B
+[2025-07-16 09:51:26] Bot: ❌ Choix invalide, veuillez réessayer.
+[2025-07-16 09:51:31] Utilisateur: ⬅️ Retour
+[2025-07-16 09:51:31] Commande /start
+[2025-07-16 09:51:31] Bot: Choisis une option pour continuer :
+[2025-07-16 09:51:33] Utilisateur: 📚 BEPC
+[2025-07-16 09:51:33] Bot: 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+
+📘 Choisis une matière pour le BEPC :
+[2025-07-16 09:51:34] Utilisateur: 📖 Français
+[2025-07-16 09:51:34] Bot: 📘 Choisis un chapitre dans *francais* :
+[2025-07-16 09:51:36] Utilisateur: Grammaire
+[2025-07-16 09:51:36] Bot: 📍 Chapitre choisi : *Grammaire*
+
+Quelle est la fonction du mot 'chien' dans la phrase : 'Le chien aboie' ?
+[2025-07-16 09:51:37] Utilisateur: COD
+[2025-07-16 09:51:37] Bot: 🙂 Tu étais presque, hélas ce n’est pas la bonne réponse ❌.
+👉 La bonne réponse était : Sujet
+[2025-07-16 09:51:37] Bot: 👉 ‘Chien’ est le sujet car c’est lui qui fait l’action d’aboyer.
+[2025-07-16 09:51:37] Bot: Quel est le temps du verbe dans la phrase : 'Il mangeait une pomme' ?
+[2025-07-16 09:51:38] Utilisateur: ⬅️ Retour
+[2025-07-16 09:51:38] Commande /start
+[2025-07-16 09:51:38] Bot: Choisis une option pour continuer :
+[2025-07-16 09:51:39] Utilisateur: 🎯 Concours
+[2025-07-16 09:51:39] Bot: 🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.
+🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.
+
+🏆 Choisis un concours à préparer :
+[2025-07-16 09:51:40] Utilisateur: 📗 BEPC.G
+[2025-07-16 09:51:40] Bot: 📚 Choisis une matière pour le niveau *BEPC.G* :
+[2025-07-16 09:51:42] Utilisateur: Français
+[2025-07-16 09:51:42] Bot: 📘 Matière choisie : *FRANCAIS*
+
+*Question 1 :*
+Quel est le synonyme de 'rapide' ?
+[2025-07-16 10:00:20] Utilisateur: Lent
+[2025-07-16 10:00:20] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-16 10:00:21] Commande /start
+[2025-07-16 10:00:21] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-16 10:00:23] Utilisateur: 🎯 Concours
+[2025-07-16 10:00:23] Bot: 🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.
+🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.
+
+🏆 Choisis un concours à préparer :
+[2025-07-16 10:00:24] Utilisateur: 📗 BEPC.G
+[2025-07-16 10:00:24] Bot: 📚 Choisis une matière pour le niveau *BEPC.G* :
+[2025-07-16 10:00:26] Utilisateur: Français
+[2025-07-16 10:00:26] Bot: 📘 Matière choisie : *FRANCAIS*
+
+*Question 1 :*
+Quel est le synonyme de 'rapide' ?
+[2025-07-16 10:00:27] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-16 10:00:31] Commande /start
+[2025-07-16 10:00:31] Bot: 🎉 Bon retour, Mes salutations !
+⚡ Prêt(e) pour une nouvelle expérience ? 
+
+Choisis une option :
+[2025-07-16 10:00:34] Utilisateur: 🎯 Concours
+[2025-07-16 10:00:34] Bot: 🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.
+🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.
+
+🏆 Choisis un concours à préparer :
+[2025-07-16 10:00:35] Utilisateur: 📗 BEPC.G
+[2025-07-16 10:00:35] Bot: 📚 Choisis une matière pour le niveau *BEPC.G* :
+[2025-07-16 10:00:36] Utilisateur: Français
+[2025-07-16 10:00:36] Bot: 📘 Matière choisie : *FRANCAIS*
+
+*Question 1 :*
+Quel est le synonyme de 'rapide' ?
+[2025-07-16 10:00:36] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-16 10:00:43] Utilisateur: Vif
+[2025-07-16 10:00:43] Bot: 🌟 Excellente réponse, continue comme ça !
+[2025-07-16 10:00:43] Bot: 👉 Le mot 'vif' est un synonyme courant de 'rapide'.
+[2025-07-16 10:00:43] Bot: Quel est l'antonyme de 'facile' ?
+[2025-07-16 10:00:59] Utilisateur: ⬅️ Retour
+[2025-07-16 10:00:59] Commande /start
+[2025-07-16 10:00:59] Bot: Choisis une option pour continuer :
+[2025-07-16 10:01:01] Utilisateur: 📚 BEPC
+[2025-07-16 10:01:01] Bot: 📌 La révision se fait par matières, pas par chapitres, car à l’examen, on ne sait pas ce qui tombera précisément.
+🎲 Une fois une matière choisie, une série aléatoire de QCM vous sera proposée, comme à l’examen.
+
+📘 Choisis une matière pour le BEPC :
+[2025-07-16 10:01:03] Utilisateur: 📖 Français
+[2025-07-16 10:01:03] Bot: 📘 Choisis un chapitre dans *francais* :
+[2025-07-16 10:01:04] Utilisateur: Grammaire
+[2025-07-16 10:01:04] Bot: 📍 Chapitre choisi : *Grammaire*
+
+Quelle est la fonction du mot 'chien' dans la phrase : 'Le chien aboie' ?
+[2025-07-16 10:01:05] Utilisateur: Verbe
+[2025-07-16 10:01:05] Bot: 😕 Oups, ce n’est pas la bonne réponse ❌.
+👉 La bonne réponse était : Sujet
+[2025-07-16 10:01:06] Bot: 👉 ‘Chien’ est le sujet car c’est lui qui fait l’action d’aboyer.
+[2025-07-16 10:01:06] Bot: Quel est le temps du verbe dans la phrase : 'Il mangeait une pomme' ?
+[2025-07-16 10:01:07] Utilisateur: ⬅️ Retour
+[2025-07-16 10:01:07] Commande /start
+[2025-07-16 10:01:07] Bot: Choisis une option pour continuer :
+[2025-07-16 10:01:09] Utilisateur: 🎯 Concours
+[2025-07-16 10:01:09] Bot: 🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.
+🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.
+
+🏆 Choisis un concours à préparer :
+[2025-07-16 10:01:10] Utilisateur: 📗 BEPC.G
+[2025-07-16 10:01:10] Bot: 📚 Choisis une matière pour le niveau *BEPC.G* :
+[2025-07-16 10:01:11] Utilisateur: Français
+[2025-07-16 10:01:11] Bot: 📘 Matière choisie : *FRANCAIS*
+
+*Question 1 :*
+Quel est le synonyme de 'rapide' ?
+[2025-07-16 10:01:11] Bot: Option non reconnue. Tape /start pour recommencer.
+[2025-07-16 10:09:51] Utilisateur: ⬅️ Retour
+[2025-07-16 10:09:51] Commande /start
+[2025-07-16 10:09:51] Bot: Choisis une option pour continuer :
+[2025-07-16 10:09:54] Utilisateur: 🎯 Concours
+[2025-07-16 10:09:54] Bot: 🎯 ‎📋 Lors d’un concours, vous avez 50 QCM à traiter, couvrant tout ce qui concerne ce niveau : culture générale, tests psychotechniques, dans un ordre un peu aléatoire.
+🚀 Après le choix de votre niveau, nous commencerons à vous former spécifiquement pour ce concours.
+
+🏆 Choisis un concours à préparer :
+[2025-07-16 10:09:55] Utilisateur: 📗 BEPC.G
+[2025-07-16 10:09:55] Bot: 📚 Choisis une matière pour le niveau *BEPC.G* :
+[2025-07-16 10:09:57] Utilisateur: Français
+[2025-07-16 10:09:57] Bot: 📘 Matière choisie : *FRANCAIS*
+
+*Question 1 :*
+Quel est le synonyme de 'rapide' ?
+[2025-07-16 10:10:00] Utilisateur: Vif
+[2025-07-16 10:10:00] Bot: 🎉 Félicitations 🙂 c'est la bonne réponse !
+[2025-07-16 10:10:00] Bot: 👉 Le mot 'vif' est un synonyme courant de 'rapide'.
+[2025-07-16 10:10:00] Bot: Quel est l'antonyme de 'facile' ?

@@ -1,6 +1,6 @@
 {
-  "section_concours": 31,
-  "section_bepc": 36,
+  "section_concours": 41,
+  "section_bepc": 42,
   "matiere_concours_bac": 3,
   "infos": 27,
   "matiere_bepc_mathematiques": 25,
@@ -29,5 +29,6 @@
   "matiere_bac_a_philosophie": 2,
   "matiere_bac_a_francais": 3,
   "matiere_bac_a_espagnol": 1,
-  "matiere_bac_a_anglais": 1
+  "matiere_bac_a_anglais": 1,
+  "section_bac_a": 1
 }

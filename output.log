@@ -1,0 +1,26 @@
+/data/data/com.termux/files/usr/lib/python3.12/site-packages/apscheduler/__init__.py:1: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import get_distribution, DistributionNotFound
+ * Serving Flask app 'bot'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:10000
+ * Running on http://192.168.100.158:10000
+[33mPress CTRL+C to quit[0m
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tonbot/bot.py", line 460, in <module>
+    lancer_bot()
+  File "/data/data/com.termux/files/home/tonbot/bot.py", line 444, in lancer_bot
+    app = ApplicationBuilder().token(BOT_TOKEN).build()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 286, in build
+    bot: Bot = self._build_ext_bot()  # build a bot
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_applicationbuilder.py", line 248, in _build_ext_bot
+    return ExtBot(
+           ^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 213, in __init__
+    super().__init__(
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 239, in __init__
+    raise InvalidToken("You must pass the token you received from https://t.me/Botfather!")
+telegram.error.InvalidToken: You must pass the token you received from https://t.me/Botfather!

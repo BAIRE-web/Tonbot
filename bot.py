@@ -213,15 +213,17 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     texte = normaliser_nom(enlever_emojis(texte_original))
     log_message(user_id, f"Utilisateur: {texte_original}")
     sauvegarder_utilisateur(user)
+
     if await avis_message_handler(update, context):
         return
+
     if texte_original == "⬅️ Retour":
         user_states[user_id] = "menu"
         user_progress.pop(user_id, None)
         await start(update, context, message_personnalise=False)
         return
 
-    # Gestion QCM
+    # Gestion QCM (répondre aux questions en cours)
     if user_states.get(user_id, "").startswith("qcm_"):
         state = user_states[user_id]
         parts = state.split("_")
@@ -233,6 +235,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         if not qcm_data or "qcm" not in qcm_data:
             await repondre(update, messages.get("qcm_introuvable", ""), generer_clavier(["⬅️ Retour"]))
             return
+
         index = user_progress.get(user_id, 0)
         question = qcm_data["qcm"][index]
         options = question.get("options", [])
@@ -264,7 +267,6 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         user_progress[user_id] = (index + 1) % len(qcm_data["qcm"])
         suivant = qcm_data["qcm"][user_progress[user_id]]
         await repondre(update, suivant['question'], generer_clavier(suivant.get("options", []) + ["⬅️ Retour"]))
-
         sauvegarder_json("user_scores.json", user_scores)
         return
 
@@ -314,17 +316,47 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await repondre(update, msg.strip(), generer_clavier(matieres + ["⬅️ Retour"]))
         return
 
+    # Étape 1 : L'utilisateur choisit un niveau de concours
     if user_states.get(user_id) == "concours":
-        prefix = "concours"
-        matiere = normaliser_nom(enlever_emojis(texte_original))
-        if matiere == "superieur_a_bac":
+        niveau = normaliser_nom(enlever_emojis(texte_original))
+        if niveau == "superieur_a_bac":
             data = charger_json("concours_superieur_a_bac.json")
             if "message" in data:
                 await repondre(update, data["message"], generer_clavier(["⬅️ Retour"]))
             else:
-                await repondre(update, messages.get("qcm_introuvable", ""), generer_clavier(["⬅️ Retour"]))
+                await repondre(update, messages.get("qcm_introuvable"), generer_clavier(["⬅️ Retour"]))
             return
 
+        chemin = f"concours_{niveau}.json"
+        data = charger_json(chemin)
+        matieres = data.get("matieres", [])
+        if not matieres:
+            await repondre(update, f"❌ Aucune matière trouvée pour le niveau *{niveau.upper()}*.", generer_clavier(["⬅️ Retour"]))
+            return
+
+        user_states[user_id] = f"concours_matiere_attente_{niveau}"
+        await repondre(update, f"📚 Choisis une matière pour le niveau *{niveau.upper()}* :", generer_clavier(matieres + ["⬅️ Retour"]))
+        return
+
+    # Étape 2 : L'utilisateur choisit une matière pour un niveau concours
+    if user_states.get(user_id, "").startswith("concours_matiere_attente_"):
+        parts = user_states[user_id].split("_")
+        niveau = parts[-1]
+        matiere = normaliser_nom(enlever_emojis(texte_original))
+        fichier_qcm = f"concours_{niveau}_{matiere}.json"
+        qcm_data = charger_json(fichier_qcm)
+
+        if not qcm_data.get("qcm"):
+            await repondre(update, f"❌ Aucun QCM trouvé pour la matière *{matiere.upper()}* du niveau *{niveau.upper()}*.", generer_clavier(["⬅️ Retour"]))
+            return
+
+        user_states[user_id] = f"qcm_concours_{niveau}_{matiere}"
+        user_progress[user_id] = 0
+        question = qcm_data["qcm"][0]
+        await repondre(update, f"📘 Matière choisie : *{matiere.upper()}*\n\n*Question 1 :*\n{question['question']}", generer_clavier(question["options"] + ["⬅️ Retour"]))
+        return
+
+    # Gestion chapitres (après choix matière dans sections classiques)
     if user_states.get(user_id) in choix_sections:
         prefix = normaliser_nom(user_states[user_id])
         matiere = normaliser_nom(enlever_emojis(texte_original))
@@ -342,10 +374,13 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         user_progress[user_id] = {"chapitres": liste}
         await repondre(update, f"📘 Choisis un chapitre dans *{matiere}* :", generer_clavier(noms_chapitres + ["⬅️ Retour"]))
         return
-    # Si l'utilisateur doit choisir un chapitre
+
+    # Choix du chapitre après avoir choisi une matière
     if user_states.get(user_id, "").startswith("chapitre_en_attente_"):
         state = user_states[user_id]
-        _, prefix, matiere = state.split("_", 2)
+        parts = state.split("_")
+        prefix = parts[3]
+        matiere = "_".join(parts[4:])
         matiere = normaliser_nom(matiere.strip())
         chapitres_info = user_progress.get(user_id, {}).get("chapitres", [])
         titre_choisi = texte_original.strip()
@@ -364,13 +399,13 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await repondre(update, "❌ Aucun QCM trouvé pour ce chapitre.", generer_clavier(["⬅️ Retour"]))
             return
 
-        # Préparer le QCM
         user_states[user_id] = f"qcm_{prefix}_{matiere}_{chapitre_id}"
         user_progress[user_id] = 0
         question = qcm_data["qcm"][0]
         await repondre(update, f"📍 Chapitre choisi : *{chapitre['titre']}*\n\n" + question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
         return
 
+    # Si rien de connu n'est détecté
     await repondre(update, messages.get("non_compris", ""))
 
 async def reset_score(update: Update, context: ContextTypes.DEFAULT_TYPE):

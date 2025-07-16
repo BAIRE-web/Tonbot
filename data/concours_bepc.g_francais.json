@@ -1,0 +1,16 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le synonyme de 'rapide' ?",
+      "options": ["Lent", "Vif", "Calme", "Faible"],
+      "reponse": "Vif",
+      "explication": "Le mot 'vif' est un synonyme courant de 'rapide'."
+    },
+    {
+      "question": "Quel est l'antonyme de 'facile' ?",
+      "options": ["Simple", "Possible", "Difficile", "Rapide"],
+      "reponse": "Difficile",
+      "explication": "L'antonyme de 'facile' est 'difficile'."
+    }
+  ]
+}
