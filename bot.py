@@ -497,12 +497,17 @@ if __name__ == "__main__":
     threading.Thread(target=lancer_flask).start()
     lancer_bot()
 
+import os
 from flask import Flask, request
 
 flask_app = Flask(__name__)
 
-VERIFY_TOKEN = "ton_token_secret"  # Même token que sur Facebook
-PAGE_ACCESS_TOKEN = "LE_TOKEN_DE_TA_PAGE_FACEBOOK"  # Ton token page
+VERIFY_TOKEN = "mon_secret123"  # Le même que tu vas mettre sur Facebook
+PAGE_ACCESS_TOKEN = "TON_TOKEN_DE_PAGE_ICI"  # Remplace par ton vrai token
+
+@flask_app.route("/")
+def home():
+    return "✅ Bot éducation actif !"
 
 @flask_app.route("/webhook", methods=["GET", "POST"])
 def facebook_webhook():
@@ -515,38 +520,19 @@ def facebook_webhook():
 
     elif request.method == "POST":
         data = request.get_json()
-        # Ici tu traites les messages Facebook reçus
-        # Exemple simple de debug
-        print("Données reçues Facebook :", data)
+        print("Données reçues :", data)  # Pour débogage
+
+        # Traitement des messages
+        for entry in data.get("entry", []):
+            for event in entry.get("messaging", []):
+                sender_id = event["sender"]["id"]
+                if "message" in event and "text" in event["message"]:
+                    texte = event["message"]["text"]
+                    print(f"Message reçu de {sender_id} : {texte}")
+                    # 👉 Ici tu pourras appeler ta fonction Telegram ou envoyer une réponse
         return "OK", 200
 
-def envoyer_message_facebook(sender_id, texte, options=[]):
-    message_data = {
-        "recipient": {"id": sender_id},
-        "message": {"text": texte}
-    }
-
-    if options:
-        message_data["message"]["quick_replies"] = [
-            {
-                "content_type": "text",
-                "title": opt,
-                "payload": opt
-            } for opt in options
-        ]
-
-    response = requests.post(
-        f"https://graph.facebook.com/v18.0/me/messages?access_token={PAGE_ACCESS_TOKEN}",
-        json=message_data
-    )
-    print("Facebook réponse:", response.status_code, response.text)
-
-def traiter_message_facebook(sender_id, texte):
-    texte_clean = texte.strip().lower()
-
-    if texte_clean in ["/start", "bonjour", "salut"]:
-        envoyer_message_facebook(sender_id, "👋 Bienvenue dans ton assistant éducatif !", ["QCM", "Cours", "⬅️ Retour"])
-    elif texte_clean == "qcm":
-        envoyer_message_facebook(sender_id, "📘 Voici un exemple de QCM :", ["Option A", "Option B", "⬅️ Retour"])
-    else:
-        envoyer_message_facebook(sender_id, "Désolé, je n'ai pas compris. Essaie encore.", ["QCM", "⬅️ Retour"])
+# 🔥 Ne pas oublier cette ligne sinon Render NE FONCTIONNERA PAS
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    flask_app.run(host="0.0.0.0", port=port)
