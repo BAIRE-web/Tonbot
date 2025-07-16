@@ -489,7 +489,5 @@ def lancer_bot():
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
     app.run_polling()
 
-if __name__ == "__main__":
-    os.makedirs(LOG_DIR, exist_ok=True)
-    threading.Thread(target=lancer_flask).start()
-    lancer_bot()
+os.makedirs(LOG_DIR, exist_ok=True)
+threading.Thread(target=lancer_bot).start()
