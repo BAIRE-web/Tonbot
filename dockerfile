@@ -11,4 +11,4 @@ COPY . .
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
 # Lancer ton bot
-CMD ["gunicorn", "bot:flask_app", "--bind", "0.0.0.0:$PORT"]
+CMD ["python","bot.py"]

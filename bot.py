@@ -20,7 +20,10 @@ def home():
     return "✅ Bot éducatif en ligne (Render + Flask + Telegram Bot)"
 
 def lancer_flask():
-    flask_app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 10000)))
+    port = os.environ.get("PORT")
+    if not port or not port.isdigit():
+        raise RuntimeError("❌ La variable d'environnement PORT est absente ou invalide.")
+    flask_app.run(host="0.0.0.0", port=int(port))
 
 def chemin_data(fichier): return os.path.join(DATA_DIR, fichier)
 
