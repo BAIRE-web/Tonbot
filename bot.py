@@ -20,7 +20,7 @@ def home():
     return "✅ Bot éducatif en ligne (Render + Flask + Telegram Bot)"
 
 def lancer_flask():
-    # flask_app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 10000)))
+    flask_app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 10000)))
 
 def chemin_data(fichier): return os.path.join(DATA_DIR, fichier)
 
@@ -223,7 +223,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await start(update, context, message_personnalise=False)
         return
 
-    # Gestion QCM (répondre aux questions en cours)
+    # Répondre à une question QCM en cours
     if user_states.get(user_id, "").startswith("qcm_"):
         state = user_states[user_id]
         parts = state.split("_")
@@ -236,8 +236,10 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await repondre(update, messages.get("qcm_introuvable", ""), generer_clavier(["⬅️ Retour"]))
             return
 
-        index = user_progress.get(user_id, 0)
-        question = qcm_data["qcm"][index]
+        etat = user_progress.get(user_id, {})
+        ordre = etat.get("ordre", qcm_data["qcm"])
+        index = etat.get("index", 0)
+        question = ordre[index]
         options = question.get("options", [])
         bonne = question.get("reponse", "")
 
@@ -264,8 +266,8 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         if "explication" in question:
             await repondre(update, f"👉 {question['explication']}")
 
-        user_progress[user_id] = (index + 1) % len(qcm_data["qcm"])
-        suivant = qcm_data["qcm"][user_progress[user_id]]
+        user_progress[user_id]["index"] = (index + 1) % len(ordre)
+        suivant = ordre[user_progress[user_id]["index"]]
         await repondre(update, suivant['question'], generer_clavier(suivant.get("options", []) + ["⬅️ Retour"]))
         sauvegarder_json("user_scores.json", user_scores)
         return
@@ -316,7 +318,6 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await repondre(update, msg.strip(), generer_clavier(matieres + ["⬅️ Retour"]))
         return
 
-    # Étape 1 : L'utilisateur choisit un niveau de concours
     if user_states.get(user_id) == "concours":
         niveau = normaliser_nom(enlever_emojis(texte_original))
         if niveau == "superieur_a_bac":
@@ -338,7 +339,6 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await repondre(update, f"📚 Choisis une matière pour le niveau *{niveau.upper()}* :", generer_clavier(matieres + ["⬅️ Retour"]))
         return
 
-    # Étape 2 : L'utilisateur choisit une matière pour un niveau concours
     if user_states.get(user_id, "").startswith("concours_matiere_attente_"):
         parts = user_states[user_id].split("_")
         niveau = parts[-1]
@@ -350,13 +350,14 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await repondre(update, f"❌ Aucun QCM trouvé pour la matière *{matiere.upper()}* du niveau *{niveau.upper()}*.", generer_clavier(["⬅️ Retour"]))
             return
 
+        qcm_melange = qcm_data["qcm"].copy()
+        random.shuffle(qcm_melange)
         user_states[user_id] = f"qcm_concours_{niveau}_{matiere}"
-        user_progress[user_id] = 0
-        question = qcm_data["qcm"][0]
+        user_progress[user_id] = {"ordre": qcm_melange, "index": 0}
+        question = qcm_melange[0]
         await repondre(update, f"📘 Matière choisie : *{matiere.upper()}*\n\n*Question 1 :*\n{question['question']}", generer_clavier(question["options"] + ["⬅️ Retour"]))
         return
 
-    # Gestion chapitres (après choix matière dans sections classiques)
     if user_states.get(user_id) in choix_sections:
         prefix = normaliser_nom(user_states[user_id])
         matiere = normaliser_nom(enlever_emojis(texte_original))
@@ -375,7 +376,6 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await repondre(update, f"📘 Choisis un chapitre dans *{matiere}* :", generer_clavier(noms_chapitres + ["⬅️ Retour"]))
         return
 
-    # Choix du chapitre après avoir choisi une matière
     if user_states.get(user_id, "").startswith("chapitre_en_attente_"):
         state = user_states[user_id]
         parts = state.split("_")
@@ -392,20 +392,20 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
         chapitre_id = chapitre["id"]
         chemin_qcm = f"{prefix}_{matiere}_{chapitre_id}.json"
-        print("Fichier QCM recherché :", chemin_qcm)
         qcm_data = charger_json(chemin_qcm)
 
         if not qcm_data.get("qcm"):
             await repondre(update, "❌ Aucun QCM trouvé pour ce chapitre.", generer_clavier(["⬅️ Retour"]))
             return
 
+        qcm_melange = qcm_data["qcm"].copy()
+        random.shuffle(qcm_melange)
         user_states[user_id] = f"qcm_{prefix}_{matiere}_{chapitre_id}"
-        user_progress[user_id] = 0
-        question = qcm_data["qcm"][0]
+        user_progress[user_id] = {"ordre": qcm_melange, "index": 0}
+        question = qcm_melange[0]
         await repondre(update, f"📍 Chapitre choisi : *{chapitre['titre']}*\n\n" + question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
         return
 
-    # Si rien de connu n'est détecté
     await repondre(update, messages.get("non_compris", ""))
 
 async def reset_score(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -489,5 +489,7 @@ def lancer_bot():
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
     app.run_polling()
 
-os.makedirs(LOG_DIR, exist_ok=True)
-threading.Thread(target=lancer_bot).start()
+if __name__ == "__main__":
+    os.makedirs(LOG_DIR, exist_ok=True)
+    threading.Thread(target=lancer_flask).start()
+    lancer_bot()
