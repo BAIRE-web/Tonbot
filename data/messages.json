@@ -1,25 +1,25 @@
 {
-  "bienvenue": "‎✨ Mes salutations {nom} !\nBienvenue sur notre bot éducatif. Chaque option vous conduit à une suite personnalisée.\n↩️ Pour revenir au menu principal ou quitter une formation, utilise le bouton « Retour ».\n\nChoisis une option :",
-  "retour": "🎉 Bon retour, Mes salutations !\n⚡ Prêt(e) pour une nouvelle expérience ? \n\nChoisis une option :",
-  "choix": "Choisis une option pour continuer :",
-  "quitter": "🙏 Merci de vous être formé avec nous, ce fut un plaisir de vous accompagner.\n🔔 N’hésitez pas à revenir quand vous voulez.\n🍀 Bonne continuation, {nom} !",
-  "non_admin": "Fonction non reconnue, merci de faire un choix valide.",
-  "qcm_introuvable": "⚠️ Aucun QCM trouvé. Merci de renouveler votre choix.",
-  "choix_invalide": "❌ Choix invalide, veuillez réessayer.",
-  "technique_indisponible": "🔧La section dédiée aux filières techniques est actuellement en cours de développement. Vous recevrez une notification dès qu'elle sera pleinement disponible.\nEn attendant, certaines matières étant similaires à celles de l’enseignement général, vous avez la possibilité de consulter les niveaux équivalents pour poursuivre votre apprentissage.\nRendez-vous dans la section Espace pour intégrer nos communautés pour vous approfondir et assiter.\nBienvenue à tous, et excellente aventure sur notre plateforme éducative.😊",
-  "non_compris": "Option non reconnue. Tape /start pour recommencer.",
+  "bienvenue": "✨ Bienvenue {nom} !\nNous sommes ravis de t’accueillir sur notre bot éducatif 📚\n\n➡️ Chaque option mène à un parcours personnalisé.\n↩️ Pour revenir au menu principal ou quitter une formation, utilise le bouton « Retour ».\nℹ️ Découvre des fonctionnalités supplémentaires dans l’option <espace>, et des infos utiles dans <informations>.\n\nChoisis une option ci-dessous pour commencer :",
+  "retour": "🎉 Bon retour parmi nous {nom} !\n⚡ Prêt(e) à continuer ton apprentissage ?\n\nChoisis une option pour avancer :",
+  "choix": "👇 Choisis une option pour continuer :",
+  "quitter": "🙏 Merci d’avoir appris avec nous, {nom} !\nCe fut un plaisir de t’accompagner dans ta formation.\n🔔 Reviens quand tu veux, on sera là !\n\n💬 Donne ton avis via /avis ou consulte ton profil via /profil.\n🍀 Bonne continuation !",
+  "non_admin": "🚫 Fonction non reconnue. Merci de faire un choix valide.",
+  "qcm_introuvable": "⚠️ Aucun QCM trouvé pour cette matière ou ce chapitre.\nMerci de renouveler ton choix ou d’en essayer un autre.",
+  "choix_invalide": "❌ Choix invalide. Merci de réessayer.",
+  "technique_indisponible": "🔧 La section dédiée aux filières techniques est en cours de développement.\n📢 Tu seras notifié dès sa disponibilité complète.\n➡️ En attendant, tu peux consulter les niveaux équivalents de l’enseignement général pour poursuivre.\n🌐 Retrouve nos communautés via l’espace <espace> pour en apprendre davantage et poser tes questions.\n\n😊 Merci de ta patience et excellente aventure éducative !",
+  "non_compris": "⚠️ Option non reconnue.\n🧭 Tape /start pour recommencer depuis le début.",
   "reponses_bonnes": [
-    "🎉 Félicitations 🙂 c'est la bonne réponse !",
-    "✅ Bonne réponse, tu gères ça !",
-    "👏 Bravo, c’est exactement ça !",
-    "🎯 Tu as visé juste, bien joué !",
-    "🌟 Excellente réponse, continue comme ça !"
+    "🎉 Félicitations {nom} ! C'est la bonne réponse 🙂",
+    "✅ Bravo ! Bonne réponse, tu assures 👏",
+    "👏 Exactement ça ! Continue comme ça 💪",
+    "🎯 Bien joué ! Tu as visé juste !",
+    "🌟 Excellente réponse, tu progresses très bien !"
   ],
   "reponses_mauvaises": [
-    "😕 Oups, ce n’est pas la bonne réponse ❌.\n👉 La bonne réponse était : {bonne}",
-    "🙂 Tu étais presque, hélas ce n’est pas la bonne réponse ❌.\n👉 La bonne réponse était : {bonne}",
-    "❌ Raté cette fois ! La bonne réponse était : {bonne}",
-    "🙁 Dommage, ce n’était pas ça. 👉 Réponse attendue : {bonne}",
-    "🧐 Mauvaise pioche ! La bonne réponse était : {bonne}"
+    "😕 Oups, mauvaise réponse ❌\n👉 La bonne réponse était : {bonne}",
+    "🙂 Presque ! Ce n'était pas la bonne ❌\n👉 Bonne réponse : {bonne}",
+    "❌ Pas cette fois ! La bonne réponse était : {bonne}",
+    "🙁 Dommage... La réponse correcte était : {bonne}",
+    "🧐 Ce n’était pas ça. 👉 La bonne réponse est : {bonne}"
   ]
 }

@@ -358,7 +358,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         user_states[user_id] = f"qcm_concours_{niveau}_{matiere}"
         user_progress[user_id] = {"ordre": qcm_melange, "index": 0}
         question = qcm_melange[0]
-        await repondre(update, f"📘 Matière choisie : *{matiere.upper()}*\n\n*Question 1 :*\n{question['question']}", generer_clavier(question["options"] + ["⬅️ Retour"]))
+        await repondre(update, f"📘 Matière choisie : {matiere.upper()}\n\nQuestion 1 :\n{question['question']}", generer_clavier(question["options"] + ["⬅️ Retour"]))
         return
 
     if user_states.get(user_id) in choix_sections:
@@ -406,7 +406,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         user_states[user_id] = f"qcm_{prefix}_{matiere}_{chapitre_id}"
         user_progress[user_id] = {"ordre": qcm_melange, "index": 0}
         question = qcm_melange[0]
-        await repondre(update, f"📍 Chapitre choisi : *{chapitre['titre']}*\n\n" + question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
+        await repondre(update, f"📍 Chapitre choisi : {chapitre['titre']}\n\n" + question["question"], generer_clavier(question.get("options", []) + ["⬅️ Retour"]))
         return
 
     await repondre(update, messages.get("non_compris", ""))
@@ -496,20 +496,3 @@ if __name__ == "__main__":
     os.makedirs(LOG_DIR, exist_ok=True)
     threading.Thread(target=lancer_flask).start()
     lancer_bot()
-
-from flask import Flask, request
-
-flask_app = Flask(__name__)
-
-VERIFY_TOKEN = "mon_secret123"  # 🟢 EXACTEMENT ce que tu viens de me donner
-
-@flask_app.route("/webhook", methods=["GET", "POST"])
-def webhook():
-    if request.method == "GET":
-        token_sent = request.args.get("hub.verify_token")
-        challenge = request.args.get("hub.challenge")
-        if token_sent == VERIFY_TOKEN:
-            return challenge, 200
-        return "Token invalide", 403
-    elif request.method == "POST":
-        return "OK", 200
