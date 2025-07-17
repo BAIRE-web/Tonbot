@@ -1,6 +1,6 @@
 {
   "bienvenue": "✨ Bienvenue {nom} !\nNous sommes ravis de t’accueillir sur notre bot éducatif 📚\n\n➡️ Chaque option mène à un parcours personnalisé.\n↩️ Pour revenir au menu principal ou quitter une formation, utilise le bouton « Retour ».\nℹ️ Découvre des fonctionnalités supplémentaires dans l’option <espace>, et des infos utiles dans <informations>.\n\nChoisis une option ci-dessous pour commencer :",
-  "retour": "🎉 Bon retour parmi nous {nom} !\n⚡ Prêt(e) à continuer ton apprentissage ?\n\nChoisis une option pour avancer :",
+  "retour": "🎉 Bon retour parmi nous !\n⚡ Prêt(e) à continuer ton apprentissage ?\n\nChoisis une option pour avancer :",
   "choix": "👇 Choisis une option pour continuer :",
   "quitter": "🙏 Merci d’avoir appris avec nous, {nom} !\nCe fut un plaisir de t’accompagner dans ta formation.\n🔔 Reviens quand tu veux, on sera là !\n\n💬 Donne ton avis via /avis ou consulte ton profil via /profil.\n🍀 Bonne continuation !",
   "non_admin": "🚫 Fonction non reconnue. Merci de faire un choix valide.",
