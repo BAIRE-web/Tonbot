@@ -339,7 +339,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
             return
 
         user_states[user_id] = f"concours_matiere_attente_{niveau}"
-        await repondre(update, f"📚 Choisis une matière pour le niveau *{niveau.upper()}* :", generer_clavier(matieres + ["⬅️ Retour"]))
+        await repondre(update, f"📚 Choisis une matière pour le niveau {niveau.upper()} :", generer_clavier(matieres + ["⬅️ Retour"]))
         return
 
     if user_states.get(user_id, "").startswith("concours_matiere_attente_"):
@@ -376,7 +376,7 @@ async def message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
         noms_chapitres = [chap["titre"] for chap in liste]
         user_progress[user_id] = {"chapitres": liste}
-        await repondre(update, f"📘 Choisis un chapitre dans *{matiere}* :", generer_clavier(noms_chapitres + ["⬅️ Retour"]))
+        await repondre(update, f"📘 Choisis un chapitre dans {matiere} :", generer_clavier(noms_chapitres + ["⬅️ Retour"]))
         return
 
     if user_states.get(user_id, "").startswith("chapitre_en_attente_"):
