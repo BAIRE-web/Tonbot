@@ -6,11 +6,8 @@ import re
 import threading
 from datetime import datetime
 from flask import Flask
-from telegram import Update, ReplyKeyboardMarkup, InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.ext import (
-    ApplicationBuilder, CommandHandler, MessageHandler,
-    ContextTypes, CallbackQueryHandler, filters
-)
+from telegram import Update, ReplyKeyboardMarkup
+from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 from telegram.error import Forbidden
 
 DATA_DIR = "data"
@@ -497,9 +494,7 @@ def lancer_bot():
     app.add_handler(CommandHandler("historique", historique))
     app.add_handler(CommandHandler("profil", profil_command))
     app.add_handler(CommandHandler("scores", scores_command))
-    app.add_handler(CommandHandler("défi", defi_command))
-    app.add_handler(CallbackQueryHandler(defi_callback_handler))
-    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
+    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, message_handler))
     app.run_polling()
 
 if __name__ == "__main__":
@@ -507,101 +502,3 @@ if __name__ == "__main__":
     threading.Thread(target=lancer_flask).start()
     lancer_bot()
 
-@dp.message_handler(commands=['defi'])
-async def start_defi(message: types.Message):
-    levels = ["BEPC", "BAC A", "BAC C", "BAC D", "Concours"]
-    keyboard = ReplyKeyboardMarkup(resize_keyboard=True)
-    keyboard.add(*[KeyboardButton(level) for level in levels])
-    await message.answer("Choisis ton niveau :", reply_markup=keyboard)
-    await bot.send_message(message.chat.id, "Écris le niveau ici (ex: BEPC)")
-
-    @dp.message_handler(lambda m: m.text in levels)
-    async def choose_mode(msg: types.Message):
-        niveau = msg.text
-        choix = ["Par matière", "Par chapitre"] if niveau != "Concours" else ["Choisir concours"]
-        keyboard2 = ReplyKeyboardMarkup(resize_keyboard=True)
-        keyboard2.add(*[KeyboardButton(c) for c in choix])
-        await msg.answer("Tu veux un défi par matière ou par chapitre ?", reply_markup=keyboard2)
-
-        @dp.message_handler(lambda m: m.text in choix)
-        async def suite(msg2: types.Message):
-            mode = msg2.text
-
-            if mode == "Par matière":
-                matieres = ["Maths", "Français", "Physique", "SVT"]
-                mat_kb = ReplyKeyboardMarkup(resize_keyboard=True)
-                mat_kb.add(*[KeyboardButton(m) for m in matieres])
-                await msg2.answer("Choisis la matière :", reply_markup=mat_kb)
-
-                @dp.message_handler(lambda m: m.text in matieres)
-                async def defi_matiere(final_msg: types.Message):
-                    matiere = final_msg.text
-                    code = f"DEFI_{random.randint(1000, 9999)}"
-                    save_defi(code, message.from_user.id, niveau, matiere, mode)
-                    await final_msg.answer(
-                        f"Défi créé pour {matiere} au niveau {niveau}.\nPartage ce code à ton ami : `{code}`",
-                        parse_mode="Markdown"
-                    )
-
-            elif mode == "Par chapitre":
-                matieres = ["Maths", "Français"]
-                mat_kb = ReplyKeyboardMarkup(resize_keyboard=True)
-                mat_kb.add(*[KeyboardButton(m) for m in matieres])
-                await msg2.answer("Choisis la matière :", reply_markup=mat_kb)
-
-                @dp.message_handler(lambda m: m.text in matieres)
-                async def choose_chapitre(chap_msg: types.Message):
-                    chapitres = {
-                        "Maths": ["Equations", "Fonctions", "Statistiques"],
-                        "Français": ["Grammaire", "Orthographe"]
-                    }
-                    ch_kb = ReplyKeyboardMarkup(resize_keyboard=True)
-                    ch_kb.add(*[KeyboardButton(c) for c in chapitres[chap_msg.text]])
-                    await chap_msg.answer("Choisis un chapitre :", reply_markup=ch_kb)
-
-                    @dp.message_handler(lambda m: m.text in chapitres[chap_msg.text])
-                    async def defi_chapitre(final_msg: types.Message):
-                        chapitre = final_msg.text
-                        code = f"DEFI_{random.randint(1000, 9999)}"
-                        save_defi(code, message.from_user.id, niveau, chap_msg.text, "Par chapitre", chapitre)
-                        await final_msg.answer(
-                            f"Défi créé pour {chap_msg.text} - {chapitre} au niveau {niveau}.\nPartage ce code à ton ami : `{code}`",
-                            parse_mode="Markdown"
-                        )
-
-            elif mode == "Choisir concours":
-                concours = ["ENAM", "ENS", "INSSA"]
-                con_kb = ReplyKeyboardMarkup(resize_keyboard=True)
-                con_kb.add(*[KeyboardButton(c) for c in concours])
-                await msg2.answer("Choisis le concours :", reply_markup=con_kb)
-
-                @dp.message_handler(lambda m: m.text in concours)
-                async def concours_niveau(c_msg: types.Message):
-                    niveaux = ["CEP", "BEPC", "BAC"]
-                    niv_kb = ReplyKeyboardMarkup(resize_keyboard=True)
-                    niv_kb.add(*[KeyboardButton(n) for n in niveaux])
-                    await c_msg.answer("Choisis le niveau pour le concours :", reply_markup=niv_kb)
-
-                    @dp.message_handler(lambda m: m.text in niveaux)
-                    async def defi_concours(fin_msg: types.Message):
-                        code = f"DEFI_{random.randint(1000, 9999)}"
-                        save_defi(code, message.from_user.id, fin_msg.text, c_msg.text, "Concours")
-                        await fin_msg.answer(
-                            f"Défi concours {c_msg.text} - niveau {fin_msg.text}.\nPartage ce code à ton ami : `{code}`",
-                            parse_mode="Markdown"
-                        )
-
-def save_defi(code, user_id, niveau, matiere, mode, chapitre=None):
-    data = {
-        "code": code,
-        "createur": user_id,
-        "niveau": niveau,
-        "matiere": matiere,
-        "mode": mode,
-        "chapitre": chapitre,
-        "status": "en attente"
-    }
-    if not os.path.exists("defis"):
-        os.makedirs("defis")
-    with open(f"defis/{code}.json", "w") as f:
-        json.dump(data, f, indent=2)
