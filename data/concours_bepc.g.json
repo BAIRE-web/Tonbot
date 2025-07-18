@@ -1,8 +1,13 @@
 {
-  "message": "Voici les matières disponibles pour le BEPC général :",
+  "message": "Voici les matières disponibles",
   "matieres": [
-    "Français",
     "Mathématiques",
-    "Histoire-Géographie"
+    "Français",
+    "Anglais",
+    "Histoire",
+    "Géographie",
+    "Culture générale",
+    "SVT",
+    "Psychotechnique"
   ]
 }
