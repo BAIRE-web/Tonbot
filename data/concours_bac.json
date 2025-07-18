@@ -1,13 +1,13 @@
 {
   "message": "Voici les matières disponibles",
   "matieres": [
-    "Mathématiques",
-    "Français",
-    "Anglais",
-    "Histoire",
-    "Géographie",
-    "Culture générale",
-    "SVT",
-    "Psychotechnique"
+    "📐 Mathématiques",
+    "📚 Français",
+    "🗣️ Anglais",
+    "📜 Histoire",
+    "🌍 Géographie",
+    "🧠 Culture générale",
+    "🧬 SVT",
+    "🧩 Psychotechnique"
   ]
 }
