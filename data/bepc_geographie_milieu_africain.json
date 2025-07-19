@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le relief dominant en Afrique ?",
+      "options": ["Plateaux", "Montagnes élevées", "Vallées profondes", "Plaines littorales"],
+      "reponse": "Plateaux",
+      "explication": "L’Afrique est un continent de plateaux, avec peu de plaines ou de très hautes montagnes."
+    },
+    {
+      "question": "Quel est le point culminant de l’Afrique ?",
+      "options": ["Kilimandjaro", "Mont Kenya", "Atlas", "Drakensberg"],
+      "reponse": "Kilimandjaro",
+      "explication": "Le Kilimandjaro en Tanzanie est le plus haut sommet du continent (5 895 m)."
+    },
+    {
+      "question": "Où se trouvent les montagnes de l’Atlas ?",
+      "options": ["Au nord de l’Afrique", "Au centre du continent", "Dans le Sahel", "Au sud du Sahara"],
+      "reponse": "Au nord de l’Afrique",
+      "explication": "Les montagnes de l’Atlas s’étendent au Maroc, en Algérie et en Tunisie."
+    },
+    {
+      "question": "Qu’est-ce que la vallée du Rift ?",
+      "options": ["Fossé d’effondrement", "Chaîne volcanique en Europe", "Désert", "Forêt équatoriale"],
+      "reponse": "Fossé d’effondrement",
+      "explication": "Le Rift est une fracture géologique à l’est du continent africain."
+    },
+    {
+      "question": "Quel grand fleuve traverse l’Égypte ?",
+      "options": ["Nil", "Congo", "Niger", "Zambèze"],
+      "reponse": "Nil",
+      "explication": "Le Nil est le plus long fleuve d’Afrique et traverse l’Égypte jusqu’à la Méditerranée."
+    },
+    {
+      "question": "Quel est le plus long fleuve d’Afrique ?",
+      "options": ["Nil", "Congo", "Niger", "Limpopo"],
+      "reponse": "Nil",
+      "explication": "Le Nil mesure plus de 6 600 km, c’est le plus long fleuve du continent."
+    },
+    {
+      "question": "Où se trouve le fleuve Congo ?",
+      "options": ["En Afrique centrale", "En Afrique du Nord", "En Afrique australe", "En Afrique de l’Ouest"],
+      "reponse": "En Afrique centrale",
+      "explication": "Il traverse la RDC et d’autres pays du centre de l’Afrique."
+    },
+    {
+      "question": "Quel fleuve traverse le Burkina Faso ?",
+      "options": ["Volta", "Congo", "Nil", "Niger"],
+      "reponse": "Volta",
+      "explication": "Le Mouhoun (Volta Noire), le Nakambé (Volta Blanche) et la Volta Rouge traversent le pays."
+    },
+    {
+      "question": "Quel est le principal désert d’Afrique ?",
+      "options": ["Sahara", "Namib", "Kalahari", "Sahel"],
+      "reponse": "Sahara",
+      "explication": "Le Sahara est le plus vaste désert chaud du monde, situé au nord du continent."
+    },
+    {
+      "question": "Qu’est-ce que le Sahel ?",
+      "options": ["Zone de transition entre désert et savane", "Forêt équatoriale", "Région volcanique", "Vallée agricole"],
+      "reponse": "Zone de transition entre désert et savane",
+      "explication": "Le Sahel est une bande semi-aride entre le Sahara et les zones plus humides."
+    },
+    {
+      "question": "Quelle est la caractéristique du climat équatorial ?",
+      "options": ["Chaud et humide toute l’année", "Froid et sec", "Très aride", "Climat montagnard"],
+      "reponse": "Chaud et humide toute l’année",
+      "explication": "Le climat équatorial connaît de fortes pluies et des températures élevées constantes."
+    },
+    {
+      "question": "Où trouve-t-on le climat méditerranéen en Afrique ?",
+      "options": ["Nord (Maghreb) et extrême sud", "Sahel", "Centre du continent", "Afrique de l’Est"],
+      "reponse": "Nord (Maghreb) et extrême sud",
+      "explication": "Ce climat touche les régions proches de la Méditerranée et du Cap."
+    },
+    {
+      "question": "Quelle est la saison sèche dans le climat tropical ?",
+      "options": ["Harmattan", "Pluvieuse", "Froide", "Neigeuse"],
+      "reponse": "Harmattan",
+      "explication": "La saison sèche est marquée par l’harmattan, un vent sec et poussiéreux venant du nord."
+    },
+    {
+      "question": "Quel type de végétation retrouve-t-on dans les savanes ?",
+      "options": ["Herbes hautes et quelques arbres", "Fougères géantes", "Palétuviers", "Mousses humides"],
+      "reponse": "Herbes hautes et quelques arbres",
+      "explication": "Les savanes sont caractérisées par une végétation herbacée avec des arbres isolés comme le baobab."
+    },
+    {
+      "question": "Quelle forêt est très dense en Afrique ?",
+      "options": ["Forêt équatoriale", "Forêt méditerranéenne", "Mangrove", "Forêt sahélienne"],
+      "reponse": "Forêt équatoriale",
+      "explication": "Elle est très dense, humide, et se trouve principalement au Congo, au Gabon, etc."
+    },
+    {
+      "question": "Où se trouvent les forêts équatoriales ?",
+      "options": ["Autour du bassin du Congo", "Dans le Sahara", "Dans le Sahel", "Dans l’Atlas"],
+      "reponse": "Autour du bassin du Congo",
+      "explication": "La RDC, le Gabon, le Cameroun possèdent de vastes forêts équatoriales."
+    },
+    {
+      "question": "Quel climat domine en Afrique du Nord ?",
+      "options": ["Désertique", "Équatorial", "Montagnard", "Océanique"],
+      "reponse": "Désertique",
+      "explication": "Le Sahara recouvre une grande partie du nord du continent."
+    },
+    {
+      "question": "Pourquoi le fleuve Congo est-il difficile à naviguer ?",
+      "options": ["Nombreuses chutes et rapides", "Manque d’eau", "Tempêtes fréquentes", "Présence de crocodiles"],
+      "reponse": "Nombreuses chutes et rapides",
+      "explication": "Les rapides rendent difficile la navigation sur certains tronçons du fleuve Congo."
+    },
+    {
+      "question": "Quelle ressource est extraite au Nigeria et en Angola ?",
+      "options": ["Pétrole", "Coton", "Or", "Charbon"],
+      "reponse": "Pétrole",
+      "explication": "Le Nigeria et l’Angola sont parmi les plus grands producteurs de pétrole du continent."
+    },
+    {
+      "question": "Quel minerai est abondant en Afrique du Sud ?",
+      "options": ["Or", "Fer", "Cuivre", "Uranium"],
+      "reponse": "Or",
+      "explication": "L’Afrique du Sud est l’un des plus gros producteurs mondiaux d’or."
+    },
+    {
+      "question": "Quelle région d’Afrique est riche en forêts ?",
+      "options": ["Afrique centrale", "Afrique du Nord", "Afrique australe", "Sahara"],
+      "reponse": "Afrique centrale",
+      "explication": "Les forêts denses sont concentrées autour du bassin du Congo."
+    },
+    {
+      "question": "Pourquoi certaines régions africaines sont arides ?",
+      "options": ["Faible pluviosité", "Trop d’océans", "Sol volcanique", "Activité humaine trop intense"],
+      "reponse": "Faible pluviosité",
+      "explication": "L’absence de pluie et la chaleur intense rendent les régions désertiques."
+    },
+    {
+      "question": "Que signifie 'ressource naturelle' ?",
+      "options": ["Élément fourni par la nature", "Produit importé", "Outil agricole", "Service commercial"],
+      "reponse": "Élément fourni par la nature",
+      "explication": "C’est tout ce que la nature offre pour répondre aux besoins de l’homme : eau, minéraux, forêts..."
+    },
+    {
+      "question": "Quel est un problème lié à l’exploitation des ressources naturelles ?",
+      "options": ["Surexploitation", "Trop de neige", "Manque d’arbres tropicaux", "Multiplication des déserts"],
+      "reponse": "Surexploitation",
+      "explication": "Une exploitation excessive peut épuiser les ressources et détruire l’environnement."
+    },
+    {
+      "question": "Quel type de végétation trouve-t-on dans les zones arides ?",
+      "options": ["Arbustes épineux et plantes résistantes", "Fougères géantes", "Palmier à huile", "Cocotiers"],
+      "reponse": "Arbustes épineux et plantes résistantes",
+      "explication": "La végétation désertique est adaptée à la sécheresse avec des racines profondes."
+    },
+    {
+      "question": "Quel est l’effet de la déforestation sur les forêts africaines ?",
+      "options": ["Réduction de la biodiversité", "Augmentation des rivières", "Amélioration du sol", "Production d’électricité"],
+      "reponse": "Réduction de la biodiversité",
+      "explication": "La coupe abusive d’arbres menace les espèces animales et végétales."
+    },
+    {
+      "question": "Quelle région d’Afrique est riche en uranium ?",
+      "options": ["Niger", "Libye", "Gambie", "Togo"],
+      "reponse": "Niger",
+      "explication": "Le Niger possède d’importants gisements d’uranium exportés vers d’autres pays."
+    },
+    {
+      "question": "Quelles zones sont souvent sujettes à la sécheresse ?",
+      "options": ["Le Sahel et les zones arides", "Les zones côtières", "Les régions équatoriales", "Les forêts tropicales"],
+      "reponse": "Le Sahel et les zones arides",
+      "explication": "Le manque de pluie fréquent y provoque des sécheresses régulières."
+    },
+    {
+      "question": "Quelle ressource naturelle est exploitée dans le Golfe de Guinée ?",
+      "options": ["Pétrole", "Thé", "Sel", "Phosphate"],
+      "reponse": "Pétrole",
+      "explication": "Cette zone est riche en gisements pétroliers offshore (en mer)."
+    },
+    {
+      "question": "Comment appelle-t-on les grandes plaines herbeuses d’Afrique ?",
+      "options": ["Savanes", "Deltas", "Plateaux", "Lacustres"],
+      "reponse": "Savanes",
+      "explication": "Les savanes sont typiques des zones tropicales, entre forêt et désert."
+    }
+  ]
+}

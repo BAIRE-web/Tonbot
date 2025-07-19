@@ -1,0 +1,172 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’entend-on par résistances africaines à la colonisation ?",
+      "options": ["Lutte contre la domination coloniale par divers moyens", "Acceptation de la colonisation", "Migration vers l’Europe", "Alliance avec les colonisateurs"],
+      "reponse": "Lutte contre la domination coloniale par divers moyens",
+      "explication": "Les Africains ont résisté militairement, politiquement et culturellement à la colonisation."
+    },
+    {
+      "question": "Quelle forme de résistance consiste à refuser la coopération avec les autorités coloniales ?",
+      "options": ["Résistance passive", "Résistance armée", "Révolte violente", "Migration"],
+      "reponse": "Résistance passive",
+      "explication": "La résistance passive inclut le refus de travail forcé ou la non-coopération."
+    },
+    {
+      "question": "Quelle est une forme courante de résistance armée contre la colonisation ?",
+      "options": ["Révoltes et guerres contre les forces coloniales", "Dialogue pacifique", "Réunions culturelles", "Manifestations pacifiques"],
+      "reponse": "Révoltes et guerres contre les forces coloniales",
+      "explication": "De nombreuses régions ont connu des soulèvements militaires pour repousser les envahisseurs."
+    },
+    {
+      "question": "Qui était Samory Touré ?",
+      "options": ["Chef militaire africain ayant résisté à la colonisation française", "Colonisateur européen", "Missionnaire", "Chef politique britannique"],
+      "reponse": "Chef militaire africain ayant résisté à la colonisation française",
+      "explication": "Il a mené une longue résistance dans l’actuel Mali au 19e siècle."
+    },
+    {
+      "question": "Quelle est la particularité de la résistance de Behanzin au Dahomey ?",
+      "options": ["Résistance militaire contre la colonisation française", "Collaboration avec les Français", "Migration pacifique", "Conversion au christianisme"],
+      "reponse": "Résistance militaire contre la colonisation française",
+      "explication": "Behanzin a mené une forte opposition armée jusqu’à sa défaite."
+    },
+    {
+      "question": "Quelle forme de résistance culturelle peut affirmer l’identité africaine ?",
+      "options": ["Maintien des langues, traditions et religions", "Adoption complète de la culture européenne", "Refus de toute tradition", "Conversion religieuse obligatoire"],
+      "reponse": "Maintien des langues, traditions et religions",
+      "explication": "La préservation des cultures locales est une forme de résistance passive importante."
+    },
+    {
+      "question": "Quel est le rôle des griots dans la résistance culturelle ?",
+      "options": ["Transmettre l’histoire et la culture orale", "Collaborer avec les colonisateurs", "Organiser des manifestations", "Gérer l’administration coloniale"],
+      "reponse": "Transmettre l’histoire et la culture orale",
+      "explication": "Les griots jouent un rôle essentiel dans la préservation des traditions africaines."
+    },
+    {
+      "question": "Quelle est une autre forme de résistance passive ?",
+      "options": ["Sabotage économique et grèves", "Révoltes armées", "Prise d’armes", "Alliances militaires"],
+      "reponse": "Sabotage économique et grèves",
+      "explication": "Les Africains utilisaient aussi le sabotage pour entraver l’exploitation coloniale."
+    },
+    {
+      "question": "Quel était l’objectif principal des révoltes armées africaines ?",
+      "options": ["Reprendre le contrôle des territoires", "Accroître la colonisation", "Promouvoir la colonisation", "Fonder un empire européen"],
+      "reponse": "Reprendre le contrôle des territoires",
+      "explication": "Les révoltes visaient à expulser les colonisateurs et restaurer la souveraineté."
+    },
+    {
+      "question": "Quelle fut la durée approximative de la résistance de Samory Touré ?",
+      "options": ["Plus de 15 ans", "1 an", "5 ans", "6 mois"],
+      "reponse": "Plus de 15 ans",
+      "explication": "Samory Touré a résisté de 1882 à 1898 contre la France."
+    },
+    {
+      "question": "Quel est l’effet des résistances africaines sur la colonisation ?",
+      "options": ["Ralentissement et adaptation des stratégies coloniales", "Fin immédiate de la colonisation", "Collaboration totale", "Aucune influence"],
+      "reponse": "Ralentissement et adaptation des stratégies coloniales",
+      "explication": "Les colonisateurs ont souvent dû modifier leurs méthodes face aux résistances."
+    },
+    {
+      "question": "Quelle résistance est caractérisée par des manifestations culturelles et religieuses ?",
+      "options": ["Résistance culturelle", "Révolte militaire", "Sabotage", "Conflit armé"],
+      "reponse": "Résistance culturelle",
+      "explication": "Cette résistance vise à préserver les coutumes face à l’acculturation."
+    },
+    {
+      "question": "Qui est Yaa Asantewaa ?",
+      "options": ["Reine guerrière ayant mené la résistance ashanti contre les Britanniques", "Missionnaire", "Colonisateur français", "Dirigeante coloniale"],
+      "reponse": "Reine guerrière ayant mené la résistance ashanti contre les Britanniques",
+      "explication": "Elle a dirigé la révolte ashanti en 1900 au Ghana."
+    },
+    {
+      "question": "Quelle stratégie employaient certains Africains pour résister sans armes ?",
+      "options": ["Boycott des impôts et travail forcé", "Révoltes armées", "Emigration en Europe", "Conversion au christianisme"],
+      "reponse": "Boycott des impôts et travail forcé",
+      "explication": "Le refus de payer les taxes ou de travailler servait de protestation pacifique."
+    },
+    {
+      "question": "Quelle fut la réaction coloniale face aux résistances africaines ?",
+      "options": ["Répression violente", "Dialogue égalitaire", "Indépendance immédiate", "Partage du pouvoir"],
+      "reponse": "Répression violente",
+      "explication": "Les colonisateurs réprimaient souvent durement les mouvements de résistance."
+    },
+    {
+      "question": "Quelle est la différence entre résistance passive et résistance armée ?",
+      "options": ["Refus pacifique vs lutte violente", "Lutte armée vs migration", "Coopération vs révolte", "Dialogue vs sabotage"],
+      "reponse": "Refus pacifique vs lutte violente",
+      "explication": "La résistance passive est non violente, la résistance armée implique des combats."
+    },
+    {
+      "question": "Quels autres moyens de résistance culturelle ont été utilisés ?",
+      "options": ["Maintien des fêtes traditionnelles et langues", "Conversion forcée", "Adoption de la culture européenne", "Abandon des traditions"],
+      "reponse": "Maintien des fêtes traditionnelles et langues",
+      "explication": "Ces pratiques renforçaient l’identité face à la colonisation."
+    },
+    {
+      "question": "Quel rôle ont joué les écrivains et intellectuels africains dans la résistance ?",
+      "options": ["Critique du colonialisme et promotion de la conscience nationale", "Soutien aux colonisateurs", "Indifférence", "Collaboration politique"],
+      "reponse": "Critique du colonialisme et promotion de la conscience nationale",
+      "explication": "Ils ont préparé l’indépendance en éveillant les consciences."
+    },
+    {
+      "question": "Quelle est la conséquence à long terme des résistances africaines ?",
+      "options": ["Préparation des mouvements d’indépendance", "Maintien de la colonisation", "Disparition des peuples", "Acceptation totale"],
+      "reponse": "Préparation des mouvements d’indépendance",
+      "explication": "Ces résistances ont posé les bases pour les luttes de libération ultérieures."
+    },
+    {
+      "question": "Quel est un exemple de résistance passive organisée ?",
+      "options": ["Non-paiement des impôts", "Révolte armée", "Émigration", "Répression coloniale"],
+      "reponse": "Non-paiement des impôts",
+      "explication": "Le refus collectif des taxes coloniales était une forme de protestation pacifique."
+    },
+    {
+      "question": "Quelle forme de résistance était souvent pratiquée dans les zones rurales ?",
+      "options": ["Résistance passive", "Révolte urbaine", "Manifestations", "Grèves ouvrières"],
+      "reponse": "Résistance passive",
+      "explication": "Dans les campagnes, la résistance était souvent sous forme de refus de travail ou d’impôts."
+    },
+    {
+      "question": "Quelle importance avait la transmission orale dans la résistance culturelle ?",
+      "options": ["Elle permettait de garder vivantes les traditions et l’histoire", "Elle renforçait la colonisation", "Elle n’avait aucun rôle", "Elle était interdite"],
+      "reponse": "Elle permettait de garder vivantes les traditions et l’histoire",
+      "explication": "La mémoire orale était essentielle pour préserver l’identité face à la domination étrangère."
+    },
+    {
+      "question": "Quelles étaient les motivations principales des résistances armées ?",
+      "options": ["Préserver l’autonomie et rejeter la domination coloniale", "Accepter la colonisation", "Soutenir les colons", "Migrer vers d’autres continents"],
+      "reponse": "Préserver l’autonomie et rejeter la domination coloniale",
+      "explication": "Les résistants voulaient protéger leurs terres et leurs peuples."
+    },
+    {
+      "question": "Quel fut le sort des leaders des résistances armées ?",
+      "options": ["Souvent capturés, exilés ou exécutés", "Ils devenaient colonisateurs", "Ils étaient reconnus par les puissances", "Ils migraient en Europe"],
+      "reponse": "Souvent capturés, exilés ou exécutés",
+      "explication": "Les autorités coloniales réprimaient durement les chefs de révoltes."
+    },
+    {
+      "question": "Quel rôle avaient les femmes dans les résistances africaines ?",
+      "options": ["Participation active aux révoltes et préservation culturelle", "Aucun rôle", "Soutien aux colons", "Immigration"],
+      "reponse": "Participation active aux révoltes et préservation culturelle",
+      "explication": "Les femmes jouaient un rôle essentiel dans la lutte et la transmission des valeurs."
+    },
+    {
+      "question": "Quels sont les exemples de révoltes armées célèbres en Afrique ?",
+      "options": ["Révolte des Maji-Maji, résistance de Samory Touré", "Révolution française, guerre d’Indépendance américaine", "Guerre de Sécession", "Révolte des paysans en Europe"],
+      "reponse": "Révolte des Maji-Maji, résistance de Samory Touré",
+      "explication": "Ces révoltes ont marqué l’histoire de la résistance africaine."
+    },
+    {
+      "question": "Quelle était la stratégie des colonisateurs face aux résistances ?",
+      "options": ["Diviser pour mieux régner", "Collaboration totale", "Retrait immédiat", "Respect des traditions"],
+      "reponse": "Diviser pour mieux régner",
+      "explication": "Ils favorisaient les conflits internes pour affaiblir la résistance."
+    },
+    {
+      "question": "Qu’est-ce que la politique du 'diviser pour régner' ?",
+      "options": ["Exploiter les divisions ethniques et sociales pour contrôler les populations", "Unifier tous les peuples", "Soutenir l’indépendance", "Promouvoir la paix"],
+      "reponse": "Exploiter les divisions ethniques et sociales pour contrôler les populations",
+      "explication": "Cette stratégie affaiblissait les résistances en créant des conflits internes."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que la colonisation de l’Afrique ?",
+      "options": ["Occupation et domination politique par des puissances étrangères", "Commerce libre entre Africains", "Coopération économique", "Guerre civile africaine"],
+      "reponse": "Occupation et domination politique par des puissances étrangères",
+      "explication": "La colonisation consiste en la prise de contrôle des territoires africains par des pays européens."
+    },
+    {
+      "question": "Quelle période correspond à la « grande vague » de la colonisation en Afrique ?",
+      "options": ["Fin du 19e siècle - début 20e siècle", "Moyen Âge", "17e siècle", "Après 1945"],
+      "reponse": "Fin du 19e siècle - début 20e siècle",
+      "explication": "Cette période est marquée par la « course à l’Afrique » entre puissances européennes."
+    },
+    {
+      "question": "Quel événement marque le partage officiel de l’Afrique entre puissances européennes ?",
+      "options": ["Conférence de Berlin (1884-1885)", "Conférence de Yalta", "Traité de Versailles", "Accords de Genève"],
+      "reponse": "Conférence de Berlin (1884-1885)",
+      "explication": "Les puissances européennes se sont partagées l’Afrique lors de cette conférence."
+    },
+    {
+      "question": "Quel pays européen a colonisé le plus grand territoire en Afrique ?",
+      "options": ["France", "Angleterre", "Belgique", "Portugal"],
+      "reponse": "France",
+      "explication": "La France contrôlait de vastes territoires en Afrique de l’Ouest et centrale."
+    },
+    {
+      "question": "Quelle colonie est connue sous le nom de Congo belge ?",
+      "options": ["République démocratique du Congo", "Nigéria", "Algérie", "Kenya"],
+      "reponse": "République démocratique du Congo",
+      "explication": "Cette région a été exploitée durement sous domination belge."
+    },
+    {
+      "question": "Quel est le principal moyen utilisé par les Européens pour conquérir l’Afrique ?",
+      "options": ["Forces militaires et traités inégaux", "Commerce équitable", "Alliance avec les chefs africains", "Coopération politique"],
+      "reponse": "Forces militaires et traités inégaux",
+      "explication": "Les Européens ont souvent imposé leur domination par la force ou des accords désavantageux."
+    },
+    {
+      "question": "Quelle technique a facilité la conquête européenne de l’Afrique ?",
+      "options": ["Supériorité militaire (armes à feu)", "Supériorité numérique", "Coopération pacifique", "Diplomatie uniquement"],
+      "reponse": "Supériorité militaire (armes à feu)",
+      "explication": "Les armes modernes ont donné un avantage décisif aux Européens."
+    },
+    {
+      "question": "Quelle est la forme d’administration la plus utilisée par la France en Afrique ?",
+      "options": ["Administration directe", "Administration indirecte", "Confédération", "Autonomie totale"],
+      "reponse": "Administration directe",
+      "explication": "Les Français administraient directement les colonies avec des fonctionnaires européens."
+    },
+    {
+      "question": "Quelle forme d’administration était souvent utilisée par la Grande-Bretagne ?",
+      "options": ["Administration indirecte", "Administration directe", "Mandat international", "Confédération"],
+      "reponse": "Administration indirecte",
+      "explication": "Les Britanniques s’appuyaient sur les chefs locaux pour gouverner."
+    },
+    {
+      "question": "Quel est le rôle des chefs traditionnels dans l’administration coloniale indirecte ?",
+      "options": ["Collaborer avec les colonisateurs pour gérer les populations", "S’opposer à la colonisation", "Gouverner en toute indépendance", "Organiser des révoltes"],
+      "reponse": "Collaborer avec les colonisateurs pour gérer les populations",
+      "explication": "Ils servaient d’intermédiaires entre colonisateurs et populations locales."
+    },
+    {
+      "question": "Quel impact la colonisation a-t-elle eu sur les économies africaines ?",
+      "options": ["Exploitation des ressources au profit des métropoles", "Développement autonome", "Industrialisation locale", "Aucune conséquence"],
+      "reponse": "Exploitation des ressources au profit des métropoles",
+      "explication": "Les richesses étaient extraites pour enrichir les pays colonisateurs."
+    },
+    {
+      "question": "Quelle culture a été introduite massivement en Afrique par les colonisateurs ?",
+      "options": ["Monoculture d’exportation (coton, café, cacao)", "Agriculture vivrière", "Élevage extensif", "Culture biologique"],
+      "reponse": "Monoculture d’exportation (coton, café, cacao)",
+      "explication": "Les colonies produisaient surtout des matières premières pour l’exportation."
+    },
+    {
+      "question": "Quel est le rôle des infrastructures (routes, chemins de fer) construites pendant la colonisation ?",
+      "options": ["Faciliter l’exploitation économique", "Développer l’économie locale", "Favoriser l’industrialisation", "Améliorer le tourisme"],
+      "reponse": "Faciliter l’exploitation économique",
+      "explication": "Ces infrastructures servaient surtout à extraire et transporter les ressources vers les ports."
+    },
+    {
+      "question": "Quelle population a été souvent exploitée comme main-d’œuvre dans les colonies ?",
+      "options": ["Population locale", "Immigrants européens", "Esclaves américains", "Populations asiatiques"],
+      "reponse": "Population locale",
+      "explication": "Les Africains étaient contraints de travailler dans les plantations et mines coloniales."
+    },
+    {
+      "question": "Quelle politique éducative était souvent appliquée par les colonisateurs ?",
+      "options": ["Éducation limitée aux élites locales", "Éducation universelle", "Scolarisation obligatoire", "Aucune éducation"],
+      "reponse": "Éducation limitée aux élites locales",
+      "explication": "L’éducation était restreinte pour éviter une contestation large du système colonial."
+    },
+    {
+      "question": "Qu’est-ce que la « politique d’assimilation » pratiquée par la France ?",
+      "options": ["Faire des colonies des prolongements culturels de la France", "Autonomie totale des colonies", "Indépendance immédiate", "Colonisation par les migrants"],
+      "reponse": "Faire des colonies des prolongements culturels de la France",
+      "explication": "La France voulait imposer sa langue et culture aux populations colonisées."
+    },
+    {
+      "question": "Quelle langue est devenue langue officielle dans de nombreuses anciennes colonies françaises ?",
+      "options": ["Français", "Anglais", "Portugais", "Espagnol"],
+      "reponse": "Français",
+      "explication": "Le français est resté langue administrative et d’enseignement dans plusieurs pays."
+    },
+    {
+      "question": "Quelles sont les conséquences sociales majeures de la colonisation ?",
+      "options": ["Disparition de certaines cultures, inégalités, exploitation", "Prospérité égale", "Paix durable", "Autonomie politique"],
+      "reponse": "Disparition de certaines cultures, inégalités, exploitation",
+      "explication": "La colonisation a bouleversé les sociétés africaines traditionnelles."
+    },
+    {
+      "question": "Quel est le rôle des colons dans l’administration coloniale ?",
+      "options": ["Exploitation économique et domination politique", "Défense des droits locaux", "Promotion de la démocratie", "Aide au développement"],
+      "reponse": "Exploitation économique et domination politique",
+      "explication": "Les colons européens dominaient souvent la société coloniale."
+    },
+    {
+      "question": "Quelle est la principale conséquence politique de la colonisation ?",
+      "options": ["Perte de souveraineté des États africains", "Autonomie politique", "Unification africaine", "Gouvernance démocratique"],
+      "reponse": "Perte de souveraineté des États africains",
+      "explication": "Les pays africains sont soumis au contrôle direct des puissances européennes."
+    },
+    {
+      "question": "Quelle est la « mission civilisatrice » invoquée par les colonisateurs ?",
+      "options": ["Justification idéologique de la colonisation", "Campagne militaire", "Plan économique", "Traité de paix"],
+      "reponse": "Justification idéologique de la colonisation",
+      "explication": "Les Européens prétendaient apporter la civilisation aux peuples africains."
+    },
+    {
+      "question": "Quel est le rôle des missionnaires pendant la colonisation ?",
+      "options": ["Diffuser le christianisme et l’éducation", "Organiser des révoltes", "Gérer les ressources naturelles", "Soutenir les chefs locaux"],
+      "reponse": "Diffuser le christianisme et l’éducation",
+      "explication": "Les missionnaires jouaient un rôle important dans l’acculturation."
+    },
+    {
+      "question": "Quels étaient les moyens de résistance africains à la colonisation ?",
+      "options": ["Révoltes armées, résistance culturelle et politique", "Soumission totale", "Alliances avec colonisateurs", "Migration en Europe"],
+      "reponse": "Révoltes armées, résistance culturelle et politique",
+      "explication": "De nombreux peuples africains ont opposé une forte résistance à la colonisation."
+    },
+    {
+      "question": "Quel est le rôle du « Code de l’indigénat » dans les colonies françaises ?",
+      "options": ["Imposer un statut juridique discriminatoire aux indigènes", "Garantir l’égalité juridique", "Promouvoir la citoyenneté", "Protéger les droits locaux"],
+      "reponse": "Imposer un statut juridique discriminatoire aux indigènes",
+      "explication": "Ce code limitait les droits des populations colonisées au profit des colons."
+    },
+    {
+      "question": "Quel est le rôle des grandes puissances dans la colonisation ?",
+      "options": ["Conquête, administration et exploitation des colonies", "Décolonisation immédiate", "Coopération pacifique", "Intervention humanitaire"],
+      "reponse": "Conquête, administration et exploitation des colonies",
+      "explication": "Elles imposaient leur domination politique et économique."
+    },
+    {
+      "question": "Quelles puissances européennes ont été les principales colonisatrices en Afrique ?",
+      "options": ["France, Royaume-Uni, Belgique, Portugal", "Allemagne, Italie, Espagne, Russie", "États-Unis, Japon, Chine, Inde", "Brésil, Argentine, Mexique, Canada"],
+      "reponse": "France, Royaume-Uni, Belgique, Portugal",
+      "explication": "Ces pays ont dominé la majeure partie du continent africain."
+    },
+    {
+      "question": "Quel est l’effet de la colonisation sur les frontières africaines ?",
+      "options": ["Frontières arbitraires souvent sans tenir compte des réalités ethniques", "Frontières naturelles respectées", "Unification ethnique", "Disparition des frontières"],
+      "reponse": "Frontières arbitraires souvent sans tenir compte des réalités ethniques",
+      "explication": "Les frontières ont souvent divisé des groupes ethniques ou rassemblé des ennemis."
+    },
+    {
+      "question": "Quel est le rôle des compagnies concessionnaires dans certaines colonies ?",
+      "options": ["Exploitation économique et contrôle territorial", "Éducation des populations", "Administration politique", "Organisation d’élections"],
+      "reponse": "Exploitation économique et contrôle territorial",
+      "explication": "Elles géraient souvent les ressources et territoires au nom des colonisateurs."
+    }
+  ]
+}

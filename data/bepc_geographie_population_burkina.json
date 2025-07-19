@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la population estimée du Burkina Faso en 2024 ?",
+      "options": ["Environ 23 millions", "Environ 10 millions", "Environ 5 millions", "Environ 35 millions"],
+      "reponse": "Environ 23 millions",
+      "explication": "Selon les estimations récentes, la population du Burkina Faso dépasse les 23 millions d'habitants."
+    },
+    {
+      "question": "Comment appelle-t-on le nombre d’habitants par km² ?",
+      "options": ["Densité de population", "Croissance urbaine", "Taux de migration", "Pression foncière"],
+      "reponse": "Densité de population",
+      "explication": "La densité mesure le nombre d’habitants par unité de surface."
+    },
+    {
+      "question": "Quelle région du Burkina Faso est la plus densément peuplée ?",
+      "options": ["Centre", "Sahel", "Est", "Cascades"],
+      "reponse": "Centre",
+      "explication": "La région du Centre, qui comprend Ouagadougou, est la plus densément peuplée."
+    },
+    {
+      "question": "Quelle est la densité moyenne au Burkina Faso ?",
+      "options": ["Environ 80-90 habitants/km²", "10-20 habitants/km²", "300 habitants/km²", "500 habitants/km²"],
+      "reponse": "Environ 80-90 habitants/km²",
+      "explication": "La densité varie selon les régions, mais tourne autour de 85-90 habitants/km² en moyenne."
+    },
+    {
+      "question": "Que signifie une forte croissance démographique ?",
+      "options": ["Population augmente rapidement", "Population stagne", "Population diminue", "Plus de personnes âgées que jeunes"],
+      "reponse": "Population augmente rapidement",
+      "explication": "Le Burkina Faso a l’un des taux de croissance les plus élevés en Afrique de l’Ouest."
+    },
+    {
+      "question": "Quel est le principal facteur de croissance démographique au Burkina Faso ?",
+      "options": ["Taux de natalité élevé", "Immigration", "Taux de mortalité élevé", "Faible espérance de vie"],
+      "reponse": "Taux de natalité élevé",
+      "explication": "Le taux de natalité est très élevé, expliquant l’augmentation rapide de la population."
+    },
+    {
+      "question": "Quel est le principal défi lié à la forte croissance démographique ?",
+      "options": ["Pression sur les ressources", "Abondance de richesses", "Moins de jeunes", "Émigration de masse"],
+      "reponse": "Pression sur les ressources",
+      "explication": "Une forte population exerce une pression sur les terres, l’eau, les écoles, et les soins de santé."
+    },
+    {
+      "question": "Comment qualifie-t-on une population où les jeunes sont majoritaires ?",
+      "options": ["Population jeune", "Population vieillissante", "Population stable", "Population migrante"],
+      "reponse": "Population jeune",
+      "explication": "Plus de la moitié de la population burkinabè a moins de 18 ans."
+    },
+    {
+      "question": "Quel est le pourcentage approximatif des moins de 15 ans ?",
+      "options": ["Près de 45 %", "10 %", "80 %", "25 %"],
+      "reponse": "Près de 45 %",
+      "explication": "Une grande part de la population est constituée de jeunes, ce qui influence la demande en éducation."
+    },
+    {
+      "question": "Qu’est-ce que l’exode rural ?",
+      "options": ["Départ des campagnes vers les villes", "Départ vers l’étranger", "Déplacement à l’intérieur d’un quartier", "Voyage de tourisme"],
+      "reponse": "Départ des campagnes vers les villes",
+      "explication": "L’exode rural est un mouvement de population des zones rurales vers les zones urbaines."
+    },
+    {
+      "question": "Quelles sont les causes principales de l’exode rural au Burkina Faso ?",
+      "options": ["Pauvreté en campagne et recherche d’emplois en ville", "Tourisme", "Inondation urbaine", "Taux de fécondité"],
+      "reponse": "Pauvreté en campagne et recherche d’emplois en ville",
+      "explication": "Les jeunes quittent les villages pour chercher un meilleur avenir dans les centres urbains."
+    },
+    {
+      "question": "Quel est l’effet direct de l’exode rural ?",
+      "options": ["Croissance rapide des villes", "Déforestation", "Sécheresse", "Exportation de produits agricoles"],
+      "reponse": "Croissance rapide des villes",
+      "explication": "L’exode rural entraîne une urbanisation accélérée et souvent désorganisée."
+    },
+    {
+      "question": "Qu’est-ce qu’une ville en forte croissance s’appelle ?",
+      "options": ["Une mégapole", "Un désert", "Un village", "Un bourg"],
+      "reponse": "Une mégapole",
+      "explication": "C’est une très grande ville qui concentre des millions d’habitants et des fonctions diverses."
+    },
+    {
+      "question": "Quelles villes connaissent la plus forte croissance démographique au Burkina ?",
+      "options": ["Ouagadougou et Bobo-Dioulasso", "Kaya et Gorom-Gorom", "Réo et Yako", "Gaoua et Boromo"],
+      "reponse": "Ouagadougou et Bobo-Dioulasso",
+      "explication": "Ce sont les deux grandes métropoles du pays, très attractives pour les migrants ruraux."
+    },
+    {
+      "question": "Que provoque une urbanisation non maîtrisée ?",
+      "options": ["Apparition de bidonvilles", "Amélioration rapide des routes", "Réduction de la pollution", "Expansion des forêts"],
+      "reponse": "Apparition de bidonvilles",
+      "explication": "Le manque de logements et de planification crée des quartiers précaires."
+    },
+    {
+      "question": "Quel est un effet social de l’urbanisation rapide ?",
+      "options": ["Manque de services publics", "Réduction de la jeunesse", "Déclin du commerce", "Fermeture des écoles"],
+      "reponse": "Manque de services publics",
+      "explication": "Les services de base (eau, école, santé) deviennent insuffisants face à la croissance urbaine."
+    },
+    {
+      "question": "Comment appelle-t-on une population dispersée et peu dense ?",
+      "options": ["Population clairsemée", "Population compacte", "Population explosive", "Population statique"],
+      "reponse": "Population clairsemée",
+      "explication": "On parle de population clairsemée quand les habitants sont éloignés les uns des autres."
+    },
+    {
+      "question": "Quelle zone est la moins peuplée au Burkina Faso ?",
+      "options": ["Région du Sahel", "Centre", "Sud-Ouest", "Boucle du Mouhoun"],
+      "reponse": "Région du Sahel",
+      "explication": "Le climat aride et les conditions difficiles expliquent la faible densité de cette zone."
+    },
+    {
+      "question": "Quel est l’impact de la croissance démographique sur l’environnement ?",
+      "options": ["Déforestation, érosion, pression foncière", "Reforestation", "Diminution des naissances", "Baisse des températures"],
+      "reponse": "Déforestation, érosion, pression foncière",
+      "explication": "Une forte population consomme plus de ressources naturelles, ce qui dégrade l’environnement."
+    },
+    {
+      "question": "Quel indicateur mesure le rythme d’augmentation de la population ?",
+      "options": ["Taux de croissance démographique", "Indice de pauvreté", "Indice de natalité absolue", "Pression urbaine"],
+      "reponse": "Taux de croissance démographique",
+      "explication": "C’est le pourcentage qui mesure l’augmentation de la population sur une période donnée."
+    },
+    {
+      "question": "Quel est le défi principal de la jeunesse burkinabè ?",
+      "options": ["Chômage et accès à l’éducation", "Vieillesse", "Manque d’avions", "Vie urbaine excessive"],
+      "reponse": "Chômage et accès à l’éducation",
+      "explication": "Les jeunes représentent une majorité mais manquent souvent de formation et d’emplois."
+    },
+    {
+      "question": "Quelle conséquence a l’exode rural sur les campagnes ?",
+      "options": ["Vieillissement et manque de main-d’œuvre", "Plus de ressources agricoles", "Croissance urbaine", "Hausse des prix"],
+      "reponse": "Vieillissement et manque de main-d’œuvre",
+      "explication": "Les jeunes quittent les villages, laissant les personnes âgées gérer l’agriculture."
+    },
+    {
+      "question": "Pourquoi les zones urbaines attirent-elles autant ?",
+      "options": ["Espoir d’un meilleur emploi et d’un cadre de vie moderne", "Meilleure pluie", "Plus de désert", "Moins d’écoles"],
+      "reponse": "Espoir d’un meilleur emploi et d’un cadre de vie moderne",
+      "explication": "L’urbanisation attire par les services, les emplois et les infrastructures."
+    },
+    {
+      "question": "Comment appelle-t-on le déplacement à l’intérieur du pays ?",
+      "options": ["Migration interne", "Exil international", "Émigration", "Exode continental"],
+      "reponse": "Migration interne",
+      "explication": "Il s’agit du déplacement d’un individu d’une région vers une autre dans le même pays."
+    },
+    {
+      "question": "Quel ministère s’occupe de la population au Burkina Faso ?",
+      "options": ["Ministère de l’Économie et de la Prospective", "Ministère de la Santé animale", "Ministère de la Culture", "Ministère des Affaires religieuses"],
+      "reponse": "Ministère de l’Économie et de la Prospective",
+      "explication": "Ce ministère gère les questions démographiques et les stratégies de développement."
+    },
+    {
+      "question": "Quelle politique peut ralentir la croissance démographique ?",
+      "options": ["Planification familiale", "Exode forcé", "Suppression des hôpitaux", "Urbanisation brutale"],
+      "reponse": "Planification familiale",
+      "explication": "Elle permet de contrôler les naissances en sensibilisant les couples."
+    },
+    {
+      "question": "Qu’est-ce que la transition démographique ?",
+      "options": ["Passage d’un taux de natalité élevé à un taux plus bas", "Déplacement urbain", "Exode agricole", "Croissance des forêts"],
+      "reponse": "Passage d’un taux de natalité élevé à un taux plus bas",
+      "explication": "Elle s’observe lorsque les sociétés passent d’une forte natalité/mortalité à des taux plus faibles."
+    },
+    {
+      "question": "Quelle structure accompagne les jeunes ruraux vers des emplois durables ?",
+      "options": ["ANPE", "SNCF", "UEMOA", "BRI"],
+      "reponse": "ANPE",
+      "explication": "L’Agence nationale pour l’emploi propose des formations et appuis aux jeunes."
+    },
+    {
+      "question": "Quel est le lien entre population et développement durable ?",
+      "options": ["Une population bien encadrée facilite un développement équilibré", "Pas de lien", "Population = pollution", "Développement durable réduit la population"],
+      "reponse": "Une population bien encadrée facilite un développement équilibré",
+      "explication": "L’investissement dans l’éducation, la santé et l’emploi favorise un développement durable."
+    }
+  ]
+}

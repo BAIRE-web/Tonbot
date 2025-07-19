@@ -1,0 +1,520 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que la régulation des naissances ?",
+      "options": ["Un contrôle volontaire du nombre d’enfants", "Une maladie", "Une méthode de fécondation", "Une hormone produite par les ovaires"],
+      "reponse": "Un contrôle volontaire du nombre d’enfants",
+      "explication": "La régulation des naissances permet de planifier le nombre d’enfants désirés."
+    },
+    {
+      "question": "Quel est le but principal des moyens de contraception ?",
+      "options": ["Prévenir les infections", "Empêcher la fécondation", "Accélérer la grossesse", "Produire des hormones"],
+      "reponse": "Empêcher la fécondation",
+      "explication": "La contraception vise à éviter la rencontre ou la fusion des gamètes."
+    },
+    {
+      "question": "Le préservatif masculin est un moyen de contraception de quel type ?",
+      "options": ["Barrière", "Hormonal", "Chirurgical", "Naturel"],
+      "reponse": "Barrière",
+      "explication": "Le préservatif empêche physiquement le passage des spermatozoïdes."
+    },
+    {
+      "question": "La pilule contraceptive agit principalement en :",
+      "options": ["Empêchant l’ovulation", "Empêchant la fécondation", "Empêchant l’éjaculation", "Bloquant la menstruation"],
+      "reponse": "Empêchant l’ovulation",
+      "explication": "La pilule modifie les hormones pour éviter la libération de l’ovule."
+    },
+    {
+      "question": "Qu’est-ce que le stérilet (DIU) ?",
+      "options": ["Un dispositif intra-utérin", "Une hormone", "Une pilule", "Un test de grossesse"],
+      "reponse": "Un dispositif intra-utérin",
+      "explication": "Le stérilet est un petit objet placé dans l’utérus pour empêcher la nidation."
+    },
+    {
+      "question": "Quelle méthode contraceptive est définitive ?",
+      "options": ["La pilule", "La vasectomie", "Le préservatif", "Le stérilet"],
+      "reponse": "La vasectomie",
+      "explication": "La vasectomie est une intervention chirurgicale permanente chez l’homme."
+    },
+    {
+      "question": "Quelle est la fonction principale des hormones dans la contraception hormonale ?",
+      "options": ["Stimuler l’ovulation", "Empêcher l’ovulation", "Accélérer la fécondation", "Produire du sperme"],
+      "reponse": "Empêcher l’ovulation",
+      "explication": "Les hormones contraceptives empêchent la libération de l’ovule."
+    },
+    {
+      "question": "La méthode du calendrier consiste à :",
+      "options": ["Éviter les rapports pendant la période fertile", "Prendre des hormones", "Utiliser un dispositif intra-utérin", "Mettre un préservatif"],
+      "reponse": "Éviter les rapports pendant la période fertile",
+      "explication": "Cette méthode naturelle repose sur le calcul du cycle menstruel."
+    },
+    {
+      "question": "Le préservatif féminin est utilisé pour :",
+      "options": ["Empêcher les spermatozoïdes d’entrer", "Stimuler l’ovulation", "Bloquer la menstruation", "Accélérer la grossesse"],
+      "reponse": "Empêcher les spermatozoïdes d’entrer",
+      "explication": "Il agit comme une barrière pour empêcher la fécondation."
+    },
+    {
+      "question": "Quelle méthode contraceptive protège aussi contre les infections sexuellement transmissibles (IST) ?",
+      "options": ["Pilule", "Préservatif", "Stérilet", "Méthode du calendrier"],
+      "reponse": "Préservatif",
+      "explication": "Le préservatif est le seul moyen qui protège à la fois des grossesses et des IST."
+    },
+    {
+      "question": "Quelle est la durée d’efficacité moyenne d’un stérilet ?",
+      "options": ["1 an", "3 à 5 ans", "10 ans", "1 mois"],
+      "reponse": "3 à 5 ans",
+      "explication": "Le stérilet peut rester en place plusieurs années selon le type."
+    },
+    {
+      "question": "Quels sont les effets secondaires possibles de la pilule contraceptive ?",
+      "options": ["Nausées et maux de tête", "Perte de cheveux", "Douleurs musculaires", "Augmentation de la fertilité"],
+      "reponse": "Nausées et maux de tête",
+      "explication": "Ces effets sont courants mais généralement temporaires."
+    },
+    {
+      "question": "La contraception d’urgence doit être utilisée :",
+      "options": ["Avant un rapport sexuel", "Après un rapport non protégé", "Chaque jour", "À la fin de la grossesse"],
+      "reponse": "Après un rapport non protégé",
+      "explication": "Elle vise à prévenir une grossesse après un rapport à risque."
+    },
+    {
+      "question": "La vasectomie consiste à :",
+      "options": ["Bloquer les trompes", "Couper ou ligaturer les canaux déférents", "Enlever les ovaires", "Prendre des hormones"],
+      "reponse": "Couper ou ligaturer les canaux déférents",
+      "explication": "Cela empêche le passage des spermatozoïdes vers le sperme."
+    },
+    {
+      "question": "La ligature des trompes est une méthode :",
+      "options": ["Réversible", "Définitive", "Naturelle", "Hormonale"],
+      "reponse": "Définitive",
+      "explication": "C’est une intervention chirurgicale qui bloque les trompes pour empêcher la fécondation."
+    },
+    {
+      "question": "Quel moyen de contraception nécessite une prescription médicale ?",
+      "options": ["Pilule", "Préservatif", "Méthode du retrait", "Méthode du calendrier"],
+      "reponse": "Pilule",
+      "explication": "La pilule contraceptive est délivrée sur prescription médicale."
+    },
+    {
+      "question": "La méthode du retrait consiste à :",
+      "options": ["Retirer le pénis avant l’éjaculation", "Utiliser un préservatif", "Prendre une pilule", "Calculer le cycle menstruel"],
+      "reponse": "Retirer le pénis avant l’éjaculation",
+      "explication": "C’est une méthode naturelle mais peu fiable."
+    },
+    {
+      "question": "Quelle méthode contraceptive ne protège pas contre les infections sexuellement transmissibles ?",
+      "options": ["Préservatif", "Pilule", "Préservatif féminin", "Stérilet"],
+      "reponse": "Pilule",
+      "explication": "La pilule ne protège pas contre les IST, contrairement au préservatif."
+    },
+    {
+      "question": "Laquelle de ces méthodes est la plus efficace pour éviter une grossesse ?",
+      "options": ["Pilule", "Préservatif", "Méthode du calendrier", "Méthode du retrait"],
+      "reponse": "Pilule",
+      "explication": "La pilule est très efficace lorsqu’elle est bien prise."
+    },
+    {
+      "question": "Quel est l’effet du stérilet sur la muqueuse utérine ?",
+      "options": ["Elle s’épaissit", "Elle s’amincit", "Elle se transforme en tissu musculaire", "Elle ne change pas"],
+      "reponse": "Elle s’amincit",
+      "explication": "Le stérilet modifie la muqueuse pour empêcher la nidation de l’embryon."
+    },
+    {
+      "question": "Que signifie le terme « contraception » ?",
+      "options": ["Méthode pour favoriser la grossesse", "Méthode pour éviter une grossesse", "Méthode pour accélérer la puberté", "Méthode pour guérir les infections"],
+      "reponse": "Méthode pour éviter une grossesse",
+      "explication": "La contraception vise à prévenir la fécondation ou l’implantation."
+    },
+    {
+      "question": "Quels sont les deux types principaux de contraception ?",
+      "options": ["Naturelle et artificielle", "Chirurgicale et naturelle", "Hormonal et chirurgical", "Naturelle et hormonale"],
+      "reponse": "Naturelle et artificielle",
+      "explication": "Les méthodes naturelles utilisent le cycle, les artificielles des moyens mécaniques ou hormonaux."
+    },
+    {
+      "question": "Le préservatif féminin est fabriqué à partir de :",
+      "options": ["Latex ou polyuréthane", "Plastique rigide", "Coton", "Métal"],
+      "reponse": "Latex ou polyuréthane",
+      "explication": "Il est conçu pour être souple et résistant."
+    },
+    {
+      "question": "Quel contraceptif hormonal est injecté tous les 3 mois ?",
+      "options": ["Pilule orale", "Pilule du lendemain", "Injection contraceptive", "Stérilet hormonal"],
+      "reponse": "Injection contraceptive",
+      "explication": "L’injection libère lentement des hormones pour prévenir la grossesse."
+    },
+    {
+      "question": "La pilule du lendemain doit être prise :",
+      "options": ["Dans les 72 heures après un rapport non protégé", "Avant un rapport sexuel", "Chaque jour", "Après la grossesse"],
+      "reponse": "Dans les 72 heures après un rapport non protégé",
+      "explication": "Elle sert à éviter une grossesse en retardant ou empêchant l’ovulation."
+    },
+    {
+      "question": "Quels moyens de contraception sont réversibles ?",
+      "options": ["Pilule, stérilet, préservatif", "Vasectomie, ligature des trompes", "Injection contraceptive définitive", "Méthode naturelle uniquement"],
+      "reponse": "Pilule, stérilet, préservatif",
+      "explication": "Ces méthodes peuvent être arrêtées pour retrouver la fertilité."
+    },
+    {
+      "question": "Quelle est la principale raison d’utiliser la contraception ?",
+      "options": ["Éviter les grossesses non désirées", "Augmenter la fertilité", "Soigner une maladie", "Produire des hormones"],
+      "reponse": "Éviter les grossesses non désirées",
+      "explication": "La contraception permet de contrôler la reproduction."
+    },
+    {
+      "question": "Quel contraceptif masculin est utilisé pour stériliser ?",
+      "options": ["Vasectomie", "Préservatif", "Pilule", "Méthode du calendrier"],
+      "reponse": "Vasectomie",
+      "explication": "La vasectomie est une intervention chirurgicale empêchant la production de spermatozoïdes dans le sperme."
+    },
+    {
+      "question": "Laquelle de ces méthodes contraceptives est sans hormone ?",
+      "options": ["Pilule", "Stérilet au cuivre", "Injection contraceptive", "Patch hormonal"],
+      "reponse": "Stérilet au cuivre",
+      "explication": "Le stérilet au cuivre agit mécaniquement sans hormones."
+    },
+    {
+      "question": "Qu’est-ce qu’une contraception naturelle ?",
+      "options": ["L’utilisation de moyens mécaniques", "Le suivi du cycle menstruel pour éviter les rapports durant la période fertile", "Une intervention chirurgicale", "La prise de pilules hormonales"],
+      "reponse": "Le suivi du cycle menstruel pour éviter les rapports durant la période fertile",
+      "explication": "Cette méthode repose sur l’observation du cycle pour éviter la fécondation."
+    },
+    {
+      "question": "Quel est le principal mécanisme d’action de la pilule contraceptive ?",
+      "options": ["Empêcher la fécondation", "Empêcher l’ovulation", "Bloquer le col de l’utérus", "Détruire les spermatozoïdes"],
+      "reponse": "Empêcher l’ovulation",
+      "explication": "La pilule modifie les hormones pour empêcher la libération de l’ovule."
+    },
+    {
+      "question": "Comment agit un préservatif masculin pour éviter une grossesse ?",
+      "options": ["Empêche la fécondation en agissant comme une barrière", "Bloque la production d’ovules", "Empêche la maturation des spermatozoïdes", "Change le pH vaginal"],
+      "reponse": "Empêche la fécondation en agissant comme une barrière",
+      "explication": "Le préservatif bloque physiquement le passage des spermatozoïdes."
+    },
+    {
+      "question": "Quelle méthode contraceptive consiste à éviter les rapports sexuels pendant la période fertile ?",
+      "options": ["Méthode du calendrier", "Pilule contraceptive", "Stérilet", "Vasectomie"],
+      "reponse": "Méthode du calendrier",
+      "explication": "Cette méthode naturelle repose sur le calcul des jours fertiles du cycle."
+    },
+    {
+      "question": "Quelle intervention chirurgicale masculine rend stérile ?",
+      "options": ["Ligature des trompes", "Vasectomie", "Césarienne", "Hystérectomie"],
+      "reponse": "Vasectomie",
+      "explication": "La vasectomie bloque les canaux déférents pour empêcher le passage des spermatozoïdes."
+    },
+    {
+      "question": "Quel dispositif intra-utérin (DIU) peut être utilisé comme contraception ?",
+      "options": ["Stérilet en cuivre", "Pilule hormonale", "Patch contraceptif", "Anneau vaginal"],
+      "reponse": "Stérilet en cuivre",
+      "explication": "Le stérilet au cuivre agit mécaniquement pour empêcher la nidation."
+    },
+    {
+      "question": "Pourquoi le préservatif est-il la seule méthode à protéger contre les IST ?",
+      "options": ["Parce qu’il bloque le passage des spermatozoïdes et des agents infectieux", "Parce qu’il produit des hormones", "Parce qu’il empêche l’ovulation", "Parce qu’il modifie le cycle menstruel"],
+      "reponse": "Parce qu’il bloque le passage des spermatozoïdes et des agents infectieux",
+      "explication": "Le préservatif agit comme une barrière physique contre les infections et la grossesse."
+    },
+    {
+      "question": "La pilule du lendemain doit être prise dans quel délai après un rapport non protégé ?",
+      "options": ["24 heures", "72 heures", "1 semaine", "1 mois"],
+      "reponse": "72 heures",
+      "explication": "Elle est efficace si prise dans les 3 jours suivant le rapport à risque."
+    },
+    {
+      "question": "Quels sont les effets secondaires possibles de la pilule contraceptive ?",
+      "options": ["Nausées, maux de tête, prise de poids", "Perte de poids, fatigue, fièvre", "Douleurs musculaires, hypertension", "Vision floue, douleurs articulaires"],
+      "reponse": "Nausées, maux de tête, prise de poids",
+      "explication": "Ces effets sont fréquents mais généralement temporaires."
+    },
+    {
+      "question": "Qu’est-ce que la ligature des trompes ?",
+      "options": ["Une contraception masculine", "Une méthode naturelle", "Une intervention chirurgicale féminine pour bloquer les trompes", "Un type de pilule"],
+      "reponse": "Une intervention chirurgicale féminine pour bloquer les trompes",
+      "explication": "Elle empêche les ovules de rejoindre l’utérus, rendant la femme stérile."
+    },
+    {
+      "question": "Quel contraceptif hormonal est administré par injection tous les 3 mois ?",
+      "options": ["Pilule", "Patch", "Injection contraceptive", "Anneau vaginal"],
+      "reponse": "Injection contraceptive",
+      "explication": "L’injection libère lentement des hormones pour prévenir la grossesse."
+    },
+    {
+      "question": "Que signifie l’acronyme IST ?",
+      "options": ["Infections Sexuellement Transmissibles", "Infections Sanguines Temporaires", "Immunité Sans Traitement", "Inflammations Systémiques Toxiques"],
+      "reponse": "Infections Sexuellement Transmissibles",
+      "explication": "Les IST sont des maladies transmises lors de rapports sexuels."
+    },
+    {
+      "question": "Quel virus est responsable du SIDA ?",
+      "options": ["VIH", "HSV", "HPV", "HBV"],
+      "reponse": "VIH",
+      "explication": "Le virus de l’immunodéficience humaine (VIH) cause le SIDA."
+    },
+    {
+      "question": "Quels sont les principaux modes de transmission du VIH ?",
+      "options": ["Rapports sexuels non protégés, partage de seringues, transmission mère-enfant", "Respiration, alimentation, contacts sociaux", "Baignade en piscine, piqûres d’insectes, contact cutané", "Partage d’objets, contact visuel, usage de toilettes publiques"],
+      "reponse": "Rapports sexuels non protégés, partage de seringues, transmission mère-enfant",
+      "explication": "Le VIH se transmet par contact avec des liquides biologiques infectés."
+    },
+    {
+      "question": "Quelles sont les premières manifestations cliniques possibles d’une infection au VIH ?",
+      "options": ["Fièvre, fatigue, ganglions enflés", "Douleurs abdominales, nausées", "Toux persistante, perte de poids", "Perte de cheveux, éruptions cutanées"],
+      "reponse": "Fièvre, fatigue, ganglions enflés",
+      "explication": "Ces symptômes apparaissent souvent lors de la primo-infection."
+    },
+    {
+      "question": "Qu’est-ce que le stade SIDA ?",
+      "options": ["Le stade avancé de l’infection par le VIH", "Le début de l’infection par le VIH", "Une maladie différente du VIH", "Un vaccin contre le VIH"],
+      "reponse": "Le stade avancé de l’infection par le VIH",
+      "explication": "Le SIDA correspond à la phase où le système immunitaire est gravement affaibli."
+    },
+    {
+      "question": "Quel examen permet de diagnostiquer une infection par le VIH ?",
+      "options": ["Test de dépistage VIH (test Elisa)", "Radiographie pulmonaire", "Analyse d’urine", "Test de glycémie"],
+      "reponse": "Test de dépistage VIH (test Elisa)",
+      "explication": "Ce test détecte la présence d’anticorps contre le VIH."
+    },
+    {
+      "question": "Le préservatif est-il efficace pour prévenir la transmission du VIH ?",
+      "options": ["Oui", "Non", "Seulement pour les femmes", "Seulement en hiver"],
+      "reponse": "Oui",
+      "explication": "Utilisé correctement, il protège contre la transmission du VIH et autres IST."
+    },
+    {
+      "question": "Quelles sont les mesures d’hygiène sexuelle pour prévenir les IST ?",
+      "options": ["Utiliser le préservatif, éviter les rapports non protégés, dépistage régulier", "Boire beaucoup d’eau, manger sainement", "Se laver uniquement après le rapport", "Prendre des antibiotiques systématiquement"],
+      "reponse": "Utiliser le préservatif, éviter les rapports non protégés, dépistage régulier",
+      "explication": "Ces mesures réduisent les risques d’infection."
+    },
+    {
+      "question": "Peut-on guérir totalement du VIH ?",
+      "options": ["Non", "Oui", "Seulement avec des antibiotiques", "Seulement chez les enfants"],
+      "reponse": "Non",
+      "explication": "Il n’existe pas de cure, mais un traitement peut contrôler le virus."
+    },
+    {
+      "question": "Que fait le traitement antirétroviral (TAR) ?",
+      "options": ["Diminue la charge virale du VIH", "Tue le virus définitivement", "Renforce le système digestif", "Augmente la production de spermatozoïdes"],
+      "reponse": "Diminue la charge virale du VIH",
+      "explication": "Le TAR ralentit la progression de la maladie et améliore la qualité de vie."
+    },
+    {
+      "question": "Comment se transmettent généralement les IST autres que le VIH ?",
+      "options": ["Par contact sexuel non protégé", "Par l’air", "Par l’eau potable", "Par les aliments contaminés"],
+      "reponse": "Par contact sexuel non protégé",
+      "explication": "La majorité des IST se transmettent lors de rapports sexuels sans protection."
+    },
+    {
+      "question": "Le virus de l’herpès génital est-il une IST ?",
+      "options": ["Oui", "Non", "Seulement chez les enfants", "Seulement chez les hommes"],
+      "reponse": "Oui",
+      "explication": "L’herpès génital se transmet lors de rapports sexuels."
+    },
+    {
+      "question": "Qu’est-ce que la syphilis ?",
+      "options": ["Une IST bactérienne", "Une maladie virale", "Une infection fongique", "Une allergie"],
+      "reponse": "Une IST bactérienne",
+      "explication": "La syphilis est causée par une bactérie transmissible sexuellement."
+    },
+    {
+      "question": "Quel est le meilleur moyen pour éviter la transmission des IST ?",
+      "options": ["Utilisation correcte du préservatif", "Prendre des antibiotiques", "Laver les organes génitaux après chaque rapport", "Éviter les sports"],
+      "reponse": "Utilisation correcte du préservatif",
+      "explication": "Le préservatif est la méthode la plus efficace pour limiter la transmission."
+    },
+    {
+      "question": "Peut-on contracter le VIH par une piqûre accidentelle avec une aiguille contaminée ?",
+      "options": ["Oui", "Non", "Seulement si la personne est malade", "Seulement à l’hôpital"],
+      "reponse": "Oui",
+      "explication": "Le VIH peut se transmettre par contact sanguin direct avec du sang contaminé."
+    },
+    {
+      "question": "Quelles précautions prendre pour éviter la transmission du VIH dans les soins médicaux ?",
+      "options": ["Utiliser du matériel stérile et à usage unique", "Porter des gants uniquement", "Désinfecter le matériel une fois par jour", "Ne rien faire de spécial"],
+      "reponse": "Utiliser du matériel stérile et à usage unique",
+      "explication": "Cela évite la contamination croisée entre patients."
+    },
+    {
+      "question": "Quelle est la période d’incubation du VIH, c’est-à-dire le temps entre infection et symptômes ?",
+      "options": ["Quelques jours", "Plusieurs années", "Quelques heures", "Quelques minutes"],
+      "reponse": "Plusieurs années",
+      "explication": "Le VIH peut rester latent pendant plusieurs années avant l’apparition des symptômes."
+    },
+    {
+      "question": "Quels comportements augmentent le risque de contracter une IST ?",
+      "options": ["Multiplication des partenaires et rapports non protégés", "Activité physique régulière", "Alimentation saine", "Sommeil régulier"],
+      "reponse": "Multiplication des partenaires et rapports non protégés",
+      "explication": "Ces comportements augmentent l’exposition aux agents infectieux."
+    },
+    {
+      "question": "Peut-on transmettre le VIH de la mère à l’enfant ?",
+      "options": ["Oui, pendant la grossesse, l’accouchement ou l’allaitement", "Non", "Seulement lors de l’accouchement", "Seulement si le bébé est malade"],
+      "reponse": "Oui, pendant la grossesse, l’accouchement ou l’allaitement",
+      "explication": "Le virus peut passer de la mère à l’enfant à différents moments."
+    },
+    {
+      "question": "Quelle est la fonction du test de dépistage VIH ?",
+      "options": ["Détecter la présence d’anticorps contre le VIH", "Soigner le VIH", "Évaluer la fonction rénale", "Détecter les bactéries"],
+      "reponse": "Détecter la présence d’anticorps contre le VIH",
+      "explication": "Le test Elisa détecte les anticorps produits en réponse au virus."
+    },
+    {
+      "question": "Qu’est-ce que le 'stade asymptomatique' du VIH ?",
+      "options": ["Période sans symptômes malgré la présence du virus", "Phase terminale du SIDA", "Le début de l’infection", "La guérison"],
+      "reponse": "Période sans symptômes malgré la présence du virus",
+      "explication": "Le virus est présent mais le patient ne ressent pas de symptômes visibles."
+    },
+    {
+      "question": "Quelle attitude est recommandée pour maintenir une bonne hygiène sexuelle ?",
+      "options": ["Utiliser des protections, éviter les pratiques à risque, se faire dépister", "Se laver une fois par mois", "Éviter les contacts sociaux", "Prendre des médicaments systématiquement"],
+      "reponse": "Utiliser des protections, éviter les pratiques à risque, se faire dépister",
+      "explication": "Ces mesures réduisent le risque d’IST et protègent la santé sexuelle."
+    },
+    {
+      "question": "Le virus HPV peut provoquer :",
+      "options": ["Des verrues génitales et certains cancers", "Des maux de tête", "Une grippe", "Une angine"],
+      "reponse": "Des verrues génitales et certains cancers",
+      "explication": "Le HPV est responsable de certaines lésions et cancers du col de l’utérus."
+    },
+    {
+      "question": "Quels sont les signes courants d’une IST ?",
+      "options": ["Brûlures urinaires, écoulements anormaux, douleurs pelviennes", "Fièvre, toux, essoufflement", "Douleurs musculaires, fièvre", "Perte de poids, fatigue"],
+      "reponse": "Brûlures urinaires, écoulements anormaux, douleurs pelviennes",
+      "explication": "Ces symptômes doivent inciter à consulter un médecin rapidement."
+    },
+    {
+      "question": "Quel rôle joue la communication dans la prévention des IST ?",
+      "options": ["Informer, sensibiliser et encourager les comportements responsables", "Augmenter le risque", "Empêcher les soins", "Promouvoir le tabagisme"],
+      "reponse": "Informer, sensibiliser et encourager les comportements responsables",
+      "explication": "Une bonne communication aide à réduire la propagation des IST."
+    },
+    {
+      "question": "Le traitement du SIDA consiste principalement en :",
+      "options": ["Thérapie antirétrovirale", "Antibiotiques", "Vaccins", "Chirurgie"],
+      "reponse": "Thérapie antirétrovirale",
+      "explication": "Cette thérapie contrôle le virus et améliore la qualité de vie."
+    },
+    {
+      "question": "Peut-on être porteur du VIH sans présenter de symptômes ?",
+      "options": ["Oui", "Non", "Seulement chez les enfants", "Seulement chez les personnes âgées"],
+      "reponse": "Oui",
+      "explication": "Le virus peut rester latent pendant plusieurs années sans symptômes visibles."
+    },
+    {
+      "question": "Quelle est la principale voie de transmission du VIH ?",
+      "options": ["Rapports sexuels non protégés", "Contact avec la peau saine", "Partage d’objets personnels", "Baiser sur la joue"],
+      "reponse": "Rapports sexuels non protégés",
+      "explication": "Le VIH se transmet principalement par les liquides corporels lors de rapports non protégés."
+    },
+    {
+      "question": "Pourquoi le préservatif est-il efficace contre le VIH ?",
+      "options": ["Il empêche le contact direct des liquides infectés", "Il tue le virus", "Il améliore l’immunité", "Il change le pH vaginal"],
+      "reponse": "Il empêche le contact direct des liquides infectés",
+      "explication": "Le préservatif agit comme une barrière physique empêchant la transmission."
+    },
+    {
+      "question": "Quelle méthode ne protège pas contre les IST ?",
+      "options": ["Pilule contraceptive", "Préservatif", "Abstinence", "Dépistage régulier"],
+      "reponse": "Pilule contraceptive",
+      "explication": "La pilule protège contre la grossesse mais pas contre les IST."
+    },
+    {
+      "question": "Le VIH peut-il se transmettre par une piqûre accidentelle avec une aiguille contaminée ?",
+      "options": ["Oui", "Non", "Seulement si la personne est malade", "Non, uniquement par rapports sexuels"],
+      "reponse": "Oui",
+      "explication": "Le virus se transmet par contact direct avec du sang infecté."
+    },
+    {
+      "question": "Quel examen permet de détecter une infection au VIH ?",
+      "options": ["Test Elisa", "Radiographie", "Test de grossesse", "Analyse d’urine"],
+      "reponse": "Test Elisa",
+      "explication": "Ce test détecte les anticorps produits en réponse au VIH."
+    },
+    {
+      "question": "Quelles précautions doivent être prises lors d’une transfusion sanguine ?",
+      "options": ["Utiliser du sang testé et sécurisé", "Désinfecter la peau uniquement", "Porter un masque", "Prendre des antibiotiques"],
+      "reponse": "Utiliser du sang testé et sécurisé",
+      "explication": "Le sang doit être testé pour éviter la transmission du VIH et autres infections."
+    },
+    {
+      "question": "Que signifie le terme 'séropositif' ?",
+      "options": ["Présence d’anticorps contre le VIH", "Personne guérie du VIH", "Absence de virus dans le sang", "Infection bactérienne"],
+      "reponse": "Présence d’anticorps contre le VIH",
+      "explication": "Une personne séropositive est porteuse du virus mais peut ne pas avoir de symptômes."
+    },
+    {
+      "question": "Quel est l’objectif principal du traitement antirétroviral ?",
+      "options": ["Réduire la charge virale", "Éliminer complètement le virus", "Stimuler la croissance", "Soigner les autres maladies"],
+      "reponse": "Réduire la charge virale",
+      "explication": "Le traitement contrôle la multiplication du virus dans l’organisme."
+    },
+    {
+      "question": "Le VIH peut-il être transmis par la salive ?",
+      "options": ["Non", "Oui", "Seulement par baiser profond", "Seulement chez les enfants"],
+      "reponse": "Non",
+      "explication": "La salive ne contient pas suffisamment de virus pour transmettre le VIH."
+    },
+    {
+      "question": "Quelles sont les conséquences de ne pas utiliser de protection lors de rapports sexuels ?",
+      "options": ["Risque accru d’IST et de grossesse non désirée", "Augmentation de l’immunité", "Aucune conséquence", "Meilleure santé sexuelle"],
+      "reponse": "Risque accru d’IST et de grossesse non désirée",
+      "explication": "Les rapports non protégés exposent aux infections et à la grossesse."
+    },
+    {
+      "question": "Pourquoi est-il important de faire un dépistage régulier des IST ?",
+      "options": ["Pour détecter tôt et traiter les infections", "Pour prévenir la grippe", "Pour vérifier la glycémie", "Pour augmenter la fertilité"],
+      "reponse": "Pour détecter tôt et traiter les infections",
+      "explication": "Le dépistage précoce évite la propagation et les complications."
+    },
+    {
+      "question": "Quel comportement augmente le risque de contracter le VIH ?",
+      "options": ["Multiplication des partenaires sans protection", "Hygiène corporelle rigoureuse", "Pratique régulière du sport", "Alimentation équilibrée"],
+      "reponse": "Multiplication des partenaires sans protection",
+      "explication": "Plus de partenaires sans protection augmente le risque d’exposition au virus."
+    },
+    {
+      "question": "Le VIH affecte principalement quel système du corps ?",
+      "options": ["Le système immunitaire", "Le système digestif", "Le système nerveux", "Le système circulatoire"],
+      "reponse": "Le système immunitaire",
+      "explication": "Le virus détruit les lymphocytes T CD4, essentiels à la défense immunitaire."
+    },
+    {
+      "question": "Quel est le rôle du préservatif féminin ?",
+      "options": ["Protéger contre les IST et la grossesse", "Favoriser la fertilité", "Changer le cycle menstruel", "Empêcher la menstruation"],
+      "reponse": "Protéger contre les IST et la grossesse",
+      "explication": "Comme le préservatif masculin, il agit comme une barrière protectrice."
+    },
+    {
+      "question": "Quelles sont les manifestations possibles d’une IST non traitée ?",
+      "options": ["Infertilité, douleurs chroniques, complications graves", "Guérison spontanée", "Augmentation de la force physique", "Amélioration de la vue"],
+      "reponse": "Infertilité, douleurs chroniques, complications graves",
+      "explication": "Les IST non traitées peuvent causer des dommages sérieux à long terme."
+    },
+    {
+      "question": "Comment éviter la transmission du VIH de la mère à l’enfant ?",
+      "options": ["Traitement antirétroviral pendant la grossesse", "Césarienne systématique", "Interdiction de l’allaitement", "Prise de vitamines"],
+      "reponse": "Traitement antirétroviral pendant la grossesse",
+      "explication": "Le traitement réduit le risque de transmission pendant la grossesse et l’accouchement."
+    },
+    {
+      "question": "Pourquoi est-il important de ne pas partager les seringues ?",
+      "options": ["Pour éviter la transmission du VIH et d’autres infections", "Pour préserver la stérilité", "Pour économiser", "Pour éviter les allergies"],
+      "reponse": "Pour éviter la transmission du VIH et d’autres infections",
+      "explication": "Le partage peut transmettre des virus par le sang contaminé."
+    },
+    {
+      "question": "Qu’est-ce que le 'stade asymptomatique' du VIH ?",
+      "options": ["Phase où la personne porte le virus sans symptômes visibles", "Phase terminale de la maladie", "Phase de guérison", "Phase d’incubation de la grippe"],
+      "reponse": "Phase où la personne porte le virus sans symptômes visibles",
+      "explication": "Le virus est actif mais sans symptômes apparents pendant plusieurs années."
+    },
+    {
+      "question": "Quel est le meilleur moyen de prévenir les IST en dehors de l’abstinence ?",
+      "options": ["Utilisation correcte et systématique du préservatif", "Usage de la pilule contraceptive", "Lavage après le rapport", "Prise d’antibiotiques préventifs"],
+      "reponse": "Utilisation correcte et systématique du préservatif",
+      "explication": "Le préservatif est la méthode la plus efficace pour limiter les IST."
+    }
+  ]
+}

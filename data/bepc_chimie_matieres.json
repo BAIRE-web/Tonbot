@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Combien existe-t-il d’états physiques courants de la matière ?",
+      "options": ["3", "2", "4", "5"],
+      "reponse": "3",
+      "explication": "Les trois états les plus courants sont solide, liquide et gazeux."
+    },
+    {
+      "question": "Dans l’état solide, les particules sont :",
+      "options": ["Très proches et bien ordonnées", "Éloignées et désordonnées", "Libres et rapides", "Séparées par du vide"],
+      "reponse": "Très proches et bien ordonnées",
+      "explication": "Dans un solide, les particules sont fortement liées et vibrent autour d'une position fixe."
+    },
+    {
+      "question": "Dans l’état gazeux, les particules :",
+      "options": ["Sont très éloignées et se déplacent rapidement", "Sont fixes", "Tournent lentement", "Sont collées les unes aux autres"],
+      "reponse": "Sont très éloignées et se déplacent rapidement",
+      "explication": "Les gaz ont des particules très mobiles qui occupent tout l’espace disponible."
+    },
+    {
+      "question": "Quel changement d’état correspond au passage de l’état solide à l’état liquide ?",
+      "options": ["La fusion", "La vaporisation", "La condensation", "La sublimation"],
+      "reponse": "La fusion",
+      "explication": "La fusion est le passage du solide au liquide."
+    },
+    {
+      "question": "Quel changement d’état se produit lors de l’ébullition ?",
+      "options": ["Liquide → Gaz", "Solide → Liquide", "Gaz → Liquide", "Solide → Gaz"],
+      "reponse": "Liquide → Gaz",
+      "explication": "L’ébullition transforme un liquide en gaz à température constante."
+    },
+    {
+      "question": "La solidification est le passage de :",
+      "options": ["Liquide à solide", "Gaz à liquide", "Solide à liquide", "Solide à gaz"],
+      "reponse": "Liquide à solide",
+      "explication": "C’est le contraire de la fusion."
+    },
+    {
+      "question": "Quand un gaz devient liquide, on parle de :",
+      "options": ["Liquéfaction", "Vaporisation", "Fusion", "Sublimation"],
+      "reponse": "Liquéfaction",
+      "explication": "La liquéfaction ou condensation correspond au passage gaz → liquide."
+    },
+    {
+      "question": "La sublimation est :",
+      "options": ["Le passage direct du solide au gaz", "Le passage du liquide au gaz", "Le passage du gaz au liquide", "Le passage du liquide au solide"],
+      "reponse": "Le passage direct du solide au gaz",
+      "explication": "Certains corps peuvent passer directement de solide à gaz, comme la glace carbonique."
+    },
+    {
+      "question": "Quelle est la température de fusion de la glace ?",
+      "options": ["0 °C", "100 °C", "-10 °C", "25 °C"],
+      "reponse": "0 °C",
+      "explication": "La glace fond à 0 °C pour se transformer en eau liquide."
+    },
+    {
+      "question": "À quelle température l’eau bout-elle au niveau de la mer ?",
+      "options": ["100 °C", "0 °C", "37 °C", "212 °C"],
+      "reponse": "100 °C",
+      "explication": "L’ébullition de l’eau se produit à 100 °C à pression normale."
+    },
+    {
+      "question": "Quel changement d’état ne concerne pas l’état liquide ?",
+      "options": ["Sublimation", "Fusion", "Évaporation", "Condensation"],
+      "reponse": "Sublimation",
+      "explication": "La sublimation ne passe pas par l’état liquide."
+    },
+    {
+      "question": "Un glaçon qui fond subit une :",
+      "options": ["Fusion", "Solidification", "Condensation", "Sublimation"],
+      "reponse": "Fusion",
+      "explication": "Le glaçon passe de solide à liquide."
+    },
+    {
+      "question": "L’air est un exemple de matière à l’état :",
+      "options": ["Gazeux", "Liquide", "Solide", "Plasma"],
+      "reponse": "Gazeux",
+      "explication": "L’air est un mélange de gaz comme le dioxygène et l’azote."
+    },
+    {
+      "question": "Lorsqu’on chauffe un liquide, les particules :",
+      "options": ["S’agitent de plus en plus", "Se fixent", "Ralentissent", "Se rapprochent"],
+      "reponse": "S’agitent de plus en plus",
+      "explication": "L’augmentation de la température augmente l’agitation des particules."
+    },
+    {
+      "question": "La condensation est le passage de :",
+      "options": ["Gaz à liquide", "Liquide à gaz", "Solide à liquide", "Liquide à solide"],
+      "reponse": "Gaz à liquide",
+      "explication": "C’est le phénomène inverse de la vaporisation."
+    },
+    {
+      "question": "Dans un liquide, les particules sont :",
+      "options": ["Liées mais mobiles", "Fixes et ordonnées", "Totalement indépendantes", "Inexistantes"],
+      "reponse": "Liées mais mobiles",
+      "explication": "Elles sont proches les unes des autres mais peuvent glisser."
+    },
+    {
+      "question": "Quand une goutte d’eau disparaît au soleil, elle subit :",
+      "options": ["Une évaporation", "Une fusion", "Une condensation", "Une liquéfaction"],
+      "reponse": "Une évaporation",
+      "explication": "L’eau passe lentement à l’état gazeux sans ébullition."
+    },
+    {
+      "question": "Quel état de la matière n’a ni forme propre ni volume propre ?",
+      "options": ["Gaz", "Solide", "Liquide", "Plasma"],
+      "reponse": "Gaz",
+      "explication": "Un gaz prend la forme et le volume du récipient."
+    },
+    {
+      "question": "La neige qui se transforme directement en vapeur d’eau subit :",
+      "options": ["Une sublimation", "Une fusion", "Une condensation", "Une liquéfaction"],
+      "reponse": "Une sublimation",
+      "explication": "Elle passe de solide à gaz sans devenir liquide."
+    },
+    {
+      "question": "Quelle transformation est utilisée pour obtenir de l’eau potable à partir de l’eau de mer ?",
+      "options": ["Distillation", "Fusion", "Évaporation seule", "Filtration"],
+      "reponse": "Distillation",
+      "explication": "La distillation permet de séparer l’eau des sels en chauffant puis en condensant la vapeur."
+    },
+    {
+      "question": "Pendant la fusion, la température :",
+      "options": ["Reste constante", "Diminue", "Augmente", "Devient nulle"],
+      "reponse": "Reste constante",
+      "explication": "Pendant tout le changement d’état, la température reste stable."
+    },
+    {
+      "question": "Un solide se transforme en liquide à une température appelée :",
+      "options": ["Température de fusion", "Température d’ébullition", "Température critique", "Température ambiante"],
+      "reponse": "Température de fusion",
+      "explication": "C’est la température à laquelle un solide fond."
+    },
+    {
+      "question": "Quand un liquide devient solide, il y a :",
+      "options": ["Solidification", "Évaporation", "Fusion", "Condensation"],
+      "reponse": "Solidification",
+      "explication": "C’est le passage inverse de la fusion."
+    },
+    {
+      "question": "L’état de la matière le plus ordonné est :",
+      "options": ["Solide", "Liquide", "Gazeux", "Plasma"],
+      "reponse": "Solide",
+      "explication": "Les particules sont fixes et organisées."
+    },
+    {
+      "question": "Quel est l’état de l’eau à 105 °C sous pression normale ?",
+      "options": ["Gazeux", "Solide", "Liquide", "Plasma"],
+      "reponse": "Gazeux",
+      "explication": "L’eau bout à 100 °C, donc à 105 °C elle est à l’état gazeux."
+    },
+    {
+      "question": "Le brouillard est un exemple de :",
+      "options": ["Condensation de la vapeur d’eau", "Évaporation de l’eau liquide", "Fusion de la glace", "Sublimation de la neige"],
+      "reponse": "Condensation de la vapeur d’eau",
+      "explication": "Le brouillard est formé par la condensation de la vapeur d’eau en minuscules gouttelettes."
+    },
+    {
+      "question": "Dans l’état liquide, la matière a :",
+      "options": ["Un volume propre mais pas de forme propre", "Ni volume ni forme propres", "Un volume et une forme fixes", "Une forme propre mais pas de volume propre"],
+      "reponse": "Un volume propre mais pas de forme propre",
+      "explication": "Le liquide s’adapte à la forme du récipient mais conserve son volume."
+    },
+    {
+      "question": "Quand on chauffe un liquide sans atteindre 100 °C, il peut quand même :",
+      "options": ["S’évaporer", "Sublimer", "Fondre", "Se condenser"],
+      "reponse": "S’évaporer",
+      "explication": "L’évaporation peut se faire à toute température, même en dessous de l’ébullition."
+    },
+    {
+      "question": "Quel changement d’état absorbe de l’énergie thermique ?",
+      "options": ["Fusion", "Solidification", "Condensation", "Liquéfaction"],
+      "reponse": "Fusion",
+      "explication": "La fusion demande de l’énergie pour briser les liaisons entre particules."
+    },
+    {
+      "question": "On verse 200 mL d’eau dans un récipient, puis on ajoute une pierre. Le niveau monte à 250 mL. Quel est le volume de la pierre ?",
+      "options": ["50 mL", "200 mL", "250 mL", "150 mL"],
+      "reponse": "50 mL",
+      "explication": "Le volume déplacé (250 - 200) donne le volume de la pierre immergée."
+    },
+    {
+      "question": "Un glaçon fondu devient de l’eau. Ce phénomène est appelé :",
+      "options": ["Fusion", "Évaporation", "Condensation", "Solidification"],
+      "reponse": "Fusion",
+      "explication": "Le passage de l’état solide à l’état liquide est la fusion."
+    },
+    {
+      "question": "Une flaque d’eau disparaît au soleil sans bouillir. Quel phénomène a eu lieu ?",
+      "options": ["Évaporation", "Fusion", "Condensation", "Liquéfaction"],
+      "reponse": "Évaporation",
+      "explication": "Même en dessous de 100 °C, l’eau peut s’évaporer lentement."
+    },
+    {
+      "question": "On place un ballon gonflé au congélateur. Que se passe-t-il ?",
+      "options": ["Il se dégonfle légèrement", "Il explose", "Il reste inchangé", "Il se remplit d’eau"],
+      "reponse": "Il se dégonfle légèrement",
+      "explication": "Le froid ralentit les molécules de gaz, ce qui diminue leur pression."
+    },
+    {
+      "question": "Quelle expérience montre que l’air a une masse ?",
+      "options": ["Peser un ballon vide puis gonflé", "Observer l’eau qui bout", "Regarder une flamme", "Mesurer la température"],
+      "reponse": "Peser un ballon vide puis gonflé",
+      "explication": "La différence de masse prouve que l’air a une masse."
+    },
+    {
+      "question": "On chauffe de l’eau dans une casserole. De la vapeur s’échappe. Cela montre un passage de :",
+      "options": ["Liquide à gaz", "Solide à liquide", "Gaz à liquide", "Liquide à solide"],
+      "reponse": "Liquide à gaz",
+      "explication": "L’eau se transforme en vapeur : c’est la vaporisation."
+    },
+    {
+      "question": "Dans un congélateur, l’eau devient glace. Cette transformation est une :",
+      "options": ["Solidification", "Fusion", "Condensation", "Évaporation"],
+      "reponse": "Solidification",
+      "explication": "L’eau liquide devient un solide : de la glace."
+    },
+    {
+      "question": "On observe de la buée sur un miroir après une douche chaude. C’est un exemple de :",
+      "options": ["Condensation", "Évaporation", "Fusion", "Sublimation"],
+      "reponse": "Condensation",
+      "explication": "La vapeur d’eau se condense en fines gouttelettes sur le miroir."
+    },
+    {
+      "question": "Lors d’une expérience, de la glace est chauffée à 0 °C. Elle reste à cette température jusqu’à sa complète fusion. Pourquoi ?",
+      "options": ["La température reste constante pendant le changement d’état", "Le chauffage est trop lent", "La glace est impure", "Il y a perte d’énergie"],
+      "reponse": "La température reste constante pendant le changement d’état",
+      "explication": "Pendant la fusion, la température ne change pas jusqu’à la fin du processus."
+    },
+    {
+      "question": "Un cube de glace se sublime directement dans une pièce très sèche. Ce phénomène est :",
+      "options": ["Sublimation", "Fusion", "Condensation", "Solidification"],
+      "reponse": "Sublimation",
+      "explication": "La glace passe directement de l’état solide à gazeux."
+    },
+    {
+      "question": "Quelle est la particularité d’un gaz par rapport à un liquide ?",
+      "options": ["Il n’a pas de forme ni de volume propre", "Il a un volume propre", "Il ne se dilate pas", "Il est plus lourd"],
+      "reponse": "Il n’a pas de forme ni de volume propre",
+      "explication": "Le gaz occupe tout l’espace disponible."
+    },
+    {
+      "question": "Un flacon contient de l’éthanol liquide. Le bouchon étant mal fermé, tout s’évapore. Ce changement d’état est :",
+      "options": ["Évaporation", "Condensation", "Fusion", "Liquéfaction"],
+      "reponse": "Évaporation",
+      "explication": "Le liquide devient gaz à température ambiante."
+    },
+    {
+      "question": "Quand l’eau passe de l’état liquide à solide, que devient le volume ?",
+      "options": ["Il augmente légèrement", "Il reste constant", "Il diminue fortement", "Il disparaît"],
+      "reponse": "Il augmente légèrement",
+      "explication": "L’eau est l’un des rares corps dont le volume augmente en gelant."
+    },
+    {
+      "question": "Un verre d’eau placé dans un congélateur gèle. Quelle énergie est extraite ?",
+      "options": ["Énergie thermique", "Énergie chimique", "Énergie lumineuse", "Énergie sonore"],
+      "reponse": "Énergie thermique",
+      "explication": "On enlève de la chaleur pour que l’eau gèle."
+    },
+    {
+      "question": "La vapeur d’eau qui devient liquide sur une paroi froide montre :",
+      "options": ["Une condensation", "Une fusion", "Une évaporation", "Une sublimation"],
+      "reponse": "Une condensation",
+      "explication": "Le gaz devient liquide au contact d’un objet froid."
+    },
+    {
+      "question": "Lorsqu’un corps change d’état, sa masse :",
+      "options": ["Ne change pas", "Augmente", "Diminue", "Devient nulle"],
+      "reponse": "Ne change pas",
+      "explication": "Les changements d’état ne modifient pas la masse."
+    },
+    {
+      "question": "Dans une seringue fermée contenant de l’air, si on pousse le piston :",
+      "options": ["Le volume diminue, la pression augmente", "Le volume augmente", "La masse change", "L’air devient liquide"],
+      "reponse": "Le volume diminue, la pression augmente",
+      "explication": "C’est une propriété des gaz compressibles."
+    },
+    {
+      "question": "Dans un laboratoire, on chauffe un solide. Il se transforme en liquide. Quelle énergie est fournie ?",
+      "options": ["Chaleur", "Électricité", "Son", "Lumière"],
+      "reponse": "Chaleur",
+      "explication": "C’est la chaleur qui provoque les changements d’état."
+    },
+    {
+      "question": "Quel changement d’état consomme de l’énergie thermique ?",
+      "options": ["Vaporisation", "Condensation", "Solidification", "Liquéfaction"],
+      "reponse": "Vaporisation",
+      "explication": "Pour vaporiser un liquide, on doit lui fournir de l’énergie."
+    },
+    {
+      "question": "Lorsqu’un gaz devient liquide, son énergie interne :",
+      "options": ["Diminue", "Augmente", "Ne change pas", "Double"],
+      "reponse": "Diminue",
+      "explication": "Les molécules perdent de l’énergie en se rapprochant."
+    }
+  ]
+}

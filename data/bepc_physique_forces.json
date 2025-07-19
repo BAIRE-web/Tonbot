@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’une force en physique ?",
+      "options": ["Une action capable de modifier le mouvement d’un corps", "Une énergie", "Un poids", "Une masse"],
+      "reponse": "Une action capable de modifier le mouvement d’un corps",
+      "explication": "Une force peut déformer un objet ou modifier sa vitesse ou sa direction."
+    },
+    {
+      "question": "Quelle est l’unité de mesure d’une force ?",
+      "options": ["Le newton (N)", "Le joule (J)", "Le kilogramme (kg)", "Le watt (W)"],
+      "reponse": "Le newton (N)",
+      "explication": "La force se mesure en newton (N), unité du système international."
+    },
+    {
+      "question": "Quel instrument permet de mesurer une force ?",
+      "options": ["Un dynamomètre", "Un voltmètre", "Un thermomètre", "Un baromètre"],
+      "reponse": "Un dynamomètre",
+      "explication": "Le dynamomètre est conçu pour mesurer l’intensité d’une force en newtons."
+    },
+    {
+      "question": "Quel est le symbole utilisé pour désigner une force ?",
+      "options": ["F", "E", "M", "V"],
+      "reponse": "F",
+      "explication": "On utilise la lettre F, souvent suivie d’un indice (ex : Fᵖ pour poids)."
+    },
+    {
+      "question": "Comment représente-t-on une force ?",
+      "options": ["Par un vecteur", "Par un cercle", "Par une croix", "Par un point"],
+      "reponse": "Par un vecteur",
+      "explication": "Une force est représentée par une flèche appelée vecteur."
+    },
+    {
+      "question": "Quel point indique l’endroit où s’applique une force ?",
+      "options": ["Le point d’application", "Le centre de gravité", "L’extrémité", "Le foyer"],
+      "reponse": "Le point d’application",
+      "explication": "C’est à cet endroit que la force agit sur l’objet."
+    },
+    {
+      "question": "La direction d’une force est représentée par :",
+      "options": ["La droite support du vecteur", "La longueur du vecteur", "Le point d’application", "La couleur du vecteur"],
+      "reponse": "La droite support du vecteur",
+      "explication": "La direction est la droite selon laquelle la force agit."
+    },
+    {
+      "question": "Le sens d’une force correspond :",
+      "options": ["Au bout de la flèche", "À l’intensité", "Au nom du vecteur", "À la direction du support"],
+      "reponse": "Au bout de la flèche",
+      "explication": "Le sens est donné par la pointe de la flèche représentant la force."
+    },
+    {
+      "question": "L’intensité d’une force est représentée par :",
+      "options": ["La longueur de la flèche", "Le nom du vecteur", "La masse", "La surface du vecteur"],
+      "reponse": "La longueur de la flèche",
+      "explication": "Plus la flèche est longue, plus la force est grande."
+    },
+    {
+      "question": "Une force de 10 N est représentée par une flèche de 5 cm. Quelle sera la longueur pour 20 N ?",
+      "options": ["10 cm", "20 cm", "2,5 cm", "5 cm"],
+      "reponse": "10 cm",
+      "explication": "Si 10 N = 5 cm, alors 20 N = 10 cm (représentation proportionnelle)."
+    },
+    {
+      "question": "Une force peut modifier :",
+      "options": ["Le mouvement ou la forme d’un objet", "L’intensité du courant", "La température", "La couleur"],
+      "reponse": "Le mouvement ou la forme d’un objet",
+      "explication": "C’est l’effet mécanique d’une force."
+    },
+    {
+      "question": "Une force est une grandeur :",
+      "options": ["Vectorielle", "Scalairе", "Nulle", "Temporelle"],
+      "reponse": "Vectorielle",
+      "explication": "Elle possède une direction, un sens, une intensité et un point d’application."
+    },
+    {
+      "question": "Le poids est une force due à :",
+      "options": ["L’attraction terrestre", "La masse", "L’air", "L’eau"],
+      "reponse": "L’attraction terrestre",
+      "explication": "Le poids est l’attraction exercée par la Terre sur un corps."
+    },
+    {
+      "question": "Quelle formule relie le poids et la masse ?",
+      "options": ["P = m × g", "P = m ÷ g", "P = g ÷ m", "P = g × V"],
+      "reponse": "P = m × g",
+      "explication": "Le poids (P) est égal à la masse (m) multipliée par l’intensité de la pesanteur (g)."
+    },
+    {
+      "question": "L’unité de g (intensité de la pesanteur) est :",
+      "options": ["N/kg", "kg", "m/s", "J"],
+      "reponse": "N/kg",
+      "explication": "g est exprimé en newtons par kilogramme (N/kg)."
+    },
+    {
+      "question": "Sur Terre, la valeur approximative de g est :",
+      "options": ["10 N/kg", "1 N/kg", "9,8 m/s", "100 N/kg"],
+      "reponse": "10 N/kg",
+      "explication": "On arrondit g à 10 N/kg pour faciliter les calculs en 3e."
+    },
+    {
+      "question": "Le vecteur représentant une force commence :",
+      "options": ["Au point d’application", "À l’extrémité de l’objet", "Au milieu de la flèche", "Sur un axe vertical"],
+      "reponse": "Au point d’application",
+      "explication": "C’est à partir de là que la force agit sur l’objet."
+    },
+    {
+      "question": "Un objet est en équilibre si :",
+      "options": ["Les forces qui s’exercent sur lui se compensent", "Il est en mouvement", "Il est suspendu", "Il est vide"],
+      "reponse": "Les forces qui s’exercent sur lui se compensent",
+      "explication": "L’équilibre implique que les forces sont égales et opposées."
+    },
+    {
+      "question": "Quand un objet est immobile et que deux forces s’exercent sur lui, on dit qu’il est en :",
+      "options": ["Équilibre", "Chute", "Mouvement", "Déformation"],
+      "reponse": "Équilibre",
+      "explication": "L’objet est en équilibre si les forces se neutralisent."
+    },
+    {
+      "question": "Une force peut provoquer une déformation :",
+      "options": ["Temporaire ou permanente", "Seulement temporaire", "Seulement permanente", "Jamais"],
+      "reponse": "Temporaire ou permanente",
+      "explication": "Selon le matériau, la déformation peut être réversible ou non."
+    },
+    {
+      "question": "Plus un vecteur est long, plus la force est :",
+      "options": ["Grande", "Petite", "Nulle", "Opposée"],
+      "reponse": "Grande",
+      "explication": "La longueur du vecteur est proportionnelle à l’intensité de la force."
+    },
+    {
+      "question": "Les forces s’additionnent :",
+      "options": ["Vectoriellement", "Par les masses", "En ligne droite", "Par soustraction"],
+      "reponse": "Vectoriellement",
+      "explication": "Les forces étant vectorielles, on les additionne avec direction et sens."
+    },
+    {
+      "question": "Deux forces opposées de même intensité sur un objet donnent :",
+      "options": ["Un équilibre", "Un déplacement", "Une accélération", "Une force résultante"],
+      "reponse": "Un équilibre",
+      "explication": "Elles se compensent et l’objet reste immobile ou continue son mouvement."
+    },
+    {
+      "question": "La direction d’une force correspond à :",
+      "options": ["La ligne sur laquelle elle agit", "Sa couleur", "Le corps qui la subit", "Sa valeur"],
+      "reponse": "La ligne sur laquelle elle agit",
+      "explication": "C’est la droite d’action de la force."
+    },
+    {
+      "question": "Un objet soumis à une seule force non nulle :",
+      "options": ["Subit une accélération", "Reste immobile", "S’effondre", "Disparaît"],
+      "reponse": "Subit une accélération",
+      "explication": "Une force non compensée modifie la vitesse de l’objet."
+    },
+    {
+      "question": "Les forces de contact nécessitent :",
+      "options": ["Un contact entre objets", "Une distance", "Un vecteur horizontal", "Un aimant"],
+      "reponse": "Un contact entre objets",
+      "explication": "Elles s’exercent quand deux objets se touchent."
+    },
+    {
+      "question": "Une force exercée à distance est :",
+      "options": ["La gravitation", "La poussée d’un mur", "Le frottement", "L’élasticité"],
+      "reponse": "La gravitation",
+      "explication": "C’est une force sans contact, comme l’attraction Terre-Lune."
+    },
+    {
+      "question": "Dans une représentation vectorielle, l’échelle permet de :",
+      "options": ["Relier longueur et intensité", "Changer de direction", "Changer le point d’application", "Ignorer l’unité"],
+      "reponse": "Relier longueur et intensité",
+      "explication": "Exemple : 1 cm = 5 N permet une représentation proportionnelle."
+    },
+    {
+      "question": "Une force de frottement agit toujours :",
+      "options": ["Dans le sens opposé au mouvement", "Vers l’avant", "Vers le haut", "Sans direction précise"],
+      "reponse": "Dans le sens opposé au mouvement",
+      "explication": "Elle s’oppose au déplacement de l’objet."
+    },
+    {
+      "question": "Une action mécanique localisée est :",
+      "options": ["Exercée sur une petite surface", "À distance", "Répartie", "Constante"],
+      "reponse": "Exercée sur une petite surface",
+      "explication": "Elle s’applique en un point précis, comme une aiguille qui pique."
+    },
+    {
+      "question": "Une boîte de 2 kg est posée sur une table. Quel est son poids (g = 10 N/kg) ?",
+      "options": ["20 N", "2 N", "200 N", "10 N"],
+      "reponse": "20 N",
+      "explication": "P = m × g = 2 × 10 = 20 N."
+    },
+    {
+      "question": "Un objet est suspendu à un ressort qui s’allonge. Quelle est la force exercée sur le ressort ?",
+      "options": ["Le poids de l’objet", "La masse", "La poussée d’Archimède", "La température"],
+      "reponse": "Le poids de l’objet",
+      "explication": "Le ressort subit une force dirigée vers le bas, égale au poids."
+    },
+    {
+      "question": "Un objet subit deux forces opposées de 5 N. Que fait-il ?",
+      "options": ["Il reste en équilibre", "Il accélère", "Il chute", "Il se déforme"],
+      "reponse": "Il reste en équilibre",
+      "explication": "Les forces se compensent donc la force résultante est nulle."
+    },
+    {
+      "question": "Un vecteur-force de 3 cm représente une force de 15 N. Quelle est l’échelle utilisée ?",
+      "options": ["1 cm → 5 N", "1 cm → 3 N", "1 cm → 15 N", "1 cm → 10 N"],
+      "reponse": "1 cm → 5 N",
+      "explication": "15 ÷ 3 = 5, donc 1 cm représente 5 N."
+    },
+    {
+      "question": "Un dynamomètre indique 8 N. Quelle est la masse de l’objet accroché (g = 10 N/kg) ?",
+      "options": ["0,8 kg", "8 kg", "80 kg", "1,25 kg"],
+      "reponse": "0,8 kg",
+      "explication": "m = P ÷ g = 8 ÷ 10 = 0,8 kg."
+    },
+    {
+      "question": "Un objet est tiré par deux forces : 4 N vers la droite et 2 N vers la gauche. Résultante ?",
+      "options": ["2 N vers la droite", "6 N vers la droite", "2 N vers la gauche", "0 N"],
+      "reponse": "2 N vers la droite",
+      "explication": "4 – 2 = 2 N dans le sens de la plus grande force."
+    },
+    {
+      "question": "Quelle est la force résultante si deux forces de 3 N agissent dans le même sens ?",
+      "options": ["6 N", "0 N", "3 N", "1,5 N"],
+      "reponse": "6 N",
+      "explication": "Les forces s’ajoutent si elles ont la même direction et le même sens."
+    },
+    {
+      "question": "Une force est représentée par une flèche de 6 cm selon une échelle 1 cm → 2 N. Quelle est son intensité ?",
+      "options": ["12 N", "6 N", "3 N", "2 N"],
+      "reponse": "12 N",
+      "explication": "6 × 2 = 12 N."
+    },
+    {
+      "question": "Une corde tire un traîneau vers l’avant avec une force de 40 N. Quelle est l’action exercée ?",
+      "options": ["Force de traction", "Force de frottement", "Force de pression", "Poussée d’Archimède"],
+      "reponse": "Force de traction",
+      "explication": "Une traction est une force de tirage exercée par une corde ou un fil."
+    },
+    {
+      "question": "Un livre est posé sur une table. Il exerce sur elle une force appelée :",
+      "options": ["Poids", "Poussée", "Traction", "Pression d’air"],
+      "reponse": "Poids",
+      "explication": "C’est l’attraction terrestre exercée par le livre vers le bas."
+    },
+    {
+      "question": "Un objet est en équilibre sous l’action de deux forces opposées. Leur intensité est :",
+      "options": ["Égale", "Différente", "Nulle", "Infinie"],
+      "reponse": "Égale",
+      "explication": "Les forces se compensent donc ont même intensité et direction opposée."
+    },
+    {
+      "question": "Un objet subit une force verticale vers le haut de 15 N et une autre vers le bas de 10 N. Résultante ?",
+      "options": ["5 N vers le haut", "25 N vers le haut", "5 N vers le bas", "0 N"],
+      "reponse": "5 N vers le haut",
+      "explication": "15 – 10 = 5 N dans le sens de la plus forte : vers le haut."
+    },
+    {
+      "question": "Un objet de 0,5 kg a un poids de :",
+      "options": ["5 N", "0,5 N", "10 N", "50 N"],
+      "reponse": "5 N",
+      "explication": "P = m × g = 0,5 × 10 = 5 N."
+    },
+    {
+      "question": "Un objet est tiré horizontalement par 10 N. Il glisse à vitesse constante. Que vaut la force de frottement ?",
+      "options": ["10 N", "0 N", "5 N", "20 N"],
+      "reponse": "10 N",
+      "explication": "Mouvement rectiligne uniforme → forces se compensent."
+    },
+    {
+      "question": "Un objet en chute libre subit une force dirigée vers :",
+      "options": ["Le bas", "Le haut", "L’avant", "Le côté"],
+      "reponse": "Le bas",
+      "explication": "La gravité attire toujours les corps vers le bas."
+    },
+    {
+      "question": "Un objet suspendu ne bouge pas. Quelle force s’oppose à son poids ?",
+      "options": ["La tension du fil", "La poussée d’Archimède", "Le frottement de l’air", "La réaction du sol"],
+      "reponse": "La tension du fil",
+      "explication": "La tension du fil compense le poids, l’objet reste en équilibre."
+    },
+    {
+      "question": "Un objet de 2 kg pèse combien sur la Lune (gLune ≈ 1,6 N/kg) ?",
+      "options": ["3,2 N", "20 N", "1,6 N", "12,5 N"],
+      "reponse": "3,2 N",
+      "explication": "P = m × g = 2 × 1,6 = 3,2 N."
+    },
+    {
+      "question": "Un objet de masse m est attiré par la Terre avec une force appelée :",
+      "options": ["Poids", "Masse", "Force de frottement", "Force d’adhérence"],
+      "reponse": "Poids",
+      "explication": "Le poids est la force d’attraction gravitationnelle exercée par la Terre."
+    },
+    {
+      "question": "Un objet repose sur le sol. La réaction du sol est :",
+      "options": ["Opposée au poids", "Égale à la masse", "Supérieure à la masse", "Identique au poids mais dans le même sens"],
+      "reponse": "Opposée au poids",
+      "explication": "Elle agit verticalement vers le haut et compense le poids."
+    },
+    {
+      "question": "Un vecteur de 2 cm correspond à 10 N. Quelle est l’intensité représentée par 5 cm ?",
+      "options": ["25 N", "10 N", "5 N", "20 N"],
+      "reponse": "25 N",
+      "explication": "Si 2 cm → 10 N, alors 1 cm → 5 N → 5 × 5 = 25 N."
+    }
+  ]
+}

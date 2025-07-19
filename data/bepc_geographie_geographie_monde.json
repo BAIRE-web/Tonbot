@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Combien y a-t-il de continents sur Terre ?",
+      "options": ["7", "5", "6", "8"],
+      "reponse": "7",
+      "explication": "Les continents sont : Afrique, Amérique, Antarctique, Asie, Europe, Océanie et Amérique du Sud."
+    },
+    {
+      "question": "Quel est le plus grand continent en superficie ?",
+      "options": ["Asie", "Afrique", "Europe", "Amérique"],
+      "reponse": "Asie",
+      "explication": "L’Asie est le continent le plus vaste du monde."
+    },
+    {
+      "question": "Combien y a-t-il d’océans sur Terre ?",
+      "options": ["5", "3", "4", "6"],
+      "reponse": "5",
+      "explication": "Les océans sont : Atlantique, Pacifique, Indien, Arctique et Antarctique."
+    },
+    {
+      "question": "Quel est le plus grand océan ?",
+      "options": ["Pacifique", "Atlantique", "Indien", "Arctique"],
+      "reponse": "Pacifique",
+      "explication": "L’océan Pacifique est le plus grand et le plus profond."
+    },
+    {
+      "question": "Un pays développé est caractérisé par :",
+      "options": ["Un niveau de vie élevé", "Une agriculture traditionnelle", "Un faible taux d’industrialisation", "Une pauvreté élevée"],
+      "reponse": "Un niveau de vie élevé",
+      "explication": "Les pays développés ont une économie diversifiée et un bon niveau de vie."
+    },
+    {
+      "question": "Quel continent a le plus de pays en développement ?",
+      "options": ["Afrique", "Europe", "Amérique du Nord", "Océanie"],
+      "reponse": "Afrique",
+      "explication": "La majorité des pays en développement se trouvent en Afrique."
+    },
+    {
+      "question": "Lequel des pays suivants est un pays développé ?",
+      "options": ["France", "Burkina Faso", "Niger", "Haïti"],
+      "reponse": "France",
+      "explication": "La France est une économie avancée avec un bon niveau de vie."
+    },
+    {
+      "question": "Quel facteur est souvent un frein au développement des pays ?",
+      "options": ["Conflits armés", "Présence d’eau", "Climat tempéré", "Ressources minières abondantes"],
+      "reponse": "Conflits armés",
+      "explication": "Les conflits freinent la stabilité et le développement économique."
+    },
+    {
+      "question": "Qu’est-ce qu’un pays en développement ?",
+      "options": ["Un pays avec un faible niveau de vie et peu d’industries", "Un pays avec un PIB élevé", "Un pays très industrialisé", "Un pays sans agriculture"],
+      "reponse": "Un pays avec un faible niveau de vie et peu d’industries",
+      "explication": "Ces pays ont un retard économique et social."
+    },
+    {
+      "question": "Quelle est la caractéristique principale d’un pays développé ?",
+      "options": ["Une économie diversifiée et un bon niveau de vie", "Une forte dépendance à l’agriculture", "Un faible taux d’urbanisation", "Une population majoritairement rurale"],
+      "reponse": "Une économie diversifiée et un bon niveau de vie",
+      "explication": "Les pays développés ont des secteurs secondaires et tertiaires importants."
+    },
+    {
+      "question": "Lequel de ces continents est en grande partie composé de pays en développement ?",
+      "options": ["Afrique", "Europe", "Amérique du Nord", "Océanie"],
+      "reponse": "Afrique",
+      "explication": "L’Afrique compte la majorité des pays en développement."
+    },
+    {
+      "question": "Quelle mer sépare l’Afrique de l’Europe ?",
+      "options": ["La Méditerranée", "La Mer Rouge", "La Mer Noire", "La Mer Caspienne"],
+      "reponse": "La Méditerranée",
+      "explication": "La Méditerranée est la mer entre l’Afrique et l’Europe."
+    },
+    {
+      "question": "Quel est le principal océan qui borde l’Afrique à l’ouest ?",
+      "options": ["Atlantique", "Pacifique", "Indien", "Arctique"],
+      "reponse": "Atlantique",
+      "explication": "L’océan Atlantique borde l’Afrique à l’ouest."
+    },
+    {
+      "question": "Quelle est la capitale économique de l’Afrique ?",
+      "options": ["Johannesburg", "Nairobi", "Le Caire", "Lagos"],
+      "reponse": "Johannesburg",
+      "explication": "Johannesburg est la principale place économique en Afrique du Sud."
+    },
+    {
+      "question": "Quel continent est entièrement situé dans l’hémisphère sud ?",
+      "options": ["Antarctique", "Europe", "Asie", "Amérique du Nord"],
+      "reponse": "Antarctique",
+      "explication": "L’Antarctique est situé au sud du globe."
+    },
+    {
+      "question": "Quel océan borde l’Asie à l’est ?",
+      "options": ["Pacifique", "Atlantique", "Indien", "Arctique"],
+      "reponse": "Pacifique",
+      "explication": "L’Asie est bordée par l’océan Pacifique à l’est."
+    },
+    {
+      "question": "Qu’est-ce que l’urbanisation ?",
+      "options": ["Migration des populations vers les villes", "Agriculture intensive", "Déforestation", "Pêche artisanale"],
+      "reponse": "Migration des populations vers les villes",
+      "explication": "L’urbanisation est le processus de concentration de la population dans les villes."
+    },
+    {
+      "question": "Quel continent est considéré comme le berceau de l’humanité ?",
+      "options": ["Afrique", "Europe", "Asie", "Amérique"],
+      "reponse": "Afrique",
+      "explication": "Les premières traces d’Homo sapiens ont été découvertes en Afrique."
+    },
+    {
+      "question": "Quelle est la principale activité économique dans les pays développés ?",
+      "options": ["Industrie et services", "Agriculture traditionnelle", "Exploitation minière", "Pêche artisanale"],
+      "reponse": "Industrie et services",
+      "explication": "Les pays développés ont une économie tournée vers l’industrie et les services."
+    },
+    {
+      "question": "Quels sont les principaux facteurs qui distinguent un pays développé d’un pays en développement ?",
+      "options": ["Niveau de vie, industrialisation, infrastructures", "Climat, langues, culture", "Superficie, densité de population, faune", "Nombre d’îles, montagnes, rivières"],
+      "reponse": "Niveau de vie, industrialisation, infrastructures",
+      "explication": "Ces facteurs reflètent le degré de développement économique et social."
+    },
+    {
+      "question": "Quelle est la capitale de l’Union africaine ?",
+      "options": ["Addis-Abeba", "Le Caire", "Nairobi", "Accra"],
+      "reponse": "Addis-Abeba",
+      "explication": "Addis-Abeba, en Éthiopie, abrite le siège de l’Union africaine."
+    },
+    {
+      "question": "Quel continent est le plus peuplé ?",
+      "options": ["Asie", "Afrique", "Europe", "Amérique"],
+      "reponse": "Asie",
+      "explication": "L’Asie compte plus de 4 milliards d’habitants."
+    },
+    {
+      "question": "Quel est le rôle principal des océans ?",
+      "options": ["Réguler le climat et permettre le commerce maritime", "Fournir de l’électricité", "Produire des minéraux", "Séparer les langues"],
+      "reponse": "Réguler le climat et permettre le commerce maritime",
+      "explication": "Les océans influencent les températures et facilitent les échanges mondiaux."
+    },
+    {
+      "question": "Quel pays est un exemple de pays émergent ?",
+      "options": ["Brésil", "France", "Burkina Faso", "Libéria"],
+      "reponse": "Brésil",
+      "explication": "Les pays émergents ont une croissance économique rapide mais restent en développement."
+    },
+    {
+      "question": "Quelle est la particularité des pays développés ?",
+      "options": ["Forte urbanisation et haut niveau d’éducation", "Faible production industrielle", "Taux élevé d’analphabétisme", "Faible espérance de vie"],
+      "reponse": "Forte urbanisation et haut niveau d’éducation",
+      "explication": "Ces pays ont un accès facile aux services et une économie avancée."
+    },
+    {
+      "question": "Quel continent possède le désert du Sahara ?",
+      "options": ["Afrique", "Asie", "Amérique", "Europe"],
+      "reponse": "Afrique",
+      "explication": "Le Sahara est le plus grand désert chaud du monde, situé en Afrique."
+    },
+    {
+      "question": "Qu’est-ce que la mondialisation ?",
+      "options": ["Interconnexion croissante des économies et cultures", "Isolement des pays", "Fermeture des frontières", "Réduction des échanges commerciaux"],
+      "reponse": "Interconnexion croissante des économies et cultures",
+      "explication": "La mondialisation favorise le commerce et les échanges entre continents."
+    },
+    {
+      "question": "Quelle est la capitale économique de la Chine ?",
+      "options": ["Shanghai", "Pékin", "Hong Kong", "Guangzhou"],
+      "reponse": "Shanghai",
+      "explication": "Shanghai est un centre financier majeur en Asie et dans le monde."
+    },
+    {
+      "question": "Quel est un problème majeur des pays en développement ?",
+      "options": ["Pauvreté et manque d’infrastructures", "Excès d’industries", "Trop de richesse", "Faible croissance démographique"],
+      "reponse": "Pauvreté et manque d’infrastructures",
+      "explication": "Ces problèmes freinent le progrès économique et social."
+    },
+    {
+      "question": "Quel océan borde l’Afrique à l’est ?",
+      "options": ["Indien", "Atlantique", "Pacifique", "Arctique"],
+      "reponse": "Indien",
+      "explication": "L’océan Indien borde la côte est de l’Afrique."
+    }
+  ]
+}

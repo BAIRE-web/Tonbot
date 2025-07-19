@@ -1,0 +1,286 @@
+{
+  "qcm": [
+    {
+      "question": "Quel composant électrique est la source d'énergie dans un circuit ?",
+      "options": ["La pile", "La lampe", "L’interrupteur", "Le fil électrique"],
+      "reponse": "La pile",
+      "explication": "La pile fournit l'énergie nécessaire pour faire circuler le courant électrique."
+    },
+    {
+      "question": "Quel est le rôle d’un interrupteur dans un circuit électrique ?",
+      "options": ["Ouvrir ou fermer le circuit", "Fournir de l'énergie", "Éclairer le circuit", "Relier les composants"],
+      "reponse": "Ouvrir ou fermer le circuit",
+      "explication": "L’interrupteur permet de contrôler le passage du courant en ouvrant ou fermant le circuit."
+    },
+    {
+      "question": "Que fait une lampe dans un circuit électrique ?",
+      "options": ["Elle transforme l’énergie électrique en lumière", "Elle stocke l’énergie", "Elle interrompt le courant", "Elle protège le circuit"],
+      "reponse": "Elle transforme l’énergie électrique en lumière",
+      "explication": "La lampe utilise l’énergie électrique pour produire de la lumière."
+    },
+    {
+      "question": "Quel composant permet de relier tous les éléments d’un circuit électrique ?",
+      "options": ["Le fil électrique", "La pile", "La lampe", "L’interrupteur"],
+      "reponse": "Le fil électrique",
+      "explication": "Les fils électriques conduisent le courant entre les composants."
+    },
+    {
+      "question": "Dans un circuit électrique, que signifie un circuit fermé ?",
+      "options": ["Le courant peut circuler", "Le circuit est cassé", "Le courant est bloqué", "La pile est déchargée"],
+      "reponse": "Le courant peut circuler",
+      "explication": "Un circuit fermé permet au courant de circuler sans interruption."
+    },
+    {
+      "question": "Qu’est-ce qu’un circuit ouvert ?",
+      "options": ["Un circuit interrompu où le courant ne circule pas", "Un circuit où la lampe est allumée", "Un circuit avec une pile déchargée", "Un circuit avec un interrupteur fermé"],
+      "reponse": "Un circuit interrompu où le courant ne circule pas",
+      "explication": "Un circuit ouvert empêche le passage du courant électrique."
+    },
+    {
+      "question": "Comment s’appelle l’unité de mesure de la tension électrique ?",
+      "options": ["Le volt", "L’ampère", "L’ohm", "Le watt"],
+      "reponse": "Le volt",
+      "explication": "La tension se mesure en volts (V) et correspond à la force qui pousse le courant."
+    },
+    {
+      "question": "Quel appareil mesure l’intensité du courant électrique ?",
+      "options": ["L’ampèremètre", "Le voltmètre", "Le multimètre", "Le voltmètre et ampèremètre"],
+      "reponse": "L’ampèremètre",
+      "explication": "L’ampèremètre mesure le courant électrique en ampères."
+    },
+    {
+      "question": "Qu’est-ce qu’une résistance dans un circuit électrique ?",
+      "options": ["Un composant qui limite le passage du courant", "Un générateur d’énergie", "Un interrupteur", "Un fil électrique"],
+      "reponse": "Un composant qui limite le passage du courant",
+      "explication": "La résistance s’oppose au passage du courant, contrôlant son intensité."
+    },
+    {
+      "question": "Quel composant électrique peut s’allumer et s’éteindre ?",
+      "options": ["La lampe", "La pile", "Le fil électrique", "Le voltmètre"],
+      "reponse": "La lampe",
+      "explication": "La lampe éclaire quand le courant passe, sinon elle est éteinte."
+    },
+    {
+      "question": "Que se passe-t-il lorsque l’interrupteur est ouvert ?",
+      "options": ["Le circuit est ouvert, le courant ne circule pas", "Le circuit est fermé, le courant circule", "La lampe s’allume", "La pile produit plus d’énergie"],
+      "reponse": "Le circuit est ouvert, le courant ne circule pas",
+      "explication": "Un interrupteur ouvert interrompt la circulation du courant."
+    },
+    {
+      "question": "Quel est le symbole électrique de la pile dans un schéma ?",
+      "options": ["Deux lignes parallèles, une plus longue que l’autre", "Un cercle", "Une ligne brisée", "Une flèche"],
+      "reponse": "Deux lignes parallèles, une plus longue que l’autre",
+      "explication": "Ce symbole représente la pile, la ligne longue est le pôle positif."
+    },
+    {
+      "question": "Pourquoi utilise-t-on des fils en cuivre dans un circuit électrique ?",
+      "options": ["Parce que le cuivre est un bon conducteur", "Parce que le cuivre est isolant", "Parce que le cuivre produit de l’énergie", "Parce que le cuivre est magnétique"],
+      "reponse": "Parce que le cuivre est un bon conducteur",
+      "explication": "Le cuivre laisse facilement passer le courant électrique."
+    },
+    {
+      "question": "Quelle est la fonction d’un circuit en série ?",
+      "options": ["Les composants sont reliés les uns après les autres", "Chaque composant a sa propre source", "Les composants ne sont pas reliés", "Le courant ne circule pas"],
+      "reponse": "Les composants sont reliés les uns après les autres",
+      "explication": "Dans un circuit en série, le courant traverse chaque composant successivement."
+    },
+    {
+      "question": "Que se passe-t-il si une lampe grille dans un circuit en série ?",
+      "options": ["Le circuit est interrompu, toutes les lampes s’éteignent", "Les autres lampes restent allumées", "Le courant augmente", "La pile se recharge"],
+      "reponse": "Le circuit est interrompu, toutes les lampes s’éteignent",
+      "explication": "En série, une coupure bloque tout le circuit."
+    },
+    {
+      "question": "Dans un circuit en parallèle, si une lampe grille :",
+      "options": ["Les autres lampes continuent de fonctionner", "Toutes les lampes s’éteignent", "La pile s’épuise", "Le courant s’arrête complètement"],
+      "reponse": "Les autres lampes continuent de fonctionner",
+      "explication": "En parallèle, chaque branche est indépendante."
+    },
+    {
+      "question": "Qu’est-ce que l’intensité du courant ?",
+      "options": ["La quantité de charges électriques qui passent par seconde", "La vitesse de la lumière", "La résistance électrique", "La force magnétique"],
+      "reponse": "La quantité de charges électriques qui passent par seconde",
+      "explication": "Elle se mesure en ampères (A)."
+    },
+    {
+      "question": "Que représente le pôle positif d’une pile ?",
+      "options": ["La borne où le courant sort", "La borne où le courant entre", "Un isolant", "Un interrupteur"],
+      "reponse": "La borne où le courant sort",
+      "explication": "Le courant électrique sort par le pôle positif."
+    },
+    {
+      "question": "Quel composant électrique protège un circuit contre les surcharges ?",
+      "options": ["Le fusible", "La pile", "La lampe", "Le fil électrique"],
+      "reponse": "Le fusible",
+      "explication": "Il fond et coupe le circuit si le courant est trop fort."
+    },
+    {
+      "question": "Quel est le rôle du voltmètre ?",
+      "options": ["Mesurer la tension aux bornes d’un composant", "Mesurer l’intensité du courant", "Mesurer la résistance", "Ouvrir le circuit"],
+      "reponse": "Mesurer la tension aux bornes d’un composant",
+      "explication": "Le voltmètre s’utilise en parallèle pour mesurer la tension."
+    },
+    {
+      "question": "Comment branche-t-on un ampèremètre dans un circuit ?",
+      "options": ["En série avec le composant", "En parallèle avec le composant", "En dérivation", "N’importe où"],
+      "reponse": "En série avec le composant",
+      "explication": "L’ampèremètre doit être placé en série pour mesurer le courant qui traverse."
+    },
+    {
+      "question": "Qu’est-ce qui se passe si on inverse les bornes d’une pile dans un circuit simple ?",
+      "options": ["La lampe ne s’allume pas", "Le circuit fonctionne normalement", "La pile explose", "Le fil fond"],
+      "reponse": "La lampe ne s’allume pas",
+      "explication": "Le courant ne circule pas si la pile est inversée."
+    },
+    {
+      "question": "Lequel de ces composants n’est pas un composant passif ?",
+      "options": ["La pile", "La lampe", "Le fil électrique", "La résistance"],
+      "reponse": "La pile",
+      "explication": "La pile est un générateur, les autres ne produisent pas d’énergie."
+    },
+    {
+      "question": "Quelle grandeur électrique mesure-t-on avec un ohmmètre ?",
+      "options": ["La résistance", "La tension", "L’intensité", "La puissance"],
+      "reponse": "La résistance",
+      "explication": "L’ohmmètre mesure la résistance en ohms (Ω)."
+    },
+    {
+      "question": "Dans un circuit électrique, que signifie 'court-circuit' ?",
+      "options": ["Un passage direct du courant sans résistance", "Un circuit ouvert", "Une coupure volontaire", "Un composant défectueux"],
+      "reponse": "Un passage direct du courant sans résistance",
+      "explication": "Cela peut provoquer une surintensité dangereuse."
+    },
+    {
+      "question": "Pourquoi doit-on isoler les fils électriques ?",
+      "options": ["Pour éviter les contacts et les courts-circuits", "Pour augmenter le courant", "Pour refroidir le circuit", "Pour mesurer la tension"],
+      "reponse": "Pour éviter les contacts et les courts-circuits",
+      "explication": "L’isolant empêche le contact entre fils et protège des dangers."
+    },
+    {
+      "question": "Quel est le rôle principal d’un circuit électrique simple ?",
+      "options": ["Permettre le passage du courant électrique", "Stocker de l’énergie", "Produire de la lumière sans courant", "Convertir la lumière en électricité"],
+      "reponse": "Permettre le passage du courant électrique",
+      "explication": "Le circuit permet au courant de circuler entre les composants."
+    },
+    {
+     "question": "Que se passe-t-il lorsque l’interrupteur est ouvert dans un circuit ?",
+      "options": ["Le courant ne circule pas", "La lampe s’allume", "La pile se recharge", "Le courant augmente"],
+      "reponse": "Le courant ne circule pas",
+      "explication": "Un interrupteur ouvert interrompt le circuit, empêchant le courant de passer."
+    },
+    {
+      "question": "Dans un circuit simple, quel composant contrôle l’allumage de la lampe ?",
+      "options": ["L’interrupteur", "La pile", "Le fil électrique", "La résistance"],
+      "reponse": "L’interrupteur",
+      "explication": "L’interrupteur permet d’ouvrir ou fermer le circuit pour allumer ou éteindre la lampe."
+    },
+    {
+      "question": "Si une lampe ne s’allume pas alors que le circuit semble fermé, quelle est la cause probable ?",
+      "options": ["La lampe est grillée", "La pile est neuve", "Le fil est en cuivre", "L’interrupteur est fermé"],
+      "reponse": "La lampe est grillée",
+      "explication": "Une lampe grillée empêche le passage du courant dans le circuit."
+    },
+    {
+      "question": "Quel est le rôle principal de la pile dans un circuit électrique ?",
+      "options": ["Fournir de l’énergie au circuit", "Interrompre le courant", "Mesurer la tension", "Relier les composants"],
+      "reponse": "Fournir de l’énergie au circuit",
+      "explication": "La pile produit la différence de potentiel nécessaire pour faire circuler le courant."
+    },
+    {
+      "question": "Comment s’appelle le composant qui relie les différentes parties d’un circuit ?",
+      "options": ["Le fil électrique", "La lampe", "La pile", "L’interrupteur"],
+      "reponse": "Le fil électrique",
+      "explication": "Les fils assurent la conduction du courant entre les composants."
+    },
+    {
+      "question": "Dans un circuit en série, que se passe-t-il si un composant est défectueux ?",
+      "options": ["Le courant est interrompu dans tout le circuit", "Le courant augmente", "Le courant passe uniquement par les autres composants", "Le circuit se ferme automatiquement"],
+      "reponse": "Le courant est interrompu dans tout le circuit",
+      "explication": "Une défaillance bloque la circulation du courant dans un circuit en série."
+    },
+    {
+      "question": "Quelle grandeur électrique mesure-t-on avec un voltmètre ?",
+      "options": ["La tension", "L’intensité", "La résistance", "La puissance"],
+      "reponse": "La tension",
+      "explication": "Le voltmètre mesure la différence de potentiel (tension) entre deux points."
+    },
+    {
+      "question": "Pourquoi les fils électriques sont-ils isolés ?",
+      "options": ["Pour éviter les courts-circuits", "Pour augmenter le courant", "Pour produire de la lumière", "Pour protéger la pile"],
+      "reponse": "Pour éviter les courts-circuits",
+      "explication": "L’isolant empêche le contact entre fils et protège contre les chocs électriques."
+    },
+    {
+      "question": "Quel appareil utilise-t-on pour mesurer l’intensité du courant ?",
+      "options": ["L’ampèremètre", "Le voltmètre", "L’ohmmètre", "Le multimètre"],
+      "reponse": "L’ampèremètre",
+      "explication": "L’ampèremètre mesure l’intensité en ampères (A)."
+    },
+    {
+      "question": "Dans un circuit électrique, qu’est-ce qu’un court-circuit ?",
+      "options": ["Un passage direct du courant sans résistance", "Une coupure dans le circuit", "Une lampe grillée", "Un interrupteur fermé"],
+      "reponse": "Un passage direct du courant sans résistance",
+      "explication": "Cela provoque une surintensité pouvant endommager le circuit."
+    },
+    {
+      "question": "Qu’est-ce que la tension électrique ?",
+      "options": ["La force qui pousse le courant dans le circuit", "La vitesse du courant", "La quantité d’électricité", "La résistance au courant"],
+      "reponse": "La force qui pousse le courant dans le circuit",
+      "explication": "La tension se mesure en volts et correspond à la différence de potentiel."
+    },
+    {
+      "question": "Quel est le rôle d’un fusible dans un circuit électrique ?",
+      "options": ["Protéger le circuit en coupant le courant en cas de surcharge", "Augmenter la tension", "Allumer la lampe", "Fournir de l’énergie"],
+      "reponse": "Protéger le circuit en coupant le courant en cas de surcharge",
+      "explication": "Le fusible fond et interrompt le circuit pour éviter les dégâts."
+    },
+    {
+      "question": "Comment branche-t-on un ampèremètre dans un circuit ?",
+      "options": ["En série", "En parallèle", "N’importe où", "En dérivation"],
+      "reponse": "En série",
+      "explication": "L’ampèremètre doit être placé en série pour mesurer le courant traversant un composant."
+    },
+    {
+      "question": "Dans un circuit, que signifie un circuit fermé ?",
+      "options": ["Le courant circule", "Le courant est interrompu", "La pile est vide", "L’interrupteur est ouvert"],
+      "reponse": "Le courant circule",
+      "explication": "Un circuit fermé permet au courant de passer librement."
+    },
+    {
+      "question": "Quel est le symbole électrique utilisé pour représenter une lampe dans un schéma ?",
+      "options": ["Un cercle avec une croix à l’intérieur", "Un rectangle", "Une ligne droite", "Un triangle"],
+      "reponse": "Un cercle avec une croix à l’intérieur",
+      "explication": "Ce symbole représente une lampe électrique dans un schéma."
+    },
+    {
+      "question": "Pourquoi une pile a-t-elle un pôle positif et un pôle négatif ?",
+      "options": ["Pour créer une différence de potentiel", "Pour éviter les courts-circuits", "Pour stocker l’énergie", "Pour protéger le circuit"],
+      "reponse": "Pour créer une différence de potentiel",
+      "explication": "Cette différence permet au courant de circuler dans le circuit."
+    },
+    {
+      "question": "Qu’est-ce qu’une résistance dans un circuit ?",
+      "options": ["Un composant qui limite le passage du courant", "Une source d’énergie", "Un interrupteur", "Un fil conducteur"],
+      "reponse": "Un composant qui limite le passage du courant",
+      "explication": "La résistance contrôle l’intensité du courant."
+    },
+    {
+      "question": "Quel est le rôle d’un interrupteur dans un circuit ?",
+      "options": ["Permet d’ouvrir ou fermer le circuit", "Augmente la tension", "Mesure le courant", "Protège le circuit"],
+      "reponse": "Permet d’ouvrir ou fermer le circuit",
+      "explication": "Il contrôle le passage du courant en fonction de sa position."
+    },
+    {
+      "question": "Que se passe-t-il dans un circuit en parallèle si une lampe grille ?",
+      "options": ["Les autres lampes restent allumées", "Toutes les lampes s’éteignent", "La pile se décharge", "Le courant s’arrête"],
+      "reponse": "Les autres lampes restent allumées",
+      "explication": "Les branches sont indépendantes, donc une panne n’affecte pas les autres."
+    },
+    {
+      "question": "Pourquoi faut-il éviter les courts-circuits ?",
+      "options": ["Ils peuvent provoquer des surintensités dangereuses", "Ils améliorent la conduction", "Ils allument la lampe", "Ils protègent la pile"],
+      "reponse": "Ils peuvent provoquer des surintensités dangereuses",
+      "explication": "Un court-circuit peut endommager les composants et causer un incendie."
+    }
+  ]
+}

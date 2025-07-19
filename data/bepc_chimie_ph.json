@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Le pH d’une solution acide est :",
+      "options": ["Inférieur à 7", "Égal à 7", "Supérieur à 7", "Toujours égal à 1"],
+      "reponse": "Inférieur à 7",
+      "explication": "Les acides ont un pH strictement inférieur à 7."
+    },
+    {
+      "question": "Le pH d’une solution basique est :",
+      "options": ["Supérieur à 7", "Inférieur à 7", "Égal à 7", "Toujours égal à 10"],
+      "reponse": "Supérieur à 7",
+      "explication": "Les bases ont un pH supérieur à 7."
+    },
+    {
+      "question": "Une solution est dite neutre si son pH est :",
+      "options": ["7", "0", "14", "4"],
+      "reponse": "7",
+      "explication": "Une solution neutre a un pH exactement égal à 7, comme l’eau pure."
+    },
+    {
+      "question": "Le jus de citron a un pH de 3. Cela signifie qu’il est :",
+      "options": ["Acide", "Neutre", "Basique", "Salé"],
+      "reponse": "Acide",
+      "explication": "Un pH de 3 est bien inférieur à 7, c’est donc un acide."
+    },
+    {
+      "question": "L’eau de Javel a un pH de 12. C’est donc une solution :",
+      "options": ["Basique", "Acide", "Neutre", "Salée"],
+      "reponse": "Basique",
+      "explication": "Un pH supérieur à 7 indique une solution basique (ou alcaline)."
+    },
+    {
+      "question": "Un indicateur coloré permet de :",
+      "options": ["Déterminer si une solution est acide ou basique", "Mesurer la température", "Filtrer une solution", "Produire un gaz"],
+      "reponse": "Déterminer si une solution est acide ou basique",
+      "explication": "Un indicateur change de couleur selon le pH de la solution."
+    },
+    {
+      "question": "Le papier pH est un outil utilisé pour :",
+      "options": ["Mesurer l’acidité ou la basicité", "Mesurer le volume", "Filtrer les solides", "Séparer les liquides"],
+      "reponse": "Mesurer l’acidité ou la basicité",
+      "explication": "Il change de couleur en fonction du pH de la solution testée."
+    },
+    {
+      "question": "Une solution avec un pH de 7 est :",
+      "options": ["Neutre", "Très acide", "Très basique", "Instable"],
+      "reponse": "Neutre",
+      "explication": "C’est la définition même d’un milieu neutre."
+    },
+    {
+      "question": "Quel est le rôle du papier tournesol rouge ?",
+      "options": ["Il devient bleu dans une base", "Il devient rouge dans une base", "Il change dans un acide seulement", "Il réagit à la température"],
+      "reponse": "Il devient bleu dans une base",
+      "explication": "Le papier tournesol rouge devient bleu en présence de base."
+    },
+    {
+      "question": "Un élève introduit du papier pH dans une solution qui vire au rouge. Que peut-on conclure ?",
+      "options": ["La solution est acide", "La solution est basique", "Elle est neutre", "Elle est gazeuse"],
+      "reponse": "La solution est acide",
+      "explication": "Un pH rouge indique un pH faible, donc acide."
+    },
+    {
+      "question": "Quelle est l’échelle de mesure du pH ?",
+      "options": ["De 0 à 14", "De 1 à 10", "De -10 à 10", "De 0 à 100"],
+      "reponse": "De 0 à 14",
+      "explication": "L’échelle du pH va de 0 (acide fort) à 14 (base forte)."
+    },
+    {
+      "question": "Un produit ménager avec pH = 11 est :",
+      "options": ["Basique", "Neutre", "Acide", "Oxydant"],
+      "reponse": "Basique",
+      "explication": "Un pH supérieur à 7 indique un caractère basique."
+    },
+    {
+      "question": "Quel indicateur change du rouge au bleu selon le pH ?",
+      "options": ["Le papier tournesol", "Le thermomètre", "Le chlorure de sodium", "Le sulfate de cuivre"],
+      "reponse": "Le papier tournesol",
+      "explication": "Il vire au bleu dans les bases et reste rouge dans les acides."
+    },
+    {
+      "question": "Quel indicateur peut être utilisé dans une école pour mesurer le pH ?",
+      "options": ["Le jus de chou rouge", "Un voltmètre", "Un thermomètre", "L’eau distillée"],
+      "reponse": "Le jus de chou rouge",
+      "explication": "Le jus de chou rouge est un indicateur naturel de pH."
+    },
+    {
+      "question": "Une solution basique forte a un pH de :",
+      "options": ["Environ 13", "Environ 5", "Proche de 7", "Inférieur à 3"],
+      "reponse": "Environ 13",
+      "explication": "Plus le pH est élevé, plus la base est forte."
+    },
+    {
+      "question": "Quel liquide est neutre parmi les suivants ?",
+      "options": ["Eau distillée", "Jus d’orange", "Savon liquide", "Acide chlorhydrique"],
+      "reponse": "Eau distillée",
+      "explication": "L’eau pure a un pH neutre de 7."
+    },
+    {
+      "question": "Un élève mesure le pH d’une boisson gazeuse et obtient 4. Cela signifie :",
+      "options": ["Elle est acide", "Elle est basique", "Elle est neutre", "Elle est gazeuse seulement"],
+      "reponse": "Elle est acide",
+      "explication": "Le pH 4 est inférieur à 7 : la boisson est acide."
+    },
+    {
+      "question": "Les bases sont souvent :",
+      "options": ["Irritantes et caustiques", "Inoffensives", "Toujours sucrées", "Salées uniquement"],
+      "reponse": "Irritantes et caustiques",
+      "explication": "Les bases fortes comme la soude peuvent être dangereuses."
+    },
+    {
+      "question": "Les acides forts peuvent :",
+      "options": ["Attaquer les métaux", "Neutraliser les bases", "Avoir un pH proche de 0", "Toutes les réponses"],
+      "reponse": "Toutes les réponses",
+      "explication": "Les acides forts réagissent avec les métaux, les bases, et ont un pH très bas."
+    },
+    {
+      "question": "Si une solution basique est mélangée à une solution acide :",
+      "options": ["Le pH peut devenir neutre", "Le pH augmente toujours", "Le mélange explose", "Le pH devient 0"],
+      "reponse": "Le pH peut devenir neutre",
+      "explication": "On parle de neutralisation acide-base, le pH peut se stabiliser vers 7."
+    },
+    {
+      "question": "Quel pH correspond à un acide fort ?",
+      "options": ["1", "5", "7", "12"],
+      "reponse": "1",
+      "explication": "Plus le pH est bas, plus l’acide est fort."
+    },
+    {
+      "question": "Quel pH correspond à une base forte ?",
+      "options": ["13", "9", "6", "3"],
+      "reponse": "13",
+      "explication": "Plus le pH est élevé, plus la base est forte."
+    },
+    {
+      "question": "Les indicateurs colorés réagissent à :",
+      "options": ["L’acidité ou la basicité", "La température", "Le volume", "La densité"],
+      "reponse": "L’acidité ou la basicité",
+      "explication": "Ils changent de couleur selon le pH."
+    },
+    {
+      "question": "Quel indicateur naturel peut-on extraire du chou rouge ?",
+      "options": ["Un indicateur de pH", "Une base forte", "Un sucre", "Un colorant alimentaire"],
+      "reponse": "Un indicateur de pH",
+      "explication": "Il contient des pigments sensibles au pH."
+    },
+    {
+      "question": "Quelle solution est la plus acide ?",
+      "options": ["Coca-cola (pH 2,5)", "Lait (pH 6,5)", "Eau (pH 7)", "Savon (pH 9)"],
+      "reponse": "Coca-cola (pH 2,5)",
+      "explication": "C’est la solution avec le pH le plus bas donc la plus acide."
+    },
+    {
+      "question": "Les produits ménagers comme la soude sont :",
+      "options": ["Basique", "Acide", "Neutre", "Inerte"],
+      "reponse": "Basique",
+      "explication": "Ce sont souvent des bases fortes avec un pH > 10."
+    },
+    {
+      "question": "Quel est le pH d’un acide chlorhydrique concentré ?",
+      "options": ["Proche de 0", "Proche de 7", "Proche de 14", "Inconnu"],
+      "reponse": "Proche de 0",
+      "explication": "C’est un acide très fort."
+    },
+    {
+      "question": "Pour mesurer le pH avec précision, on utilise :",
+      "options": ["Un pH-mètre", "Un thermomètre", "Une balance", "Un voltmètre"],
+      "reponse": "Un pH-mètre",
+      "explication": "Il donne une mesure numérique précise du pH."
+    },
+    {
+      "question": "Les acides et les bases réagissent ensemble pour former :",
+      "options": ["Un sel et de l’eau", "De la chaleur uniquement", "Du gaz carbonique", "Un précipité"],
+      "reponse": "Un sel et de l’eau",
+      "explication": "C’est la neutralisation acide-base."
+    },
+    {
+      "question": "Le savon est un exemple courant de :",
+      "options": ["Base", "Acide", "Gaz", "Mélange neutre"],
+      "reponse": "Base",
+      "explication": "Le savon a un pH basique (environ 9 à 10)."
+    },
+    {
+      "question": "Une élève teste trois liquides : le jus de citron (pH 3), l’eau du robinet (pH 7) et la lessive (pH 11). Lequel est acide ?",
+      "options": ["Jus de citron", "Eau du robinet", "Lessive", "Aucun"],
+      "reponse": "Jus de citron",
+      "explication": "Le jus de citron a un pH inférieur à 7, donc acide."
+    },
+    {
+      "question": "Un élève trempe du papier tournesol bleu dans une solution. Le papier devient rouge. Que peut-on conclure ?",
+      "options": ["La solution est acide", "La solution est basique", "La solution est neutre", "La solution est de l’eau"],
+      "reponse": "La solution est acide",
+      "explication": "Le tournesol bleu vire au rouge dans un milieu acide."
+    },
+    {
+      "question": "Une solution a un pH de 8. Elle est donc :",
+      "options": ["Légèrement basique", "Très acide", "Neutre", "Très basique"],
+      "reponse": "Légèrement basique",
+      "explication": "Un pH juste au-dessus de 7 indique une base faible."
+    },
+    {
+      "question": "Quel liquide parmi ceux-ci aura le pH le plus élevé ?",
+      "options": ["Eau de javel", "Jus d’orange", "Eau distillée", "Vinaigre"],
+      "reponse": "Eau de javel",
+      "explication": "L’eau de javel est fortement basique (pH ~12)."
+    },
+    {
+      "question": "Le jus de chou rouge vire au vert dans une solution. Cela signifie que cette solution est :",
+      "options": ["Basique", "Acide", "Neutre", "Salée"],
+      "reponse": "Basique",
+      "explication": "Dans un milieu basique, le chou rouge peut virer au vert selon le pH."
+    },
+    {
+      "question": "Une élève mélange une base forte avec un acide fort. Le pH du mélange devient 7. Quelle est cette réaction ?",
+      "options": ["Neutralisation", "Oxydation", "Filtration", "Fusion"],
+      "reponse": "Neutralisation",
+      "explication": "C’est une réaction acide-base qui donne un milieu neutre."
+    },
+    {
+      "question": "Un liquide a un pH = 6. Cela signifie qu’il est :",
+      "options": ["Faiblement acide", "Fortement basique", "Neutre", "Fortement acide"],
+      "reponse": "Faiblement acide",
+      "explication": "Plus proche de 7 donc acide faible."
+    },
+    {
+      "question": "Dans une activité, l’élève classe 4 liquides : savon, citron, eau, coca. Quel est l’ordre croissant du pH ?",
+      "options": ["Citron < Coca < Eau < Savon", "Savon < Eau < Coca < Citron", "Coca < Eau < Citron < Savon", "Citron < Savon < Coca < Eau"],
+      "reponse": "Citron < Coca < Eau < Savon",
+      "explication": "Citron très acide, coca acide, eau neutre, savon basique."
+    },
+    {
+      "question": "Quel indicateur permet de suivre l’évolution du pH pendant une réaction ?",
+      "options": ["Papier pH", "Thermomètre", "Tamis", "Balance"],
+      "reponse": "Papier pH",
+      "explication": "Il change de couleur en fonction du pH."
+    },
+    {
+      "question": "Une élève chauffe une base forte. Cela :",
+      "options": ["Ne change pas son pH", "Rend la solution acide", "Augmente la température mais pas le pH", "Neutralise la base"],
+      "reponse": "Ne change pas son pH",
+      "explication": "Le chauffage n’affecte pas la basicité directement."
+    },
+    {
+      "question": "Quel liquide peut avoir un pH supérieur à 12 ?",
+      "options": ["Soude caustique", "Jus de citron", "Eau potable", "Café"],
+      "reponse": "Soude caustique",
+      "explication": "C’est une base très forte avec un pH proche de 14."
+    },
+    {
+      "question": "Que peut-on dire d’une solution qui ne change pas la couleur du papier tournesol ?",
+      "options": ["Elle est neutre", "Elle est gazeuse", "Elle est instable", "Elle est toxique"],
+      "reponse": "Elle est neutre",
+      "explication": "Le papier reste inchangé dans une solution neutre."
+    },
+    {
+      "question": "Quel liquide parmi les suivants est basique ?",
+      "options": ["Eau savonneuse", "Jus d’orange", "Soda", "Vinaigre"],
+      "reponse": "Eau savonneuse",
+      "explication": "Les savons sont des bases."
+    },
+    {
+      "question": "Une base est mise en contact avec un indicateur universel. Le liquide devient bleu. On peut conclure que :",
+      "options": ["La solution est basique", "La solution est acide", "Elle est neutre", "Elle est instable"],
+      "reponse": "La solution est basique",
+      "explication": "L’indicateur universel vire au bleu en milieu basique."
+    },
+    {
+      "question": "Une élève confond le vinaigre et l’eau. Comment les différencier ?",
+      "options": ["Tester leur pH", "Observer la couleur", "Peser les liquides", "Chauffer à 100°C"],
+      "reponse": "Tester leur pH",
+      "explication": "Le vinaigre est acide (pH ~3) ; l’eau est neutre (pH = 7)."
+    },
+    {
+      "question": "Quel élément est souvent utilisé pour neutraliser une piqûre acide ?",
+      "options": ["Une base douce", "Un acide fort", "De l’eau salée", "Du sucre"],
+      "reponse": "Une base douce",
+      "explication": "Une base peut neutraliser un acide."
+    },
+    {
+      "question": "L’eau gazeuse a un pH proche de :",
+      "options": ["5 à 6", "0 à 1", "10 à 12", "7 exactement"],
+      "reponse": "5 à 6",
+      "explication": "Le dioxyde de carbone rend l’eau légèrement acide."
+    },
+    {
+      "question": "Le bicarbonate de sodium est :",
+      "options": ["Une base", "Un acide", "Un sel neutre", "Un colorant"],
+      "reponse": "Une base",
+      "explication": "Il est légèrement basique, utilisé contre l’acidité gastrique."
+    },
+    {
+      "question": "Lors d'une manipulation, un élève mélange de l’acide citrique et du bicarbonate. Il observe un dégagement gazeux. Quelle est la réaction ?",
+      "options": ["Réaction acide-base", "Dissolution", "Évaporation", "Condensation"],
+      "reponse": "Réaction acide-base",
+      "explication": "Acide + base → dégagement de CO₂ + sel + eau."
+    },
+    {
+      "question": "Une solution avec un pH de 10 est :",
+      "options": ["Basique faible", "Basique fort", "Acide fort", "Neutre"],
+      "reponse": "Basique faible",
+      "explication": "Elle est un peu basique, mais pas fortement (pH > 11)."
+    }
+  ]
+}

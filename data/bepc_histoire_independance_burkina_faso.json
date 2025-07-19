@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "En quelle année la Haute-Volta devient-elle indépendante ?",
+      "options": ["1960", "1958", "1983", "1947"],
+      "reponse": "1960",
+      "explication": "La Haute-Volta accède à l’indépendance le 5 août 1960."
+    },
+    {
+      "question": "Quel est le nom actuel de la Haute-Volta ?",
+      "options": ["Burkina Faso", "Côte d’Ivoire", "Ghana", "Togo"],
+      "reponse": "Burkina Faso",
+      "explication": "Le pays a été renommé Burkina Faso par Thomas Sankara en 1984."
+    },
+    {
+      "question": "Que signifie 'Burkina Faso' ?",
+      "options": ["Pays des hommes intègres", "Pays de paix", "Terre d’espoir", "Nation libre"],
+      "reponse": "Pays des hommes intègres",
+      "explication": "Ce nom reflète la volonté de moralisation et d'intégrité sous la révolution."
+    },
+    {
+      "question": "Qui est Thomas Sankara ?",
+      "options": ["Un président révolutionnaire du Burkina Faso", "Un chanteur célèbre", "Un colon français", "Un roi traditionnel"],
+      "reponse": "Un président révolutionnaire du Burkina Faso",
+      "explication": "Thomas Sankara est arrivé au pouvoir en 1983 après un coup d’État et a lancé la révolution burkinabè."
+    },
+    {
+      "question": "Quelle année marque le début de la Révolution menée par Sankara ?",
+      "options": ["1983", "1960", "1987", "1991"],
+      "reponse": "1983",
+      "explication": "Sankara prend le pouvoir le 4 août 1983 avec l’appui de jeunes militaires."
+    },
+    {
+      "question": "Quel changement de nom Sankara a-t-il apporté en 1984 ?",
+      "options": ["Haute-Volta devient Burkina Faso", "Ouagadougou devient Faso", "Afrique-Volta devient Faso", "Rien n’a changé"],
+      "reponse": "Haute-Volta devient Burkina Faso",
+      "explication": "C’est un acte symbolique fort du processus révolutionnaire."
+    },
+    {
+      "question": "Quel était l’objectif principal de la révolution sankariste ?",
+      "options": ["Justice sociale et indépendance réelle", "Colonisation moderne", "Domination militaire", "Soumission au FMI"],
+      "reponse": "Justice sociale et indépendance réelle",
+      "explication": "Sankara voulait libérer le pays de la dépendance économique et des injustices."
+    },
+    {
+      "question": "Quelle réforme importante Sankara a-t-il lancée pour les femmes ?",
+      "options": ["Lutte contre les mariages forcés et valorisation des droits des femmes", "Suppression de l’école", "Interdiction de travailler", "Exclusion du pouvoir"],
+      "reponse": "Lutte contre les mariages forcés et valorisation des droits des femmes",
+      "explication": "Il a favorisé l’émancipation des femmes dans tous les domaines."
+    },
+    {
+      "question": "Quelles structures populaires ont été créées sous Sankara ?",
+      "options": ["Comités de Défense de la Révolution (CDR)", "ONG étrangères", "Colonies agricoles", "Partis européens"],
+      "reponse": "Comités de Défense de la Révolution (CDR)",
+      "explication": "Les CDR étaient des organes populaires pour mobiliser la population."
+    },
+    {
+      "question": "Pourquoi Sankara est-il souvent surnommé 'le Che africain' ?",
+      "options": ["Pour sa pensée révolutionnaire et anti-impérialiste", "Parce qu’il aimait Cuba", "Parce qu’il portait des lunettes", "Parce qu’il était dictateur"],
+      "reponse": "Pour sa pensée révolutionnaire et anti-impérialiste",
+      "explication": "Il partageait avec Che Guevara l'idéal d’une révolution populaire et panafricaine."
+    },
+    {
+      "question": "Quelle fut la fin tragique de Thomas Sankara ?",
+      "options": ["Il fut assassiné lors d’un coup d’État en 1987", "Il est mort de maladie", "Il a démissionné", "Il est parti en exil"],
+      "reponse": "Il fut assassiné lors d’un coup d’État en 1987",
+      "explication": "Le 15 octobre 1987, il est tué lors d’un putsch mené par Blaise Compaoré."
+    },
+    {
+      "question": "Qui a pris le pouvoir après la mort de Sankara ?",
+      "options": ["Blaise Compaoré", "Jean-Baptiste Ouédraogo", "Kafando", "Roch Kaboré"],
+      "reponse": "Blaise Compaoré",
+      "explication": "Blaise Compaoré dirigea le pays pendant 27 ans après l’assassinat de Sankara."
+    },
+    {
+      "question": "Comment qualifie-t-on le régime de Compaoré ?",
+      "options": ["Autoritaire et long", "Très démocratique", "Théocratique", "Colonial"],
+      "reponse": "Autoritaire et long",
+      "explication": "Il est resté au pouvoir de 1987 à 2014, souvent critiqué pour la répression politique."
+    },
+    {
+      "question": "Quelle réforme économique a été menée sous Compaoré ?",
+      "options": ["Libéralisation de l’économie", "Retour au socialisme", "Suppression de la monnaie", "Économie informelle interdite"],
+      "reponse": "Libéralisation de l’économie",
+      "explication": "Compaoré s’est rapproché des institutions internationales comme le FMI."
+    },
+    {
+      "question": "En quelle année Compaoré est-il renversé ?",
+      "options": ["2014", "2015", "2010", "2020"],
+      "reponse": "2014",
+      "explication": "Une insurrection populaire a mis fin à son régime après sa tentative de modifier la Constitution."
+    },
+    {
+      "question": "Qui assure la transition après la chute de Compaoré ?",
+      "options": ["Michel Kafando", "Thomas Sankara", "Roch Kaboré", "Zida seul"],
+      "reponse": "Michel Kafando",
+      "explication": "Michel Kafando a dirigé la transition de 2014 à 2015 en tant que président civil de transition."
+    },
+    {
+      "question": "Quel président est élu en 2015 ?",
+      "options": ["Roch Marc Christian Kaboré", "Compaoré", "Zéphirin Diabré", "Salif Diallo"],
+      "reponse": "Roch Marc Christian Kaboré",
+      "explication": "Roch Kaboré est élu président après les élections libres de 2015."
+    },
+    {
+      "question": "Quel est le principal défi rencontré par le Burkina Faso depuis 2015 ?",
+      "options": ["Le terrorisme", "Les cyclones", "La guerre civile", "La sécheresse totale"],
+      "reponse": "Le terrorisme",
+      "explication": "Le pays fait face à des attaques djihadistes dans plusieurs régions."
+    },
+    {
+      "question": "Quel événement politique a eu lieu en janvier 2022 ?",
+      "options": ["Un coup d’État militaire", "Élection présidentielle", "Réforme foncière", "Départ volontaire du président"],
+      "reponse": "Un coup d’État militaire",
+      "explication": "Le président Kaboré est renversé par un groupe de militaires dirigé par le lieutenant-colonel Damiba."
+    },
+    {
+      "question": "Qui prend le pouvoir après Damiba en septembre 2022 ?",
+      "options": ["Ibrahim Traoré", "Zéphirin Diabré", "Compaoré", "Saran Sérémé"],
+      "reponse": "Ibrahim Traoré",
+      "explication": "Le capitaine Ibrahim Traoré renverse Damiba lors d’un second coup d’État."
+    },
+    {
+      "question": "Quel est l’objectif affiché par le régime de Traoré ?",
+      "options": ["Restaurer la sécurité et la souveraineté", "Renouer avec la colonisation", "Créer une monarchie", "Quitter le Burkina Faso"],
+      "reponse": "Restaurer la sécurité et la souveraineté",
+      "explication": "Le capitaine Traoré met en avant une lutte contre l’insécurité et le terrorisme."
+    },
+    {
+      "question": "Comment est organisée la transition actuelle ?",
+      "options": ["Par une charte de transition", "Par la Constitution de 1991", "Par les anciens députés", "Par un référendum populaire"],
+      "reponse": "Par une charte de transition",
+      "explication": "Un gouvernement de transition a été mis en place sous supervision militaire."
+    },
+    {
+      "question": "Quel est l’un des slogans utilisés par le régime de transition ?",
+      "options": ["La patrie ou la mort, nous vaincrons", "Liberté ou esclavage", "Colonisation pour tous", "Un roi, un peuple"],
+      "reponse": "La patrie ou la mort, nous vaincrons",
+      "explication": "Ce slogan emprunté à Sankara exprime la volonté de résistance et de libération."
+    },
+    {
+      "question": "Quel rôle joue le CNR dans l’histoire burkinabè ?",
+      "options": ["Il fut l’organe de la révolution de Sankara", "Un groupe religieux", "Un parti colonial", "Un syndicat agricole"],
+      "reponse": "Il fut l’organe de la révolution de Sankara",
+      "explication": "Le Conseil National de la Révolution dirigeait le pays entre 1983 et 1987."
+    },
+    {
+      "question": "Quel pays est considéré comme un allié important du Burkina Faso depuis 2023 ?",
+      "options": ["Mali", "France", "Royaume-Uni", "Belgique"],
+      "reponse": "Mali",
+      "explication": "Le Burkina, le Mali et le Niger ont renforcé leur coopération sécuritaire."
+    },
+    {
+      "question": "Quel bloc sous-régional regroupe Burkina, Mali et Niger en 2024 ?",
+      "options": ["Alliance des États du Sahel (AES)", "CEDEAO", "UEMOA", "CEMAC"],
+      "reponse": "Alliance des États du Sahel (AES)",
+      "explication": "Les trois pays ont formé une alliance militaire et politique pour leur souveraineté."
+    },
+    {
+      "question": "Quel est le principal défi de la démocratie burkinabè ?",
+      "options": ["Instabilité politique et insécurité", "Manque d’eau", "Absence de religion", "Trop de forêts"],
+      "reponse": "Instabilité politique et insécurité",
+      "explication": "Les coups d’État et les attaques armées rendent la démocratie fragile."
+    },
+    {
+      "question": "Quel combat reste central dans la mémoire collective burkinabè ?",
+      "options": ["Justice pour Thomas Sankara", "Indépendance de la France", "Création d’un empire", "Retour de la colonisation"],
+      "reponse": "Justice pour Thomas Sankara",
+      "explication": "La vérité sur l’assassinat de Sankara reste un sujet important pour les Burkinabè."
+    },
+    {
+      "question": "Quel rôle joue la jeunesse dans la vie politique actuelle ?",
+      "options": ["Mobilisation active et patriotisme fort", "Inactivité totale", "Soumission aux colons", "Départ massif du pays"],
+      "reponse": "Mobilisation active et patriotisme fort",
+      "explication": "La jeunesse burkinabè est au cœur du changement politique et de la lutte pour la souveraineté."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que le commerce international ?",
+      "options": ["Échanges de biens et services entre pays", "Commerce à l’intérieur d’un pays", "Commerce entre villes", "Commerce local uniquement"],
+      "reponse": "Échanges de biens et services entre pays",
+      "explication": "Le commerce international concerne les échanges économiques entre différents pays."
+    },
+    {
+      "question": "Qu’est-ce qu’une importation ?",
+      "options": ["Achat de biens venant de l’étranger", "Vente de biens à l’étranger", "Production locale", "Consommation nationale"],
+      "reponse": "Achat de biens venant de l’étranger",
+      "explication": "Importer, c’est acheter des produits ou services venant d’un autre pays."
+    },
+    {
+      "question": "Qu’est-ce qu’une exportation ?",
+      "options": ["Vente de biens à l’étranger", "Achat de biens venant de l’étranger", "Production locale", "Consommation locale"],
+      "reponse": "Vente de biens à l’étranger",
+      "explication": "Exporter, c’est vendre des produits ou services à d’autres pays."
+    },
+    {
+      "question": "Quel est le rôle des échanges internationaux ?",
+      "options": ["Permettre aux pays d’obtenir des produits qu’ils ne produisent pas", "Limiter les échanges", "Fermer les frontières", "Réduire la production"],
+      "reponse": "Permettre aux pays d’obtenir des produits qu’ils ne produisent pas",
+      "explication": "Les échanges permettent de répondre à des besoins variés en produits et services."
+    },
+    {
+      "question": "Quels sont les deux principaux types d’échanges commerciaux ?",
+      "options": ["Importations et exportations", "Productions et consommations", "Services et taxes", "Investissements et épargnes"],
+      "reponse": "Importations et exportations",
+      "explication": "Les échanges se divisent en ce qu’un pays achète (import) et vend (export)."
+    },
+    {
+      "question": "Qu’est-ce que le solde commercial ?",
+      "options": ["Différence entre exportations et importations", "Total des taxes", "Somme des investissements", "Nombre d’habitants"],
+      "reponse": "Différence entre exportations et importations",
+      "explication": "Le solde commercial indique si un pays vend plus qu’il n’achète à l’étranger."
+    },
+    {
+      "question": "Un pays a un déficit commercial lorsque :",
+      "options": ["Ses importations sont supérieures à ses exportations", "Ses exportations sont supérieures à ses importations", "Il n’exporte rien", "Il n’importe rien"],
+      "reponse": "Ses importations sont supérieures à ses exportations",
+      "explication": "Un déficit commercial signifie que le pays achète plus à l’étranger qu’il ne vend."
+    },
+    {
+      "question": "Quels produits les pays du Sud exportent-ils souvent ?",
+      "options": ["Produits agricoles et matières premières", "Produits technologiques", "Automobiles", "Équipements électroniques"],
+      "reponse": "Produits agricoles et matières premières",
+      "explication": "Les pays du Sud exportent principalement des matières premières et produits agricoles."
+    },
+    {
+      "question": "Quels produits les pays du Nord exportent-ils souvent ?",
+      "options": ["Produits manufacturés et technologiques", "Produits agricoles", "Matériaux bruts", "Produits miniers"],
+      "reponse": "Produits manufacturés et technologiques",
+      "explication": "Les pays développés exportent des produits à haute valeur ajoutée comme la technologie."
+    },
+    {
+      "question": "Qu’est-ce que la balance commerciale ?",
+      "options": ["Résumé des importations et exportations d’un pays", "Total des impôts", "Somme des investissements étrangers", "Nombre de touristes"],
+      "reponse": "Résumé des importations et exportations d’un pays",
+      "explication": "La balance commerciale montre si un pays est excédentaire ou déficitaire."
+    },
+    {
+      "question": "Quelle organisation internationale régule le commerce mondial ?",
+      "options": ["OMC (Organisation Mondiale du Commerce)", "ONU", "OMS", "UNICEF"],
+      "reponse": "OMC (Organisation Mondiale du Commerce)",
+      "explication": "L’OMC établit des règles pour faciliter et réguler le commerce international."
+    },
+    {
+      "question": "Qu’est-ce qu’un pays du Nord ?",
+      "options": ["Pays développés et industrialisés", "Pays en développement", "Pays africains", "Pays insulaires"],
+      "reponse": "Pays développés et industrialisés",
+      "explication": "Le terme pays du Nord désigne les pays riches et industrialisés."
+    },
+    {
+      "question": "Qu’est-ce qu’un pays du Sud ?",
+      "options": ["Pays en développement ou émergents", "Pays développés", "Pays européens", "Pays insulaires"],
+      "reponse": "Pays en développement ou émergents",
+      "explication": "Les pays du Sud regroupent les pays pauvres ou en développement."
+    },
+    {
+      "question": "Pourquoi parle-t-on d’inégalités dans les échanges internationaux ?",
+      "options": ["Les pays du Nord exportent des produits à haute valeur ajoutée, le Sud des matières premières", "Tous les pays échangent de façon égale", "Les pays du Sud contrôlent le commerce", "Il n’y a pas d’inégalités"],
+      "reponse": "Les pays du Nord exportent des produits à haute valeur ajoutée, le Sud des matières premières",
+      "explication": "Cette situation crée un déséquilibre économique entre Nord et Sud."
+    },
+    {
+      "question": "Qu’est-ce qu’une matière première ?",
+      "options": ["Produit naturel non transformé", "Produit manufacturé", "Produit électronique", "Service financier"],
+      "reponse": "Produit naturel non transformé",
+      "explication": "Les matières premières sont des ressources extraites ou récoltées sans transformation."
+    },
+    {
+      "question": "Quel est un frein aux échanges pour certains pays du Sud ?",
+      "options": ["Faible industrialisation et infrastructures limitées", "Surproduction", "Trop d’industries", "Climat tempéré"],
+      "reponse": "Faible industrialisation et infrastructures limitées",
+      "explication": "Ces freins empêchent un commerce équilibré et profitable."
+    },
+    {
+      "question": "Que signifie 'libre-échange' ?",
+      "options": ["Commerce sans barrières douanières", "Interdiction du commerce", "Commerce local uniquement", "Commerce sans taxes"],
+      "reponse": "Commerce sans barrières douanières",
+      "explication": "Le libre-échange facilite les échanges entre pays en supprimant les obstacles."
+    },
+    {
+      "question": "Qu’est-ce qu’un tarif douanier ?",
+      "options": ["Taxe sur les importations", "Subvention à l’export", "Aide aux producteurs locaux", "Taxe sur les salaires"],
+      "reponse": "Taxe sur les importations",
+      "explication": "Les tarifs douaniers sont des taxes appliquées pour protéger l’économie locale."
+    },
+    {
+      "question": "Quel est l’impact des échanges internationaux sur le développement ?",
+      "options": ["Peut favoriser la croissance mais accentuer les inégalités", "Toujours égalitaire", "N’a aucun effet", "Diminue la richesse"],
+      "reponse": "Peut favoriser la croissance mais accentuer les inégalités",
+      "explication": "Les échanges peuvent aider mais aussi creuser l’écart entre pays riches et pauvres."
+    },
+    {
+      "question": "Quel est l’exemple d’un produit souvent importé par les pays du Nord ?",
+      "options": ["Textiles et matières premières", "Automobiles", "Produits technologiques", "Équipements lourds"],
+      "reponse": "Textiles et matières premières",
+      "explication": "Les pays développés importent souvent des produits bruts des pays du Sud."
+    },
+    {
+      "question": "Quel est un exemple de produit exporté par les pays du Nord ?",
+      "options": ["Machines, technologies, produits pharmaceutiques", "Cacao brut", "Café non transformé", "Coton brut"],
+      "reponse": "Machines, technologies, produits pharmaceutiques",
+      "explication": "Ces produits ont une forte valeur ajoutée et sont exportés par les pays industrialisés."
+    },
+    {
+      "question": "Qu’est-ce que la mondialisation ?",
+      "options": ["Interconnexion croissante des économies et cultures dans le monde", "Fermeture des frontières", "Commerce local uniquement", "Agriculture traditionnelle"],
+      "reponse": "Interconnexion croissante des économies et cultures dans le monde",
+      "explication": "La mondialisation favorise les échanges et la coopération internationale."
+    },
+    {
+      "question": "Quel continent regroupe la majorité des pays en développement ?",
+      "options": ["Afrique", "Europe", "Amérique du Nord", "Océanie"],
+      "reponse": "Afrique",
+      "explication": "L’Afrique compte la majorité des pays en développement du monde."
+    },
+    {
+      "question": "Pourquoi certains pays du Sud dépendent-ils des importations ?",
+      "options": ["Faible capacité de production locale", "Surproduction", "Trop d’industries", "Population faible"],
+      "reponse": "Faible capacité de production locale",
+      "explication": "Cela les oblige à importer pour satisfaire leurs besoins."
+    },
+    {
+      "question": "Quelle est la principale conséquence des inégalités commerciales entre Nord et Sud ?",
+      "options": ["Maintien de la pauvreté dans les pays du Sud", "Croissance économique uniforme", "Réduction des échanges", "Paix mondiale"],
+      "reponse": "Maintien de la pauvreté dans les pays du Sud",
+      "explication": "Ces inégalités freinent le développement des pays pauvres."
+    },
+    {
+      "question": "Quel est le principal moyen de transport utilisé dans le commerce international ?",
+      "options": ["Transport maritime", "Transport routier", "Transport aérien", "Transport ferroviaire"],
+      "reponse": "Transport maritime",
+      "explication": "Le transport par bateau est le plus utilisé pour les échanges internationaux."
+    },
+    {
+      "question": "Qu’est-ce qu’un accord commercial ?",
+      "options": ["Traité entre pays pour faciliter le commerce", "Interdiction du commerce", "Taxe sur les exportations", "Blocage des frontières"],
+      "reponse": "Traité entre pays pour faciliter le commerce",
+      "explication": "Les accords commerciaux réduisent les barrières pour favoriser les échanges."
+    },
+    {
+      "question": "Pourquoi certains pays imposent-ils des barrières douanières ?",
+      "options": ["Protéger leurs industries locales", "Encourager les importations", "Favoriser la mondialisation", "Réduire la production"],
+      "reponse": "Protéger leurs industries locales",
+      "explication": "Les barrières douanières protègent les entreprises nationales de la concurrence étrangère."
+    },
+    {
+      "question": "Qu’est-ce qu’un pays émergent ?",
+      "options": ["Pays en développement avec forte croissance économique", "Pays développé", "Pays sous-développé", "Pays insulaire"],
+      "reponse": "Pays en développement avec forte croissance économique",
+      "explication": "Les pays émergents sont en transition vers un niveau de développement plus élevé."
+    }
+  ]
+}

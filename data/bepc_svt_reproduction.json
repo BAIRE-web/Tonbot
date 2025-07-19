@@ -1,0 +1,574 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que la reproduction humaine ?",
+      "options": ["La fabrication d’énergie", "Le processus de production de nouveaux individus", "La digestion des aliments", "La respiration cellulaire"],
+      "reponse": "Le processus de production de nouveaux individus",
+      "explication": "La reproduction permet de créer un nouvel être humain à partir de deux parents."
+    },
+    {
+      "question": "Quels sont les cellules reproductrices chez l’homme et la femme ?",
+      "options": ["Globules rouges et globules blancs", "Spermatozoïdes et ovules", "Cellules nerveuses et musculaires", "Hématies et leucocytes"],
+      "reponse": "Spermatozoïdes et ovules",
+      "explication": "Le spermatozoïde est la cellule reproductrice masculine, l’ovule la cellule reproductrice féminine."
+    },
+    {
+      "question": "Où se forme le spermatozoïde ?",
+      "options": ["Dans la prostate", "Dans les testicules", "Dans les ovaires", "Dans la vessie"],
+      "reponse": "Dans les testicules",
+      "explication": "Les testicules produisent les spermatozoïdes et la testostérone."
+    },
+    {
+      "question": "Où se forme l’ovule ?",
+      "options": ["Dans les trompes de Fallope", "Dans les ovaires", "Dans l’utérus", "Dans le vagin"],
+      "reponse": "Dans les ovaires",
+      "explication": "Les ovaires produisent les ovules et les hormones sexuelles féminines."
+    },
+    {
+      "question": "Qu’est-ce que la fécondation ?",
+      "options": ["La division cellulaire", "La rencontre et la fusion du spermatozoïde et de l’ovule", "La production d’hormones", "La formation des règles"],
+      "reponse": "La rencontre et la fusion du spermatozoïde et de l’ovule",
+      "explication": "La fécondation crée la première cellule de l’embryon."
+    },
+    {
+      "question": "Où se produit la fécondation chez la femme ?",
+      "options": ["Dans l’utérus", "Dans les trompes de Fallope", "Dans le vagin", "Dans l’ovaire"],
+      "reponse": "Dans les trompes de Fallope",
+      "explication": "C’est dans la trompe que le spermatozoïde rencontre l’ovule."
+    },
+    {
+      "question": "Qu’est-ce qu’un embryon ?",
+      "options": ["Un organe reproducteur", "Un fœtus mature", "Le premier stade de développement après la fécondation", "Une hormone"],
+      "reponse": "Le premier stade de développement après la fécondation",
+      "explication": "L’embryon est la cellule fécondée qui commence à se diviser."
+    },
+    {
+      "question": "Quel est le rôle de l’utérus ?",
+      "options": ["Produire les ovules", "Accueillir et nourrir l’embryon", "Fabriquer les spermatozoïdes", "Évacuer l’urine"],
+      "reponse": "Accueillir et nourrir l’embryon",
+      "explication": "L’utérus permet le développement du bébé pendant la grossesse."
+    },
+    {
+      "question": "Qu’est-ce que l’ovulation ?",
+      "options": ["La production des spermatozoïdes", "La libération d’un ovule par l’ovaire", "Le début des règles", "La fécondation"],
+      "reponse": "La libération d’un ovule par l’ovaire",
+      "explication": "L’ovulation se produit une fois par cycle chez la femme."
+    },
+    {
+      "question": "Quelle est la durée moyenne d’un cycle menstruel ?",
+      "options": ["7 jours", "14 jours", "21 jours", "28 jours"],
+      "reponse": "28 jours",
+      "explication": "Le cycle menstruel dure environ 28 jours chez la plupart des femmes."
+    },
+    {
+      "question": "Que se passe-t-il si l’ovule n’est pas fécondé ?",
+      "options": ["L’ovule reste dans l’utérus", "Les règles surviennent avec la destruction de la muqueuse utérine", "L’embryon se forme quand même", "Le spermatozoïde meurt"],
+      "reponse": "Les règles surviennent avec la destruction de la muqueuse utérine",
+      "explication": "Sans fécondation, la muqueuse utérine se détache, provoquant les règles."
+    },
+    {
+      "question": "Quelles hormones contrôlent le cycle menstruel ?",
+      "options": ["Insuline et adrénaline", "Œstrogène et progestérone", "Testostérone et thyroxine", "Cortisol et mélatonine"],
+      "reponse": "Œstrogène et progestérone",
+      "explication": "Ces hormones régulent la préparation de l’utérus et l’ovulation."
+    },
+    {
+      "question": "Quel organe masculin produit la testostérone ?",
+      "options": ["La prostate", "Les testicules", "Le pénis", "L’épididyme"],
+      "reponse": "Les testicules",
+      "explication": "Les testicules produisent la testostérone et les spermatozoïdes."
+    },
+    {
+      "question": "Quel est le rôle du pénis dans la reproduction ?",
+      "options": ["Produire les spermatozoïdes", "Évacuer l’urine et transporter le sperme", "Stocker les ovules", "Produire des hormones"],
+      "reponse": "Évacuer l’urine et transporter le sperme",
+      "explication": "Le pénis permet le passage de l’urine et l’éjaculation du sperme."
+    },
+    {
+      "question": "Quel est le rôle des trompes de Fallope ?",
+      "options": ["Produire les ovules", "Transporter l’ovule vers l’utérus", "Fabriquer des hormones", "Produire le sperme"],
+      "reponse": "Transporter l’ovule vers l’utérus",
+      "explication": "Les trompes conduisent l’ovule et sont le lieu de la fécondation."
+    },
+    {
+      "question": "Qu’est-ce que la puberté ?",
+      "options": ["La période de croissance rapide", "Le début de la capacité à se reproduire", "La période de sommeil", "La fin de la croissance"],
+      "reponse": "Le début de la capacité à se reproduire",
+      "explication": "La puberté correspond au développement des organes reproducteurs et des caractères sexuels secondaires."
+    },
+    {
+      "question": "Quelle hormone est responsable des caractères sexuels secondaires chez la fille ?",
+      "options": ["Testostérone", "Œstrogène", "Adrénaline", "Insuline"],
+      "reponse": "Œstrogène",
+      "explication": "L’œstrogène provoque le développement des seins et la régulation du cycle menstruel."
+    },
+    {
+      "question": "Quelle hormone est responsable des caractères sexuels secondaires chez le garçon ?",
+      "options": ["Progestérone", "Testostérone", "Œstrogène", "Cortisol"],
+      "reponse": "Testostérone",
+      "explication": "La testostérone provoque la voix grave, la pilosité, et le développement musculaire."
+    },
+    {
+      "question": "Qu’est-ce que le placenta ?",
+      "options": ["Un organe qui produit les spermatozoïdes", "Un organe qui nourrit le fœtus", "Une glande hormonale", "Un tissu musculaire"],
+      "reponse": "Un organe qui nourrit le fœtus",
+      "explication": "Le placenta assure les échanges entre la mère et le fœtus."
+    },
+    {
+      "question": "Combien de temps dure normalement une grossesse humaine ?",
+      "options": ["3 mois", "6 mois", "9 mois", "12 mois"],
+      "reponse": "9 mois",
+      "explication": "La grossesse dure environ 9 mois, soit 40 semaines."
+    },
+    {
+      "question": "Qu’est-ce que l’allaitement ?",
+      "options": ["La nutrition du bébé par le lait maternel", "La production des ovules", "L’élimination des déchets", "La production de sperme"],
+      "reponse": "La nutrition du bébé par le lait maternel",
+      "explication": "L’allaitement permet au bébé de recevoir des nutriments essentiels via le lait maternel."
+    },
+    {
+      "question": "Qu’est-ce qu’une contraception ?",
+      "options": ["Une méthode pour favoriser la grossesse", "Une méthode pour éviter une grossesse", "Une méthode de traitement de maladie", "Un type d’hormone"],
+      "reponse": "Une méthode pour éviter une grossesse",
+      "explication": "La contraception empêche la fécondation ou l’implantation d’un embryon."
+    },
+    {
+      "question": "Quel est le rôle de la prostate chez l’homme ?",
+      "options": ["Produire des spermatozoïdes", "Produire un liquide nutritif pour les spermatozoïdes", "Stocker les spermatozoïdes", "Produire des hormones féminines"],
+      "reponse": "Produire un liquide nutritif pour les spermatozoïdes",
+      "explication": "Le liquide prostatique nourrit et facilite la mobilité des spermatozoïdes."
+    },
+    {
+      "question": "Qu’est-ce que la stérilité ?",
+      "options": ["L’incapacité à produire des hormones", "L’incapacité à avoir des enfants", "Une maladie infectieuse", "Une période de grossesse"],
+      "reponse": "L’incapacité à avoir des enfants",
+      "explication": "La stérilité est l’impossibilité d’obtenir une grossesse après un certain temps de rapports réguliers."
+    },
+    {
+      "question": "Comment se nomme la membrane qui entoure l’embryon ?",
+      "options": ["La muqueuse", "Le placenta", "Le sac amniotique", "La trompe de Fallope"],
+      "reponse": "Le sac amniotique",
+      "explication": "Le sac amniotique protège l’embryon et contient le liquide amniotique."
+    },
+    {
+      "question": "Quel est le rôle du liquide séminal ?",
+      "options": ["Protéger les spermatozoïdes", "Nourrir l’ovule", "Produire les hormones", "Nettoyer la vessie"],
+      "reponse": "Protéger les spermatozoïdes",
+      "explication": "Le liquide séminal contient des substances qui protègent et facilitent la mobilité des spermatozoïdes."
+    },
+    {
+      "question": "Qu’est-ce que la ménopause ?",
+      "options": ["Le début des règles", "La fin des règles et de la fertilité chez la femme", "La grossesse multiple", "La période d’allaitement"],
+      "reponse": "La fin des règles et de la fertilité chez la femme",
+      "explication": "La ménopause marque la fin de la capacité reproductive chez la femme."
+    },
+    {
+      "question": "Quel est le rôle des ovules ?",
+      "options": ["Produire des hormones", "Fertiliser le spermatozoïde", "Être fécondés par les spermatozoïdes", "Produire du sperme"],
+      "reponse": "Être fécondés par les spermatozoïdes",
+      "explication": "L’ovule est la cellule féminine qui peut être fécondée pour former un embryon."
+    },
+    {
+      "question": "Qu’est-ce que la puberté ?",
+      "options": ["Une maladie", "Une période de croissance et de développement sexuel", "La période de grossesse", "La période d’allaitement"],
+      "reponse": "Une période de croissance et de développement sexuel",
+      "explication": "La puberté est la période où apparaissent les caractères sexuels secondaires et la capacité à se reproduire."
+    },
+    {
+      "question": "Quelle est la fonction principale des glandes mammaires ?",
+      "options": ["Produire des hormones", "Produire du lait pour le nourrisson", "Stocker les ovules", "Filtrer le sang"],
+      "reponse": "Produire du lait pour le nourrisson",
+      "explication": "Les glandes mammaires fabriquent le lait qui nourrit le bébé après la naissance."
+    },
+    {
+      "question": "Qu’est-ce que le placenta ?",
+      "options": ["Un organe qui nourrit le fœtus", "Une glande hormonale", "Un muscle", "Une membrane externe"],
+      "reponse": "Un organe qui nourrit le fœtus",
+      "explication": "Le placenta assure les échanges entre la mère et le bébé durant la grossesse."
+    },
+    {
+      "question": "Quelle est la durée moyenne d’une grossesse humaine ?",
+      "options": ["6 mois", "9 mois", "12 mois", "15 mois"],
+      "reponse": "9 mois",
+      "explication": "La grossesse humaine dure environ 9 mois, soit environ 40 semaines."
+    },
+    {
+      "question": "Qu’est-ce que le col de l’utérus ?",
+      "options": ["Le passage entre l’utérus et le vagin", "La partie externe de l’ovaire", "Le conduit qui transporte le sperme", "Un tissu musculaire du vagin"],
+      "reponse": "Le passage entre l’utérus et le vagin",
+      "explication": "Le col de l’utérus est l’orifice inférieur de l’utérus, qui s’ouvre dans le vagin."
+    },
+    {
+      "question": "Quel est le rôle principal des hormones sexuelles ?",
+      "options": ["Réguler le métabolisme", "Contrôler la reproduction et les caractères sexuels", "Produire de l’énergie", "Protéger contre les infections"],
+      "reponse": "Contrôler la reproduction et les caractères sexuels",
+      "explication": "Les hormones sexuelles régulent le développement des organes reproducteurs et les fonctions liées à la reproduction."
+    },
+    {
+      "question": "Quelle est la fonction des testicules chez l’homme ?",
+      "options": ["Produire la testostérone et les spermatozoïdes", "Produire l’urine", "Filtrer le sang", "Stocker l’énergie"],
+      "reponse": "Produire la testostérone et les spermatozoïdes",
+      "explication": "Les testicules sont les glandes reproductrices masculines."
+    },
+    {
+      "question": "Que se passe-t-il pendant l’éjaculation ?",
+      "options": ["L’expulsion de spermatozoïdes et liquide séminal", "La production d’ovules", "La menstruation", "La croissance du fœtus"],
+      "reponse": "L’expulsion de spermatozoïdes et liquide séminal",
+      "explication": "L’éjaculation libère le sperme dans le vagin lors du rapport sexuel."
+    },
+    {
+      "question": "Quelle est la différence entre un embryon et un fœtus ?",
+      "options": ["L’embryon est après la naissance, le fœtus avant", "L’embryon est au début du développement, le fœtus après 8 semaines", "Le fœtus est dans le sperme", "Il n’y a aucune différence"],
+      "reponse": "L’embryon est au début du développement, le fœtus après 8 semaines",
+      "explication": "Le terme 'embryon' désigne les premières semaines après fécondation, puis on parle de fœtus."
+    },
+    {
+      "question": "Quel organe maternel assure les échanges nutritifs avec le fœtus ?",
+      "options": ["Le foie", "Le placenta", "Les reins", "Les poumons"],
+      "reponse": "Le placenta",
+      "explication": "Le placenta transmet oxygène et nutriments de la mère au bébé."
+    },
+    {
+      "question": "Quelle méthode contraceptive empêche la rencontre des gamètes ?",
+      "options": ["La pilule", "Le préservatif", "Le stérilet", "La vasectomie"],
+      "reponse": "Le préservatif",
+      "explication": "Le préservatif agit comme une barrière physique empêchant le spermatozoïde d’atteindre l’ovule."
+    },
+    {
+      "question": "Qu’est-ce que la ménopause ?",
+      "options": ["La période des premières règles", "La fin des règles et de la fertilité", "Le début de la puberté", "La grossesse"],
+      "reponse": "La fin des règles et de la fertilité",
+      "explication": "La ménopause marque la fin de la capacité reproductive chez la femme."
+    },
+    {
+      "question": "Que signifie le terme 'gamète' ?",
+      "options": ["Cellule reproductrice", "Organe reproducteur", "Hormone sexuelle", "Tissu musculaire"],
+      "reponse": "Cellule reproductrice",
+      "explication": "Le spermatozoïde et l’ovule sont des gamètes."
+    },
+    {
+      "question": "Lorsqu’un spermatozoïde rencontre un ovule, que se forme-t-il ?",
+      "options": ["Un embryon", "Une hormone", "Une cellule somatique", "Un organe"],
+      "reponse": "Un embryon",
+      "explication": "La fécondation fusionne les deux gamètes pour former une cellule unique appelée embryon."
+    },
+    {
+      "question": "Quel est le rôle principal des testicules ?",
+      "options": ["Produire des ovules", "Produire des spermatozoïdes et la testostérone", "Stocker l’urine", "Produire des hormones féminines"],
+      "reponse": "Produire des spermatozoïdes et la testostérone",
+      "explication": "Les testicules fabriquent les spermatozoïdes et l’hormone sexuelle masculine testostérone."
+    },
+    {
+      "question": "Pendant quel processus l’ovule est-il libéré par l’ovaire ?",
+      "options": ["La fécondation", "La menstruation", "L’ovulation", "La gestation"],
+      "reponse": "L’ovulation",
+      "explication": "L’ovulation correspond à la libération d’un ovule prêt à être fécondé."
+    },
+    {
+      "question": "Quelle est la fonction des trompes de Fallope ?",
+      "options": ["Transporter l’ovule vers l’utérus", "Produire des hormones", "Fabriquer le sperme", "Accueillir le fœtus"],
+      "reponse": "Transporter l’ovule vers l’utérus",
+      "explication": "Les trompes conduisent l’ovule et sont le lieu de la fécondation."
+    },
+    {
+      "question": "Qu’est-ce que la ménopause ?",
+      "options": ["Le début des règles", "La fin de la fertilité chez la femme", "La puberté", "La grossesse"],
+      "reponse": "La fin de la fertilité chez la femme",
+      "explication": "La ménopause marque l’arrêt définitif des règles et la fin de la capacité à se reproduire."
+    },
+    {
+      "question": "Que fait le placenta durant la grossesse ?",
+      "options": ["Protège le fœtus contre les infections", "Permet les échanges nutritifs entre mère et fœtus", "Produit des ovules", "Stocke les hormones"],
+      "reponse": "Permet les échanges nutritifs entre mère et fœtus",
+      "explication": "Le placenta nourrit le bébé en lui fournissant oxygène et nutriments."
+    },
+    {
+      "question": "Quel organe masculin produit le liquide qui nourrit les spermatozoïdes ?",
+      "options": ["La prostate", "Les testicules", "Le pénis", "La vessie"],
+      "reponse": "La prostate",
+      "explication": "La prostate sécrète un liquide qui facilite la mobilité et la survie des spermatozoïdes."
+    },
+    {
+      "question": "Combien dure en moyenne un cycle menstruel ?",
+      "options": ["21 jours", "28 jours", "35 jours", "14 jours"],
+      "reponse": "28 jours",
+      "explication": "Le cycle menstruel moyen est de 28 jours, avec l’ovulation vers le 14e jour."
+    },
+    {
+      "question": "Que se passe-t-il si l’ovule n’est pas fécondé ?",
+      "options": ["Il reste dans l’ovaire", "Il est expulsé avec les règles", "Il devient un embryon", "Il produit des hormones"],
+      "reponse": "Il est expulsé avec les règles",
+      "explication": "Sans fécondation, l’ovule et la muqueuse utérine sont éliminés lors des règles."
+    },
+    {
+      "question": "Quel est le rôle du vagin dans la reproduction ?",
+      "options": ["Produire des spermatozoïdes", "Recevoir le pénis et servir de passage à l’enfant", "Fabriquer les ovules", "Nourrir l’embryon"],
+      "reponse": "Recevoir le pénis et servir de passage à l’enfant",
+      "explication": "Le vagin est le canal qui reçoit le pénis lors du rapport sexuel et par où passe le bébé à la naissance."
+    },
+    {
+      "question": "Qu’est-ce que la fécondation ?",
+      "options": ["La division cellulaire", "La rencontre et la fusion du spermatozoïde et de l’ovule", "La production d’hormones", "La formation des règles"],
+      "reponse": "La rencontre et la fusion du spermatozoïde et de l’ovule",
+      "explication": "La fécondation correspond à la fusion des deux gamètes pour former une cellule unique."
+    },
+    {
+      "question": "Où se produit la fécondation chez la femme ?",
+      "options": ["Dans l’utérus", "Dans les trompes de Fallope", "Dans le vagin", "Dans l’ovaire"],
+      "reponse": "Dans les trompes de Fallope",
+      "explication": "La fécondation a lieu dans les trompes, où le spermatozoïde rencontre l’ovule."
+    },
+    {
+      "question": "Qu’est-ce qu’un zygote ?",
+      "options": ["Une hormone", "Une cellule résultant de la fécondation", "Un organe reproducteur", "Une glande"],
+      "reponse": "Une cellule résultant de la fécondation",
+      "explication": "Le zygote est la première cellule formée après la fusion du spermatozoïde et de l’ovule."
+    },
+    {
+      "question": "Après la fécondation, où s’implante l’embryon ?",
+      "options": ["Dans les trompes de Fallope", "Dans l’utérus", "Dans le vagin", "Dans l’ovaire"],
+      "reponse": "Dans l’utérus",
+      "explication": "L’embryon s’implante dans la muqueuse de l’utérus pour se développer."
+    },
+    {
+      "question": "Quel est le rôle du placenta ?",
+      "options": ["Produire les ovules", "Permettre les échanges entre mère et fœtus", "Fabriquer les spermatozoïdes", "Produire des hormones masculines"],
+      "reponse": "Permettre les échanges entre mère et fœtus",
+      "explication": "Le placenta nourrit le fœtus et élimine ses déchets."
+    },
+    {
+      "question": "Combien de temps dure en moyenne une grossesse humaine ?",
+      "options": ["6 mois", "9 mois", "12 mois", "15 mois"],
+      "reponse": "9 mois",
+      "explication": "La grossesse dure environ 9 mois, soit 40 semaines."
+    },
+    {
+      "question": "Qu’est-ce que le liquide amniotique ?",
+      "options": ["Un liquide qui entoure et protège le fœtus", "Un liquide produit par les ovaires", "Un liquide sécrété par les trompes", "Un liquide digestif"],
+      "reponse": "Un liquide qui entoure et protège le fœtus",
+      "explication": "Le liquide amniotique protège le bébé contre les chocs et les infections."
+    },
+    {
+      "question": "Quelle est la fonction des contractions utérines durant l’accouchement ?",
+      "options": ["Faciliter l’expulsion du bébé", "Arrêter la grossesse", "Produire des hormones", "Accélérer la fécondation"],
+      "reponse": "Faciliter l’expulsion du bébé",
+      "explication": "Les contractions aident à pousser le bébé vers le canal de naissance."
+    },
+    {
+      "question": "Qu’est-ce que la mise bas chez la femme ?",
+      "options": ["La fin de la grossesse", "L’expulsion du bébé par le vagin", "La fécondation", "Le début de la grossesse"],
+      "reponse": "L’expulsion du bébé par le vagin",
+      "explication": "La mise bas correspond à l’accouchement du bébé."
+    },
+    {
+      "question": "Quelles sont les hormones principales impliquées dans la grossesse ?",
+      "options": ["Œstrogène et progestérone", "Testostérone et cortisol", "Insuline et adrénaline", "Thyroxine et mélatonine"],
+      "reponse": "Œstrogène et progestérone",
+      "explication": "Ces hormones préparent l’utérus à la grossesse et maintiennent le développement du fœtus."
+    },
+    {
+      "question": "Quel organe produit la progestérone pendant la grossesse ?",
+      "options": ["Les ovaires", "Le placenta", "Le foie", "La thyroïde"],
+      "reponse": "Le placenta",
+      "explication": "Le placenta prend le relais pour produire la progestérone nécessaire au maintien de la grossesse."
+    },
+    {
+      "question": "Que se passe-t-il si l’embryon ne s’implante pas dans l’utérus ?",
+      "options": ["Il meurt et est expulsé", "Il se développe quand même", "Il migre vers le vagin", "Il devient un fœtus"],
+      "reponse": "Il meurt et est expulsé",
+      "explication": "Sans implantation, l’embryon ne peut pas survivre et sera éliminé avec les règles."
+    },
+    {
+      "question": "Quelle est la durée moyenne de la phase de travail pendant l’accouchement ?",
+      "options": ["1 à 2 heures", "6 à 12 heures", "24 heures", "48 heures"],
+      "reponse": "6 à 12 heures",
+      "explication": "La phase de travail dure en général plusieurs heures pendant lesquelles les contractions deviennent régulières."
+    },
+    {
+      "question": "Qu’est-ce que le col de l’utérus fait lors de l’accouchement ?",
+      "options": ["Il se dilate pour permettre le passage du bébé", "Il produit des hormones", "Il se contracte pour expulser le bébé", "Il reste fermé"],
+      "reponse": "Il se dilate pour permettre le passage du bébé",
+      "explication": "Le col s’ouvre progressivement pour laisser passer le bébé."
+    },
+    {
+      "question": "Qu’est-ce que l’allaitement ?",
+      "options": ["La nutrition du bébé par le lait maternel", "La production des ovules", "L’élimination des déchets", "La production de sperme"],
+      "reponse": "La nutrition du bébé par le lait maternel",
+      "explication": "L’allaitement permet au bébé de recevoir des nutriments essentiels via le lait."
+    },
+    {
+      "question": "Quel est le rôle des glandes mammaires ?",
+      "options": ["Produire des hormones", "Produire du lait pour nourrir le bébé", "Stocker les ovules", "Filtrer le sang"],
+      "reponse": "Produire du lait pour nourrir le bébé",
+      "explication": "Les glandes mammaires fabriquent le lait maternel."
+    },
+    {
+      "question": "Qu’est-ce que la césarienne ?",
+      "options": ["Une méthode de contraception", "Une intervention chirurgicale pour extraire le bébé", "Une infection", "Un type de grossesse"],
+      "reponse": "Une intervention chirurgicale pour extraire le bébé",
+      "explication": "La césarienne est une opération pour aider à faire naître le bébé lorsque l’accouchement naturel est difficile."
+    },
+    {
+      "question": "Quel est le rôle du liquide amniotique ?",
+      "options": ["Protéger le fœtus des chocs", "Nourrir l’embryon", "Produire des hormones", "Nettoyer l’utérus"],
+      "reponse": "Protéger le fœtus des chocs",
+      "explication": "Le liquide amniotique agit comme un coussin pour le bébé."
+    },
+    {
+      "question": "Quand commence la grossesse ?",
+      "options": ["À la fécondation", "À l’implantation de l’embryon", "Au début des règles", "À la naissance"],
+      "reponse": "À l’implantation de l’embryon",
+      "explication": "La grossesse commence officiellement quand l’embryon s’implante dans l’utérus."
+    },
+    {
+      "question": "Quel est le rôle des hormones œstrogène et progestérone pendant la grossesse ?",
+      "options": ["Faire pousser les cheveux", "Préparer et maintenir l’utérus", "Stimuler la production de sperme", "Réguler la digestion"],
+      "reponse": "Préparer et maintenir l’utérus",
+      "explication": "Ces hormones assurent la bonne évolution de la grossesse."
+    },
+    {
+      "question": "Qu’est-ce que le liquide séminal ?",
+      "options": ["Un liquide qui protège et nourrit les spermatozoïdes", "Un liquide produit par les ovaires", "Le liquide qui entoure le fœtus", "Un type de mucus vaginal"],
+      "reponse": "Un liquide qui protège et nourrit les spermatozoïdes",
+      "explication": "Le liquide séminal facilite la survie des spermatozoïdes dans le milieu vaginal."
+    },
+    {
+      "question": "Quel est le rôle des contractions utérines après la naissance ?",
+      "options": ["Faciliter la sortie du placenta", "Produire du lait", "Réguler la respiration du bébé", "Diminuer la température du corps"],
+      "reponse": "Faciliter la sortie du placenta",
+      "explication": "Après la naissance du bébé, les contractions expulsent le placenta."
+    },
+    {
+      "question": "Que signifie le terme 'gestation' ?",
+      "options": ["La période de développement du bébé dans l’utérus", "La fécondation", "L’accouchement", "La puberté"],
+      "reponse": "La période de développement du bébé dans l’utérus",
+      "explication": "La gestation correspond à la durée de la grossesse."
+    },
+    {
+      "question": "Qu’est-ce que la trachée ?",
+      "options": ["Un organe du système respiratoire", "Un organe du système reproducteur", "Un organe du système digestif", "Un organe du système circulatoire"],
+      "reponse": "Un organe du système respiratoire",
+      "explication": "La trachée conduit l’air vers les poumons, elle n’a pas de rôle dans la reproduction."
+    },
+    {
+      "question": "Quel est le rôle du cordon ombilical ?",
+      "options": ["Relier le fœtus au placenta pour les échanges", "Relier les ovaires à l’utérus", "Relier le pénis aux testicules", "Relier la mère au bébé après la naissance"],
+      "reponse": "Relier le fœtus au placenta pour les échanges",
+      "explication": "Le cordon ombilical transporte nutriments et oxygène vers le fœtus."
+    },
+    {
+      "question": "Quelle est la première étape de l’accouchement ?",
+      "options": ["La dilatation du col de l’utérus", "La sortie du bébé", "La rupture de la poche des eaux", "La délivrance du placenta"],
+      "reponse": "La dilatation du col de l’utérus",
+      "explication": "Le col s’ouvre pour permettre le passage du bébé."
+    },
+    {
+      "question": "Que se passe-t-il lors de la délivrance ?",
+      "options": ["La sortie du bébé", "L’expulsion du placenta", "Le début de la grossesse", "La formation du zygote"],
+      "reponse": "L’expulsion du placenta",
+      "explication": "La délivrance est la dernière phase de l’accouchement."
+    },
+    {
+      "question": "Quelles sont les principales causes de complications pendant la grossesse ?",
+      "options": ["Alimentation équilibrée", "Maladies infectieuses et mauvaise hygiène", "Exercice physique", "Repos complet"],
+      "reponse": "Maladies infectieuses et mauvaise hygiène",
+      "explication": "Ces facteurs peuvent mettre en danger la mère et le bébé."
+    },
+    {
+      "question": "Qu’est-ce que la période néonatale ?",
+      "options": ["Les premières semaines après la naissance", "Le début de la grossesse", "La puberté", "La période de gestation"],
+      "reponse": "Les premières semaines après la naissance",
+      "explication": "La période néonatale est cruciale pour l’adaptation du nouveau-né."
+    },
+    {
+      "question": "Lors de la fécondation, que devient la cellule formée par la fusion du spermatozoïde et de l’ovule ?",
+      "options": ["Un gamète", "Un zygote", "Un fœtus", "Une hormone"],
+      "reponse": "Un zygote",
+      "explication": "Le zygote est la première cellule unique issue de la fusion des gamètes."
+    },
+    {
+      "question": "Quel est le lieu exact de la fécondation chez la femme ?",
+      "options": ["Dans l’ovaire", "Dans l’utérus", "Dans les trompes de Fallope", "Dans le vagin"],
+      "reponse": "Dans les trompes de Fallope",
+      "explication": "La fécondation se produit dans la trompe, avant que l’embryon ne migre vers l’utérus."
+    },
+    {
+      "question": "Pourquoi l’implantation de l’embryon dans l’utérus est-elle essentielle ?",
+      "options": ["Pour commencer la division cellulaire", "Pour permettre la nutrition et la croissance", "Pour déclencher les règles", "Pour produire des hormones"],
+      "reponse": "Pour permettre la nutrition et la croissance",
+      "explication": "Sans implantation, l’embryon ne peut pas se développer ni recevoir de nutriments."
+    },
+    {
+      "question": "Quelle hormone est majoritairement produite par le placenta ?",
+      "options": ["Testostérone", "Progestérone", "Adrénaline", "Insuline"],
+      "reponse": "Progestérone",
+      "explication": "Le placenta produit la progestérone pour maintenir la grossesse."
+    },
+    {
+      "question": "Quelle est la fonction du liquide amniotique ?",
+      "options": ["Nourrir le fœtus", "Protéger le fœtus des chocs", "Transporter l’oxygène", "Produire des hormones"],
+      "reponse": "Protéger le fœtus des chocs",
+      "explication": "Ce liquide agit comme un coussin protecteur autour du bébé."
+    },
+    {
+      "question": "Quelles sont les phases principales de l’accouchement ?",
+      "options": ["Dilatation, expulsion, délivrance", "Ovulation, fécondation, gestation", "Implantation, croissance, naissance", "Contraction, relaxation, repos"],
+      "reponse": "Dilatation, expulsion, délivrance",
+      "explication": "Ces phases correspondent à l’ouverture du col, la sortie du bébé, puis l’expulsion du placenta."
+    },
+    {
+      "question": "Quel rôle joue le col de l’utérus pendant l’accouchement ?",
+      "options": ["Se contracter", "Se dilater", "Produire du sperme", "Fabriquer des hormones"],
+      "reponse": "Se dilater",
+      "explication": "Le col s’ouvre progressivement pour permettre le passage du bébé."
+    },
+    {
+      "question": "Quelle est la durée moyenne d’une grossesse humaine ?",
+      "options": ["6 mois", "9 mois", "12 mois", "15 mois"],
+      "reponse": "9 mois",
+      "explication": "La grossesse dure environ 40 semaines, soit 9 mois."
+    },
+    {
+      "question": "Que se passe-t-il lors de la délivrance ?",
+      "options": ["Expulsion du bébé", "Expulsion du placenta", "Début des contractions", "Début de la grossesse"],
+      "reponse": "Expulsion du placenta",
+      "explication": "La délivrance correspond à la sortie du placenta après la naissance du bébé."
+    },
+    {
+      "question": "Pourquoi l’allaitement est-il important pour le nouveau-né ?",
+      "options": ["Parce qu’il produit des hormones", "Parce qu’il fournit les nutriments essentiels", "Parce qu’il accélère la croissance des os", "Parce qu’il remplace la fécondation"],
+      "reponse": "Parce qu’il fournit les nutriments essentiels",
+      "explication": "Le lait maternel est riche en vitamines, anticorps et nutriments pour le bébé."
+    },
+    {
+      "question": "Quelle méthode contraceptive empêche la rencontre des gamètes ?",
+      "options": ["La pilule", "Le préservatif", "Le stérilet", "La vasectomie"],
+      "reponse": "Le préservatif",
+      "explication": "Le préservatif est une barrière physique empêchant le spermatozoïde de rencontrer l’ovule."
+    },
+    {
+      "question": "Qu’est-ce que la ménopause ?",
+      "options": ["Le début des règles", "La fin des règles et de la fertilité", "La puberté", "La grossesse"],
+      "reponse": "La fin des règles et de la fertilité",
+      "explication": "La ménopause marque la fin de la capacité reproductive chez la femme."
+    },
+    {
+      "question": "Quel est le rôle du placenta ?",
+      "options": ["Produire des ovules", "Permettre les échanges entre mère et fœtus", "Produire du sperme", "Filtrer l’urine"],
+      "reponse": "Permettre les échanges entre mère et fœtus",
+      "explication": "Le placenta fournit oxygène et nutriments au fœtus et élimine ses déchets."
+    },
+    {
+      "question": "Comment s’appelle la membrane qui entoure le fœtus et contient le liquide amniotique ?",
+      "options": ["Le placenta", "Le sac amniotique", "La trompe de Fallope", "Le col de l’utérus"],
+      "reponse": "Le sac amniotique",
+      "explication": "Le sac amniotique protège le fœtus et contient le liquide amniotique."
+    },
+    {
+      "question": "Quel est le rôle des contractions utérines après la naissance ?",
+      "options": ["Faciliter la sortie du placenta", "Produire du lait", "Réguler la respiration", "Arrêter les règles"],
+      "reponse": "Faciliter la sortie du placenta",
+      "explication": "Les contractions expulsent le placenta une fois le bébé né."
+    }
+  ]
+}

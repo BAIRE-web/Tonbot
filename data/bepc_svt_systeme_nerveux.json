@@ -1,0 +1,598 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’un tissu ?",
+      "options": ["Un ensemble de cellules similaires qui assurent une fonction commune", "Une cellule isolée", "Un organe", "Une molécule"],
+      "reponse": "Un ensemble de cellules similaires qui assurent une fonction commune",
+      "explication": "Un tissu est formé par un groupe de cellules ayant la même structure et fonction."
+    },
+    {
+      "question": "Quels sont les quatre types principaux de tissus chez l’homme ?",
+      "options": ["Épithélial, conjonctif, musculaire, nerveux", "Osseux, cartilagineux, sanguin, nerveux", "Musculaire, graisseux, osseux, épithélial", "Conjonctif, adipeux, sanguin, cartilagineux"],
+      "reponse": "Épithélial, conjonctif, musculaire, nerveux",
+      "explication": "Ces tissus assurent respectivement la protection, le soutien, le mouvement et la transmission des messages."
+    },
+    {
+      "question": "Quel est le rôle principal du tissu épithélial ?",
+      "options": ["Recouvrir les surfaces du corps et tapisser les organes", "Assurer le soutien mécanique", "Transmettre les messages nerveux", "Permettre la contraction musculaire"],
+      "reponse": "Recouvrir les surfaces du corps et tapisser les organes",
+      "explication": "Le tissu épithélial forme la peau et les muqueuses, protégeant l’organisme."
+    },
+    {
+      "question": "Le tissu conjonctif sert principalement à :",
+      "options": ["Relier, soutenir et protéger les organes", "Transmettre les influx nerveux", "Produire des mouvements", "Recouvrir la peau"],
+      "reponse": "Relier, soutenir et protéger les organes",
+      "explication": "Il comprend le tissu osseux, cartilagineux, adipeux et sanguin."
+    },
+    {
+      "question": "Quelles cellules composent le tissu musculaire ?",
+      "options": ["Cellules allongées appelées fibres musculaires", "Neurones", "Cellules adipeuses", "Globules rouges"],
+      "reponse": "Cellules allongées appelées fibres musculaires",
+      "explication": "Ces fibres se contractent pour produire le mouvement."
+    },
+    {
+      "question": "Quels sont les trois types de tissus musculaires ?",
+      "options": ["Squelettique, cardiaque, lisse", "Épithélial, conjonctif, nerveux", "Cartilagineux, osseux, adipeux", "Sanguin, lymphatique, musculaire"],
+      "reponse": "Squelettique, cardiaque, lisse",
+      "explication": "Chaque type a une structure et fonction spécifique dans le corps."
+    },
+    {
+      "question": "Quelle est la fonction du tissu nerveux ?",
+      "options": ["Recevoir, transmettre et traiter les messages nerveux", "Transporter le sang", "Produire des hormones", "Assurer la protection mécanique"],
+      "reponse": "Recevoir, transmettre et traiter les messages nerveux",
+      "explication": "Il est constitué de neurones spécialisés dans la communication rapide."
+    },
+    {
+      "question": "Qu’est-ce qu’un neurone ?",
+      "options": ["Une cellule nerveuse spécialisée dans la transmission de l’influx nerveux", "Une cellule musculaire", "Une cellule osseuse", "Une cellule sanguine"],
+      "reponse": "Une cellule nerveuse spécialisée dans la transmission de l’influx nerveux",
+      "explication": "Le neurone transmet les messages électriques dans le corps."
+    },
+    {
+      "question": "Quels sont les trois parties principales d’un neurone ?",
+      "options": ["Corps cellulaire, dendrites, axone", "Noyau, cytoplasme, membrane", "Axone, myofibrille, noyau", "Dendrites, plaquettes, globules blancs"],
+      "reponse": "Corps cellulaire, dendrites, axone",
+      "explication": "Le corps cellulaire contient le noyau, les dendrites reçoivent l’influx et l’axone le transmet."
+    },
+    {
+      "question": "Quel rôle jouent les dendrites ?",
+      "options": ["Recevoir les messages nerveux provenant d’autres neurones", "Envoyer des messages vers d’autres neurones", "Produire des neurotransmetteurs", "Protéger le neurone"],
+      "reponse": "Recevoir les messages nerveux provenant d’autres neurones",
+      "explication": "Les dendrites captent les influx entrants vers le neurone."
+    },
+    {
+      "question": "Quel est le rôle de l’axone ?",
+      "options": ["Transmettre l’influx nerveux à d’autres cellules", "Recevoir les influx nerveux", "Produire de l’énergie", "Protéger le corps cellulaire"],
+      "reponse": "Transmettre l’influx nerveux à d’autres cellules",
+      "explication": "L’axone conduit le message vers d’autres neurones ou muscles."
+    },
+    {
+      "question": "Qu’est-ce que la myéline ?",
+      "options": ["Une gaine isolante entourant certains axones", "Un neurotransmetteur", "Un type de neurone", "Une partie du corps cellulaire"],
+      "reponse": "Une gaine isolante entourant certains axones",
+      "explication": "La myéline accélère la transmission de l’influx nerveux."
+    },
+    {
+      "question": "Quel type de tissu musculaire est involontaire et présent dans les organes ?",
+      "options": ["Muscle lisse", "Muscle squelettique", "Muscle cardiaque", "Muscle strié volontaire"],
+      "reponse": "Muscle lisse",
+      "explication": "Le muscle lisse agit sans contrôle conscient dans les organes internes."
+    },
+    {
+      "question": "Le muscle cardiaque se caractérise par :",
+      "options": ["Contraction involontaire et rythmique", "Contraction volontaire", "Absence de noyau", "Absence de stries"],
+      "reponse": "Contraction involontaire et rythmique",
+      "explication": "Il assure le pompage continu du sang dans le cœur."
+    },
+    {
+      "question": "Quel tissu conjonctif stocke les réserves énergétiques sous forme de graisse ?",
+      "options": ["Tissu adipeux", "Tissu osseux", "Tissu cartilagineux", "Tissu sanguin"],
+      "reponse": "Tissu adipeux",
+      "explication": "Le tissu adipeux stocke les lipides pour fournir de l’énergie."
+    },
+    {
+      "question": "Le tissu cartilagineux se trouve principalement :",
+      "options": ["Aux extrémités des os et dans les articulations", "Dans le cerveau", "Dans les muscles", "Dans le sang"],
+      "reponse": "Aux extrémités des os et dans les articulations",
+      "explication": "Il assure le soutien flexible et protège les extrémités osseuses."
+    },
+    {
+      "question": "Quelles sont les fonctions principales du tissu osseux ?",
+      "options": ["Soutenir le corps, protéger les organes, stocker les minéraux", "Transmettre les messages nerveux", "Produire des hormones", "Stocker les graisses"],
+      "reponse": "Soutenir le corps, protéger les organes, stocker les minéraux",
+      "explication": "Le tissu osseux est dur et rigide, il forme le squelette."
+    },
+    {
+      "question": "Qu’est-ce qui différencie le tissu nerveux du tissu musculaire ?",
+      "options": ["Le tissu nerveux transmet les messages, le musculaire produit le mouvement", "Le tissu nerveux produit le mouvement", "Les deux produisent le mouvement", "Les deux transmettent des messages"],
+      "reponse": "Le tissu nerveux transmet les messages, le musculaire produit le mouvement",
+      "explication": "Le tissu nerveux assure la communication, le tissu musculaire la contraction."
+    },
+    {
+      "question": "Qu’appelle-t-on une synapse ?",
+      "options": ["Zone de contact entre deux neurones", "Partie du muscle", "Une cellule conjonctive", "Une glande"],
+      "reponse": "Zone de contact entre deux neurones",
+      "explication": "La synapse permet le passage de l’influx nerveux d’un neurone à un autre."
+    },
+    {
+      "question": "Qu’est-ce qu’un neurotransmetteur ?",
+      "options": ["Molécule qui transmet l’influx nerveux à la synapse", "Une cellule musculaire", "Une hormone", "Une protéine du sang"],
+      "reponse": "Molécule qui transmet l’influx nerveux à la synapse",
+      "explication": "Le neurotransmetteur permet la communication entre neurones au niveau de la synapse."
+    },
+    {
+      "question": "Quels tissus forment les organes ?",
+      "options": ["Différents tissus associés pour remplir une fonction précise", "Un seul type de tissu", "Un mélange de sang et d’os", "Uniquement des tissus musculaires"],
+      "reponse": "Différents tissus associés pour remplir une fonction précise",
+      "explication": "Un organe est constitué de plusieurs tissus agissant ensemble."
+    },
+    {
+      "question": "Quelle est la fonction du tissu épithélial glandulaire ?",
+      "options": ["Produire et sécréter des substances", "Recouvrir la peau", "Conduire l’influx nerveux", "Contracter les muscles"],
+      "reponse": "Produire et sécréter des substances",
+      "explication": "Ce tissu forme les glandes qui produisent hormones, enzymes, etc."
+    },
+    {
+      "question": "Quelles cellules permettent la contraction musculaire ?",
+      "options": ["Fibres musculaires", "Neurones", "Globules blancs", "Cellules osseuses"],
+      "reponse": "Fibres musculaires",
+      "explication": "Les fibres musculaires se contractent pour permettre le mouvement."
+    },
+    {
+      "question": "Le tissu nerveux contient principalement :",
+      "options": ["Des neurones et des cellules gliales", "Des fibres musculaires", "Des globules rouges", "Du tissu adipeux"],
+      "reponse": "Des neurones et des cellules gliales",
+      "explication": "Les cellules gliales soutiennent et protègent les neurones."
+    },
+    {
+      "question": "Qu’est-ce qui différencie le tissu conjonctif dense du tissu conjonctif lâche ?",
+      "options": ["Le tissu dense a des fibres serrées, le lâche a des fibres espacées", "Le tissu dense contient des neurones", "Le tissu lâche est dur", "Le tissu dense stocke les graisses"],
+      "reponse": "Le tissu dense a des fibres serrées, le lâche a des fibres espacées",
+      "explication": "Cette différence permet une plus grande résistance ou une plus grande souplesse."
+    },
+    {
+      "question": "Quel type de tissu protège les organes internes ?",
+      "options": ["Tissu conjonctif osseux", "Tissu musculaire", "Tissu nerveux", "Tissu épithélial"],
+      "reponse": "Tissu conjonctif osseux",
+      "explication": "Le squelette osseux protège des organes comme le cerveau ou le cœur."
+    },
+    {
+      "question": "Quelle est la particularité du tissu musculaire squelettique ?",
+      "options": ["Il est strié et volontaire", "Il est lisse et involontaire", "Il est cardiaque et involontaire", "Il est conjonctif"],
+      "reponse": "Il est strié et volontaire",
+      "explication": "Ce tissu permet les mouvements volontaires du corps."
+    },
+    {
+      "question": "Quel est le rôle principal des cellules gliales ?",
+      "options": ["Soutenir, protéger et nourrir les neurones", "Transmettre les messages nerveux", "Contracter les muscles", "Produire le sang"],
+      "reponse": "Soutenir, protéger et nourrir les neurones",
+      "explication": "Les cellules gliales assurent un rôle de soutien essentiel dans le tissu nerveux."
+    },
+    {
+      "question": "Quelle propriété permet au tissu nerveux de transmettre rapidement les messages ?",
+      "options": ["La présence de myéline", "La contraction musculaire", "La capacité à stocker l’énergie", "L’élasticité"],
+      "reponse": "La présence de myéline",
+      "explication": "La myéline isole l’axone et accélère la conduction de l’influx nerveux."
+    },
+    {
+      "question": "Quelle cellule est responsable de la contraction dans le muscle squelettique ?",
+      "options": ["Fibres musculaires", "Neurones", "Cellules gliales", "Plaquettes"],
+      "reponse": "Fibres musculaires",
+      "explication": "Les fibres musculaires sont les cellules spécialisées qui se contractent pour produire le mouvement."
+    },
+    {
+      "question": "Lors d’une blessure, quel tissu participe à la réparation et au soutien ?",
+      "options": ["Tissu conjonctif", "Tissu épithélial", "Tissu nerveux", "Tissu musculaire"],
+      "reponse": "Tissu conjonctif",
+      "explication": "Le tissu conjonctif assure la réparation en formant du tissu cicatriciel."
+    },
+    {
+      "question": "Si un neurone est endommagé, quelle cellule peut aider à sa protection et à sa réparation ?",
+      "options": ["Cellule gliale", "Fibres musculaires", "Globules rouges", "Cellules osseuses"],
+      "reponse": "Cellule gliale",
+      "explication": "Les cellules gliales protègent et nourrissent les neurones, participant à leur réparation."
+    },
+    {
+      "question": "Quel tissu contient des fibres élastiques et résistantes qui permettent la souplesse ?",
+      "options": ["Tissu conjonctif lâche", "Tissu musculaire lisse", "Tissu nerveux", "Tissu osseux"],
+      "reponse": "Tissu conjonctif lâche",
+      "explication": "Ce tissu a des fibres espacées qui assurent la souplesse et la flexibilité."
+    },
+    {
+      "question": "Quel type de tissu musculaire est retrouvé dans les parois des organes internes ?",
+      "options": ["Muscle lisse", "Muscle squelettique", "Muscle cardiaque", "Tissu épithélial"],
+      "reponse": "Muscle lisse",
+      "explication": "Le muscle lisse agit involontairement dans les organes comme l’estomac et les vaisseaux sanguins."
+    },
+    {
+      "question": "Quelle partie du neurone reçoit les messages nerveux ?",
+      "options": ["Dendrites", "Axone", "Corps cellulaire", "Synapse"],
+      "reponse": "Dendrites",
+      "explication": "Les dendrites captent les influx nerveux provenant d’autres neurones."
+    },
+    {
+      "question": "La gaine de myéline autour de l’axone sert à :",
+      "options": ["Accélérer la transmission de l’influx nerveux", "Produire de l’énergie", "Soutenir le neurone", "Dégrader les déchets"],
+      "reponse": "Accélérer la transmission de l’influx nerveux",
+      "explication": "La myéline isole l’axone et augmente la vitesse de conduction nerveuse."
+    },
+    {
+      "question": "Le tissu épithélial est particulièrement important pour :",
+      "options": ["Protéger les surfaces exposées", "Produire des mouvements", "Transmettre des messages", "Stocker l’énergie"],
+      "reponse": "Protéger les surfaces exposées",
+      "explication": "Il forme la peau et les muqueuses qui protègent contre les agressions extérieures."
+    },
+    {
+      "question": "Une diminution du nombre de globules blancs affecterait principalement quel tissu ?",
+      "options": ["Tissu conjonctif sanguin", "Tissu musculaire", "Tissu nerveux", "Tissu épithélial"],
+      "reponse": "Tissu conjonctif sanguin",
+      "explication": "Les globules blancs font partie du tissu conjonctif sanguin qui défend l’organisme."
+    },
+    {
+      "question": "Quel tissu compose principalement les tendons ?",
+      "options": ["Tissu conjonctif dense", "Tissu musculaire", "Tissu nerveux", "Tissu épithélial"],
+      "reponse": "Tissu conjonctif dense",
+      "explication": "Le tissu conjonctif dense est riche en fibres résistantes et forme les tendons."
+    },
+    {
+      "question": "Les mouvements volontaires du corps sont contrôlés par quel type de muscle ?",
+      "options": ["Muscle squelettique", "Muscle lisse", "Muscle cardiaque", "Tissu conjonctif"],
+      "reponse": "Muscle squelettique",
+      "explication": "Ce muscle est contrôlé consciemment pour produire des mouvements volontaires."
+    },
+    {
+      "question": "Quelle est la fonction des synapses dans le système nerveux ?",
+      "options": ["Transmettre l’influx nerveux entre neurones", "Contracter les muscles", "Transporter le sang", "Produire des hormones"],
+      "reponse": "Transmettre l’influx nerveux entre neurones",
+      "explication": "Les synapses permettent la communication entre neurones via des neurotransmetteurs."
+    },
+    {
+      "question": "Quel tissu est spécialisé dans la réception et la transmission des messages électriques ?",
+      "options": ["Tissu nerveux", "Tissu musculaire", "Tissu conjonctif", "Tissu épithélial"],
+      "reponse": "Tissu nerveux",
+      "explication": "Le tissu nerveux est constitué de neurones spécialisés dans la communication rapide."
+    },
+    {
+      "question": "Les cellules musculaires cardiaques se différencient par :",
+      "options": ["Une contraction rythmique involontaire", "Une contraction volontaire", "Une absence de noyau", "Une absence de stries"],
+      "reponse": "Une contraction rythmique involontaire",
+      "explication": "Le muscle cardiaque se contracte sans contrôle conscient pour pomper le sang."
+    },
+    {
+      "question": "Quel tissu contient des cellules capables de stocker l’énergie sous forme de lipides ?",
+      "options": ["Tissu adipeux", "Tissu musculaire", "Tissu nerveux", "Tissu osseux"],
+      "reponse": "Tissu adipeux",
+      "explication": "Le tissu adipeux sert de réserve énergétique en stockant des graisses."
+    },
+    {
+      "question": "Quel type de tissu assure la protection mécanique du corps ?",
+      "options": ["Tissu osseux", "Tissu nerveux", "Tissu musculaire", "Tissu épithélial"],
+      "reponse": "Tissu osseux",
+      "explication": "Le tissu osseux forme un squelette rigide qui protège les organes."
+    },
+    {
+      "question": "Les cellules gliales ont pour rôle principal :",
+      "options": ["Soutenir et protéger les neurones", "Transmettre les influx nerveux", "Contracter les muscles", "Stocker l’énergie"],
+      "reponse": "Soutenir et protéger les neurones",
+      "explication": "Les cellules gliales assurent le soutien, la protection et la nutrition des neurones."
+    },
+    {
+      "question": "Lors d’un choc, quel tissu protège principalement le cerveau ?",
+      "options": ["Tissu osseux (crâne)", "Tissu musculaire", "Tissu nerveux", "Tissu épithélial"],
+      "reponse": "Tissu osseux (crâne)",
+      "explication": "Le crâne est une structure osseuse qui protège le cerveau des blessures."
+    },
+    {
+      "question": "Qu’est-ce qu’un tissu conjonctif lâche ?",
+      "options": ["Tissu avec fibres espacées et cellules diverses", "Tissu dense avec fibres serrées", "Tissu musculaire", "Tissu nerveux"],
+      "reponse": "Tissu avec fibres espacées et cellules diverses",
+      "explication": "Ce tissu assure la souplesse et remplit les espaces entre organes."
+    },
+    {
+      "question": "Comment s’appelle la zone où un neurone transmet son message à une autre cellule ?",
+      "options": ["Synapse", "Dendrite", "Axone", "Corps cellulaire"],
+      "reponse": "Synapse",
+      "explication": "La synapse est le point de contact où l’influx nerveux est transmis."
+    },
+    {
+      "question": "Quel est le rôle principal du système nerveux ?",
+      "options": ["Contrôler et coordonner les fonctions de l'organisme", "Transporter le sang", "Digérer les aliments", "Produire des hormones"],
+      "reponse": "Contrôler et coordonner les fonctions de l'organisme",
+      "explication": "Le système nerveux reçoit, traite et envoie les informations pour gérer les actions du corps."
+    },
+    {
+      "question": "Quels sont les deux grands constituants du système nerveux ?",
+      "options": ["Système nerveux central et système nerveux périphérique", "Système digestif et système respiratoire", "Cerveau et cœur", "Moelle osseuse et muscles"],
+      "reponse": "Système nerveux central et système nerveux périphérique",
+      "explication": "Le système nerveux est divisé en SNC (cerveau + moelle épinière) et SNP (nerfs)."
+    },
+    {
+      "question": "Le système nerveux central est constitué de :",
+      "options": ["Cerveau et moelle épinière", "Nerfs et muscles", "Yeux et oreilles", "Cœur et poumons"],
+      "reponse": "Cerveau et moelle épinière",
+      "explication": "Le SNC est le centre de traitement des informations nerveuses."
+    },
+    {
+      "question": "Que commande la moelle épinière ?",
+      "options": ["Les réflexes et certaines actions rapides", "La digestion", "La respiration", "Le rythme cardiaque"],
+      "reponse": "Les réflexes et certaines actions rapides",
+      "explication": "La moelle épinière est impliquée dans les réflexes involontaires."
+    },
+    {
+      "question": "Le cerveau est protégé par :",
+      "options": ["Le crâne", "Les muscles", "La peau", "Le diaphragme"],
+      "reponse": "Le crâne",
+      "explication": "Le crâne est une structure osseuse solide qui protège l’encéphale."
+    },
+    {
+      "question": "Quel est le rôle du cervelet ?",
+      "options": ["Coordonner les mouvements et l’équilibre", "Assurer la mémoire", "Contrôler la digestion", "Gérer les émotions"],
+      "reponse": "Coordonner les mouvements et l’équilibre",
+      "explication": "Le cervelet ajuste les mouvements et maintient l’équilibre corporel."
+    },
+    {
+      "question": "Quelle partie du cerveau est responsable de la pensée et de la mémoire ?",
+      "options": ["Cerveau (hémisphères cérébraux)", "Moelle épinière", "Tronc cérébral", "Cervelet"],
+      "reponse": "Cerveau (hémisphères cérébraux)",
+      "explication": "Le cortex cérébral est le siège des fonctions intellectuelles."
+    },
+    {
+      "question": "Quel est le rôle du tronc cérébral ?",
+      "options": ["Contrôler les fonctions vitales involontaires", "Produire les émotions", "Faire battre le cœur volontairement", "Assurer l'équilibre"],
+      "reponse": "Contrôler les fonctions vitales involontaires",
+      "explication": "Le tronc cérébral gère la respiration, le rythme cardiaque, etc."
+    },
+    {
+      "question": "Le système nerveux périphérique comprend :",
+      "options": ["Les nerfs sensitifs et moteurs", "La moelle épinière seulement", "Le cœur et les poumons", "Le cervelet uniquement"],
+      "reponse": "Les nerfs sensitifs et moteurs",
+      "explication": "Ces nerfs relient les organes et muscles au système nerveux central."
+    },
+    {
+      "question": "Un nerf est un :",
+      "options": ["Faisceau de fibres nerveuses", "Os du crâne", "Muscle du cœur", "Vaisseau sanguin"],
+      "reponse": "Faisceau de fibres nerveuses",
+      "explication": "Les nerfs sont composés d’axones regroupés dans une gaine."
+    },
+    {
+      "question": "Les nerfs moteurs transmettent les messages :",
+      "options": ["Du cerveau vers les muscles", "Des yeux vers le cerveau", "Des organes vers le cœur", "Du nez vers les poumons"],
+      "reponse": "Du cerveau vers les muscles",
+      "explication": "Ils permettent au corps de bouger sur commande du cerveau."
+    },
+    {
+      "question": "Les nerfs sensitifs transmettent :",
+      "options": ["Les sensations vers le cerveau", "Les hormones vers le sang", "Le sang vers les muscles", "L'air vers les poumons"],
+      "reponse": "Les sensations vers le cerveau",
+      "explication": "Ils envoient les informations sensorielles (toucher, douleur, etc.) au cerveau."
+    },
+    {
+      "question": "Qu’est-ce qu’un réflexe ?",
+      "options": ["Une réponse rapide, automatique et involontaire à un stimulus", "Un mouvement volontaire", "Une pensée rapide", "Une douleur aiguë"],
+      "reponse": "Une réponse rapide, automatique et involontaire à un stimulus",
+      "explication": "Exemple : retirer sa main rapidement quand on touche quelque chose de chaud."
+    },
+    {
+      "question": "Les neurones sont des cellules spécialisées pour :",
+      "options": ["Transmettre l’influx nerveux", "Digérer les nutriments", "Transporter l’oxygène", "Produire du glucose"],
+      "reponse": "Transmettre l’influx nerveux",
+      "explication": "Ils sont les unités de base du système nerveux."
+    },
+    {
+      "question": "L’influx nerveux est :",
+      "options": ["Un signal électrique transmis par les neurones", "Un muscle", "Une hormone", "Une cellule"],
+      "reponse": "Un signal électrique transmis par les neurones",
+      "explication": "C’est l’information qui circule dans le système nerveux."
+    },
+    {
+      "question": "La synapse est :",
+      "options": ["La zone de communication entre deux neurones", "Une partie du muscle", "Un organe sensoriel", "Une cellule du foie"],
+      "reponse": "La zone de communication entre deux neurones",
+      "explication": "C’est l’endroit où le message passe d’un neurone à un autre."
+    },
+    {
+      "question": "Quel est le trajet de l’influx dans un acte volontaire ?",
+      "options": ["Récepteur → nerf sensitif → cerveau → nerf moteur → muscle", "Cerveau → moelle → estomac", "Peau → muscle → cœur", "Yeux → cœur → tronc cérébral"],
+      "reponse": "Récepteur → nerf sensitif → cerveau → nerf moteur → muscle",
+      "explication": "C’est la voie normale de la commande volontaire."
+    },
+    {
+      "question": "Un message nerveux moteur part toujours :",
+      "options": ["Du cerveau vers un muscle ou une glande", "De la peau vers le cerveau", "Du cœur vers l’intestin", "Des yeux vers les nerfs sensitifs"],
+      "reponse": "Du cerveau vers un muscle ou une glande",
+      "explication": "Les messages moteurs déclenchent une action ou une réponse."
+    },
+    {
+      "question": "Dans le réflexe rotulien, la commande passe par :",
+      "options": ["La moelle épinière uniquement", "Le cerveau", "Le cœur", "Le foie"],
+      "reponse": "La moelle épinière uniquement",
+      "explication": "Ce réflexe est traité directement au niveau de la moelle."
+    },
+    {
+      "question": "Le cortex cérébral est impliqué dans :",
+      "options": ["Les fonctions intellectuelles supérieures", "La respiration automatique", "La digestion", "Le réflexe myotatique"],
+      "reponse": "Les fonctions intellectuelles supérieures",
+      "explication": "C’est la partie du cerveau qui traite la mémoire, le raisonnement, le langage, etc."
+    },
+    {
+      "question": "Le cerveau humain est divisé en :",
+      "options": ["Deux hémisphères", "Quatre moitiés", "Trois nerfs", "Un seul lobe"],
+      "reponse": "Deux hémisphères",
+      "explication": "Les hémisphères cérébraux sont droit et gauche."
+    },
+    {
+      "question": "Le système nerveux est responsable de :",
+      "options": ["La régulation des mouvements, des réflexes et des émotions", "La production des globules rouges", "La digestion des protéines", "La respiration pulmonaire"],
+      "reponse": "La régulation des mouvements, des réflexes et des émotions",
+      "explication": "Il coordonne toutes les activités du corps liées aux stimuli internes et externes."
+    },
+    {
+      "question": "Le système nerveux permet à l’organisme :",
+      "options": ["De percevoir son environnement et d’y réagir", "De digérer plus vite", "De produire des anticorps", "De faire circuler l’eau"],
+      "reponse": "De percevoir son environnement et d’y réagir",
+      "explication": "Il reçoit des informations, les analyse, et envoie des réponses adaptées."
+    },
+    {
+      "question": "Une lésion de la moelle épinière peut entraîner :",
+      "options": ["Une paralysie", "Une fracture", "Une anémie", "Une toux"],
+      "reponse": "Une paralysie",
+      "explication": "La moelle transmet les messages moteurs et sensitifs, sa lésion bloque les mouvements."
+    },
+    {
+      "question": "Les organes des sens envoient les informations au cerveau via :",
+      "options": ["Les nerfs sensitifs", "Les muscles", "Les artères", "Le cœur"],
+      "reponse": "Les nerfs sensitifs",
+      "explication": "Ils transmettent les messages comme la douleur, la chaleur, le son, etc."
+    },
+    {
+      "question": "Le réflexe est plus rapide qu’un acte volontaire car :",
+      "options": ["Il ne passe pas par le cerveau", "Il passe deux fois par le cerveau", "Il utilise les muscles directement", "Il dépend des globules rouges"],
+      "reponse": "Il ne passe pas par le cerveau",
+      "explication": "Le message est traité par la moelle épinière sans analyse consciente."
+    },
+    {
+      "question": "Le cerveau est relié à la moelle épinière par :",
+      "options": ["Le tronc cérébral", "Le cervelet", "Le pancréas", "Les vertèbres"],
+      "reponse": "Le tronc cérébral",
+      "explication": "Il assure la liaison entre les structures cérébrales et la moelle épinière."
+    },
+    {
+      "question": "Le cerveau est irrigué par :",
+      "options": ["Des artères cérébrales", "Des nerfs moteurs", "Des veines pulmonaires", "Des muscles lisses"],
+      "reponse": "Des artères cérébrales",
+      "explication": "Elles lui apportent oxygène et nutriments essentiels à son fonctionnement."
+    },
+    {
+      "question": "Qu’est-ce qu’un nerf mixte ?",
+      "options": ["Un nerf qui transporte à la fois messages sensitifs et moteurs", "Un nerf qui transporte le sang", "Un nerf du cœur", "Un muscle qui se contracte"],
+      "reponse": "Un nerf qui transporte à la fois messages sensitifs et moteurs",
+      "explication": "Il est capable d’amener les informations sensorielles au cerveau et les ordres vers les muscles."
+    },
+    {
+      "question": "Que provoque une stimulation électrique d’un nerf moteur ?",
+      "options": ["Une contraction musculaire", "Une sensation de chaleur", "Un arrêt cardiaque", "Un saignement"],
+      "reponse": "Une contraction musculaire",
+      "explication": "Le nerf moteur commande les fibres musculaires pour le mouvement."
+    },
+    {
+      "question": "Un élève touche accidentellement une plaque chaude et retire sa main aussitôt. Quelle structure a permis cette réaction rapide ?",
+      "options": ["Moelle épinière", "Cervelet", "Tronc cérébral", "Hémisphère gauche"],
+      "reponse": "Moelle épinière",
+      "explication": "Ce réflexe est géré directement par la moelle sans passer par le cerveau."
+    },
+    {
+      "question": "Un accident coupe la moelle épinière au niveau du dos. Quelle est la conséquence la plus probable ?",
+      "options": ["Paralysie des membres inférieurs", "Trouble de la digestion", "Arrêt cardiaque", "Perte d’audition"],
+      "reponse": "Paralysie des membres inférieurs",
+      "explication": "La moelle épinière transmet les commandes motrices vers les jambes."
+    },
+    {
+      "question": "Lorsqu'on lit un texte, quelle partie du système nerveux est principalement sollicitée ?",
+      "options": ["Hémisphères cérébraux", "Moelle épinière", "Cervelet", "Tronc cérébral"],
+      "reponse": "Hémisphères cérébraux",
+      "explication": "Le cortex cérébral analyse les images, le langage et la compréhension."
+    },
+    {
+      "question": "Lors d’une chute, un élève se cogne fortement l’arrière du crâne et perd l’équilibre. Quelle partie est probablement touchée ?",
+      "options": ["Cervelet", "Moelle épinière", "Cerveau frontal", "Nerf moteur"],
+      "reponse": "Cervelet",
+      "explication": "Le cervelet régule les mouvements et l’équilibre du corps."
+    },
+    {
+      "question": "Un choc violent à la tête peut perturber le rythme cardiaque si quelle structure est atteinte ?",
+      "options": ["Tronc cérébral", "Cervelet", "Cortex visuel", "Hémisphère droit"],
+      "reponse": "Tronc cérébral",
+      "explication": "Il contrôle les fonctions vitales automatiques comme le cœur et la respiration."
+    },
+    {
+      "question": "Un élève est brûlé à la jambe. Quel est l’ordre exact de la transmission du message douloureux jusqu’au mouvement de retrait ?",
+      "options": ["Récepteur → nerf sensitif → moelle → nerf moteur → muscle", "Muscle → cerveau → moelle → peau", "Peau → sang → cerveau → muscle", "Moelle → muscle → nerf moteur → cerveau"],
+      "reponse": "Récepteur → nerf sensitif → moelle → nerf moteur → muscle",
+      "explication": "Ce trajet rapide illustre le circuit d’un réflexe spinal."
+    },
+    {
+      "question": "Un coup sur la tête entraîne des troubles de la parole. Quelle zone du cerveau pourrait être atteinte ?",
+      "options": ["Hémisphère gauche", "Cervelet", "Moelle épinière", "Nerf optique"],
+      "reponse": "Hémisphère gauche",
+      "explication": "Chez la majorité des personnes, la parole est contrôlée par l’hémisphère gauche."
+    },
+    {
+      "question": "Si un nerf moteur est sectionné, quelle conséquence peut-on observer ?",
+      "options": ["Perte de mouvement volontaire", "Perte de sensibilité", "Trouble digestif", "Saignement important"],
+      "reponse": "Perte de mouvement volontaire",
+      "explication": "Les nerfs moteurs commandent les muscles. S’ils sont coupés, les muscles ne reçoivent plus les ordres."
+    },
+    {
+      "question": "Quel est l’effet d’un endormissement prolongé sur la transmission de l’influx nerveux ?",
+      "options": ["Il est ralenti", "Il est accéléré", "Il est multiplié", "Il devient hormonal"],
+      "reponse": "Il est ralenti",
+      "explication": "Le sommeil réduit l’activité neuronale volontaire et ralentit certaines réponses."
+    },
+    {
+      "question": "Une maladie attaque les gaines de myéline. Quelle conséquence cela peut-il avoir ?",
+      "options": ["Diminution de la vitesse de l’influx nerveux", "Paralysie immédiate du cœur", "Destruction des globules rouges", "Multiplication des neurones"],
+      "reponse": "Diminution de la vitesse de l’influx nerveux",
+      "explication": "La myéline permet une transmission rapide. Sa destruction ralentit les signaux."
+    },
+    {
+      "question": "Lors d’une piqûre au doigt, on ressent la douleur avant de voir la blessure. Pourquoi ?",
+      "options": ["Le message nerveux circule plus vite que la lumière", "La moelle bloque le signal visuel", "La vue est moins sensible", "Le cerveau analyse d’abord la douleur"],
+      "reponse": "Le cerveau analyse d’abord la douleur",
+      "explication": "La douleur est un message rapide et prioritaire, traité avant d’autres informations."
+    },
+    {
+      "question": "Pourquoi le cerveau est-il irrigué en permanence par des vaisseaux sanguins ?",
+      "options": ["Pour lui apporter oxygène et nutriments", "Pour envoyer des hormones", "Pour évacuer les déchets musculaires", "Pour refroidir le cerveau"],
+      "reponse": "Pour lui apporter oxygène et nutriments",
+      "explication": "Le cerveau a une activité intense et consomme beaucoup d’énergie."
+    },
+    {
+      "question": "Une perte de sensation au pied droit peut indiquer une atteinte de :",
+      "options": ["Nerfs sensitifs de la jambe", "Cerveau droit", "Nerfs moteurs du bras", "Moelle osseuse"],
+      "reponse": "Nerfs sensitifs de la jambe",
+      "explication": "Les nerfs sensitifs transmettent les sensations ; leur atteinte bloque la perception."
+    },
+    {
+      "question": "Après un choc, une personne respire difficilement. Quelle zone nerveuse peut être touchée ?",
+      "options": ["Tronc cérébral", "Moelle osseuse", "Cervelet", "Muscles du bras"],
+      "reponse": "Tronc cérébral",
+      "explication": "Il contrôle la respiration et d'autres fonctions vitales automatiques."
+    },
+    {
+      "question": "L’hémisphère droit du cerveau contrôle :",
+      "options": ["Le côté gauche du corps", "Le cœur", "Les deux jambes", "La parole"],
+      "reponse": "Le côté gauche du corps",
+      "explication": "Chaque hémisphère cérébral contrôle le côté opposé du corps."
+    },
+    {
+      "question": "Quel test simple permet d’évaluer un réflexe spinal en classe ?",
+      "options": ["Le réflexe rotulien", "Un test sanguin", "Une IRM", "Une radiographie"],
+      "reponse": "Le réflexe rotulien",
+      "explication": "C’est un test de percussion sur le genou pour observer une réaction automatique."
+    },
+    {
+      "question": "Une maladie du cervelet entraîne :",
+      "options": ["Des troubles de l’équilibre et de la coordination", "Une anémie", "Une toux", "Une perte de vision"],
+      "reponse": "Des troubles de l’équilibre et de la coordination",
+      "explication": "Le cervelet règle les mouvements fins et l’équilibre postural."
+    },
+    {
+      "question": "Pourquoi les actes réflexes sont-ils plus rapides que les actions volontaires ?",
+      "options": ["Parce qu’ils ne passent pas par le cerveau", "Parce qu’ils sont musculaires", "Parce qu’ils sont hormonaux", "Parce qu’ils utilisent le cœur"],
+      "reponse": "Parce qu’ils ne passent pas par le cerveau",
+      "explication": "Le message réflexe est directement géré par la moelle épinière."
+    },
+    {
+      "question": "Si un élève entend mal, quel nerf est peut-être concerné ?",
+      "options": ["Nerf auditif", "Nerf optique", "Nerf moteur", "Nerf olfactif"],
+      "reponse": "Nerf auditif",
+      "explication": "Le nerf auditif transmet les sons de l’oreille interne au cerveau."
+    },
+    {
+      "question": "Pourquoi le système nerveux est qualifié de « centre de commande » ?",
+      "options": ["Il régit et coordonne toutes les fonctions du corps", "Il produit des vitamines", "Il pompe le sang", "Il absorbe les aliments"],
+      "reponse": "Il régit et coordonne toutes les fonctions du corps",
+      "explication": "Le système nerveux donne les ordres de fonctionnement à tous les autres systèmes."
+    }
+  ]
+}

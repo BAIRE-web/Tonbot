@@ -1,0 +1,358 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le rôle principal de l’appareil digestif ?",
+      "options": ["Respirer", "Transporter le sang", "Transformer les aliments", "Faire battre le cœur"],
+      "reponse": "Transformer les aliments",
+      "explication": "L’appareil digestif transforme les aliments en nutriments utilisables par le corps."
+    },
+    {
+      "question": "La digestion commence dans :",
+      "options": ["L’estomac", "Le foie", "La bouche", "L’intestin"],
+      "reponse": "La bouche",
+      "explication": "La salive agit dès la bouche pour commencer la digestion des aliments."
+    },
+    {
+      "question": "Quel est le rôle des dents dans la digestion ?",
+      "options": ["Avaler les aliments", "Mélanger le sang", "Couper et broyer les aliments", "Produire de la salive"],
+      "reponse": "Couper et broyer les aliments",
+      "explication": "Les dents rendent les aliments plus faciles à digérer."
+    },
+    {
+      "question": "Le rôle de la salive est de :",
+      "options": ["Casser les os", "Lubrifier et commencer la digestion", "Colorer les aliments", "Protéger les yeux"],
+      "reponse": "Lubrifier et commencer la digestion",
+      "explication": "La salive contient des enzymes qui commencent la digestion de l’amidon."
+    },
+    {
+      "question": "Après la bouche, les aliments passent par :",
+      "options": ["L’intestin", "L’estomac", "L’œsophage", "Le foie"],
+      "reponse": "L’œsophage",
+      "explication": "L’œsophage conduit les aliments de la bouche à l’estomac."
+    },
+    {
+      "question": "Dans quel organe les aliments sont transformés en bouillie ?",
+      "options": ["Le foie", "La bouche", "L’intestin", "L’estomac"],
+      "reponse": "L’estomac",
+      "explication": "L’estomac brasse les aliments avec des sucs gastriques pour former le chyme."
+    },
+    {
+      "question": "Quel est le rôle du suc gastrique ?",
+      "options": ["Colorer le sang", "Dissoudre les os", "Transformer les protéines", "Respirer"],
+      "reponse": "Transformer les protéines",
+      "explication": "Les sucs gastriques contiennent des enzymes qui digèrent les protéines."
+    },
+    {
+      "question": "Le foie produit une substance appelée :",
+      "options": ["Salive", "Sueur", "Bile", "Sang"],
+      "reponse": "Bile",
+      "explication": "La bile facilite la digestion des graisses dans l’intestin grêle."
+    },
+    {
+      "question": "La bile est stockée dans :",
+      "options": ["Le pancréas", "La vésicule biliaire", "Les reins", "Le côlon"],
+      "reponse": "La vésicule biliaire",
+      "explication": "La bile produite par le foie est stockée dans la vésicule biliaire."
+    },
+    {
+      "question": "Le pancréas produit :",
+      "options": ["Des enzymes digestives", "De la salive", "De l’urine", "Du sang"],
+      "reponse": "Des enzymes digestives",
+      "explication": "Le pancréas libère des sucs qui aident à digérer les glucides, lipides et protéines."
+    },
+    {
+      "question": "L’intestin grêle a pour rôle principal :",
+      "options": ["Stocker les aliments", "Absorber les nutriments", "Transformer les urines", "Produire de la salive"],
+      "reponse": "Absorber les nutriments",
+      "explication": "C’est au niveau de l’intestin grêle que les nutriments passent dans le sang."
+    },
+    {
+      "question": "L’absorption intestinale permet :",
+      "options": ["D’uriner", "De digérer", "D’éliminer le gaz", "De faire passer les nutriments dans le sang"],
+      "reponse": "De faire passer les nutriments dans le sang",
+      "explication": "Les nutriments digérés traversent la paroi intestinale pour nourrir les cellules."
+    },
+    {
+      "question": "Les villosités intestinales servent à :",
+      "options": ["Donner du goût", "Faire respirer l’intestin", "Augmenter la surface d’absorption", "Former les selles"],
+      "reponse": "Augmenter la surface d’absorption",
+      "explication": "Les villosités augmentent la surface de contact avec les nutriments."
+    },
+    {
+      "question": "Le gros intestin sert à :",
+      "options": ["Digérer les aliments", "Absorber l’eau et former les selles", "Produire de la bile", "Transformer le sang"],
+      "reponse": "Absorber l’eau et former les selles",
+      "explication": "Il récupère l’eau restante et compact les déchets."
+    },
+    {
+      "question": "Les selles sont évacuées par :",
+      "options": ["L’anus", "Le foie", "L’estomac", "La vessie"],
+      "reponse": "L’anus",
+      "explication": "Les déchets de la digestion sont évacués par l’anus."
+    },
+    {
+      "question": "Une bonne digestion commence par :",
+      "options": ["Manger vite", "Manger allongé", "Bien mâcher", "Boire du sel"],
+      "reponse": "Bien mâcher",
+      "explication": "La mastication permet de découper les aliments et facilite leur digestion."
+    },
+    {
+      "question": "Quelle habitude favorise une bonne digestion ?",
+      "options": ["Manger trop vite", "Manger calmement et à heures régulières", "Sauter les repas", "Boire du soda à jeun"],
+      "reponse": "Manger calmement et à heures régulières",
+      "explication": "La régularité et la modération facilitent le travail digestif."
+    },
+    {
+      "question": "Un excès de graisses peut causer :",
+      "options": ["Une bonne mémoire", "Des troubles digestifs", "Une digestion rapide", "Une croissance musculaire"],
+      "reponse": "Des troubles digestifs",
+      "explication": "Les aliments gras ralentissent la digestion et fatiguent le foie."
+    },
+    {
+      "question": "Pourquoi faut-il boire de l’eau pendant les repas ?",
+      "options": ["Pour remplir l’estomac", "Pour accélérer la digestion", "Pour diluer les sucs digestifs", "Pour aider à avaler et hydrater"],
+      "reponse": "Pour aider à avaler et hydrater",
+      "explication": "L’eau facilite le passage des aliments et l’hydratation des organes."
+    },
+    {
+      "question": "Le fait de manger des fruits et légumes permet :",
+      "options": ["D’accélérer le cœur", "De faciliter le transit intestinal", "De produire des globules", "De créer du sucre"],
+      "reponse": "De faciliter le transit intestinal",
+      "explication": "Les fibres contenues dans les légumes stimulent le fonctionnement du côlon."
+    },
+    {
+      "question": "Que se passe-t-il si on mange trop vite ?",
+      "options": ["Meilleure digestion", "Meilleure mémoire", "Risque de mauvaise digestion", "Risque d’endormissement"],
+      "reponse": "Risque de mauvaise digestion",
+      "explication": "Le manque de mastication ralentit et perturbe la digestion."
+    },
+    {
+      "question": "Pourquoi faut-il éviter les aliments avariés ?",
+      "options": ["Ils sont moins beaux", "Ils rendent somnolent", "Ils peuvent causer des intoxications", "Ils coûtent cher"],
+      "reponse": "Ils peuvent causer des intoxications",
+      "explication": "Les aliments gâtés contiennent des microbes dangereux pour la santé."
+    },
+    {
+      "question": "L’excès de sucre dans l’alimentation peut causer :",
+      "options": ["La bonne digestion", "Le diabète", "Une croissance rapide", "Une forte tension"],
+      "reponse": "Le diabète",
+      "explication": "Trop de sucre dans le sang perturbe le métabolisme et fatigue le pancréas."
+    },
+    {
+      "question": "Une personne constipée doit consommer :",
+      "options": ["Du riz blanc", "Des fruits et légumes", "Du beurre", "De la viande rouge"],
+      "reponse": "Des fruits et légumes",
+      "explication": "Les fibres végétales favorisent le transit intestinal."
+    },
+    {
+      "question": "Les aliments digérés sont transportés dans le corps grâce à :",
+      "options": ["Le système digestif", "Le système nerveux", "Le sang", "Le squelette"],
+      "reponse": "Le sang",
+      "explication": "Les nutriments sont absorbés et transportés par le sang jusqu’aux cellules."
+    },
+    {
+      "question": "Le rôle du pancréas dans la digestion est de :",
+      "options": ["Casser les os", "Produire des enzymes digestives", "Fabriquer de l’oxygène", "Donner le goût"],
+      "reponse": "Produire des enzymes digestives",
+      "explication": "Ces enzymes agissent sur les lipides, glucides et protéines."
+    },
+    {
+      "question": "Pourquoi faut-il varier son alimentation ?",
+      "options": ["Pour éviter l’ennui", "Pour équilibrer les apports nutritifs", "Pour manger plus", "Pour maigrir"],
+      "reponse": "Pour équilibrer les apports nutritifs",
+      "explication": "Chaque groupe alimentaire apporte des éléments différents et indispensables."
+    },
+    {
+      "question": "Un repas trop gras provoque souvent :",
+      "options": ["Une bonne digestion", "Une somnolence", "Des maux de ventre", "Une forte énergie"],
+      "reponse": "Des maux de ventre",
+      "explication": "Les graisses en excès fatiguent le foie et ralentissent la digestion."
+    },
+    {
+      "question": "L’organe responsable de l’absorption des nutriments est :",
+      "options": ["L’estomac", "Le pancréas", "L’intestin grêle", "La vésicule biliaire"],
+      "reponse": "L’intestin grêle",
+      "explication": "Il contient des villosités qui absorbent les nutriments dans le sang."
+    },
+    {
+      "question": "Les déchets non absorbés deviennent :",
+      "options": ["Du sang", "Des gaz", "Des selles", "Des sucs digestifs"],
+      "reponse": "Des selles",
+      "explication": "Les restes non digérés sont évacués par l’anus sous forme de selles."
+    },
+    {
+      "question": "Un élève mange du riz, de la sauce et du poisson. Quelle partie de l’appareil digestif commence la digestion des glucides ?",
+      "options": ["L’estomac", "La bouche", "L’intestin", "Le foie"],
+      "reponse": "La bouche",
+      "explication": "La salive contient une enzyme (amylase) qui commence la digestion de l’amidon (glucides)."
+    },
+    {
+      "question": "Un enfant avale un gros morceau sans mâcher. Quelle conséquence possible ?",
+      "options": ["Digestion rapide", "Risque d’étouffement", "Absorption rapide", "Élimination directe"],
+      "reponse": "Risque d’étouffement",
+      "explication": "Un aliment non mastiqué peut bloquer l’œsophage et gêner la respiration."
+    },
+    {
+      "question": "Un patient a mal à l’estomac après un repas gras. Pourquoi ?",
+      "options": ["Excès de protéines", "Travail du cœur", "Surcharge de l’estomac", "Excès d’eau"],
+      "reponse": "Surcharge de l’estomac",
+      "explication": "Les aliments gras sont longs à digérer et surchargent l’estomac."
+    },
+    {
+      "question": "Une personne a une diarrhée après avoir mangé des aliments avariés. Quelle explication ?",
+      "options": ["Manque d’eau", "Bonne absorption", "Réaction de défense", "Absence de mastication"],
+      "reponse": "Réaction de défense",
+      "explication": "Le corps expulse rapidement les aliments contaminés par les microbes."
+    },
+    {
+      "question": "Une coupure de la vésicule biliaire entraînerait une mauvaise digestion de :",
+      "options": ["L’eau", "Les fibres", "Les graisses", "Les protéines"],
+      "reponse": "Les graisses",
+      "explication": "La bile émulsionne les graisses pour les rendre digestibles."
+    },
+    {
+      "question": "Un élève observe un intestin grêle avec de nombreuses villosités. Leur fonction est :",
+      "options": ["Absorber l’eau", "Augmenter la surface d’absorption", "Stocker les aliments", "Fabriquer la bile"],
+      "reponse": "Augmenter la surface d’absorption",
+      "explication": "Les villosités permettent une meilleure absorption des nutriments."
+    },
+    {
+      "question": "Après un repas, le sang est plus concentré en nutriments. Pourquoi ?",
+      "options": ["Nutriments libérés dans les muscles", "Nutriments absorbés par l’intestin", "Digestion incomplète", "Présence de vitamines dans le foie"],
+      "reponse": "Nutriments absorbés par l’intestin",
+      "explication": "Les nutriments digérés passent dans le sang au niveau de l’intestin grêle."
+    },
+    {
+      "question": "Un enfant refuse de manger des légumes. Quel risque sur la digestion ?",
+      "options": ["Excellente digestion", "Manque de fibres", "Trop d’acidité", "Trouble du pancréas"],
+      "reponse": "Manque de fibres",
+      "explication": "Les fibres facilitent le transit intestinal et préviennent la constipation."
+    },
+    {
+      "question": "Un homme mange très vite et ressent des ballonnements. Pourquoi ?",
+      "options": ["Bonne mastication", "Absence de bile", "Air avalé", "Sels minéraux en excès"],
+      "reponse": "Air avalé",
+      "explication": "Manger vite fait avaler de l’air qui cause des ballonnements."
+    },
+    {
+      "question": "Après un repas, une femme ressent des brûlures à l’estomac. Cela est causé par :",
+      "options": ["L’urine acide", "Le retour du suc gastrique", "La bile trop concentrée", "Le manque de salive"],
+      "reponse": "Le retour du suc gastrique",
+      "explication": "Les sucs acides remontent parfois vers l’œsophage, causant des brûlures."
+    },
+    {
+      "question": "Un élève boit trop de boissons sucrées et a des douleurs abdominales. La cause probable est :",
+      "options": ["Trop de protéines", "Trop de glucides", "Trop de fibres", "Trop de vitamines"],
+      "reponse": "Trop de glucides",
+      "explication": "Les excès de sucres entraînent des troubles digestifs et fermentation."
+    },
+    {
+      "question": "Une personne ne produit plus de salive. Elle aura des difficultés à :",
+      "options": ["Respirer", "Uriner", "Mastiquer", "Commencer la digestion"],
+      "reponse": "Commencer la digestion",
+      "explication": "La salive commence la digestion et lubrifie les aliments."
+    },
+    {
+      "question": "Pourquoi les aliments gras ralentissent-ils la digestion ?",
+      "options": ["Ils forment des caillots", "Ils bloquent l’estomac", "Ils nécessitent plus de bile", "Ils bouchent les intestins"],
+      "reponse": "Ils nécessitent plus de bile",
+      "explication": "Les graisses sont plus longues à digérer car elles nécessitent la bile et les enzymes pancréatiques."
+    },
+    {
+      "question": "Une personne souffre de constipation chronique. On lui conseille :",
+      "options": ["De boire du lait", "De manger plus de viande", "De consommer des fibres", "De dormir tôt"],
+      "reponse": "De consommer des fibres",
+      "explication": "Les fibres favorisent le transit intestinal."
+    },
+    {
+      "question": "Un patient perd ses selles très liquides. On parle de :",
+      "options": ["Constipation", "Diarrhée", "Anémie", "Déshydratation"],
+      "reponse": "Diarrhée",
+      "explication": "La diarrhée est l’émission fréquente de selles liquides causée souvent par des infections."
+    },
+    {
+      "question": "Une personne mange beaucoup de viande mais peu de fruits. Elle risque :",
+      "options": ["Une anémie", "Une constipation", "Une indigestion", "Une carie"],
+      "reponse": "Une constipation",
+      "explication": "L’absence de fibres rend le transit intestinal lent."
+    },
+    {
+      "question": "Quel organe agit après l’estomac dans la digestion ?",
+      "options": ["Le foie", "L’intestin grêle", "La bouche", "Le côlon"],
+      "reponse": "L’intestin grêle",
+      "explication": "L’intestin grêle poursuit la digestion et assure l’absorption des nutriments."
+    },
+    {
+      "question": "Un élève a une infection intestinale. On lui interdit :",
+      "options": ["Les médicaments", "Les fruits", "Les boissons sucrées", "Les aliments crus"],
+      "reponse": "Les aliments crus",
+      "explication": "Les aliments crus peuvent aggraver une infection en contenant des microbes."
+    },
+    {
+      "question": "Pourquoi faut-il éviter de manger trop gras le soir ?",
+      "options": ["Car on est actif", "Car la bile est absente", "Car la digestion est plus lente", "Car le sucre est élevé"],
+      "reponse": "Car la digestion est plus lente",
+      "explication": "Le métabolisme ralentit la nuit, rendant la digestion plus difficile."
+    },
+    {
+      "question": "Un élève remarque que les aliments passent dans le sang. Ce phénomène s’appelle :",
+      "options": ["La mastication", "L’absorption", "La défécation", "L’ingestion"],
+      "reponse": "L’absorption",
+      "explication": "L’absorption est le passage des nutriments digérés dans le sang via l’intestin."
+    },
+    {
+      "question": "Un malade pancréatique digère mal. Pourquoi ?",
+      "options": ["Manque de bile", "Manque de salive", "Absence d’enzymes digestives", "Excès d’eau"],
+      "reponse": "Absence d’enzymes digestives",
+      "explication": "Le pancréas produit des enzymes nécessaires à la digestion complète."
+    },
+    {
+      "question": "Une personne vomit après un repas. Cela indique :",
+      "options": ["Bonne digestion", "Trouble digestif", "Excellente absorption", "Bonne santé intestinale"],
+      "reponse": "Trouble digestif",
+      "explication": "Les vomissements sont souvent un signe d’irritation ou intoxication."
+    },
+    {
+      "question": "Le jus intestinal est produit par :",
+      "options": ["Le foie", "Le pancréas", "L’intestin lui-même", "La bouche"],
+      "reponse": "L’intestin lui-même",
+      "explication": "L’intestin sécrète ses propres sucs pour terminer la digestion."
+    },
+    {
+      "question": "Quel type d’aliment reste le plus longtemps dans l’estomac ?",
+      "options": ["Les légumes", "Les graisses", "Les sucres rapides", "Les fruits"],
+      "reponse": "Les graisses",
+      "explication": "Les graisses prennent plus de temps à être digérées que les autres types."
+    },
+    {
+      "question": "Une personne ressent une douleur au bas-ventre après un repas. Quel organe est probablement impliqué ?",
+      "options": ["Cerveau", "Côlon", "Rein", "Œsophage"],
+      "reponse": "Côlon",
+      "explication": "Les douleurs abdominales après repas sont souvent liées au côlon ou à l’intestin."
+    },
+    {
+      "question": "Un enfant qui mange toujours les mêmes aliments risque :",
+      "options": ["Une digestion facile", "Une croissance rapide", "Des carences", "Un transit parfait"],
+      "reponse": "Des carences",
+      "explication": "L’absence de variété entraîne un manque de certains nutriments."
+    },
+    {
+      "question": "Le transit intestinal est facilité par :",
+      "options": ["Les aliments transformés", "Les graisses animales", "Les fibres végétales", "Le sucre blanc"],
+      "reponse": "Les fibres végétales",
+      "explication": "Les fibres améliorent le mouvement des selles dans l’intestin."
+    },
+    {
+      "question": "Un enfant boit de l’eau glacée en mangeant. Cela peut :",
+      "options": ["Favoriser la digestion", "Causer des crampes", "Produire plus de salive", "Renforcer les sucs digestifs"],
+      "reponse": "Causer des crampes",
+      "explication": "L’eau glacée peut provoquer un choc thermique dans l’estomac."
+    },
+    {
+      "question": "Un individu ne peut plus absorber les graisses. Quel organe est probablement atteint ?",
+      "options": ["Cerveau", "Foie", "Reins", "Estomac"],
+      "reponse": "Foie",
+      "explication": "Le foie produit la bile qui permet de digérer les graisses."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle date marque la signature du Traité de Versailles ?",
+      "options": ["28 juin 1919", "11 novembre 1918", "1er septembre 1939", "14 juillet 1920"],
+      "reponse": "28 juin 1919",
+      "explication": "Le traité de Versailles est signé le 28 juin 1919, mettant officiellement fin à la Première Guerre mondiale."
+    },
+    {
+      "question": "Quel pays est principalement tenu responsable de la Première Guerre mondiale par le traité de Versailles ?",
+      "options": ["L’Allemagne", "La France", "Le Royaume-Uni", "La Russie"],
+      "reponse": "L’Allemagne",
+      "explication": "Le traité impose à l’Allemagne la responsabilité exclusive du conflit."
+    },
+    {
+      "question": "Quelle conséquence économique majeure le traité impose-t-il à l’Allemagne ?",
+      "options": ["De lourdes réparations financières", "La réduction de son armée", "La perte de colonies", "Toutes les réponses"],
+      "reponse": "Toutes les réponses",
+      "explication": "L’Allemagne doit payer des réparations, réduire son armée et céder des territoires."
+    },
+    {
+      "question": "Quelle crise économique mondiale débute en 1929 ?",
+      "options": ["La Grande Dépression", "La crise pétrolière", "La récession des années 2000", "La crise financière de 2008"],
+      "reponse": "La Grande Dépression",
+      "explication": "La crise de 1929, dite Grande Dépression, provoque un effondrement économique mondial."
+    },
+    {
+      "question": "Quelle est la cause immédiate du krach boursier de 1929 aux États-Unis ?",
+      "options": ["Le jeudi noir", "La hausse des taux d’intérêt", "La fin de la guerre", "La baisse des exportations"],
+      "reponse": "Le jeudi noir",
+      "explication": "Le jeudi 24 octobre 1929, la Bourse de New York s’effondre brutalement."
+    },
+    {
+      "question": "Quels sont les effets principaux de la crise économique de 1929 ?",
+      "options": ["Chômage massif, faillites d’entreprises, pauvreté", "Croissance économique", "Expansion industrielle", "Réduction des impôts"],
+      "reponse": "Chômage massif, faillites d’entreprises, pauvreté",
+      "explication": "La crise provoque une forte récession et une crise sociale importante."
+    },
+    {
+      "question": "Quel système politique totalitaire apparaît en Union soviétique ?",
+      "options": ["Stalinisme", "Nazisme", "Fascisme", "Démocratie"],
+      "reponse": "Stalinisme",
+      "explication": "Sous Joseph Staline, l’URSS développe un régime totalitaire."
+    },
+    {
+      "question": "Quel dirigeant incarne le fascisme en Italie ?",
+      "options": ["Benito Mussolini", "Adolf Hitler", "Joseph Staline", "Winston Churchill"],
+      "reponse": "Benito Mussolini",
+      "explication": "Mussolini instaure un régime autoritaire et nationaliste en Italie."
+    },
+    {
+      "question": "Le nazisme est le régime politique d’un pays :",
+      "options": ["Allemagne", "Italie", "URSS", "France"],
+      "reponse": "Allemagne",
+      "explication": "Le nazisme est le régime d’Adolf Hitler en Allemagne."
+    },
+    {
+      "question": "Quelle organisation paramilitaire sert à imposer le pouvoir nazi ?",
+      "options": ["La Gestapo", "La SA", "La Wehrmacht", "Le KGB"],
+      "reponse": "La SA",
+      "explication": "La Sturmabteilung (SA) aide à intimider les opposants au nazisme."
+    },
+    {
+      "question": "Quelles sont les caractéristiques communes des régimes totalitaires de l’entre-deux-guerres ?",
+      "options": ["Un parti unique, contrôle total de la société, répression", "Démocratie multipartite", "Liberté de la presse", "Pluralisme politique"],
+      "reponse": "Un parti unique, contrôle total de la société, répression",
+      "explication": "Ces régimes s’appuient sur la dictature, la propagande et la terreur."
+    },
+    {
+      "question": "Quelle est la date du début officiel de la Seconde Guerre mondiale ?",
+      "options": ["1er septembre 1939", "28 juin 1919", "7 décembre 1941", "11 novembre 1918"],
+      "reponse": "1er septembre 1939",
+      "explication": "L’invasion de la Pologne par l’Allemagne marque le début du conflit."
+    },
+    {
+      "question": "Quel traité vise à garantir la paix mais est largement ignoré par les régimes totalitaires ?",
+      "options": ["La Société des Nations", "Le traité de Versailles", "Le pacte de non-agression", "Le Traité de Tordesillas"],
+      "reponse": "La Société des Nations",
+      "explication": "Créée pour maintenir la paix, elle est inefficace face aux dictatures."
+    },
+    {
+      "question": "Quelle politique économique est adoptée par Roosevelt pour sortir de la crise aux États-Unis ?",
+      "options": ["Le New Deal", "Le capitalisme sauvage", "Le communisme", "Le libéralisme économique"],
+      "reponse": "Le New Deal",
+      "explication": "Programme de réformes et d’investissements pour relancer l’économie."
+    },
+    {
+      "question": "Quelles sont les conséquences sociales de la montée des totalitarismes ?",
+      "options": ["Répression, suppression des libertés, propagande", "Liberté d’expression", "Pluralisme politique", "Développement économique pacifique"],
+      "reponse": "Répression, suppression des libertés, propagande",
+      "explication": "Les régimes totalitaires utilisent la peur et la propagande pour contrôler."
+    },
+    {
+      "question": "Quel est le rôle de la propagande dans les régimes totalitaires ?",
+      "options": ["Manipuler l’opinion publique", "Informer librement", "Permettre le débat politique", "Protéger les minorités"],
+      "reponse": "Manipuler l’opinion publique",
+      "explication": "La propagande sert à diffuser l’idéologie officielle et à écraser l’opposition."
+    },
+    {
+      "question": "Quelle est la politique d’Hitler envers les Juifs pendant l’entre-deux-guerres ?",
+      "options": ["Antisémitisme et persécutions", "Protection et égalité", "Ignorance totale", "Collaboration active"],
+      "reponse": "Antisémitisme et persécutions",
+      "explication": "Le nazisme développe un racisme violent et des persécutions envers les Juifs."
+    },
+    {
+      "question": "Quelle est la conséquence territoriale majeure du traité de Versailles pour l’Allemagne ?",
+      "options": ["Perte de l’Alsace-Lorraine", "Gain de colonies", "Extension territoriale", "Neutralité garantie"],
+      "reponse": "Perte de l’Alsace-Lorraine",
+      "explication": "L’Allemagne perd ce territoire au profit de la France."
+    },
+    {
+      "question": "Quels pays forment le pacte d’Acier en 1939 ?",
+      "options": ["Allemagne et Italie", "Allemagne et URSS", "France et Royaume-Uni", "États-Unis et Japon"],
+      "reponse": "Allemagne et Italie",
+      "explication": "Ce pacte formalise l’alliance militaire entre ces deux régimes fascistes."
+    },
+    {
+      "question": "Quel est l’objectif principal du fascisme italien ?",
+      "options": ["Créer un État autoritaire et nationaliste", "Promouvoir la démocratie", "Développer le socialisme", "Encourager le libéralisme"],
+      "reponse": "Créer un État autoritaire et nationaliste",
+      "explication": "Le fascisme vise à centraliser le pouvoir et imposer un nationalisme fort."
+    },
+    {
+      "question": "Qu’est-ce que le stalinisme impose à la société soviétique ?",
+      "options": ["Planification économique centralisée et répression politique", "Liberté politique", "Démocratie multipartite", "Économie de marché"],
+      "reponse": "Planification économique centralisée et répression politique",
+      "explication": "Le stalinisme repose sur une économie dirigée et un régime dictatorial."
+    },
+    {
+      "question": "Quel est le nom de la police politique secrète sous Staline ?",
+      "options": ["NKVD", "Gestapo", "CIA", "KGB"],
+      "reponse": "NKVD",
+      "explication": "Le NKVD réprime brutalement toute opposition au régime soviétique."
+    },
+    {
+      "question": "Pourquoi la Société des Nations a-t-elle échoué à maintenir la paix ?",
+      "options": ["Absence des grandes puissances et manque de moyens", "Puissance militaire trop forte", "Soutien unanime", "Respect des traités"],
+      "reponse": "Absence des grandes puissances et manque de moyens",
+      "explication": "Les États-Unis ne l’ont pas rejointe et elle manquait de force pour agir."
+    },
+    {
+      "question": "Quelle est la politique menée par Hitler à partir de 1933 ?",
+      "options": ["Réarmement et préparation à la guerre", "Démilitarisation", "Paix durable", "Expansion économique pacifique"],
+      "reponse": "Réarmement et préparation à la guerre",
+      "explication": "Hitler remilitarise l’Allemagne en violation du traité de Versailles."
+    },
+    {
+      "question": "Quelle est la nature des élections dans les régimes totalitaires ?",
+      "options": ["Contrôlées et sans véritable choix", "Libres et pluralistes", "Multiples partis", "Réelles oppositions"],
+      "reponse": "Contrôlées et sans véritable choix",
+      "explication": "Les élections sont manipulées pour garantir la domination du parti unique."
+    },
+    {
+      "question": "Quel est le rôle de la jeunesse dans les régimes totalitaires ?",
+      "options": ["Endoctrinement et formation idéologique", "Liberté d’expression", "Engagement politique libre", "Opposition au régime"],
+      "reponse": "Endoctrinement et formation idéologique",
+      "explication": "Les jeunes sont formés à suivre les idées du régime dès leur enfance."
+    },
+    {
+      "question": "Quelles sont les principales conséquences sociales de la crise de 1929 en Europe ?",
+      "options": ["Augmentation du chômage et pauvreté", "Prospérité économique", "Paix sociale", "Croissance démographique"],
+      "reponse": "Augmentation du chômage et pauvreté",
+      "explication": "La crise entraîne une forte hausse du chômage et des tensions sociales."
+    },
+    {
+      "question": "Quel est le but principal du pacte germano-soviétique de 1939 ?",
+      "options": ["Se partager la Pologne", "Aller ensemble en guerre contre la France", "Échanger des technologies", "Promouvoir la paix mondiale"],
+      "reponse": "Se partager la Pologne",
+      "explication": "Ce pacte secret prévoit la division de la Pologne entre l’Allemagne et l’URSS."
+    }
+  ]
+}

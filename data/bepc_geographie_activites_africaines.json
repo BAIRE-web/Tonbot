@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est l’activité économique dominante en Afrique ?",
+      "options": ["Agriculture", "Industrie", "Tourisme", "Pêche"],
+      "reponse": "Agriculture",
+      "explication": "L’agriculture occupe plus de 60 % de la population active en Afrique."
+    },
+    {
+      "question": "Qu’est-ce que l’agriculture vivrière ?",
+      "options": ["Agriculture pour nourrir la famille", "Agriculture pour l’exportation", "Culture en laboratoire", "Culture de fleurs"],
+      "reponse": "Agriculture pour nourrir la famille",
+      "explication": "Elle permet de satisfaire les besoins alimentaires locaux."
+    },
+    {
+      "question": "Quel est un exemple de culture de rente ?",
+      "options": ["Café", "Mil", "Maïs", "Sorgho"],
+      "reponse": "Café",
+      "explication": "Les cultures de rente sont vendues sur le marché, souvent à l’étranger."
+    },
+    {
+      "question": "Quel problème affecte l’agriculture africaine ?",
+      "options": ["Rendements faibles", "Trop de machines", "Excès d’eau", "Trop de main-d’œuvre qualifiée"],
+      "reponse": "Rendements faibles",
+      "explication": "Les techniques sont souvent traditionnelles, avec peu de moyens modernes."
+    },
+    {
+      "question": "Quel est un facteur naturel qui freine l’agriculture ?",
+      "options": ["Sécheresse", "Trop de pluie", "Sol volcanique", "Présence de montagnes"],
+      "reponse": "Sécheresse",
+      "explication": "Le manque d’eau est un obstacle majeur dans de nombreuses régions."
+    },
+    {
+      "question": "Qu’est-ce que l’agriculture extensive ?",
+      "options": ["Utilise de grandes surfaces avec peu de moyens", "Utilise beaucoup de machines", "Fait pousser uniquement du riz", "Culture dans des serres"],
+      "reponse": "Utilise de grandes surfaces avec peu de moyens",
+      "explication": "C’est une agriculture peu productive mais étendue."
+    },
+    {
+      "question": "Qu’est-ce que l’élevage transhumant ?",
+      "options": ["Déplacement saisonnier des troupeaux", "Élevage intensif en ville", "Culture de poissons", "Élevage en laboratoire"],
+      "reponse": "Déplacement saisonnier des troupeaux",
+      "explication": "Les éleveurs déplacent leurs bêtes selon les saisons pour trouver de l’eau et de l’herbe."
+    },
+    {
+      "question": "Quel animal est couramment élevé en Afrique sahélienne ?",
+      "options": ["Bœuf", "Chameau", "Lapin", "Cochon"],
+      "reponse": "Bœuf",
+      "explication": "Le bétail (zébus) est une richesse dans ces régions."
+    },
+    {
+      "question": "Quel pays africain est riche en pétrole ?",
+      "options": ["Nigeria", "Burkina Faso", "Rwanda", "Togo"],
+      "reponse": "Nigeria",
+      "explication": "Le Nigeria est un grand producteur de pétrole dans le Golfe de Guinée."
+    },
+    {
+      "question": "Qu’est-ce qu’une ressource minière ?",
+      "options": ["Minerai extrait du sol", "Produit agricole", "Source d’eau", "Type de forêt"],
+      "reponse": "Minerai extrait du sol",
+      "explication": "L’Afrique est riche en or, cuivre, uranium, pétrole, etc."
+    },
+    {
+      "question": "Quel pays est riche en uranium ?",
+      "options": ["Niger", "Libye", "Côte d’Ivoire", "Sénégal"],
+      "reponse": "Niger",
+      "explication": "Le Niger est un des principaux exportateurs mondiaux d’uranium."
+    },
+    {
+      "question": "Quel est le principal problème lié à l’exploitation minière ?",
+      "options": ["Pollution et conflits", "Trop de travailleurs qualifiés", "Absence de minerais", "Saisons trop pluvieuses"],
+      "reponse": "Pollution et conflits",
+      "explication": "L’exploitation des ressources provoque souvent des dégradations et des tensions."
+    },
+    {
+      "question": "Pourquoi l’Afrique reste-t-elle peu industrialisée ?",
+      "options": ["Manque d’infrastructures et de capitaux", "Excès de pétrole", "Climat trop froid", "Trop de travailleurs qualifiés"],
+      "reponse": "Manque d’infrastructures et de capitaux",
+      "explication": "L’industrialisation est freinée par le manque de routes, d’énergie et d’investissements."
+    },
+    {
+      "question": "Qu’est-ce qu’une matière première ?",
+      "options": ["Produit brut non transformé", "Produit électronique", "Produit importé", "Produit fini prêt à consommer"],
+      "reponse": "Produit brut non transformé",
+      "explication": "Les matières premières comme le coton ou le minerai sont souvent exportées sans transformation."
+    },
+    {
+      "question": "Pourquoi l’exportation des matières premières est un désavantage ?",
+      "options": ["Faible valeur ajoutée", "Risque de gel", "Climat instable", "Peu de consommateurs"],
+      "reponse": "Faible valeur ajoutée",
+      "explication": "L’Afrique vend à bas prix et rachète cher les produits transformés."
+    },
+    {
+      "question": "Qu’est-ce que le commerce intérieur ?",
+      "options": ["Échanges entre pays africains", "Commerce avec l’Europe", "Commerce maritime mondial", "Commerce aérien uniquement"],
+      "reponse": "Échanges entre pays africains",
+      "explication": "Le commerce entre pays africains est encore peu développé mais essentiel pour l’intégration."
+    },
+    {
+      "question": "Pourquoi le commerce africain est-il déséquilibré ?",
+      "options": ["Dépendance aux exportations", "Trop de routes", "Excès de productions", "Manque de soleil"],
+      "reponse": "Dépendance aux exportations",
+      "explication": "Les économies africaines dépendent souvent d’un seul produit d’exportation."
+    },
+    {
+      "question": "Que signifie 'économie informelle' ?",
+      "options": ["Activités non déclarées et non réglementées", "Commerce extérieur officiel", "Banque centrale", "Industrie minière moderne"],
+      "reponse": "Activités non déclarées et non réglementées",
+      "explication": "Ce sont les petits commerces de rue, les artisans, souvent sans impôts ni sécurité."
+    },
+    {
+      "question": "Quel secteur comprend les banques, transports, télécommunications ?",
+      "options": ["Secteur tertiaire", "Secteur primaire", "Secteur secondaire", "Secteur agricole"],
+      "reponse": "Secteur tertiaire",
+      "explication": "Les services constituent une part croissante de l’économie africaine."
+    },
+    {
+      "question": "Qu’est-ce qu’un pays enclavé ?",
+      "options": ["Sans accès à la mer", "Entouré d’îles", "Riche en ressources", "Avec beaucoup de ports"],
+      "reponse": "Sans accès à la mer",
+      "explication": "Ces pays (comme le Burkina Faso) ont des coûts d’exportation plus élevés."
+    },
+    {
+      "question": "Quel est l’impact des routes en mauvais état ?",
+      "options": ["Freine les échanges commerciaux", "Favorise le commerce", "Réduit les inégalités", "Attire les touristes"],
+      "reponse": "Freine les échanges commerciaux",
+      "explication": "Les transports coûteux rendent les produits moins compétitifs."
+    },
+    {
+      "question": "Quel est un facteur d’inégalité de développement en Afrique ?",
+      "options": ["Accès inégal à l’éducation et à la santé", "Présence de volcans", "Trop de zones industrielles", "Forte densité partout"],
+      "reponse": "Accès inégal à l’éducation et à la santé",
+      "explication": "Certains pays ou régions sont plus avancés que d’autres selon leurs moyens."
+    },
+    {
+      "question": "Quel rôle joue l'agriculture dans le développement ?",
+      "options": ["Elle nourrit la population et crée des emplois", "Elle pollue les rivières", "Elle remplace l'industrie", "Elle ralentit le commerce"],
+      "reponse": "Elle nourrit la population et crée des emplois",
+      "explication": "L’agriculture est essentielle pour la sécurité alimentaire et l’emploi rural."
+    },
+    {
+      "question": "Quel est un inconvénient de l’économie mono-exportatrice ?",
+      "options": ["Dépendance aux variations des prix", "Trop de ressources minières", "Stabilité politique", "Excès d’industries locales"],
+      "reponse": "Dépendance aux variations des prix",
+      "explication": "Un pays qui dépend d’un seul produit est vulnérable aux baisses de prix."
+    },
+    {
+      "question": "Quel est un objectif des politiques de développement ?",
+      "options": ["Réduire la pauvreté", "Fermer les écoles", "Arrêter l’industrialisation", "Importer moins de matières premières"],
+      "reponse": "Réduire la pauvreté",
+      "explication": "Les politiques de développement visent à améliorer les conditions de vie."
+    },
+    {
+      "question": "Que signifie 'industrialisation' ?",
+      "options": ["Développement des usines et industries", "Augmentation des cultures", "Extension des forêts", "Diminution des importations"],
+      "reponse": "Développement des usines et industries",
+      "explication": "L’Afrique cherche à transformer ses matières premières localement."
+    },
+    {
+      "question": "Quel est un frein au développement industriel ?",
+      "options": ["Manque d’énergie et d’équipement", "Excès d’eau", "Nombreux volcans", "Main-d’œuvre surqualifiée"],
+      "reponse": "Manque d’énergie et d’équipement",
+      "explication": "Le manque d’infrastructures bloque l’essor industriel."
+    },
+    {
+      "question": "Quel secteur est en forte croissance en Afrique ?",
+      "options": ["Télécommunications", "Mine artisanale", "Culture du thé", "Production d’avions"],
+      "reponse": "Télécommunications",
+      "explication": "Le numérique et le mobile se développent rapidement."
+    },
+    {
+      "question": "Que veut dire 'inégalités régionales' ?",
+      "options": ["Développement inégal entre régions", "Présence de plusieurs ethnies", "Frontières trop longues", "Zones sans désert"],
+      "reponse": "Développement inégal entre régions",
+      "explication": "Certaines zones sont plus riches et développées que d'autres."
+    },
+    {
+      "question": "Quelle solution permettrait de réduire les inégalités ?",
+      "options": ["Investir dans les zones rurales", "Limiter la production agricole", "Augmenter les taxes douanières", "Favoriser l’importation"],
+      "reponse": "Investir dans les zones rurales",
+      "explication": "Cela améliore l’accès aux services et crée des opportunités économiques."
+    }
+  ]
+}

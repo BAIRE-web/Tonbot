@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Une transformation chimique est un phénomène au cours duquel :",
+      "options": ["De nouvelles substances se forment", "La forme d’un objet change", "La température baisse toujours", "Les états changent uniquement"],
+      "reponse": "De nouvelles substances se forment",
+      "explication": "Une transformation chimique produit au moins une nouvelle substance appelée produit."
+    },
+    {
+      "question": "Les substances présentes avant une réaction chimique s’appellent :",
+      "options": ["Réactifs", "Produits", "Gaz", "Résidus"],
+      "reponse": "Réactifs",
+      "explication": "Les réactifs sont les substances qui réagissent entre elles au début de la transformation."
+    },
+    {
+      "question": "Les substances obtenues après une transformation chimique sont appelées :",
+      "options": ["Produits", "Réactifs", "Solutés", "Gaz rares"],
+      "reponse": "Produits",
+      "explication": "Les produits sont les résultats de la réaction chimique entre les réactifs."
+    },
+    {
+      "question": "Quel signe montre une transformation chimique ?",
+      "options": ["Formation d’un gaz", "Changement d’état", "Changement de forme", "Refroidissement de l’objet"],
+      "reponse": "Formation d’un gaz",
+      "explication": "L’apparition de bulles, d’un précipité ou d’un changement de couleur indique une transformation chimique."
+    },
+    {
+      "question": "Lors d’une réaction chimique, la masse totale :",
+      "options": ["Reste constante", "Double", "Diminue toujours", "Devient nulle"],
+      "reponse": "Reste constante",
+      "explication": "Selon la loi de conservation de la masse, rien ne se perd, rien ne se crée."
+    },
+    {
+      "question": "La réaction du fer avec le dioxygène donne :",
+      "options": ["De la rouille", "Du fer pur", "De l’eau", "Du carbone"],
+      "reponse": "De la rouille",
+      "explication": "C’est une réaction d’oxydation du fer appelée corrosion ou rouille."
+    },
+    {
+      "question": "Lors d’une combustion, les réactifs sont :",
+      "options": ["Un combustible et un comburant", "Deux solides", "Deux liquides", "Un acide et une base"],
+      "reponse": "Un combustible et un comburant",
+      "explication": "La combustion nécessite un combustible (ex : bois) et un comburant (ex : dioxygène)."
+    },
+    {
+      "question": "Dans une combustion, l’oxygène joue le rôle de :",
+      "options": ["Comburant", "Combustible", "Produit", "Résidu"],
+      "reponse": "Comburant",
+      "explication": "L’oxygène permet au combustible de brûler : c’est le comburant."
+    },
+    {
+      "question": "Quel produit est souvent formé lors d’une combustion complète ?",
+      "options": ["Dioxyde de carbone", "Hydrogène", "Oxygène", "Soufre"],
+      "reponse": "Dioxyde de carbone",
+      "explication": "La combustion complète du carbone forme du dioxyde de carbone (CO₂)."
+    },
+    {
+      "question": "La flamme d’une bougie s’éteint dans un bocal fermé. Pourquoi ?",
+      "options": ["Manque de dioxygène", "Excès de cire", "Refroidissement", "Présence de vapeur d’eau"],
+      "reponse": "Manque de dioxygène",
+      "explication": "Le dioxygène est nécessaire à la combustion. Il est vite consommé dans un espace fermé."
+    },
+    {
+      "question": "La formation d’un solide visible dans un liquide lors d’un mélange est appelée :",
+      "options": ["Précipitation", "Distillation", "Fusion", "Filtration"],
+      "reponse": "Précipitation",
+      "explication": "Un précipité est un solide qui se forme après mélange de deux solutions."
+    },
+    {
+      "question": "Un test courant pour identifier une transformation chimique est :",
+      "options": ["Observation d’un gaz ou d’un précipité", "Utilisation d’un aimant", "Pesée simple", "Mesure de longueur"],
+      "reponse": "Observation d’un gaz ou d’un précipité",
+      "explication": "La formation de bulles ou de dépôts solides est typique d’une transformation chimique."
+    },
+    {
+      "question": "La combustion du bois est une transformation :",
+      "options": ["Chimique", "Physique", "Nucléaire", "Électromagnétique"],
+      "reponse": "Chimique",
+      "explication": "Elle produit des cendres, du CO₂ et de la vapeur d’eau : de nouvelles substances."
+    },
+    {
+      "question": "Le produit principal de la combustion complète du méthane est :",
+      "options": ["CO₂ et H₂O", "CH₄", "C et O₂", "H₂"],
+      "reponse": "CO₂ et H₂O",
+      "explication": "La combustion du méthane libère du dioxyde de carbone et de l’eau."
+    },
+    {
+      "question": "Dans une réaction, les produits sont situés :",
+      "options": ["Après la flèche", "Avant la flèche", "Sous la flèche", "Au-dessus de la flamme"],
+      "reponse": "Après la flèche",
+      "explication": "L’équation chimique place les produits après la flèche →."
+    },
+    {
+      "question": "Un exemple de précipitation est :",
+      "options": ["Mélange de nitrate d’argent et chlorure de sodium", "Fusion de la glace", "Filtration du sable", "Condensation de la vapeur"],
+      "reponse": "Mélange de nitrate d’argent et chlorure de sodium",
+      "explication": "Cela forme un précipité blanc de chlorure d’argent insoluble."
+    },
+    {
+      "question": "La rouille est le résultat de l’oxydation de :",
+      "options": ["Fer", "Cuivre", "Zinc", "Aluminium"],
+      "reponse": "Fer",
+      "explication": "Le fer réagit avec l’oxygène et l’eau pour former la rouille."
+    },
+    {
+      "question": "Le carbone brûle dans l’air et produit :",
+      "options": ["Du dioxyde de carbone", "Du méthane", "De l’hydrogène", "Du monoxyde de carbone seulement"],
+      "reponse": "Du dioxyde de carbone",
+      "explication": "C + O₂ → CO₂"
+    },
+    {
+      "question": "Qu’observe-t-on souvent lors d’une transformation chimique ?",
+      "options": ["Changement de couleur", "Changement de masse uniquement", "Ébullition normale", "Aucune modification"],
+      "reponse": "Changement de couleur",
+      "explication": "C’est l’un des indices d’une transformation chimique."
+    },
+    {
+      "question": "Le vinaigre réagit avec du bicarbonate de sodium. Que se forme-t-il ?",
+      "options": ["Un dégagement de gaz", "Un précipité blanc", "Une fusion", "Une dissolution"],
+      "reponse": "Un dégagement de gaz",
+      "explication": "Il se produit une effervescence (dégagement de dioxyde de carbone)."
+    },
+    {
+      "question": "La fumée dégagée lors d’une combustion est un indicateur de :",
+      "options": ["Formation de nouveaux produits", "Changement d’état", "Refroidissement", "Fusion de particules"],
+      "reponse": "Formation de nouveaux produits",
+      "explication": "Elle contient des produits solides et gazeux issus de la combustion."
+    },
+    {
+      "question": "Quel élément est indispensable à toute combustion ?",
+      "options": ["Dioxygène", "Hydrogène", "Azote", "Fer"],
+      "reponse": "Dioxygène",
+      "explication": "Le dioxygène permet la combustion : il est le comburant."
+    },
+    {
+      "question": "La formule chimique du dioxyde de carbone est :",
+      "options": ["CO₂", "O₂", "H₂O", "CH₄"],
+      "reponse": "CO₂",
+      "explication": "Le CO₂ est composé d’un atome de carbone et deux d’oxygène."
+    },
+    {
+      "question": "La combustion incomplète peut produire :",
+      "options": ["Du monoxyde de carbone", "Uniquement du CO₂", "Du méthane", "Du fer"],
+      "reponse": "Du monoxyde de carbone",
+      "explication": "C’est un gaz toxique formé si l’oxygène est insuffisant."
+    },
+    {
+      "question": "Une transformation chimique est toujours accompagnée :",
+      "options": ["D’un changement de structure de la matière", "D’un changement d’état uniquement", "D’une fusion", "D’un refroidissement"],
+      "reponse": "D’un changement de structure de la matière",
+      "explication": "Les liaisons chimiques sont modifiées, de nouvelles molécules apparaissent."
+    },
+    {
+      "question": "Dans une réaction de précipitation, le précipité est :",
+      "options": ["Un solide formé", "Un gaz", "Un liquide pur", "Un colorant"],
+      "reponse": "Un solide formé",
+      "explication": "Le précipité est un solide insoluble qui se forme au cours d’une réaction en solution."
+    },
+    {
+      "question": "La formation de buée sur une vitre est une :",
+      "options": ["Transformation physique", "Réaction chimique", "Oxydation", "Précipitation"],
+      "reponse": "Transformation physique",
+      "explication": "Il s’agit simplement d’un changement d’état (gaz → liquide), sans formation d’une nouvelle substance."
+    },
+    {
+      "question": "Une réaction d’oxydation implique :",
+      "options": ["L’oxygène", "Le chlore", "L’azote", "Le méthane"],
+      "reponse": "L’oxygène",
+      "explication": "L’oxydation est une réaction avec le dioxygène."
+    },
+    {
+      "question": "Une réaction chimique produit toujours :",
+      "options": ["Au moins un produit nouveau", "Une seule couleur", "De la chaleur uniquement", "Un gaz"],
+      "reponse": "Au moins un produit nouveau",
+      "explication": "C’est ce qui différencie une transformation chimique d’une physique."
+    },
+    {
+      "question": "La combustion du papier est une transformation :",
+      "options": ["Chimique irréversible", "Chimique réversible", "Physique", "Acide-base"],
+      "reponse": "Chimique irréversible",
+      "explication": "Le papier brûlé ne peut pas être retransformé en papier : c’est irréversible."
+    },
+    {
+      "question": "Un élève mélange du vinaigre et du bicarbonate de sodium. Il observe un fort dégagement gazeux. Que peut-on conclure ?",
+      "options": ["Il y a eu une transformation chimique", "C’est une simple dissolution", "C’est une évaporation", "Il s’agit d’un changement d’état"],
+      "reponse": "Il y a eu une transformation chimique",
+      "explication": "Le dégagement gazeux montre la formation d’un nouveau produit."
+    },
+    {
+      "question": "En laboratoire, on mélange deux liquides et un solide blanc apparaît. Il s’agit d’une :",
+      "options": ["Réaction chimique avec précipitation", "Filtration", "Dissolution", "Fusion"],
+      "reponse": "Réaction chimique avec précipitation",
+      "explication": "Un précipité solide est une preuve d'une réaction chimique."
+    },
+    {
+      "question": "Lors de la combustion d’une bougie, quels sont les produits obtenus ?",
+      "options": ["CO₂ et vapeur d’eau", "Hydrogène pur", "Sucre", "Méthane"],
+      "reponse": "CO₂ et vapeur d’eau",
+      "explication": "La combustion des cires produit du dioxyde de carbone et de l’eau."
+    },
+    {
+      "question": "Une flamme s’éteint dans un bocal hermétique. Quelle est la raison ?",
+      "options": ["Le dioxygène est épuisé", "Le bocal a refroidi", "La cire est terminée", "La lumière a été coupée"],
+      "reponse": "Le dioxygène est épuisé",
+      "explication": "Le dioxygène est essentiel à la combustion."
+    },
+    {
+      "question": "Un élève chauffe du sucre dans une cuillère. Il observe une coloration brune et une fumée. Il s’agit de :",
+      "options": ["Transformation chimique", "Changement d’état", "Réaction d’oxydation lente", "Dissolution"],
+      "reponse": "Transformation chimique",
+      "explication": "Le sucre se décompose chimiquement sous l’effet de la chaleur."
+    },
+    {
+      "question": "Quelle réaction est une oxydation ?",
+      "options": ["Fer qui rouille", "Eau qui bout", "Glace qui fond", "Sucre dans le thé"],
+      "reponse": "Fer qui rouille",
+      "explication": "Le fer réagit avec l’oxygène : c’est une oxydation."
+    },
+    {
+      "question": "Une réaction de précipitation entre deux solutions produit :",
+      "options": ["Un solide visible", "Un gaz invisible", "Un liquide homogène", "Une solution sucrée"],
+      "reponse": "Un solide visible",
+      "explication": "Un précipité se forme et rend le mélange trouble."
+    },
+    {
+      "question": "Dans une combustion complète, le carbone donne :",
+      "options": ["Du CO₂", "Du monoxyde de carbone", "Du fer", "De l’oxygène pur"],
+      "reponse": "Du CO₂",
+      "explication": "C + O₂ → CO₂"
+    },
+    {
+      "question": "Que doit-on faire pour prouver qu’il y a eu transformation chimique ?",
+      "options": ["Observer un nouveau produit", "Peser l’objet", "Mesurer la température", "Changer de récipient"],
+      "reponse": "Observer un nouveau produit",
+      "explication": "L’apparition d’une substance différente est la preuve d'une réaction chimique."
+    },
+    {
+      "question": "Un élève observe une solution qui change de couleur après mélange. C’est :",
+      "options": ["Une transformation chimique", "Un changement physique", "Une agitation", "Un refroidissement"],
+      "reponse": "Une transformation chimique",
+      "explication": "Le changement de couleur est un indice de nouvelle substance."
+    },
+    {
+      "question": "Quelle action suivante n’est **pas** une transformation chimique ?",
+      "options": ["Faire fondre du beurre", "Faire brûler du bois", "Rouille du fer", "Combustion du gaz"],
+      "reponse": "Faire fondre du beurre",
+      "explication": "La fusion est un changement d’état physique, pas une réaction chimique."
+    },
+    {
+      "question": "On fait réagir de l’acide chlorhydrique avec du fer. Que se forme-t-il ?",
+      "options": ["Un gaz et un sel", "De l’eau uniquement", "Du fer pur", "Du sucre"],
+      "reponse": "Un gaz et un sel",
+      "explication": "Le fer réagit avec l’acide en libérant du dihydrogène (gaz) et un sel."
+    },
+    {
+      "question": "Dans une combustion, la présence d’un résidu solide (ex : cendres) indique :",
+      "options": ["Une transformation chimique", "Une évaporation", "Une dissolution", "Un effet thermique simple"],
+      "reponse": "Une transformation chimique",
+      "explication": "Les cendres sont un nouveau produit solide."
+    },
+    {
+      "question": "Après une réaction entre deux liquides, un élève observe de la mousse et un dégagement de chaleur. C’est :",
+      "options": ["Une réaction chimique exothermique", "Une dissolution simple", "Une condensation", "Un changement physique"],
+      "reponse": "Une réaction chimique exothermique",
+      "explication": "La libération de chaleur indique que l’énergie est dégagée pendant la transformation chimique."
+    },
+    {
+      "question": "Un test de combustion d’un gaz produit une flamme bleue claire. Le gaz est probablement :",
+      "options": ["Du méthane", "Du dioxyde de carbone", "De l’hydrogène", "De la vapeur d’eau"],
+      "reponse": "Du méthane",
+      "explication": "Le méthane brûle avec une flamme bleue pâle."
+    },
+    {
+      "question": "Un élève note que la masse totale des produits après réaction est identique à celle des réactifs. Cela illustre :",
+      "options": ["La conservation de la masse", "La fusion", "La dissolution", "L’évaporation"],
+      "reponse": "La conservation de la masse",
+      "explication": "C’est une loi fondamentale de la chimie : la masse se conserve."
+    },
+    {
+      "question": "Quel est le rôle du comburant dans une combustion ?",
+      "options": ["Permettre au combustible de brûler", "Refroidir la flamme", "Arrêter la réaction", "Ajouter de l’eau"],
+      "reponse": "Permettre au combustible de brûler",
+      "explication": "Le comburant (souvent O₂) est essentiel pour qu’il y ait combustion."
+    },
+    {
+      "question": "Lorsqu’un gaz est produit au cours d’une réaction, il peut être détecté par :",
+      "options": ["Formation de bulles", "Condensation", "Évaporation", "Cristallisation"],
+      "reponse": "Formation de bulles",
+      "explication": "Des bulles visibles indiquent un dégagement gazeux."
+    },
+    {
+      "question": "Dans une transformation chimique, les atomes :",
+      "options": ["Se réarrangent en nouvelles molécules", "Disparaissent", "Fondent", "Se dissolvent sans modification"],
+      "reponse": "Se réarrangent en nouvelles molécules",
+      "explication": "Les atomes sont conservés mais réorganisés dans de nouvelles substances."
+    },
+    {
+      "question": "Quelle affirmation est fausse ?",
+      "options": ["La combustion libère de l’énergie", "La rouille est une réaction d’oxydation", "Un changement d’état est une transformation chimique", "Un précipité est un signe de réaction chimique"],
+      "reponse": "Un changement d’état est une transformation chimique",
+      "explication": "Un changement d’état (ex : fusion, évaporation) est une transformation physique, pas chimique."
+    }
+  ]
+}

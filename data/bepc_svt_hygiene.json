@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’un microbe ?",
+      "options": ["Un être vivant microscopique", "Un virus uniquement", "Une cellule du corps", "Un organe humain"],
+      "reponse": "Un être vivant microscopique",
+      "explication": "Les microbes regroupent les bactéries, virus, champignons et parasites microscopiques."
+    },
+    {
+      "question": "Quels sont les quatre grands types de microbes ?",
+      "options": ["Bactéries, virus, champignons, parasites", "Bactéries, globules rouges, virus, enzymes", "Virus, protéines, os, globules blancs", "Champignons, levures, sang, bile"],
+      "reponse": "Bactéries, virus, champignons, parasites",
+      "explication": "Ce sont les principaux agents pathogènes responsables des maladies infectieuses."
+    },
+    {
+      "question": "Les microbes pathogènes sont ceux qui :",
+      "options": ["Provoquent des maladies", "Aident la digestion", "Produisent de l’oxygène", "Protègent les os"],
+      "reponse": "Provoquent des maladies",
+      "explication": "Seuls les microbes pathogènes sont dangereux pour la santé humaine."
+    },
+    {
+      "question": "Comment les microbes pénètrent-ils dans l’organisme ?",
+      "options": ["Par la peau, les muqueuses ou les plaies", "Par les os", "Par les nerfs", "Par les muscles"],
+      "reponse": "Par la peau, les muqueuses ou les plaies",
+      "explication": "Ce sont les portes d’entrée principales des agents infectieux."
+    },
+    {
+      "question": "Une maladie contagieuse est :",
+      "options": ["Transmissible d’un individu à un autre", "Héréditaire uniquement", "Une blessure", "Une maladie mentale"],
+      "reponse": "Transmissible d’un individu à un autre",
+      "explication": "La contagion implique une transmission directe ou indirecte du microbe."
+    },
+    {
+      "question": "Le paludisme est causé par :",
+      "options": ["Un parasite", "Un virus", "Une bactérie", "Une toxine"],
+      "reponse": "Un parasite",
+      "explication": "Le Plasmodium est un parasite transmis par les moustiques."
+    },
+    {
+      "question": "Le VIH est un exemple de :",
+      "options": ["Virus", "Bactérie", "Champignon", "Parasite"],
+      "reponse": "Virus",
+      "explication": "Le VIH (virus de l’immunodéficience humaine) est un virus qui attaque les défenses du corps."
+    },
+    {
+      "question": "Le tétanos est causé par :",
+      "options": ["Une bactérie", "Un virus", "Un champignon", "Un ver"],
+      "reponse": "Une bactérie",
+      "explication": "Clostridium tetani est une bactérie responsable du tétanos."
+    },
+    {
+      "question": "La première ligne de défense de l’organisme est :",
+      "options": ["La peau et les muqueuses", "Le sang", "Les globules rouges", "Le foie"],
+      "reponse": "La peau et les muqueuses",
+      "explication": "Elles empêchent l’entrée des microbes grâce à leur barrière physique et chimique."
+    },
+    {
+      "question": "Les globules blancs interviennent dans :",
+      "options": ["La défense de l’organisme", "La respiration", "La digestion", "La coagulation"],
+      "reponse": "La défense de l’organisme",
+      "explication": "Les leucocytes détectent et éliminent les microbes."
+    },
+    {
+      "question": "La phagocytose est le fait pour un globule blanc de :",
+      "options": ["Capturer et digérer un microbe", "Produire de l’énergie", "Fabriquer du sucre", "Transporter l’oxygène"],
+      "reponse": "Capturer et digérer un microbe",
+      "explication": "Les phagocytes absorbent et détruisent les intrus par phagocytose."
+    },
+    {
+      "question": "Les anticorps sont produits par :",
+      "options": ["Les globules blancs spécialisés", "Le foie", "Les globules rouges", "Les enzymes digestives"],
+      "reponse": "Les globules blancs spécialisés",
+      "explication": "Les lymphocytes B fabriquent des anticorps spécifiques à chaque microbe."
+    },
+    {
+      "question": "Un antigène est :",
+      "options": ["Une substance étrangère détectée par l’organisme", "Un médicament", "Un organe", "Une hormone"],
+      "reponse": "Une substance étrangère détectée par l’organisme",
+      "explication": "L’antigène déclenche une réponse immunitaire contre lui."
+    },
+    {
+      "question": "Le rôle des anticorps est de :",
+      "options": ["Neutraliser les microbes", "Transporter le sang", "Favoriser la digestion", "Activer les nerfs"],
+      "reponse": "Neutraliser les microbes",
+      "explication": "Les anticorps se fixent aux antigènes pour les rendre inactifs."
+    },
+    {
+      "question": "Un vaccin contient :",
+      "options": ["Des microbes inoffensifs ou tués", "Des antibiotiques", "Des vitamines", "Du sang"],
+      "reponse": "Des microbes inoffensifs ou tués",
+      "explication": "Il stimule le système immunitaire sans provoquer la maladie."
+    },
+    {
+      "question": "L’objectif du vaccin est de :",
+      "options": ["Préparer le corps à se défendre", "Soigner immédiatement la maladie", "Éliminer tous les globules blancs", "Favoriser la digestion"],
+      "reponse": "Préparer le corps à se défendre",
+      "explication": "Il permet au corps de produire des anticorps avant d’être infecté."
+    },
+    {
+      "question": "Un sérum contient :",
+      "options": ["Des anticorps prêts à l’emploi", "Des microbes vivants", "Des cellules de peau", "Du sucre"],
+      "reponse": "Des anticorps prêts à l’emploi",
+      "explication": "Le sérum offre une défense immédiate mais temporaire."
+    },
+    {
+      "question": "Le vaccin est une immunité :",
+      "options": ["Active et durable", "Passive et temporaire", "Héréditaire", "Digestive"],
+      "reponse": "Active et durable",
+      "explication": "Le vaccin stimule la production d’anticorps par l’organisme lui-même."
+    },
+    {
+      "question": "Le sérum est une immunité :",
+      "options": ["Passive et temporaire", "Active et durable", "Génétique", "Chimique"],
+      "reponse": "Passive et temporaire",
+      "explication": "Il apporte des anticorps sans activer le système immunitaire durablement."
+    },
+    {
+      "question": "Le BCG est un vaccin contre :",
+      "options": ["La tuberculose", "Le paludisme", "Le VIH", "Le tétanos"],
+      "reponse": "La tuberculose",
+      "explication": "Il protège contre cette maladie bactérienne très contagieuse."
+    },
+    {
+      "question": "Les antibiotiques agissent uniquement sur :",
+      "options": ["Les bactéries", "Les virus", "Les parasites", "Les globules rouges"],
+      "reponse": "Les bactéries",
+      "explication": "Ils ne sont efficaces que contre les infections bactériennes."
+    },
+    {
+      "question": "Prendre des antibiotiques pour une grippe est :",
+      "options": ["Inutile car la grippe est virale", "Très recommandé", "Obligatoire", "Bon contre la fatigue"],
+      "reponse": "Inutile car la grippe est virale",
+      "explication": "Les virus ne sont pas affectés par les antibiotiques."
+    },
+    {
+      "question": "Le surdosage d’antibiotiques peut entraîner :",
+      "options": ["La résistance des bactéries", "Une meilleure immunité", "Une baisse du QI", "Un excès de globules rouges"],
+      "reponse": "La résistance des bactéries",
+      "explication": "Les bactéries peuvent devenir insensibles aux traitements."
+    },
+    {
+      "question": "Une personne vaccinée contre une maladie est :",
+      "options": ["Mieux préparée à se défendre", "Guérie à vie", "Fatiguée automatiquement", "Toujours contagieuse"],
+      "reponse": "Mieux préparée à se défendre",
+      "explication": "Elle peut combattre l’agent plus vite et efficacement."
+    },
+    {
+      "question": "Pourquoi la vaccination de groupe est-elle importante ?",
+      "options": ["Elle protège même les non-vaccinés", "Elle remplace l’eau potable", "Elle augmente la taille", "Elle remplace le sommeil"],
+      "reponse": "Elle protège même les non-vaccinés",
+      "explication": "L’immunité collective réduit la circulation du microbe dans la population."
+    },
+    {
+      "question": "Quel organe produit les cellules immunitaires ?",
+      "options": ["Moelle osseuse", "Foie", "Estomac", "Peau"],
+      "reponse": "Moelle osseuse",
+      "explication": "Elle produit les globules blancs et les cellules du sang."
+    },
+    {
+      "question": "Qu’est-ce qu’une épidémie ?",
+      "options": ["Une maladie qui touche rapidement un grand nombre de personnes", "Une maladie génétique", "Une allergie", "Une malformation"],
+      "reponse": "Une maladie qui touche rapidement un grand nombre de personnes",
+      "explication": "C’est une propagation rapide et importante d’une maladie infectieuse."
+    },
+    {
+      "question": "Le lavage des mains permet de :",
+      "options": ["Réduire la transmission des microbes", "Activer les globules rouges", "Soigner une blessure", "Favoriser la digestion"],
+      "reponse": "Réduire la transmission des microbes",
+      "explication": "C’est une mesure d’hygiène efficace pour prévenir les infections."
+    },
+    {
+      "question": "Un organisme guéri naturellement d’une infection garde :",
+      "options": ["Une mémoire immunitaire", "Une cicatrice musculaire", "Des microbes en réserve", "Une fatigue chronique"],
+      "reponse": "Une mémoire immunitaire",
+      "explication": "Le corps garde la capacité de répondre plus vite à une réinfection."
+    },
+    {
+      "question": "Pourquoi faut-il respecter le calendrier vaccinal ?",
+      "options": ["Pour garantir une protection optimale", "Pour faire plaisir au médecin", "Pour remplacer les repas", "Pour grandir plus vite"],
+      "reponse": "Pour garantir une protection optimale",
+      "explication": "Les rappels sont essentiels pour maintenir une bonne immunité."
+    }
+  ]
+}

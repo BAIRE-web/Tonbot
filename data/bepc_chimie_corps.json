@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Un corps pur est une substance constituée de :",
+      "options": ["Une seule sorte de particules", "Plusieurs types de matières", "Eau et sel", "Particules visibles à l’œil nu"],
+      "reponse": "Une seule sorte de particules",
+      "explication": "Un corps pur est composé d’un seul type de molécule ou d’atome."
+    },
+    {
+      "question": "Un mélange est dit homogène lorsqu’on :",
+      "options": ["Ne distingue pas les constituants à l’œil nu", "Voit les constituants distinctement", "Le mélange se sépare seul", "Il contient des bulles visibles"],
+      "reponse": "Ne distingue pas les constituants à l’œil nu",
+      "explication": "Dans un mélange homogène, les composants sont répartis de façon uniforme."
+    },
+    {
+      "question": "Un mélange est hétérogène lorsque :",
+      "options": ["On distingue les différents constituants", "Les constituants sont identiques", "Il contient un seul liquide", "Il est pur"],
+      "reponse": "On distingue les différents constituants",
+      "explication": "Dans un mélange hétérogène, les composants sont visibles ou se séparent."
+    },
+    {
+      "question": "L’eau salée est un exemple de :",
+      "options": ["Mélange homogène", "Mélange hétérogène", "Corps pur", "Gaz"],
+      "reponse": "Mélange homogène",
+      "explication": "Le sel est dissous de manière invisible dans l’eau."
+    },
+    {
+      "question": "Un mélange huile et eau est :",
+      "options": ["Hétérogène", "Homogène", "Un corps pur", "Une solution"],
+      "reponse": "Hétérogène",
+      "explication": "Les deux liquides ne se mélangent pas, on observe deux phases."
+    },
+    {
+      "question": "Quel appareil peut séparer un mélange hétérogène solide-liquide ?",
+      "options": ["Filtre", "Balance", "Thermomètre", "Ampèremètre"],
+      "reponse": "Filtre",
+      "explication": "La filtration permet de séparer un solide non dissous d’un liquide."
+    },
+    {
+      "question": "Le processus par lequel les particules solides tombent au fond d’un liquide est appelé :",
+      "options": ["Décantation", "Filtration", "Vaporisation", "Distillation"],
+      "reponse": "Décantation",
+      "explication": "La décantation sépare un solide plus dense ou deux liquides non miscibles."
+    },
+    {
+      "question": "La solution sucrée est un :",
+      "options": ["Mélange homogène", "Mélange hétérogène", "Corps pur", "Solide pur"],
+      "reponse": "Mélange homogène",
+      "explication": "Le sucre est dissous uniformément dans l’eau."
+    },
+    {
+      "question": "Quel est le rôle du filtre dans une filtration ?",
+      "options": ["Retenir les particules solides", "Augmenter la température", "Faire fondre les corps", "Changer l’état physique"],
+      "reponse": "Retenir les particules solides",
+      "explication": "Le filtre laisse passer le liquide et bloque les solides."
+    },
+    {
+      "question": "Comment appelle-t-on la partie liquide obtenue après filtration ?",
+      "options": ["Filtrat", "Résidu", "Soluté", "Solide"],
+      "reponse": "Filtrat",
+      "explication": "Le filtrat est le liquide clair obtenu après filtration."
+    },
+    {
+      "question": "Une substance obtenue par évaporation de l’eau salée est :",
+      "options": ["Du sel", "Du sable", "De l’eau pure", "Du sucre"],
+      "reponse": "Du sel",
+      "explication": "Le sel reste sous forme solide après évaporation de l’eau."
+    },
+    {
+      "question": "Quelle méthode permet de séparer deux liquides non miscibles ?",
+      "options": ["Décantation", "Filtration", "Fusion", "Ébullition"],
+      "reponse": "Décantation",
+      "explication": "Les deux liquides forment des couches séparées qui peuvent être isolées."
+    },
+    {
+      "question": "Un exemple de mélange hétérogène est :",
+      "options": ["Jus d’orange avec pulpe", "Eau sucrée", "Air", "Vinaigre"],
+      "reponse": "Jus d’orange avec pulpe",
+      "explication": "On voit la pulpe séparée du liquide : c’est un mélange hétérogène."
+    },
+    {
+      "question": "L’air est un exemple de :",
+      "options": ["Mélange homogène", "Mélange hétérogène", "Gaz pur", "Liquide pur"],
+      "reponse": "Mélange homogène",
+      "explication": "Il contient plusieurs gaz bien mélangés sans qu’on puisse les distinguer."
+    },
+    {
+      "question": "Le vinaigre est un mélange de plusieurs liquides non visibles. Il est donc :",
+      "options": ["Homogène", "Hétérogène", "Pur", "Solide"],
+      "reponse": "Homogène",
+      "explication": "Tous les composants du vinaigre sont parfaitement mélangés."
+    },
+    {
+      "question": "Une eau boueuse est un exemple de :",
+      "options": ["Mélange hétérogène", "Mélange homogène", "Corps pur", "Gaz"],
+      "reponse": "Mélange hétérogène",
+      "explication": "On peut observer les particules de boue séparées de l’eau."
+    },
+    {
+      "question": "La distillation sert à :",
+      "options": ["Séparer un liquide d’un solide dissous", "Mélanger deux liquides", "Transformer un gaz en solide", "Peser un liquide"],
+      "reponse": "Séparer un liquide d’un solide dissous",
+      "explication": "Elle consiste à évaporer puis condenser un liquide pur à partir d’un mélange."
+    },
+    {
+      "question": "Que se passe-t-il lorsqu’on mélange de l’eau et de la farine ?",
+      "options": ["On obtient un mélange hétérogène", "Un mélange homogène", "Un gaz", "Un corps pur"],
+      "reponse": "On obtient un mélange hétérogène",
+      "explication": "Les grains de farine restent visibles, même en remuant."
+    },
+    {
+      "question": "Une solution sucrée est composée de :",
+      "options": ["Solvant et soluté", "Gaz et liquide", "Deux solides", "Deux gaz"],
+      "reponse": "Solvant et soluté",
+      "explication": "L’eau (solvant) dissout le sucre (soluté)."
+    },
+    {
+      "question": "Une solution est un mélange :",
+      "options": ["Homogène", "Hétérogène", "Pur", "Gazeux uniquement"],
+      "reponse": "Homogène",
+      "explication": "Dans une solution, le soluté est totalement dissous dans le solvant."
+    },
+    {
+      "question": "On utilise un entonnoir muni d’un filtre pour :",
+      "options": ["Filtrer un mélange", "Mesurer un volume", "Chauffer un liquide", "Peser un solide"],
+      "reponse": "Filtrer un mélange",
+      "explication": "Cela permet de retenir les solides dans un liquide."
+    },
+    {
+      "question": "Quel mélange est homogène ?",
+      "options": ["Eau salée", "Eau + huile", "Eau + sable", "Eau boueuse"],
+      "reponse": "Eau salée",
+      "explication": "Le sel se dissout complètement dans l’eau, sans séparation visible."
+    },
+    {
+      "question": "Une eau de Javel est un exemple de :",
+      "options": ["Mélange homogène", "Mélange hétérogène", "Corps pur", "Solide"],
+      "reponse": "Mélange homogène",
+      "explication": "Tous les composants chimiques sont dissous dans l’eau."
+    },
+    {
+      "question": "Quel phénomène permet de faire tomber un solide au fond du récipient ?",
+      "options": ["Décantation", "Filtration", "Condensation", "Sublimation"],
+      "reponse": "Décantation",
+      "explication": "C’est le repos qui permet au solide plus dense de se déposer."
+    },
+    {
+      "question": "Le liquide recueilli après distillation s’appelle :",
+      "options": ["Distillat", "Filtrat", "Résidu", "Soluté"],
+      "reponse": "Distillat",
+      "explication": "Le distillat est le liquide pur recondensé."
+    },
+    {
+      "question": "Dans un mélange de sable et d’eau, on peut séparer les deux par :",
+      "options": ["Filtration", "Distillation", "Dissolution", "Évaporation"],
+      "reponse": "Filtration",
+      "explication": "Le sable est solide non dissous : la filtration le retient."
+    },
+    {
+      "question": "Une substance qui ne peut être séparée par aucune méthode physique est :",
+      "options": ["Un corps pur", "Un mélange", "Un gaz", "Un solide"],
+      "reponse": "Un corps pur",
+      "explication": "Un corps pur est indivisible physiquement (pas un mélange)."
+    },
+    {
+      "question": "Un liquide contenant des particules visibles est :",
+      "options": ["Hétérogène", "Homogène", "Pur", "Dissous"],
+      "reponse": "Hétérogène",
+      "explication": "Les particules visibles montrent une non-uniformité du mélange."
+    },
+    {
+      "question": "Comment appelle-t-on une substance obtenue par dissolution ?",
+      "options": ["Solution", "Filtrat", "Résidu", "Gaz"],
+      "reponse": "Solution",
+      "explication": "Une solution est le résultat d’une dissolution complète du soluté dans le solvant."
+    },
+    {
+      "question": "Tu mélanges de l’eau et du sable dans un bécher. Quelle méthode utiliser pour les séparer ?",
+      "options": ["Filtration", "Distillation", "Fusion", "Évaporation"],
+      "reponse": "Filtration",
+      "explication": "Le sable étant un solide non dissous, il peut être retenu par un filtre."
+    },
+    {
+      "question": "Un élève mélange du sucre dans de l’eau jusqu’à disparition totale du sucre. Quel est le résultat ?",
+      "options": ["Une solution sucrée homogène", "Un mélange hétérogène", "Un gaz sucré", "Un corps pur"],
+      "reponse": "Une solution sucrée homogène",
+      "explication": "Le sucre s’est complètement dissous, rendant le mélange homogène."
+    },
+    {
+      "question": "On observe un liquide composé de deux couches distinctes. Il s’agit d’un :",
+      "options": ["Mélange hétérogène", "Mélange homogène", "Corps pur", "Gaz"],
+      "reponse": "Mélange hétérogène",
+      "explication": "La présence de deux couches prouve une séparation visible des constituants."
+    },
+    {
+      "question": "Quel matériel faut-il pour séparer un mélange d’eau et de farine ?",
+      "options": ["Filtre et entonnoir", "Bouteille graduée", "Ampèremètre", "Thermomètre"],
+      "reponse": "Filtre et entonnoir",
+      "explication": "La farine reste en suspension : elle sera retenue par le filtre."
+    },
+    {
+      "question": "Un élève veut séparer de l’huile et de l’eau. Il doit utiliser :",
+      "options": ["Une ampoule à décanter", "Une balance", "Un tube à essai", "Un voltmètre"],
+      "reponse": "Une ampoule à décanter",
+      "explication": "L’huile et l’eau étant non miscibles, l’ampoule permet de les séparer par densité."
+    },
+    {
+      "question": "On chauffe de l’eau salée jusqu’à évaporation complète. Que reste-t-il dans le récipient ?",
+      "options": ["Le sel", "De l’eau pure", "De la vapeur", "Rien du tout"],
+      "reponse": "Le sel",
+      "explication": "L’eau s’évapore, mais le sel, corps solide, reste au fond."
+    },
+    {
+      "question": "Une élève obtient une solution transparente après mélange. Quelle conclusion tirer ?",
+      "options": ["Elle a obtenu un mélange homogène", "Le produit est un gaz", "C’est un mélange hétérogène", "Il y a un précipité"],
+      "reponse": "Elle a obtenu un mélange homogène",
+      "explication": "Une solution transparente signifie que les constituants sont indiscernables."
+    },
+    {
+      "question": "Quelle propriété permet de séparer des constituants par décantation ?",
+      "options": ["La différence de densité", "La température", "Le volume", "La forme des particules"],
+      "reponse": "La différence de densité",
+      "explication": "Les liquides ou solides plus denses descendent au fond."
+    },
+    {
+      "question": "Dans un mélange hétérogène, on voit clairement :",
+      "options": ["Les différentes substances", "Une seule couleur", "Des gaz purs", "Une phase uniforme"],
+      "reponse": "Les différentes substances",
+      "explication": "Un mélange hétérogène laisse voir au moins deux constituants."
+    },
+    {
+      "question": "Quelle méthode faut-il utiliser pour obtenir de l’eau distillée à partir d’eau salée ?",
+      "options": ["Distillation", "Filtration", "Décantation", "Fusion"],
+      "reponse": "Distillation",
+      "explication": "L’eau s’évapore, puis est condensée et récupérée pure."
+    },
+    {
+      "question": "Quel est le bon ordre pour séparer un mélange d’eau + sable + sel ?",
+      "options": ["Filtration puis évaporation", "Évaporation puis filtration", "Distillation directe", "Décantation seule"],
+      "reponse": "Filtration puis évaporation",
+      "explication": "On filtre le sable, puis on évapore l’eau pour récupérer le sel."
+    },
+    {
+      "question": "Lorsqu’on mélange du sirop dans de l’eau, on obtient un :",
+      "options": ["Mélange homogène", "Corps pur", "Mélange hétérogène", "Gaz dissous"],
+      "reponse": "Mélange homogène",
+      "explication": "Le sirop se dissout totalement et uniformément dans l’eau."
+    },
+    {
+      "question": "Un élève mélange de la limaille de fer et du sable. Quelle méthode simple permettrait de les séparer ?",
+      "options": ["Utiliser un aimant", "Chauffer le mélange", "Ajouter de l’eau", "Filtrer"],
+      "reponse": "Utiliser un aimant",
+      "explication": "La limaille de fer est attirée par un aimant, le sable non."
+    },
+    {
+      "question": "On mélange de la terre à de l’eau. Que doit-on faire pour obtenir un liquide clair ?",
+      "options": ["Filtrer", "Congeler", "Chauffer", "Ajouter du sel"],
+      "reponse": "Filtrer",
+      "explication": "La filtration permet d’éliminer les impuretés solides."
+    },
+    {
+      "question": "Quelle méthode permet de récupérer du sel à partir d’une solution salée ?",
+      "options": ["Évaporation", "Filtration", "Décantation", "Distillation"],
+      "reponse": "Évaporation",
+      "explication": "En chauffant, l’eau s’évapore et laisse le sel solide."
+    },
+    {
+      "question": "Quel changement rend un mélange hétérogène en mélange homogène ?",
+      "options": ["Dissolution complète", "Filtration", "Décantation", "Congélation"],
+      "reponse": "Dissolution complète",
+      "explication": "Quand un soluté se dissout totalement, le mélange devient homogène."
+    },
+    {
+      "question": "Une bouteille contient de l’eau et de l’huile bien mélangées. Après un temps de repos, on observe :",
+      "options": ["Deux couches séparées", "Un gaz formé", "Une seule phase", "Une vapeur blanche"],
+      "reponse": "Deux couches séparées",
+      "explication": "L’huile et l’eau se séparent naturellement à cause de leur différence de densité."
+    },
+    {
+      "question": "Un élève veut identifier un corps pur. Quelle méthode simple utiliser ?",
+      "options": ["Mesurer la température de fusion", "Filtrer", "Mélanger à l’eau", "Observer au microscope"],
+      "reponse": "Mesurer la température de fusion",
+      "explication": "Un corps pur fond à température constante, ce qui le caractérise."
+    },
+    {
+      "question": "Quelle méthode permet d’obtenir de l’eau pure à partir d’eau du robinet ?",
+      "options": ["Distillation", "Décantation", "Filtration", "Évaporation"],
+      "reponse": "Distillation",
+      "explication": "La distillation permet d’éliminer les sels et impuretés dissous."
+    },
+    {
+      "question": "Dans une solution de sucre dans l’eau, le soluté est :",
+      "options": ["Le sucre", "L’eau", "Le mélange", "Le filtrat"],
+      "reponse": "Le sucre",
+      "explication": "Le soluté est la substance dissoute, ici le sucre."
+    }
+  ]
+}

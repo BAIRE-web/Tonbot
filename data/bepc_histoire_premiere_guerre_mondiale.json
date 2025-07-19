@@ -1,0 +1,166 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la cause immédiate qui déclenche la Première Guerre mondiale ?",
+      "options": ["L’assassinat de l’archiduc François-Ferdinand", "La crise économique de 1929", "La révolution russe", "La conférence de Berlin"],
+      "reponse": "L’assassinat de l’archiduc François-Ferdinand",
+      "explication": "L’assassinat de l’héritier du trône austro-hongrois à Sarajevo en 1914 est l’élément déclencheur."
+    },
+    {
+      "question": "Quels pays faisaient partie de la Triple Entente ?",
+      "options": ["France, Royaume-Uni, Russie", "Allemagne, Autriche-Hongrie, Italie", "France, Allemagne, Russie", "Royaume-Uni, Italie, Japon"],
+      "reponse": "France, Royaume-Uni, Russie",
+      "explication": "La Triple Entente regroupait ces trois grandes puissances opposées à la Triple Alliance."
+    },
+    {
+      "question": "Quel type de guerre caractérise principalement la Première Guerre mondiale sur le front occidental ?",
+      "options": ["Guerre de tranchées", "Guerre navale", "Guerre éclair", "Guerre psychologique"],
+      "reponse": "Guerre de tranchées",
+      "explication": "Les armées s’enlisent dans des tranchées, menant à une guerre statique et meurtrière."
+    },
+    {
+      "question": "Quelle nouvelle arme a marqué la Première Guerre mondiale ?",
+      "options": ["Le gaz toxique", "La mitrailleuse", "Le char d’assaut", "Le canon"],
+      "reponse": "Le gaz toxique",
+      "explication": "Les gaz toxiques (chlore, phosgène) ont été utilisés massivement, causant de lourdes pertes."
+    },
+    {
+      "question": "Quand la guerre prend-elle officiellement fin ?",
+      "options": ["11 novembre 1918", "14 juillet 1918", "1er janvier 1919", "4 août 1914"],
+      "reponse": "11 novembre 1918",
+      "explication": "L’armistice est signé ce jour, marquant la fin des combats."
+    },
+    {
+      "question": "Quel empire s’effondre à cause de la Première Guerre mondiale ?",
+      "options": ["Empire austro-hongrois", "Empire britannique", "Empire ottoman", "Empire français"],
+      "reponse": "Empire austro-hongrois",
+      "explication": "L’empire austro-hongrois est dissous à la fin de la guerre."
+    },
+    {
+      "question": "Quelles sont les grandes alliances en présence lors de la guerre ?",
+      "options": ["Triple Entente et Triple Alliance", "Alliés et Axe", "Espace et Terre", "Nord et Sud"],
+      "reponse": "Triple Entente et Triple Alliance",
+      "explication": "Les deux blocs opposés sont la Triple Entente (France, RU, Russie) et la Triple Alliance (Allemagne, Autriche-Hongrie, Italie)."
+    },
+    {
+      "question": "Quel est le rôle du front de l’Est durant la guerre ?",
+      "options": ["Front mobile avec des combats plus dynamiques", "Front statique de tranchées", "Combat naval", "Aucun rôle important"],
+      "reponse": "Front mobile avec des combats plus dynamiques",
+      "explication": "Le front de l’Est est plus mobile que celui de l’Ouest."
+    },
+    {
+      "question": "Quel événement a provoqué l’entrée des États-Unis dans la guerre ?",
+      "options": ["Le torpillage du Lusitania", "La prise de la Bastille", "La Révolution d’Octobre", "La bataille de Verdun"],
+      "reponse": "Le torpillage du Lusitania",
+      "explication": "Le naufrage du paquebot britannique par un sous-marin allemand a influencé l’opinion américaine."
+    },
+    {
+      "question": "Combien de pays ont participé à la Première Guerre mondiale ?",
+      "options": ["Plus de 30", "Seulement 2", "5", "10"],
+      "reponse": "Plus de 30",
+      "explication": "Le conflit est mondial avec plus de 30 pays impliqués."
+    },
+    {
+      "question": "Quelle est la conséquence politique majeure de la guerre en Russie ?",
+      "options": ["La Révolution russe de 1917", "La création de l’URSS", "La chute du tsar Nicolas II", "Toutes les réponses"],
+      "reponse": "Toutes les réponses",
+      "explication": "La guerre provoque la révolution et la chute de l’empire russe, menant à la création de l’URSS."
+    },
+    {
+      "question": "Quelles sont les principales pertes humaines estimées pendant la guerre ?",
+      "options": ["Environ 10 millions de morts", "Moins d’un million", "100 000", "50 millions"],
+      "reponse": "Environ 10 millions de morts",
+      "explication": "La guerre fait environ 10 millions de morts militaires."
+    },
+    {
+      "question": "Quelle est la signification de la guerre de position ?",
+      "options": ["Opposition statique sur un front, avec tranchées", "Combat rapide et mobile", "Bataille navale", "Combat aérien"],
+      "reponse": "Opposition statique sur un front, avec tranchées",
+      "explication": "La guerre de position se caractérise par une faible mobilité."
+    },
+    {
+      "question": "Quelle est la principale conséquence économique de la guerre pour l’Europe ?",
+      "options": ["Destruction massive et dettes importantes", "Croissance économique forte", "Découverte de nouveaux minerais", "Ralentissement agricole uniquement"],
+      "reponse": "Destruction massive et dettes importantes",
+      "explication": "La guerre entraîne de lourdes destructions et un endettement énorme."
+    },
+    {
+      "question": "Quel traité met fin officiellement à la guerre ?",
+      "options": ["Traité de Versailles", "Traité de Paris", "Traité de Rome", "Traité de Berlin"],
+      "reponse": "Traité de Versailles",
+      "explication": "Signé en 1919, il impose des conditions strictes à l’Allemagne."
+    },
+    {
+      "question": "La guerre a-t-elle favorisé l’émancipation des femmes ?",
+      "options": ["Oui, elles ont travaillé dans les usines", "Non, elles sont restées à la maison", "Non, elles ont perdu des droits", "Oui, mais seulement en Russie"],
+      "reponse": "Oui, elles ont travaillé dans les usines",
+      "explication": "Les femmes ont remplacé les hommes partis au front, gagnant en visibilité sociale."
+    },
+    {
+      "question": "Quel rôle jouent les colonies pendant la guerre ?",
+      "options": ["Fournir des soldats et ressources", "Aucun rôle", "Se battre contre l’Europe", "Rester neutres"],
+      "reponse": "Fournir des soldats et ressources",
+      "explication": "Les puissances coloniales mobilisent leurs colonies."
+    },
+    {
+      "question": "Quelle innovation technologique a été utilisée pour la première fois pendant la guerre ?",
+      "options": ["Le char d’assaut", "L’ordinateur", "L’avion de ligne", "La téléphonie mobile"],
+      "reponse": "Le char d’assaut",
+      "explication": "Le char est une arme nouvelle utilisée pour percer les lignes ennemies."
+    },
+    {
+      "question": "Quelle est la durée officielle de la Première Guerre mondiale ?",
+      "options": ["1914-1918", "1912-1916", "1918-1922", "1900-1904"],
+      "reponse": "1914-1918",
+      "explication": "La guerre a duré quatre ans."
+    },
+    {
+      "question": "Quel événement marque l’entrée en guerre de l’Italie ?",
+      "options": ["1915, du côté des Alliés", "1914, aux côtés de l’Allemagne", "1916, neutre", "1918, en guerre civile"],
+      "reponse": "1915, du côté des Alliés",
+      "explication": "L’Italie change de camp et rejoint la Triple Entente."
+    },
+    {
+      "question": "Quels sont les objectifs des grandes puissances avant la guerre ?",
+      "options": ["Acquérir des colonies, puissance militaire", "Maintenir la paix", "Échanger des technologies", "Favoriser le commerce uniquement"],
+      "reponse": "Acquérir des colonies, puissance militaire",
+      "explication": "Les rivalités économiques et coloniales alimentent les tensions."
+    },
+    {
+      "question": "Quel est le bilan humain total de la guerre ?",
+      "options": ["Environ 17 millions de morts militaires et civils", "Moins de 5 millions", "Plus de 50 millions", "100 000"],
+      "reponse": "Environ 17 millions de morts militaires et civils",
+      "explication": "Le conflit a causé d’énormes pertes humaines, militaires et civiles."
+    },
+    {
+      "question": "Quelles sont les principales phases de la guerre ?",
+      "options": ["Guerre de mouvement, puis de position", "Guerre maritime uniquement", "Guerre aérienne uniquement", "Guerre froide"],
+      "reponse": "Guerre de mouvement, puis de position",
+      "explication": "Le conflit débute par des offensives rapides puis s’enlise dans des tranchées."
+    },
+    {
+      "question": "Quel est le rôle de la propagande durant la guerre ?",
+      "options": ["Motiver les populations et soutenir l’effort de guerre", "Créer la paix", "Informer impartialement", "Organiser les traités"],
+      "reponse": "Motiver les populations et soutenir l’effort de guerre",
+      "explication": "La propagande cherche à mobiliser l’opinion publique."
+    },
+    {
+      "question": "Quelles sont les conséquences politiques en Europe après la guerre ?",
+      "options": ["Chute d’empires, naissance de nouveaux États", "Renforcement des empires", "Colonisation accrue", "Maintien du statu quo"],
+      "reponse": "Chute d’empires, naissance de nouveaux États",
+      "explication": "Les empires austro-hongrois, russe et ottoman s’effondrent."
+    },
+    {
+      "question": "Quel est le but du traité de Versailles envers l’Allemagne ?",
+      "options": ["Lui imposer de lourdes réparations et limitations militaires", "Lui donner des colonies", "Lui accorder la victoire", "Lui demander de rester neutre"],
+      "reponse": "Lui imposer de lourdes réparations et limitations militaires",
+      "explication": "L’Allemagne est tenue responsable et doit payer pour les dégâts."
+    },
+    {
+      "question": "Quels sont les effets économiques de la guerre sur les pays européens ?",
+      "options": ["Crise économique, dettes, reconstruction", "Croissance économique", "Industrie fermée", "Augmentation des exportations uniquement"],
+      "reponse": "Crise économique, dettes, reconstruction",
+      "explication": "La guerre provoque une crise grave, un lourd endettement et la nécessité de reconstruire."
+    }
+  ]
+}

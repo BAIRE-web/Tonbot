@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la principale fonction de l’appareil urinaire ?",
+      "options": ["Respiration", "Digestion", "Excrétion", "Reproduction"],
+      "reponse": "Excrétion",
+      "explication": "L’appareil urinaire élimine les déchets azotés du sang sous forme d’urine."
+    },
+    {
+      "question": "Les organes principaux de l’appareil urinaire sont :",
+      "options": ["Reins, poumons, foie", "Reins, uretères, vessie, urètre", "Intestin, foie, reins", "Reins, estomac, foie"],
+      "reponse": "Reins, uretères, vessie, urètre",
+      "explication": "Ces organes assurent la filtration du sang et l’évacuation de l’urine."
+    },
+    {
+      "question": "Quel est le rôle principal des reins ?",
+      "options": ["Produire du sang", "Filtrer le sang", "Fabriquer des globules", "Stocker l’urine"],
+      "reponse": "Filtrer le sang",
+      "explication": "Les reins filtrent les déchets azotés et régulent l’eau et les sels minéraux."
+    },
+    {
+      "question": "L’urine est formée à partir de :",
+      "options": ["L’air inspiré", "L’eau du robinet", "La sueur", "Du plasma sanguin filtré"],
+      "reponse": "Du plasma sanguin filtré",
+      "explication": "Les reins filtrent le plasma sanguin pour produire l’urine."
+    },
+    {
+      "question": "Les déchets azotés proviennent principalement :",
+      "options": ["Des lipides", "Des glucides", "Des protéines", "Des vitamines"],
+      "reponse": "Des protéines",
+      "explication": "La dégradation des protéines produit de l’urée, un déchet azoté."
+    },
+    {
+      "question": "Quel organe stocke l’urine avant son élimination ?",
+      "options": ["Le foie", "Le rein", "La vessie", "L’uretère"],
+      "reponse": "La vessie",
+      "explication": "La vessie est un réservoir musculaire qui stocke temporairement l’urine."
+    },
+    {
+      "question": "L’urètre est :",
+      "options": ["Un rein", "Un canal qui transporte l’urine vers l’extérieur", "Une glande", "Une cavité de stockage"],
+      "reponse": "Un canal qui transporte l’urine vers l’extérieur",
+      "explication": "L’urètre permet l’évacuation de l’urine vers l’extérieur du corps."
+    },
+    {
+      "question": "Combien de reins un être humain possède-t-il normalement ?",
+      "options": ["1", "2", "3", "4"],
+      "reponse": "2",
+      "explication": "Chaque individu possède deux reins situés de part et d’autre de la colonne vertébrale."
+    },
+    {
+      "question": "Un rein endommagé peut provoquer :",
+      "options": ["Une hyperactivité", "Une mauvaise filtration du sang", "Une diarrhée", "Une carence en fer"],
+      "reponse": "Une mauvaise filtration du sang",
+      "explication": "Un rein malade ne peut plus éliminer correctement les déchets."
+    },
+    {
+      "question": "Le néphron est :",
+      "options": ["Une cellule sanguine", "Une unité de filtration du rein", "Un canal digestif", "Un muscle urinaire"],
+      "reponse": "Une unité de filtration du rein",
+      "explication": "Chaque rein contient environ un million de néphrons qui filtrent le sang."
+    },
+    {
+      "question": "Un excès de sel dans l’alimentation peut :",
+      "options": ["Favoriser la digestion", "Renforcer les muscles", "Endommager les reins", "Nettoyer les voies urinaires"],
+      "reponse": "Endommager les reins",
+      "explication": "Le sel en excès augmente la charge de filtration et fatigue les reins."
+    },
+    {
+      "question": "Quelle est la principale substance toxique éliminée dans l’urine ?",
+      "options": ["Le glucose", "L’urée", "L’oxygène", "L’albumine"],
+      "reponse": "L’urée",
+      "explication": "L’urée est un déchet azoté issu de la dégradation des protéines."
+    },
+    {
+      "question": "Une urine très foncée peut indiquer :",
+      "options": ["Une bonne hydratation", "Une déshydratation", "Une bonne digestion", "Une carence en calcium"],
+      "reponse": "Une déshydratation",
+      "explication": "Lorsque l’eau manque, l’urine est plus concentrée et foncée."
+    },
+    {
+      "question": "Le rôle de l’uretère est de :",
+      "options": ["Filtrer le sang", "Produire l’urée", "Transporter l’urine des reins à la vessie", "Stocker l’urine"],
+      "reponse": "Transporter l’urine des reins à la vessie",
+      "explication": "L’uretère est un canal reliant chaque rein à la vessie."
+    },
+    {
+      "question": "Quelle habitude aide à protéger les reins ?",
+      "options": ["Boire peu d’eau", "Manger très salé", "Boire suffisamment d’eau", "Sauter les repas"],
+      "reponse": "Boire suffisamment d’eau",
+      "explication": "L’eau dilue l’urine et aide à éliminer les déchets plus facilement."
+    },
+    {
+      "question": "Une infection urinaire touche le plus souvent :",
+      "options": ["Le cœur", "La vessie", "Le foie", "Les poumons"],
+      "reponse": "La vessie",
+      "explication": "La cystite est une inflammation de la vessie causée par une infection bactérienne."
+    },
+    {
+      "question": "Une personne qui urine très peu malgré une bonne hydratation peut souffrir de :",
+      "options": ["Problème digestif", "Insuffisance rénale", "Allergie", "Hyperactivité"],
+      "reponse": "Insuffisance rénale",
+      "explication": "Les reins endommagés ne filtrent plus correctement, ce qui réduit la production d’urine."
+    },
+    {
+      "question": "Les reins participent aussi à :",
+      "options": ["La digestion", "La production d’hormones", "La vision", "La respiration"],
+      "reponse": "La production d’hormones",
+      "explication": "Les reins sécrètent l’érythropoïétine qui stimule la formation de globules rouges."
+    },
+    {
+      "question": "Boire peu d’eau favorise :",
+      "options": ["La diurèse", "La formation de calculs rénaux", "La régénération des cellules", "La bonne humeur"],
+      "reponse": "La formation de calculs rénaux",
+      "explication": "Le manque d’eau favorise les cristaux dans l’urine qui forment des calculs."
+    },
+    {
+      "question": "Une urine claire et abondante indique :",
+      "options": ["Infection", "Bonne hydratation", "Déshydratation", "Mauvaise filtration"],
+      "reponse": "Bonne hydratation",
+      "explication": "Une urine claire signifie que les reins fonctionnent bien et que le corps est bien hydraté."
+    },
+    {
+      "question": "Une consommation excessive de protéines peut surcharger :",
+      "options": ["Les intestins", "Les poumons", "Les reins", "La peau"],
+      "reponse": "Les reins",
+      "explication": "Les déchets azotés issus des protéines doivent être filtrés par les reins."
+    },
+    {
+      "question": "L’urine contient principalement :",
+      "options": ["Des globules", "De l’eau, de l’urée et des sels", "Des vitamines", "Du glucose"],
+      "reponse": "De l’eau, de l’urée et des sels",
+      "explication": "L’urine est composée à 95 % d’eau, d’urée, de sels minéraux et d’autres déchets."
+    },
+    {
+      "question": "Une personne souffrant de douleurs au bas du dos et d’urine foncée peut avoir :",
+      "options": ["Une grippe", "Une insuffisance rénale", "Une infection pulmonaire", "Une indigestion"],
+      "reponse": "Une insuffisance rénale",
+      "explication": "Les douleurs lombaires et l’urine foncée sont des signes possibles de problèmes rénaux."
+    },
+    {
+      "question": "La miction est :",
+      "options": ["La production de salive", "L’acte d’uriner", "Le filtrage du sang", "La contraction des reins"],
+      "reponse": "L’acte d’uriner",
+      "explication": "La miction désigne l’évacuation volontaire de l’urine par l’urètre."
+    },
+    {
+      "question": "Un rein artificiel s’appelle :",
+      "options": ["Hématome", "Prothèse", "Dialyseur", "Cathéter"],
+      "reponse": "Dialyseur",
+      "explication": "Le dialyseur remplace temporairement la fonction des reins chez les malades."
+    },
+    {
+      "question": "Une bonne hygiène urinaire comprend :",
+      "options": ["Manger du sucre", "Retenir souvent l’urine", "Boire régulièrement de l’eau", "Utiliser des antibiotiques chaque semaine"],
+      "reponse": "Boire régulièrement de l’eau",
+      "explication": "L’eau permet d’éliminer les toxines et de prévenir les infections urinaires."
+    },
+    {
+      "question": "Les reins contribuent à l’équilibre :",
+      "options": ["Thermique", "Hormonale", "Acido-basique", "Cutané"],
+      "reponse": "Acido-basique",
+      "explication": "Ils régulent le pH du sang en éliminant les ions en excès."
+    },
+    {
+      "question": "Quel symptôme peut alerter d’un problème rénal ?",
+      "options": ["Vision floue", "Toux", "Pieds gonflés", "Peau sèche"],
+      "reponse": "Pieds gonflés",
+      "explication": "L’accumulation d’eau dans le corps due à un mauvais drainage rénal peut faire gonfler les pieds."
+    },
+    {
+      "question": "Pourquoi une infection rénale est-elle grave ?",
+      "options": ["Elle donne faim", "Elle empêche de dormir", "Elle peut endommager les reins", "Elle renforce les défenses"],
+      "reponse": "Elle peut endommager les reins",
+      "explication": "Si elle n’est pas traitée, une infection peut altérer la fonction rénale."
+    },
+    {
+      "question": "L’examen médical utilisé pour vérifier le fonctionnement rénal est :",
+      "options": ["Échographie", "Bilan urinaire", "Scanner cérébral", "Endoscopie"],
+      "reponse": "Bilan urinaire",
+      "explication": "Une analyse d’urine permet de détecter des anomalies rénales ou urinaires."
+    },
+    {
+      "question": "Un élève observe que son urine est très foncée le matin. Quelle en est la cause probable ?",
+      "options": ["Mauvaise digestion", "Déshydratation nocturne", "Excès de vitamines", "Infection pulmonaire"],
+      "reponse": "Déshydratation nocturne",
+      "explication": "Pendant la nuit, on ne boit pas d’eau, ce qui rend l’urine plus concentrée le matin."
+    },
+    {
+      "question": "Une personne boit 2 litres d’eau par jour et urine souvent. Quelle conclusion peut-on tirer ?",
+      "options": ["Elle est malade", "Ses reins fonctionnent bien", "Son foie est en danger", "Elle a une infection"],
+      "reponse": "Ses reins fonctionnent bien",
+      "explication": "L’augmentation de la diurèse est normale avec une bonne hydratation."
+    },
+    {
+      "question": "Un enfant retient souvent son urine à l’école. Quel risque cela représente-t-il ?",
+      "options": ["Amélioration de la mémoire", "Favorise les infections urinaires", "Rend le rein plus fort", "Augmente la croissance"],
+      "reponse": "Favorise les infections urinaires",
+      "explication": "L’accumulation prolongée d’urine peut irriter la vessie et favoriser les infections."
+    },
+    {
+      "question": "Un malade sous dialyse a des reins qui :",
+      "options": ["Produisent trop d’urée", "Fonctionnent normalement", "Ne filtrent plus correctement", "Produisent trop de globules"],
+      "reponse": "Ne filtrent plus correctement",
+      "explication": "La dialyse est un traitement de substitution lorsque les reins sont défaillants."
+    },
+    {
+      "question": "Un patient souffre de douleurs en urinant et a une forte fièvre. Quelle est la cause probable ?",
+      "options": ["Fatigue musculaire", "Problème digestif", "Infection urinaire", "Excès de glucose"],
+      "reponse": "Infection urinaire",
+      "explication": "Ces symptômes indiquent une inflammation ou infection des voies urinaires."
+    },
+    {
+      "question": "Une personne boit très peu et développe des calculs rénaux. Quelle en est la cause directe ?",
+      "options": ["Excès de sucre", "Manque d’eau pour diluer les déchets", "Excès de protéines", "Absence de vitamines"],
+      "reponse": "Manque d’eau pour diluer les déchets",
+      "explication": "L’urine trop concentrée favorise la cristallisation de sels formant les calculs."
+    },
+    {
+      "question": "Une patiente a une urée très élevée dans le sang. Cela signifie que :",
+      "options": ["Son cœur est fatigué", "Ses intestins sont bouchés", "Ses reins filtrent mal", "Elle a une mauvaise digestion"],
+      "reponse": "Ses reins filtrent mal",
+      "explication": "L’accumulation d’urée dans le sang indique un défaut d’excrétion rénale."
+    },
+    {
+      "question": "Un élève apprend que le rein élimine les déchets azotés. Ces déchets proviennent de :",
+      "options": ["La dégradation des glucides", "La digestion des fibres", "La respiration", "La dégradation des protéines"],
+      "reponse": "La dégradation des protéines",
+      "explication": "Les protéines produisent de l’urée, principal déchet azoté éliminé par les reins."
+    },
+    {
+      "question": "Un enfant urine très souvent en petites quantités, avec douleur. On suspecte :",
+      "options": ["Un rhume", "Un problème rénal", "Une infection de la vessie", "Un problème osseux"],
+      "reponse": "Une infection de la vessie",
+      "explication": "La cystite se manifeste souvent par des mictions fréquentes et douloureuses."
+    },
+    {
+      "question": "Une personne urine peu malgré une bonne hydratation. Le médecin pense à :",
+      "options": ["Une infection intestinale", "Une insuffisance rénale", "Une hyperactivité", "Une déshydratation"],
+      "reponse": "Une insuffisance rénale",
+      "explication": "Les reins défaillants ne produisent pas assez d’urine même si l’eau est disponible."
+    },
+    {
+      "question": "Lors d’un examen, le médecin note la présence de sang dans l’urine. Cela s’appelle :",
+      "options": ["Glycosurie", "Hématurie", "Protéinurie", "Urémie"],
+      "reponse": "Hématurie",
+      "explication": "L’hématurie est la présence anormale de sang dans l’urine."
+    },
+    {
+      "question": "Un malade a une urine mousseuse et abondante. Cela peut indiquer :",
+      "options": ["Un excès de vitamines", "Une fièvre", "Une perte de protéines", "Une infection pulmonaire"],
+      "reponse": "Une perte de protéines",
+      "explication": "La mousse dans l’urine peut signaler une fuite de protéines due à une atteinte rénale."
+    },
+    {
+      "question": "Une patiente boit beaucoup, mange équilibré mais a les pieds gonflés. Quel organe faut-il examiner ?",
+      "options": ["Le cerveau", "Les intestins", "Les reins", "Les poumons"],
+      "reponse": "Les reins",
+      "explication": "Une rétention d’eau due à un mauvais fonctionnement rénal peut provoquer des œdèmes."
+    },
+    {
+      "question": "Un médecin prescrit un test d’urée sanguine. Ce test permet de vérifier :",
+      "options": ["La digestion", "L’efficacité de la respiration", "La filtration rénale", "Le rythme cardiaque"],
+      "reponse": "La filtration rénale",
+      "explication": "L’urée sanguine est un bon indicateur de la capacité des reins à éliminer les déchets."
+    },
+    {
+      "question": "Une personne prend un médicament toxique pour les reins. Elle risque :",
+      "options": ["Un problème cardiaque", "Une altération rénale", "Une mauvaise haleine", "Un trouble musculaire"],
+      "reponse": "Une altération rénale",
+      "explication": "Certains médicaments abîment les reins et réduisent leur capacité à filtrer le sang."
+    },
+    {
+      "question": "Une forte consommation de viande rouge peut surcharger :",
+      "options": ["Le foie", "Le pancréas", "Les reins", "La peau"],
+      "reponse": "Les reins",
+      "explication": "Les protéines animales produisent plus de déchets azotés à éliminer par les reins."
+    },
+    {
+      "question": "Après un match sous forte chaleur, un joueur urine peu et très foncé. Cela indique :",
+      "options": ["Bonne performance", "Déshydratation", "Bonne filtration", "Excès de sucre"],
+      "reponse": "Déshydratation",
+      "explication": "Le corps perd beaucoup d’eau par la sueur, rendant l’urine plus concentrée."
+    },
+    {
+      "question": "Chez une personne en bonne santé, l’urine ne contient normalement pas :",
+      "options": ["De l’urée", "Des sels minéraux", "Du glucose", "De l’eau"],
+      "reponse": "Du glucose",
+      "explication": "La présence de glucose dans l’urine est anormale et peut signaler un diabète."
+    },
+    {
+      "question": "Un patient présente une grande fatigue, des urines rares et des démangeaisons. Quel est le diagnostic probable ?",
+      "options": ["Insuffisance rénale", "Bronchite", "Intoxication alimentaire", "Problème digestif"],
+      "reponse": "Insuffisance rénale",
+      "explication": "Ces signes sont compatibles avec un défaut d’élimination des déchets par les reins."
+    },
+    {
+      "question": "Quel est le rôle des néphrons dans les reins ?",
+      "options": ["Produire de l’urée", "Filtrer le sang", "Stocker l’urine", "Absorber le glucose"],
+      "reponse": "Filtrer le sang",
+      "explication": "Les néphrons sont les unités filtrantes des reins responsables de la production d’urine."
+    }
+  ]
+}

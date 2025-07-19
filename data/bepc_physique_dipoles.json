@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Deux lampes sont branchées en série. Que se passe-t-il si l’une grille ?",
+      "options": ["L’autre s’éteint aussi", "L’autre continue de fonctionner", "La tension augmente", "Le courant augmente"],
+      "reponse": "L’autre s’éteint aussi",
+      "explication": "En série, si un dipôle est ouvert ou grillé, le courant ne passe plus : tout s’éteint."
+    },
+    {
+      "question": "Deux lampes sont branchées en parallèle. Si l’une grille, que se passe-t-il ?",
+      "options": ["L’autre reste allumée", "Les deux s’éteignent", "Le courant est nul", "La tension est divisée"],
+      "reponse": "L’autre reste allumée",
+      "explication": "En parallèle, chaque branche est indépendante, donc l’autre continue de fonctionner."
+    },
+    {
+      "question": "Quel est le rôle d’un interrupteur dans un circuit électrique ?",
+      "options": ["Ouvrir ou fermer le circuit", "Augmenter la tension", "Réduire la résistance", "Mesurer le courant"],
+      "reponse": "Ouvrir ou fermer le circuit",
+      "explication": "L’interrupteur permet de laisser ou non passer le courant."
+    },
+    {
+      "question": "En série, le courant électrique est :",
+      "options": ["Le même partout", "Plus fort à la fin", "Divisé entre les dipôles", "Plus faible au début"],
+      "reponse": "Le même partout",
+      "explication": "Dans une association en série, l’intensité est la même en tout point du circuit."
+    },
+    {
+      "question": "En parallèle, la tension est :",
+      "options": ["La même pour chaque branche", "Divisée selon les dipôles", "Nulle", "Toujours plus élevée"],
+      "reponse": "La même pour chaque branche",
+      "explication": "Dans un montage en parallèle, la tension est identique sur chaque branche."
+    },
+    {
+      "question": "Un circuit est composé de deux résistances en série. Leur résistance totale :",
+      "options": ["Est la somme des deux", "Est la différence", "Est leur produit", "Est la moitié de l’une"],
+      "reponse": "Est la somme des deux",
+      "explication": "En série, la résistance équivalente est R = R1 + R2."
+    },
+    {
+      "question": "Des résistances sont branchées en parallèle. La résistance totale est :",
+      "options": ["Plus petite que chaque résistance", "Égale à la somme", "Infinie", "La plus grande des deux"],
+      "reponse": "Plus petite que chaque résistance",
+      "explication": "En parallèle, la résistance équivalente est inférieure à la plus petite résistance."
+    },
+    {
+      "question": "Dans un circuit en parallèle, l’intensité totale du courant est :",
+      "options": ["La somme des courants de chaque branche", "La même partout", "Nulle", "Égale à la tension"],
+      "reponse": "La somme des courants de chaque branche",
+      "explication": "L’intensité se répartit entre les branches : I = I1 + I2 + ..."
+    },
+    {
+      "question": "Dans un circuit série, comment varie la tension ?",
+      "options": ["Elle se divise entre les dipôles", "Elle reste constante", "Elle est plus forte à la fin", "Elle double"],
+      "reponse": "Elle se divise entre les dipôles",
+      "explication": "En série, la tension totale se répartit entre les composants."
+    },
+    {
+      "question": "Quel est l’intérêt d’un montage en parallèle pour les lampes ?",
+      "options": ["Elles peuvent fonctionner indépendamment", "Elles brillent moins", "Le courant est nul", "La tension est plus faible"],
+      "reponse": "Elles peuvent fonctionner indépendamment",
+      "explication": "Si une lampe grille, les autres restent allumées."
+    },
+    {
+      "question": "Dans un circuit série, si un fil est coupé :",
+      "options": ["Le courant ne passe plus", "Le courant passe quand même", "La tension augmente", "Les lampes brillent plus"],
+      "reponse": "Le courant ne passe plus",
+      "explication": "Une coupure dans un circuit en série interrompt tout le courant."
+    },
+    {
+      "question": "Dans un circuit, un interrupteur est en série avec une lampe. Si l’interrupteur est ouvert :",
+      "options": ["La lampe s’éteint", "La lampe reste allumée", "La tension augmente", "Le courant est plus fort"],
+      "reponse": "La lampe s’éteint",
+      "explication": "Ouvrir un interrupteur coupe le courant, donc la lampe s’éteint."
+    },
+    {
+      "question": "En parallèle, plus on ajoute de branches :",
+      "options": ["Plus l’intensité totale augmente", "La tension diminue", "Le courant baisse", "La résistance totale augmente"],
+      "reponse": "Plus l’intensité totale augmente",
+      "explication": "Chaque branche consomme du courant, donc l’intensité globale augmente."
+    },
+    {
+      "question": "En série, que se passe-t-il si on inverse une lampe ?",
+      "options": ["Le circuit fonctionne toujours", "Le courant s’inverse", "La lampe grille", "Rien ne se passe"],
+      "reponse": "Le circuit fonctionne toujours",
+      "explication": "Les lampes ne sont pas polarisées, leur position ne change rien en série."
+    },
+    {
+      "question": "Dans un montage en série de deux lampes identiques, que peut-on dire de leur éclat ?",
+      "options": ["Elles brillent moins que si elles étaient seules", "Elles brillent plus", "Elles explosent", "Une brille plus que l’autre"],
+      "reponse": "Elles brillent moins que si elles étaient seules",
+      "explication": "La tension est divisée, donc elles brillent moins."
+    },
+    {
+      "question": "Quel montage garantit une tension constante pour chaque lampe ?",
+      "options": ["Le parallèle", "Le série", "Le montage mixte", "Aucun"],
+      "reponse": "Le parallèle",
+      "explication": "En parallèle, la tension est la même pour chaque branche."
+    },
+    {
+      "question": "Un montage série de 3 résistances est remplacé par une seule résistance équivalente. Sa valeur est :",
+      "options": ["La somme des trois", "Le produit divisé par leur somme", "Leur moyenne", "La plus grande des trois"],
+      "reponse": "La somme des trois",
+      "explication": "R équivalente en série = R1 + R2 + R3."
+    },
+    {
+      "question": "Quel dipôle peut bloquer ou autoriser le passage du courant ?",
+      "options": ["L’interrupteur", "La pile", "La lampe", "La résistance"],
+      "reponse": "L’interrupteur",
+      "explication": "Un interrupteur ferme ou ouvre le circuit."
+    },
+    {
+      "question": "Quel dipôle transforme l’énergie électrique en lumière ?",
+      "options": ["La lampe", "La pile", "La résistance", "L’interrupteur"],
+      "reponse": "La lampe",
+      "explication": "La lampe est un récepteur qui produit de la lumière."
+    },
+    {
+      "question": "Quel montage est utilisé dans les maisons pour alimenter plusieurs lampes ?",
+      "options": ["Le parallèle", "Le série", "Le croisé", "Le mixte"],
+      "reponse": "Le parallèle",
+      "explication": "Cela permet d’allumer chaque lampe indépendamment."
+    },
+    {
+      "question": "Si deux lampes en parallèle sont différentes, que se passe-t-il ?",
+      "options": ["Chacune brille selon sa tension", "Elles s’éteignent", "Le courant est le même", "La plus faible grille"],
+      "reponse": "Chacune brille selon sa tension",
+      "explication": "Chaque branche reçoit la même tension et réagit selon ses caractéristiques."
+    },
+    {
+      "question": "Un montage est dit « série » quand :",
+      "options": ["Tous les dipôles sont les uns à la suite des autres", "Il y a plusieurs branches", "Il n’y a pas d’interrupteur", "Le courant est alternatif"],
+      "reponse": "Tous les dipôles sont les uns à la suite des autres",
+      "explication": "C’est la définition d’un montage en série."
+    },
+    {
+      "question": "Dans un schéma, quel symbole représente une lampe ?",
+      "options": ["Un rond avec une croix", "Un rectangle", "Une spirale", "Deux traits parallèles"],
+      "reponse": "Un rond avec une croix",
+      "explication": "C’est le symbole conventionnel pour une lampe."
+    },
+    {
+      "question": "Quel composant fournit l’énergie dans un circuit ?",
+      "options": ["La pile", "La lampe", "L’interrupteur", "Le fil"],
+      "reponse": "La pile",
+      "explication": "La pile est le générateur de tension."
+    },
+    {
+      "question": "Dans un montage série, on remplace une lampe par une résistance. Que se passe-t-il ?",
+      "options": ["Le circuit fonctionne avec moins de lumière", "La tension double", "La pile s’épuise", "Le courant s’arrête"],
+      "reponse": "Le circuit fonctionne avec moins de lumière",
+      "explication": "La résistance remplace une lampe : elle consomme mais ne brille pas."
+    },
+    {
+      "question": "Si on ajoute une lampe en série à un circuit, que se passe-t-il ?",
+      "options": ["Les lampes brillent moins", "Les lampes brillent plus", "La tension augmente", "Le courant augmente"],
+      "reponse": "Les lampes brillent moins",
+      "explication": "La tension est répartie entre plus de lampes, donc chacune reçoit moins."
+    },
+    {
+      "question": "Dans un circuit en parallèle avec 3 lampes, que vaut la tension aux bornes de chaque lampe si la pile est de 6 V ?",
+      "options": ["6 V", "2 V", "18 V", "3 V"],
+      "reponse": "6 V",
+      "explication": "En parallèle, la tension est la même pour chaque branche."
+    },
+    {
+      "question": "Si un fil relie directement les bornes d’un générateur, on dit qu’il y a :",
+      "options": ["Court-circuit", "Ouverture", "Interruption", "Résistance totale"],
+      "reponse": "Court-circuit",
+      "explication": "Un court-circuit permet au courant de passer sans obstacle, ce qui est dangereux."
+    },
+    {
+      "question": "Pourquoi un montage en parallèle est-il plus sûr pour les installations domestiques ?",
+      "options": ["Chaque appareil fonctionne indépendamment", "La tension est nulle", "Le courant ne circule pas", "Les lampes brillent moins"],
+      "reponse": "Chaque appareil fonctionne indépendamment",
+      "explication": "Une panne n’affecte pas les autres appareils."
+    },
+    {
+      "question": "Dans un circuit, deux résistances de 10 Ω et 20 Ω sont en série. Quelle est la résistance équivalente ?",
+      "options": ["30 Ω", "10 Ω", "20 Ω", "200 Ω"],
+      "reponse": "30 Ω",
+      "explication": "En série, les résistances s’additionnent : 10 + 20 = 30 Ω."
+    },
+    {
+      "question": "Deux lampes identiques sont branchées en parallèle. Si l’intensité totale est 2 A, quelle est l’intensité dans chaque branche ?",
+      "options": ["1 A", "2 A", "0,5 A", "Impossible à savoir"],
+      "reponse": "1 A",
+      "explication": "En parallèle, l’intensité se divise également entre deux lampes identiques."
+    },
+    {
+      "question": "Un circuit possède trois résistances de 5 Ω en série. Quelle est la résistance totale ?",
+      "options": ["15 Ω", "5 Ω", "10 Ω", "1,67 Ω"],
+      "reponse": "15 Ω",
+      "explication": "Rtotale = R1 + R2 + R3 = 5 + 5 + 5 = 15 Ω."
+    },
+    {
+      "question": "Un générateur de 6 V alimente deux lampes identiques en série. Quelle est la tension aux bornes de chaque lampe ?",
+      "options": ["3 V", "6 V", "12 V", "0 V"],
+      "reponse": "3 V",
+      "explication": "En série, la tension se divise également entre les deux lampes."
+    },
+    {
+      "question": "Dans un montage parallèle, la tension aux bornes de chaque dipôle est de 6 V. Quelle est la tension du générateur ?",
+      "options": ["6 V", "3 V", "12 V", "Varie selon les branches"],
+      "reponse": "6 V",
+      "explication": "En parallèle, la tension est la même sur chaque branche que celle du générateur."
+    },
+    {
+      "question": "Une résistance de 100 Ω est en parallèle avec une résistance de 200 Ω. La résistance équivalente est :",
+      "options": ["Inférieure à 100 Ω", "150 Ω", "200 Ω", "Supérieure à 200 Ω"],
+      "reponse": "Inférieure à 100 Ω",
+      "explication": "La résistance équivalente en parallèle est toujours inférieure à la plus petite."
+    },
+    {
+      "question": "Dans un circuit en série, une résistance de 5 Ω est remplacée par une de 10 Ω. Que se passe-t-il ?",
+      "options": ["Le courant diminue", "Le courant augmente", "La tension double", "La lampe grille"],
+      "reponse": "Le courant diminue",
+      "explication": "Plus la résistance est grande, plus le courant diminue (I = U / R)."
+    },
+    {
+      "question": "Une lampe est branchée avec un interrupteur en série. Que se passe-t-il si on ouvre l’interrupteur ?",
+      "options": ["La lampe s’éteint", "La lampe reste allumée", "La tension double", "Le courant augmente"],
+      "reponse": "La lampe s’éteint",
+      "explication": "Ouvrir un interrupteur coupe le circuit : pas de courant, donc la lampe s’éteint."
+    },
+    {
+      "question": "Un court-circuit est réalisé sur une lampe. Que se passe-t-il ?",
+      "options": ["La lampe s’éteint", "La lampe brille plus", "Le courant s’arrête", "Le générateur s’éteint"],
+      "reponse": "La lampe s’éteint",
+      "explication": "Le courant passe par le chemin sans résistance, la lampe est contournée."
+    },
+    {
+      "question": "Dans un circuit parallèle, l’intensité mesurée à la sortie du générateur est 3 A. Dans une branche, elle est 1 A. Que vaut l’intensité dans l’autre branche ?",
+      "options": ["2 A", "1 A", "3 A", "Impossible à déterminer"],
+      "reponse": "2 A",
+      "explication": "I totale = I1 + I2 → 3 = 1 + ? → I2 = 2 A."
+    },
+    {
+      "question": "Quel est le comportement d’une résistance dans un circuit série ?",
+      "options": ["Elle limite le courant", "Elle augmente la tension", "Elle stocke de l’énergie", "Elle divise le courant"],
+      "reponse": "Elle limite le courant",
+      "explication": "Une résistance s’oppose au passage du courant, donc elle le limite."
+    },
+    {
+      "question": "Deux lampes en série sont alimentées par 12 V. Si une des lampes est débranchée, que se passe-t-il ?",
+      "options": ["Les deux s’éteignent", "L’autre reste allumée", "La tension double", "La résistance augmente"],
+      "reponse": "Les deux s’éteignent",
+      "explication": "En série, une coupure interrompt tout le circuit."
+    },
+    {
+      "question": "Dans un montage parallèle, si on ajoute une branche, que devient l’intensité totale ?",
+      "options": ["Elle augmente", "Elle diminue", "Elle ne change pas", "Elle devient nulle"],
+      "reponse": "Elle augmente",
+      "explication": "Plus il y a de branches, plus il y a de courant consommé."
+    },
+    {
+      "question": "Un circuit possède deux lampes : une en série et une en parallèle. Comment appelle-t-on ce montage ?",
+      "options": ["Montage mixte", "Montage croisé", "Montage en opposition", "Montage multiple"],
+      "reponse": "Montage mixte",
+      "explication": "Un mélange de série et de parallèle s’appelle un montage mixte."
+    },
+    {
+      "question": "Quelle est la conséquence d’un court-circuit sur une résistance ?",
+      "options": ["Elle est contournée", "Elle éclaire plus", "Elle chauffe", "Elle bloque le courant"],
+      "reponse": "Elle est contournée",
+      "explication": "Le courant choisit le chemin sans résistance."
+    },
+    {
+      "question": "Deux résistances de 20 Ω et 30 Ω sont montées en série. Quelle est la résistance équivalente ?",
+      "options": ["50 Ω", "10 Ω", "600 Ω", "25 Ω"],
+      "reponse": "50 Ω",
+      "explication": "En série : R = 20 + 30 = 50 Ω."
+    },
+    {
+      "question": "Dans un circuit en série, si une résistance est doublée, que devient le courant ?",
+      "options": ["Il diminue", "Il double", "Il reste constant", "Il s’annule"],
+      "reponse": "Il diminue",
+      "explication": "I = U / R : plus R est grand, plus I est petit."
+    },
+    {
+      "question": "Un interrupteur placé sur une branche parallèle permet :",
+      "options": ["De contrôler un seul dipôle", "De contrôler tout le circuit", "D’augmenter la tension", "D’ajouter une résistance"],
+      "reponse": "De contrôler un seul dipôle",
+      "explication": "Dans une branche parallèle, chaque interrupteur commande sa branche."
+    },
+    {
+      "question": "Un voltmètre mesure 6 V entre deux points d’un circuit parallèle. Quelle est la tension entre ces deux points ?",
+      "options": ["6 V", "3 V", "12 V", "0 V"],
+      "reponse": "6 V",
+      "explication": "En parallèle, la tension est identique à celle du générateur."
+    },
+    {
+      "question": "Pourquoi utilise-t-on souvent le montage parallèle dans les habitations ?",
+      "options": ["Chaque appareil fonctionne indépendamment", "Le courant est plus faible", "Les tensions sont divisées", "Les lampes s’éteignent en cas de panne"],
+      "reponse": "Chaque appareil fonctionne indépendamment",
+      "explication": "Si un appareil tombe en panne, les autres continuent de fonctionner normalement."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que l’aménagement du territoire ?",
+      "options": ["Organisation de l’espace pour mieux vivre", "Construction de maisons traditionnelles", "Répartition des forêts", "Partage des terres entre éleveurs"],
+      "reponse": "Organisation de l’espace pour mieux vivre",
+      "explication": "L’aménagement du territoire vise à organiser l’espace pour améliorer les conditions de vie et les activités économiques."
+    },
+    {
+      "question": "Quelle est une conséquence directe de la désertification ?",
+      "options": ["Appauvrissement des sols", "Augmentation des forêts", "Multiplication des fleuves", "Accroissement de la biodiversité"],
+      "reponse": "Appauvrissement des sols",
+      "explication": "La désertification rend les sols pauvres et impropres à l’agriculture."
+    },
+    {
+      "question": "Quelle activité humaine favorise la désertification ?",
+      "options": ["Déboisement excessif", "Reboisement", "Irrigation contrôlée", "Rotation des cultures"],
+      "reponse": "Déboisement excessif",
+      "explication": "Couper les arbres sans replanter accélère l’érosion et la désertification."
+    },
+    {
+      "question": "Quel est un effet négatif de la déforestation ?",
+      "options": ["Perte de biodiversité", "Augmentation des pluies", "Amélioration de la fertilité", "Multiplication des réserves d’eau"],
+      "reponse": "Perte de biodiversité",
+      "explication": "La disparition des forêts entraîne la perte d’espèces animales et végétales."
+    },
+    {
+      "question": "Quelle est une des principales causes de la déforestation au Burkina Faso ?",
+      "options": ["Utilisation du bois de chauffe", "Cyclones violents", "Tsunamis", "Construction de navires"],
+      "reponse": "Utilisation du bois de chauffe",
+      "explication": "Le bois est la principale source d’énergie pour la cuisson, causant une forte pression sur les forêts."
+    },
+    {
+      "question": "Comment lutter contre la déforestation ?",
+      "options": ["Reboisement", "Surpâturage", "Brûlis", "Pollution volontaire"],
+      "reponse": "Reboisement",
+      "explication": "Planter des arbres compense la coupe excessive et stabilise les sols."
+    },
+    {
+      "question": "Quel est un objectif de l’aménagement du territoire ?",
+      "options": ["Réduire les inégalités régionales", "Fermer les écoles rurales", "Concentrer les habitants en ville", "Abandonner les zones rurales"],
+      "reponse": "Réduire les inégalités régionales",
+      "explication": "Il vise à doter toutes les régions d’équipements et services essentiels."
+    },
+    {
+      "question": "Pourquoi construire des infrastructures routières ?",
+      "options": ["Faciliter les déplacements et les échanges", "Décorer les villes", "Remplacer les forêts", "Arrêter la pluie"],
+      "reponse": "Faciliter les déplacements et les échanges",
+      "explication": "Les routes, ponts et voies ferrées permettent une meilleure circulation des biens et des personnes."
+    },
+    {
+      "question": "Quel est un problème lié à l’état des routes rurales ?",
+      "options": ["Inaccessibilité en saison des pluies", "Trop de feux rouges", "Présence d’animaux sauvages", "Excès de signalisation"],
+      "reponse": "Inaccessibilité en saison des pluies",
+      "explication": "Certaines pistes deviennent impraticables pendant l’hivernage, isolant les villages."
+    },
+    {
+      "question": "Quelle infrastructure est essentielle pour l’accès à l’éducation ?",
+      "options": ["Écoles", "Aéroports", "Usines", "Mines d’or"],
+      "reponse": "Écoles",
+      "explication": "Les écoles permettent l’alphabétisation et la formation des jeunes pour le développement du pays."
+    },
+    {
+      "question": "Quel défi affecte l’éducation dans certaines zones rurales ?",
+      "options": ["Manque d’enseignants et de classes", "Trop de bibliothèques", "Accès facile à Internet", "Surcharge d’universités"],
+      "reponse": "Manque d’enseignants et de classes",
+      "explication": "Beaucoup de villages ont des écoles incomplètes ou sans personnel qualifié."
+    },
+    {
+      "question": "Pourquoi améliorer les centres de santé en milieu rural ?",
+      "options": ["Pour soigner rapidement les populations", "Pour organiser des concerts", "Pour stocker les récoltes", "Pour faire du commerce international"],
+      "reponse": "Pour soigner rapidement les populations",
+      "explication": "L’accès rapide aux soins permet de sauver des vies et de prévenir les épidémies."
+    },
+    {
+      "question": "Qu'est-ce que la stratégie de développement durable ?",
+      "options": ["Développer sans épuiser les ressources", "Produire à tout prix", "Exploiter les ressources forestières", "Ignorer les problèmes environnementaux"],
+      "reponse": "Développer sans épuiser les ressources",
+      "explication": "Le développement durable vise à répondre aux besoins actuels sans compromettre ceux des générations futures."
+    },
+    {
+      "question": "Quel est un exemple d’aménagement durable ?",
+      "options": ["Utilisation de l’énergie solaire", "Déboisement massif", "Brûlis des cultures", "Pollution industrielle"],
+      "reponse": "Utilisation de l’énergie solaire",
+      "explication": "L’énergie solaire est propre et renouvelable, idéale pour un développement durable."
+    },
+    {
+      "question": "Quel secteur est prioritaire pour le développement ?",
+      "options": ["Éducation", "Tir sportif", "Jeux vidéo", "Importation de voitures"],
+      "reponse": "Éducation",
+      "explication": "L’éducation forme les citoyens et favorise le progrès dans tous les domaines."
+    },
+    {
+      "question": "Quel type d’école est souvent construite dans les zones rurales ?",
+      "options": ["Écoles sous paillotes", "Universités technologiques", "Écoles internationales", "Académies militaires"],
+      "reponse": "Écoles sous paillotes",
+      "explication": "Par manque de moyens, certaines écoles sont encore faites de matériaux précaires."
+    },
+    {
+      "question": "Pourquoi construire des barrages au Burkina Faso ?",
+      "options": ["Stocker de l’eau pour l’agriculture et les populations", "Empêcher les tremblements de terre", "Remplacer les routes", "Créer des montagnes"],
+      "reponse": "Stocker de l’eau pour l’agriculture et les populations",
+      "explication": "Les barrages permettent l’irrigation, la pêche et l’approvisionnement en eau potable."
+    },
+    {
+      "question": "Quel secteur est touché par l’exode rural ?",
+      "options": ["L’agriculture", "La marine marchande", "L’industrie aéronautique", "Le cinéma"],
+      "reponse": "L’agriculture",
+      "explication": "L’exode rural vide les campagnes de leur main-d’œuvre agricole."
+    },
+    {
+      "question": "Que signifie alphabétisation ?",
+      "options": ["Apprendre à lire et écrire", "Apprendre à cuisiner", "Apprendre à danser", "Apprendre à se battre"],
+      "reponse": "Apprendre à lire et écrire",
+      "explication": "C’est la base pour suivre une formation, avoir un emploi ou participer à la vie sociale."
+    },
+    {
+      "question": "Quel moyen réduit la mortalité infantile ?",
+      "options": ["Vaccination et suivi médical", "Boire l’eau des rivières", "Absence d’hôpitaux", "Refus de soins modernes"],
+      "reponse": "Vaccination et suivi médical",
+      "explication": "Les soins de santé préventifs protègent les enfants contre les maladies graves."
+    },
+    {
+      "question": "Quel service de base est encore insuffisant dans certaines régions ?",
+      "options": ["Accès à l’eau potable", "Téléphérique", "Réseau de métro", "Aéroports internationaux"],
+      "reponse": "Accès à l’eau potable",
+      "explication": "L’eau potable reste difficile d’accès dans de nombreuses zones rurales."
+    },
+    {
+      "question": "Quel type d’habitat est fréquent dans les zones non aménagées ?",
+      "options": ["Habitats précaires", "Villas luxueuses", "Gratte-ciel", "Maisons coloniales"],
+      "reponse": "Habitats précaires",
+      "explication": "Les logements sont souvent faits de matériaux non durables et peu confortables."
+    },
+    {
+      "question": "Quel organisme coordonne les projets d’aménagement au Burkina Faso ?",
+      "options": ["Ministère de l’Aménagement du Territoire", "Ministère du Football", "Direction des mines", "Société des artistes"],
+      "reponse": "Ministère de l’Aménagement du Territoire",
+      "explication": "Ce ministère est chargé de répartir les infrastructures et de planifier le développement régional."
+    },
+    {
+      "question": "Quel objectif vise une politique d’aménagement équilibré ?",
+      "options": ["Réduire les déséquilibres entre régions", "Concentrer tout à Ouagadougou", "Dépeupler les campagnes", "Créer de nouveaux États"],
+      "reponse": "Réduire les déséquilibres entre régions",
+      "explication": "Un bon aménagement cherche à donner les mêmes chances à toutes les régions."
+    },
+    {
+      "question": "Quel problème rend certaines écoles inaccessibles ?",
+      "options": ["Distance et manque de routes", "Présence de lions", "Trop de nourriture", "Trop de professeurs"],
+      "reponse": "Distance et manque de routes",
+      "explication": "Sans route, les élèves doivent parfois marcher plusieurs kilomètres."
+    },
+    {
+      "question": "Quel est un frein au développement ?",
+      "options": ["Manque d’infrastructures", "Trop de marchés", "Excès de technologie", "Surpopulation urbaine"],
+      "reponse": "Manque d’infrastructures",
+      "explication": "Sans routes, hôpitaux, écoles ou barrages, le développement est difficile."
+    },
+    {
+      "question": "Quel projet lutte contre la désertification au Sahel ?",
+      "options": ["La Grande Muraille Verte", "Le Mur de Berlin", "La ceinture bleue", "Le canal amazonien"],
+      "reponse": "La Grande Muraille Verte",
+      "explication": "C’est un projet panafricain visant à reboiser et restaurer les terres dégradées."
+    },
+    {
+      "question": "Que signifie l’expression ‘développement local’ ?",
+      "options": ["Amélioration des conditions dans les communes", "Migration vers les villes", "Suppression des forêts", "Utilisation du dollar"],
+      "reponse": "Amélioration des conditions dans les communes",
+      "explication": "Le développement local cherche à améliorer la vie des populations à l’échelle locale."
+    },
+    {
+      "question": "Quel facteur social favorise le développement ?",
+      "options": ["Participation des populations", "Corruption", "Isolement", "Violence"],
+      "reponse": "Participation des populations",
+      "explication": "Un développement durable passe par l’implication active des habitants dans les projets."
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que le réchauffement climatique ?",
+      "options": ["Augmentation progressive de la température moyenne de la Terre", "Refroidissement de la Terre", "Cycle naturel de la Lune", "Augmentation des pluies uniquement"],
+      "reponse": "Augmentation progressive de la température moyenne de la Terre",
+      "explication": "Le réchauffement climatique correspond à une hausse durable des températures globales."
+    },
+    {
+      "question": "Quelle est la principale cause du réchauffement climatique ?",
+      "options": ["Émissions de gaz à effet de serre", "Activité solaire", "Volcans", "Courants marins"],
+      "reponse": "Émissions de gaz à effet de serre",
+      "explication": "Les gaz comme le CO₂, méthane, produits par l’activité humaine renforcent l’effet de serre."
+    },
+    {
+      "question": "Quel gaz est le principal responsable de l’effet de serre ?",
+      "options": ["Dioxyde de carbone (CO₂)", "Oxygène (O₂)", "Azote (N₂)", "Argon (Ar)"],
+      "reponse": "Dioxyde de carbone (CO₂)",
+      "explication": "Le CO₂ est le gaz le plus abondant lié aux activités humaines qui renforce l’effet de serre."
+    },
+    {
+      "question": "Quelle activité humaine contribue le plus aux émissions de CO₂ ?",
+      "options": ["Combustion des énergies fossiles (charbon, pétrole, gaz)", "Agriculture biologique", "Énergie solaire", "Recyclage"],
+      "reponse": "Combustion des énergies fossiles (charbon, pétrole, gaz)",
+      "explication": "Brûler des énergies fossiles libère beaucoup de CO₂ dans l’atmosphère."
+    },
+    {
+      "question": "Quelles sont les conséquences du réchauffement climatique ?",
+      "options": ["Fonte des glaciers, montée du niveau des mers, phénomènes météorologiques extrêmes", "Diminution des précipitations seulement", "Réduction des éruptions volcaniques", "Augmentation des forêts uniquement"],
+      "reponse": "Fonte des glaciers, montée du niveau des mers, phénomènes météorologiques extrêmes",
+      "explication": "Le réchauffement provoque de nombreux effets environnementaux graves."
+    },
+    {
+      "question": "Qu’est-ce que la pollution de l’air ?",
+      "options": ["Présence de substances nocives dans l’atmosphère", "Air pur et sain", "Absence de gaz", "Brise légère"],
+      "reponse": "Présence de substances nocives dans l’atmosphère",
+      "explication": "La pollution de l’air correspond à la contamination par des gaz ou particules toxiques."
+    },
+    {
+      "question": "Quels sont les principaux polluants atmosphériques ?",
+      "options": ["Dioxyde de soufre, oxydes d’azote, particules fines, monoxyde de carbone", "Oxygène, azote", "Vapeur d’eau uniquement", "Argon, néon"],
+      "reponse": "Dioxyde de soufre, oxydes d’azote, particules fines, monoxyde de carbone",
+      "explication": "Ces polluants proviennent principalement des combustions et des industries."
+    },
+    {
+      "question": "Quelle est la principale source de pollution de l’air dans les villes ?",
+      "options": ["Transports automobiles", "Agriculture", "Forêts", "Lacs"],
+      "reponse": "Transports automobiles",
+      "explication": "Les voitures émettent beaucoup de gaz polluants dans les zones urbaines."
+    },
+    {
+      "question": "Qu’est-ce que l’effet de serre naturel ?",
+      "options": ["Phénomène qui maintient la température de la Terre habitable", "Pollution industrielle", "Pluie acide", "Chaleur du Soleil uniquement"],
+      "reponse": "Phénomène qui maintient la température de la Terre habitable",
+      "explication": "L’effet de serre naturel retient une partie de la chaleur pour permettre la vie."
+    },
+    {
+      "question": "Comment limiter le réchauffement climatique ?",
+      "options": ["Réduire les émissions de gaz à effet de serre", "Augmenter la déforestation", "Utiliser plus de charbon", "Augmenter la consommation d’énergie fossile"],
+      "reponse": "Réduire les émissions de gaz à effet de serre",
+      "explication": "Limiter les émissions permet de ralentir le réchauffement global."
+    },
+    {
+      "question": "Qu’est-ce que la déforestation ?",
+      "options": ["Destruction massive des forêts", "Plantation d’arbres", "Recyclage", "Nettoyage des rivières"],
+      "reponse": "Destruction massive des forêts",
+      "explication": "La déforestation réduit la capacité des arbres à absorber le CO₂."
+    },
+    {
+      "question": "Pourquoi la déforestation aggrave-t-elle le réchauffement climatique ?",
+      "options": ["Moins d’arbres pour capter le CO₂", "Augmentation de la photosynthèse", "Plus d’oxygène produit", "Réduction de la pollution"],
+      "reponse": "Moins d’arbres pour capter le CO₂",
+      "explication": "Les arbres absorbent le CO₂, donc leur disparition augmente le CO₂ atmosphérique."
+    },
+    {
+      "question": "Qu’est-ce que la pollution de l’eau ?",
+      "options": ["Contamination des eaux par des substances toxiques", "Eau propre et potable", "Eau salée uniquement", "Pluie naturelle"],
+      "reponse": "Contamination des eaux par des substances toxiques",
+      "explication": "La pollution de l’eau rend l’eau dangereuse pour les êtres vivants."
+    },
+    {
+      "question": "Quels sont les effets de la pollution sur la santé humaine ?",
+      "options": ["Maladies respiratoires, allergies, cancers", "Amélioration de la santé", "Croissance plus rapide", "Augmentation de l’immunité"],
+      "reponse": "Maladies respiratoires, allergies, cancers",
+      "explication": "La pollution est responsable de nombreux problèmes de santé."
+    },
+    {
+      "question": "Quel gaz est responsable de la formation du smog (brouillard toxique) ?",
+      "options": ["Oxydes d’azote", "Oxygène", "Azote", "Dioxyde de carbone"],
+      "reponse": "Oxydes d’azote",
+      "explication": "Les oxydes d’azote réagissent avec d’autres polluants pour former le smog."
+    },
+    {
+      "question": "Qu’est-ce que la couche d’ozone ?",
+      "options": ["Zone de l’atmosphère qui protège la Terre des rayons ultraviolets", "Couches de la Terre", "Partie de la mer", "Polluant atmosphérique"],
+      "reponse": "Zone de l’atmosphère qui protège la Terre des rayons ultraviolets",
+      "explication": "La couche d’ozone absorbe les rayons UV dangereux du Soleil."
+    },
+    {
+      "question": "Quelle est la conséquence de la destruction de la couche d’ozone ?",
+      "options": ["Augmentation des cancers de la peau", "Réduction des pluies", "Chute des températures", "Augmentation de la photosynthèse"],
+      "reponse": "Augmentation des cancers de la peau",
+      "explication": "La destruction de la couche d’ozone laisse passer plus de rayons UV nocifs."
+    },
+    {
+      "question": "Qu’est-ce que l’énergie renouvelable ?",
+      "options": ["Énergie provenant de sources inépuisables", "Énergie fossile", "Énergie nucléaire", "Énergie chimique"],
+      "reponse": "Énergie provenant de sources inépuisables",
+      "explication": "Les énergies renouvelables (solaire, éolienne) sont durables et moins polluantes."
+    },
+    {
+      "question": "Quel est l’impact des transports sur la pollution ?",
+      "options": ["Ils émettent des gaz polluants", "Ils purifient l’air", "Ils n’ont aucun impact", "Ils réduisent les émissions"],
+      "reponse": "Ils émettent des gaz polluants",
+      "explication": "Les véhicules motorisés produisent du CO₂ et d’autres polluants atmosphériques."
+    },
+    {
+      "question": "Qu’est-ce que le protocole de Kyoto ?",
+      "options": ["Accord international pour réduire les gaz à effet de serre", "Plan économique", "Traité militaire", "Programme éducatif"],
+      "reponse": "Accord international pour réduire les gaz à effet de serre",
+      "explication": "Ce protocole vise à limiter le réchauffement climatique à l’échelle mondiale."
+    },
+    {
+      "question": "Quelle est la source principale de pollution plastique ?",
+      "options": ["Déchets mal gérés", "Émissions de gaz", "Fumées industrielles", "Déforestation"],
+      "reponse": "Déchets mal gérés",
+      "explication": "Les plastiques jetés dans la nature polluent les sols et les océans."
+    },
+    {
+      "question": "Qu’est-ce que l’effet de serre renforcé ?",
+      "options": ["Augmentation de l’effet de serre due aux activités humaines", "Phénomène naturel uniquement", "Diminution des gaz à effet de serre", "Réduction de la température"],
+      "reponse": "Augmentation de l’effet de serre due aux activités humaines",
+      "explication": "L’activité humaine augmente la concentration des gaz à effet de serre."
+    },
+    {
+      "question": "Quelles sont les sources d’énergie les plus propres ?",
+      "options": ["Solaire, éolienne, hydraulique", "Charbon, pétrole", "Gaz naturel, pétrole", "Nucléaire uniquement"],
+      "reponse": "Solaire, éolienne, hydraulique",
+      "explication": "Ces énergies renouvelables n’émettent pas de gaz à effet de serre."
+    },
+    {
+      "question": "Quel est le principal effet des pluies acides ?",
+      "options": ["Dommages aux forêts, sols et bâtiments", "Augmentation de la biodiversité", "Nettoyage de l’air", "Réduction des gaz polluants"],
+      "reponse": "Dommages aux forêts, sols et bâtiments",
+      "explication": "Les pluies acides détruisent les écosystèmes et détériorent les infrastructures."
+    },
+    {
+      "question": "Que signifie 'empreinte carbone' ?",
+      "options": ["Quantité de gaz à effet de serre émise par une personne ou un produit", "Surface forestière", "Niveau de pollution de l’eau", "Quantité d’oxygène produite"],
+      "reponse": "Quantité de gaz à effet de serre émise par une personne ou un produit",
+      "explication": "C’est une mesure de l’impact environnemental en termes d’émissions de CO₂."
+    },
+    {
+      "question": "Quelle est une action individuelle pour réduire la pollution ?",
+      "options": ["Recycler, utiliser les transports en commun", "Augmenter la consommation d’électricité", "Utiliser plus de plastique", "Brûler les déchets"],
+      "reponse": "Recycler, utiliser les transports en commun",
+      "explication": "Ces gestes réduisent les émissions polluantes et les déchets."
+    },
+    {
+      "question": "Qu’est-ce que l’effet albédo ?",
+      "options": ["Réflexion de la lumière solaire par la surface terrestre", "Absorption de chaleur", "Pollution atmosphérique", "Type de gaz à effet de serre"],
+      "reponse": "Réflexion de la lumière solaire par la surface terrestre",
+      "explication": "Les surfaces claires comme la glace reflètent la lumière, ralentissant le réchauffement."
+    },
+    {
+      "question": "Pourquoi la fonte des glaces aggrave le réchauffement climatique ?",
+      "options": ["Réduction de la réflexion de la lumière solaire", "Augmentation de la surface blanche", "Réduction des gaz à effet de serre", "Plus d’eau potable"],
+      "reponse": "Réduction de la réflexion de la lumière solaire",
+      "explication": "La disparition des glaces réduit l’albédo, la Terre absorbe plus de chaleur."
+    },
+    {
+      "question": "Qu’est-ce qu’une source d’énergie fossile ?",
+      "options": ["Énergie provenant de matières organiques enfouies", "Énergie solaire", "Énergie hydraulique", "Énergie éolienne"],
+      "reponse": "Énergie provenant de matières organiques enfouies",
+      "explication": "Le charbon, pétrole et gaz naturel sont des énergies fossiles issues de restes anciens."
+    },
+    {
+      "question": "Qu’est-ce qu’une inégalité économique ?",
+      "options": ["Différence importante de revenus et de richesses entre individus ou pays", "Égalité parfaite des revenus", "Partage des richesses", "Même niveau de vie pour tous"],
+      "reponse": "Différence importante de revenus et de richesses entre individus ou pays",
+      "explication": "Les inégalités économiques désignent les écarts dans la répartition des richesses."
+    },
+    {
+      "question": "Quels sont les facteurs des inégalités économiques entre pays ?",
+      "options": ["Niveau de développement, accès aux ressources, infrastructures", "Climat uniquement", "Nombre d’habitants uniquement", "Langue parlée"],
+      "reponse": "Niveau de développement, accès aux ressources, infrastructures",
+      "explication": "Ces facteurs influencent la richesse et le développement économique."
+    },
+    {
+      "question": "Qu’est-ce qu’une migration internationale ?",
+      "options": ["Déplacement durable d’une personne d’un pays à un autre", "Voyage touristique", "Déplacement à l’intérieur d’un pays", "Déplacement temporaire uniquement"],
+      "reponse": "Déplacement durable d’une personne d’un pays à un autre",
+      "explication": "La migration internationale implique un changement de pays pour s’installer."
+    },
+    {
+      "question": "Quelles sont les causes économiques des migrations internationales ?",
+      "options": ["Recherche d’emploi, meilleures conditions de vie", "Voyage de loisir", "Climat chaud", "Éducation seulement"],
+      "reponse": "Recherche d’emploi, meilleures conditions de vie",
+      "explication": "Les migrants cherchent souvent un travail ou une vie meilleure ailleurs."
+    },
+    {
+      "question": "Quels pays sont principalement concernés par les migrations internationales ?",
+      "options": ["Pays en développement et pays développés", "Uniquement pays développés", "Uniquement pays pauvres", "Uniquement pays insulaires"],
+      "reponse": "Pays en développement et pays développés",
+      "explication": "Les migrations concernent aussi bien les pays riches que pauvres."
+    },
+    {
+      "question": "Qu’est-ce qu’un migrant économique ?",
+      "options": ["Personne qui migre pour des raisons de travail ou de revenus", "Réfugié politique", "Touriste", "Étudiant uniquement"],
+      "reponse": "Personne qui migre pour des raisons de travail ou de revenus",
+      "explication": "Le migrant économique cherche une meilleure situation économique."
+    },
+    {
+      "question": "Qu’est-ce qu’un réfugié ?",
+      "options": ["Personne qui fuit un pays à cause de conflits ou persécutions", "Touriste", "Étudiant", "Travailleur saisonnier"],
+      "reponse": "Personne qui fuit un pays à cause de conflits ou persécutions",
+      "explication": "Les réfugiés fuient la guerre, les violences ou les persécutions."
+    },
+    {
+      "question": "Quelle est une conséquence des inégalités économiques dans le monde ?",
+      "options": ["Développement inégal, pauvreté persistante", "Égalité des conditions de vie", "Paix mondiale", "Croissance économique uniforme"],
+      "reponse": "Développement inégal, pauvreté persistante",
+      "explication": "Les inégalités freinent le développement dans certains pays."
+    },
+    {
+      "question": "Quelles régions du monde ont les plus fortes inégalités économiques ?",
+      "options": ["Afrique, certaines parties de l’Asie", "Europe occidentale", "Amérique du Nord", "Océanie"],
+      "reponse": "Afrique, certaines parties de l’Asie",
+      "explication": "Ces régions ont souvent des écarts de richesse importants."
+    },
+    {
+      "question": "Qu’est-ce que la fuite des cerveaux ?",
+      "options": ["Départ des personnes qualifiées vers d’autres pays", "Migration touristique", "Exode rural", "Immigration saisonnière"],
+      "reponse": "Départ des personnes qualifiées vers d’autres pays",
+      "explication": "Les pays pauvres perdent leurs compétences à cause des migrations."
+    },
+    {
+      "question": "Qu’est-ce que l’intégration des migrants ?",
+      "options": ["Processus d’adaptation et d’inclusion dans la société d’accueil", "Retour au pays", "Rejet des migrants", "Voyage touristique"],
+      "reponse": "Processus d’adaptation et d’inclusion dans la société d’accueil",
+      "explication": "L’intégration permet aux migrants de participer à la vie sociale et économique."
+    },
+    {
+      "question": "Quel est le rôle des organisations internationales face aux migrations ?",
+      "options": ["Protéger les droits des migrants et réfugiés", "Empêcher toute migration", "Ignorer le phénomène", "Favoriser les barrières douanières"],
+      "reponse": "Protéger les droits des migrants et réfugiés",
+      "explication": "Des organismes comme l’ONU défendent les droits des migrants."
+    },
+    {
+      "question": "Qu’est-ce que le PIB par habitant ?",
+      "options": ["Mesure de la richesse moyenne par personne dans un pays", "Nombre d’habitants", "Taux de natalité", "Surface du pays"],
+      "reponse": "Mesure de la richesse moyenne par personne dans un pays",
+      "explication": "Le PIB par habitant indique le niveau de vie moyen."
+    },
+    {
+      "question": "Quelle est la conséquence de la pauvreté sur les migrations ?",
+      "options": ["Pousse des populations à migrer", "Empêche les migrations", "Favorise la croissance économique locale", "Réduit le chômage"],
+      "reponse": "Pousse des populations à migrer",
+      "explication": "La pauvreté incite souvent les gens à chercher ailleurs de meilleures conditions."
+    },
+    {
+      "question": "Qu’est-ce qu’une diaspora ?",
+      "options": ["Communauté d’un même pays vivant à l’étranger", "Un groupe politique", "Une langue", "Un type de commerce"],
+      "reponse": "Communauté d’un même pays vivant à l’étranger",
+      "explication": "La diaspora regroupe les migrants originaires d’un même pays."
+    },
+    {
+      "question": "Quel est l’impact des migrations sur les pays d’accueil ?",
+      "options": ["Apport culturel et économique, mais parfois tensions sociales", "Aucun impact", "Déclin économique", "Isolement culturel"],
+      "reponse": "Apport culturel et économique, mais parfois tensions sociales",
+      "explication": "Les migrants contribuent souvent à la société mais posent parfois des défis."
+    },
+    {
+      "question": "Qu’est-ce que l’exode rural ?",
+      "options": ["Départ des populations des campagnes vers les villes", "Migration internationale", "Retour à la campagne", "Déplacement saisonnier"],
+      "reponse": "Départ des populations des campagnes vers les villes",
+      "explication": "L’exode rural est un déplacement interne motivé par la recherche d’emploi."
+    },
+    {
+      "question": "Pourquoi certains pays imposent-ils des contrôles stricts aux frontières ?",
+      "options": ["Pour réguler les flux migratoires", "Pour faciliter toutes les migrations", "Pour encourager les migrations", "Pour empêcher le commerce"],
+      "reponse": "Pour réguler les flux migratoires",
+      "explication": "Les États contrôlent leurs frontières pour gérer les arrivées de migrants."
+    },
+    {
+      "question": "Qu’est-ce que le remède à long terme aux inégalités économiques ?",
+      "options": ["Développement durable et investissement dans l’éducation", "Augmentation des taxes", "Réduction de la population", "Isolation économique"],
+      "reponse": "Développement durable et investissement dans l’éducation",
+      "explication": "Améliorer l’éducation et l’économie réduit les écarts sur le long terme."
+    },
+    {
+      "question": "Quel est le rôle des transferts d’argent des migrants vers leur pays d’origine ?",
+      "options": ["Soutenir les familles et l’économie locale", "Créer des conflits", "Réduire la pauvreté dans le pays d’accueil", "Aucun impact"],
+      "reponse": "Soutenir les familles et l’économie locale",
+      "explication": "Les envois d’argent sont une source importante de revenus pour certains pays."
+    },
+    {
+      "question": "Qu’est-ce que le développement durable ?",
+      "options": ["Développement qui répond aux besoins présents sans compromettre ceux des générations futures", "Croissance rapide sans limite", "Exploitation excessive des ressources", "Déclin économique"],
+      "reponse": "Développement qui répond aux besoins présents sans compromettre ceux des générations futures",
+      "explication": "Le développement durable vise un équilibre entre économie, société et environnement."
+    },
+    {
+      "question": "Qu’est-ce qu’un migrant climatique ?",
+      "options": ["Personne forcée de migrer à cause du changement climatique", "Touriste", "Étudiant", "Travailleur saisonnier"],
+      "reponse": "Personne forcée de migrer à cause du changement climatique",
+      "explication": "Les catastrophes naturelles liées au climat poussent certaines populations à migrer."
+    },
+    {
+      "question": "Quelles sont les difficultés rencontrées par les migrants ?",
+      "options": ["Discrimination, difficulté d’accès à l’emploi et au logement", "Accueil facile partout", "Pas de difficultés", "Vie sans problème"],
+      "reponse": "Discrimination, difficulté d’accès à l’emploi et au logement",
+      "explication": "Les migrants font souvent face à des obstacles sociaux et économiques dans leur pays d’accueil."
+    },
+    {
+      "question": "Qu’est-ce que la pauvreté absolue ?",
+      "options": ["Condition où une personne ne peut pas satisfaire ses besoins essentiels", "Revenu moyen", "Situation confortable", "Revenu élevé"],
+      "reponse": "Condition où une personne ne peut pas satisfaire ses besoins essentiels",
+      "explication": "La pauvreté absolue désigne le manque d’accès aux ressources de base."
+    },
+    {
+      "question": "Qu’est-ce que la croissance économique ?",
+      "options": ["Augmentation de la production de biens et services dans un pays", "Réduction de la population", "Diminution du commerce", "Égalité économique"],
+      "reponse": "Augmentation de la production de biens et services dans un pays",
+      "explication": "La croissance économique est un indicateur de développement d’un pays."
+    },
+    {
+      "question": "Qu’est-ce qu’un pays développé ?",
+      "options": ["Pays avec un niveau de vie élevé et une économie avancée", "Pays pauvre", "Pays en guerre", "Pays agricole uniquement"],
+      "reponse": "Pays avec un niveau de vie élevé et une économie avancée",
+      "explication": "Les pays développés ont une économie diversifiée et un bon niveau de vie."
+    },
+    {
+      "question": "Qu’est-ce qu’un pays en développement ?",
+      "options": ["Pays avec des ressources limitées et un faible niveau de vie", "Pays riche", "Pays industrialisé", "Pays sans agriculture"],
+      "reponse": "Pays avec des ressources limitées et un faible niveau de vie",
+      "explication": "Les pays en développement ont souvent des infrastructures faibles et des revenus bas."
+    }
+  ]
+}

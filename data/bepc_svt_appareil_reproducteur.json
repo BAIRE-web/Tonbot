@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est l’organe qui produit les spermatozoïdes chez l’homme ?",
+      "options": ["Prostate", "Testicule", "Pénis", "Canal déférent"],
+      "reponse": "Testicule",
+      "explication": "Les testicules sont les organes producteurs de spermatozoïdes et de testostérone."
+    },
+    {
+      "question": "Combien de testicules un homme possède-t-il normalement ?",
+      "options": ["1", "2", "3", "4"],
+      "reponse": "2",
+      "explication": "L’homme possède deux testicules situés dans le scrotum."
+    },
+    {
+      "question": "Où sont stockés les spermatozoïdes avant leur expulsion ?",
+      "options": ["Prostate", "Vessie", "Épididyme", "Uretère"],
+      "reponse": "Épididyme",
+      "explication": "L’épididyme, situé au-dessus des testicules, stocke et mature les spermatozoïdes."
+    },
+    {
+      "question": "Quel est le rôle du canal déférent ?",
+      "options": ["Filtrer le sang", "Produire la testostérone", "Transporter les spermatozoïdes", "Éliminer l’urine"],
+      "reponse": "Transporter les spermatozoïdes",
+      "explication": "Il transporte les spermatozoïdes de l’épididyme vers l’urètre."
+    },
+    {
+      "question": "Quel organe permet l’éjaculation du sperme ?",
+      "options": ["L’urètre", "Le rectum", "La vessie", "L’uretère"],
+      "reponse": "L’urètre",
+      "explication": "L’urètre est un canal commun à l’appareil urinaire et reproducteur chez l’homme."
+    },
+    {
+      "question": "Quel organe fabrique la testostérone ?",
+      "options": ["La prostate", "L’épididyme", "Le testicule", "Le foie"],
+      "reponse": "Le testicule",
+      "explication": "La testostérone est l’hormone sexuelle masculine produite par les testicules."
+    },
+    {
+      "question": "La prostate intervient dans la reproduction en :",
+      "options": ["Produisant du sperme", "Filtrant les spermatozoïdes", "Produisant un liquide qui nourrit les spermatozoïdes", "Stockant les spermatozoïdes"],
+      "reponse": "Produisant un liquide qui nourrit les spermatozoïdes",
+      "explication": "La prostate sécrète un liquide facilitant la mobilité et la survie des spermatozoïdes."
+    },
+    {
+      "question": "Le sperme est composé de :",
+      "options": ["Urine et eau", "Spermatozoïdes et liquides des glandes", "Sang et hormones", "Salive et enzymes"],
+      "reponse": "Spermatozoïdes et liquides des glandes",
+      "explication": "Le sperme est un mélange de spermatozoïdes et de sécrétions des glandes (prostate, vésicules séminales)."
+    },
+    {
+      "question": "Le pénis a pour fonction :",
+      "options": ["De produire les hormones", "D’éliminer les selles", "De permettre le transport de l’urine et du sperme", "De fabriquer les spermatozoïdes"],
+      "reponse": "De permettre le transport de l’urine et du sperme",
+      "explication": "Le pénis permet l’évacuation de l’urine et l’expulsion du sperme lors de l’éjaculation."
+    },
+    {
+      "question": "Les testicules sont contenus dans :",
+      "options": ["La vessie", "Le scrotum", "Le foie", "L’épididyme"],
+      "reponse": "Le scrotum",
+      "explication": "Le scrotum est une poche de peau située à l’extérieur du corps pour maintenir la température optimale des testicules."
+    },
+    {
+      "question": "Pourquoi les testicules sont-ils en dehors de la cavité abdominale ?",
+      "options": ["Pour être visibles", "Pour éviter les blessures", "Pour une température favorable à la spermatogenèse", "Pour capter plus d’oxygène"],
+      "reponse": "Pour une température favorable à la spermatogenèse",
+      "explication": "La production de spermatozoïdes nécessite une température légèrement inférieure à celle du corps."
+    },
+    {
+      "question": "La puberté chez le garçon se caractérise par :",
+      "options": ["L’apparition des règles", "Le développement des seins", "L’apparition des caractères sexuels secondaires", "La chute des cheveux"],
+      "reponse": "L’apparition des caractères sexuels secondaires",
+      "explication": "Chez le garçon, la voix mue, les muscles se développent, la pilosité augmente."
+    },
+    {
+      "question": "La testostérone est responsable :",
+      "options": ["Des règles", "De la pilosité faciale", "De la fabrication du lait", "Du développement du fœtus"],
+      "reponse": "De la pilosité faciale",
+      "explication": "La testostérone déclenche les caractères sexuels secondaires chez l’homme (voix grave, barbe, etc.)."
+    },
+    {
+      "question": "Une éjaculation est :",
+      "options": ["La sortie d’urine", "La libération de sperme par l’urètre", "Un trouble digestif", "La sortie de sueur"],
+      "reponse": "La libération de sperme par l’urètre",
+      "explication": "C’est l’expulsion du sperme contenant les spermatozoïdes par l’urètre lors d’un rapport sexuel."
+    },
+    {
+      "question": "Le rôle principal des spermatozoïdes est :",
+      "options": ["Nourrir le fœtus", "Protéger la prostate", "Fertiliser l’ovule", "Produire du sperme"],
+      "reponse": "Fertiliser l’ovule",
+      "explication": "Un seul spermatozoïde féconde l’ovule de la femme pour donner un embryon."
+    },
+    {
+      "question": "Un blocage du canal déférent entraîne :",
+      "options": ["Une stérilité", "Une perte d’urine", "Une infection du foie", "Une diarrhée"],
+      "reponse": "Une stérilité",
+      "explication": "Les spermatozoïdes ne peuvent plus être éjaculés, donc pas de fécondation possible."
+    },
+    {
+      "question": "Les vésicules séminales produisent :",
+      "options": ["Des spermatozoïdes", "Un liquide riche en nutriments pour les spermatozoïdes", "Du sang", "Des enzymes digestives"],
+      "reponse": "Un liquide riche en nutriments pour les spermatozoïdes",
+      "explication": "Ce liquide nourrit les spermatozoïdes et facilite leur mobilité."
+    },
+    {
+      "question": "Le sperme est expulsé hors du corps grâce :",
+      "options": ["À la vessie", "Aux contractions musculaires", "À la sueur", "Au foie"],
+      "reponse": "Aux contractions musculaires",
+      "explication": "L’éjaculation résulte de contractions musculaires du pénis et des voies génitales."
+    },
+    {
+      "question": "Un garçon sans testicule ne peut pas :",
+      "options": ["Faire de sport", "Transpirer", "Avoir une voix grave", "Produire de spermatozoïdes"],
+      "reponse": "Produire de spermatozoïdes",
+      "explication": "Les testicules sont indispensables à la spermatogenèse et à la production hormonale."
+    },
+    {
+      "question": "Le développement de l’appareil reproducteur masculin est déclenché par :",
+      "options": ["La testostérone", "L’insuline", "L’adrénaline", "Le glucose"],
+      "reponse": "La testostérone",
+      "explication": "Cette hormone déclenche la puberté masculine et le développement des organes reproducteurs."
+    },
+    {
+      "question": "Quel est l’organe où se forment les ovules chez la femme ?",
+      "options": ["Utérus", "Vagin", "Ovaire", "Trompe de Fallope"],
+      "reponse": "Ovaire",
+      "explication": "Les ovaires produisent les ovules et les hormones sexuelles féminines."
+    },
+    {
+      "question": "Combien d’ovaires une femme possède-t-elle ?",
+      "options": ["1", "2", "3", "4"],
+      "reponse": "2",
+      "explication": "Une femme a deux ovaires situés de part et d’autre de l’utérus."
+    },
+    {
+      "question": "Quel organe accueille l’embryon en cas de fécondation ?",
+      "options": ["Ovaire", "Vessie", "Utérus", "Vagin"],
+      "reponse": "Utérus",
+      "explication": "L’embryon s’implante dans l’utérus, où il se développe pendant 9 mois."
+    },
+    {
+      "question": "Le vagin est :",
+      "options": ["Un ovaire", "Un conduit musculaire reliant l’utérus à l’extérieur", "Un os", "Une glande hormonale"],
+      "reponse": "Un conduit musculaire reliant l’utérus à l’extérieur",
+      "explication": "Le vagin est l’organe qui reçoit le pénis lors du rapport sexuel et permet l’accouchement."
+    },
+    {
+      "question": "Les trompes de Fallope relient :",
+      "options": ["Le vagin et l’utérus", "Les ovaires et l’utérus", "La vessie et l’utérus", "Les ovaires et le vagin"],
+      "reponse": "Les ovaires et l’utérus",
+      "explication": "Les ovules passent des ovaires à l’utérus par les trompes de Fallope."
+    },
+    {
+      "question": "La fécondation a lieu dans :",
+      "options": ["L’utérus", "Le vagin", "L’ovaire", "La trompe de Fallope"],
+      "reponse": "La trompe de Fallope",
+      "explication": "C’est là que le spermatozoïde rencontre l’ovule et le féconde."
+    },
+    {
+      "question": "À quelle fréquence a lieu l’ovulation chez une femme en bonne santé ?",
+      "options": ["Chaque semaine", "Chaque mois", "Tous les 3 mois", "Tous les 2 jours"],
+      "reponse": "Chaque mois",
+      "explication": "L’ovulation se produit environ tous les 28 jours au milieu du cycle menstruel."
+    },
+    {
+      "question": "Les règles correspondent à :",
+      "options": ["La fécondation", "L’ovulation", "L’expulsion de la muqueuse utérine", "La production d’ovules"],
+      "reponse": "L’expulsion de la muqueuse utérine",
+      "explication": "En l’absence de fécondation, la muqueuse utérine se détache et saigne."
+    },
+    {
+      "question": "Quel est le rôle des ovaires ?",
+      "options": ["Nourrir l’embryon", "Filtrer le sang", "Produire des ovules et des hormones", "Produire des spermatozoïdes"],
+      "reponse": "Produire des ovules et des hormones",
+      "explication": "Les ovaires libèrent un ovule à chaque cycle et sécrètent les hormones sexuelles féminines."
+    },
+    {
+      "question": "Le cycle menstruel commence par :",
+      "options": ["La fécondation", "L’ovulation", "Les règles", "La grossesse"],
+      "reponse": "Les règles",
+      "explication": "Le jour 1 du cycle est le premier jour des règles."
+    },
+    {
+      "question": "L’organe dans lequel le fœtus grandit est :",
+      "options": ["L’ovaire", "Le vagin", "L’utérus", "La trompe"],
+      "reponse": "L’utérus",
+      "explication": "L’utérus abrite l’embryon puis le fœtus jusqu’à l’accouchement."
+    },
+    {
+      "question": "La durée moyenne du cycle menstruel est :",
+      "options": ["7 jours", "14 jours", "21 jours", "28 jours"],
+      "reponse": "28 jours",
+      "explication": "Le cycle féminin dure en moyenne 28 jours, bien qu’il puisse varier."
+    },
+    {
+      "question": "La fécondation donne naissance à :",
+      "options": ["Un spermatozoïde", "Un embryon", "Un ovaire", "Un utérus"],
+      "reponse": "Un embryon",
+      "explication": "La fécondation d’un ovule par un spermatozoïde forme un embryon."
+    },
+    {
+      "question": "L’organe qui permet le passage du bébé à la naissance est :",
+      "options": ["L’utérus", "La trompe", "Le vagin", "L’ovaire"],
+      "reponse": "Le vagin",
+      "explication": "Le vagin s’élargit pour permettre l’expulsion du bébé à l’accouchement."
+    },
+    {
+      "question": "La puberté chez la fille se manifeste par :",
+      "options": ["L’apparition de la barbe", "Les règles", "La pousse des cornes", "La stérilité"],
+      "reponse": "Les règles",
+      "explication": "Les premières règles marquent le début de la capacité reproductive chez la fille."
+    },
+    {
+      "question": "Une femme peut tomber enceinte quand :",
+      "options": ["Elle est en période de règles", "Pendant l’ovulation", "Juste après la ménopause", "Pendant l’enfance"],
+      "reponse": "Pendant l’ovulation",
+      "explication": "C’est à l’ovulation qu’un ovule est disponible pour être fécondé."
+    },
+    {
+      "question": "Quels organes produisent les hormones œstrogène et progestérone ?",
+      "options": ["Les reins", "Les trompes", "Les ovaires", "L’utérus"],
+      "reponse": "Les ovaires",
+      "explication": "Ce sont les ovaires qui sécrètent ces hormones régulant le cycle menstruel."
+    },
+    {
+      "question": "L’absence de règles chez une jeune fille peut être due à :",
+      "options": ["Une mauvaise digestion", "Un début de grossesse", "Un rhume", "Une fracture"],
+      "reponse": "Un début de grossesse",
+      "explication": "Lorsqu’un ovule est fécondé, les règles s’arrêtent : c’est un signe de grossesse."
+    },
+    {
+      "question": "Le rôle des trompes de Fallope est de :",
+      "options": ["Produire les règles", "Transporter l’ovule", "Stocker les spermatozoïdes", "Produire le lait"],
+      "reponse": "Transporter l’ovule",
+      "explication": "Les trompes conduisent l’ovule vers l’utérus et sont le lieu de la fécondation."
+    },
+    {
+      "question": "Les menstruations sont provoquées par :",
+      "options": ["Une infection", "La chute des hormones", "L’ovulation", "L’arrivée de l’ovule"],
+      "reponse": "La chute des hormones",
+      "explication": "En l’absence de fécondation, le taux d’hormones diminue et déclenche les règles."
+    },
+    {
+      "question": "Une fille de 13 ans remarque l’apparition des règles pour la première fois. Cela signifie que :",
+      "options": ["Elle ne grandira plus", "Elle est en période de ménopause", "Son appareil reproducteur commence à fonctionner", "Elle est malade"],
+      "reponse": "Son appareil reproducteur commence à fonctionner",
+      "explication": "L’apparition des règles marque le début de la capacité à procréer."
+    },
+    {
+      "question": "Une femme enceinte n’a pas ses règles. Pourquoi ?",
+      "options": ["Elle est stressée", "Son corps garde la muqueuse utérine pour nourrir l'embryon", "Elle mange trop", "Ses ovaires sont bloqués"],
+      "reponse": "Son corps garde la muqueuse utérine pour nourrir l'embryon",
+      "explication": "En cas de fécondation, les règles s’arrêtent pour permettre le développement de l’embryon."
+    },
+    {
+      "question": "Une patiente présente une douleur au bas ventre pendant les règles. Quelle est la cause probable ?",
+      "options": ["Une grossesse", "Une inflammation de la muqueuse utérine", "Une infection urinaire", "Un cancer"],
+      "reponse": "Une inflammation de la muqueuse utérine",
+      "explication": "Les contractions utérines provoquent souvent des douleurs lors des règles."
+    },
+    {
+      "question": "Les ovaires produisent :",
+      "options": ["Des ovules et des hormones", "Du sperme", "De la bile", "Du glucose"],
+      "reponse": "Des ovules et des hormones",
+      "explication": "Ils libèrent les ovules et sécrètent les hormones œstrogène et progestérone."
+    },
+    {
+      "question": "Que se passe-t-il lors de l’ovulation ?",
+      "options": ["L’ovule est libéré par l’ovaire", "Les règles commencent", "L’embryon s’implante", "Le vagin se contracte"],
+      "reponse": "L’ovule est libéré par l’ovaire",
+      "explication": "L’ovulation est la libération d’un ovule prêt à être fécondé."
+    },
+    {
+      "question": "Pendant le cycle menstruel, la muqueuse utérine :",
+      "options": ["S’épaissit puis se détache", "Produit des spermatozoïdes", "Se transforme en ovule", "Se décompose en ovaires"],
+      "reponse": "S’épaissit puis se détache",
+      "explication": "Elle se prépare à accueillir un embryon, sinon elle se détruit et provoque les règles."
+    },
+    {
+      "question": "Le vagin est :",
+      "options": ["Un organe de reproduction", "Un organe digestif", "Une glande hormonale", "Un muscle cardiaque"],
+      "reponse": "Un organe de reproduction",
+      "explication": "Il reçoit le pénis lors des rapports sexuels et sert de passage à l’accouchement."
+    },
+    {
+      "question": "Une obstruction des trompes de Fallope peut entraîner :",
+      "options": ["Une stérilité", "Un excès d’hormones", "Une grossesse multiple", "Une augmentation des règles"],
+      "reponse": "Une stérilité",
+      "explication": "Les trompes bloquées empêchent la rencontre de l’ovule et du spermatozoïde."
+    },
+    {
+      "question": "La durée moyenne du cycle menstruel est :",
+      "options": ["7 jours", "14 jours", "21 jours", "28 jours"],
+      "reponse": "28 jours",
+      "explication": "C’est la durée normale entre deux débuts de règles."
+    },
+    {
+      "question": "Le rôle des hormones œstrogène et progestérone est de :",
+      "options": ["Réguler le cycle menstruel", "Produire du sperme", "Contrôler la digestion", "Augmenter la taille des os"],
+      "reponse": "Réguler le cycle menstruel",
+      "explication": "Ces hormones contrôlent le développement des organes reproducteurs et le cycle menstruel."
+    }
+  ]
+}

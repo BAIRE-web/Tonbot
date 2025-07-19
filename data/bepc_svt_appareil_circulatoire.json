@@ -1,0 +1,532 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est l’organe principal de la circulation sanguine ?",
+      "options": ["Le foie", "Le cœur", "Le poumon", "L’estomac"],
+      "reponse": "Le cœur",
+      "explication": "Le cœur agit comme une pompe pour propulser le sang dans tout le corps."
+    },
+    {
+      "question": "Combien de cavités possède le cœur humain ?",
+      "options": ["2", "3", "4", "5"],
+      "reponse": "4",
+      "explication": "Le cœur est composé de 2 oreillettes et 2 ventricules, soit 4 cavités."
+    },
+    {
+      "question": "Le sang circule dans le corps grâce aux :",
+      "options": ["Nerfs", "Vaisseaux sanguins", "Os", "Poumons"],
+      "reponse": "Vaisseaux sanguins",
+      "explication": "Les vaisseaux transportent le sang depuis et vers le cœur."
+    },
+    {
+      "question": "Quel type de vaisseaux transporte le sang du cœur vers les organes ?",
+      "options": ["Veines", "Artères", "Capillaires", "Tendons"],
+      "reponse": "Artères",
+      "explication": "Les artères conduisent le sang du cœur vers les organes."
+    },
+    {
+      "question": "Quel type de vaisseaux ramène le sang des organes vers le cœur ?",
+      "options": ["Artères", "Veines", "Capillaires", "Cartilages"],
+      "reponse": "Veines",
+      "explication": "Les veines ramènent le sang appauvri en oxygène vers le cœur."
+    },
+    {
+      "question": "Les échanges entre le sang et les cellules se font au niveau des :",
+      "options": ["Artères", "Veines", "Capillaires", "Oreillettes"],
+      "reponse": "Capillaires",
+      "explication": "Les capillaires sont de très petits vaisseaux où ont lieu les échanges gazeux et nutritifs."
+    },
+    {
+      "question": "Quel est le rôle principal du sang ?",
+      "options": ["Digérer", "Transmettre les nerfs", "Transporter les nutriments et l’oxygène", "Refroidir le corps"],
+      "reponse": "Transporter les nutriments et l’oxygène",
+      "explication": "Le sang apporte aux cellules ce dont elles ont besoin pour fonctionner."
+    },
+    {
+      "question": "Le sang riche en oxygène est appelé :",
+      "options": ["Sang veineux", "Sang bleu", "Sang artériel", "Sang blanc"],
+      "reponse": "Sang artériel",
+      "explication": "Le sang artériel transporte l’oxygène des poumons vers les organes."
+    },
+    {
+      "question": "Le sang pauvre en oxygène revient au cœur par :",
+      "options": ["Les artères", "Les muscles", "Les veines", "Les nerfs"],
+      "reponse": "Les veines",
+      "explication": "Les veines ramènent le sang chargé en déchets vers le cœur."
+    },
+    {
+      "question": "Le sang est composé de plasma et de :",
+      "options": ["Salive", "Globules", "Urine", "Poils"],
+      "reponse": "Globules",
+      "explication": "Les éléments figurés du sang sont les globules rouges, blancs et les plaquettes."
+    },
+    {
+      "question": "Quel composant du sang transporte l’oxygène ?",
+      "options": ["Globules blancs", "Plaquettes", "Plasma", "Globules rouges"],
+      "reponse": "Globules rouges",
+      "explication": "Les globules rouges contiennent l’hémoglobine qui fixe l’oxygène."
+    },
+    {
+      "question": "Quel composant du sang défend le corps contre les microbes ?",
+      "options": ["Globules blancs", "Globules rouges", "Plaquettes", "Suc gastrique"],
+      "reponse": "Globules blancs",
+      "explication": "Les globules blancs attaquent et détruisent les agents pathogènes."
+    },
+    {
+      "question": "Les plaquettes sanguines servent à :",
+      "options": ["Transporter le sucre", "Transporter l’oxygène", "Défendre le corps", "Arrêter les saignements"],
+      "reponse": "Arrêter les saignements",
+      "explication": "Elles permettent la coagulation du sang lors des blessures."
+    },
+    {
+      "question": "Le plasma est :",
+      "options": ["Un type de globule", "La partie liquide du sang", "Un muscle", "Un organe"],
+      "reponse": "La partie liquide du sang",
+      "explication": "Le plasma transporte les nutriments et les déchets dans le sang."
+    },
+    {
+      "question": "Le cœur bat en moyenne :",
+      "options": ["10 fois/min", "30 fois/min", "70 fois/min", "120 fois/min"],
+      "reponse": "70 fois/min",
+      "explication": "En moyenne, le cœur bat entre 60 et 80 fois par minute au repos."
+    },
+    {
+      "question": "Un rythme cardiaque trop rapide s'appelle :",
+      "options": ["Bradycardie", "Tachycardie", "Anémie", "Asphyxie"],
+      "reponse": "Tachycardie",
+      "explication": "La tachycardie est un rythme du cœur trop élevé au repos."
+    },
+    {
+      "question": "Pour bien fonctionner, le cœur a besoin de :",
+      "options": ["Vitamine A", "Oxygène et glucose", "Urée", "Graisse"],
+      "reponse": "Oxygène et glucose",
+      "explication": "Le muscle cardiaque a besoin d’énergie et d’oxygène comme tout tissu."
+    },
+    {
+      "question": "Faire du sport régulièrement est bon pour :",
+      "options": ["La digestion", "L’hygiène corporelle", "Le système nerveux", "Le cœur"],
+      "reponse": "Le cœur",
+      "explication": "Le sport améliore la force et l’endurance du cœur."
+    },
+    {
+      "question": "Une alimentation trop grasse peut provoquer :",
+      "options": ["Une meilleure circulation", "Une anémie", "Des maladies cardiovasculaires", "Un renforcement du cœur"],
+      "reponse": "Des maladies cardiovasculaires",
+      "explication": "Les graisses bouchent les artères, causant des troubles cardiaques."
+    },
+    {
+      "question": "Le tabac nuit au système circulatoire en :",
+      "options": ["Améliorant le transport du sang", "Fermant les artères", "Augmentant les globules rouges", "Raffermissant les veines"],
+      "reponse": "Fermant les artères",
+      "explication": "Le tabac provoque un rétrécissement des vaisseaux sanguins."
+    },
+    {
+      "question": "L’excès de sel dans les repas favorise :",
+      "options": ["Le sommeil", "La digestion", "L’hypertension", "Le rhume"],
+      "reponse": "L’hypertension",
+      "explication": "Le sel en excès augmente la pression du sang dans les artères."
+    },
+    {
+      "question": "L’hypertension artérielle est :",
+      "options": ["Un manque de sang", "Un sang plus sucré", "Une pression trop élevée", "Une bonne santé"],
+      "reponse": "Une pression trop élevée",
+      "explication": "C’est une maladie silencieuse qui fatigue le cœur et les vaisseaux."
+    },
+    {
+      "question": "Le manque d’exercice peut entraîner :",
+      "options": ["Une bonne circulation", "Une fatigue du système cardiovasculaire", "Un cœur plus fort", "Une meilleure digestion"],
+      "reponse": "Une fatigue du système cardiovasculaire",
+      "explication": "L’inactivité affaiblit le cœur et favorise les maladies."
+    },
+    {
+      "question": "L’alcool en excès est mauvais pour le cœur car :",
+      "options": ["Il renforce les muscles", "Il augmente la fréquence cardiaque", "Il dilate les poumons", "Il nettoie le sang"],
+      "reponse": "Il augmente la fréquence cardiaque",
+      "explication": "L’alcool trouble le rythme cardiaque et affaiblit le cœur à long terme."
+    },
+    {
+      "question": "Une bonne hygiène cardiovasculaire comprend :",
+      "options": ["Le tabac, le sucre et le repos", "Le sport, une alimentation saine et du repos", "L’alcool et le sucre", "Le stress et le sel"],
+      "reponse": "Le sport, une alimentation saine et du repos",
+      "explication": "Ces habitudes protègent le cœur et les vaisseaux."
+    },
+    {
+      "question": "Une crise cardiaque est causée par :",
+      "options": ["Une coupure", "Une infection", "Un blocage d’artère du cœur", "Une indigestion"],
+      "reponse": "Un blocage d’artère du cœur",
+      "explication": "Le sang n’arrive plus au cœur, ce qui détruit une partie de ses cellules."
+    },
+    {
+      "question": "Le cœur est un muscle :",
+      "options": ["Volontaire", "Squelettique", "Involontaire", "Digestif"],
+      "reponse": "Involontaire",
+      "explication": "Il fonctionne sans qu’on y pense, automatiquement."
+    },
+    {
+      "question": "Une artère bouchée peut entraîner :",
+      "options": ["Une toux", "Une mauvaise digestion", "Un infarctus", "Une croissance"],
+      "reponse": "Un infarctus",
+      "explication": "Le blocage empêche le sang d’arriver au cœur, causant un infarctus."
+    },
+    {
+      "question": "Que faut-il éviter pour protéger le cœur ?",
+      "options": ["Faire du sport", "Fumer et manger gras", "Dormir 8 h", "Boire de l’eau"],
+      "reponse": "Fumer et manger gras",
+      "explication": "Ces mauvaises habitudes favorisent les maladies cardiovasculaires."
+    },
+    {
+      "question": "Une bonne pression artérielle se situe autour de :",
+      "options": ["8/4", "9/3", "12/8", "15/10"],
+      "reponse": "12/8",
+      "explication": "Une pression normale est généralement autour de 120/80 mmHg."
+    },
+    {
+      "question": "Un élève observe un battement rapide de son cœur après un sprint. Que se passe-t-il ?",
+      "options": ["Il a faim", "Son cœur pompe plus de sang", "Il digère", "Il a froid"],
+      "reponse": "Son cœur pompe plus de sang",
+      "explication": "L'effort augmente la demande en oxygène, donc le cœur accélère."
+    },
+    {
+      "question": "Un homme ressent une douleur à la poitrine après avoir marché vite. Cela peut indiquer :",
+      "options": ["Une indigestion", "Un manque d’oxygène au cœur", "Une crampe musculaire", "Une toux"],
+      "reponse": "Un manque d’oxygène au cœur",
+      "explication": "Cela peut être un signe d’angine de poitrine (manque d’oxygène)."
+    },
+    {
+      "question": "Une femme saigne après une coupure. Son sang s'arrête grâce à :",
+      "options": ["Les globules blancs", "L’air", "Les plaquettes", "Le plasma"],
+      "reponse": "Les plaquettes",
+      "explication": "Les plaquettes permettent la coagulation pour arrêter le saignement."
+    },
+    {
+      "question": "Un élève lit que le sang transporte des déchets. Ces déchets vont vers :",
+      "options": ["Les reins et les poumons", "Le foie et les muscles", "Le cœur", "Le cerveau"],
+      "reponse": "Les reins et les poumons",
+      "explication": "Les reins filtrent les déchets et les poumons éliminent le CO₂."
+    },
+    {
+      "question": "Un médecin prend la tension d’un patient. Il mesure :",
+      "options": ["La température", "La fréquence respiratoire", "La pression du sang", "Le taux de sucre"],
+      "reponse": "La pression du sang",
+      "explication": "La tension artérielle mesure la force du sang sur les parois des vaisseaux."
+    },
+    {
+      "question": "Un garçon a mangé beaucoup de graisse et a peu d’activité. Que risque-t-il ?",
+      "options": ["Un rhume", "Une toux", "Un accident vasculaire", "Un mal de tête"],
+      "reponse": "Un accident vasculaire",
+      "explication": "L’excès de graisse peut boucher les artères et provoquer un AVC ou infarctus."
+    },
+    {
+      "question": "Une personne fait du vélo tous les jours. Cela :",
+      "options": ["Fatigue le cœur", "Renforce le cœur", "Diminue le sang", "Crée du cholestérol"],
+      "reponse": "Renforce le cœur",
+      "explication": "L’activité physique améliore le fonctionnement cardiovasculaire."
+    },
+    {
+      "question": "Un malade a une tension de 16/10. C’est un cas de :",
+      "options": ["Tension normale", "Hypotension", "Hypertension", "Déshydratation"],
+      "reponse": "Hypertension",
+      "explication": "Une tension supérieure à 14/9 est considérée comme élevée."
+    },
+    {
+      "question": "Une fille saigne abondamment après une blessure. Elle a besoin de :",
+      "options": ["Globules rouges", "Plaquettes", "Globules blancs", "Air pur"],
+      "reponse": "Plaquettes",
+      "explication": "Les plaquettes stoppent l’hémorragie en formant un caillot."
+    },
+    {
+      "question": "Le cœur d’un adulte bat 120 fois par minute. On parle de :",
+      "options": ["Rythme normal", "Tachycardie", "Arrêt cardiaque", "Hypertension"],
+      "reponse": "Tachycardie",
+      "explication": "Au repos, un rythme >100 battements/min est trop rapide (tachycardie)."
+    },
+    {
+      "question": "Une personne a une anémie. Cela signifie :",
+      "options": ["Trop de sucre", "Manque de globules rouges", "Trop de graisse", "Présence de microbes"],
+      "reponse": "Manque de globules rouges",
+      "explication": "L’anémie est un déficit d’hémoglobine, souvent par manque de fer."
+    },
+    {
+      "question": "Lorsqu’un vaisseau sanguin est bouché, cela empêche :",
+      "options": ["Le transport de gaz", "Le transport du sang", "La digestion", "Le mouvement du cœur"],
+      "reponse": "Le transport du sang",
+      "explication": "Un vaisseau bouché bloque la circulation sanguine."
+    },
+    {
+      "question": "Le médecin recommande de réduire le sel. Cela vise à prévenir :",
+      "options": ["La fièvre", "L’hypertension", "Le diabète", "L’anémie"],
+      "reponse": "L’hypertension",
+      "explication": "Trop de sel augmente la pression artérielle."
+    },
+    {
+      "question": "Un sportif s’échauffe avant de courir pour :",
+      "options": ["Aider son cœur à s’arrêter", "Favoriser la respiration", "Préparer son système cardiovasculaire", "Éviter la digestion"],
+      "reponse": "Préparer son système cardiovasculaire",
+      "explication": "L’échauffement prépare le cœur à fournir plus d’efforts."
+    },
+    {
+      "question": "Un enfant mange peu de légumes et fait peu d’exercice. Il risque :",
+      "options": ["Un bon sommeil", "Une peau grasse", "Des troubles cardiovasculaires", "Une bonne mémoire"],
+      "reponse": "Des troubles cardiovasculaires",
+      "explication": "Une mauvaise hygiène de vie favorise les maladies du cœur et des vaisseaux."
+    },
+    {
+      "question": "Une personne a été blessée à une artère. Le sang :",
+      "options": ["Coule lentement", "Coule par petits jets", "Coule en continu et en jet", "Ne coule pas"],
+      "reponse": "Coule en continu et en jet",
+      "explication": "Une artère blessée provoque un saignement fort et rythmé."
+    },
+    {
+      "question": "Un élève observe du sang rouge vif sortir d'une blessure. Cela vient probablement :",
+      "options": ["D’une veine", "D’un muscle", "D’une artère", "Du foie"],
+      "reponse": "D’une artère",
+      "explication": "Le sang artériel est rouge vif et sort sous pression."
+    },
+    {
+      "question": "Pourquoi faut-il éviter le tabac ?",
+      "options": ["Il noircit les dents", "Il rend les cheveux secs", "Il abîme les vaisseaux et le cœur", "Il augmente la vue"],
+      "reponse": "Il abîme les vaisseaux et le cœur",
+      "explication": "Le tabac favorise l’hypertension et bouche les artères."
+    },
+    {
+      "question": "Un enfant blessé perd beaucoup de sang. Il risque :",
+      "options": ["Une infection", "Un rhume", "Une anémie", "Une indigestion"],
+      "reponse": "Une anémie",
+      "explication": "Une perte excessive de sang diminue les globules rouges."
+    },
+    {
+      "question": "Un patient avec tension basse (9/5) ressent :",
+      "options": ["Une forte énergie", "Des vertiges", "Un mal de gorge", "Une toux"],
+      "reponse": "Des vertiges",
+      "explication": "L’hypotension réduit l’irrigation du cerveau."
+    },
+    {
+      "question": "En cas de coupure avec saignement veineux, le sang :",
+      "options": ["Jaillit par à-coups", "Sort lentement et en continu", "Est noir et coagule vite", "Sort avec de l’air"],
+      "reponse": "Sort lentement et en continu",
+      "explication": "Le sang veineux est plus sombre et sort sans pulsation."
+    },
+    {
+      "question": "Une personne en surpoids est plus exposée à :",
+      "options": ["Des saignements", "Des maladies cardiovasculaires", "La grippe", "Une baisse de vue"],
+      "reponse": "Des maladies cardiovasculaires",
+      "explication": "Le surpoids fatigue le cœur et favorise l’hypertension."
+    },
+    {
+      "question": "Un garçon a une plaie qui ne saigne pas. Il peut en conclure que :",
+      "options": ["Le sang est vide", "Les capillaires ne sont pas touchés", "Le cœur est arrêté", "La veine est bouchée"],
+      "reponse": "Les capillaires ne sont pas touchés",
+      "explication": "Les capillaires sont les plus petits vaisseaux et peuvent ne pas saigner visiblement."
+    },
+    {
+      "question": "Pourquoi faut-il faire des dons de sang ?",
+      "options": ["Pour gagner de l’argent", "Pour aider les malades", "Pour perdre du poids", "Pour changer de sang"],
+      "reponse": "Pour aider les malades",
+      "explication": "Le don de sang permet de sauver des vies, surtout en cas d’accident."
+    },
+    {
+      "question": "Lors d’un effort intense, le cœur bat plus vite pour :",
+      "options": ["Reposer le corps", "Refroidir les muscles", "Envoyer plus d’oxygène", "Faire dormir le cerveau"],
+      "reponse": "Envoyer plus d’oxygène",
+      "explication": "Les muscles ont besoin d’oxygène pour fonctionner efficacement."
+    },
+    {
+      "question": "Un élève observe son rythme cardiaque au repos. Il compte 75 battements/minute. Il est :",
+      "options": ["En tachycardie", "En arrêt cardiaque", "En rythme normal", "En hypoxie"],
+      "reponse": "En rythme normal",
+      "explication": "Un rythme entre 60 et 100 battements/min est normal au repos."
+    },
+    {
+      "question": "Une personne stressée a une montée de tension. Le stress agit donc sur :",
+      "options": ["Le cerveau uniquement", "La digestion", "La pression artérielle", "Les reins"],
+      "reponse": "La pression artérielle",
+      "explication": "Le stress augmente l’activité cardiaque et la tension."
+    },
+    {
+      "question": "Un malade cardiaque évite les efforts intenses car :",
+      "options": ["Ils sont inutiles", "Ils augmentent trop la charge sur le cœur", "Ils ralentissent le sang", "Ils font dormir"],
+      "reponse": "Ils augmentent trop la charge sur le cœur",
+      "explication": "L’effort fait battre le cœur plus vite, ce qui peut aggraver son état."
+    },
+    {
+      "question": "Pourquoi faut-il boire suffisamment d’eau pour le système circulatoire ?",
+      "options": ["Pour remplir l’estomac", "Pour éliminer l’air", "Pour fluidifier le sang", "Pour faire battre le cœur"],
+      "reponse": "Pour fluidifier le sang",
+      "explication": "Une bonne hydratation facilite la circulation du sang dans le corps."
+    },
+    {
+      "question": "Quelle est la fonction principale du sang ?",
+      "options": ["Transporter l’oxygène et les nutriments", "Produire des hormones", "Digérer les aliments", "Filtrer les déchets"],
+      "reponse": "Transporter l’oxygène et les nutriments",
+      "explication": "Le sang transporte l’oxygène, les nutriments, les hormones et élimine les déchets."
+    },
+    {
+      "question": "Quels sont les principaux composants du sang ?",
+      "options": ["Plasma, globules rouges, globules blancs, plaquettes", "Eau, enzymes, hormones", "Globules rouges, eau, vitamines", "Plaquettes, lipides, glucides"],
+      "reponse": "Plasma, globules rouges, globules blancs, plaquettes",
+      "explication": "Le sang est composé de plasma liquide et de cellules sanguines."
+    },
+    {
+      "question": "Quel est le rôle des globules rouges ?",
+      "options": ["Transporter l’oxygène", "Combattre les infections", "Arrêter les saignements", "Produire des anticorps"],
+      "reponse": "Transporter l’oxygène",
+      "explication": "Les globules rouges contiennent l’hémoglobine qui fixe l’oxygène."
+    },
+    {
+      "question": "Quelle protéine contient l’hémoglobine ?",
+      "options": ["Fer", "Calcium", "Magnésium", "Sodium"],
+      "reponse": "Fer",
+      "explication": "Le fer est un composant clé de l’hémoglobine."
+    },
+    {
+      "question": "Quel est le rôle des globules blancs ?",
+      "options": ["Lutter contre les infections", "Transporter l’oxygène", "Former des caillots", "Stocker les graisses"],
+      "reponse": "Lutter contre les infections",
+      "explication": "Les globules blancs défendent l’organisme contre les microbes."
+    },
+    {
+      "question": "Quel est le rôle des plaquettes sanguines ?",
+      "options": ["Favoriser la coagulation du sang", "Transporter les nutriments", "Produire des hormones", "Combattre les virus"],
+      "reponse": "Favoriser la coagulation du sang",
+      "explication": "Les plaquettes participent à la formation des caillots pour arrêter les saignements."
+    },
+    {
+      "question": "Qu’est-ce que le plasma sanguin ?",
+      "options": ["Partie liquide du sang", "Cellule sanguine", "Protéine du sang", "Globule blanc"],
+      "reponse": "Partie liquide du sang",
+      "explication": "Le plasma transporte les cellules sanguines et diverses substances dissoutes."
+    },
+    {
+      "question": "Quel est le groupe sanguin universel donneur ?",
+      "options": ["O négatif", "AB positif", "A positif", "B négatif"],
+      "reponse": "O négatif",
+      "explication": "Le groupe O négatif peut donner du sang à toutes les personnes."
+    },
+    {
+      "question": "Que se passe-t-il lors d’une transfusion incompatible ?",
+      "options": ["Réaction immunitaire grave", "Amélioration de la santé", "Aucun effet", "Augmentation de l’énergie"],
+      "reponse": "Réaction immunitaire grave",
+      "explication": "Le corps rejette les globules rouges incompatibles, provoquant une réaction dangereuse."
+    },
+    {
+      "question": "Comment appelle-t-on la maladie causée par un manque de globules rouges ou d’hémoglobine ?",
+      "options": ["Anémie", "Leucémie", "Hémophilie", "Thrombose"],
+      "reponse": "Anémie",
+      "explication": "L’anémie se caractérise par une réduction de la capacité du sang à transporter l’oxygène."
+    },
+    {
+      "question": "Quel organe produit les cellules sanguines ?",
+      "options": ["Moelle osseuse", "Foie", "Rate", "Pancréas"],
+      "reponse": "Moelle osseuse",
+      "explication": "La moelle osseuse est le site de fabrication des cellules sanguines."
+    },
+    {
+      "question": "Quel est le rôle de la rate dans le système sanguin ?",
+      "options": ["Filtrer le sang et détruire les vieux globules rouges", "Produire du plasma", "Fabriquer des plaquettes", "Stocker le glucose"],
+      "reponse": "Filtrer le sang et détruire les vieux globules rouges",
+      "explication": "La rate élimine les cellules sanguines usées et participe à la défense immunitaire."
+    },
+    {
+      "question": "Que signifie un taux élevé de globules blancs dans le sang ?",
+      "options": ["Infection ou inflammation", "Anémie", "Déshydratation", "Surpoids"],
+      "reponse": "Infection ou inflammation",
+      "explication": "Un nombre élevé de globules blancs indique une réponse immunitaire."
+    },
+    {
+      "question": "Qu’est-ce que la coagulation sanguine ?",
+      "options": ["Processus d’arrêt du saignement par formation d’un caillot", "Production de globules rouges", "Transport de l’oxygène", "Réaction allergique"],
+      "reponse": "Processus d’arrêt du saignement par formation d’un caillot",
+      "explication": "La coagulation empêche la perte excessive de sang après une blessure."
+    },
+    {
+      "question": "Quelles sont les étapes principales de la coagulation ?",
+      "options": ["Activation des plaquettes, formation du caillot, rétraction", "Production d’hormones, digestion, absorption", "Respiration, circulation, excrétion", "Synthèse des protéines, dégradation des lipides, filtration"],
+      "reponse": "Activation des plaquettes, formation du caillot, rétraction",
+      "explication": "Ces étapes permettent de boucher la blessure efficacement."
+    },
+    {
+      "question": "Quelles sont les fonctions du sang ?",
+      "options": ["Transport, défense, coagulation, régulation", "Digestion, respiration, excrétion, reproduction", "Support, mouvement, sensation, croissance", "Filtration, absorption, sécrétion, excrétion"],
+      "reponse": "Transport, défense, coagulation, régulation",
+      "explication": "Le sang assure plusieurs fonctions vitales pour l’organisme."
+    },
+    {
+      "question": "Quelle est la durée de vie moyenne d’un globule rouge ?",
+      "options": ["120 jours", "30 jours", "1 an", "10 jours"],
+      "reponse": "120 jours",
+      "explication": "Les globules rouges vivent environ 4 mois avant d’être détruits."
+    },
+    {
+      "question": "Quelle substance donne la couleur rouge au sang ?",
+      "options": ["Hémoglobine", "Chlorophylle", "Mélanine", "Kératine"],
+      "reponse": "Hémoglobine",
+      "explication": "L’hémoglobine contient du fer et fixe l’oxygène, donnant la couleur rouge."
+    },
+    {
+      "question": "Que fait le plasma sanguin ?",
+      "options": ["Transporte les nutriments, hormones et déchets", "Produit des globules blancs", "Arrête les saignements", "Filtre le sang"],
+      "reponse": "Transporte les nutriments, hormones et déchets",
+      "explication": "Le plasma est le liquide dans lequel circulent les cellules et substances."
+    },
+    {
+      "question": "Un patient a une transfusion de sang de groupe B alors qu’il est de groupe A. Que peut-il se passer ?",
+      "options": ["Réaction immunitaire grave", "Amélioration rapide", "Pas de problème", "Guérison de toutes les maladies"],
+      "reponse": "Réaction immunitaire grave",
+      "explication": "Le système immunitaire attaque les globules rouges étrangers."
+    },
+    {
+      "question": "Quel rôle jouent les anticorps dans le sang ?",
+      "options": ["Reconnaître et neutraliser les agents pathogènes", "Transporter l’oxygène", "Coaguler le sang", "Produire des hormones"],
+      "reponse": "Reconnaître et neutraliser les agents pathogènes",
+      "explication": "Les anticorps font partie de la réponse immunitaire spécifique."
+    },
+    {
+      "question": "Qu’est-ce que la leucémie ?",
+      "options": ["Cancer des cellules sanguines", "Infection bactérienne", "Maladie cardiaque", "Trouble digestif"],
+      "reponse": "Cancer des cellules sanguines",
+      "explication": "La leucémie est une prolifération anormale de globules blancs."
+    },
+    {
+      "question": "Quel est le rôle des hormones transportées par le sang ?",
+      "options": ["Réguler les fonctions de l’organisme", "Combattre les infections", "Former les caillots", "Transporter l’oxygène"],
+      "reponse": "Réguler les fonctions de l’organisme",
+      "explication": "Les hormones agissent comme messagers chimiques dans le corps."
+    },
+    {
+      "question": "Quel est le volume moyen de sang chez un adulte ?",
+      "options": ["5 litres", "1 litre", "10 litres", "500 millilitres"],
+      "reponse": "5 litres",
+      "explication": "Un adulte a environ 5 litres de sang circulant dans son corps."
+    },
+    {
+      "question": "Comment s’appelle la prise de sang pour analyse ?",
+      "options": ["Hémogramme", "Radiographie", "IRM", "Électrocardiogramme"],
+      "reponse": "Hémogramme",
+      "explication": "L’hémogramme permet d’analyser les différentes cellules sanguines."
+    },
+    {
+      "question": "Quelle est la fonction des lymphocytes dans le sang ?",
+      "options": ["Produire des anticorps et détruire les cellules infectées", "Transporter l’oxygène", "Participer à la coagulation", "Stocker les nutriments"],
+      "reponse": "Produire des anticorps et détruire les cellules infectées",
+      "explication": "Les lymphocytes sont des globules blancs essentiels à l’immunité spécifique."
+    },
+    {
+      "question": "Qu’est-ce que l’hémophilie ?",
+      "options": ["Maladie où le sang ne coagule pas correctement", "Anémie sévère", "Infection bactérienne", "Cancer du sang"],
+      "reponse": "Maladie où le sang ne coagule pas correctement",
+      "explication": "Les patients hémophiles ont des problèmes de coagulation et saignent facilement."
+    },
+    {
+      "question": "Quels sont les symptômes d’une anémie ?",
+      "options": ["Fatigue, pâleur, essoufflement", "Fièvre, toux, douleur", "Douleurs abdominales, vomissements", "Douleurs articulaires"],
+      "reponse": "Fatigue, pâleur, essoufflement",
+      "explication": "L’anémie réduit la capacité du sang à transporter l’oxygène."
+    },
+    {
+      "question": "Que signifie un taux bas de plaquettes dans le sang ?",
+      "options": ["Risque de saignements", "Infection bactérienne", "Hyperactivité", "Risque de fractures"],
+      "reponse": "Risque de saignements",
+      "explication": "Les plaquettes participent à la coagulation, leur déficit entraîne des saignements."
+    }
+  ]
+}

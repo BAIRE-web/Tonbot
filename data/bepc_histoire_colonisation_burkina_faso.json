@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Quel pays a colonisé le territoire de l’actuel Burkina Faso ?",
+      "options": ["La France", "Le Royaume-Uni", "L’Allemagne", "Le Portugal"],
+      "reponse": "La France",
+      "explication": "La France a établi son autorité coloniale sur le Burkina Faso à partir de la fin du XIXe siècle."
+    },
+    {
+      "question": "Quel était l’ancien nom du Burkina Faso pendant la colonisation ?",
+      "options": ["Haute-Volta", "Côte d’Or", "Sénégal oriental", "Soudan français"],
+      "reponse": "Haute-Volta",
+      "explication": "Le Burkina Faso portait le nom de Haute-Volta sous l'administration coloniale française."
+    },
+    {
+      "question": "Quelle année marque la création officielle de la colonie de Haute-Volta ?",
+      "options": ["1919", "1885", "1945", "1960"],
+      "reponse": "1919",
+      "explication": "La colonie de Haute-Volta est officiellement créée en 1919 par décret français."
+    },
+    {
+      "question": "Pourquoi la France voulait-elle coloniser cette région ?",
+      "options": ["Pour exploiter les ressources et imposer sa domination", "Pour développer l’industrie locale", "Pour la paix des peuples", "Pour des raisons religieuses"],
+      "reponse": "Pour exploiter les ressources et imposer sa domination",
+      "explication": "La France visait à élargir son empire, exploiter les richesses naturelles et renforcer son pouvoir."
+    },
+    {
+      "question": "Quel type de résistance a opposé le royaume du Yatenga ?",
+      "options": ["Une résistance armée contre les troupes coloniales", "Une collaboration", "Une neutralité totale", "Un repli dans le sud"],
+      "reponse": "Une résistance armée contre les troupes coloniales",
+      "explication": "Le royaume du Yatenga a tenté de repousser les colonisateurs par les armes."
+    },
+    {
+      "question": "Quel est le nom du roi Mossi célèbre pour sa résistance à la colonisation ?",
+      "options": ["Naaba Sanem", "Soundiata", "Mogho Naaba", "Samory Touré"],
+      "reponse": "Naaba Sanem",
+      "explication": "Naaba Sanem est reconnu pour avoir résisté face à l'avancée coloniale française."
+    },
+    {
+      "question": "Quelles méthodes les Français ont-ils utilisées pour contrôler le territoire ?",
+      "options": ["Force militaire, administration indirecte et impôts", "Aide au développement", "Récompenses volontaires", "Référendums locaux"],
+      "reponse": "Force militaire, administration indirecte et impôts",
+      "explication": "Les colonisateurs ont imposé leur domination par la force et l’organisation du pouvoir local."
+    },
+    {
+      "question": "Quelle était la principale ressource exploitée dans la colonie ?",
+      "options": ["Le coton", "Le pétrole", "L’uranium", "Le cacao"],
+      "reponse": "Le coton",
+      "explication": "Le coton était cultivé de force dans plusieurs régions pour approvisionner l’industrie textile française."
+    },
+    {
+      "question": "Qu’est-ce que le travail forcé sous la colonisation ?",
+      "options": ["Obligation pour les Africains de travailler sans salaire", "Travail bénévole", "Travail choisi et rémunéré", "Service militaire"],
+      "reponse": "Obligation pour les Africains de travailler sans salaire",
+      "explication": "Les populations étaient contraintes de construire routes, chemins de fer ou cultiver pour la colonie sans être payées."
+    },
+    {
+      "question": "Quel était l’objectif de l’école coloniale ?",
+      "options": ["Former des auxiliaires pour servir l’administration coloniale", "Rendre les Africains libres", "Égalité scolaire", "Éducation pour l’Afrique indépendante"],
+      "reponse": "Former des auxiliaires pour servir l’administration coloniale",
+      "explication": "L’école servait à créer des fonctionnaires dociles, pas à émanciper les peuples."
+    },
+    {
+      "question": "Que signifie 'administration indirecte' ?",
+      "options": ["Gouverner à travers des chefs locaux soumis", "Gouverner directement depuis Paris", "Abandonner le pouvoir", "Gouverner sans lois"],
+      "reponse": "Gouverner à travers des chefs locaux soumis",
+      "explication": "Les colons utilisaient les chefs traditionnels pour mieux contrôler les populations."
+    },
+    {
+      "question": "Comment les chefs traditionnels ont-ils parfois collaboré avec les Français ?",
+      "options": ["En appliquant les ordres coloniaux pour conserver leur position", "En les combattant toujours", "En fuyant", "En partant en exil"],
+      "reponse": "En appliquant les ordres coloniaux pour conserver leur position",
+      "explication": "Certains chefs préféraient coopérer avec les colons pour préserver un pouvoir limité."
+    },
+    {
+      "question": "Quelle fut une conséquence de la colonisation sur la société traditionnelle ?",
+      "options": ["Affaiblissement des structures traditionnelles", "Autonomie renforcée", "Augmentation des rois", "Indépendance immédiate"],
+      "reponse": "Affaiblissement des structures traditionnelles",
+      "explication": "Les colonisateurs ont souvent détruit ou instrumentalisé les organisations sociales africaines."
+    },
+    {
+      "question": "Quelle organisation a remplacé temporairement la Haute-Volta entre 1932 et 1947 ?",
+      "options": ["La Côte d’Ivoire", "Le Soudan français", "Le Niger", "L’AOF"],
+      "reponse": "L’AOF",
+      "explication": "La Haute-Volta est supprimée en 1932 et rattachée à d'autres colonies au sein de l’Afrique occidentale française (AOF)."
+    },
+    {
+      "question": "Quelle est la date de reconstitution de la Haute-Volta ?",
+      "options": ["1947", "1932", "1958", "1960"],
+      "reponse": "1947",
+      "explication": "La colonie de Haute-Volta est rétablie en 1947 après les revendications des élites locales."
+    },
+    {
+      "question": "Quel rôle les impôts coloniaux ont-ils joué ?",
+      "options": ["Financer l’administration coloniale", "Aider les paysans", "Encourager l’éducation", "Récompenser les chefs traditionnels"],
+      "reponse": "Financer l’administration coloniale",
+      "explication": "Les impôts étaient payés par les populations pour entretenir la présence coloniale."
+    },
+    {
+      "question": "Qu’appelle-t-on tirailleurs sénégalais ?",
+      "options": ["Des soldats africains enrôlés par la France", "Des colons agricoles", "Des instituteurs coloniaux", "Des policiers français"],
+      "reponse": "Des soldats africains enrôlés par la France",
+      "explication": "Ils servaient souvent contre leur gré dans l’armée française, y compris pendant les guerres mondiales."
+    },
+    {
+      "question": "Quel type d’infrastructure les Français ont-ils construit ?",
+      "options": ["Routes, voies ferrées, postes administratifs", "Hôpitaux partout", "Usines modernes", "Villes entièrement africaines"],
+      "reponse": "Routes, voies ferrées, postes administratifs",
+      "explication": "Les infrastructures étaient destinées à faciliter l’exploitation coloniale."
+    },
+    {
+      "question": "Quel est l’impact de la colonisation sur les langues africaines ?",
+      "options": ["Dévalorisation au profit du français", "Renforcement des langues locales", "Création d’une langue commune africaine", "Disparition totale des langues locales"],
+      "reponse": "Dévalorisation au profit du français",
+      "explication": "Le français était imposé comme langue officielle, rabaissant les langues locales."
+    },
+    {
+      "question": "Pourquoi certains Africains résistaient-ils à la colonisation ?",
+      "options": ["Pour défendre leur liberté et leur culture", "Pour obtenir des postes", "Pour devenir citoyens français", "Par curiosité"],
+      "reponse": "Pour défendre leur liberté et leur culture",
+      "explication": "Les résistances visaient à protéger les terres, les croyances et les modes de vie africains."
+    },
+    {
+      "question": "Comment la France légitimait-elle sa domination ?",
+      "options": ["Par l’idée de mission civilisatrice", "Par vote démocratique", "Par appel à l’ONU", "Par des contrats mutuels"],
+      "reponse": "Par l’idée de mission civilisatrice",
+      "explication": "La colonisation était présentée comme une œuvre d’éducation des peuples africains."
+    },
+    {
+      "question": "Quel effet la colonisation a-t-elle eu sur les frontières ?",
+      "options": ["Elles ont été tracées sans tenir compte des réalités ethniques", "Elles ont suivi les royaumes", "Elles ont été supprimées", "Elles ont respecté les familles royales"],
+      "reponse": "Elles ont été tracées sans tenir compte des réalités ethniques",
+      "explication": "Les frontières coloniales divisent souvent des peuples ou en regroupent arbitrairement."
+    },
+    {
+      "question": "Qu’est-ce que l’AOF ?",
+      "options": ["Afrique Occidentale Française", "Association des Officiers Français", "Alliance des Opprimés Fédérés", "Armée Officielle Française"],
+      "reponse": "Afrique Occidentale Française",
+      "explication": "L’AOF regroupait plusieurs colonies d’Afrique de l’Ouest sous l’autorité française."
+    },
+    {
+      "question": "Pourquoi certains chefs ont-ils perdu leur autorité ?",
+      "options": ["Parce qu’ils ont été remplacés par l’administration coloniale", "Parce qu’ils ont fui", "Parce qu’ils sont devenus riches", "Parce qu’ils ont colonisé la France"],
+      "reponse": "Parce qu’ils ont été remplacés par l’administration coloniale",
+      "explication": "La France a parfois démis les chefs traditionnels pour mieux contrôler les territoires."
+    },
+    {
+      "question": "Quel terme désigne la soumission à la culture française ?",
+      "options": ["Assimilation", "Démocratie", "Fédéralisme", "Indépendance"],
+      "reponse": "Assimilation",
+      "explication": "L’assimilation consistait à imposer la culture française aux colonisés."
+    },
+    {
+      "question": "Quel impact la colonisation a-t-elle eu sur la culture africaine ?",
+      "options": ["Imposition de la culture européenne", "Valorisation des coutumes locales", "Création de traditions nouvelles", "Renforcement de l’unité culturelle africaine"],
+      "reponse": "Imposition de la culture européenne",
+      "explication": "La culture africaine a souvent été rejetée ou rabaissée."
+    },
+    {
+      "question": "Comment appelait-on les Africains ayant adopté la culture française ?",
+      "options": ["Évolués", "Étrangers", "Rois", "Tirailleurs"],
+      "reponse": "Évolués",
+      "explication": "Le terme 'évolué' désignait les Africains alphabétisés et francisés."
+    },
+    {
+      "question": "Quelle est la principale raison de la répression coloniale ?",
+      "options": ["Étouffer les révoltes contre l’autorité coloniale", "Former les chefs", "Installer la paix durable", "Encourager les débats publics"],
+      "reponse": "Étouffer les révoltes contre l’autorité coloniale",
+      "explication": "Les colons utilisaient la violence pour écraser toute opposition."
+    },
+    {
+      "question": "Quand le Burkina Faso a-t-il accédé à l’indépendance ?",
+      "options": ["1960", "1947", "1919", "1987"],
+      "reponse": "1960",
+      "explication": "La Haute-Volta devient un État indépendant le 5 août 1960."
+    }
+  ]
+}

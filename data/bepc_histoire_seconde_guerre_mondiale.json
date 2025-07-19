@@ -1,0 +1,352 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle date marque le début officiel de la Seconde Guerre mondiale ?",
+      "options": ["1er septembre 1939", "28 juin 1919", "7 décembre 1941", "11 novembre 1918"],
+      "reponse": "1er septembre 1939",
+      "explication": "L’invasion de la Pologne par l’Allemagne marque le début du conflit."
+    },
+    {
+      "question": "Quel événement provoque l’entrée en guerre des États-Unis ?",
+      "options": ["L’attaque de Pearl Harbor", "Le bombardement de Dresde", "Le débarquement en Normandie", "La chute de Berlin"],
+      "reponse": "L’attaque de Pearl Harbor",
+      "explication": "Le 7 décembre 1941, l’attaque japonaise sur Pearl Harbor pousse les États-Unis à entrer en guerre."
+    },
+    {
+      "question": "Qui était le dictateur de l’Allemagne nazie ?",
+      "options": ["Adolf Hitler", "Joseph Staline", "Benito Mussolini", "Winston Churchill"],
+      "reponse": "Adolf Hitler",
+      "explication": "Hitler est le chef du régime nazi en Allemagne."
+    },
+    {
+      "question": "Quelle alliance regroupait la France, le Royaume-Uni et les États-Unis ?",
+      "options": ["Les Alliés", "L’Axe", "La Triple Entente", "La Société des Nations"],
+      "reponse": "Les Alliés",
+      "explication": "Les Alliés combattaient les forces de l’Axe pendant la guerre."
+    },
+    {
+      "question": "Quels pays faisaient partie de l’Axe ?",
+      "options": ["Allemagne, Italie, Japon", "France, Royaume-Uni, URSS", "États-Unis, Canada, Australie", "Espagne, Portugal, Grèce"],
+      "reponse": "Allemagne, Italie, Japon",
+      "explication": "Ces trois pays formaient l’alliance de l’Axe."
+    },
+    {
+      "question": "Quelle opération militaire correspond au débarquement en Normandie ?",
+      "options": ["D-Day", "Opération Barbarossa", "Blitzkrieg", "Opération Overlord"],
+      "reponse": "Opération Overlord",
+      "explication": "Le débarquement du 6 juin 1944 en Normandie porte aussi le nom d’Opération Overlord."
+    },
+    {
+      "question": "Quelle était la politique d’extermination systématique menée par les nazis ?",
+      "options": ["La Shoah", "La Résistance", "Le Blitz", "La guerre éclair"],
+      "reponse": "La Shoah",
+      "explication": "La Shoah désigne l’extermination des Juifs par les nazis."
+    },
+    {
+      "question": "Quelles populations ont été principalement visées par la Shoah ?",
+      "options": ["Les Juifs", "Les Français", "Les Anglais", "Les Américains"],
+      "reponse": "Les Juifs",
+      "explication": "Les Juifs ont été la cible principale du génocide nazi."
+    },
+    {
+      "question": "Quel est le nom donné aux camps où étaient déportées et exterminées les victimes ?",
+      "options": ["Camps de concentration", "Bases militaires", "Forteresses", "Zones occupées"],
+      "reponse": "Camps de concentration",
+      "explication": "Ces camps servaient à la détention et à l’extermination massive."
+    },
+    {
+      "question": "Qu’est-ce que le Blitz ?",
+      "options": ["Campagne de bombardements aériens allemands sur le Royaume-Uni", "Une bataille navale", "Un traité de paix", "Une opération alliée"],
+      "reponse": "Campagne de bombardements aériens allemands sur le Royaume-Uni",
+      "explication": "Le Blitz a causé de lourds dégâts à Londres et à d’autres villes britanniques."
+    },
+    {
+      "question": "Quelle opération militaire désigne l’invasion allemande de l’URSS ?",
+      "options": ["Opération Barbarossa", "Opération Overlord", "Blitzkrieg", "Opération Dynamo"],
+      "reponse": "Opération Barbarossa",
+      "explication": "L’invasion de l’Union soviétique par l’Allemagne a débuté en juin 1941 sous ce nom."
+    },
+    {
+      "question": "Quel est le rôle de la Résistance pendant la Seconde Guerre mondiale ?",
+      "options": ["S’opposer à l’occupation allemande et au régime de Vichy", "Collaborer avec l’Allemagne", "Fuir le pays", "Participer aux combats uniquement à l’étranger"],
+      "reponse": "S’opposer à l’occupation allemande et au régime de Vichy",
+      "explication": "La Résistance lutte contre l’occupant et la collaboration intérieure."
+    },
+    {
+      "question": "Quel est le nom du dirigeant britannique célèbre pour son discours durant la guerre ?",
+      "options": ["Winston Churchill", "Franklin Roosevelt", "Charles de Gaulle", "Joseph Staline"],
+      "reponse": "Winston Churchill",
+      "explication": "Churchill est reconnu pour son rôle de leader des Britanniques."
+    },
+    {
+      "question": "Quel est le nom du dirigeant de l’URSS pendant la Seconde Guerre mondiale ?",
+      "options": ["Joseph Staline", "Vladimir Lénine", "Nikita Khrouchtchev", "Leon Trotski"],
+      "reponse": "Joseph Staline",
+      "explication": "Staline dirige l’URSS durant toute la guerre."
+    },
+    {
+      "question": "Quel événement marque la fin de la guerre en Europe ?",
+      "options": ["La capitulation allemande le 8 mai 1945", "Le bombardement d’Hiroshima", "Le débarquement en Normandie", "La bataille de Stalingrad"],
+      "reponse": "La capitulation allemande le 8 mai 1945",
+      "explication": "L’Allemagne signe sa reddition officielle en mai 1945."
+    },
+    {
+      "question": "Quelles villes japonaises ont subi des bombardements atomiques en 1945 ?",
+      "options": ["Hiroshima et Nagasaki", "Tokyo et Kyoto", "Osaka et Yokohama", "Sapporo et Fukuoka"],
+      "reponse": "Hiroshima et Nagasaki",
+      "explication": "Ces bombardements ont contribué à la fin de la guerre contre le Japon."
+    },
+    {
+      "question": "Quelle conférence internationale a décidé du sort de l’Allemagne après la guerre ?",
+      "options": ["Conférence de Yalta", "Conférence de Paris", "Traité de Versailles", "Conférence de Potsdam"],
+      "reponse": "Conférence de Yalta",
+      "explication": "Les Alliés se sont réunis à Yalta en février 1945 pour organiser l’après-guerre."
+    },
+    {
+      "question": "Quelle bataille a marqué un tournant majeur sur le front de l’Est ?",
+      "options": ["La bataille de Stalingrad", "La bataille de Dunkerque", "La bataille d’Angleterre", "La bataille de Midway"],
+      "reponse": "La bataille de Stalingrad",
+      "explication": "La victoire soviétique en 1943 a stoppé l’avancée allemande en URSS."
+    },
+    {
+      "question": "Quelles étaient les conditions de vie dans les camps de concentration nazis ?",
+      "options": ["Extrêmement dures, avec torture, famine et travail forcé", "Confortables", "Liberté relative", "Centres de réfugiés"],
+      "reponse": "Extrêmement dures, avec torture, famine et travail forcé",
+      "explication": "Les détenus subissaient des traitements inhumains et souvent la mort."
+    },
+    {
+      "question": "Qu’est-ce que le « Blitzkrieg » ?",
+      "options": ["Guerre éclair, stratégie militaire allemande rapide et violente", "Un traité de paix", "Une bataille navale", "Une opération alliée"],
+      "reponse": "Guerre éclair, stratégie militaire allemande rapide et violente",
+      "explication": "Cette tactique permettait une avancée rapide sur plusieurs fronts."
+    },
+    {
+      "question": "Quelle est la fonction de l’Organisation des Nations Unies (ONU) créée après la guerre ?",
+      "options": ["Maintenir la paix et la sécurité internationales", "Gérer l’économie mondiale", "Organiser des Jeux Olympiques", "Promouvoir la colonisation"],
+      "reponse": "Maintenir la paix et la sécurité internationales",
+      "explication": "L’ONU vise à éviter de futurs conflits mondiaux."
+    },
+    {
+      "question": "Quelle est la raison principale des bombardements massifs sur les villes européennes ?",
+      "options": ["Détruire les infrastructures ennemies et démoraliser la population", "Promouvoir la paix", "Éviter les combats au sol", "Protéger les civils"],
+      "reponse": "Détruire les infrastructures ennemies et démoraliser la population",
+      "explication": "Les bombardements visaient à affaiblir la capacité de guerre ennemie."
+    },
+    {
+      "question": "Quelles étaient les principales victimes civiles des crimes nazis ?",
+      "options": ["Juifs, Tsiganes, handicapés, opposants politiques", "Militaires uniquement", "Personnels diplomatiques", "Personnes âgées uniquement"],
+      "reponse": "Juifs, Tsiganes, handicapés, opposants politiques",
+      "explication": "Les nazis persécutaient plusieurs groupes considérés comme indésirables."
+    },
+    {
+      "question": "Qu’est-ce que la « solution finale » ?",
+      "options": ["Plan nazi d’extermination systématique des Juifs", "Une opération militaire alliée", "Un traité de paix", "Une campagne électorale"],
+      "reponse": "Plan nazi d’extermination systématique des Juifs",
+      "explication": "Cette politique a mené à l’extermination de millions de personnes."
+    },
+    {
+      "question": "Qui était le chef de la France libre durant la guerre ?",
+      "options": ["Charles de Gaulle", "Philippe Pétain", "Winston Churchill", "Franklin Roosevelt"],
+      "reponse": "Charles de Gaulle",
+      "explication": "De Gaulle a dirigé la Résistance française depuis Londres."
+    },
+    {
+      "question": "Quelle bataille navale fut un tournant dans le Pacifique ?",
+      "options": ["La bataille de Midway", "La bataille de l’Atlantique", "La bataille de Normandie", "La bataille de Stalingrad"],
+      "reponse": "La bataille de Midway",
+      "explication": "Cette victoire américaine en 1942 a stoppé l’avancée japonaise.",
+    },
+    {
+      "question": "Quel est l’événement qui marque la capitulation du Japon ?",
+      "options": ["La reddition après les bombardements atomiques", "La bataille de Pearl Harbor", "Le débarquement en Normandie", "La bataille de Guadalcanal"],
+      "reponse": "La reddition après les bombardements atomiques",
+      "explication": "Après Hiroshima et Nagasaki, le Japon capitule en août 1945."
+    },
+    {
+      "question": "Quel procès a jugé les responsables nazis après la guerre ?",
+      "options": ["Les procès de Nuremberg", "Le procès de Versailles", "Le procès de Tokyo", "Le procès de Berlin"],
+      "reponse": "Les procès de Nuremberg",
+      "explication": "Ces procès ont établi la responsabilité des crimes de guerre nazis."
+    },
+    {
+      "question": "Quel est le principal message des discours de Churchill durant la guerre ?",
+      "options": ["Résistance et courage face à l’ennemi", "Appel à la paix immédiate", "Abandon des combats", "Neutralité"],
+      "reponse": "Résistance et courage face à l’ennemi",
+      "explication": "Churchill encourage la population britannique à ne pas céder."
+    },
+    {
+      "question": "Quel est le rôle des bombardements atomiques dans la fin de la guerre ?",
+      "options": ["Forcer la capitulation du Japon", "Détruire l’Europe", "Soutenir l’URSS", "Empêcher le débarquement allié"],
+      "reponse": "Forcer la capitulation du Japon",
+      "explication": "Les bombes d’Hiroshima et Nagasaki précipitent la fin du conflit dans le Pacifique."
+    },
+    {
+      "question": "Quelle date marque la fin officielle de la Seconde Guerre mondiale en Europe ?",
+      "options": ["8 mai 1945", "2 septembre 1945", "6 juin 1944", "7 décembre 1941"],
+      "reponse": "8 mai 1945",
+      "explication": "Le 8 mai 1945, l’Allemagne signe sa reddition sans conditions, marquant la fin de la guerre en Europe."
+    },
+    {
+      "question": "Quelle date marque la fin officielle de la Seconde Guerre mondiale dans le Pacifique ?",
+      "options": ["2 septembre 1945", "8 mai 1945", "15 août 1945", "6 juin 1944"],
+      "reponse": "2 septembre 1945",
+      "explication": "Le Japon signe la capitulation officielle le 2 septembre 1945, mettant fin à la guerre dans le Pacifique."
+    },
+    {
+      "question": "Quel événement a directement conduit à la capitulation du Japon ?",
+      "options": ["Les bombardements atomiques d’Hiroshima et Nagasaki", "La bataille de Midway", "L’invasion de la Chine", "La bataille de Stalingrad"],
+      "reponse": "Les bombardements atomiques d’Hiroshima et Nagasaki",
+      "explication": "Les bombes nucléaires larguées en août 1945 ont provoqué la reddition du Japon."
+    },
+    {
+      "question": "Quelle conférence a réuni les dirigeants alliés pour décider de l’organisation de l’après-guerre ?",
+      "options": ["Conférence de Yalta", "Conférence de Potsdam", "Conférence de Téhéran", "Conférence de Versailles"],
+      "reponse": "Conférence de Yalta",
+      "explication": "En février 1945, Churchill, Roosevelt et Staline se rencontrent à Yalta pour préparer l’après-guerre."
+    },
+    {
+      "question": "Quelle organisation internationale est créée après la guerre pour maintenir la paix ?",
+      "options": ["Organisation des Nations Unies (ONU)", "Société des Nations", "OTAN", "Alliance de l’Axe"],
+      "reponse": "Organisation des Nations Unies (ONU)",
+      "explication": "L’ONU est créée en 1945 pour prévenir les futurs conflits mondiaux."
+    },
+    {
+      "question": "Quel procès a permis de juger les responsables nazis pour crimes de guerre ?",
+      "options": ["Procès de Nuremberg", "Procès de Tokyo", "Procès de Versailles", "Procès de Berlin"],
+      "reponse": "Procès de Nuremberg",
+      "explication": "Les procès de Nuremberg (1945-1946) ont condamné les principaux dirigeants nazis."
+    },
+    {
+      "question": "Quel pays a émergé comme superpuissance mondiale après la guerre ?",
+      "options": ["États-Unis", "Allemagne", "Japon", "France"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis sortent renforcés économiquement et militairement après la guerre."
+    },
+    {
+      "question": "Quel pays est devenu un autre superpuissance après la guerre, à l’opposé des États-Unis ?",
+      "options": ["Union soviétique", "Allemagne", "Royaume-Uni", "Italie"],
+      "reponse": "Union soviétique",
+      "explication": "L’URSS est la seconde superpuissance mondiale, dirigée par Staline."
+    },
+    {
+      "question": "Quelles sont les principales conséquences humaines de la guerre ?",
+      "options": ["Des millions de morts civils et militaires", "Peu de pertes", "Une croissance démographique", "Une paix durable immédiate"],
+      "reponse": "Des millions de morts civils et militaires",
+      "explication": "La guerre a causé la mort de plus de 50 millions de personnes dans le monde."
+    },
+    {
+      "question": "Quel pays a été le plus dévasté économiquement par la guerre ?",
+      "options": ["Allemagne", "États-Unis", "URSS", "Canada"],
+      "reponse": "Allemagne",
+      "explication": "L’Allemagne a subi d’importantes destructions industrielles et urbaines."
+    },
+    {
+      "question": "Quel est le nom de la division de l’Allemagne en zones d’occupation ?",
+      "options": ["Division en quatre zones", "Unification", "Annexion", "Décolonisation"],
+      "reponse": "Division en quatre zones",
+      "explication": "L’Allemagne est divisée en zones américaine, soviétique, britannique et française."
+    },
+    {
+      "question": "Quel est le principal conflit idéologique qui s’ensuit entre les États-Unis et l’URSS ?",
+      "options": ["La Guerre froide", "La Seconde Guerre mondiale", "La Première Guerre mondiale", "La guerre de Corée"],
+      "reponse": "La Guerre froide",
+      "explication": "La rivalité entre ces deux superpuissances conduit à une tension mondiale de plusieurs décennies."
+    },
+    {
+      "question": "Quelle organisation militaire est créée en 1949 par les pays occidentaux ?",
+      "options": ["OTAN", "ONU", "Pacte de Varsovie", "UE"],
+      "reponse": "OTAN",
+      "explication": "L’Organisation du Traité de l’Atlantique Nord (OTAN) vise à défendre l’Europe contre l’URSS."
+    },
+    {
+      "question": "Quelles sont les principales conséquences politiques de la guerre ?",
+      "options": ["Décolonisation et création de nouveaux États", "Renforcement des empires coloniaux", "Extension des monarchies", "Retour au régime nazi"],
+      "reponse": "Décolonisation et création de nouveaux États",
+      "explication": "Les anciennes colonies entament leur indépendance après la guerre."
+    },
+    {
+      "question": "Quelles sont les conséquences sociales majeures de la guerre ?",
+      "options": ["Pauvreté, déplacement de populations, reconstruction", "Prospérité économique", "Paix et stabilité immédiates", "Croissance démographique rapide"],
+      "reponse": "Pauvreté, déplacement de populations, reconstruction",
+      "explication": "Les populations ont souffert, notamment les réfugiés et les villes détruites."
+    },
+    {
+      "question": "Quel pays a subi deux bombardements atomiques en 1945 ?",
+      "options": ["Japon", "Allemagne", "URSS", "France"],
+      "reponse": "Japon",
+      "explication": "Les villes d’Hiroshima et Nagasaki ont été bombardées en août 1945."
+    },
+    {
+      "question": "Quel plan américain a aidé la reconstruction de l’Europe après la guerre ?",
+      "options": ["Plan Marshall", "New Deal", "Plan Dawes", "Plan Truman"],
+      "reponse": "Plan Marshall",
+      "explication": "Ce programme d’aide financière a permis la reconstruction économique européenne."
+    },
+    {
+      "question": "Quel est le nom de la doctrine américaine visant à freiner le communisme ?",
+      "options": ["Doctrine Truman", "Doctrine Monroe", "Doctrine Brejnev", "Doctrine Roosevelt"],
+      "reponse": "Doctrine Truman",
+      "explication": "Annoncée en 1947, elle vise à soutenir les pays menacés par le communisme."
+    },
+    {
+      "question": "Quelle organisation a remplacé la Société des Nations après la guerre ?",
+      "options": ["ONU", "OTAN", "Pacte de Varsovie", "CIS"],
+      "reponse": "ONU",
+      "explication": "L’ONU est conçue pour assurer une meilleure coopération internationale."
+    },
+    {
+      "question": "Quels pays occupent Berlin après la guerre ?",
+      "options": ["États-Unis, URSS, Royaume-Uni, France", "Allemagne, Japon, Italie, URSS", "États-Unis, Chine, France, Canada", "URSS uniquement"],
+      "reponse": "États-Unis, URSS, Royaume-Uni, France",
+      "explication": "Berlin est divisée en quatre secteurs d’occupation alliés."
+    },
+    {
+      "question": "Quelles grandes puissances ont formé les Nations Unies à sa création ?",
+      "options": ["États-Unis, URSS, Royaume-Uni, France, Chine", "Allemagne, Italie, Japon, URSS", "France, Allemagne, Japon, États-Unis", "URSS, Chine, Inde, Brésil"],
+      "reponse": "États-Unis, URSS, Royaume-Uni, France, Chine",
+      "explication": "Ces cinq membres permanents ont un rôle clé au Conseil de sécurité."
+    },
+    {
+      "question": "Quel impact la guerre a-t-elle eu sur le rôle des femmes ?",
+      "options": ["Accroissement de leur participation au travail", "Retour immédiat à la maison", "Exclusion du marché du travail", "Émigration massive"],
+      "reponse": "Accroissement de leur participation au travail",
+      "explication": "Les femmes ont remplacé les hommes partis au front dans les usines et services."
+    },
+    {
+      "question": "Quel est le principal enseignement politique tiré de la guerre ?",
+      "options": ["Nécessité de coopération internationale pour la paix", "Légitimation des dictatures", "Expansion des empires coloniaux", "Isolement des nations"],
+      "reponse": "Nécessité de coopération internationale pour la paix",
+      "explication": "La guerre montre l’importance d’une alliance mondiale pour éviter les conflits."
+    },
+    {
+      "question": "Quel traité a officiellement mis fin à la guerre avec le Japon ?",
+      "options": ["Traité de San Francisco", "Traité de Versailles", "Traité de Potsdam", "Traité de Trianon"],
+      "reponse": "Traité de San Francisco",
+      "explication": "Signé en 1951, ce traité marque la paix officielle avec le Japon."
+    },
+    {
+      "question": "Quelle est la conséquence majeure pour l’Allemagne à la fin de la guerre ?",
+      "options": ["Division en deux États (RFA et RDA)", "Unification", "Colonisation par la France", "Indépendance immédiate"],
+      "reponse": "Division en deux États (RFA et RDA)",
+      "explication": "L’Allemagne est divisée en Allemagne de l’Ouest (RFA) et Allemagne de l’Est (RDA)."
+    },
+    {
+      "question": "Quel est le rôle du Tribunal militaire international ?",
+      "options": ["Jugement des criminels de guerre nazis", "Établissement des frontières", "Organisation des élections", "Planification économique"],
+      "reponse": "Jugement des criminels de guerre nazis",
+      "explication": "Il a condamné les principaux responsables du régime nazi."
+    },
+    {
+      "question": "Quel est le nom de la doctrine américaine qui a mené à l’aide aux pays européens ?",
+      "options": ["Plan Marshall", "Plan Dawes", "New Deal", "Doctrine Truman"],
+      "reponse": "Plan Marshall",
+      "explication": "Ce plan a aidé à la reconstruction économique de l’Europe après-guerre."
+    },
+    {
+      "question": "Quelle est la conséquence géopolitique majeure issue de la Seconde Guerre mondiale ?",
+      "options": ["Début de la Guerre froide entre États-Unis et URSS", "Fin des tensions internationales", "Création de l’OTAN", "Instauration du communisme mondial"],
+      "reponse": "Début de la Guerre froide entre États-Unis et URSS",
+      "explication": "Cette rivalité a dominé la politique mondiale pendant plusieurs décennies."
+    }
+  ]
+}

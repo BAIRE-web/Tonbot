@@ -1,0 +1,838 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le rôle principal du squelette ?",
+      "options": ["Soutenir et protéger le corps", "Produire de l’oxygène", "Filtrer le sang", "Réguler la température"],
+      "reponse": "Soutenir et protéger le corps",
+      "explication": "Le squelette forme une charpente qui donne la forme du corps et protège les organes."
+    },
+    {
+      "question": "Combien d’os environ compose le squelette humain adulte ?",
+      "options": ["206", "100", "360", "52"],
+      "reponse": "206",
+      "explication": "Le squelette humain compte en moyenne 206 os chez l’adulte."
+    },
+    {
+      "question": "L’os du bras situé entre l’épaule et le coude est :",
+      "options": ["L’humérus", "Le fémur", "Le radius", "L’omoplate"],
+      "reponse": "L’humérus",
+      "explication": "L’humérus est l’os du bras, situé au-dessus du coude."
+    },
+    {
+      "question": "Quel os est le plus long du corps humain ?",
+      "options": ["Le fémur", "Le tibia", "L’humérus", "La clavicule"],
+      "reponse": "Le fémur",
+      "explication": "Le fémur est l’os de la cuisse et le plus long du corps humain."
+    },
+    {
+      "question": "Quel rôle jouent les articulations ?",
+      "options": ["Permettre le mouvement entre deux os", "Produire du sang", "Filtrer la lymphe", "Détruire les microbes"],
+      "reponse": "Permettre le mouvement entre deux os",
+      "explication": "Elles relient les os et permettent leur mobilité."
+    },
+    {
+      "question": "Quels organes protège la cage thoracique ?",
+      "options": ["Le cœur et les poumons", "Le cerveau et les yeux", "L’estomac et les reins", "Les intestins et le foie"],
+      "reponse": "Le cœur et les poumons",
+      "explication": "Les côtes entourent et protègent ces organes vitaux."
+    },
+    {
+      "question": "La colonne vertébrale est composée de :",
+      "options": ["Vertèbres", "Côtes", "Ligaments", "Tendons"],
+      "reponse": "Vertèbres",
+      "explication": "Elle est formée d’un empilement de vertèbres articulées."
+    },
+    {
+      "question": "Quelle est la fonction de la moelle osseuse ?",
+      "options": ["Produire les cellules du sang", "Digérer les graisses", "Produire l’urine", "Envoyer les influx nerveux"],
+      "reponse": "Produire les cellules du sang",
+      "explication": "La moelle osseuse rouge fabrique globules rouges, blancs et plaquettes."
+    },
+    {
+      "question": "Quel type d’articulation permet une grande liberté de mouvement ?",
+      "options": ["Articulation mobile", "Articulation fixe", "Articulation semi-mobile", "Disque vertébral"],
+      "reponse": "Articulation mobile",
+      "explication": "Comme l’épaule ou la hanche, elles permettent des mouvements amples."
+    },
+    {
+      "question": "Les os sont reliés entre eux par :",
+      "options": ["Des ligaments", "Des tendons", "Des nerfs", "Des muscles"],
+      "reponse": "Des ligaments",
+      "explication": "Les ligaments maintiennent les os ensemble au niveau des articulations."
+    },
+    {
+      "question": "Les os sont composés principalement de :",
+      "options": ["Calcium et collagène", "Eau et graisse", "Fer et sang", "Sucre et urée"],
+      "reponse": "Calcium et collagène",
+      "explication": "Le calcium donne la solidité, le collagène la souplesse à l’os."
+    },
+    {
+      "question": "Une fracture est :",
+      "options": ["Une cassure d’un os", "Un gonflement du muscle", "Un nerf coupé", "Un muscle blessé"],
+      "reponse": "Une cassure d’un os",
+      "explication": "Une fracture correspond à la rupture totale ou partielle d’un os."
+    },
+    {
+      "question": "Le rôle des tendons est de :",
+      "options": ["Relier les muscles aux os", "Relier les os entre eux", "Produire du sang", "Protéger le cerveau"],
+      "reponse": "Relier les muscles aux os",
+      "explication": "Les tendons transmettent les contractions musculaires aux os."
+    },
+    {
+      "question": "Comment les muscles agissent-ils pour produire un mouvement ?",
+      "options": ["Par contraction et relâchement", "Par évaporation", "Par poussée hydraulique", "Par ventilation"],
+      "reponse": "Par contraction et relâchement",
+      "explication": "Les muscles se contractent pour tirer sur les os et produire un mouvement."
+    },
+    {
+      "question": "Les muscles squelettiques sont :",
+      "options": ["Volontaires", "Involontaires", "Cardiaques", "Digestifs"],
+      "reponse": "Volontaires",
+      "explication": "Ils sont contrôlés consciemment pour effectuer des gestes."
+    },
+    {
+      "question": "Lorsqu’un muscle se contracte, il :",
+      "options": ["Se raccourcit", "S’allonge", "Devient plus dur", "S’efface"],
+      "reponse": "Se raccourcit",
+      "explication": "La contraction musculaire provoque un raccourcissement du muscle."
+    },
+    {
+      "question": "L’ensemble des muscles et du squelette forme :",
+      "options": ["L’appareil locomoteur", "Le système digestif", "Le système nerveux", "Le système respiratoire"],
+      "reponse": "L’appareil locomoteur",
+      "explication": "Il permet les déplacements et la posture du corps."
+    },
+    {
+      "question": "Le biceps et le triceps sont :",
+      "options": ["Des muscles antagonistes", "Des os du bras", "Des ligaments", "Des nerfs"],
+      "reponse": "Des muscles antagonistes",
+      "explication": "Quand l’un se contracte, l’autre se relâche pour assurer un mouvement."
+    },
+    {
+      "question": "Un os long est un os :",
+      "options": ["Dont la longueur est plus grande que la largeur", "De forme ronde", "Toujours creux", "Se trouvant uniquement dans la tête"],
+      "reponse": "Dont la longueur est plus grande que la largeur",
+      "explication": "Exemples : fémur, humérus. Ils permettent les grands mouvements."
+    },
+    {
+      "question": "Quel rôle joue la rotule ?",
+      "options": ["Protéger le genou", "Permettre de respirer", "Produire du glucose", "Relier la cuisse au bassin"],
+      "reponse": "Protéger le genou",
+      "explication": "C’est un os plat qui protège l’articulation du genou."
+    },
+    {
+      "question": "Les os courts sont situés surtout :",
+      "options": ["Dans les poignets et chevilles", "Dans les bras", "Dans le crâne", "Dans les côtes"],
+      "reponse": "Dans les poignets et chevilles",
+      "explication": "Ils assurent la stabilité et de petits mouvements précis."
+    },
+    {
+      "question": "Les os plats ont pour rôle principal :",
+      "options": ["Protéger les organes", "Produire l’urine", "Stocker le sucre", "Faire circuler le sang"],
+      "reponse": "Protéger les organes",
+      "explication": "Exemples : les os du crâne, les omoplates, les côtes."
+    },
+    {
+      "question": "Une entorse est :",
+      "options": ["Une lésion d’un ligament", "Une fracture musculaire", "Une piqûre infectée", "Un virus dans l’os"],
+      "reponse": "Une lésion d’un ligament",
+      "explication": "L’articulation est étirée ou déchirée sans fracture osseuse."
+    },
+    {
+      "question": "Les muscles ont besoin de quoi pour fonctionner ?",
+      "options": ["Oxygène et nutriments", "Plaquettes et plasma", "Enzymes et bile", "Globules rouges uniquement"],
+      "reponse": "Oxygène et nutriments",
+      "explication": "Ils produisent de l’énergie grâce à ces substances."
+    },
+    {
+      "question": "La posture du corps est assurée par :",
+      "options": ["Les muscles et les os", "Les intestins", "Les artères", "Les nerfs seuls"],
+      "reponse": "Les muscles et les os",
+      "explication": "Ils maintiennent l’équilibre et la forme du corps debout ou assis."
+    },
+    {
+      "question": "Quel tissu recouvre les extrémités des os au niveau des articulations ?",
+      "options": ["Le cartilage", "La moelle", "Le muscle", "L’os spongieux"],
+      "reponse": "Le cartilage",
+      "explication": "Il amortit les chocs et facilite les mouvements des articulations."
+    },
+    {
+      "question": "Que se passe-t-il si un muscle est trop sollicité sans repos ?",
+      "options": ["Il peut se fatiguer ou se blesser", "Il devient un os", "Il se transforme en graisse", "Il produit des enzymes digestives"],
+      "reponse": "Il peut se fatiguer ou se blesser",
+      "explication": "Un effort excessif provoque des courbatures, déchirures ou crampes."
+    },
+    {
+      "question": "Que relient les articulations ?",
+      "options": ["Deux os entre eux", "Deux muscles", "Deux ligaments", "Deux tendons"],
+      "reponse": "Deux os entre eux",
+      "explication": "Elles permettent les mouvements en reliant deux os."
+    },
+    {
+      "question": "Le squelette crânien protège :",
+      "options": ["Le cerveau", "Les poumons", "Le foie", "L’estomac"],
+      "reponse": "Le cerveau",
+      "explication": "Les os du crâne entourent et protègent cet organe vital."
+    },
+    {
+      "question": "L’ostéoporose est une maladie liée à :",
+      "options": ["La fragilité des os", "La déchirure des muscles", "L’infection des tendons", "La perte de mémoire"],
+      "reponse": "La fragilité des os",
+      "explication": "Les os deviennent poreux et se cassent plus facilement."
+    },
+    {
+      "question": "Quelle est l'une des fonctions principales du squelette humain ?",
+      "options": ["Soutenir le corps", "Fabriquer des hormones", "Filtrer le sang", "Digérer les aliments"],
+      "reponse": "Soutenir le corps",
+      "explication": "Le squelette soutient le corps, protège les organes et permet les mouvements."
+    },
+    {
+      "question": "Quel type d’os est le fémur ?",
+      "options": ["Un os long", "Un os plat", "Un os court", "Un os creux"],
+      "reponse": "Un os long",
+      "explication": "Le fémur est un os long, adapté à la mobilité et au soutien du corps."
+    },
+    {
+      "question": "Le tendon permet de :",
+      "options": ["Relier un muscle à un os", "Relier deux os", "Produire du sang", "Envoyer des messages nerveux"],
+      "reponse": "Relier un muscle à un os",
+      "explication": "Le tendon fixe les muscles aux os pour transmettre la force de contraction."
+    },
+    {
+      "question": "Des muscles antagonistes sont :",
+      "options": ["Des muscles qui travaillent en opposition", "Des muscles infectés", "Des muscles du cœur", "Des muscles toujours contractés"],
+      "reponse": "Des muscles qui travaillent en opposition",
+      "explication": "Ex : le biceps fléchit le bras, le triceps l’étend."
+    },
+    {
+      "question": "Les ligaments permettent :",
+      "options": ["De relier deux os entre eux", "De fixer le muscle à la peau", "D’absorber les chocs", "De transmettre les influx nerveux"],
+      "reponse": "De relier deux os entre eux",
+      "explication": "Les ligaments stabilisent les articulations en reliant deux os."
+    },
+    {
+      "question": "La moelle osseuse rouge a pour fonction principale :",
+      "options": ["Produire les cellules sanguines", "Fixer les muscles", "Stocker la bile", "Détruire les toxines"],
+      "reponse": "Produire les cellules sanguines",
+      "explication": "Elle fabrique globules rouges, blancs et plaquettes dans certains os."
+    },
+    {
+      "question": "Une entorse touche généralement :",
+      "options": ["Les ligaments d'une articulation", "Les os longs", "Le cœur", "Les nerfs sensitifs"],
+      "reponse": "Les ligaments d'une articulation",
+      "explication": "Une entorse correspond à un étirement ou déchirure d’un ligament."
+    },
+    {
+      "question": "Les deux composants principaux d’un os sont :",
+      "options": ["Calcium et collagène", "Eau et graisse", "Oxygène et fer", "Sodium et potassium"],
+      "reponse": "Calcium et collagène",
+      "explication": "Le calcium donne la rigidité, le collagène assure la souplesse."
+    },
+    {
+      "question": "Les courbatures après un effort physique sont dues à :",
+      "options": ["Des micro-lésions musculaires", "Des fractures osseuses", "Une maladie", "Un manque de vitamine D"],
+      "reponse": "Des micro-lésions musculaires",
+      "explication": "Les fibres musculaires abîmées provoquent des douleurs."
+    },
+    {
+      "question": "Le muscle cardiaque est :",
+      "options": ["Involontaire et puissant", "Volontaire et lent", "Lisse et squelettique", "Formé d’os"],
+      "reponse": "Involontaire et puissant",
+      "explication": "Il se contracte sans arrêt pour faire circuler le sang."
+    },
+    {
+      "question": "S’échauffer avant un effort physique permet :",
+      "options": ["D’éviter les blessures", "De ralentir le cœur", "De produire plus de sueur", "De refroidir les muscles"],
+      "reponse": "D’éviter les blessures",
+      "explication": "L’échauffement prépare muscles, tendons et articulations à l'effort."
+    },
+    {
+      "question": "Lors d’un mouvement, un muscle tire sur l’os grâce à :",
+      "options": ["Un tendon", "Un nerf", "Un ligament", "Un cartilage"],
+      "reponse": "Un tendon",
+      "explication": "Le tendon transmet la force du muscle à l’os pour bouger."
+    },
+    {
+      "question": "Lors de la flexion du bras, le biceps :",
+      "options": ["Se contracte", "Se relâche", "S’atrophie", "Devient plus long"],
+      "reponse": "Se contracte",
+      "explication": "Il se raccourcit pour tirer l’avant-bras vers l’épaule."
+    },
+    {
+      "question": "Les muscles ont besoin d’énergie produite à partir de :",
+      "options": ["Glucose et oxygène", "Sels minéraux", "Graisses uniquement", "Fer et bile"],
+      "reponse": "Glucose et oxygène",
+      "explication": "La respiration cellulaire dans les muscles produit de l’énergie avec ces éléments."
+    },
+    {
+      "question": "L’eau est importante pour les muscles car elle :",
+      "options": ["Évite les crampes", "Apporte du sucre", "Renforce les os", "Réchauffe le sang"],
+      "reponse": "Évite les crampes",
+      "explication": "L’hydratation maintient le bon fonctionnement des cellules musculaires."
+    },
+    {
+      "question": "Quel est un os plat ?",
+      "options": ["L’omoplate", "Le fémur", "Le tibia", "Le radius"],
+      "reponse": "L’omoplate",
+      "explication": "L’omoplate est un os plat servant à protéger et à fixer des muscles."
+    },
+    {
+      "question": "Les os des enfants sont plus souples car :",
+      "options": ["Ils contiennent plus de cartilage", "Ils sont creux", "Ils sont plus courts", "Ils n’ont pas de calcium"],
+      "reponse": "Ils contiennent plus de cartilage",
+      "explication": "Cela leur donne de la flexibilité, utile lors des chutes."
+    },
+    {
+      "question": "Le squelette protège le système nerveux central grâce :",
+      "options": ["Au crâne et à la colonne vertébrale", "Aux tendons et ligaments", "Aux muscles dorsaux", "À la peau"],
+      "reponse": "Au crâne et à la colonne vertébrale",
+      "explication": "Le crâne protège le cerveau, la colonne protège la moelle épinière."
+    },
+    {
+      "question": "L’atrophie musculaire désigne :",
+      "options": ["La diminution du volume du muscle", "L’augmentation du calcium", "Un excès de contraction", "Un muscle infecté"],
+      "reponse": "La diminution du volume du muscle",
+      "explication": "Elle survient après une longue immobilisation ou un manque d’usage."
+    },
+    {
+      "question": "Une bonne nutrition pour les muscles et os comprend :",
+      "options": ["Calcium et protéines", "Vitamine C uniquement", "Sucres rapides", "Eau salée"],
+      "reponse": "Calcium et protéines",
+      "explication": "Le calcium renforce les os, les protéines aident à la croissance musculaire."
+    },
+    {
+      "question": "Quel est le rôle principal de l’œil ?",
+      "options": ["Permettre la vision", "Aider à la digestion", "Faire battre le cœur", "Produire des hormones"],
+      "reponse": "Permettre la vision",
+      "explication": "L'œil capte la lumière et forme des images interprétées par le cerveau."
+    },
+    {
+      "question": "Quel est le trajet de la lumière dans l’œil ?",
+      "options": ["Cornée → cristallin → rétine", "Rétine → cornée → cristallin", "Pupille → nerf optique → cristallin", "Cristallin → cornée → nerf optique"],
+      "reponse": "Cornée → cristallin → rétine",
+      "explication": "La lumière traverse la cornée, est réfractée par le cristallin, puis atteint la rétine."
+    },
+    {
+      "question": "La rétine contient :",
+      "options": ["Des cellules sensibles à la lumière", "Des globules blancs", "Des muscles", "Des os"],
+      "reponse": "Des cellules sensibles à la lumière",
+      "explication": "Les photorécepteurs (cônes et bâtonnets) captent les signaux lumineux."
+    },
+    {
+      "question": "Le nerf optique a pour rôle de :",
+      "options": ["Transmettre les images au cerveau", "Contrôler les muscles de l'œil", "Produire la lumière", "Colorer la rétine"],
+      "reponse": "Transmettre les images au cerveau",
+      "explication": "Il transporte les influx nerveux issus de la rétine vers le cerveau."
+    },
+    {
+      "question": "Le cristallin permet de :",
+      "options": ["Faire la mise au point des images", "Filtrer les microbes", "Colorer le sang", "Fermer la paupière"],
+      "reponse": "Faire la mise au point des images",
+      "explication": "Le cristallin ajuste la vision de près ou de loin, comme une lentille."
+    },
+    {
+      "question": "Qu’est-ce que la myopie ?",
+      "options": ["Vision floue de loin", "Absence de couleur", "Vision floue de près", "Défaut de la pupille"],
+      "reponse": "Vision floue de loin",
+      "explication": "L'image se forme devant la rétine, rendant floue la vision lointaine."
+    },
+    {
+      "question": "Quelle est la fonction des cônes dans la rétine ?",
+      "options": ["Percevoir les couleurs", "Produire du son", "Filtrer la lumière UV", "Contrôler les paupières"],
+      "reponse": "Percevoir les couleurs",
+      "explication": "Les cônes détectent les différentes couleurs en pleine lumière."
+    },
+    {
+      "question": "Les bâtonnets sont spécialisés dans :",
+      "options": ["La vision en faible lumière", "La détection des couleurs", "La production de sang", "L’élasticité du cristallin"],
+      "reponse": "La vision en faible lumière",
+      "explication": "Ils permettent de distinguer les formes et mouvements dans l'obscurité."
+    },
+    {
+      "question": "L’iris détermine :",
+      "options": ["La couleur des yeux", "La vision nocturne", "La vitesse des nerfs", "La forme des images"],
+      "reponse": "La couleur des yeux",
+      "explication": "L’iris est la partie colorée de l’œil qui entoure la pupille."
+    },
+    {
+      "question": "La pupille se dilate ou se rétrécit selon :",
+      "options": ["L’intensité de la lumière", "La digestion", "Le bruit ambiant", "Le rythme cardiaque"],
+      "reponse": "L’intensité de la lumière",
+      "explication": "La pupille régule la quantité de lumière qui entre dans l'œil."
+    },
+    {
+      "question": "La cornée est :",
+      "options": ["Une membrane transparente à l'avant de l'œil", "Un os de l’orbite", "Un muscle de l’œil", "Une glande lacrymale"],
+      "reponse": "Une membrane transparente à l'avant de l'œil",
+      "explication": "Elle protège l'œil et participe à la réfraction de la lumière."
+    },
+    {
+      "question": "La presbytie est un trouble de :",
+      "options": ["La vision de près chez les personnes âgées", "La vision nocturne", "La vision des couleurs", "L’œil des enfants"],
+      "reponse": "La vision de près chez les personnes âgées",
+      "explication": "Le cristallin devient moins souple, rendant la lecture difficile de près."
+    },
+    {
+      "question": "Quel organe transforme les images en messages nerveux ?",
+      "options": ["La rétine", "La pupille", "Le cristallin", "La cornée"],
+      "reponse": "La rétine",
+      "explication": "Les cellules photoréceptrices de la rétine convertissent la lumière en signaux."
+    },
+    {
+      "question": "Les muscles oculaires permettent :",
+      "options": ["Les mouvements de l’œil", "La vision nocturne", "La dilatation des vaisseaux", "La filtration du sang"],
+      "reponse": "Les mouvements de l’œil",
+      "explication": "Ils orientent l'œil dans différentes directions."
+    },
+    {
+      "question": "Quel est le rôle principal des muscles ?",
+      "options": ["Permettre le mouvement", "Produire des globules blancs", "Stocker le calcium", "Gérer la digestion"],
+      "reponse": "Permettre le mouvement",
+      "explication": "Les muscles se contractent pour déplacer les os ou les organes."
+    },
+    {
+      "question": "Les muscles squelettiques sont :",
+      "options": ["Volontaires et reliés aux os", "Involontaires et digestifs", "Cardiaques uniquement", "Transparents et mous"],
+      "reponse": "Volontaires et reliés aux os",
+      "explication": "Ils bougent sous contrôle de la volonté et sont attachés aux os."
+    },
+    {
+      "question": "Les tendons servent à :",
+      "options": ["Relier les muscles aux os", "Produire du sang", "Alimenter le cœur", "Filtrer les déchets"],
+      "reponse": "Relier les muscles aux os",
+      "explication": "Ils assurent la transmission de la force musculaire aux os."
+    },
+    {
+      "question": "Le muscle cardiaque est :",
+      "options": ["Involontaire et très résistant", "Volontaire et osseux", "Respiratoire", "Musculaire lisse"],
+      "reponse": "Involontaire et très résistant",
+      "explication": "Il fonctionne sans notre volonté et ne se fatigue presque jamais."
+    },
+    {
+      "question": "Les muscles lisses se trouvent dans :",
+      "options": ["Les organes internes comme l’intestin", "Les os", "Les nerfs", "La peau uniquement"],
+      "reponse": "Les organes internes comme l’intestin",
+      "explication": "Ils permettent des mouvements involontaires comme le péristaltisme."
+    },
+    {
+      "question": "Que permet la contraction musculaire ?",
+      "options": ["Le déplacement ou l’action mécanique", "La digestion chimique", "La formation des hormones", "La respiration cellulaire"],
+      "reponse": "Le déplacement ou l’action mécanique",
+      "explication": "Les fibres musculaires raccourcissent pour créer un mouvement."
+    },
+    {
+      "question": "Un muscle travaille en :",
+      "options": ["S’associant à un muscle antagoniste", "S’isolant du squelette", "S’opposant au sang", "Se multipliant sans fin"],
+      "reponse": "S’associant à un muscle antagoniste",
+      "explication": "Un muscle fléchit pendant que son antagoniste se relâche (ex : biceps/triceps)."
+    },
+    {
+      "question": "Les muscles utilisent pour fonctionner :",
+      "options": ["Du glucose et de l’oxygène", "De l’urée et du sel", "Du calcium uniquement", "Du sang coagulé"],
+      "reponse": "Du glucose et de l’oxygène",
+      "explication": "Ils produisent de l’énergie grâce à la respiration cellulaire."
+    },
+    {
+      "question": "Un effort musculaire intense produit :",
+      "options": ["De l’acide lactique", "De la bile", "Des hormones", "Du plasma"],
+      "reponse": "De l’acide lactique",
+      "explication": "Quand il manque d’oxygène, le muscle produit de l’acide lactique."
+    },
+    {
+      "question": "Pourquoi les muscles ont-ils besoin de repos ?",
+      "options": ["Pour éviter la fatigue et se régénérer", "Pour que les os se reforment", "Pour absorber plus d’eau", "Pour produire des hormones"],
+      "reponse": "Pour éviter la fatigue et se régénérer",
+      "explication": "Le repos permet aux fibres musculaires de récupérer et de réparer les micro-lésions."
+    },
+    {
+      "question": "Une crampe musculaire peut être causée par :",
+      "options": ["Un manque d’oxygène ou de sels minéraux", "Une carie", "Un excès de vision", "Un problème digestif"],
+      "reponse": "Un manque d’oxygène ou de sels minéraux",
+      "explication": "Elle survient souvent après un effort prolongé ou une mauvaise hydratation."
+    },
+    {
+      "question": "Quel système contrôle les muscles volontaires ?",
+      "options": ["Le système nerveux", "Le système digestif", "Le système circulatoire", "Le système urinaire"],
+      "reponse": "Le système nerveux",
+      "explication": "Les ordres partent du cerveau et voyagent par les nerfs jusqu’aux muscles."
+    },
+    {
+      "question": "Pourquoi faut-il s’échauffer avant un effort musculaire ?",
+      "options": ["Pour éviter les blessures", "Pour contracter le cœur", "Pour produire des hormones", "Pour bronzer"],
+      "reponse": "Pour éviter les blessures",
+      "explication": "L’échauffement prépare muscles et articulations à l’effort."
+    },
+    {
+      "question": "Le muscle se raccourcit lors de :",
+      "options": ["Sa contraction", "Son relâchement", "La digestion", "Une entorse"],
+      "reponse": "Sa contraction",
+      "explication": "La contraction musculaire réduit sa longueur et provoque un mouvement."
+    },
+    {
+      "question": "Les muscles travaillent par :",
+      "options": ["Alternance de contraction et de relâchement", "Fusion entre os et nerfs", "Division cellulaire rapide", "Chaleur thermique uniquement"],
+      "reponse": "Alternance de contraction et de relâchement",
+      "explication": "C’est cette alternance qui permet les mouvements précis."
+    },
+    {
+      "question": "Le cœur est un muscle :",
+      "options": ["Cardiaque et involontaire", "Digestif et volontaire", "Lisse et rouge", "Squelettique et nerveux"],
+      "reponse": "Cardiaque et involontaire",
+      "explication": "Il bat sans notre volonté et possède une structure musculaire unique."
+    },
+    {
+      "question": "Quel organe est principalement responsable de la respiration chez l’homme ?",
+      "options": ["Cœur", "Poumon", "Estomac", "Foie"],
+      "reponse": "Poumon",
+      "explication": "Les poumons assurent les échanges gazeux entre l’air et le sang."
+    },
+    {
+      "question": "Quel est le rôle principal du cœur ?",
+      "options": ["Filtrer le sang", "Pomper le sang", "Digérer les aliments", "Produire les globules blancs"],
+      "reponse": "Pomper le sang",
+      "explication": "Le cœur agit comme une pompe qui fait circuler le sang dans tout le corps."
+    },
+    {
+      "question": "Le sang est composé principalement de :",
+      "options": ["Globules rouges, globules blancs, plasma", "Air, plasma, eau", "Urine, bile, salive", "Eau, graisse, os"],
+      "reponse": "Globules rouges, globules blancs, plasma",
+      "explication": "Le sang est un tissu liquide composé de plasma, de globules rouges, blancs et de plaquettes."
+    },
+    {
+      "question": "Quel est l’organe responsable de la digestion des aliments ?",
+      "options": ["Cœur", "Foie", "Estomac", "Reins"],
+      "reponse": "Estomac",
+      "explication": "L’estomac transforme les aliments grâce aux sucs gastriques."
+    },
+    {
+      "question": "Où se fait la majorité de l’absorption des nutriments ?",
+      "options": ["Gros intestin", "Estomac", "Intestin grêle", "Foie"],
+      "reponse": "Intestin grêle",
+      "explication": "L’intestin grêle absorbe les nutriments issus de la digestion."
+    },
+    {
+      "question": "Les globules rouges servent à :",
+      "options": ["Combattre les microbes", "Transporter l’oxygène", "Coaguler le sang", "Produire l’énergie"],
+      "reponse": "Transporter l’oxygène",
+      "explication": "Les globules rouges transportent l’oxygène grâce à l’hémoglobine."
+    },
+    {
+      "question": "Quelle est la fonction principale des reins ?",
+      "options": ["Produire du sang", "Éliminer les déchets", "Transformer les graisses", "Respirer"],
+      "reponse": "Éliminer les déchets",
+      "explication": "Les reins filtrent le sang et forment l’urine pour éliminer les déchets."
+    },
+    {
+      "question": "Quel organe produit la bile ?",
+      "options": ["Estomac", "Foie", "Cœur", "Rein"],
+      "reponse": "Foie",
+      "explication": "Le foie produit la bile, qui aide à la digestion des graisses."
+    },
+    {
+      "question": "Les muscles permettent de :",
+      "options": ["Respirer", "Filtrer le sang", "Bouger", "Digérer"],
+      "reponse": "Bouger",
+      "explication": "Les muscles, en se contractant, permettent le mouvement."
+    },
+    {
+      "question": "Quel est le rôle des globules blancs ?",
+      "options": ["Transporter l’oxygène", "Combattre les infections", "Former les os", "Filtrer l’air"],
+      "reponse": "Combattre les infections",
+      "explication": "Les globules blancs défendent le corps contre les microbes."
+    },
+    {
+      "question": "Une bonne hygiène alimentaire consiste à :",
+      "options": ["Manger beaucoup", "Boire peu", "Manger équilibré", "Éviter de manger"],
+      "reponse": "Manger équilibré",
+      "explication": "Une alimentation équilibrée apporte tous les nutriments nécessaires à la santé."
+    },
+    {
+      "question": "Le squelette humain sert principalement à :",
+      "options": ["Respirer", "Filtrer le sang", "Soutenir le corps", "Produire la salive"],
+      "reponse": "Soutenir le corps",
+      "explication": "Le squelette soutient et protège les organes du corps humain."
+    },
+    {
+      "question": "La moelle osseuse est responsable de :",
+      "options": ["La digestion", "La respiration", "La production des cellules sanguines", "La transmission des nerfs"],
+      "reponse": "La production des cellules sanguines",
+      "explication": "La moelle osseuse fabrique les cellules du sang (globules rouges, blancs et plaquettes)."
+    },
+    {
+      "question": "Le système nerveux comprend principalement :",
+      "options": ["Les muscles et les os", "Le cœur et les poumons", "Le cerveau et les nerfs", "Les reins et le foie"],
+      "reponse": "Le cerveau et les nerfs",
+      "explication": "Le cerveau et les nerfs assurent la coordination et la transmission des informations."
+    },
+    {
+      "question": "L’oxygène est absorbé au niveau de :",
+      "options": ["L’estomac", "La peau", "Les alvéoles pulmonaires", "Le cœur"],
+      "reponse": "Les alvéoles pulmonaires",
+      "explication": "Les alvéoles pulmonaires permettent les échanges gazeux entre l’air et le sang."
+    },
+    {
+      "question": "Une carence en fer provoque :",
+      "options": ["L’obésité", "La diarrhée", "L’anémie", "Le diabète"],
+      "reponse": "L’anémie",
+      "explication": "Le fer est essentiel à la fabrication des globules rouges. Sa carence cause l’anémie."
+    },
+    {
+      "question": "Le vaccin permet de :",
+      "options": ["Soigner une maladie", "Rendre malade", "Prévenir une maladie", "Faire grossir"],
+      "reponse": "Prévenir une maladie",
+      "explication": "Le vaccin stimule le système immunitaire pour prévenir certaines maladies."
+    },
+    {
+      "question": "Quel est le rôle du pancréas ?",
+      "options": ["Filtrer le sang", "Produire l’urine", "Sécréter l’insuline", "Transporter l’oxygène"],
+      "reponse": "Sécréter l’insuline",
+      "explication": "Le pancréas produit l’insuline, qui régule le taux de sucre dans le sang."
+    },
+    {
+      "question": "Une alimentation riche en fruits et légumes permet de :",
+      "options": ["Grossir", "Manquer de vitamines", "Renforcer l’immunité", "Avoir des caries"],
+      "reponse": "Renforcer l’immunité",
+      "explication": "Les fruits et légumes sont riches en vitamines qui renforcent l’immunité."
+    },
+    {
+      "question": "La transpiration permet :",
+      "options": ["La digestion", "L’hydratation", "La régulation de la température", "L’absorption du sucre"],
+      "reponse": "La régulation de la température",
+      "explication": "La sueur aide le corps à se refroidir quand il fait chaud."
+    },
+    {
+      "question": "Les dents servent principalement à :",
+      "options": ["Respirer", "Parler", "Mâcher les aliments", "Filtrer le sang"],
+      "reponse": "Mâcher les aliments",
+      "explication": "Les dents coupent et broient les aliments pour faciliter la digestion."
+    },
+    {
+      "question": "Quel est l’organe de l’équilibre dans le corps ?",
+      "options": ["Yeux", "Langue", "Oreille interne", "Peau"],
+      "reponse": "Oreille interne",
+      "explication": "L’oreille interne contient les structures responsables de l’équilibre."
+    },
+    {
+      "question": "Une bonne hydratation consiste à :",
+      "options": ["Boire 1 verre par jour", "Boire uniquement sucré", "Boire suffisamment d’eau", "Boire de l’huile"],
+      "reponse": "Boire suffisamment d’eau",
+      "explication": "L’eau est essentielle pour toutes les fonctions du corps."
+    },
+    {
+      "question": "La fièvre est souvent un signe de :",
+      "options": ["Bonne santé", "Infection", "Faim", "Sommeil"],
+      "reponse": "Infection",
+      "explication": "La fièvre est une réaction du corps face à une infection."
+    },
+    {
+      "question": "Quel est le rôle principal du système digestif ?",
+      "options": ["Respirer", "Faire circuler le sang", "Transformer les aliments", "Protéger les os"],
+      "reponse": "Transformer les aliments",
+      "explication": "Le système digestif transforme les aliments pour permettre leur absorption."
+    },
+    {
+      "question": "Une carie dentaire est causée par :",
+      "options": ["Le sucre et les bactéries", "Le calcium", "L’oxygène", "La vitamine D"],
+      "reponse": "Le sucre et les bactéries",
+      "explication": "Le sucre favorise les bactéries responsables des caries dentaires."
+    },
+    {
+      "question": "Les antibiotiques servent à :",
+      "options": ["Soigner les virus", "Soigner les bactéries", "Donner de l’énergie", "Arrêter le cœur"],
+      "reponse": "Soigner les bactéries",
+      "explication": "Les antibiotiques tuent ou freinent la croissance des bactéries."
+    },
+    {
+      "question": "Le système immunitaire protège contre :",
+      "options": ["Les vitamines", "Les aliments", "Les infections", "L’eau"],
+      "reponse": "Les infections",
+      "explication": "Le système immunitaire défend l’organisme contre les agents pathogènes."
+    },
+    {
+      "question": "Quels sont les signes d’une mauvaise hygiène ?",
+      "options": ["Bonne santé", "Maladies fréquentes", "Bonne respiration", "Bonne humeur"],
+      "reponse": "Maladies fréquentes",
+      "explication": "Une mauvaise hygiène favorise la propagation des microbes et maladies."
+    },
+    {
+      "question": "Quel est le rôle du diaphragme ?",
+      "options": ["Pomper le sang", "Aider la digestion", "Participer à la respiration", "Filtrer l’urine"],
+      "reponse": "Participer à la respiration",
+      "explication": "Le diaphragme est un muscle qui se contracte et facilite l’entrée d’air dans les poumons."
+    },
+    {
+      "question": "Après une course, Fatou respire plus vite. Pourquoi ?",
+      "options": ["Elle a peur", "Son corps a besoin de plus d’oxygène", "Elle digère", "Elle transpire trop"],
+      "reponse": "Son corps a besoin de plus d’oxygène",
+      "explication": "L’effort physique augmente les besoins en oxygène pour produire de l’énergie."
+    },
+    {
+      "question": "Issa saigne du nez après un coup. Quel rôle jouent les plaquettes ?",
+      "options": ["Transport de l’oxygène", "Combattre les microbes", "Arrêter le saignement", "Produire des hormones"],
+      "reponse": "Arrêter le saignement",
+      "explication": "Les plaquettes favorisent la coagulation du sang pour arrêter l’hémorragie."
+    },
+    {
+      "question": "Après avoir mangé, le sang devient plus riche en nutriments. Pourquoi ?",
+      "options": ["Il est filtré", "L’intestin grêle a absorbé les nutriments", "Le cœur digère", "L’estomac fabrique du sang"],
+      "reponse": "L’intestin grêle a absorbé les nutriments",
+      "explication": "L’intestin grêle permet l’absorption des nutriments vers le sang."
+    },
+    {
+      "question": "Un enfant a une forte fièvre après avoir été piqué par un moustique. Que peut-on suspecter ?",
+      "options": ["Un rhume", "Une allergie", "Le paludisme", "Une carie"],
+      "reponse": "Le paludisme",
+      "explication": "La piqûre du moustique peut transmettre le parasite du paludisme."
+    },
+    {
+      "question": "Un patient a un taux élevé de sucre dans le sang. Quel organe est concerné ?",
+      "options": ["Rein", "Pancréas", "Poumon", "Estomac"],
+      "reponse": "Pancréas",
+      "explication": "Le pancréas régule la glycémie grâce à l’insuline."
+    },
+    {
+      "question": "Lors d’une diarrhée aiguë, on donne de l’eau sucrée et salée. Pourquoi ?",
+      "options": ["Pour nourrir", "Pour colorer l’eau", "Pour éviter la déshydratation", "Pour arrêter les selles"],
+      "reponse": "Pour éviter la déshydratation",
+      "explication": "L’eau salée et sucrée compense les pertes d’eau et de sels minéraux."
+    },
+    {
+      "question": "Mariam a un rhume. Que fait son système immunitaire ?",
+      "options": ["Rien", "Fabrique des anticorps", "Fabrique du sucre", "Diminue la température"],
+      "reponse": "Fabrique des anticorps",
+      "explication": "Les anticorps luttent contre les virus responsables du rhume."
+    },
+    {
+      "question": "Un enfant s’évanouit en pleine chaleur. Quelle en est la cause possible ?",
+      "options": ["Hyperglycémie", "Déshydratation", "Bonne santé", "Carie dentaire"],
+      "reponse": "Déshydratation",
+      "explication": "La chaleur excessive entraîne une perte d’eau, pouvant provoquer un malaise."
+    },
+    {
+      "question": "Amadou a mangé dans la rue et tombe malade. Il souffre probablement de :",
+      "options": ["Paludisme", "Infection alimentaire", "Diabète", "Rhume"],
+      "reponse": "Infection alimentaire",
+      "explication": "La consommation d’aliments contaminés peut entraîner une intoxication."
+    },
+    {
+      "question": "Un élève respire difficilement après avoir couru. Quelle structure est sollicitée ?",
+      "options": ["Le foie", "Les reins", "Les poumons", "L’estomac"],
+      "reponse": "Les poumons",
+      "explication": "Les poumons assurent l’oxygénation lors d’un effort physique."
+    },
+    {
+      "question": "Pourquoi recommande-t-on le lavage des mains avant de manger ?",
+      "options": ["Pour nettoyer les ongles", "Pour se rafraîchir", "Pour prévenir les maladies", "Pour hydrater la peau"],
+      "reponse": "Pour prévenir les maladies",
+      "explication": "Le lavage des mains élimine les microbes et évite les infections digestives."
+    },
+    {
+      "question": "Après un vaccin, on est protégé contre :",
+      "options": ["Toutes les maladies", "Une maladie spécifique", "La fièvre", "Les douleurs"],
+      "reponse": "Une maladie spécifique",
+      "explication": "Chaque vaccin cible une maladie donnée."
+    },
+    {
+      "question": "Une personne boit très peu et a une urine foncée. Que se passe-t-il ?",
+      "options": ["Rien", "Elle est bien hydratée", "Elle est déshydratée", "Elle a trop mangé"],
+      "reponse": "Elle est déshydratée",
+      "explication": "L’urine foncée est un signe de déshydratation."
+    },
+    {
+      "question": "Un homme tousse après avoir fumé. Pourquoi ?",
+      "options": ["Le tabac provoque des spasmes", "Il a froid", "Il manque de vitamines", "Il digère mal"],
+      "reponse": "Le tabac provoque des spasmes",
+      "explication": "La fumée irrite les voies respiratoires et provoque la toux."
+    },
+    {
+      "question": "En courant, le rythme cardiaque augmente car :",
+      "options": ["Le sang devient plus lourd", "Le corps veut dormir", "Les muscles ont besoin de plus d’oxygène", "Les reins travaillent plus"],
+      "reponse": "Les muscles ont besoin de plus d’oxygène",
+      "explication": "Le cœur pompe plus vite pour répondre à la demande énergétique."
+    },
+    {
+      "question": "Une femme enceinte doit bien s’alimenter car :",
+      "options": ["Elle veut grossir", "Elle nourrit son bébé aussi", "Elle produit plus de salive", "Elle digère lentement"],
+      "reponse": "Elle nourrit son bébé aussi",
+      "explication": "L’alimentation d’une femme enceinte influence la santé du fœtus."
+    },
+    {
+      "question": "Un enfant a des os fragiles. Il manque sûrement de :",
+      "options": ["Fer", "Vitamine D", "Sucre", "Oxygène"],
+      "reponse": "Vitamine D",
+      "explication": "La vitamine D aide à fixer le calcium sur les os."
+    },
+    {
+      "question": "Si le foie est malade, il aura du mal à :",
+      "options": ["Digérer les graisses", "Respirer", "Filtrer l’urine", "Pomper le sang"],
+      "reponse": "Digérer les graisses",
+      "explication": "Le foie sécrète la bile, qui aide à la digestion des graisses."
+    },
+    {
+      "question": "Un enfant présente des plaques sur la peau après un repas. Il souffre probablement de :",
+      "options": ["Coup de soleil", "Allergie alimentaire", "Varicelle", "Paludisme"],
+      "reponse": "Allergie alimentaire",
+      "explication": "Certaines réactions cutanées sont liées à des aliments allergènes."
+    },
+    {
+      "question": "Pourquoi conseille-t-on de bien mastiquer ?",
+      "options": ["Pour produire de la salive", "Pour avaler plus vite", "Pour ralentir le repas", "Pour faciliter la digestion"],
+      "reponse": "Pour faciliter la digestion",
+      "explication": "Une bonne mastication prépare les aliments à la digestion."
+    },
+    {
+      "question": "Un enfant se blesse avec un objet sale. On lui fait :",
+      "options": ["Une injection contre le tétanos", "Une prise de sang", "Une radio", "Une greffe"],
+      "reponse": "Une injection contre le tétanos",
+      "explication": "Le tétanos est une infection grave transmise par des objets sales."
+    },
+    {
+      "question": "Une personne est anémiée. Elle doit consommer :",
+      "options": ["Des graisses", "Du fer", "Du sucre", "De l’eau"],
+      "reponse": "Du fer",
+      "explication": "Le fer est nécessaire pour produire des globules rouges."
+    },
+    {
+      "question": "Une femme a perdu beaucoup de sang. Elle reçoit :",
+      "options": ["Du sucre", "De l’eau", "Une transfusion", "Un vaccin"],
+      "reponse": "Une transfusion",
+      "explication": "Une transfusion remplace le sang perdu en cas d’hémorragie."
+    },
+    {
+      "question": "Pourquoi faut-il éviter l’automédication ?",
+      "options": ["Les médicaments sont sucrés", "On guérit plus vite", "Cela peut être dangereux", "C’est plus cher"],
+      "reponse": "Cela peut être dangereux",
+      "explication": "L’automédication peut entraîner des complications graves."
+    },
+    {
+      "question": "En cas d’hypertension, il faut éviter :",
+      "options": ["Le sport", "Les fruits", "Le sel", "L’eau"],
+      "reponse": "Le sel",
+      "explication": "L’excès de sel favorise l’élévation de la tension artérielle."
+    },
+    {
+      "question": "Une douleur à la poitrine peut indiquer :",
+      "options": ["Un rhume", "Une fracture", "Un problème cardiaque", "Une indigestion seulement"],
+      "reponse": "Un problème cardiaque",
+      "explication": "Une douleur thoracique doit faire penser à un trouble du cœur."
+    },
+    {
+      "question": "Pourquoi ne faut-il pas fumer dans une pièce fermée ?",
+      "options": ["C’est bon pour la peau", "C’est décoratif", "Cela pollue l’air", "Ça donne faim"],
+      "reponse": "Cela pollue l’air",
+      "explication": "La fumée passive nuit aussi à ceux qui ne fument pas."
+    },
+    {
+      "question": "Pourquoi les sportifs boivent souvent pendant l’effort ?",
+      "options": ["Pour maigrir", "Pour digérer", "Pour compenser la sueur", "Par habitude"],
+      "reponse": "Pour compenser la sueur",
+      "explication": "L’effort physique entraîne une perte d’eau qu’il faut compenser."
+    },
+    {
+      "question": "Un enfant dort mal, mange peu et est fatigué. Il a probablement :",
+      "options": ["Une bonne santé", "Une fatigue normale", "Une carence ou maladie", "Une poussée de croissance"],
+      "reponse": "Une carence ou maladie",
+      "explication": "Ces signes peuvent indiquer un trouble de santé nécessitant une consultation."
+    }
+  ]
+}

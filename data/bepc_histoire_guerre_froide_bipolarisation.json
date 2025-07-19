@@ -1,0 +1,172 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que la Guerre froide ?",
+      "options": ["Conflit idéologique et politique entre URSS et USA", "Guerre militaire directe entre deux pays", "Traité de paix", "Alliance militaire"],
+      "reponse": "Conflit idéologique et politique entre URSS et USA",
+      "explication": "La Guerre froide est une rivalité sans affrontement direct entre les deux superpuissances."
+    },
+    {
+      "question": "Quelle doctrine américaine vise à stopper l’expansion du communisme ?",
+      "options": ["Doctrine Truman", "Doctrine Monroe", "Doctrine Roosevelt", "Doctrine Brejnev"],
+      "reponse": "Doctrine Truman",
+      "explication": "Annoncée en 1947, elle soutient les pays menacés par le communisme."
+    },
+    {
+      "question": "Quel est le nom de l’alliance militaire occidentale créée en 1949 ?",
+      "options": ["OTAN", "Pacte de Varsovie", "ONU", "Alliance de l’Axe"],
+      "reponse": "OTAN",
+      "explication": "L’OTAN rassemble les États-Unis, le Canada et plusieurs pays européens."
+    },
+    {
+      "question": "Quelle organisation militaire a été créée en 1955 par l’URSS et ses alliés ?",
+      "options": ["Pacte de Varsovie", "OTAN", "ONU", "Commonwealth"],
+      "reponse": "Pacte de Varsovie",
+      "explication": "Le Pacte de Varsovie regroupe les pays communistes d’Europe de l’Est."
+    },
+    {
+      "question": "Quel mur symbolise la division de Berlin et de l’Allemagne ?",
+      "options": ["Mur de Berlin", "Mur de la paix", "Mur des lamentations", "Mur d’Atlantique"],
+      "reponse": "Mur de Berlin",
+      "explication": "Construit en 1961, il sépare Berlin Est communiste de Berlin Ouest démocratique."
+    },
+    {
+      "question": "En quelle année le mur de Berlin a-t-il été détruit ?",
+      "options": ["1989", "1961", "1945", "1991"],
+      "reponse": "1989",
+      "explication": "La chute du mur symbolise la fin de la Guerre froide et la réunification allemande."
+    },
+    {
+      "question": "Quelle crise a failli déclencher une guerre nucléaire en 1962 ?",
+      "options": ["Crise des missiles de Cuba", "Crise de Berlin", "Guerre de Corée", "Guerre du Vietnam"],
+      "reponse": "Crise des missiles de Cuba",
+      "explication": "L’installation de missiles soviétiques à Cuba a provoqué une grave tension avec les USA."
+    },
+    {
+      "question": "Quel président américain a mené la politique de la détente dans les années 1970 ?",
+      "options": ["Richard Nixon", "John Kennedy", "Ronald Reagan", "Harry Truman"],
+      "reponse": "Richard Nixon",
+      "explication": "Il a signé des accords de limitation des armements avec l’URSS."
+    },
+    {
+      "question": "Quel dirigeant soviétique a initié la politique de glasnost et perestroïka ?",
+      "options": ["Mikhaïl Gorbatchev", "Joseph Staline", "Nikita Khrouchtchev", "Leonid Brejnev"],
+      "reponse": "Mikhaïl Gorbatchev",
+      "explication": "Ces réformes visaient à moderniser l’URSS et réduire les tensions internationales."
+    },
+    {
+      "question": "Quel est le principal système économique des États-Unis pendant la Guerre froide ?",
+      "options": ["Capitalisme", "Communisme", "Socialisme", "Fascisme"],
+      "reponse": "Capitalisme",
+      "explication": "Les États-Unis défendent un système économique basé sur le marché libre."
+    },
+    {
+      "question": "Quel est le principal système économique de l’URSS pendant la Guerre froide ?",
+      "options": ["Communisme", "Capitalisme", "Social-démocratie", "Libéralisme"],
+      "reponse": "Communisme",
+      "explication": "L’URSS applique une économie planifiée centralisée."
+    },
+    {
+      "question": "Qu’est-ce que la doctrine Brejnev ?",
+      "options": ["Justification de l’intervention soviétique dans les pays communistes", "Politique d’ouverture économique", "Politique de désarmement", "Stratégie militaire américaine"],
+      "reponse": "Justification de l’intervention soviétique dans les pays communistes",
+      "explication": "Elle permettait à l’URSS d’intervenir pour maintenir le communisme en Europe de l’Est."
+    },
+    {
+      "question": "Quelle ville allemande a été le théâtre d’un blocus soviétique en 1948-1949 ?",
+      "options": ["Berlin", "Munich", "Francfort", "Hambourg"],
+      "reponse": "Berlin",
+      "explication": "L’URSS bloque l’accès terrestre à Berlin-Ouest, les Alliés organisent un pont aérien."
+    },
+    {
+      "question": "Quelle est la conséquence principale de la chute du mur de Berlin ?",
+      "options": ["Fin de la division Est/Ouest et début de la réunification allemande", "Début de la guerre froide", "Création du Pacte de Varsovie", "Déclaration de guerre"],
+      "reponse": "Fin de la division Est/Ouest et début de la réunification allemande",
+      "explication": "Cet événement marque la fin de la séparation entre Allemagne de l’Est et de l’Ouest."
+    },
+    {
+      "question": "Quel événement marque la fin officielle de la Guerre froide ?",
+      "options": ["Effondrement de l’URSS en 1991", "Chute du mur de Berlin en 1989", "Guerre de Corée", "Traité de Versailles"],
+      "reponse": "Effondrement de l’URSS en 1991",
+      "explication": "La disparition de l’URSS met fin à la rivalité bipolaire."
+    },
+    {
+      "question": "Quelle guerre a été un conflit indirect entre USA et URSS ?",
+      "options": ["Guerre de Corée", "Seconde Guerre mondiale", "Guerre de 14-18", "Guerre d’Algérie"],
+      "reponse": "Guerre de Corée",
+      "explication": "C’est un conflit où les deux superpuissances soutiennent des camps opposés sans s’affronter directement."
+    },
+    {
+      "question": "Quel était le rôle de l’ONU durant la Guerre froide ?",
+      "options": ["Maintenir la paix et gérer les crises internationales", "Organiser des alliances militaires", "Préparer des guerres", "Gérer les colonies"],
+      "reponse": "Maintenir la paix et gérer les crises internationales",
+      "explication": "L’ONU tente de résoudre les conflits sans guerre ouverte entre superpuissances."
+    },
+    {
+      "question": "Quelle crise a entraîné le placement de missiles nucléaires à Cuba ?",
+      "options": ["Crise des missiles de Cuba", "Crise de Berlin", "Crise de Suez", "Crise de la Baie des Cochons"],
+      "reponse": "Crise des missiles de Cuba",
+      "explication": "Cette crise a failli provoquer une guerre nucléaire entre USA et URSS."
+    },
+    {
+      "question": "Quel était le camp soutenu par les États-Unis pendant la guerre du Vietnam ?",
+      "options": ["Sud-Vietnam", "Nord-Vietnam", "Chine", "Union soviétique"],
+      "reponse": "Sud-Vietnam",
+      "explication": "Les États-Unis soutenaient le gouvernement non-communiste du Sud."
+    },
+    {
+      "question": "Quel président américain a lancé la politique de « containment » contre le communisme ?",
+      "options": ["Harry Truman", "Dwight Eisenhower", "John Kennedy", "Richard Nixon"],
+      "reponse": "Harry Truman",
+      "explication": "La politique de containment vise à empêcher l’expansion du communisme."
+    },
+    {
+      "question": "Quel événement a marqué le début symbolique de la Guerre froide ?",
+      "options": ["Doctrine Truman", "Débarquement en Normandie", "Traité de Versailles", "Conférence de Yalta"],
+      "reponse": "Doctrine Truman",
+      "explication": "Annoncée en 1947, cette doctrine officialise la rivalité USA-URSS."
+    },
+    {
+      "question": "Quel pays européen a été divisé en deux pendant la Guerre froide ?",
+      "options": ["Allemagne", "France", "Italie", "Espagne"],
+      "reponse": "Allemagne",
+      "explication": "L’Allemagne est séparée en RFA (Ouest) et RDA (Est)."
+    },
+    {
+      "question": "Quel événement a permis la réunification allemande ?",
+      "options": ["Chute du mur de Berlin", "Blocus de Berlin", "Crise de Cuba", "Fin de la Guerre du Vietnam"],
+      "reponse": "Chute du mur de Berlin",
+      "explication": "Cet événement a permis la réunification politique et économique de l’Allemagne."
+    },
+    {
+      "question": "Quel est le terme utilisé pour désigner la politique de réformes de Gorbatchev ?",
+      "options": ["Perestroïka", "Glasnost", "Déstalinisation", "Koulak"],
+      "reponse": "Perestroïka",
+      "explication": "La perestroïka désigne la restructuration économique de l’URSS."
+    },
+    {
+      "question": "Qu’est-ce que la « Glasnost » ?",
+      "options": ["Politique de transparence et d’ouverture en URSS", "Plan d’attaque militaire", "Stratégie de guerre", "Organisation militaire"],
+      "reponse": "Politique de transparence et d’ouverture en URSS",
+      "explication": "La glasnost a favorisé la liberté d’expression et la transparence gouvernementale."
+    },
+    {
+      "question": "Quelle puissance a remporté la course à l’espace en lançant Spoutnik ?",
+      "options": ["URSS", "États-Unis", "France", "Royaume-Uni"],
+      "reponse": "URSS",
+      "explication": "Spoutnik fut le premier satellite artificiel lancé en 1957."
+    },
+    {
+      "question": "Quel accord a limité les armes nucléaires entre USA et URSS ?",
+      "options": ["SALT", "OTAN", "Pacte de Varsovie", "Traité de Versailles"],
+      "reponse": "SALT",
+      "explication": "Les accords SALT visaient à limiter l’armement stratégique."
+    },
+    {
+      "question": "Quel événement a provoqué la fin de l’URSS ?",
+      "options": ["Effondrement économique et révolutions en Europe de l’Est", "Défaite militaire", "Attaque nucléaire", "Accord de paix"],
+      "reponse": "Effondrement économique et révolutions en Europe de l’Est",
+      "explication": "La crise économique et la perte du contrôle sur les pays satellites ont conduit à la disparition de l’URSS."
+    }
+  ]
+}

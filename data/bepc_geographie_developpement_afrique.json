@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Que signifie 'sous-développement' ?",
+      "options": ["Retard économique et social", "Excès d'industries", "Trop de routes", "Abondance de richesses"],
+      "reponse": "Retard économique et social",
+      "explication": "Le sous-développement se caractérise par un faible niveau de vie, d’infrastructures et de services."
+    },
+    {
+      "question": "Quel est un indicateur du sous-développement ?",
+      "options": ["Taux d’alphabétisation bas", "Production industrielle élevée", "Forte exportation de pétrole", "Nombreux centres commerciaux"],
+      "reponse": "Taux d’alphabétisation bas",
+      "explication": "Un faible niveau d’éducation est un signe de sous-développement."
+    },
+    {
+      "question": "Qu’est-ce que la pauvreté ?",
+      "options": ["Manque de ressources pour satisfaire les besoins essentiels", "Excès de nourriture", "Trop d’écoles", "Riche en pétrole"],
+      "reponse": "Manque de ressources pour satisfaire les besoins essentiels",
+      "explication": "La pauvreté concerne l’incapacité à se nourrir, se soigner, s’éduquer, etc."
+    },
+    {
+      "question": "Quel secteur est fortement touché par le sous-développement ?",
+      "options": ["Santé", "Jeux", "Cinéma", "Mode"],
+      "reponse": "Santé",
+      "explication": "L’accès aux soins est limité dans de nombreux pays africains."
+    },
+    {
+      "question": "Quel est un problème majeur du système de santé en Afrique ?",
+      "options": ["Manque de personnel et d’équipements", "Trop d’hôpitaux", "Trop de médecins", "Saturation technologique"],
+      "reponse": "Manque de personnel et d’équipements",
+      "explication": "Les hôpitaux sont souvent sous-équipés et mal répartis."
+    },
+    {
+      "question": "Pourquoi l’éducation est un défi majeur ?",
+      "options": ["Manque d’écoles, de professeurs et de matériel", "Trop de livres", "Langues étrangères trop parlées", "Accès facile pour tous"],
+      "reponse": "Manque d’écoles, de professeurs et de matériel",
+      "explication": "De nombreux enfants ne vont pas à l’école à cause de ces insuffisances."
+    },
+    {
+      "question": "Quel est un effet de la pauvreté sur l’éducation ?",
+      "options": ["Abandon scolaire précoce", "Succès généralisé", "Construction d’universités", "Trop d’élèves par salle"],
+      "reponse": "Abandon scolaire précoce",
+      "explication": "Les familles pauvres ne peuvent pas toujours scolariser leurs enfants."
+    },
+    {
+      "question": "Quel est un problème en milieu rural ?",
+      "options": ["Accès difficile à l’école et à la santé", "Excès de services", "Trop de médecins", "Surpeuplement urbain"],
+      "reponse": "Accès difficile à l’école et à la santé",
+      "explication": "Les infrastructures sont souvent absentes ou éloignées."
+    },
+    {
+      "question": "Qu’est-ce que l’analphabétisme ?",
+      "options": ["Incapacité à lire et écrire", "Langue étrangère", "Langue rare", "Trop de livres"],
+      "reponse": "Incapacité à lire et écrire",
+      "explication": "Il concerne une part importante de la population africaine adulte."
+    },
+    {
+      "question": "Quelles maladies touchent fortement l’Afrique ?",
+      "options": ["Paludisme, VIH/SIDA", "Grippe", "Varicelle", "Rougeole uniquement"],
+      "reponse": "Paludisme, VIH/SIDA",
+      "explication": "Ces maladies sont endémiques dans de nombreuses régions africaines."
+    },
+    {
+      "question": "Qu’est-ce qu’un indicateur de développement ?",
+      "options": ["Taux de mortalité infantile", "Température moyenne", "Altitude", "Distance de la mer"],
+      "reponse": "Taux de mortalité infantile",
+      "explication": "Un taux élevé de mortalité infantile est un signe de sous-développement."
+    },
+    {
+      "question": "Quel est le rôle de la coopération africaine ?",
+      "options": ["Favoriser l’unité et le développement", "Créer des conflits", "Arrêter les échanges", "Supprimer les frontières"],
+      "reponse": "Favoriser l’unité et le développement",
+      "explication": "Les organisations africaines cherchent à renforcer les liens entre pays."
+    },
+    {
+      "question": "Que signifie UA ?",
+      "options": ["Union Africaine", "Unité Agricole", "Union de l’Asie", "Université Autonome"],
+      "reponse": "Union Africaine",
+      "explication": "L’UA est une organisation regroupant la quasi-totalité des États africains."
+    },
+    {
+      "question": "Quel est l’un des objectifs de l’Union Africaine ?",
+      "options": ["Paix et développement durable", "Guerre", "Diviser les pays", "Fermer les écoles"],
+      "reponse": "Paix et développement durable",
+      "explication": "Elle promeut la paix, la sécurité et la croissance économique du continent."
+    },
+    {
+      "question": "Qu’est-ce que la CEA ?",
+      "options": ["Commission Économique pour l’Afrique", "Chambre des Étudiants Africains", "Comité des Écoles Agricoles", "Conférence des Élèves Africains"],
+      "reponse": "Commission Économique pour l’Afrique",
+      "explication": "La CEA est une institution des Nations Unies pour le développement en Afrique."
+    },
+    {
+      "question": "Quelle est la conséquence du chômage élevé ?",
+      "options": ["Pauvreté et migrations", "Plus de croissance", "Amélioration du niveau de vie", "Importation d’énergie"],
+      "reponse": "Pauvreté et migrations",
+      "explication": "Le chômage pousse les jeunes à migrer ou à vivre dans la précarité."
+    },
+    {
+      "question": "Quelle population est la plus touchée par le chômage ?",
+      "options": ["Les jeunes", "Les retraités", "Les touristes", "Les enseignants"],
+      "reponse": "Les jeunes",
+      "explication": "Le chômage des jeunes est un problème majeur en Afrique."
+    },
+    {
+      "question": "Quel est un obstacle au développement en Afrique ?",
+      "options": ["Conflits armés", "Climat doux", "Présence de fleuves", "Langue française"],
+      "reponse": "Conflits armés",
+      "explication": "Les guerres et conflits freinent l’économie et la stabilité."
+    },
+    {
+      "question": "Que signifie IDH ?",
+      "options": ["Indice de Développement Humain", "Importation de Drogues et Huiles", "Institut des Déserts Humides", "Indice des Densités Hydrographiques"],
+      "reponse": "Indice de Développement Humain",
+      "explication": "Il combine l’espérance de vie, l’éducation et le revenu national."
+    },
+    {
+      "question": "Qu’indique un IDH faible ?",
+      "options": ["Niveau de vie très bas", "Présence de volcans", "Excès de richesses", "Trop de ports maritimes"],
+      "reponse": "Niveau de vie très bas",
+      "explication": "Cela reflète un manque de développement humain."
+    },
+    {
+      "question": "Qu’est-ce qu’un partenariat au développement ?",
+      "options": ["Aide entre pays ou organisations", "Conflit frontalier", "Ségrégation scolaire", "Divisions régionales"],
+      "reponse": "Aide entre pays ou organisations",
+      "explication": "Les pays ou ONG travaillent ensemble pour financer des projets sociaux et économiques."
+    },
+    {
+      "question": "Quelle est une solution pour améliorer l’éducation ?",
+      "options": ["Construire plus d’écoles", "Fermer les internats", "Supprimer les langues locales", "Diminuer le nombre d’élèves"],
+      "reponse": "Construire plus d’écoles",
+      "explication": "Cela permettrait d’augmenter l’accès à l’éducation, surtout en zone rurale."
+    },
+    {
+      "question": "Qu'est-ce qu'une ONG ?",
+      "options": ["Organisation Non Gouvernementale", "Office National des Grandes écoles", "Organisation des Nations Gourmandes", "Office National des Garçons"],
+      "reponse": "Organisation Non Gouvernementale",
+      "explication": "Les ONG sont des associations qui soutiennent le développement local."
+    },
+    {
+      "question": "Quel est un exemple d’aide internationale ?",
+      "options": ["Fourniture de vaccins par l’OMS", "Fermeture des écoles", "Imposition de lois coloniales", "Déforestation massive"],
+      "reponse": "Fourniture de vaccins par l’OMS",
+      "explication": "L’aide internationale soutient la santé, l’éducation et l’alimentation."
+    },
+    {
+      "question": "Quel rôle joue la jeunesse africaine dans le développement ?",
+      "options": ["Force de travail et innovation", "Obstacle au progrès", "Blocage politique", "Consommation passive"],
+      "reponse": "Force de travail et innovation",
+      "explication": "Les jeunes sont un atout majeur s’ils sont bien formés et encadrés."
+    },
+    {
+      "question": "Pourquoi renforcer l’union entre pays africains ?",
+      "options": ["Faire face aux défis ensemble", "Limiter les échanges", "Fermer les frontières", "Empêcher l’éducation"],
+      "reponse": "Faire face aux défis ensemble",
+      "explication": "La coopération renforce la paix, le commerce et la stabilité."
+    },
+    {
+      "question": "Quel est un effet de l’analphabétisme ?",
+      "options": ["Difficulté à trouver un emploi", "Accès facile à Internet", "Amélioration du PIB", "Multiplication des usines"],
+      "reponse": "Difficulté à trouver un emploi",
+      "explication": "Sans savoir lire ni écrire, il est difficile d’avoir un emploi stable."
+    },
+    {
+      "question": "Quelle est une solution durable au sous-développement ?",
+      "options": ["Investir dans l’éducation et la santé", "Limiter l’agriculture", "Fermer les frontières", "Exploiter toutes les mines"],
+      "reponse": "Investir dans l’éducation et la santé",
+      "explication": "C’est la base d’un développement humain durable."
+    },
+    {
+      "question": "Quel défi l’Afrique doit-elle relever dans le futur ?",
+      "options": ["Assurer un développement équitable", "Réduire les écoles", "Arrêter les partenariats", "Diminuer la formation"],
+      "reponse": "Assurer un développement équitable",
+      "explication": "L’Afrique doit lutter contre les inégalités et offrir des chances à tous."
+    }
+  ]
+}

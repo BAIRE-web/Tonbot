@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’exprime la loi d’Ohm en électricité ?",
+      "options": ["U = R × I", "P = U × I", "I = U + R", "R = U × I"],
+      "reponse": "U = R × I",
+      "explication": "La loi d’Ohm relie la tension (U), la résistance (R) et l’intensité (I) : U = R × I."
+    },
+    {
+      "question": "Dans la loi d’Ohm, que représente la lettre U ?",
+      "options": ["La tension", "La résistance", "L’intensité", "La puissance"],
+      "reponse": "La tension",
+      "explication": "U représente la tension électrique en volts (V)."
+    },
+    {
+      "question": "Dans la loi d’Ohm, que mesure-t-on en ohms (Ω) ?",
+      "options": ["La résistance", "La tension", "L’intensité", "La puissance"],
+      "reponse": "La résistance",
+      "explication": "La résistance se mesure en ohms (Ω)."
+    },
+    {
+      "question": "Si U = 6 V et I = 2 A, quelle est la résistance R ?",
+      "options": ["3 Ω", "12 Ω", "4 Ω", "0,33 Ω"],
+      "reponse": "3 Ω",
+      "explication": "R = U / I = 6 / 2 = 3 ohms."
+    },
+    {
+      "question": "Comment calcule-t-on l’intensité I dans la loi d’Ohm ?",
+      "options": ["I = U / R", "I = R × U", "I = U × R", "I = R / U"],
+      "reponse": "I = U / R",
+      "explication": "En isolant I dans la formule U = R × I, on obtient I = U / R."
+    },
+    {
+      "question": "Que se passe-t-il si la résistance augmente, pour une tension constante ?",
+      "options": ["L’intensité diminue", "La tension augmente", "L’intensité augmente", "La résistance diminue aussi"],
+      "reponse": "L’intensité diminue",
+      "explication": "I = U / R : si R augmente, I diminue."
+    },
+    {
+      "question": "Quel appareil utilise-t-on pour mesurer la résistance électrique ?",
+      "options": ["Un ohmmètre", "Un voltmètre", "Un ampèremètre", "Un thermomètre"],
+      "reponse": "Un ohmmètre",
+      "explication": "L’ohmmètre mesure la résistance en ohms."
+    },
+    {
+      "question": "Quel est l’effet d’un long fil métallique sur la résistance ?",
+      "options": ["La résistance augmente", "La résistance reste nulle", "La résistance diminue", "Il n’y a aucun effet"],
+      "reponse": "La résistance augmente",
+      "explication": "Plus un conducteur est long, plus sa résistance est grande."
+    },
+    {
+      "question": "Quel facteur n’influence pas la résistance d’un conducteur ?",
+      "options": ["La couleur du fil", "La longueur", "La section", "La nature du matériau"],
+      "reponse": "La couleur du fil",
+      "explication": "La résistance dépend de la longueur, la section et le matériau, pas de la couleur."
+    },
+    {
+      "question": "Un fil fin a-t-il une résistance plus grande qu’un fil épais ?",
+      "options": ["Oui", "Non", "Ils sont identiques", "Cela dépend du courant"],
+      "reponse": "Oui",
+      "explication": "La résistance augmente quand la section du fil diminue."
+    },
+    {
+      "question": "Que se passe-t-il si on augmente la section d’un conducteur ?",
+      "options": ["La résistance diminue", "La résistance augmente", "La tension diminue", "L’intensité diminue"],
+      "reponse": "La résistance diminue",
+      "explication": "Une plus grande section permet le passage plus facile du courant."
+    },
+    {
+      "question": "Que représente le symbole Ω ?",
+      "options": ["L’unité de résistance", "La tension", "Le courant", "La puissance"],
+      "reponse": "L’unité de résistance",
+      "explication": "Ω (ohm) est l’unité de mesure de la résistance électrique."
+    },
+    {
+      "question": "Si un conducteur est plus chaud, sa résistance :",
+      "options": ["Augmente", "Diminue", "Ne change pas", "Devient nulle"],
+      "reponse": "Augmente",
+      "explication": "La température influence la résistance : elle augmente avec la chaleur."
+    },
+    {
+      "question": "Quelle est l’unité de la tension U dans la loi d’Ohm ?",
+      "options": ["Volt (V)", "Ohm (Ω)", "Ampère (A)", "Watt (W)"],
+      "reponse": "Volt (V)",
+      "explication": "U est la tension électrique, mesurée en volts."
+    },
+    {
+      "question": "Quelle est la relation correcte entre U, R et I ?",
+      "options": ["U = R × I", "U = R / I", "U = I / R", "U = R + I"],
+      "reponse": "U = R × I",
+      "explication": "C’est la loi d’Ohm."
+    },
+    {
+      "question": "Une résistance permet :",
+      "options": ["De limiter l’intensité du courant", "D’accélérer le courant", "De stocker l’électricité", "De transformer le courant en tension"],
+      "reponse": "De limiter l’intensité du courant",
+      "explication": "Les résistances limitent le débit de courant dans un circuit."
+    },
+    {
+      "question": "Un circuit contient une résistance de 10 Ω et une tension de 20 V. Quelle est l’intensité du courant ?",
+      "options": ["2 A", "0,5 A", "10 A", "200 A"],
+      "reponse": "2 A",
+      "explication": "I = U / R = 20 / 10 = 2 A."
+    },
+    {
+      "question": "Que se passe-t-il si R = 0 dans un circuit ?",
+      "options": ["Le courant devient très fort", "La tension devient nulle", "Le courant est interrompu", "La résistance devient infinie"],
+      "reponse": "Le courant devient très fort",
+      "explication": "Si R = 0, I = U / 0 → intensité infinie → court-circuit."
+    },
+    {
+      "question": "Quel matériau a une faible résistance électrique ?",
+      "options": ["Le cuivre", "Le bois", "Le plastique", "Le verre"],
+      "reponse": "Le cuivre",
+      "explication": "Le cuivre est un très bon conducteur, donc faible résistance."
+    },
+    {
+      "question": "Une résistance est de 4 Ω, l’intensité est de 3 A. Quelle est la tension ?",
+      "options": ["12 V", "1,33 V", "7 V", "4 V"],
+      "reponse": "12 V",
+      "explication": "U = R × I = 4 × 3 = 12 V."
+    },
+    {
+      "question": "Quelle grandeur est constante pour un conducteur ohmique ?",
+      "options": ["La résistance", "La tension", "L’intensité", "La température"],
+      "reponse": "La résistance",
+      "explication": "Un conducteur ohmique a une résistance constante si la température ne varie pas."
+    },
+    {
+      "question": "Si l’on augmente la tension sur une résistance fixe, que devient l’intensité ?",
+      "options": ["Elle augmente", "Elle diminue", "Elle devient nulle", "Elle ne change pas"],
+      "reponse": "Elle augmente",
+      "explication": "I = U / R : si R est constant et U augmente, I augmente aussi."
+    },
+    {
+      "question": "Quel est le symbole d’une résistance dans un schéma électrique ?",
+      "options": ["Un rectangle", "Un cercle", "Un triangle", "Un carré"],
+      "reponse": "Un rectangle",
+      "explication": "Dans un schéma, une résistance est représentée par un rectangle."
+    },
+    {
+      "question": "Un circuit possède une résistance de 6 Ω et un courant de 2 A. Quelle est la tension appliquée ?",
+      "options": ["12 V", "3 V", "8 V", "1 V"],
+      "reponse": "12 V",
+      "explication": "U = R × I = 6 × 2 = 12 V."
+    },
+    {
+      "question": "Dans un circuit, plus la résistance est grande, plus :",
+      "options": ["Le courant diminue", "Le courant augmente", "La tension diminue", "Le courant devient nul"],
+      "reponse": "Le courant diminue",
+      "explication": "Selon I = U / R, si R augmente, I diminue."
+    },
+    {
+      "question": "Quel facteur fait augmenter la résistance d’un fil ?",
+      "options": ["Sa longueur", "Sa section", "Sa couleur", "Sa température ambiante"],
+      "reponse": "Sa longueur",
+      "explication": "Plus le fil est long, plus la résistance est élevée."
+    },
+    {
+      "question": "L’unité de mesure de l’intensité est :",
+      "options": ["Ampère (A)", "Volt (V)", "Ohm (Ω)", "Watt (W)"],
+      "reponse": "Ampère (A)",
+      "explication": "L’intensité du courant se mesure en ampères."
+    },
+    {
+      "question": "Dans la loi d’Ohm, si on connaît U et R, on peut calculer :",
+      "options": ["I", "P", "Ω", "V"],
+      "reponse": "I",
+      "explication": "I = U / R, d’où I est l’intensité qu’on peut déterminer."
+    },
+    {
+      "question": "Plus un matériau est conducteur, plus sa résistance est :",
+      "options": ["Faible", "Forte", "Variable", "Infinie"],
+      "reponse": "Faible",
+      "explication": "Un bon conducteur a une faible résistance au passage du courant."
+    },
+    {
+      "question": "Une résistance de 5 Ω est parcourue par un courant de 1 A. Quelle est la tension ?",
+      "options": ["5 V", "10 V", "1 V", "0,2 V"],
+      "reponse": "5 V",
+      "explication": "U = R × I = 5 × 1 = 5 V."
+    },
+    {
+      "question": "Une lampe est alimentée par une tension de 12 V. Elle laisse passer un courant de 3 A. Quelle est sa résistance ?",
+      "options": ["4 Ω", "9 Ω", "36 Ω", "15 Ω"],
+      "reponse": "4 Ω",
+      "explication": "R = U / I = 12 / 3 = 4 Ω."
+    },
+    {
+      "question": "Un appareil électrique de 6 Ω est branché sur une tension de 24 V. Quelle est l’intensité du courant ?",
+      "options": ["4 A", "6 A", "18 A", "0,25 A"],
+      "reponse": "4 A",
+      "explication": "I = U / R = 24 / 6 = 4 A."
+    },
+    {
+      "question": "On mesure une intensité de 2 A dans une résistance de 8 Ω. Quelle tension est appliquée ?",
+      "options": ["16 V", "10 V", "6 V", "4 V"],
+      "reponse": "16 V",
+      "explication": "U = R × I = 8 × 2 = 16 V."
+    },
+    {
+      "question": "Quelle est la résistance d’un composant parcouru par un courant de 0,5 A sous une tension de 5 V ?",
+      "options": ["10 Ω", "2,5 Ω", "1 Ω", "0,1 Ω"],
+      "reponse": "10 Ω",
+      "explication": "R = U / I = 5 / 0,5 = 10 Ω."
+    },
+    {
+      "question": "Une résistance de 15 Ω laisse passer un courant de 2 A. Quelle tension faut-il ?",
+      "options": ["30 V", "17 V", "13 V", "20 V"],
+      "reponse": "30 V",
+      "explication": "U = R × I = 15 × 2 = 30 V."
+    },
+    {
+      "question": "Si on double la résistance R sans changer la tension U, que devient l’intensité I ?",
+      "options": ["Elle est divisée par 2", "Elle double", "Elle reste constante", "Elle devient nulle"],
+      "reponse": "Elle est divisée par 2",
+      "explication": "I = U / R : si R double, I est divisée par 2."
+    },
+    {
+      "question": "Un appareil est branché sur une tension de 18 V. Il consomme 3 A. Quelle est sa résistance ?",
+      "options": ["6 Ω", "15 Ω", "12 Ω", "5 Ω"],
+      "reponse": "6 Ω",
+      "explication": "R = U / I = 18 / 3 = 6 Ω."
+    },
+    {
+      "question": "Si l’intensité est de 0,2 A et la résistance de 100 Ω, quelle est la tension ?",
+      "options": ["20 V", "200 V", "2 V", "10 V"],
+      "reponse": "20 V",
+      "explication": "U = R × I = 100 × 0,2 = 20 V."
+    },
+    {
+      "question": "Une tension de 5 V est appliquée à une résistance de 1 kΩ (1000 Ω). Quelle est l’intensité ?",
+      "options": ["0,005 A", "5 A", "0,2 A", "1 A"],
+      "reponse": "0,005 A",
+      "explication": "I = U / R = 5 / 1000 = 0,005 A."
+    },
+    {
+      "question": "On mesure une tension de 9 V et une intensité de 3 A. Quelle est la résistance ?",
+      "options": ["3 Ω", "6 Ω", "12 Ω", "1,5 Ω"],
+      "reponse": "3 Ω",
+      "explication": "R = U / I = 9 / 3 = 3 Ω."
+    },
+    {
+      "question": "Une résistance de 12 Ω est parcourue par un courant de 0,5 A. Quelle tension lui est appliquée ?",
+      "options": ["6 V", "24 V", "18 V", "12 V"],
+      "reponse": "6 V",
+      "explication": "U = R × I = 12 × 0,5 = 6 V."
+    },
+    {
+      "question": "Un appareil fonctionne sous 220 V et consomme un courant de 2,2 A. Quelle est sa résistance ?",
+      "options": ["100 Ω", "110 Ω", "120 Ω", "90 Ω"],
+      "reponse": "100 Ω",
+      "explication": "R = U / I = 220 / 2,2 = 100 Ω."
+    },
+    {
+      "question": "Quelle est la résistance d’un composant traversé par 5 A sous 25 V ?",
+      "options": ["5 Ω", "0,2 Ω", "125 Ω", "10 Ω"],
+      "reponse": "5 Ω",
+      "explication": "R = U / I = 25 / 5 = 5 Ω."
+    },
+    {
+      "question": "Un conducteur a une résistance de 10 Ω. Quelle intensité circule si la tension est 40 V ?",
+      "options": ["4 A", "10 A", "0,25 A", "5 A"],
+      "reponse": "4 A",
+      "explication": "I = U / R = 40 / 10 = 4 A."
+    },
+    {
+      "question": "Un ampèremètre mesure 1 A dans un conducteur. La tension est de 10 V. Quelle est la résistance ?",
+      "options": ["10 Ω", "0,1 Ω", "5 Ω", "20 Ω"],
+      "reponse": "10 Ω",
+      "explication": "R = U / I = 10 / 1 = 10 Ω."
+    },
+    {
+      "question": "Un fil de cuivre a une résistance de 0,5 Ω. Il est parcouru par un courant de 4 A. Quelle est la tension ?",
+      "options": ["2 V", "8 V", "0,125 V", "1 V"],
+      "reponse": "2 V",
+      "explication": "U = R × I = 0,5 × 4 = 2 V."
+    },
+    {
+      "question": "Quelle est la valeur de la résistance pour un courant de 2 A sous 10 V ?",
+      "options": ["5 Ω", "8 Ω", "12 Ω", "20 Ω"],
+      "reponse": "5 Ω",
+      "explication": "R = U / I = 10 / 2 = 5 Ω."
+    },
+    {
+      "question": "Une tension de 30 V est appliquée à une résistance de 15 Ω. Quelle est l’intensité ?",
+      "options": ["2 A", "3 A", "4 A", "1 A"],
+      "reponse": "2 A",
+      "explication": "I = U / R = 30 / 15 = 2 A."
+    },
+    {
+      "question": "Si U = 18 V et R = 6 Ω, quelle est la valeur de I ?",
+      "options": ["3 A", "12 A", "6 A", "0,3 A"],
+      "reponse": "3 A",
+      "explication": "I = U / R = 18 / 6 = 3 A."
+    },
+    {
+      "question": "Un générateur fournit 50 V. Une résistance de 25 Ω y est branchée. Quelle est l’intensité du courant ?",
+      "options": ["2 A", "5 A", "25 A", "0,5 A"],
+      "reponse": "2 A",
+      "explication": "I = U / R = 50 / 25 = 2 A."
+    }
+  ]
+}

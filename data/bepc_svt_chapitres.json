@@ -29,16 +29,12 @@
       "titre": "Hygiène sexuelle"
     },
     {
-      "id": "ecosystemes",
-      "titre": "Écosystèmes"
+      "id": "etre_humain",
+      "titre": "Être humain"
     },
     {
-      "id": "reproduction_sexuee_asexuee",
-      "titre": "Reproduction sexuée et asexuée"
-    },
-    {
-      "id": "selection_naturelle",
-      "titre": "Sélection naturelle"
+      "id": "hygiene",
+      "titre": "Hygiene"
     }
   ]
 }

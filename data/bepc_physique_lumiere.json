@@ -1,0 +1,892 @@
+{
+  "qcm": [
+    {
+      "question": "Comment se propage la lumière dans un milieu homogène ?",
+      "options": ["En ligne droite", "En zigzag", "En spirale", "En cercle"],
+      "reponse": "En ligne droite",
+      "explication": "La lumière se propage en ligne droite dans un milieu homogène."
+    },
+    {
+      "question": "Qu’est-ce qu’une ombre ?",
+      "options": ["Une zone où la lumière est bloquée", "Une zone éclairée", "Un reflet lumineux", "Un arc lumineux"],
+      "reponse": "Une zone où la lumière est bloquée",
+      "explication": "L’ombre est la zone privée de lumière derrière un obstacle."
+    },
+    {
+      "question": "Qu’est-ce qu’une pénombre ?",
+      "options": ["Une zone partiellement éclairée", "Une zone totalement sombre", "Une zone très lumineuse", "Une zone sans obstacle"],
+      "reponse": "Une zone partiellement éclairée",
+      "explication": "La pénombre est une zone où la lumière est partiellement bloquée."
+    },
+    {
+      "question": "Que fait un obstacle opaque sur un faisceau lumineux ?",
+      "options": ["Il bloque la lumière et crée une ombre", "Il réfléchit toute la lumière", "Il amplifie la lumière", "Il diffuse la lumière"],
+      "reponse": "Il bloque la lumière et crée une ombre",
+      "explication": "Un obstacle opaque empêche la lumière de passer et forme une ombre."
+    },
+    {
+      "question": "Comment appelle-t-on la source qui émet de la lumière ?",
+      "options": ["Source lumineuse", "Source sonore", "Source thermique", "Source électrique"],
+      "reponse": "Source lumineuse",
+      "explication": "Une source lumineuse émet de la lumière."
+    },
+    {
+      "question": "Dans quel milieu la lumière se propage-t-elle en ligne droite ?",
+      "options": ["Milieu homogène", "Milieu hétérogène", "Milieu vide", "Milieu non transparent"],
+      "reponse": "Milieu homogène",
+      "explication": "Dans un milieu homogène, la lumière suit une trajectoire rectiligne."
+    },
+    {
+      "question": "L’ombre portée est :",
+      "options": ["L’ombre projetée sur un écran", "L’ombre sur l’objet lui-même", "Une lumière réfléchie", "Une pénombre"],
+      "reponse": "L’ombre projetée sur un écran",
+      "explication": "L’ombre portée est l’ombre projetée par un objet sur une surface."
+    },
+    {
+      "question": "L’ombre propre est :",
+      "options": ["L’ombre sur l’objet lui-même", "L’ombre sur un écran", "Une zone lumineuse", "Une réflexion de la lumière"],
+      "reponse": "L’ombre sur l’objet lui-même",
+      "explication": "L’ombre propre est la partie de l’objet non éclairée par sa source."
+    },
+    {
+      "question": "Qu’est-ce qui provoque la formation de la pénombre ?",
+      "options": ["La taille finie de la source lumineuse", "La distance à la source", "La couleur de l’objet", "La vitesse de la lumière"],
+      "reponse": "La taille finie de la source lumineuse",
+      "explication": "Une source de lumière non ponctuelle crée une zone de pénombre."
+    },
+    {
+      "question": "Une source ponctuelle est :",
+      "options": ["Une source très petite qui émet la lumière en un point", "Une source très grande", "Une source sans lumière", "Une source diffuse"],
+      "reponse": "Une source très petite qui émet la lumière en un point",
+      "explication": "Une source ponctuelle est considérée comme un point lumineux."
+    },
+    {
+      "question": "Si la lumière se propage en ligne droite, que se passe-t-il lorsqu’elle rencontre un obstacle opaque ?",
+      "options": ["Elle est arrêtée et forme une ombre", "Elle traverse l’obstacle", "Elle accélère", "Elle change de couleur"],
+      "reponse": "Elle est arrêtée et forme une ombre",
+      "explication": "La lumière ne traverse pas un obstacle opaque et forme une ombre derrière."
+    },
+    {
+      "question": "Dans un milieu transparent, la lumière :",
+      "options": ["Se propage en ligne droite", "Est complètement absorbée", "Est arrêtée", "Est réfléchie intégralement"],
+      "reponse": "Se propage en ligne droite",
+      "explication": "La lumière se propage en ligne droite dans un milieu transparent et homogène."
+    },
+    {
+      "question": "Qu’est-ce qui délimite la zone d’ombre d’un objet ?",
+      "options": ["Les rayons lumineux stoppés par l’objet", "La température", "La couleur", "La vitesse de la lumière"],
+      "reponse": "Les rayons lumineux stoppés par l’objet",
+      "explication": "Les rayons lumineux sont bloqués, formant la zone d’ombre."
+    },
+    {
+      "question": "Quelle est la différence entre ombre et pénombre ?",
+      "options": ["L’ombre est totalement sombre, la pénombre est partiellement éclairée", "Les deux sont identiques", "La pénombre est plus sombre que l’ombre", "L’ombre est lumineuse"],
+      "reponse": "L’ombre est totalement sombre, la pénombre est partiellement éclairée",
+      "explication": "La pénombre reçoit une partie de la lumière, contrairement à l’ombre."
+    },
+    {
+      "question": "La propagation rectiligne de la lumière permet de :",
+      "options": ["Former des ombres nettes", "Créer des sons", "Modifier la température", "Créer des mouvements"],
+      "reponse": "Former des ombres nettes",
+      "explication": "La lumière se déplaçant en ligne droite permet la formation d’ombres définies."
+    },
+    {
+      "question": "La lumière ne peut pas passer à travers :",
+      "options": ["Un objet opaque", "Un objet transparent", "Un milieu vide", "Un miroir"],
+      "reponse": "Un objet opaque",
+      "explication": "Les objets opaques bloquent totalement la lumière."
+    },
+    {
+      "question": "Qu’est-ce qu’une source lumineuse ponctuelle produit ?",
+      "options": ["Des ombres nettes", "Des ombres floues", "Pas d’ombres", "Une réflexion"],
+      "reponse": "Des ombres nettes",
+      "explication": "Une source ponctuelle donne des ombres bien définies."
+    },
+    {
+      "question": "Que se passe-t-il lorsque la taille de la source lumineuse augmente ?",
+      "options": ["La pénombre devient plus grande", "L’ombre devient plus nette", "La lumière est absorbée", "La lumière change de direction"],
+      "reponse": "La pénombre devient plus grande",
+      "explication": "Une source plus grande crée une zone plus large de pénombre."
+    },
+    {
+      "question": "Pour avoir une ombre nette, il faut :",
+      "options": ["Une source ponctuelle", "Une source diffuse", "Un obstacle transparent", "Une source très éloignée"],
+      "reponse": "Une source ponctuelle",
+      "explication": "Une source ponctuelle crée des ombres nettes."
+    },
+    {
+      "question": "Dans un milieu homogène, la lumière suit :",
+      "options": ["Une trajectoire rectiligne", "Une trajectoire sinusoïdale", "Une trajectoire aléatoire", "Une trajectoire circulaire"],
+      "reponse": "Une trajectoire rectiligne",
+      "explication": "La lumière se déplace en ligne droite dans un milieu homogène."
+    },
+    {
+      "question": "L’ombre d’un objet s’allonge quand :",
+      "options": ["La source lumineuse est basse", "La source est haute", "L’objet est transparent", "La lumière est intense"],
+      "reponse": "La source lumineuse est basse",
+      "explication": "Une source lumineuse basse allonge les ombres."
+    },
+    {
+      "question": "Une zone de pénombre est caractérisée par :",
+      "options": ["Une lumière partielle", "Une absence totale de lumière", "Une lumière intense", "Une réflexion totale"],
+      "reponse": "Une lumière partielle",
+      "explication": "La pénombre reçoit une partie de la lumière."
+    },
+    {
+      "question": "Que se passe-t-il si un objet translucide est placé devant une source lumineuse ?",
+      "options": ["Il laisse passer une partie de la lumière", "Il bloque toute la lumière", "Il réfléchit toute la lumière", "Il absorbe toute la lumière"],
+      "reponse": "Il laisse passer une partie de la lumière",
+      "explication": "Un objet translucide est semi-transparent."
+    },
+    {
+      "question": "Une source lumineuse étendue produit :",
+      "options": ["Une ombre avec pénombre", "Une ombre nette", "Pas d’ombre", "Une lumière monochromatique"],
+      "reponse": "Une ombre avec pénombre",
+      "explication": "Une source étendue crée une zone de pénombre."
+    },
+    {
+      "question": "Qu’est-ce qui explique que la lumière forme une ombre ?",
+      "options": ["La propagation rectiligne de la lumière", "La vitesse de la lumière", "La couleur de la lumière", "La réflexion"],
+      "reponse": "La propagation rectiligne de la lumière",
+      "explication": "La lumière ne peut pas contourner un obstacle opaque."
+    },
+    {
+      "question": "Si un écran est placé derrière un obstacle éclairé par une source ponctuelle, l’ombre sur l’écran sera :",
+      "options": ["Nette", "Floue", "Absente", "Multicolore"],
+      "reponse": "Nette",
+      "explication": "Une source ponctuelle donne une ombre bien définie."
+    },
+    {
+      "question": "La lumière traverse librement un milieu :",
+      "options": ["Transparent", "Opaque", "Translucide", "Métallique"],
+      "reponse": "Transparent",
+      "explication": "Un milieu transparent laisse passer la lumière sans la bloquer."
+    },
+    {
+      "question": "Quel phénomène crée la pénombre ?",
+      "options": ["La lumière partiellement bloquée", "La réflexion", "La diffraction", "L’absorption"],
+      "reponse": "La lumière partiellement bloquée",
+      "explication": "La pénombre est causée par la lumière partiellement arrêtée."
+    },
+    {
+      "question": "Comment appelle-t-on la zone totalement privée de lumière ?",
+      "options": ["Ombre", "Pénombre", "Reflet", "Réfraction"],
+      "reponse": "Ombre",
+      "explication": "L’ombre est la zone d’absence totale de lumière."
+    },
+    {
+      "question": "Un objet transparent placé devant une source lumineuse crée :",
+      "options": ["Pas d’ombre", "Une ombre nette", "Une pénombre", "Une réflexion"],
+      "reponse": "Pas d’ombre",
+      "explication": "Un objet transparent laisse passer la lumière."
+    },
+    {
+      "question": "Une source ponctuelle éclaire un obstacle opaque. Que voit-on derrière l’obstacle ?",
+      "options": ["Une ombre nette", "Une pénombre", "Une zone éclairée", "Un reflet"],
+      "reponse": "Une ombre nette",
+      "explication": "La source ponctuelle crée une ombre bien définie derrière l’obstacle."
+    },
+    {
+      "question": "Une source étendue éclaire un objet. Quel type d’ombre se forme ?",
+      "options": ["Ombre avec pénombre", "Ombre nette", "Pas d’ombre", "Réflexion"],
+      "reponse": "Ombre avec pénombre",
+      "explication": "La source étendue produit une zone d’ombre partielle appelée pénombre."
+    },
+    {
+      "question": "Pourquoi la lumière se propage-t-elle en ligne droite dans un milieu homogène ?",
+      "options": ["Parce que le milieu est uniforme", "Parce que la lumière est une onde", "Parce que la lumière est réfléchie", "Parce que la lumière est absorbée"],
+      "reponse": "Parce que le milieu est uniforme",
+      "explication": "Un milieu homogène ne modifie pas la trajectoire rectiligne de la lumière."
+    },
+    {
+      "question": "Comment varie la taille de l’ombre si on rapproche la source lumineuse de l’objet ?",
+      "options": ["L’ombre grandit", "L’ombre rétrécit", "L’ombre disparaît", "L’ombre reste la même"],
+      "reponse": "L’ombre grandit",
+      "explication": "Plus la source est proche, plus l’ombre projetée est grande."
+    },
+    {
+      "question": "Qu’est-ce qui provoque une pénombre derrière un obstacle ?",
+      "options": ["La taille finie de la source", "La vitesse de la lumière", "La couleur de l’objet", "La forme de l’objet"],
+      "reponse": "La taille finie de la source",
+      "explication": "Une source non ponctuelle éclaire partiellement certaines zones, créant la pénombre."
+    },
+    {
+      "question": "Que se passe-t-il quand la lumière rencontre un objet transparent ?",
+      "options": ["Elle traverse l’objet", "Elle est bloquée", "Elle est totalement réfléchie", "Elle est absorbée"],
+      "reponse": "Elle traverse l’objet",
+      "explication": "Un objet transparent laisse passer la lumière."
+    },
+    {
+      "question": "Si une ombre est très nette, cela signifie que :",
+      "options": ["La source est ponctuelle", "La source est étendue", "L’objet est transparent", "L’objet est translucide"],
+      "reponse": "La source est ponctuelle",
+      "explication": "Une source ponctuelle produit une ombre nette."
+    },
+    {
+      "question": "Comment appelle-t-on la zone non éclairée sur l’objet lui-même ?",
+      "options": ["Ombre propre", "Ombre portée", "Pénombre", "Reflet"],
+      "reponse": "Ombre propre",
+      "explication": "L’ombre propre est la partie de l’objet non éclairée."
+    },
+    {
+      "question": "Une source lumineuse ponctuelle est située loin d’un objet. L’ombre projetée sera :",
+      "options": ["Nette et petite", "Floue et grande", "Inexistante", "Floue et petite"],
+      "reponse": "Nette et petite",
+      "explication": "Une source ponctuelle éloignée forme une ombre nette et petite."
+    },
+    {
+      "question": "Un objet opaque est placé entre une source lumineuse et un écran. Que se passe-t-il sur l’écran ?",
+      "options": ["Une ombre apparaît", "L’écran s’éclaire", "La lumière change de couleur", "Une réflexion se produit"],
+      "reponse": "Une ombre apparaît",
+      "explication": "L’objet bloque la lumière, créant une ombre sur l’écran."
+    },
+    {
+      "question": "Quelle est la principale cause de la formation d’ombre et de pénombre ?",
+      "options": ["La propagation rectiligne de la lumière", "La réflexion de la lumière", "La diffraction", "La réfraction"],
+      "reponse": "La propagation rectiligne de la lumière",
+      "explication": "La lumière se déplaçant en ligne droite est arrêtée par les obstacles, formant ombre et pénombre."
+    },
+    {
+      "question": "Lorsqu’une source lumineuse est très éloignée, les ombres sont :",
+      "options": ["Plus nettes", "Plus floues", "Plus grandes", "Plus petites"],
+      "reponse": "Plus nettes",
+      "explication": "Une source éloignée agit presque comme une source ponctuelle, créant des ombres nettes."
+    },
+    {
+      "question": "Une source lumineuse étendue produit une ombre avec :",
+      "options": ["Une pénombre", "Une ombre nette", "Pas d’ombre", "Une réflexion totale"],
+      "reponse": "Une pénombre",
+      "explication": "Une source étendue produit des ombres partiellement éclairées (pénombre)."
+    },
+    {
+      "question": "Quel phénomène explique que la lumière ne contourne pas un obstacle opaque ?",
+      "options": ["La propagation rectiligne", "La diffraction", "La réflexion", "La réfraction"],
+      "reponse": "La propagation rectiligne",
+      "explication": "La lumière se propage en ligne droite et ne contourne pas les obstacles opaques."
+    },
+    {
+      "question": "Si la source lumineuse est plus proche de l’objet, l’ombre projetée sur un écran :",
+      "options": ["Augmente de taille", "Diminue de taille", "Ne change pas", "Disparaît"],
+      "reponse": "Augmente de taille",
+      "explication": "La taille de l’ombre augmente quand la source se rapproche."
+    },
+    {
+      "question": "Qu’est-ce qui détermine la netteté d’une ombre ?",
+      "options": ["La taille de la source lumineuse", "La couleur de la lumière", "La vitesse de la lumière", "La température de la source"],
+      "reponse": "La taille de la source lumineuse",
+      "explication": "Plus la source est petite, plus l’ombre est nette."
+    },
+    {
+      "question": "La lumière ne peut pas traverser un objet :",
+      "options": ["Opaque", "Transparent", "Translucide", "Transparent et translucide"],
+      "reponse": "Opaque",
+      "explication": "Les objets opaques bloquent complètement la lumière."
+    },
+    {
+      "question": "Qu’est-ce qu’un écran d’ombre ?",
+      "options": ["Une surface où se forme l’ombre", "Un objet transparent", "Une source lumineuse", "Une zone éclairée"],
+      "reponse": "Une surface où se forme l’ombre",
+      "explication": "L’écran d’ombre est la surface sur laquelle l’ombre est projetée."
+    },
+    {
+      "question": "La lumière se propage en ligne droite dans un milieu :",
+      "options": ["Homogène", "Hétérogène", "Opaque", "Transparent seulement"],
+      "reponse": "Homogène",
+      "explication": "Dans un milieu homogène, la lumière suit une trajectoire rectiligne."
+    },
+    {
+      "question": "Si un objet est translucide, il :",
+      "options": ["Laisse passer une partie de la lumière", "Bloque toute la lumière", "Réfléchit toute la lumière", "Absorbe toute la lumière"],
+      "reponse": "Laisse passer une partie de la lumière",
+      "explication": "Un objet translucide est semi-transparent."
+    },
+    {
+      "question": "Qu’est-ce que la réflexion de la lumière ?",
+      "options": ["Retour de la lumière sur une surface", "Absorption de la lumière", "Diffusion de la lumière", "Réfraction de la lumière"],
+      "reponse": "Retour de la lumière sur une surface",
+      "explication": "La réflexion est le phénomène par lequel la lumière rebondit sur une surface."
+    },
+    {
+      "question": "Quelle est la loi fondamentale de la réflexion ?",
+      "options": ["L’angle d’incidence est égal à l’angle de réflexion", "L’angle d’incidence est nul", "L’angle de réflexion est toujours 90°", "La lumière est absorbée"],
+      "reponse": "L’angle d’incidence est égal à l’angle de réflexion",
+      "explication": "La loi de la réflexion stipule que l’angle d’incidence est égal à l’angle de réflexion."
+    },
+    {
+      "question": "L’angle d’incidence est mesuré par rapport à :",
+      "options": ["La normale au miroir", "La surface du miroir", "La source lumineuse", "Le rayon réfléchi"],
+      "reponse": "La normale au miroir",
+      "explication": "L’angle d’incidence est l’angle entre le rayon incident et la normale."
+    },
+    {
+      "question": "Qu’est-ce qu’un miroir plan ?",
+      "options": ["Une surface plane qui réfléchit la lumière", "Une surface courbe", "Une surface opaque", "Une surface translucide"],
+      "reponse": "Une surface plane qui réfléchit la lumière",
+      "explication": "Un miroir plan est une surface plane qui réfléchit la lumière selon les lois de la réflexion."
+    },
+    {
+      "question": "Lors d’une expérience avec un miroir plan, si l’angle d’incidence est de 30°, l’angle de réflexion est :",
+      "options": ["30°", "60°", "90°", "0°"],
+      "reponse": "30°",
+      "explication": "Selon la loi de la réflexion, les angles d’incidence et de réflexion sont égaux."
+    },
+    {
+      "question": "Qu’est-ce que la normale dans le contexte de la réflexion ?",
+      "options": ["Une ligne perpendiculaire au miroir", "Le rayon lumineux incident", "Le rayon réfléchi", "L’axe du miroir"],
+      "reponse": "Une ligne perpendiculaire au miroir",
+      "explication": "La normale est une droite perpendiculaire à la surface réfléchissante au point d’incidence."
+    },
+    {
+      "question": "Le rayon réfléchi est :",
+      "options": ["Le rayon de lumière qui rebondit sur la surface", "Le rayon qui arrive sur la surface", "Un rayon absorbé", "Un rayon diffusé"],
+      "reponse": "Le rayon de lumière qui rebondit sur la surface",
+      "explication": "Le rayon réfléchi est celui qui repart après avoir touché la surface."
+    },
+    {
+      "question": "Un faisceau lumineux frappe un miroir plan avec un angle d’incidence de 45°. Quel est l’angle de réflexion ?",
+      "options": ["45°", "90°", "0°", "30°"],
+      "reponse": "45°",
+      "explication": "Angle d’incidence = angle de réflexion selon la loi de la réflexion."
+    },
+    {
+      "question": "En plaçant un objet devant un miroir plan, l’image formée est :",
+      "options": ["Droite et virtuelle", "Renversée et réelle", "Droite et réelle", "Inversée et virtuelle"],
+      "reponse": "Droite et virtuelle",
+      "explication": "L’image dans un miroir plan est droite, de même taille, et virtuelle."
+    },
+    {
+      "question": "Comment appelle-t-on le point où le rayon incident touche le miroir ?",
+      "options": ["Point d’incidence", "Point réfléchi", "Point lumineux", "Point normal"],
+      "reponse": "Point d’incidence",
+      "explication": "Le point d’incidence est le point de contact du rayon incident avec la surface."
+    },
+    {
+      "question": "Si on augmente l’angle d’incidence, que se passe-t-il à l’angle de réflexion ?",
+      "options": ["Il augmente de la même valeur", "Il diminue", "Il reste constant", "Il devient nul"],
+      "reponse": "Il augmente de la même valeur",
+      "explication": "L’angle de réflexion suit l’angle d’incidence."
+    },
+    {
+      "question": "Quelle est la nature de l’image formée par un miroir plan ?",
+      "options": ["Virtuelle et de même taille", "Réelle et inversée", "Réelle et plus grande", "Virtuelle et inversée"],
+      "reponse": "Virtuelle et de même taille",
+      "explication": "Un miroir plan forme une image virtuelle, droite, et de même taille que l’objet."
+    },
+    {
+      "question": "Dans une expérience, le rayon incident forme un angle de 60° avec la normale. L’angle de réflexion est :",
+      "options": ["60°", "30°", "90°", "0°"],
+      "reponse": "60°",
+      "explication": "L’angle de réflexion est égal à l’angle d’incidence."
+    },
+    {
+      "question": "Le miroir plan réfléchit la lumière :",
+      "options": ["Selon la loi de la réflexion", "Au hasard", "En l’absorbant", "En la réfractant"],
+      "reponse": "Selon la loi de la réflexion",
+      "explication": "Le miroir suit la loi d’égalité des angles d’incidence et de réflexion."
+    },
+    {
+      "question": "Quelle expérience permet de vérifier la loi de réflexion ?",
+      "options": ["Mesurer angles d’incidence et réflexion avec un miroir", "Faire passer la lumière à travers un prisme", "Observer la diffraction", "Mesurer la vitesse de la lumière"],
+      "reponse": "Mesurer angles d’incidence et réflexion avec un miroir",
+      "explication": "On utilise un miroir plan et un faisceau lumineux pour vérifier cette loi."
+    },
+    {
+      "question": "Un rayon lumineux arrive sur un miroir avec un angle d’incidence nul. Quel est l’angle de réflexion ?",
+      "options": ["0°", "90°", "45°", "Inconnu"],
+      "reponse": "0°",
+      "explication": "Si le rayon arrive perpendiculairement, il est réfléchi sur lui-même."
+    },
+    {
+      "question": "L’angle entre le rayon réfléchi et la surface du miroir est :",
+      "options": ["Complémentaire de l’angle de réflexion", "Égal à l’angle d’incidence", "Nul", "Toujours 90°"],
+      "reponse": "Complémentaire de l’angle de réflexion",
+      "explication": "La somme de l’angle entre le rayon réfléchi et la normale et celui avec la surface vaut 90°."
+    },
+    {
+      "question": "L’image dans un miroir plan est située :",
+      "options": ["À la même distance que l’objet derrière le miroir", "Sur le miroir", "Devant le miroir", "Nulle part"],
+      "reponse": "À la même distance que l’objet derrière le miroir",
+      "explication": "L’image virtuelle est symétrique par rapport au plan du miroir."
+    },
+    {
+      "question": "Quelle est la direction du rayon réfléchi par rapport au miroir ?",
+      "options": ["Il est dans le même plan que le rayon incident", "Il est perpendiculaire", "Il est aléatoire", "Il est parallèle à la source"],
+      "reponse": "Il est dans le même plan que le rayon incident",
+      "explication": "Les rayons incident et réfléchi sont dans le même plan avec la normale."
+    },
+    {
+      "question": "Quel outil est utilisé pour mesurer les angles d’incidence et de réflexion en laboratoire ?",
+      "options": ["Un rapporteur", "Une règle", "Un compas", "Un thermomètre"],
+      "reponse": "Un rapporteur",
+      "explication": "Le rapporteur permet de mesurer précisément les angles en degrés."
+    },
+    {
+      "question": "Lors d’une réflexion sur un miroir plan, la lumière :",
+      "options": ["Change de direction sans perdre d’énergie", "Est absorbée totalement", "Est transformée en chaleur", "Est dispersée"],
+      "reponse": "Change de direction sans perdre d’énergie",
+      "explication": "La réflexion sur un miroir plan est un changement de direction de la lumière."
+    },
+    {
+      "question": "L’angle d’incidence est mesuré entre :",
+      "options": ["Le rayon incident et la normale", "Le rayon réfléchi et la normale", "Le miroir et le rayon réfléchi", "Le miroir et la normale"],
+      "reponse": "Le rayon incident et la normale",
+      "explication": "C’est la définition de l’angle d’incidence."
+    },
+    {
+      "question": "Quelle est la différence entre réflexion spéculaire et réflexion diffuse ?",
+      "options": ["Réflexion spéculaire produit une image nette, réflexion diffuse ne la produit pas", "Les deux sont identiques", "Réflexion diffuse produit une image nette", "Réflexion spéculaire absorbe la lumière"],
+      "reponse": "Réflexion spéculaire produit une image nette, réflexion diffuse ne la produit pas",
+      "explication": "La réflexion spéculaire se produit sur des surfaces lisses comme les miroirs."
+    },
+    {
+      "question": "Si le rayon incident fait un angle de 70° avec la normale, l’angle réfléchi est :",
+      "options": ["70°", "20°", "90°", "0°"],
+      "reponse": "70°",
+      "explication": "Angles d’incidence et de réflexion sont égaux."
+    },
+    {
+      "question": "Un miroir plan reflète la lumière en suivant :",
+      "options": ["La loi de réflexion", "La loi de réfraction", "La loi d’absorption", "La loi de diffraction"],
+      "reponse": "La loi de réflexion",
+      "explication": "La réflexion est gouvernée par cette loi."
+    },
+    {
+      "question": "Le rayon réfléchi est situé dans :",
+      "options": ["Le même plan que le rayon incident et la normale", "Un plan différent", "La direction opposée", "Une trajectoire aléatoire"],
+      "reponse": "Le même plan que le rayon incident et la normale",
+      "explication": "Le rayon réfléchi reste dans le plan d’incidence."
+    },
+    {
+      "question": "Pourquoi voit-on notre image dans un miroir plan ?",
+      "options": ["Parce que la lumière est réfléchie symétriquement", "Parce que la lumière est absorbée", "Parce que la lumière est réfractée", "Parce que le miroir est transparent"],
+      "reponse": "Parce que la lumière est réfléchie symétriquement",
+      "explication": "La réflexion selon la loi d’égalité des angles crée une image symétrique."
+    },
+    {
+      "question": "Lors d’une expérience, on mesure un angle d’incidence de 25°. Quel est l’angle de réflexion ?",
+      "options": ["25°", "65°", "90°", "0°"],
+      "reponse": "25°",
+      "explication": "L’angle de réflexion est égal à l’angle d’incidence."
+    },
+    {
+      "question": "Une surface lisse produit une réflexion :",
+      "options": ["Spéculaire", "Diffuse", "Absorbante", "Réfractive"],
+      "reponse": "Spéculaire",
+      "explication": "La réflexion spéculaire se produit sur les surfaces lisses comme les miroirs."
+    },
+    {
+      "question": "Un rayon incident frappe un miroir plan avec un angle de 40°. Quel est l’angle du rayon réfléchi ?",
+      "options": ["40°", "50°", "90°", "0°"],
+      "reponse": "40°",
+      "explication": "Selon la loi de réflexion, l’angle de réflexion est égal à l’angle d’incidence."
+    },
+    {
+      "question": "Si le rayon incident est perpendiculaire au miroir, l’angle d’incidence est :",
+      "options": ["0°", "45°", "90°", "60°"],
+      "reponse": "0°",
+      "explication": "Le rayon incident est perpendiculaire quand l’angle d’incidence est nul."
+    },
+    {
+      "question": "Un miroir plan produit une image qui est :",
+      "options": ["Virtuelle et droite", "Réelle et inversée", "Réelle et droite", "Virtuelle et inversée"],
+      "reponse": "Virtuelle et droite",
+      "explication": "L’image dans un miroir plan est droite et virtuelle."
+    },
+    {
+      "question": "Le point où le rayon incident touche le miroir s’appelle :",
+      "options": ["Point d’incidence", "Point de réflexion", "Point focal", "Centre du miroir"],
+      "reponse": "Point d’incidence",
+      "explication": "Le point d’incidence est le point de contact du rayon sur la surface."
+    },
+    {
+      "question": "Quelle est la relation entre l’angle d’incidence (i) et l’angle de réflexion (r) ?",
+      "options": ["i = r", "i > r", "i < r", "i + r = 90°"],
+      "reponse": "i = r",
+      "explication": "Les angles d’incidence et de réflexion sont égaux selon la loi de réflexion."
+    },
+    {
+      "question": "Un rayon arrive sur un miroir avec un angle d’incidence de 70°. Quel est l’angle entre le rayon réfléchi et la normale ?",
+      "options": ["70°", "20°", "90°", "0°"],
+      "reponse": "70°",
+      "explication": "L’angle réfléchi est égal à l’angle d’incidence."
+    },
+    {
+      "question": "La normale au miroir est une droite :",
+      "options": ["Perpendiculaire à la surface", "Parallèle au rayon incident", "Parallèle au rayon réfléchi", "Incliné à 45°"],
+      "reponse": "Perpendiculaire à la surface",
+      "explication": "La normale est perpendiculaire au miroir au point d’incidence."
+    },
+    {
+      "question": "Si l’angle d’incidence est nul, le rayon réfléchi est :",
+      "options": ["Dans le même axe que le rayon incident", "Perpendiculaire au miroir", "Absorbé", "Réfracté"],
+      "reponse": "Dans le même axe que le rayon incident",
+      "explication": "Le rayon incident est réfléchi sur lui-même quand l’incidence est nulle."
+    },
+    {
+      "question": "Un miroir plan reflète la lumière en respectant :",
+      "options": ["La loi de réflexion", "La loi de réfraction", "La loi de diffraction", "La loi d’absorption"],
+      "reponse": "La loi de réflexion",
+      "explication": "La réflexion suit la loi d’égalité des angles d’incidence et de réflexion."
+    },
+    {
+      "question": "Quelle est la nature de l’image formée par un miroir plan ?",
+      "options": ["Virtuelle, droite et de même taille", "Réelle, inversée et agrandie", "Réelle, droite et plus petite", "Virtuelle, inversée et plus grande"],
+      "reponse": "Virtuelle, droite et de même taille",
+      "explication": "L’image est virtuelle, droite et identique en taille à l’objet."
+    },
+    {
+      "question": "Lors d’une expérience, on mesure un angle de réflexion de 35°. Quel est l’angle d’incidence ?",
+      "options": ["35°", "55°", "0°", "90°"],
+      "reponse": "35°",
+      "explication": "Les angles d’incidence et de réflexion sont égaux."
+    },
+    {
+      "question": "Le rayon réfléchi, la normale et le rayon incident sont dans :",
+      "options": ["Le même plan", "Des plans différents", "Des directions opposées", "Des plans perpendiculaires"],
+      "reponse": "Le même plan",
+      "explication": "Tous trois sont dans le même plan dit plan d’incidence."
+    },
+    {
+      "question": "Si un objet est placé devant un miroir plan, l’image sera située :",
+      "options": ["À la même distance que l’objet, derrière le miroir", "Sur la surface du miroir", "Devant le miroir", "Nulle part"],
+      "reponse": "À la même distance que l’objet, derrière le miroir",
+      "explication": "L’image virtuelle est symétrique de l’objet par rapport au miroir."
+    },
+    {
+      "question": "Quelle expérience simple permet de vérifier la loi de réflexion ?",
+      "options": ["Utiliser un miroir plan et mesurer les angles", "Faire passer la lumière à travers un prisme", "Observer un arc-en-ciel", "Mesurer la vitesse de la lumière"],
+      "reponse": "Utiliser un miroir plan et mesurer les angles",
+      "explication": "L’expérience consiste à mesurer angles d’incidence et réflexion."
+    },
+    {
+      "question": "Quand un rayon incident frappe un miroir plan, il est réfléchi :",
+      "options": ["Selon la loi de réflexion", "Selon la loi de réfraction", "Au hasard", "Sans changement de direction"],
+      "reponse": "Selon la loi de réflexion",
+      "explication": "La réflexion obéit à la loi d’égalité des angles."
+    },
+    {
+      "question": "L’angle entre le rayon réfléchi et la surface du miroir est égal à :",
+      "options": ["90° moins l’angle de réflexion", "L’angle d’incidence", "L’angle de réflexion", "90°"],
+      "reponse": "90° moins l’angle de réflexion",
+      "explication": "La normale est perpendiculaire à la surface, donc les angles sont complémentaires."
+    },
+    {
+      "question": "Quel instrument est utilisé pour mesurer les angles d’incidence et de réflexion ?",
+      "options": ["Un rapporteur", "Une règle", "Un compas", "Un chronomètre"],
+      "reponse": "Un rapporteur",
+      "explication": "Le rapporteur sert à mesurer des angles en degrés."
+    },
+    {
+      "question": "Une surface rugueuse provoque une réflexion :",
+      "options": ["Diffuse", "Spéculaire", "Absorbante", "Transparente"],
+      "reponse": "Diffuse",
+      "explication": "Les surfaces rugueuses dispersent la lumière dans plusieurs directions."
+    },
+    {
+      "question": "Une surface lisse, comme un miroir, provoque une réflexion :",
+      "options": ["Spéculaire", "Diffuse", "Absorbante", "Réfractive"],
+      "reponse": "Spéculaire",
+      "explication": "La réflexion spéculaire donne une image nette."
+    },
+    {
+      "question": "Pourquoi l’image dans un miroir plan paraît droite ?",
+      "options": ["Parce que la lumière est réfléchie symétriquement", "Parce que la lumière est réfractée", "Parce que le miroir est transparent", "Parce que la lumière est absorbée"],
+      "reponse": "Parce que la lumière est réfléchie symétriquement",
+      "explication": "La réflexion crée une image virtuelle droite, symétrique à l’objet."
+    },
+    {
+      "question": "Qu’est-ce que la réfraction de la lumière ?",
+      "options": ["Changement de direction de la lumière en passant d’un milieu à un autre", "Réflexion de la lumière sur une surface", "Absorption de la lumière", "Diffusion de la lumière"],
+      "reponse": "Changement de direction de la lumière en passant d’un milieu à un autre",
+      "explication": "La réfraction correspond au changement de trajectoire de la lumière lorsqu’elle traverse deux milieux différents."
+    },
+    {
+      "question": "Quand la lumière passe de l’air à l’eau, elle :",
+      "options": ["Se rapproche de la normale", "S’éloigne de la normale", "Ne change pas de direction", "Est absorbée"],
+      "reponse": "Se rapproche de la normale",
+      "explication": "La lumière ralentit en passant de l’air (milieu moins dense) à l’eau (milieu plus dense), ce qui la fait se rapprocher de la normale."
+    },
+    {
+      "question": "Quel phénomène explique la réfraction ?",
+      "options": ["La variation de vitesse de la lumière dans différents milieux", "La réflexion", "La diffraction", "L’absorption"],
+      "reponse": "La variation de vitesse de la lumière dans différents milieux",
+      "explication": "Le changement de vitesse entraîne la déviation de la lumière."
+    },
+    {
+      "question": "Qu’est-ce que la normale dans le contexte de la réfraction ?",
+      "options": ["Une droite perpendiculaire à la surface de séparation des milieux", "Le rayon lumineux incident", "Le rayon réfléchi", "Un axe de symétrie"],
+      "reponse": "Une droite perpendiculaire à la surface de séparation des milieux",
+      "explication": "La normale sert de référence pour mesurer les angles d’incidence et de réfraction."
+    },
+    {
+      "question": "Quel est le nom de la loi qui relie les angles d’incidence et de réfraction ?",
+      "options": ["Loi de Snell-Descartes", "Loi de réflexion", "Loi d’Ohm", "Loi de Newton"],
+      "reponse": "Loi de Snell-Descartes",
+      "explication": "Cette loi décrit la relation entre les angles et les indices des milieux."
+    },
+    {
+      "question": "Comment s’appelle le milieu dans lequel la lumière se déplace plus lentement ?",
+      "options": ["Milieu plus dense", "Milieu moins dense", "Milieu transparent", "Milieu opaque"],
+      "reponse": "Milieu plus dense",
+      "explication": "La lumière ralentit dans un milieu plus dense."
+    },
+    {
+      "question": "Quand la lumière passe d’un milieu plus dense à un milieu moins dense, elle :",
+      "options": ["S’éloigne de la normale", "Se rapproche de la normale", "Ne change pas de direction", "Est absorbée"],
+      "reponse": "S’éloigne de la normale",
+      "explication": "En passant à un milieu moins dense, la lumière accélère et s’éloigne de la normale."
+    },
+    {
+      "question": "Une lentille convergente fait :",
+      "options": ["Converger les rayons lumineux", "Diverger les rayons lumineux", "Absorber la lumière", "Réfléchir la lumière"],
+      "reponse": "Converger les rayons lumineux",
+      "explication": "Une lentille convergente rassemble les rayons vers un point focal."
+    },
+    {
+      "question": "Une lentille divergente fait :",
+      "options": ["Écarter les rayons lumineux", "Converger les rayons lumineux", "Absorber la lumière", "Réfléchir la lumière"],
+      "reponse": "Écarter les rayons lumineux",
+      "explication": "Une lentille divergente éloigne les rayons lumineux."
+    },
+    {
+      "question": "Quel rôle joue un prisme dans la réfraction ?",
+      "options": ["Il dévie la lumière et peut la disperser en couleurs", "Il absorbe la lumière", "Il réfléchit la lumière", "Il amplifie la lumière"],
+      "reponse": "Il dévie la lumière et peut la disperser en couleurs",
+      "explication": "Le prisme décompose la lumière blanche en spectre coloré par réfraction."
+    },
+    {
+      "question": "Lorsqu’un rayon lumineux pénètre dans un prisme, il subit :",
+      "options": ["Deux déviations par réfraction", "Une réflexion", "Une absorption", "Une diffraction"],
+      "reponse": "Deux déviations par réfraction",
+      "explication": "Le rayon est réfracté à l’entrée et à la sortie du prisme."
+    },
+    {
+      "question": "La vitesse de la lumière dans le vide est :",
+      "options": ["La plus élevée possible", "Moins élevée que dans l’eau", "Nulle", "Variable selon la couleur"],
+      "reponse": "La plus élevée possible",
+      "explication": "La lumière se déplace le plus rapidement dans le vide."
+    },
+    {
+      "question": "Quel est l’indice de réfraction ?",
+      "options": ["Le rapport entre la vitesse de la lumière dans le vide et dans le milieu", "La vitesse de la lumière", "L’angle de réfraction", "La longueur d’onde"],
+      "reponse": "Le rapport entre la vitesse de la lumière dans le vide et dans le milieu",
+      "explication": "L’indice caractérise la densité optique du milieu."
+    },
+    {
+      "question": "Dans un milieu plus dense, la lumière :",
+      "options": ["Ralentit", "Accélère", "Change de couleur", "Est absorbée"],
+      "reponse": "Ralentit",
+      "explication": "La vitesse de la lumière diminue dans un milieu plus dense."
+    },
+    {
+      "question": "La réfraction est responsable de :",
+      "options": ["La déviation des rayons lumineux", "La réflexion", "L’absorption", "La diffraction"],
+      "reponse": "La déviation des rayons lumineux",
+      "explication": "La réfraction provoque un changement de direction."
+    },
+    {
+      "question": "Un rayon lumineux entre dans l’eau avec un angle d’incidence de 60°. Quel phénomène se produit ?",
+      "options": ["Réfraction vers la normale", "Réflexion totale", "Diffusion", "Absorption"],
+      "reponse": "Réfraction vers la normale",
+      "explication": "La lumière se rapproche de la normale en entrant dans un milieu plus dense."
+    },
+    {
+      "question": "Qu’est-ce qu’une lentille ?",
+      "options": ["Un morceau de matériau transparent qui dévie la lumière", "Un miroir", "Une source lumineuse", "Un objet opaque"],
+      "reponse": "Un morceau de matériau transparent qui dévie la lumière",
+      "explication": "Les lentilles réfractent la lumière pour former une image."
+    },
+    {
+      "question": "Le point où convergent les rayons lumineux après une lentille convergente est appelé :",
+      "options": ["Le foyer", "Le centre optique", "La normale", "Le point d’incidence"],
+      "reponse": "Le foyer",
+      "explication": "Le foyer est le point de convergence des rayons parallèles."
+    },
+    {
+      "question": "Quelle est la différence entre un prisme et une lentille ?",
+      "options": ["Le prisme dévie la lumière, la lentille la focalise", "Le prisme absorbe la lumière, la lentille la réfléchit", "Le prisme est opaque, la lentille transparente", "Le prisme est un miroir, la lentille un filtre"],
+      "reponse": "Le prisme dévie la lumière, la lentille la focalise",
+      "explication": "Le prisme dévie et disperse, la lentille converge ou diverge la lumière."
+    },
+    {
+      "question": "Quel phénomène permet à une lentille de former une image ?",
+      "options": ["La réfraction", "La réflexion", "La diffraction", "L’absorption"],
+      "reponse": "La réfraction",
+      "explication": "La réfraction modifie la trajectoire des rayons lumineux."
+    },
+    {
+      "question": "Pourquoi voit-on un arc-en-ciel avec un prisme ?",
+      "options": ["La lumière blanche est décomposée en couleurs par réfraction", "La lumière est réfléchie", "La lumière est absorbée", "La lumière est dispersée par diffusion"],
+      "reponse": "La lumière blanche est décomposée en couleurs par réfraction",
+      "explication": "Le prisme disperse la lumière en son spectre visible."
+    },
+    {
+      "question": "Lorsqu’un rayon traverse un prisme, son chemin est :",
+      "options": ["Dévié deux fois", "Réfléchi", "Absorbé", "Diffracté"],
+      "reponse": "Dévié deux fois",
+      "explication": "Il est réfracté à l’entrée puis à la sortie."
+    },
+    {
+      "question": "L’indice de réfraction de l’eau est environ :",
+      "options": ["1,33", "1,00", "2,00", "0,75"],
+      "reponse": "1,33",
+      "explication": "C’est une valeur standard pour l’eau."
+    },
+    {
+      "question": "Qu’est-ce qui explique que la paille dans un verre d’eau semble cassée ?",
+      "options": ["La réfraction de la lumière à la surface eau-air", "La réflexion", "La diffraction", "L’absorption"],
+      "reponse": "La réfraction de la lumière à la surface eau-air",
+      "explication": "Le changement de direction de la lumière donne cette illusion."
+    },
+    {
+      "question": "La vitesse de la lumière dans un milieu transparent est toujours :",
+      "options": ["Inférieure à celle dans le vide", "Supérieure à celle dans le vide", "Égale à celle dans le vide", "Nulle"],
+      "reponse": "Inférieure à celle dans le vide",
+      "explication": "La lumière ralentit dans tout milieu matériel."
+    },
+    {
+      "question": "La réfraction peut provoquer :",
+      "options": ["Des illusions d’optique", "Une réflexion parfaite", "Une absorption totale", "Une émission de lumière"],
+      "reponse": "Des illusions d’optique",
+      "explication": "Le changement de direction modifie la perception des objets."
+    },
+    {
+      "question": "Un rayon lumineux entre dans un milieu avec un angle de réfraction plus grand que l’angle d’incidence. Cela signifie que :",
+      "options": ["Il passe d’un milieu dense à un milieu moins dense", "Il passe d’un milieu moins dense à un milieu plus dense", "Il est absorbé", "Il est réfléchi"],
+      "reponse": "Il passe d’un milieu dense à un milieu moins dense",
+      "explication": "La lumière s’éloigne de la normale en allant vers un milieu moins dense."
+    },
+    {
+      "question": "Quel est le rôle principal d’une lentille convergente ?",
+      "options": ["Faire converger les rayons lumineux", "Faire diverger les rayons lumineux", "Absorber la lumière", "Réfléchir la lumière"],
+      "reponse": "Faire converger les rayons lumineux",
+      "explication": "Une lentille convergente focalise la lumière en un point."
+    },
+    {
+      "question": "Dans quelle application utilise-t-on la réfraction ?",
+      "options": ["Lentilles correctrices de vue", "Miroirs", "Lampes", "Filtres colorés"],
+      "reponse": "Lentilles correctrices de vue",
+      "explication": "Les lunettes utilisent des lentilles pour corriger la vision via la réfraction."
+    },
+    {
+      "question": "Un rayon lumineux arrive sur la surface de l’eau avec un angle d’incidence de 30°. Dans quel sens le rayon réfracté se déplace-t-il par rapport à la normale ?",
+      "options": ["Il se rapproche de la normale", "Il s’éloigne de la normale", "Il reste parallèle à la surface", "Il est absorbé"],
+      "reponse": "Il se rapproche de la normale",
+      "explication": "La lumière ralentit en passant de l’air (milieu moins dense) à l’eau (milieu plus dense) et se rapproche donc de la normale."
+    },
+    {
+      "question": "Lorsqu’un rayon passe d’un milieu plus dense à un milieu moins dense, que se passe-t-il ?",
+      "options": ["Il s’éloigne de la normale", "Il se rapproche de la normale", "Il est absorbé", "Il change de couleur"],
+      "reponse": "Il s’éloigne de la normale",
+      "explication": "Dans ce cas, la lumière accélère et le rayon réfracté s’éloigne de la normale."
+    },
+    {
+      "question": "Une lentille convergente sert à :",
+      "options": ["Faire converger les rayons lumineux en un point", "Écarter les rayons lumineux", "Absorber la lumière", "Réfléchir la lumière"],
+      "reponse": "Faire converger les rayons lumineux en un point",
+      "explication": "La lentille convergente rassemble les rayons parallèles en un foyer."
+    },
+    {
+      "question": "Quel phénomène est à l’origine de la déviation de la lumière dans un prisme ?",
+      "options": ["La réfraction", "La réflexion", "La diffraction", "L’absorption"],
+      "reponse": "La réfraction",
+      "explication": "La lumière change de direction en traversant les faces du prisme."
+    },
+    {
+      "question": "Comment s’appelle la ligne perpendiculaire à la surface entre deux milieux ?",
+      "options": ["La normale", "Le rayon incident", "Le rayon réfléchi", "La trajectoire"],
+      "reponse": "La normale",
+      "explication": "La normale sert de référence pour mesurer les angles d’incidence et de réfraction."
+    },
+    {
+      "question": "Quelle loi relie l’angle d’incidence et l’angle de réfraction ?",
+      "options": ["Loi de Snell-Descartes", "Loi de la gravitation", "Loi de Newton", "Loi d’Ohm"],
+      "reponse": "Loi de Snell-Descartes",
+      "explication": "Elle établit la relation entre les indices de réfraction des milieux et les angles."
+    },
+    {
+      "question": "Qu’est-ce qu’un indice de réfraction ?",
+      "options": ["Le rapport entre la vitesse de la lumière dans le vide et dans un milieu", "La vitesse de la lumière", "L’angle d’incidence", "La longueur d’onde"],
+      "reponse": "Le rapport entre la vitesse de la lumière dans le vide et dans un milieu",
+      "explication": "L’indice caractérise la capacité du milieu à ralentir la lumière."
+    },
+    {
+      "question": "Si l’angle d’incidence est de 45° en passant de l’air à l’eau, quel sera approximativement l’angle de réfraction ?",
+      "options": ["31°", "45°", "60°", "90°"],
+      "reponse": "31°",
+      "explication": "La lumière se rapproche de la normale en allant vers un milieu plus dense, donc l’angle diminue."
+    },
+    {
+      "question": "Lorsqu’un rayon traverse un prisme, il subit une réfraction à :",
+      "options": ["L’entrée et la sortie du prisme", "Une seule face", "Aucune face", "Trois faces"],
+      "reponse": "L’entrée et la sortie du prisme",
+      "explication": "Le rayon est dévié deux fois, à l’entrée et à la sortie."
+    },
+    {
+      "question": "Quel est l’effet d’une lentille divergente sur les rayons lumineux ?",
+      "options": ["Ils s’écartent", "Ils convergent", "Ils sont absorbés", "Ils sont réfléchis"],
+      "reponse": "Ils s’écartent",
+      "explication": "La lentille divergente fait diverger les rayons."
+    },
+    {
+      "question": "Pourquoi la paille dans un verre d’eau semble cassée ?",
+      "options": ["À cause de la réfraction", "À cause de la réflexion", "À cause de l’absorption", "À cause de la diffraction"],
+      "reponse": "À cause de la réfraction",
+      "explication": "La lumière change de direction à la surface eau-air, créant une illusion visuelle."
+    },
+    {
+      "question": "Un rayon lumineux passant d’un milieu moins dense à un milieu plus dense va :",
+      "options": ["Se rapprocher de la normale", "S’éloigner de la normale", "Rester inchangé", "Être absorbé"],
+      "reponse": "Se rapprocher de la normale",
+      "explication": "La lumière ralentit et se rapproche de la normale."
+    },
+    {
+      "question": "Quelle est la vitesse approximative de la lumière dans l’air ?",
+      "options": ["3 × 10^8 m/s", "1,5 × 10^8 m/s", "3 × 10^6 m/s", "3 × 10^10 m/s"],
+      "reponse": "3 × 10^8 m/s",
+      "explication": "La lumière se déplace à environ 300 000 km/s dans l’air et le vide."
+    },
+    {
+      "question": "Que provoque un prisme avec la lumière blanche ?",
+      "options": ["La dispersion en différentes couleurs", "L’absorption", "La réflexion totale", "La diffusion"],
+      "reponse": "La dispersion en différentes couleurs",
+      "explication": "Le prisme sépare la lumière blanche en son spectre visible."
+    },
+    {
+      "question": "La réfraction peut causer :",
+      "options": ["Des illusions d’optique", "Une réflexion parfaite", "Une absorption totale", "Une diffraction"],
+      "reponse": "Des illusions d’optique",
+      "explication": "Le changement de direction de la lumière modifie la perception visuelle."
+    },
+    {
+      "question": "Un rayon lumineux frappe un prisme avec un angle d’incidence de 60°. Quel phénomène se produit ?",
+      "options": ["Réfraction", "Réflexion", "Absorption", "Diffusion"],
+      "reponse": "Réfraction",
+      "explication": "Le rayon change de direction en traversant le prisme."
+    },
+    {
+      "question": "Quel est le rôle principal d’une lentille convergente ?",
+      "options": ["Rassembler les rayons lumineux en un point", "Écarter les rayons lumineux", "Absorber la lumière", "Réfléchir la lumière"],
+      "reponse": "Rassembler les rayons lumineux en un point",
+      "explication": "Elle focalise les rayons pour former une image nette."
+    },
+    {
+      "question": "L’indice de réfraction de l’eau est environ :",
+      "options": ["1,33", "1,00", "2,00", "0,75"],
+      "reponse": "1,33",
+      "explication": "Valeur standard de l’indice de l’eau."
+    },
+    {
+      "question": "Quelle grandeur mesure l’angle entre le rayon réfracté et la normale ?",
+      "options": ["Angle de réfraction", "Angle d’incidence", "Angle de réflexion", "Angle d’absorption"],
+      "reponse": "Angle de réfraction",
+      "explication": "C’est l’angle formé dans le deuxième milieu."
+    },
+    {
+      "question": "Si un rayon lumineux passe de l’air à un verre, que se passe-t-il à la vitesse de la lumière ?",
+      "options": ["Elle diminue", "Elle augmente", "Elle reste la même", "Elle s’annule"],
+      "reponse": "Elle diminue",
+      "explication": "La lumière ralentit en entrant dans un milieu plus dense comme le verre."
+    }
+  ]
+}

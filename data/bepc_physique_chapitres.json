@@ -1,10 +1,6 @@
 {
   "chapitres": [
     {
-      "id": "electricite",
-      "titre": "Électricité"
-    },
-    {
       "id": "circuits",
       "titre": "Les circuits"
     },
@@ -43,30 +39,6 @@
     {
       "id": "lumiere",
       "titre": "Lumière"
-    },
-    {
-      "id": "miroirs_plans",
-      "titre": "Miroirs plans"
-    },
-    {
-      "id": "lentilles_prisme",
-      "titre": "Lentilles et prisme"
-    },
-    {
-      "id": "matiere",
-      "titre": "Matière"
-    },
-    {
-      "id": "corps",
-      "titre": "Corps"
-    },
-    {
-      "id": "transformations_chimiques",
-      "titre": "Les transformations chimiques"
-    },
-    {
-      "id": "ph",
-      "titre": "pH"
     }
   ]
 }

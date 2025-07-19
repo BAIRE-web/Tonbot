@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que la tension électrique ?",
+      "options": ["La différence de potentiel entre deux points", "L’intensité du courant", "La vitesse des électrons", "La résistance du circuit"],
+      "reponse": "La différence de potentiel entre deux points",
+      "explication": "La tension correspond à l’énergie électrique entre deux points d’un circuit."
+    },
+    {
+      "question": "Quelle est l’unité de mesure de la tension électrique ?",
+      "options": ["Le volt (V)", "L’ampère (A)", "L’ohm (Ω)", "Le watt (W)"],
+      "reponse": "Le volt (V)",
+      "explication": "La tension se mesure en volts (V)."
+    },
+    {
+      "question": "Quel appareil permet de mesurer la tension électrique ?",
+      "options": ["Le voltmètre", "L’ampèremètre", "Le galvanomètre", "L’ohmmètre"],
+      "reponse": "Le voltmètre",
+      "explication": "Le voltmètre mesure la différence de potentiel entre deux points."
+    },
+    {
+      "question": "Comment branche-t-on un voltmètre dans un circuit ?",
+      "options": ["En parallèle avec le composant", "En série avec le composant", "Entre la pile et l’interrupteur", "Sur un seul point"],
+      "reponse": "En parallèle avec le composant",
+      "explication": "Un voltmètre se place aux bornes du composant pour mesurer la tension."
+    },
+    {
+      "question": "Quel est le symbole du voltmètre dans un schéma ?",
+      "options": ["Un cercle avec un V", "Un cercle avec un A", "Un rectangle", "Un triangle"],
+      "reponse": "Un cercle avec un V",
+      "explication": "Dans les schémas électriques, le voltmètre est noté par un V entouré."
+    },
+    {
+      "question": "Que mesure le voltmètre placé aux bornes d’une pile ?",
+      "options": ["La tension de la pile", "L’intensité du courant", "La résistance du circuit", "La puissance électrique"],
+      "reponse": "La tension de la pile",
+      "explication": "Il indique la différence de potentiel entre les deux bornes de la pile."
+    },
+    {
+      "question": "Comment varie la tension dans un circuit en série ?",
+      "options": ["Elle se répartit entre les composants", "Elle reste constante", "Elle augmente à chaque résistance", "Elle s’annule"],
+      "reponse": "Elle se répartit entre les composants",
+      "explication": "La somme des tensions aux bornes des composants égale la tension totale."
+    },
+    {
+      "question": "Quelle est la tension totale dans un circuit en série ?",
+      "options": ["La somme des tensions partielles", "La tension la plus forte", "La tension de la lampe", "La moitié de la tension de la pile"],
+      "reponse": "La somme des tensions partielles",
+      "explication": "La loi des tensions en série indique que la tension totale est additive."
+    },
+    {
+      "question": "Dans un circuit en parallèle, que peut-on dire de la tension aux bornes de chaque branche ?",
+      "options": ["Elle est la même dans toutes les branches", "Elle diminue", "Elle varie selon l’intensité", "Elle est nulle"],
+      "reponse": "Elle est la même dans toutes les branches",
+      "explication": "La tension est identique aux bornes de branches parallèles."
+    },
+    {
+      "question": "Si la tension d’une pile est de 9 V, quelle sera la tension totale dans un circuit en série ?",
+      "options": ["9 V", "4,5 V", "0 V", "Varie selon la résistance"],
+      "reponse": "9 V",
+      "explication": "La tension de la pile est la tension totale fournie au circuit."
+    },
+    {
+      "question": "Un voltmètre placé en série dans un circuit :",
+      "options": ["Donne une mesure fausse", "Mesure correctement", "Fait fondre la pile", "Augmente l’intensité"],
+      "reponse": "Donne une mesure fausse",
+      "explication": "Un voltmètre mal placé fausse la mesure et peut perturber le circuit."
+    },
+    {
+      "question": "Pourquoi le voltmètre a-t-il une forte résistance interne ?",
+      "options": ["Pour ne pas modifier le courant du circuit", "Pour chauffer le composant", "Pour éviter le court-circuit", "Pour augmenter l’intensité"],
+      "reponse": "Pour ne pas modifier le courant du circuit",
+      "explication": "Une grande résistance empêche le voltmètre de consommer du courant."
+    },
+    {
+      "question": "Dans un circuit en parallèle, si la pile fournit 6 V, quelle est la tension sur chaque branche ?",
+      "options": ["6 V", "3 V", "9 V", "0 V"],
+      "reponse": "6 V",
+      "explication": "La tension est la même aux bornes de chaque branche parallèle."
+    },
+    {
+      "question": "Que signifie une tension de 12 V entre deux points d’un circuit ?",
+      "options": ["Chaque coulomb gagne 12 joules", "Le courant est de 12 A", "La résistance est de 12 ohms", "Il n’y a pas de courant"],
+      "reponse": "Chaque coulomb gagne 12 joules",
+      "explication": "1 V = 1 J/C, donc 12 V = 12 J par coulomb de charge."
+    },
+    {
+      "question": "Quel est le rôle principal d’un générateur (pile) dans un circuit ?",
+      "options": ["Fournir une tension électrique", "Créer une résistance", "Bloquer le courant", "Mesurer l’intensité"],
+      "reponse": "Fournir une tension électrique",
+      "explication": "Le générateur impose une différence de potentiel (tension) dans le circuit."
+    },
+    {
+      "question": "Dans un circuit en série, si une résistance est retirée, la tension aux bornes des autres composants :",
+      "options": ["Augmente", "Diminue", "Devient nulle", "Reste inchangée"],
+      "reponse": "Augmente",
+      "explication": "Moins de résistance = la tension se répartit différemment."
+    },
+    {
+      "question": "Si la tension aux bornes d’une lampe est nulle, cela signifie que :",
+      "options": ["La lampe est court-circuitée ou absente", "Elle est trop résistante", "La pile est vide", "Le voltmètre est cassé"],
+      "reponse": "La lampe est court-circuitée ou absente",
+      "explication": "Une tension nulle indique une absence de différence de potentiel."
+    },
+    {
+      "question": "Comment appelle-t-on la somme des tensions aux bornes des composants en série ?",
+      "options": ["La tension totale", "La tension résiduelle", "La tension moyenne", "La tension de retour"],
+      "reponse": "La tension totale",
+      "explication": "En série, les tensions s’additionnent pour donner la tension globale."
+    },
+    {
+      "question": "Pourquoi utilise-t-on un voltmètre en parallèle ?",
+      "options": ["Pour mesurer la différence de potentiel sans modifier le courant", "Pour mesurer la puissance", "Pour court-circuiter", "Pour empêcher le passage du courant"],
+      "reponse": "Pour mesurer la différence de potentiel sans modifier le courant",
+      "explication": "Un bon branchement garantit une mesure fiable sans perturber le circuit."
+    },
+    {
+      "question": "Un circuit contient deux résistances en série. Le voltmètre indique 6 V sur l’une et 3 V sur l’autre. Quelle est la tension de la pile ?",
+      "options": ["9 V", "6 V", "3 V", "Impossible à dire"],
+      "reponse": "9 V",
+      "explication": "La tension totale est la somme des deux tensions partielles : 6 V + 3 V."
+    },
+    {
+      "question": "Qu’indique un voltmètre placé aux bornes d’une résistance ?",
+      "options": ["La tension à ses bornes", "L’intensité du courant", "La résistance", "La température"],
+      "reponse": "La tension à ses bornes",
+      "explication": "Il mesure la différence de potentiel avant/après le composant."
+    },
+    {
+      "question": "Une lampe reçoit 6 V et une autre 6 V dans un circuit parallèle. Quelle est la tension de la pile ?",
+      "options": ["6 V", "12 V", "0 V", "3 V"],
+      "reponse": "6 V",
+      "explication": "En parallèle, la tension est la même sur toutes les branches."
+    },
+    {
+      "question": "Si un voltmètre affiche une valeur négative, que peut-on conclure ?",
+      "options": ["Les bornes ont été inversées", "Le circuit est ouvert", "La pile est vide", "Le composant est grillé"],
+      "reponse": "Les bornes ont été inversées",
+      "explication": "Une inversion de polarité affiche une valeur négative."
+    },
+    {
+      "question": "Une tension élevée entre deux points indique :",
+      "options": ["Une grande énergie électrique par charge", "Un courant faible", "Une résistance faible", "Un circuit ouvert"],
+      "reponse": "Une grande énergie électrique par charge",
+      "explication": "La tension correspond à l’énergie par unité de charge."
+    },
+    {
+      "question": "Le voltmètre doit être branché :",
+      "options": ["En parallèle avec le composant", "En série avec la pile", "Entre deux interrupteurs", "Avant la lampe"],
+      "reponse": "En parallèle avec le composant",
+      "explication": "Il mesure la tension entre deux points précis."
+    },
+    {
+      "question": "Quelle est la tension idéale pour alimenter une lampe de 6 V ?",
+      "options": ["6 V", "3 V", "9 V", "12 V"],
+      "reponse": "6 V",
+      "explication": "Tension trop faible ou trop forte endommagerait ou empêcherait le fonctionnement normal."
+    },
+    {
+      "question": "Quel effet produit une tension trop forte sur un composant ?",
+      "options": ["Il peut griller", "Il s’éteint", "Il n’est pas alimenté", "Il fonctionne au ralenti"],
+      "reponse": "Il peut griller",
+      "explication": "Une surtension dépasse les capacités du composant et l’endommage."
+    },
+    {
+      "question": "Quelle grandeur doit-on connaître pour vérifier la loi des tensions en série ?",
+      "options": ["Les tensions aux bornes de chaque composant", "L’intensité dans chaque branche", "La longueur des fils", "La température"],
+      "reponse": "Les tensions aux bornes de chaque composant",
+      "explication": "On vérifie que leur somme égale la tension fournie."
+    },
+    {
+      "question": "La tension est nulle aux bornes d’un composant. Cela signifie que :",
+      "options": ["Il est court-circuité", "Il consomme beaucoup", "Il est en série", "Il est débranché"],
+      "reponse": "Il est court-circuité",
+      "explication": "Le courant le contourne sans chute de tension."
+    },
+    {
+      "question": "Un voltmètre est placé aux bornes d’une pile. Il indique 9 V. Que signifie cette valeur ?",
+      "options": ["La pile fournit une énergie de 9 joules par coulomb", "Le courant est de 9 A", "La résistance est de 9 ohms", "La pile est vide"],
+      "reponse": "La pile fournit une énergie de 9 joules par coulomb",
+      "explication": "La tension correspond à l’énergie électrique par unité de charge (1 V = 1 J/C)."
+    },
+    {
+      "question": "Dans un circuit en série, la tension de la pile est 12 V. Deux résistances mesurent 5 V et 7 V. La loi des tensions est-elle vérifiée ?",
+      "options": ["Oui", "Non", "Impossible à dire", "Cela dépend de l’intensité"],
+      "reponse": "Oui",
+      "explication": "La somme des tensions (5 V + 7 V) = 12 V, ce qui respecte la loi des tensions en série."
+    },
+    {
+      "question": "Dans un circuit en parallèle, la tension entre les bornes d’une branche est 6 V. Quelle est la tension de la pile ?",
+      "options": ["6 V", "12 V", "3 V", "Varie selon la résistance"],
+      "reponse": "6 V",
+      "explication": "En parallèle, la tension est la même dans toutes les branches et égale à celle de la pile."
+    },
+    {
+      "question": "Un voltmètre bien branché indique 0 V aux bornes d’une lampe. Quelle peut être la cause ?",
+      "options": ["La lampe est court-circuitée", "La pile est neuve", "Le courant est fort", "La lampe fonctionne normalement"],
+      "reponse": "La lampe est court-circuitée",
+      "explication": "Une tension nulle signifie qu’il n’y a pas de différence de potentiel, donc la lampe est court-circuitée."
+    },
+    {
+      "question": "Quelle est la tension totale dans un circuit série contenant 3 résistances de 3 V, 4 V et 5 V ?",
+      "options": ["12 V", "6 V", "3 V", "9 V"],
+      "reponse": "12 V",
+      "explication": "La tension totale en série est la somme des tensions individuelles : 3 + 4 + 5 = 12 V."
+    },
+    {
+      "question": "Un voltmètre mal branché en série avec une lampe affiche :",
+      "options": ["Une valeur fausse ou nulle", "La tension réelle", "L’intensité", "La température"],
+      "reponse": "Une valeur fausse ou nulle",
+      "explication": "Un voltmètre doit être placé en parallèle pour une mesure correcte."
+    },
+    {
+      "question": "Dans un circuit en parallèle, chaque lampe reçoit une tension de 4,5 V. La pile utilisée est donc :",
+      "options": ["4,5 V", "9 V", "2 V", "Indéterminée"],
+      "reponse": "4,5 V",
+      "explication": "La tension est la même dans toutes les branches en parallèle, égale à celle de la pile."
+    },
+    {
+      "question": "Un circuit en série contient une pile de 6 V et deux résistances. Le voltmètre indique 2 V sur l'une. Quelle tension reste-t-il pour l’autre résistance ?",
+      "options": ["4 V", "2 V", "6 V", "0 V"],
+      "reponse": "4 V",
+      "explication": "La tension restante est 6 V - 2 V = 4 V, conformément à la loi des tensions en série."
+    },
+    {
+      "question": "Dans un circuit, le voltmètre indique une tension négative. Quelle est la cause probable ?",
+      "options": ["Les bornes du voltmètre sont inversées", "La pile est trop puissante", "La lampe est grillée", "Le courant est trop fort"],
+      "reponse": "Les bornes du voltmètre sont inversées",
+      "explication": "Une inversion de polarité fait afficher une valeur négative sur le voltmètre."
+    },
+    {
+      "question": "Un voltmètre est placé correctement aux bornes d’une lampe. Il indique 0 V. Que peut-on en déduire ?",
+      "options": ["La lampe est court-circuitée ou défectueuse", "La lampe fonctionne normalement", "La tension est trop élevée", "Le circuit est ouvert"],
+      "reponse": "La lampe est court-circuitée ou défectueuse",
+      "explication": "Une tension nulle indique un court-circuit ou un composant inactif."
+    },
+    {
+      "question": "La tension aux bornes d’un générateur est de 12 V. On mesure 6 V sur chaque résistance en série. La loi des tensions est-elle vérifiée ?",
+      "options": ["Oui", "Non", "Impossible à dire", "Cela dépend de l’intensité"],
+      "reponse": "Oui",
+      "explication": "6 V + 6 V = 12 V, ce qui vérifie la loi des tensions."
+    },
+    {
+      "question": "Dans un circuit en parallèle avec deux lampes, quelle est la tension aux bornes de chaque lampe si la pile est de 3 V ?",
+      "options": ["3 V", "1,5 V", "6 V", "0 V"],
+      "reponse": "3 V",
+      "explication": "En parallèle, la tension est identique pour toutes les branches : ici 3 V."
+    },
+    {
+      "question": "Une tension est mesurée entre deux points : le voltmètre affiche 0 V. Cela signifie que :",
+      "options": ["Il n’y a pas de différence de potentiel entre ces deux points", "Le courant est élevé", "La pile est vide", "La résistance est forte"],
+      "reponse": "Il n’y a pas de différence de potentiel entre ces deux points",
+      "explication": "0 V signifie une égalité de potentiel électrique entre les deux points."
+    },
+    {
+      "question": "Pourquoi ne faut-il jamais brancher un voltmètre en série ?",
+      "options": ["Il a une grande résistance et empêche le courant de passer", "Il mesure mal la tension", "Il produit du courant", "Il fait varier la température"],
+      "reponse": "Il a une grande résistance et empêche le courant de passer",
+      "explication": "Le voltmètre bloquerait le passage du courant s’il est branché en série."
+    },
+    {
+      "question": "Un voltmètre placé aux bornes d’une lampe allumée affiche 6 V. Cela signifie que :",
+      "options": ["La lampe reçoit bien 6 V", "La lampe est éteinte", "Le courant est trop fort", "La résistance est nulle"],
+      "reponse": "La lampe reçoit bien 6 V",
+      "explication": "Une tension de 6 V aux bornes signifie que la lampe est bien alimentée."
+    },
+    {
+      "question": "Dans un circuit, le voltmètre indique une tension de 5 V entre deux points A et B. Cela signifie que :",
+      "options": ["Il y a une différence de potentiel de 5 V entre A et B", "Le courant est de 5 A", "La résistance entre A et B est de 5 ohms", "Le composant est défectueux"],
+      "reponse": "Il y a une différence de potentiel de 5 V entre A et B",
+      "explication": "Le voltmètre mesure uniquement la différence de potentiel, pas l’intensité ou la résistance."
+    },
+    {
+      "question": "Une pile de 6 V alimente une lampe et une résistance en série. Le voltmètre indique 6 V aux bornes des deux composants ensemble. Que conclure ?",
+      "options": ["La tension totale est correcte", "La lampe est grillée", "Il y a un court-circuit", "La pile est faible"],
+      "reponse": "La tension totale est correcte",
+      "explication": "Le voltmètre mesure bien la somme des tensions des composants en série."
+    },
+    {
+      "question": "Quel est le rôle du voltmètre dans un circuit électrique ?",
+      "options": ["Mesurer la tension entre deux points", "Fournir du courant", "Mesurer la puissance", "Mesurer la résistance"],
+      "reponse": "Mesurer la tension entre deux points",
+      "explication": "Le voltmètre permet de connaître la différence de potentiel électrique entre deux bornes."
+    },
+    {
+      "question": "Une tension élevée entre deux bornes d’un composant indique :",
+      "options": ["Un fort transfert d’énergie électrique", "Un faible courant", "Un défaut du composant", "Une absence de tension"],
+      "reponse": "Un fort transfert d’énergie électrique",
+      "explication": "Plus la tension est élevée, plus l’énergie transférée par charge est grande."
+    },
+    {
+      "question": "Un voltmètre est branché en parallèle avec un interrupteur fermé. Il affiche 0 V. Que conclure ?",
+      "options": ["L’interrupteur est fermé et il n’y a pas de chute de tension", "L’interrupteur est cassé", "Le courant est nul", "La tension est trop forte"],
+      "reponse": "L’interrupteur est fermé et il n’y a pas de chute de tension",
+      "explication": "Aucune différence de potentiel n’est mesurée lorsque les deux points sont reliés directement."
+    }
+  ]
+}

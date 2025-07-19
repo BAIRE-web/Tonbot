@@ -1,0 +1,352 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la principale activité économique du Burkina Faso ?",
+      "options": ["L'agriculture", "L'industrie minière", "Le commerce", "Le tourisme"],
+      "reponse": "L'agriculture",
+      "explication": "Plus de 70 % de la population vit de l’agriculture, qui reste le pilier de l’économie."
+    },
+    {
+      "question": "Qu'appelle-t-on agriculture vivrière ?",
+      "options": ["Agriculture pour nourrir la famille", "Agriculture destinée à l’exportation", "Culture industrielle", "Agriculture mécanisée"],
+      "reponse": "Agriculture pour nourrir la famille",
+      "explication": "L’agriculture vivrière est orientée vers l’autoconsommation familiale."
+    },
+    {
+      "question": "Quelle est la principale culture vivrière au Burkina Faso ?",
+      "options": ["Le mil", "Le coton", "Le café", "La canne à sucre"],
+      "reponse": "Le mil",
+      "explication": "Le mil est la céréale la plus cultivée et consommée dans le pays."
+    },
+    {
+      "question": "Quel autre aliment est aussi très cultivé avec le mil ?",
+      "options": ["Le maïs", "Le blé", "Le riz importé", "Le cacao"],
+      "reponse": "Le maïs",
+      "explication": "Le maïs est une autre céréale importante dans l’alimentation des ménages burkinabè."
+    },
+    {
+      "question": "Quel facteur naturel freine l'agriculture burkinabè ?",
+      "options": ["L’insuffisance des pluies", "Les tremblements de terre", "La forte neige", "Les marées"],
+      "reponse": "L’insuffisance des pluies",
+      "explication": "Le climat sec avec des pluies irrégulières rend l’agriculture vulnérable."
+    },
+    {
+      "question": "Qu’est-ce que l’agriculture de rente ?",
+      "options": ["Culture destinée à la vente", "Culture pour nourrir la famille", "Culture des plantes sauvages", "Culture uniquement biologique"],
+      "reponse": "Culture destinée à la vente",
+      "explication": "L’agriculture de rente est orientée vers le marché, souvent à l’exportation."
+    },
+    {
+      "question": "Quelle est la principale culture de rente du Burkina Faso ?",
+      "options": ["Le coton", "Le riz", "Le manioc", "L’igname"],
+      "reponse": "Le coton",
+      "explication": "Le Burkina Faso est l’un des plus grands producteurs de coton d’Afrique de l’Ouest."
+    },
+    {
+      "question": "Qu'appelle-t-on « l’or blanc » au Burkina Faso ?",
+      "options": ["Le coton", "Le riz", "Le lait", "Le sel"],
+      "reponse": "Le coton",
+      "explication": "On appelle le coton l’or blanc car il représente une richesse majeure à l’exportation."
+    },
+    {
+      "question": "Quelle culture de rente est aussi en développement dans l’Est ?",
+      "options": ["Le sésame", "Le thé", "Le cacao", "Le soja"],
+      "reponse": "Le sésame",
+      "explication": "Le sésame est de plus en plus cultivé pour l’exportation et la transformation locale."
+    },
+    {
+      "question": "Quel problème majeur affecte la production agricole ?",
+      "options": ["La sécheresse", "Le verglas", "La montée des océans", "Le manque de sel"],
+      "reponse": "La sécheresse",
+      "explication": "Les sécheresses répétées perturbent gravement les récoltes."
+    },
+    {
+      "question": "Quelle technique améliore la productivité des terres ?",
+      "options": ["L’irrigation", "La jachère permanente", "Le brûlis intensif", "Le surpâturage"],
+      "reponse": "L’irrigation",
+      "explication": "L'irrigation permet de cultiver même en période sèche."
+    },
+    {
+      "question": "Quelle région est connue pour sa production maraîchère ?",
+      "options": ["Plateau central", "Sahel", "Cascades", "Est"],
+      "reponse": "Plateau central",
+      "explication": "La région de Ouagadougou, par exemple, développe beaucoup le maraîchage."
+    },
+    {
+      "question": "Quelle est la principale contrainte à l'agriculture mécanisée ?",
+      "options": ["Le coût élevé du matériel", "L’abondance de main-d'œuvre", "Le relief montagneux", "Les forêts trop denses"],
+      "reponse": "Le coût élevé du matériel",
+      "explication": "La mécanisation reste faible à cause du prix des tracteurs et équipements agricoles."
+    },
+    {
+      "question": "Quel est l’animal le plus élevé au Burkina Faso ?",
+      "options": ["Le bœuf", "La chèvre", "Le cochon", "Le cheval"],
+      "reponse": "Le bœuf",
+      "explication": "Le bétail bovin est très répandu pour la viande, le lait et le travail au champ."
+    },
+    {
+      "question": "Quelle région est favorable à l’élevage extensif ?",
+      "options": ["Sahel", "Centre", "Cascades", "Boucle du Mouhoun"],
+      "reponse": "Sahel",
+      "explication": "Le Sahel, avec ses vastes étendues, est propice au déplacement des troupeaux."
+    },
+    {
+      "question": "Quel est un problème fréquent en élevage ?",
+      "options": ["Conflits agriculteurs-éleveurs", "Chute de neige", "Manque d’animaux", "Trop de vétérinaires"],
+      "reponse": "Conflits agriculteurs-éleveurs",
+      "explication": "Les conflits surviennent souvent à cause des pâturages ou des dégâts sur les cultures."
+    },
+    {
+      "question": "Qu'appelle-t-on transhumance ?",
+      "options": ["Déplacement saisonnier des troupeaux", "Migration humaine", "Fête traditionnelle", "Exportation de bétail"],
+      "reponse": "Déplacement saisonnier des troupeaux",
+      "explication": "Les éleveurs déplacent leur bétail vers des zones plus riches en herbe et en eau."
+    },
+    {
+      "question": "Quelle est l’utilité principale de l’élevage pour les populations rurales ?",
+      "options": ["Source de revenus et alimentation", "Transport aérien", "Électricité", "Construction de routes"],
+      "reponse": "Source de revenus et alimentation",
+      "explication": "L’élevage fournit lait, viande, cuir et est aussi une épargne vivante."
+    },
+    {
+      "question": "Quelle organisation soutient l’élevage au Burkina Faso ?",
+      "options": ["Ministère des Ressources animales", "SONABEL", "ONEA", "CNSS"],
+      "reponse": "Ministère des Ressources animales",
+      "explication": "Ce ministère est chargé de développer l’élevage et la santé animale."
+    },
+    {
+      "question": "Quel produit n’est pas issu de l’agriculture vivrière ?",
+      "options": ["Coton", "Mil", "Maïs", "Sorgho"],
+      "reponse": "Coton",
+      "explication": "Le coton est une culture de rente, non destinée à la consommation familiale."
+    },
+    {
+      "question": "Quel facteur rend l’agriculture burkinabè fragile ?",
+      "options": ["Dépendance à la pluie", "Présence d’un grand fleuve", "Températures trop basses", "Surmécanisation"],
+      "reponse": "Dépendance à la pluie",
+      "explication": "L’agriculture dépend presque totalement de la saison des pluies."
+    },
+    {
+      "question": "Quel engrais est utilisé pour améliorer la fertilité ?",
+      "options": ["Compost ou engrais chimiques", "Cendres", "Pétrole", "Sable"],
+      "reponse": "Compost ou engrais chimiques",
+      "explication": "Les engrais permettent de nourrir les sols appauvris."
+    },
+    {
+      "question": "Quel danger menace les terres agricoles ?",
+      "options": ["L’érosion", "Les cyclones", "Les raz-de-marée", "Les tsunamis"],
+      "reponse": "L’érosion",
+      "explication": "L’eau et le vent emportent les couches fertiles, réduisant la productivité."
+    },
+    {
+      "question": "Qu'est-ce qu'une culture irriguée ?",
+      "options": ["Culture avec apport d’eau contrôlé", "Culture sauvage", "Culture traditionnelle", "Culture sèche"],
+      "reponse": "Culture avec apport d’eau contrôlé",
+      "explication": "Cela permet de produire même en saison sèche ou en zone peu arrosée."
+    },
+    {
+      "question": "Quel rôle joue le coton dans l’économie burkinabè ?",
+      "options": ["Source majeure de devises", "Nourrit la population", "Produit médical", "Culture sacrée"],
+      "reponse": "Source majeure de devises",
+      "explication": "Le coton représente une grande part des exportations nationales."
+    },
+    {
+      "question": "Comment appelle-t-on l’élevage pratiqué dans les concessions ?",
+      "options": ["Élevage traditionnel", "Élevage extensif", "Élevage moderne", "Élevage pastoral"],
+      "reponse": "Élevage traditionnel",
+      "explication": "Cet élevage se fait à petite échelle, souvent pour l’autoconsommation."
+    },
+    {
+      "question": "Quel produit est issu de l’élevage porcin ?",
+      "options": ["Viande de porc", "Beurre", "Riz", "Poisson séché"],
+      "reponse": "Viande de porc",
+      "explication": "Le porc est élevé pour sa viande, très consommée dans certaines régions."
+    },
+    {
+      "question": "Pourquoi l'élevage est-il complémentaire à l'agriculture ?",
+      "options": ["Fournit fumier pour les champs", "Remplace les tracteurs", "Remplace les cultures", "Repousse les oiseaux"],
+      "reponse": "Fournit fumier pour les champs",
+      "explication": "Le fumier est un engrais naturel pour améliorer la fertilité des sols."
+    },
+    {
+      "question": "Que produit l’élevage laitier ?",
+      "options": ["Lait", "Grains", "Huile", "Farine"],
+      "reponse": "Lait",
+      "explication": "Le lait est consommé ou transformé (lait caillé, beurre) dans plusieurs régions."
+    },
+    {
+      "question": "Quelle est la principale zone de pêche au Burkina Faso ?",
+      "options": ["Autour des barrages et cours d’eau", "Dans l’océan Atlantique", "Dans les montagnes", "Dans les mines"],
+      "reponse": "Autour des barrages et cours d’eau",
+      "explication": "Le Burkina Faso étant un pays sans accès à la mer, la pêche se fait dans les plans d’eau intérieurs."
+    },
+    {
+      "question": "Quel est l’un des barrages les plus connus pour la pêche ?",
+      "options": ["Barrage de Bagré", "Barrage d’Assouan", "Lac Victoria", "Barrage d’Akosombo"],
+      "reponse": "Barrage de Bagré",
+      "explication": "Le barrage de Bagré, sur le Nakambé, est un site majeur de pêche et d’agriculture."
+    },
+    {
+      "question": "Comment qualifie-t-on la pêche au Burkina Faso ?",
+      "options": ["Pêche artisanale", "Pêche industrielle", "Pêche de haute mer", "Pêche commerciale en mer"],
+      "reponse": "Pêche artisanale",
+      "explication": "Elle est pratiquée de manière traditionnelle avec des pirogues et filets simples."
+    },
+    {
+      "question": "Quel est un problème majeur pour les pêcheurs ?",
+      "options": ["Assèchement des plans d’eau", "Tsunami", "Tempêtes en mer", "Surpopulation de poissons"],
+      "reponse": "Assèchement des plans d’eau",
+      "explication": "La sécheresse réduit le niveau d’eau, limitant les possibilités de pêche."
+    },
+    {
+      "question": "Quel produit transforme-t-on souvent après la pêche ?",
+      "options": ["Le poisson fumé ou séché", "Le maïs", "Le coton", "L’or"],
+      "reponse": "Le poisson fumé ou séché",
+      "explication": "Le poisson est souvent fumé ou séché pour sa conservation et sa commercialisation."
+    },
+    {
+      "question": "Qu’est-ce que l’artisanat ?",
+      "options": ["Travail manuel traditionnel", "Travail informatique", "Travail dans les usines", "Travail de police"],
+      "reponse": "Travail manuel traditionnel",
+      "explication": "L’artisanat comprend les métiers de fabrication manuelle locale : poterie, tissage, sculpture..."
+    },
+    {
+      "question": "Quel matériau est utilisé dans l’artisanat burkinabè ?",
+      "options": ["Argile, cuir, bois", "Pétrole brut", "Uranium", "Gaz naturel"],
+      "reponse": "Argile, cuir, bois",
+      "explication": "Ces matériaux sont utilisés pour produire poteries, objets en cuir ou sculptures."
+    },
+    {
+      "question": "Quelle ville est célèbre pour ses artisans bronziers ?",
+      "options": ["Bobo-Dioulasso", "Gaoua", "Fada", "Ouahigouya"],
+      "reponse": "Bobo-Dioulasso",
+      "explication": "Bobo-Dioulasso est un centre reconnu pour son artisanat de qualité, notamment le bronze."
+    },
+    {
+      "question": "Quelle forme d’artisanat est pratiquée à Gorom-Gorom ?",
+      "options": ["Bijouterie en argent", "Pêche maritime", "Industrie du textile moderne", "Culture de la vanille"],
+      "reponse": "Bijouterie en argent",
+      "explication": "Les artisans forgerons et bijoutiers de Gorom-Gorom fabriquent des bijoux en argent."
+    },
+    {
+      "question": "Quel est le rôle de l’artisanat dans l’économie ?",
+      "options": ["Création d’emplois et valorisation culturelle", "Pollution", "Importation de biens", "Destruction des ressources"],
+      "reponse": "Création d’emplois et valorisation culturelle",
+      "explication": "L’artisanat fait vivre de nombreuses familles et valorise le patrimoine."
+    },
+    {
+      "question": "Quel est le rôle de la Foire de l’artisanat de Ouagadougou ?",
+      "options": ["Valoriser et vendre les productions artisanales", "Organiser des spectacles", "Former les militaires", "Exporter du pétrole"],
+      "reponse": "Valoriser et vendre les productions artisanales",
+      "explication": "Cette foire permet aux artisans de montrer et de vendre leurs produits."
+    },
+    {
+      "question": "Qu’est-ce qu’une industrie ?",
+      "options": ["Ensemble des activités de transformation", "Culture de légumes", "Conduite de bus", "Chant traditionnel"],
+      "reponse": "Ensemble des activités de transformation",
+      "explication": "L’industrie transforme des matières premières en produits finis ou semi-finis."
+    },
+    {
+      "question": "Quelle industrie est développée à Kossodo (Ouaga) ?",
+      "options": ["Industrie agroalimentaire", "Industrie navale", "Industrie textile française", "Industrie pétrolière"],
+      "reponse": "Industrie agroalimentaire",
+      "explication": "On y transforme des produits locaux (farine, jus, conserves, etc.)."
+    },
+    {
+      "question": "Quel est le rôle de l’industrie textile ?",
+      "options": ["Transformer le coton en tissu", "Planter des arbres", "Produire de l’électricité", "Cultiver des fleurs"],
+      "reponse": "Transformer le coton en tissu",
+      "explication": "Le coton burkinabè est transformé en fil et tissu dans les usines textiles."
+    },
+    {
+      "question": "Quelle entreprise transforme le coton au Burkina Faso ?",
+      "options": ["Faso Fani", "SONABEL", "ONATEL", "CNSS"],
+      "reponse": "Faso Fani",
+      "explication": "Faso Fani est une entreprise historique de transformation du coton en textile."
+    },
+    {
+      "question": "Quelle difficulté freine le développement industriel ?",
+      "options": ["Manque d’énergie", "Trop d'eau", "Surmécanisation", "Invasion des fourmis"],
+      "reponse": "Manque d’énergie",
+      "explication": "L’industrie a besoin d’électricité, qui reste parfois insuffisante ou instable."
+    },
+    {
+      "question": "Quel type d’industrie transforme le lait, les céréales, les fruits ?",
+      "options": ["Industrie agroalimentaire", "Industrie minière", "Industrie pharmaceutique", "Industrie militaire"],
+      "reponse": "Industrie agroalimentaire",
+      "explication": "Elle transforme les produits agricoles pour la consommation."
+    },
+    {
+      "question": "Quels sont les deux types de services ?",
+      "options": ["Publics et privés", "Ruraux et marins", "Techniques et biologiques", "Commerciaux et aquatiques"],
+      "reponse": "Publics et privés",
+      "explication": "Les services publics sont gérés par l’État ; les privés par des entreprises ou particuliers."
+    },
+    {
+      "question": "Quel exemple correspond aux services publics ?",
+      "options": ["École, santé, sécurité", "Boutique, marché", "Garage, salon de coiffure", "Restaurant, hôtel"],
+      "reponse": "École, santé, sécurité",
+      "explication": "Ces services sont fournis gratuitement ou à bas prix par l’État à la population."
+    },
+    {
+      "question": "Quel secteur regroupe les commerçants, restaurateurs, chauffeurs ?",
+      "options": ["Secteur tertiaire", "Secteur primaire", "Secteur agricole", "Secteur scientifique"],
+      "reponse": "Secteur tertiaire",
+      "explication": "Le secteur tertiaire est celui des services et échanges économiques non-productifs."
+    },
+    {
+      "question": "Quel rôle joue le secteur des services ?",
+      "options": ["Crée des emplois dans les villes", "Fait pousser des plantes", "Produit de l’or", "Gère les barrages"],
+      "reponse": "Crée des emplois dans les villes",
+      "explication": "Le développement urbain a multiplié les métiers dans les services."
+    },
+    {
+      "question": "Quelle activité fait partie du secteur des services privés ?",
+      "options": ["Hôtel", "Ministère", "Gendarmerie", "Hôpital public"],
+      "reponse": "Hôtel",
+      "explication": "Les hôtels sont des entreprises privées qui vendent des services d’hébergement."
+    },
+    {
+      "question": "Quel est un problème du secteur artisanal ?",
+      "options": ["Manque de financement et formation", "Trop d’universités", "Absence de cultures", "Trop de pétrole"],
+      "reponse": "Manque de financement et formation",
+      "explication": "Les artisans peinent à moderniser leur travail à cause du manque d’appui."
+    },
+    {
+      "question": "Quel lien existe entre artisanat et tourisme ?",
+      "options": ["Les touristes achètent les produits artisanaux", "Les artisans organisent les voyages", "Aucun lien", "Les artisans vendent des avions"],
+      "reponse": "Les touristes achètent les produits artisanaux",
+      "explication": "Les objets artisanaux sont très prisés des touristes pour leur beauté et leur originalité."
+    },
+    {
+      "question": "Que permet l’artisanat local ?",
+      "options": ["Préserver la culture et créer de la valeur", "Polluer les rivières", "Créer des mines", "Attirer des tempêtes"],
+      "reponse": "Préserver la culture et créer de la valeur",
+      "explication": "C’est un facteur important de développement durable et culturel."
+    },
+    {
+      "question": "Quel est un service bancaire au Burkina Faso ?",
+      "options": ["La BOA", "La SOBCA", "La COOPA", "La SONABEL"],
+      "reponse": "La BOA",
+      "explication": "La Bank of Africa (BOA) offre des services financiers aux particuliers et entreprises."
+    },
+    {
+      "question": "Quel service accompagne les entreprises à l’exportation ?",
+      "options": ["Chambre de commerce", "Police nationale", "Bureau du climat", "École primaire"],
+      "reponse": "Chambre de commerce",
+      "explication": "Elle soutient les activités économiques et l’exportation des produits burkinabè."
+    },
+    {
+      "question": "Quel secteur regroupe banques, assurances, transports ?",
+      "options": ["Secteur des services", "Secteur agricole", "Secteur extractif", "Secteur minier"],
+      "reponse": "Secteur des services",
+      "explication": "Ces métiers relèvent du secteur tertiaire et soutiennent l’économie."
+    },
+    {
+      "question": "Pourquoi encourager les petites industries ?",
+      "options": ["Créer de l’emploi et réduire les importations", "Fermer les écoles", "Vendre le pays", "Acheter plus de pétrole"],
+      "reponse": "Créer de l’emploi et réduire les importations",
+      "explication": "Les petites industries locales valorisent les ressources nationales et créent des opportunités d’emploi."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "qcm": [
+    {
+      "question": "Quel effet permet à un fer à repasser de chauffer ?",
+      "options": ["Effet thermique", "Effet lumineux", "Effet chimique", "Effet sonore"],
+      "reponse": "Effet thermique",
+      "explication": "Le courant électrique provoque un échauffement : c’est l’effet thermique."
+    },
+    {
+      "question": "Quel appareil utilise l’effet lumineux du courant ?",
+      "options": ["Lampe", "Radiateur", "Moteur", "Pile"],
+      "reponse": "Lampe",
+      "explication": "La lampe transforme l’énergie électrique en lumière : c’est l’effet lumineux."
+    },
+    {
+      "question": "Quel est l’effet observé dans l’électrolyse de l’eau ?",
+      "options": ["Effet chimique", "Effet thermique", "Effet mécanique", "Effet lumineux"],
+      "reponse": "Effet chimique",
+      "explication": "Le courant provoque une transformation chimique dans l’eau."
+    },
+    {
+      "question": "Quel effet permet la production d’oxygène et d’hydrogène à partir de l’eau ?",
+      "options": ["Effet chimique", "Effet thermique", "Effet mécanique", "Effet sonore"],
+      "reponse": "Effet chimique",
+      "explication": "La décomposition de l’eau par courant est une réaction chimique."
+    },
+    {
+      "question": "Le grille-pain utilise principalement :",
+      "options": ["L’effet thermique", "L’effet chimique", "L’effet lumineux", "L’effet mécanique"],
+      "reponse": "L’effet thermique",
+      "explication": "Les résistances chauffent sous l’effet du courant."
+    },
+    {
+      "question": "La lampe torche repose sur quel effet du courant ?",
+      "options": ["L’effet lumineux", "L’effet thermique", "L’effet mécanique", "L’effet chimique"],
+      "reponse": "L’effet lumineux",
+      "explication": "La lampe torche produit de la lumière grâce au courant électrique."
+    },
+    {
+      "question": "Quelle partie d’un circuit chauffe à cause de l’effet thermique ?",
+      "options": ["La résistance", "Le voltmètre", "L’ampèremètre", "L’interrupteur"],
+      "reponse": "La résistance",
+      "explication": "La résistance transforme l’énergie électrique en chaleur."
+    },
+    {
+      "question": "L’électrolyse consiste à :",
+      "options": ["Décomposer une substance grâce à l’électricité", "Faire briller une lampe", "Produire de la chaleur", "Stocker de l’électricité"],
+      "reponse": "Décomposer une substance grâce à l’électricité",
+      "explication": "C’est une réaction chimique déclenchée par le courant."
+    },
+    {
+      "question": "Le courant électrique peut être dangereux pour l’être humain car :",
+      "options": ["Il peut provoquer une électrocution", "Il rend aveugle", "Il détruit les neurones", "Il fait grossir"],
+      "reponse": "Il peut provoquer une électrocution",
+      "explication": "L’électrocution est un danger réel du courant électrique."
+    },
+    {
+      "question": "Quel effet est utilisé dans une bouilloire électrique ?",
+      "options": ["Effet thermique", "Effet lumineux", "Effet chimique", "Effet magnétique"],
+      "reponse": "Effet thermique",
+      "explication": "L’eau est chauffée par l’effet thermique du courant."
+    },
+    {
+      "question": "Un danger de l’électricité à la maison est :",
+      "options": ["L’électrocution", "La poussière", "La rouille", "Le bruit"],
+      "reponse": "L’électrocution",
+      "explication": "Un contact avec le courant peut provoquer une électrocution."
+    },
+    {
+      "question": "L’effet chimique est observé lorsque :",
+      "options": ["Le courant décompose une substance", "Une lampe brille", "Un fer chauffe", "Un moteur tourne"],
+      "reponse": "Le courant décompose une substance",
+      "explication": "Cela se produit dans des expériences comme l’électrolyse."
+    },
+    {
+      "question": "Quel effet est utilisé dans un chauffage électrique ?",
+      "options": ["Thermique", "Lumineux", "Chimique", "Magnétique"],
+      "reponse": "Thermique",
+      "explication": "Le chauffage transforme le courant en chaleur."
+    },
+    {
+      "question": "Le courant électrique peut provoquer des brûlures par :",
+      "options": ["Effet thermique", "Effet lumineux", "Effet sonore", "Effet chimique"],
+      "reponse": "Effet thermique",
+      "explication": "La chaleur produite peut brûler la peau ou les matériaux."
+    },
+    {
+      "question": "Un bain d’électrolyse nécessite :",
+      "options": ["Un liquide conducteur", "Un moteur", "Une pile sèche", "Un aimant"],
+      "reponse": "Un liquide conducteur",
+      "explication": "Le liquide (électrolyte) permet au courant de circuler pour déclencher la réaction."
+    },
+    {
+      "question": "Quel effet permet le dépôt de métal sur un objet (galvanoplastie) ?",
+      "options": ["Effet chimique", "Effet thermique", "Effet lumineux", "Effet mécanique"],
+      "reponse": "Effet chimique",
+      "explication": "Le courant provoque un dépôt métallique sur l’objet plongé dans un électrolyte."
+    },
+    {
+      "question": "Quel est le principal risque d’un appareil électrique mal isolé ?",
+      "options": ["L’électrocution", "Le bruit", "La panne", "La perte de lumière"],
+      "reponse": "L’électrocution",
+      "explication": "Une mauvaise isolation peut conduire le courant vers le corps humain."
+    },
+    {
+      "question": "Lorsqu’une ampoule éclaire, il y a :",
+      "options": ["Un effet lumineux", "Un effet chimique", "Un court-circuit", "Une panne"],
+      "reponse": "Un effet lumineux",
+      "explication": "Elle transforme le courant en lumière."
+    },
+    {
+      "question": "L’effet chimique du courant peut être observé dans :",
+      "options": ["La décomposition de l’eau", "Une lampe", "Un interrupteur", "Une résistance"],
+      "reponse": "La décomposition de l’eau",
+      "explication": "L’électrolyse de l’eau donne H₂ et O₂ grâce au courant."
+    },
+    {
+      "question": "Quel effet du courant peut provoquer un incendie domestique ?",
+      "options": ["Effet thermique", "Effet lumineux", "Effet chimique", "Effet sonore"],
+      "reponse": "Effet thermique",
+      "explication": "Une surchauffe ou court-circuit peut déclencher un feu par chaleur excessive."
+    },
+    {
+      "question": "Un moteur électrique fonctionne grâce à :",
+      "options": ["Un autre type d’effet (mécanique)", "L’effet chimique", "L’effet thermique", "L’effet lumineux"],
+      "reponse": "Un autre type d’effet (mécanique)",
+      "explication": "Le moteur transforme l’énergie électrique en mouvement (électromécanique)."
+    },
+    {
+      "question": "Quel effet du courant est utilisé dans les lampes LED ?",
+      "options": ["Effet lumineux", "Effet thermique", "Effet chimique", "Effet mécanique"],
+      "reponse": "Effet lumineux",
+      "explication": "Les LED produisent de la lumière avec un très faible dégagement de chaleur."
+    },
+    {
+      "question": "Un fil électrique peut chauffer s’il y a :",
+      "options": ["Surcharge de courant", "Pas de courant", "Faible tension", "Peu de résistance"],
+      "reponse": "Surcharge de courant",
+      "explication": "Un courant trop fort élève la température du fil."
+    },
+    {
+      "question": "Quel effet du courant peut entraîner une électrolyse ?",
+      "options": ["Effet chimique", "Effet thermique", "Effet sonore", "Effet mécanique"],
+      "reponse": "Effet chimique",
+      "explication": "C’est le principe même de l’électrolyse."
+    },
+    {
+      "question": "Quel danger provoque un contact direct avec une prise dénudée ?",
+      "options": ["Électrocution", "Éblouissement", "Dommages mécaniques", "Refroidissement"],
+      "reponse": "Électrocution",
+      "explication": "Le courant traverse le corps humain, ce qui peut être mortel."
+    },
+    {
+      "question": "Quel élément protège contre les dangers électriques dans les maisons ?",
+      "options": ["Disjoncteur", "Lampe", "Ampèremètre", "Pile"],
+      "reponse": "Disjoncteur",
+      "explication": "Le disjoncteur coupe automatiquement le courant en cas de problème."
+    },
+    {
+      "question": "Un effet secondaire du courant mal contrôlé est :",
+      "options": ["L’incendie", "La lumière", "La rotation", "La décharge chimique"],
+      "reponse": "L’incendie",
+      "explication": "Un échauffement excessif peut déclencher un feu."
+    },
+    {
+      "question": "Pour éviter les électrocutions, on doit :",
+      "options": ["Isoler les fils", "Toucher les fils", "Couper les lampes", "Chauffer les résistances"],
+      "reponse": "Isoler les fils",
+      "explication": "L’isolation protège contre les contacts accidentels."
+    },
+    {
+      "question": "Quel effet du courant est recherché dans un four électrique ?",
+      "options": ["Thermique", "Lumineux", "Chimique", "Mécanique"],
+      "reponse": "Thermique",
+      "explication": "C’est la chaleur produite qui permet la cuisson."
+    },
+    {
+      "question": "Quel effet du courant est utilisé dans l’électrolyse du sel fondu ?",
+      "options": ["Effet chimique", "Effet lumineux", "Effet thermique", "Effet sonore"],
+      "reponse": "Effet chimique",
+      "explication": "Il y a une séparation d’ions grâce au courant électrique."
+    },
+    {
+      "question": "Quel effet du courant est responsable du fonctionnement des bougies d’allumage ?",
+      "options": ["Effet thermique", "Effet lumineux", "Effet sonore", "Effet chimique"],
+      "reponse": "Effet thermique",
+      "explication": "Les bougies chauffent pour enflammer le mélange air/carburant dans un moteur."
+    }
+  ]
+}

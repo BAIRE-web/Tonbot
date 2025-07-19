@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que la masse d’un objet ?",
+      "options": ["La quantité de matière qu’il contient", "La force qu’il exerce", "Son volume", "Son poids"],
+      "reponse": "La quantité de matière qu’il contient",
+      "explication": "La masse mesure la quantité de matière, elle est constante quel que soit le lieu."
+    },
+    {
+      "question": "Quelle unité utilise-t-on pour la masse ?",
+      "options": ["Kilogramme (kg)", "Newton (N)", "Mètre (m)", "Joule (J)"],
+      "reponse": "Kilogramme (kg)",
+      "explication": "La masse se mesure en kilogrammes dans le système international."
+    },
+    {
+      "question": "Qu’est-ce que le poids d’un objet ?",
+      "options": ["La force exercée par la gravité sur l’objet", "La masse de l’objet", "Son volume", "Sa densité"],
+      "reponse": "La force exercée par la gravité sur l’objet",
+      "explication": "Le poids est une force, donc il s’exprime en newtons (N)."
+    },
+    {
+      "question": "Quelle unité utilise-t-on pour le poids ?",
+      "options": ["Newton (N)", "Kilogramme (kg)", "Mètre (m)", "Watt (W)"],
+      "reponse": "Newton (N)",
+      "explication": "Le poids est une force mesurée en newtons."
+    },
+    {
+      "question": "Quelle est la relation entre poids (P), masse (m) et intensité de pesanteur (g) ?",
+      "options": ["P = m × g", "P = m + g", "P = m ÷ g", "P = g ÷ m"],
+      "reponse": "P = m × g",
+      "explication": "Le poids est égal à la masse multipliée par l’intensité de la pesanteur."
+    },
+    {
+      "question": "Quelle est la valeur approximative de g sur Terre ?",
+      "options": ["10 N/kg", "9,8 m/s", "1 N/kg", "100 N/kg"],
+      "reponse": "10 N/kg",
+      "explication": "On arrondit souvent g à 10 N/kg pour simplifier les calculs."
+    },
+    {
+      "question": "Si un objet a une masse de 3 kg, quel est son poids sur Terre ?",
+      "options": ["30 N", "3 N", "300 N", "10 N"],
+      "reponse": "30 N",
+      "explication": "P = 3 × 10 = 30 N."
+    },
+    {
+      "question": "La masse d’un objet change-t-elle selon le lieu (Terre, Lune, espace) ?",
+      "options": ["Non, la masse est constante", "Oui, la masse diminue", "Oui, la masse augmente", "Oui, la masse devient nulle"],
+      "reponse": "Non, la masse est constante",
+      "explication": "La masse ne dépend pas du lieu où se trouve l’objet."
+    },
+    {
+      "question": "Le poids d’un objet change-t-il selon le lieu (Terre, Lune, espace) ?",
+      "options": ["Oui, le poids change", "Non, le poids est constant", "Non, le poids augmente toujours", "Non, le poids est nul partout"],
+      "reponse": "Oui, le poids change",
+      "explication": "Le poids dépend de l’intensité de la pesanteur, qui varie selon le lieu."
+    },
+    {
+      "question": "Un objet a une masse de 5 kg. Quel est son poids sur la Lune (g = 1,6 N/kg) ?",
+      "options": ["8 N", "50 N", "5 N", "16 N"],
+      "reponse": "8 N",
+      "explication": "P = m × g = 5 × 1,6 = 8 N."
+    },
+    {
+      "question": "Qu’est-ce que l’intensité de la pesanteur g ?",
+      "options": ["La force d’attraction de la Terre sur les objets", "La masse d’un objet", "La vitesse d’un objet", "La température"],
+      "reponse": "La force d’attraction de la Terre sur les objets",
+      "explication": "g mesure l’intensité de cette force par unité de masse."
+    },
+    {
+      "question": "Quel est le poids d’un objet de masse 1 kg sur Terre ?",
+      "options": ["10 N", "1 N", "9,8 N", "100 N"],
+      "reponse": "10 N",
+      "explication": "On arrondit g à 10 N/kg donc P = 1 × 10 = 10 N."
+    },
+    {
+      "question": "Pourquoi le poids est une force et pas une masse ?",
+      "options": ["Car il dépend de g", "Car il est constant", "Car il est mesuré en kg", "Car il ne change jamais"],
+      "reponse": "Car il dépend de g",
+      "explication": "Le poids varie selon l’intensité de la pesanteur, contrairement à la masse."
+    },
+    {
+      "question": "Quel appareil mesure la masse d’un objet ?",
+      "options": ["Une balance", "Un dynamomètre", "Un voltmètre", "Un ampèremètre"],
+      "reponse": "Une balance",
+      "explication": "La balance mesure la masse, généralement en kilogrammes."
+    },
+    {
+      "question": "Quel appareil mesure le poids d’un objet ?",
+      "options": ["Un dynamomètre", "Une balance", "Un baromètre", "Un thermomètre"],
+      "reponse": "Un dynamomètre",
+      "explication": "Le dynamomètre mesure une force, ici le poids, en newtons."
+    },
+    {
+      "question": "Si la masse d’un objet est doublée, que se passe-t-il pour son poids ?",
+      "options": ["Il double aussi", "Il reste identique", "Il diminue", "Il devient nul"],
+      "reponse": "Il double aussi",
+      "explication": "Le poids est proportionnel à la masse."
+    },
+    {
+      "question": "Quelle grandeur est toujours positive :",
+      "options": ["Masse", "Poids", "Force de frottement", "Vitesse"],
+      "reponse": "Masse",
+      "explication": "La masse est toujours positive, tandis que la force peut avoir un sens."
+    },
+    {
+      "question": "L’unité kg mesure :",
+      "options": ["La masse", "Le poids", "La force", "La pression"],
+      "reponse": "La masse",
+      "explication": "Le kilogramme est l’unité de la masse."
+    },
+    {
+      "question": "Un objet de masse 10 kg a un poids de 100 N. Quelle est la valeur de g ?",
+      "options": ["10 N/kg", "9,8 N/kg", "1 N/kg", "100 N/kg"],
+      "reponse": "10 N/kg",
+      "explication": "P = m × g donc g = P ÷ m = 100 ÷ 10 = 10 N/kg."
+    },
+    {
+      "question": "Un astronaute pèse moins sur la Lune car :",
+      "options": ["La gravité y est plus faible", "Sa masse diminue", "La température est plus basse", "Il flotte dans l’espace"],
+      "reponse": "La gravité y est plus faible",
+      "explication": "Le poids dépend de l’attraction gravitationnelle locale."
+    },
+    {
+      "question": "Quel est le symbole utilisé pour la masse ?",
+      "options": ["m", "P", "g", "F"],
+      "reponse": "m",
+      "explication": "On note la masse par la lettre m."
+    },
+    {
+      "question": "Quel est le symbole utilisé pour le poids ?",
+      "options": ["P", "m", "g", "F"],
+      "reponse": "P",
+      "explication": "Le poids est noté P."
+    },
+    {
+      "question": "La masse d’un objet est mesurée en kilogrammes, le poids en :",
+      "options": ["Newtons", "Kilogrammes", "Joules", "Watts"],
+      "reponse": "Newtons",
+      "explication": "Le poids est une force, donc en newtons."
+    },
+    {
+      "question": "Le poids est une force car il a :",
+      "options": ["Une direction, un sens et une intensité", "Seulement une intensité", "Une masse et un volume", "Une densité"],
+      "reponse": "Une direction, un sens et une intensité",
+      "explication": "Le poids est une grandeur vectorielle."
+    },
+    {
+      "question": "Le poids agit toujours :",
+      "options": ["Vers le centre de la Terre", "Vers le haut", "Vers le soleil", "Vers le ciel"],
+      "reponse": "Vers le centre de la Terre",
+      "explication": "Le poids est dirigé vers le centre de gravité terrestre."
+    },
+    {
+      "question": "Un objet de masse 7 kg a un poids de 70 N. Quelle est la valeur de g ?",
+      "options": ["10 N/kg", "7 N/kg", "70 N/kg", "1 N/kg"],
+      "reponse": "10 N/kg",
+      "explication": "g = P ÷ m = 70 ÷ 7 = 10 N/kg."
+    },
+    {
+      "question": "Un objet en apesanteur a :",
+      "options": ["Un poids nul", "Une masse nulle", "Une force de frottement", "Une énergie cinétique"],
+      "reponse": "Un poids nul",
+      "explication": "En apesanteur, l’objet ne subit plus de poids."
+    },
+    {
+      "question": "Si on mesure le poids d’un objet avec un dynamomètre, on obtient :",
+      "options": ["La force exercée par la gravité", "La masse", "Le volume", "La densité"],
+      "reponse": "La force exercée par la gravité",
+      "explication": "Le dynamomètre mesure la force, ici le poids."
+    },
+    {
+      "question": "Un objet a une masse de 4 kg. Quel est son poids sur Terre (g = 10 N/kg) ?",
+      "options": ["40 N", "4 N", "400 N", "10 N"],
+      "reponse": "40 N",
+      "explication": "P = m × g = 4 × 10 = 40 N."
+    },
+    {
+      "question": "Si la masse d’un objet est de 7 kg, quel est son poids sur la Lune (g = 1,6 N/kg) ?",
+      "options": ["11,2 N", "70 N", "4,4 N", "1,6 N"],
+      "reponse": "11,2 N",
+      "explication": "P = 7 × 1,6 = 11,2 N."
+    },
+    {
+      "question": "Quelle est la masse d’un objet dont le poids est 50 N sur Terre (g = 10 N/kg) ?",
+      "options": ["5 kg", "50 kg", "500 kg", "0,5 kg"],
+      "reponse": "5 kg",
+      "explication": "m = P ÷ g = 50 ÷ 10 = 5 kg."
+    },
+    {
+      "question": "Un objet a un poids de 24 N sur Terre. Quelle est sa masse ?",
+      "options": ["2,4 kg", "24 kg", "240 kg", "0,24 kg"],
+      "reponse": "2,4 kg",
+      "explication": "m = P ÷ g = 24 ÷ 10 = 2,4 kg."
+    },
+    {
+      "question": "Un astronaute de 70 kg sur Terre pèse combien sur la Lune ? (gLune = 1,6 N/kg)",
+      "options": ["112 N", "700 N", "70 N", "11,2 N"],
+      "reponse": "112 N",
+      "explication": "P = 70 × 1,6 = 112 N."
+    },
+    {
+      "question": "La masse d’un objet est 3 kg. Quelle est sa force poids sur Terre ?",
+      "options": ["30 N", "3 N", "300 N", "10 N"],
+      "reponse": "30 N",
+      "explication": "P = 3 × 10 = 30 N."
+    },
+    {
+      "question": "Si le poids d’un objet est 90 N, quelle est sa masse ?",
+      "options": ["9 kg", "90 kg", "900 kg", "0,9 kg"],
+      "reponse": "9 kg",
+      "explication": "m = P ÷ g = 90 ÷ 10 = 9 kg."
+    },
+    {
+      "question": "Un objet de 12 kg est placé sur une balance. Quelle grandeur la balance mesure-t-elle ?",
+      "options": ["La masse", "Le poids", "La force", "Le volume"],
+      "reponse": "La masse",
+      "explication": "La balance mesure la masse en kilogrammes."
+    },
+    {
+      "question": "Un dynamomètre indique 45 N. Quelle est la masse de l’objet (g = 10 N/kg) ?",
+      "options": ["4,5 kg", "45 kg", "450 kg", "0,45 kg"],
+      "reponse": "4,5 kg",
+      "explication": "m = 45 ÷ 10 = 4,5 kg."
+    },
+    {
+      "question": "Quelle est la valeur de g approximative sur Terre ?",
+      "options": ["10 N/kg", "9,8 N", "1,6 N/kg", "100 N/kg"],
+      "reponse": "10 N/kg",
+      "explication": "Pour simplifier les calculs on arrondit g à 10 N/kg."
+    },
+    {
+      "question": "Un objet a une masse de 5 kg. Quel sera son poids sur Mars (gMars = 3,7 N/kg) ?",
+      "options": ["18,5 N", "50 N", "5 N", "37 N"],
+      "reponse": "18,5 N",
+      "explication": "P = m × g = 5 × 3,7 = 18,5 N."
+    },
+    {
+      "question": "Un objet pèse 150 N sur Terre. Quelle est sa masse ?",
+      "options": ["15 kg", "150 kg", "1,5 kg", "1500 kg"],
+      "reponse": "15 kg",
+      "explication": "m = 150 ÷ 10 = 15 kg."
+    },
+    {
+      "question": "Un objet a un poids de 200 N. Quelle est sa masse ?",
+      "options": ["20 kg", "200 kg", "2 kg", "0,2 kg"],
+      "reponse": "20 kg",
+      "explication": "m = 200 ÷ 10 = 20 kg."
+    },
+    {
+      "question": "Un objet de masse 8 kg est placé dans un ascenseur en chute libre. Quel est son poids apparent ?",
+      "options": ["0 N", "80 N", "8 N", "10 N"],
+      "reponse": "0 N",
+      "explication": "En chute libre, le poids apparent est nul (apesanteur)."
+    },
+    {
+      "question": "Si un objet a une masse de 10 kg, quel est son poids sur Terre ?",
+      "options": ["100 N", "10 N", "1 N", "1000 N"],
+      "reponse": "100 N",
+      "explication": "P = 10 × 10 = 100 N."
+    },
+    {
+      "question": "Une personne a un poids de 600 N. Quelle est sa masse ?",
+      "options": ["60 kg", "600 kg", "6 kg", "6000 kg"],
+      "reponse": "60 kg",
+      "explication": "m = 600 ÷ 10 = 60 kg."
+    },
+    {
+      "question": "Quel est le poids d’un objet de 0,5 kg sur Terre ?",
+      "options": ["5 N", "0,5 N", "50 N", "10 N"],
+      "reponse": "5 N",
+      "explication": "P = 0,5 × 10 = 5 N."
+    },
+    {
+      "question": "Un objet de 1,2 kg a un poids de :",
+      "options": ["12 N", "1,2 N", "120 N", "10 N"],
+      "reponse": "12 N",
+      "explication": "P = 1,2 × 10 = 12 N."
+    },
+    {
+      "question": "Quelle grandeur reste constante quel que soit le lieu où se trouve un objet ?",
+      "options": ["La masse", "Le poids", "La force", "La vitesse"],
+      "reponse": "La masse",
+      "explication": "La masse est une propriété intrinsèque."
+    },
+    {
+      "question": "Quelle grandeur varie selon le lieu (Terre, Lune, espace) ?",
+      "options": ["Le poids", "La masse", "La longueur", "La vitesse"],
+      "reponse": "Le poids",
+      "explication": "Le poids dépend de l’intensité de la pesanteur locale."
+    }
+  ]
+}

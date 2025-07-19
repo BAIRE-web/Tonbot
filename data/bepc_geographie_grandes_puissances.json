@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la première puissance économique mondiale ?",
+      "options": ["États-Unis", "Chine", "Japon", "Allemagne"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis ont la plus grande économie mondiale en termes de PIB."
+    },
+    {
+      "question": "Quelle organisation regroupe plusieurs pays d’Europe pour faciliter le commerce ?",
+      "options": ["Union Européenne", "ASEAN", "ONU", "NAFTA"],
+      "reponse": "Union Européenne",
+      "explication": "L’Union Européenne est une organisation politique et économique regroupant plusieurs pays européens."
+    },
+    {
+      "question": "Quelle est la principale caractéristique des pays industrialisés ?",
+      "options": ["Économie basée sur l’industrie et les services", "Agriculture majoritaire", "Pêche artisanale", "Économie rurale"],
+      "reponse": "Économie basée sur l’industrie et les services",
+      "explication": "Les pays industrialisés ont un secteur secondaire et tertiaire développé."
+    },
+    {
+      "question": "Quelle est la place de la Chine dans l’économie mondiale actuelle ?",
+      "options": ["Deuxième puissance économique mondiale", "Première puissance", "Cinquième", "Dixième"],
+      "reponse": "Deuxième puissance économique mondiale",
+      "explication": "La Chine est la deuxième économie mondiale après les États-Unis."
+    },
+    {
+      "question": "Quel pays est une grande puissance industrielle en Asie ?",
+      "options": ["Japon", "Inde", "Indonésie", "Pakistan"],
+      "reponse": "Japon",
+      "explication": "Le Japon est un pays très industrialisé et une grande puissance économique en Asie."
+    },
+    {
+      "question": "Quelle caractéristique ne correspond pas aux pays industrialisés ?",
+      "options": ["Taux élevé d’industrialisation", "Faible niveau d’éducation", "Niveau de vie élevé", "Infrastructures développées"],
+      "reponse": "Faible niveau d’éducation",
+      "explication": "Les pays industrialisés ont généralement un haut niveau d’éducation."
+    },
+    {
+      "question": "Quelle est la monnaie utilisée par la majorité des pays de l’Union Européenne ?",
+      "options": ["Euro", "Dollar", "Yen", "Franc CFA"],
+      "reponse": "Euro",
+      "explication": "L’euro est la monnaie commune de nombreux pays membres de l’Union Européenne."
+    },
+    {
+      "question": "Quel secteur économique est prédominant dans les grandes puissances ?",
+      "options": ["Services", "Agriculture", "Exploitation minière", "Pêche"],
+      "reponse": "Services",
+      "explication": "Le secteur tertiaire (services) est le plus développé dans ces pays."
+    },
+    {
+      "question": "Qu’est-ce que la délocalisation ?",
+      "options": ["Transfert d’activités vers des pays à bas coûts", "Augmentation des salaires", "Fermeture des usines", "Réduction des importations"],
+      "reponse": "Transfert d’activités vers des pays à bas coûts",
+      "explication": "Les entreprises déplacent certaines activités pour réduire les coûts."
+    },
+    {
+      "question": "Quel est un avantage économique important des États-Unis ?",
+      "options": ["Technologies avancées", "Climat tropical", "Faible population", "Faible production agricole"],
+      "reponse": "Technologies avancées",
+      "explication": "Les États-Unis sont leaders en innovation et technologie."
+    },
+    {
+      "question": "Quelle région de l’Union Européenne est la plus industrialisée ?",
+      "options": ["Allemagne", "Portugal", "Grèce", "Bulgarie"],
+      "reponse": "Allemagne",
+      "explication": "L’Allemagne est le moteur industriel de l’Union Européenne."
+    },
+    {
+      "question": "Quel est le principal partenaire commercial de la Chine ?",
+      "options": ["États-Unis", "Inde", "Russie", "Brésil"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis sont un partenaire commercial majeur pour la Chine."
+    },
+    {
+      "question": "Quel est le rôle des infrastructures dans les pays industrialisés ?",
+      "options": ["Faciliter la production et les échanges", "Empêcher le commerce", "Réduire la population", "Limiter l’industrialisation"],
+      "reponse": "Faciliter la production et les échanges",
+      "explication": "Des infrastructures modernes favorisent l’économie et le commerce."
+    },
+    {
+      "question": "Quel pays est une puissance économique émergente en Asie ?",
+      "options": ["Chine", "Japon", "Corée du Sud", "Inde"],
+      "reponse": "Inde",
+      "explication": "L’Inde connaît une forte croissance économique, en devenir puissance majeure."
+    },
+    {
+      "question": "Quel est le rôle des grandes puissances dans l’économie mondiale ?",
+      "options": ["Influencer le commerce et la politique mondiale", "Ignorer les autres pays", "Fermer leurs frontières", "Diminuer la production"],
+      "reponse": "Influencer le commerce et la politique mondiale",
+      "explication": "Ces pays ont un poids important dans les décisions économiques mondiales."
+    },
+    {
+      "question": "Quel secteur emploie le plus de personnes dans les pays industrialisés ?",
+      "options": ["Secteur des services", "Agriculture", "Industrie lourde", "Exploitation minière"],
+      "reponse": "Secteur des services",
+      "explication": "Les services (commerce, finance, santé, éducation) dominent l’emploi."
+    },
+    {
+      "question": "Quel est le rôle du Japon dans l’économie mondiale ?",
+      "options": ["Grand exportateur de technologies et automobiles", "Pays agricole", "Principale source de pétrole", "Zone désertique"],
+      "reponse": "Grand exportateur de technologies et automobiles",
+      "explication": "Le Japon est reconnu pour ses industries de pointe."
+    },
+    {
+      "question": "Quel est l’indicateur qui mesure la richesse d’un pays ?",
+      "options": ["Produit Intérieur Brut (PIB)", "Nombre d’habitants", "Surface du pays", "Nombre de langues parlées"],
+      "reponse": "Produit Intérieur Brut (PIB)",
+      "explication": "Le PIB mesure la richesse produite par un pays en une année."
+    },
+    {
+      "question": "Quel est le poids démographique des grandes puissances économiques ?",
+      "options": ["Important mais variable selon le pays", "Toujours faible", "Très élevé uniquement", "Inexistant"],
+      "reponse": "Important mais variable selon le pays",
+      "explication": "Les États-Unis et la Chine ont de grandes populations, l’UE est diversifiée."
+    },
+    {
+      "question": "Quel est un des défis majeurs des grandes puissances ?",
+      "options": ["Maintenir la compétitivité face aux pays émergents", "Augmenter la pauvreté", "Réduire l’éducation", "Limiter l’industrie"],
+      "reponse": "Maintenir la compétitivité face aux pays émergents",
+      "explication": "La concurrence mondiale oblige ces pays à innover constamment."
+    },
+    {
+      "question": "Qu’est-ce que la tertiarisation de l’économie ?",
+      "options": ["Développement du secteur des services", "Augmentation de l’agriculture", "Croissance de l’industrie lourde", "Expansion minière"],
+      "reponse": "Développement du secteur des services",
+      "explication": "C’est le passage d’une économie industrielle à une économie dominée par les services."
+    },
+    {
+      "question": "Quel pays est le principal exportateur mondial de voitures ?",
+      "options": ["Japon", "France", "Brésil", "Canada"],
+      "reponse": "Japon",
+      "explication": "Le Japon est reconnu pour son industrie automobile très développée."
+    },
+    {
+      "question": "Quel est le poids de l’Union Européenne dans le commerce mondial ?",
+      "options": ["Très important", "Négligeable", "Très faible", "Inexistant"],
+      "reponse": "Très important",
+      "explication": "L’UE est un acteur majeur du commerce mondial."
+    },
+    {
+      "question": "Quel pays possède la Silicon Valley, centre mondial des technologies ?",
+      "options": ["États-Unis", "Chine", "Japon", "Allemagne"],
+      "reponse": "États-Unis",
+      "explication": "La Silicon Valley est située en Californie, aux États-Unis."
+    },
+    {
+      "question": "Quel est le principal partenaire commercial du Japon ?",
+      "options": ["États-Unis", "Chine", "Russie", "Inde"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis sont le principal marché d’exportation pour le Japon."
+    },
+    {
+      "question": "Quel est l’impact des innovations technologiques sur les grandes puissances ?",
+      "options": ["Augmentation de la productivité et compétitivité", "Diminution des échanges", "Réduction de la production", "Déclin économique"],
+      "reponse": "Augmentation de la productivité et compétitivité",
+      "explication": "Les technologies innovantes permettent de rester compétitif."
+    },
+    {
+      "question": "Quel est l’un des pays membres fondateurs de l’Union Européenne ?",
+      "options": ["France", "Russie", "Turquie", "Brésil"],
+      "reponse": "France",
+      "explication": "La France est un pays fondateur de l’Union Européenne."
+    },
+    {
+      "question": "Quelle est la capitale économique de la Chine ?",
+      "options": ["Shanghai", "Pékin", "Hong Kong", "Guangzhou"],
+      "reponse": "Shanghai",
+      "explication": "Shanghai est un important centre financier et industriel."
+    },
+    {
+      "question": "Quel est un avantage des grandes puissances économiques ?",
+      "options": ["Accès à des technologies avancées", "Faible éducation", "Peu d’infrastructures", "Population réduite"],
+      "reponse": "Accès à des technologies avancées",
+      "explication": "Les grandes puissances investissent beaucoup dans la recherche et le développement."
+    }
+  ]
+}

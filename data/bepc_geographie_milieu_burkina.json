@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le type de relief dominant au Burkina Faso ?",
+      "options": ["Des plateaux légèrement ondulés", "Des chaînes de montagnes", "Des plaines marécageuses", "Des dunes côtières"],
+      "reponse": "Des plateaux légèrement ondulés",
+      "explication": "Le relief burkinabè est constitué en grande partie de plateaux d'altitude moyenne."
+    },
+    {
+      "question": "Quelle est l'altitude moyenne du territoire burkinabè ?",
+      "options": ["Entre 200 et 400 mètres", "Entre 600 et 800 mètres", "Plus de 1000 mètres", "Moins de 100 mètres"],
+      "reponse": "Entre 200 et 400 mètres",
+      "explication": "L’altitude varie autour de 300 à 400 mètres sur la majorité du territoire."
+    },
+    {
+      "question": "Quel est le point culminant du Burkina Faso ?",
+      "options": ["Ténakourou", "Gounghin", "Koudougou", "Banfora"],
+      "reponse": "Ténakourou",
+      "explication": "Le mont Ténakourou, dans la province de la Léraba, culmine à 749 mètres."
+    },
+    {
+      "question": "Dans quelle région se situe le mont Ténakourou ?",
+      "options": ["Cascades", "Est", "Centre-Nord", "Sahel"],
+      "reponse": "Cascades",
+      "explication": "La région des Cascades abrite les reliefs les plus élevés du pays."
+    },
+    {
+      "question": "Quel climat domine au Burkina Faso ?",
+      "options": ["Tropical de type soudano-sahélien", "Équatorial humide", "Méditerranéen", "Océanique"],
+      "reponse": "Tropical de type soudano-sahélien",
+      "explication": "Le climat est tropical sec avec deux saisons : sèche et pluvieuse."
+    },
+    {
+      "question": "Quelle est la principale saison sèche au Burkina Faso ?",
+      "options": ["L’harmattan souffle entre novembre et mars", "Entre juin et août", "Entre mars et mai", "Décembre à février avec pluie"],
+      "reponse": "L’harmattan souffle entre novembre et mars",
+      "explication": "Cette période est caractérisée par un vent sec et poussiéreux venant du nord."
+    },
+    {
+      "question": "Quelle région reçoit le plus de pluie au Burkina Faso ?",
+      "options": ["Sud-Ouest", "Sahel", "Nord-Centre", "Centre-Nord"],
+      "reponse": "Sud-Ouest",
+      "explication": "Le Sud-Ouest est la zone la plus arrosée avec plus de 1000 mm de pluie par an."
+    },
+    {
+      "question": "Quelle région est la plus sèche du pays ?",
+      "options": ["Sahel", "Centre", "Boucle du Mouhoun", "Cascades"],
+      "reponse": "Sahel",
+      "explication": "Le Sahel reçoit moins de 600 mm de pluie par an, rendant l’agriculture difficile."
+    },
+    {
+      "question": "Combien de saisons observe-t-on au Burkina Faso ?",
+      "options": ["Deux : sèche et pluvieuse", "Quatre", "Une seule", "Trois"],
+      "reponse": "Deux : sèche et pluvieuse",
+      "explication": "Le pays connaît une alternance entre saison sèche (hiver) et saison des pluies (été)."
+    },
+    {
+      "question": "Quel fleuve ne traverse PAS le Burkina Faso ?",
+      "options": ["Le Niger", "La Volta Noire", "La Comoé", "Le Congo"],
+      "reponse": "Le Congo",
+      "explication": "Le fleuve Congo ne se trouve pas dans la zone ouest-africaine où se situe le Burkina Faso."
+    },
+    {
+      "question": "Quelle rivière forme une frontière naturelle avec le Ghana ?",
+      "options": ["La Volta Noire", "La Volta Blanche", "Le Nakambé", "Le Komoé"],
+      "reponse": "La Volta Noire",
+      "explication": "La Volta Noire, appelée Mouhoun, sert de frontière naturelle dans le Sud-Ouest."
+    },
+    {
+      "question": "Quel est le principal problème des cours d’eau au Burkina Faso ?",
+      "options": ["Ils sont temporaires", "Ils sont trop profonds", "Ils provoquent des inondations fréquentes", "Ils sont tous salés"],
+      "reponse": "Ils sont temporaires",
+      "explication": "La majorité des cours d’eau sont intermittents, actifs uniquement pendant la saison des pluies."
+    },
+    {
+      "question": "Comment appelle-t-on un cours d’eau temporaire ?",
+      "options": ["Mare", "Cours intermittent", "Lac salé", "Cordon d’eau"],
+      "reponse": "Cours intermittent",
+      "explication": "Ce sont des cours d’eau qui ne coulent que pendant la saison des pluies."
+    },
+    {
+      "question": "Quelle grande retenue d’eau artificielle est située près de Ouagadougou ?",
+      "options": ["Le barrage de Ziga", "Le barrage de Bagré", "La Kompienga", "La mare de Saponé"],
+      "reponse": "Le barrage de Ziga",
+      "explication": "Ziga alimente en eau potable une grande partie de la capitale."
+    },
+    {
+      "question": "Quel sol est le plus répandu au Burkina Faso ?",
+      "options": ["Sols ferrugineux tropicaux", "Sols volcaniques", "Sols alluviaux marins", "Sols calcaires"],
+      "reponse": "Sols ferrugineux tropicaux",
+      "explication": "Ces sols sont pauvres en éléments nutritifs et très répandus dans les savanes."
+    },
+    {
+      "question": "Quel type de sol est favorable à l’agriculture dans les vallées ?",
+      "options": ["Sols alluvionnaires", "Sols sablonneux", "Sols argileux secs", "Sols salés"],
+      "reponse": "Sols alluvionnaires",
+      "explication": "Ce sont des sols fertiles déposés par les eaux, souvent dans les vallées fluviales."
+    },
+    {
+      "question": "Quel est le principal problème lié aux sols burkinabè ?",
+      "options": ["L’érosion", "La fertilité trop forte", "Le gel", "La pollution marine"],
+      "reponse": "L’érosion",
+      "explication": "L’érosion éolienne ou hydrique détruit progressivement les couches fertiles des sols."
+    },
+    {
+      "question": "Comment lutter contre l’érosion des sols ?",
+      "options": ["Par des cordons pierreux et reboisement", "En coupant tous les arbres", "Par les pesticides", "En brûlant les terres"],
+      "reponse": "Par des cordons pierreux et reboisement",
+      "explication": "Les techniques de protection des sols incluent les cordons pierreux et le couvert végétal."
+    },
+    {
+      "question": "Quel type de végétation domine au centre du Burkina Faso ?",
+      "options": ["Savane soudanienne", "Forêt équatoriale", "Désert", "Mangrove"],
+      "reponse": "Savane soudanienne",
+      "explication": "Le centre du pays est caractérisé par une savane avec arbres et herbes hautes."
+    },
+    {
+      "question": "Quel type de végétation observe-t-on dans le nord du pays ?",
+      "options": ["Savane sahélienne", "Forêt humide", "Mangrove", "Toundra"],
+      "reponse": "Savane sahélienne",
+      "explication": "Le Nord, plus sec, présente une végétation pauvre de type sahélienne."
+    },
+    {
+      "question": "Quelle végétation est menacée par la déforestation ?",
+      "options": ["Les forêts-galeries", "Les champs cultivés", "Les mangroves", "Les marécages"],
+      "reponse": "Les forêts-galeries",
+      "explication": "Ces forêts qui bordent les cours d’eau sont très sensibles à la coupe de bois."
+    },
+    {
+      "question": "Quelle activité humaine favorise la désertification ?",
+      "options": ["Le surpâturage", "La pêche", "La vaccination", "L’agriculture biologique"],
+      "reponse": "Le surpâturage",
+      "explication": "Le surpâturage détruit la couverture végétale, accélérant l’érosion et la désertification."
+    },
+    {
+      "question": "Quel est un impact direct de la coupe abusive du bois ?",
+      "options": ["La disparition des espèces et l’érosion", "La montée du niveau de mer", "L’augmentation des ouragans", "La baisse des prix"],
+      "reponse": "La disparition des espèces et l’érosion",
+      "explication": "Couper trop d’arbres réduit la biodiversité et expose le sol à l’érosion."
+    },
+    {
+      "question": "Quelles zones au Burkina Faso sont les plus boisées ?",
+      "options": ["Sud-Ouest", "Centre-Nord", "Sahel", "Nord-Est"],
+      "reponse": "Sud-Ouest",
+      "explication": "Le Sud-Ouest reçoit plus de pluie et abrite plus de forêts."
+    },
+    {
+      "question": "Qu’est-ce qu’une forêt-galerie ?",
+      "options": ["Forêt le long des cours d’eau", "Forêt en galerie marchande", "Forêt de montagne", "Forêt urbaine"],
+      "reponse": "Forêt le long des cours d’eau",
+      "explication": "Ces forêts poussent en bandes étroites le long des rivières."
+    },
+    {
+      "question": "Pourquoi la zone sahélienne est-elle vulnérable ?",
+      "options": ["Faibles précipitations et forte pression humaine", "Trop de forêts", "Inondations régulières", "Volcans actifs"],
+      "reponse": "Faibles précipitations et forte pression humaine",
+      "explication": "La sécheresse et les activités humaines fragilisent les ressources."
+    },
+    {
+      "question": "Quel est un des parcs naturels majeurs du pays ?",
+      "options": ["Arly", "Kafue", "Bamako", "Zambèze"],
+      "reponse": "Arly",
+      "explication": "Le parc d’Arly est une réserve naturelle située à l’Est du Burkina."
+    },
+    {
+      "question": "Qu'est-ce qu'un marigot au Burkina Faso ?",
+      "options": ["Cours d’eau temporaire peu profond", "Montagne plate", "Village en hauteur", "Champ d’ignames"],
+      "reponse": "Cours d’eau temporaire peu profond",
+      "explication": "Les marigots se remplissent pendant la saison des pluies."
+    },
+    {
+      "question": "Quel facteur naturel influence fortement la vie rurale au Burkina Faso ?",
+      "options": ["Le climat", "Les gratte-ciels", "Les ports", "Les océans"],
+      "reponse": "Le climat",
+      "explication": "Les variations de climat influencent les récoltes, la santé du bétail, et l’accès à l’eau."
+    }
+  ]
+}

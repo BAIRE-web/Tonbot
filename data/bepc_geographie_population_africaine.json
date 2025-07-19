@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que la densité de population ?",
+      "options": ["Nombre d’habitants par km²", "Nombre d’enfants par femme", "Nombre de villes dans un pays", "Nombre d’écoles dans une région"],
+      "reponse": "Nombre d’habitants par km²",
+      "explication": "La densité mesure la concentration de population sur un territoire."
+    },
+    {
+      "question": "Qu’est-ce que la répartition de la population ?",
+      "options": ["Manière dont les habitants sont répartis dans un espace", "Nombre d’hommes par rapport aux femmes", "Migration vers les villes", "Classement des pays par taille"],
+      "reponse": "Manière dont les habitants sont répartis dans un espace",
+      "explication": "Elle indique où les populations sont concentrées ou peu nombreuses."
+    },
+    {
+      "question": "Où les populations sont-elles les plus concentrées en Afrique ?",
+      "options": ["Vallées fluviales et côtes", "Déserts", "Montagnes", "Forêts denses"],
+      "reponse": "Vallées fluviales et côtes",
+      "explication": "Les régions fertiles et accessibles attirent plus de populations."
+    },
+    {
+      "question": "Quelle région est faiblement peuplée ?",
+      "options": ["Sahara", "Golfe de Guinée", "Delta du Nil", "Afrique de l’Est"],
+      "reponse": "Sahara",
+      "explication": "Le Sahara est très peu peuplé à cause de son climat aride."
+    },
+    {
+      "question": "Quelle est une cause de forte croissance démographique ?",
+      "options": ["Taux de natalité élevé", "Nombre de morts élevé", "Vieillissement de la population", "Baisse de la fécondité"],
+      "reponse": "Taux de natalité élevé",
+      "explication": "En Afrique, beaucoup de naissances entraînent une forte croissance."
+    },
+    {
+      "question": "Quel continent connaît la croissance démographique la plus rapide ?",
+      "options": ["Afrique", "Europe", "Asie", "Amérique du Nord"],
+      "reponse": "Afrique",
+      "explication": "L’Afrique a une des plus fortes croissances à cause de sa natalité élevée."
+    },
+    {
+      "question": "Qu’est-ce que la fécondité ?",
+      "options": ["Nombre moyen d’enfants par femme", "Nombre de villes par pays", "Nombre de décès", "Nombre de familles par quartier"],
+      "reponse": "Nombre moyen d’enfants par femme",
+      "explication": "C’est un indicateur important de la croissance démographique."
+    },
+    {
+      "question": "Quelle conséquence a une forte croissance démographique ?",
+      "options": ["Pression sur les ressources", "Baisse du chômage", "Augmentation des forêts", "Réduction des migrations"],
+      "reponse": "Pression sur les ressources",
+      "explication": "Trop d’habitants peut entraîner un manque d’eau, de nourriture, de logements."
+    },
+    {
+      "question": "Pourquoi certaines populations quittent les campagnes ?",
+      "options": ["Manque d’emplois et services", "Trop de forêts", "Climat trop frais", "Présence de mines"],
+      "reponse": "Manque d’emplois et services",
+      "explication": "Les gens migrent vers les villes pour de meilleures conditions de vie."
+    },
+    {
+      "question": "Comment appelle-t-on le départ des ruraux vers les villes ?",
+      "options": ["Exode rural", "Émigration", "Immigration", "Décentralisation"],
+      "reponse": "Exode rural",
+      "explication": "C’est le phénomène de départ massif des campagnes vers les villes."
+    },
+    {
+      "question": "Quel phénomène désigne l’augmentation rapide des villes ?",
+      "options": ["Urbanisation", "Mondialisation", "Industrialisation", "Mécanisation"],
+      "reponse": "Urbanisation",
+      "explication": "C’est la croissance de la population urbaine et des villes."
+    },
+    {
+      "question": "Qu’est-ce qu’une mégapole ?",
+      "options": ["Ville de plus de 10 millions d’habitants", "Village agricole", "Capitale régionale", "Zone désertique"],
+      "reponse": "Ville de plus de 10 millions d’habitants",
+      "explication": "Des villes comme Lagos ou Le Caire atteignent ce seuil."
+    },
+    {
+      "question": "Quelles villes africaines sont très peuplées ?",
+      "options": ["Lagos et Le Caire", "Tombouctou et Zinder", "Bobo-Dioulasso et Maradi", "Bamako et Niamey"],
+      "reponse": "Lagos et Le Caire",
+      "explication": "Ce sont deux des plus grandes villes du continent africain."
+    },
+    {
+      "question": "Quelles sont les causes des migrations africaines ?",
+      "options": ["Pauvreté, conflits, recherche d’emplois", "Trop d’écoles", "Climat tempéré", "Surcharge de loisirs"],
+      "reponse": "Pauvreté, conflits, recherche d’emplois",
+      "explication": "Les difficultés économiques et sociales poussent à migrer."
+    },
+    {
+      "question": "Qu’est-ce qu’un migrant ?",
+      "options": ["Personne qui change de lieu de vie", "Éleveur de bétail", "Citoyen d’un village", "Fonctionnaire"],
+      "reponse": "Personne qui change de lieu de vie",
+      "explication": "C’est toute personne qui quitte une région pour une autre."
+    },
+    {
+      "question": "Quelle est une conséquence de l’urbanisation rapide ?",
+      "options": ["Développement de bidonvilles", "Reboisement", "Diminution de la pollution", "Multiplication des villages"],
+      "reponse": "Développement de bidonvilles",
+      "explication": "Les villes grandissent plus vite que les infrastructures nécessaires."
+    },
+    {
+      "question": "Pourquoi de nombreux jeunes quittent les campagnes ?",
+      "options": ["Manque d’opportunités", "Trop de richesse", "Excès de services", "Présence de ports maritimes"],
+      "reponse": "Manque d’opportunités",
+      "explication": "Ils cherchent un meilleur avenir dans les villes."
+    },
+    {
+      "question": "Quelle région africaine connaît une forte densité de population ?",
+      "options": ["Delta du Nil", "Sahara", "Namibie", "Afrique centrale forestière"],
+      "reponse": "Delta du Nil",
+      "explication": "La fertilité du Nil attire une population très nombreuse."
+    },
+    {
+      "question": "Quel est un effet des migrations vers les pays développés ?",
+      "options": ["Fuite des cerveaux", "Importation de forêts", "Exode urbain", "Augmentation des déserts"],
+      "reponse": "Fuite des cerveaux",
+      "explication": "Les jeunes diplômés quittent le continent pour de meilleures conditions."
+    },
+    {
+      "question": "Que signifie ‘croissance naturelle’ ?",
+      "options": ["Différence entre naissances et décès", "Arrivée des touristes", "Taille des villes", "Importation de ressources"],
+      "reponse": "Différence entre naissances et décès",
+      "explication": "Elle exprime l’évolution de la population sans tenir compte des migrations."
+    },
+    {
+      "question": "Quel est un défi posé par la forte croissance urbaine ?",
+      "options": ["Manque de logements", "Abondance d’eau", "Stabilité économique", "Retour en masse vers les villages"],
+      "reponse": "Manque de logements",
+      "explication": "Les villes grandissent plus vite que la construction de logements adaptés."
+    },
+    {
+      "question": "Quel type de migration concerne les pays voisins ?",
+      "options": ["Migration régionale", "Transcontinentale", "Interplanétaire", "Permanente uniquement"],
+      "reponse": "Migration régionale",
+      "explication": "Beaucoup d’Africains migrent vers des pays proches (ex : Mali vers Côte d’Ivoire)."
+    },
+    {
+      "question": "Pourquoi l’Afrique est-elle qualifiée de continent jeune ?",
+      "options": ["Majorité de la population a moins de 25 ans", "Présence de volcans récents", "Petite taille des pays", "Présence de forêts denses"],
+      "reponse": "Majorité de la population a moins de 25 ans",
+      "explication": "Les enfants et jeunes adultes forment une grande partie de la population africaine."
+    },
+    {
+      "question": "Qu’est-ce qu’un bidonville ?",
+      "options": ["Quartier précaire sans services", "Village touristique", "Centre historique", "Zone industrielle"],
+      "reponse": "Quartier précaire sans services",
+      "explication": "Les bidonvilles sont mal construits et manquent d’eau, d’électricité, etc."
+    },
+    {
+      "question": "Quelle ville burkinabè connaît une forte croissance urbaine ?",
+      "options": ["Ouagadougou", "Gorom-Gorom", "Pô", "Koudougou"],
+      "reponse": "Ouagadougou",
+      "explication": "C’est la capitale et la plus grande ville du Burkina Faso."
+    },
+    {
+      "question": "Qu'est-ce qu'une population active ?",
+      "options": ["Personnes qui travaillent ou cherchent du travail", "Enfants en bas âge", "Personnes retraitées", "Animaux domestiques"],
+      "reponse": "Personnes qui travaillent ou cherchent du travail",
+      "explication": "La population active est celle qui contribue à l'économie du pays."
+    },
+    {
+      "question": "Quel défi est lié à une population très jeune ?",
+      "options": ["Besoin d’investir dans l’éducation et la santé", "Baisse des naissances", "Vieillissement de la population", "Moins de main-d’œuvre"],
+      "reponse": "Besoin d’investir dans l’éducation et la santé",
+      "explication": "Les enfants et jeunes nécessitent beaucoup d'infrastructures éducatives et médicales."
+    },
+    {
+      "question": "Qu’est-ce que la transition démographique ?",
+      "options": ["Passage d’un taux de natalité élevé à faible", "Migration de ville en ville", "Urbanisation rapide", "Construction de routes"],
+      "reponse": "Passage d’un taux de natalité élevé à faible",
+      "explication": "C’est le changement du rythme de croissance d’une population."
+    },
+    {
+      "question": "Pourquoi les migrations peuvent-elles poser problème ?",
+      "options": ["Saturation des villes", "Augmentation des forêts", "Excès de pluie", "Apparition de volcans"],
+      "reponse": "Saturation des villes",
+      "explication": "Les villes n’ont parfois pas assez de logements ou d’emplois pour tous les migrants."
+    }
+  ]
+}

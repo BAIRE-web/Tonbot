@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’un mouvement rectiligne ?",
+      "options": ["Un mouvement en ligne droite", "Un mouvement circulaire", "Un mouvement aléatoire", "Un mouvement sinusoïdal"],
+      "reponse": "Un mouvement en ligne droite",
+      "explication": "Le mouvement rectiligne se fait suivant une trajectoire droite."
+    },
+    {
+      "question": "Qu’est-ce qu’un mouvement circulaire ?",
+      "options": ["Un mouvement suivant une trajectoire en cercle", "Un mouvement en ligne droite", "Un mouvement en zigzag", "Un mouvement sans trajectoire"],
+      "reponse": "Un mouvement suivant une trajectoire en cercle",
+      "explication": "Le mouvement circulaire suit une trajectoire en forme de cercle."
+    },
+    {
+      "question": "Comment appelle-t-on le chemin suivi par un mobile ?",
+      "options": ["La trajectoire", "La vitesse", "La durée", "La force"],
+      "reponse": "La trajectoire",
+      "explication": "La trajectoire est le chemin parcouru par un objet en mouvement."
+    },
+    {
+      "question": "Quelle grandeur mesure la rapidité d’un mouvement ?",
+      "options": ["La vitesse", "La trajectoire", "La durée", "L’accélération"],
+      "reponse": "La vitesse",
+      "explication": "La vitesse indique la rapidité avec laquelle un objet se déplace."
+    },
+    {
+      "question": "Quelle est l’unité de la vitesse dans le système international ?",
+      "options": ["m/s", "km/h", "m", "s"],
+      "reponse": "m/s",
+      "explication": "La vitesse s’exprime en mètres par seconde (m/s) en SI."
+    },
+    {
+      "question": "Qu’est-ce que la durée d’un mouvement ?",
+      "options": ["Le temps que met un mobile pour parcourir un trajet", "La distance parcourue", "La vitesse", "La trajectoire"],
+      "reponse": "Le temps que met un mobile pour parcourir un trajet",
+      "explication": "La durée est le temps écoulé pendant le mouvement."
+    },
+    {
+      "question": "Un mobile se déplace en ligne droite à vitesse constante. Son mouvement est :",
+      "options": ["Rectiligne uniforme", "Circulaire", "Accéléré", "Décéléré"],
+      "reponse": "Rectiligne uniforme",
+      "explication": "Mouvement rectiligne à vitesse constante = mouvement rectiligne uniforme."
+    },
+    {
+      "question": "Si la trajectoire d’un mobile est un cercle, son mouvement est :",
+      "options": ["Circulaire", "Rectiligne", "Aléatoire", "Oscillatoire"],
+      "reponse": "Circulaire",
+      "explication": "Une trajectoire circulaire implique un mouvement circulaire."
+    },
+    {
+      "question": "Comment calcule-t-on la vitesse moyenne ?",
+      "options": ["v = distance ÷ durée", "v = durée ÷ distance", "v = distance × durée", "v = durée × distance"],
+      "reponse": "v = distance ÷ durée",
+      "explication": "La vitesse moyenne est le rapport distance parcourue sur durée."
+    },
+    {
+      "question": "Une voiture parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+      "options": ["60 km/h", "240 km/h", "30 km/h", "120 km/h"],
+      "reponse": "60 km/h",
+      "explication": "v = 120 ÷ 2 = 60 km/h."
+    },
+    {
+      "question": "Le mouvement d’une roue qui tourne est un mouvement :",
+      "options": ["Circulaire", "Rectiligne", "Linéaire", "Aléatoire"],
+      "reponse": "Circulaire",
+      "explication": "La roue tourne suivant une trajectoire circulaire."
+    },
+    {
+      "question": "Un mobile qui change de direction a un mouvement :",
+      "options": ["Non rectiligne", "Rectiligne", "Uniforme", "Nul"],
+      "reponse": "Non rectiligne",
+      "explication": "Changer de direction signifie que le mouvement n’est pas rectiligne."
+    },
+    {
+      "question": "Quelle grandeur est un vecteur ?",
+      "options": ["La vitesse", "La durée", "La masse", "Le volume"],
+      "reponse": "La vitesse",
+      "explication": "La vitesse a une direction et une intensité, c’est un vecteur."
+    },
+    {
+      "question": "Quelle est l’unité de la durée ?",
+      "options": ["Seconde (s)", "Mètre (m)", "Kilogramme (kg)", "Newton (N)"],
+      "reponse": "Seconde (s)",
+      "explication": "La durée se mesure en secondes dans le système international."
+    },
+    {
+      "question": "Si un mobile parcourt 300 m en 1 minute, sa vitesse moyenne est :",
+      "options": ["5 m/s", "300 m/s", "0,3 m/s", "18000 m/s"],
+      "reponse": "5 m/s",
+      "explication": "1 minute = 60 s, v = 300 ÷ 60 = 5 m/s."
+    },
+    {
+      "question": "La trajectoire d’un mobile est une droite. Son mouvement est :",
+      "options": ["Rectiligne", "Circulaire", "Oscillatoire", "Aléatoire"],
+      "reponse": "Rectiligne",
+      "explication": "Une trajectoire droite correspond à un mouvement rectiligne."
+    },
+    {
+      "question": "Quelle est la formule pour calculer la durée ?",
+      "options": ["durée = distance ÷ vitesse", "durée = vitesse × distance", "durée = distance × vitesse", "durée = vitesse ÷ distance"],
+      "reponse": "durée = distance ÷ vitesse",
+      "explication": "La durée est égale à la distance divisée par la vitesse."
+    },
+    {
+      "question": "Quelle est la trajectoire d’une planète autour du Soleil ?",
+      "options": ["Circulaire ou elliptique", "Rectiligne", "Aléatoire", "Oscillatoire"],
+      "reponse": "Circulaire ou elliptique",
+      "explication": "Les planètes suivent une trajectoire proche du cercle (ellipse)."
+    },
+    {
+      "question": "Un mobile accélère quand sa vitesse :",
+      "options": ["Augmente", "Diminue", "Reste constante", "Est nulle"],
+      "reponse": "Augmente",
+      "explication": "Une augmentation de la vitesse correspond à une accélération."
+    },
+    {
+      "question": "Un mobile décélère quand sa vitesse :",
+      "options": ["Diminue", "Augmente", "Reste constante", "Est nulle"],
+      "reponse": "Diminue",
+      "explication": "Une diminution de la vitesse correspond à une décélération."
+    },
+    {
+      "question": "Quelle est la trajectoire d’un objet lancé verticalement vers le haut ?",
+      "options": ["Rectiligne", "Circulaire", "Oscillatoire", "Aléatoire"],
+      "reponse": "Rectiligne",
+      "explication": "L’objet monte et descend suivant une ligne droite."
+    },
+    {
+      "question": "La vitesse instantanée est :",
+      "options": ["La vitesse à un instant donné", "La vitesse moyenne", "La durée", "La distance"],
+      "reponse": "La vitesse à un instant donné",
+      "explication": "La vitesse instantanée peut varier d’un moment à l’autre."
+    },
+    {
+      "question": "La trajectoire d’un mobile dans un circuit de course automobile est :",
+      "options": ["Courbe et parfois rectiligne", "Toujours rectiligne", "Toujours circulaire", "Aléatoire"],
+      "reponse": "Courbe et parfois rectiligne",
+      "explication": "Le circuit comporte des lignes droites et des virages."
+    },
+    {
+      "question": "Un objet immobile a une vitesse :",
+      "options": ["Nulle", "Constante", "Variable", "Négative"],
+      "reponse": "Nulle",
+      "explication": "Un objet qui ne bouge pas a une vitesse de 0."
+    },
+    {
+      "question": "La durée d’un mouvement se mesure avec :",
+      "options": ["Une montre ou un chronomètre", "Un mètre", "Un voltmètre", "Une balance"],
+      "reponse": "Une montre ou un chronomètre",
+      "explication": "Le temps se mesure avec des appareils de mesure du temps."
+    },
+    {
+      "question": "Un objet décrit un cercle en 20 secondes. Sa trajectoire est :",
+      "options": ["Circulaire", "Rectiligne", "Aléatoire", "Sinusoïdale"],
+      "reponse": "Circulaire",
+      "explication": "Un cercle est la trajectoire d’un mouvement circulaire."
+    },
+    {
+      "question": "La vitesse moyenne est une grandeur :",
+      "options": ["Scalaire", "Vectorielle", "Négative", "Non définie"],
+      "reponse": "Scalaire",
+      "explication": "La vitesse moyenne n’a que la valeur, pas de direction précise."
+    },
+    {
+      "question": "Un objet se déplace en ligne droite avec une vitesse constante. Quelle est sa trajectoire ?",
+      "options": ["Rectiligne", "Circulaire", "Aléatoire", "Oscillatoire"],
+      "reponse": "Rectiligne",
+      "explication": "Une vitesse constante en ligne droite définit un mouvement rectiligne uniforme."
+    },
+    {
+      "question": "Quel appareil permet de mesurer la durée d’un mouvement ?",
+      "options": ["Un chronomètre", "Une règle", "Un dynamomètre", "Un thermomètre"],
+      "reponse": "Un chronomètre",
+      "explication": "Le chronomètre mesure des durées avec précision."
+    },
+    {
+      "question": "La vitesse s’exprime en :",
+      "options": ["m/s ou km/h", "kg", "N", "m"],
+      "reponse": "m/s ou km/h",
+      "explication": "Les unités de vitesse courantes sont le mètre par seconde et le kilomètre par heure."
+    },
+    {
+      "question": "Un mobile parcourt 100 m en 20 s. Quelle est sa vitesse moyenne ?",
+      "options": ["5 m/s", "20 m/s", "0,2 m/s", "100 m/s"],
+      "reponse": "5 m/s",
+      "explication": "v = distance ÷ durée = 100 ÷ 20 = 5 m/s."
+    },
+    {
+      "question": "Un coureur effectue un tour complet de piste circulaire de 400 m en 50 s. Sa vitesse moyenne est :",
+      "options": ["8 m/s", "50 m/s", "0,125 m/s", "400 m/s"],
+      "reponse": "8 m/s",
+      "explication": "v = 400 ÷ 50 = 8 m/s."
+    },
+    {
+      "question": "Si un mobile reste immobile, sa vitesse est :",
+      "options": ["0 m/s", "10 m/s", "Infinie", "Variable"],
+      "reponse": "0 m/s",
+      "explication": "Un objet immobile a une vitesse nulle."
+    },
+    {
+      "question": "Un objet en mouvement rectiligne uniforme a une trajectoire :",
+      "options": ["Droite", "Circulaire", "Aléatoire", "Sinusoïdale"],
+      "reponse": "Droite",
+      "explication": "Le mouvement rectiligne a une trajectoire droite."
+    },
+    {
+      "question": "Un mobile effectue un mouvement circulaire à vitesse constante. Sa trajectoire est :",
+      "options": ["Un cercle", "Une droite", "Une parabole", "Un zigzag"],
+      "reponse": "Un cercle",
+      "explication": "La trajectoire d’un mouvement circulaire est un cercle."
+    },
+    {
+      "question": "La vitesse moyenne d’un objet est de 10 m/s et il a parcouru 50 m. Quelle est la durée ?",
+      "options": ["5 s", "500 s", "0,2 s", "10 s"],
+      "reponse": "5 s",
+      "explication": "durée = distance ÷ vitesse = 50 ÷ 10 = 5 s."
+    },
+    {
+      "question": "Un objet se déplace sur une trajectoire rectiligne. Sa vitesse est constante. Quel type de mouvement a-t-il ?",
+      "options": ["Mouvement rectiligne uniforme", "Mouvement circulaire", "Mouvement accéléré", "Mouvement décéléré"],
+      "reponse": "Mouvement rectiligne uniforme",
+      "explication": "Vitesse constante et trajectoire droite caractérisent ce mouvement."
+    },
+    {
+      "question": "Une voiture roule à 72 km/h. Quelle est sa vitesse en m/s ?",
+      "options": ["20 m/s", "72 m/s", "2 m/s", "200 m/s"],
+      "reponse": "20 m/s",
+      "explication": "72 km/h = 72 × 1000 ÷ 3600 = 20 m/s."
+    },
+    {
+      "question": "Si un objet parcourt 150 m en 30 s, sa vitesse moyenne est :",
+      "options": ["5 m/s", "180 m/s", "0,2 m/s", "4500 m/s"],
+      "reponse": "5 m/s",
+      "explication": "v = 150 ÷ 30 = 5 m/s."
+    },
+    {
+      "question": "Un mobile fait un mouvement circulaire en 40 s. Sa trajectoire est :",
+      "options": ["Un cercle", "Une ligne droite", "Un zigzag", "Une ellipse"],
+      "reponse": "Un cercle",
+      "explication": "Mouvement circulaire = trajectoire circulaire."
+    },
+    {
+      "question": "Un objet en mouvement rectiligne accélère lorsque sa vitesse :",
+      "options": ["Augmente", "Diminue", "Reste constante", "Devient nulle"],
+      "reponse": "Augmente",
+      "explication": "Augmentation de la vitesse signifie accélération."
+    },
+    {
+      "question": "La durée d’un mouvement est de 12 s et la vitesse 3 m/s. Quelle est la distance parcourue ?",
+      "options": ["36 m", "4 m", "15 m", "9 m"],
+      "reponse": "36 m",
+      "explication": "distance = vitesse × durée = 3 × 12 = 36 m."
+    },
+    {
+      "question": "Si un mobile parcourt 600 m en 1 minute, sa vitesse moyenne est :",
+      "options": ["10 m/s", "600 m/s", "0,6 m/s", "36000 m/s"],
+      "reponse": "10 m/s",
+      "explication": "1 minute = 60 s, v = 600 ÷ 60 = 10 m/s."
+    },
+    {
+      "question": "Quel type de mouvement a un objet qui tourne autour d’un axe ?",
+      "options": ["Circulaire", "Rectiligne", "Oscillatoire", "Aléatoire"],
+      "reponse": "Circulaire",
+      "explication": "Un objet tournant autour d’un axe décrit un mouvement circulaire."
+    },
+    {
+      "question": "Un objet qui change de direction a un mouvement :",
+      "options": ["Non rectiligne", "Rectiligne", "Uniforme", "Stationnaire"],
+      "reponse": "Non rectiligne",
+      "explication": "Changer de direction signifie trajectoire non rectiligne."
+    },
+    {
+      "question": "La vitesse instantanée est :",
+      "options": ["La vitesse à un instant précis", "La vitesse moyenne", "La durée", "La distance"],
+      "reponse": "La vitesse à un instant précis",
+      "explication": "La vitesse instantanée peut varier à chaque instant."
+    },
+    {
+      "question": "Un objet reste immobile pendant 5 s. Sa vitesse est :",
+      "options": ["0 m/s", "5 m/s", "Imposée", "Variable"],
+      "reponse": "0 m/s",
+      "explication": "Un objet immobile a une vitesse nulle."
+    },
+    {
+      "question": "Un objet parcourt 90 m en 15 s. Sa vitesse moyenne est :",
+      "options": ["6 m/s", "15 m/s", "1,5 m/s", "90 m/s"],
+      "reponse": "6 m/s",
+      "explication": "v = 90 ÷ 15 = 6 m/s."
+    },
+    {
+      "question": "Un cycliste roule à 18 km/h. Quelle est sa vitesse en m/s ?",
+      "options": ["5 m/s", "18 m/s", "50 m/s", "0,5 m/s"],
+      "reponse": "5 m/s",
+      "explication": "18 km/h = 18 × 1000 ÷ 3600 = 5 m/s."
+    },
+    {
+      "question": "La trajectoire d’une balle lancée verticalement est :",
+      "options": ["Rectiligne", "Circulaire", "Aléatoire", "Zigzag"],
+      "reponse": "Rectiligne",
+      "explication": "Elle monte puis redescend en ligne droite."
+    }
+  ]
+}

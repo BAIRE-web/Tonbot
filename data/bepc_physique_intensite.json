@@ -1,0 +1,286 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que l’intensité du courant électrique ?",
+      "options": ["La quantité de charges électriques qui passent par seconde", "La tension aux bornes d’un composant", "La résistance du circuit", "La puissance électrique"],
+      "reponse": "La quantité de charges électriques qui passent par seconde",
+      "explication": "L’intensité représente le nombre de charges électriques traversant un point par seconde."
+    },
+    {
+      "question": "Quelle unité utilise-t-on pour mesurer l’intensité électrique ?",
+      "options": ["L’ampère", "Le volt", "L’ohm", "Le watt"],
+      "reponse": "L’ampère",
+      "explication": "L’intensité se mesure en ampères (A)."
+    },
+    {
+      "question": "Quel appareil sert à mesurer l’intensité du courant ?",
+      "options": ["L’ampèremètre", "Le voltmètre", "L’ohmmètre", "Le multimètre"],
+      "reponse": "L’ampèremètre",
+      "explication": "L’ampèremètre mesure l’intensité en ampères dans un circuit."
+    },
+    {
+      "question": "Comment doit-on brancher un ampèremètre dans un circuit ?",
+      "options": ["En série avec le composant", "En parallèle avec le composant", "N’importe où dans le circuit", "Directement sur la pile"],
+      "reponse": "En série avec le composant",
+      "explication": "L’ampèremètre se place en série pour mesurer le courant qui traverse le composant."
+    },
+    {
+      "question": "Que signifie la loi d’additivité des intensités dans un circuit en série ?",
+      "options": ["L’intensité est la même en tout point", "L’intensité totale est la somme des intensités aux différents points", "L’intensité diminue dans chaque composant", "L’intensité ne circule pas"],
+      "reponse": "L’intensité est la même en tout point",
+      "explication": "Dans un circuit en série, le courant est identique partout."
+    },
+    {
+      "question": "Que dit la loi d’additivité des intensités dans un circuit en parallèle ?",
+      "options": ["L’intensité totale est la somme des intensités dans chaque branche", "L’intensité est la même partout", "L’intensité diminue à chaque branche", "Le courant ne circule pas"],
+      "reponse": "L’intensité totale est la somme des intensités dans chaque branche",
+      "explication": "Le courant total se divise entre les différentes branches du circuit parallèle."
+    },
+    {
+      "question": "Dans un circuit en série, si l’intensité est de 2 A, quelle est l’intensité après chaque composant ?",
+      "options": ["2 A", "Moins de 2 A", "Plus de 2 A", "0 A"],
+      "reponse": "2 A",
+      "explication": "Le courant est le même en tout point dans un circuit en série."
+    },
+    {
+      "question": "Dans un circuit en parallèle, comment se divise le courant électrique ?",
+      "options": ["Il se partage entre les différentes branches", "Il reste le même dans chaque branche", "Il s’annule", "Il ne circule pas"],
+      "reponse": "Il se partage entre les différentes branches",
+      "explication": "Chaque branche reçoit une partie du courant total."
+    },
+    {
+      "question": "Quelle est la conséquence de la loi d’additivité des intensités dans un circuit en parallèle ?",
+      "options": ["L’intensité totale est égale à la somme des intensités de chaque branche", "L’intensité est constante", "Le courant est bloqué", "La tension augmente"],
+      "reponse": "L’intensité totale est égale à la somme des intensités de chaque branche",
+      "explication": "Cette loi permet de calculer le courant total dans le circuit."
+    },
+    {
+      "question": "Pourquoi l’ampèremètre doit-il avoir une faible résistance interne ?",
+      "options": ["Pour ne pas modifier le courant dans le circuit", "Pour augmenter la tension", "Pour empêcher le passage du courant", "Pour chauffer"],
+      "reponse": "Pour ne pas modifier le courant dans le circuit",
+      "explication": "Une faible résistance évite de perturber le courant mesuré."
+    },
+    {
+      "question": "Si on place un ampèremètre en parallèle avec un composant, que se passe-t-il ?",
+      "options": ["Le courant mesure est faussé et le circuit peut être endommagé", "La mesure est correcte", "Le courant augmente", "La pile se décharge moins vite"],
+      "reponse": "Le courant mesure est faussé et le circuit peut être endommagé",
+      "explication": "L’ampèremètre en parallèle crée un court-circuit dangereux."
+    },
+    {
+      "question": "Lors d’une mesure d’intensité, comment lit-on la valeur sur l’ampèremètre ?",
+      "options": ["En ampères (A)", "En volts (V)", "En ohms (Ω)", "En watts (W)"],
+      "reponse": "En ampères (A)",
+      "explication": "L’intensité du courant se mesure en ampères."
+    },
+    {
+      "question": "Quelle est l’intensité totale dans un circuit en parallèle avec deux branches de 3 A et 2 A ?",
+      "options": ["5 A", "1 A", "3 A", "2 A"],
+      "reponse": "5 A",
+      "explication": "L’intensité totale est la somme des intensités des branches."
+    },
+    {
+      "question": "Dans un circuit en série avec trois résistances, l’intensité est de 4 A. Quelle est l’intensité après la deuxième résistance ?",
+      "options": ["4 A", "Moins de 4 A", "Plus de 4 A", "0 A"],
+      "reponse": "4 A",
+      "explication": "Le courant est le même en tout point d’un circuit en série."
+    },
+    {
+      "question": "Que signifie une intensité de 0 A dans un circuit ?",
+      "options": ["Le courant ne circule pas", "Le courant est maximal", "Le circuit est fermé", "La tension est nulle"],
+      "reponse": "Le courant ne circule pas",
+      "explication": "Une intensité nulle signifie absence de circulation du courant."
+    },
+    {
+      "question": "Quelle est la relation entre intensité et charge électrique ?",
+      "options": ["Intensité = charge divisée par temps", "Intensité = charge multipliée par temps", "Intensité = charge + temps", "Intensité = charge - temps"],
+      "reponse": "Intensité = charge divisée par temps",
+      "explication": "L’intensité correspond au débit de charges par unité de temps."
+    },
+    {
+      "question": "Comment savoir si un ampèremètre est bien branché ?",
+      "options": ["Le circuit fonctionne normalement et la mesure est plausible", "La lampe s’éteint", "Le fusible fond", "Le courant augmente anormalement"],
+      "reponse": "Le circuit fonctionne normalement et la mesure est plausible",
+      "explication": "Un branchement correct ne perturbe pas le circuit."
+    },
+    {
+      "question": "Dans un circuit en série, comment varie l’intensité électrique ?",
+      "options": ["Elle reste constante", "Elle augmente", "Elle diminue", "Elle devient nulle"],
+      "reponse": "Elle reste constante",
+      "explication": "L’intensité est identique en tout point dans un circuit en série."
+    },
+    {
+      "question": "Comment s’appelle la loi qui indique que dans un circuit en parallèle, l’intensité totale est égale à la somme des intensités des branches ?",
+      "options": ["Loi d’additivité des intensités", "Loi d’Ohm", "Loi de Kirchhoff", "Loi de Coulomb"],
+      "reponse": "Loi d’additivité des intensités",
+      "explication": "Cette loi est essentielle pour analyser les circuits parallèles."
+    },
+    {
+      "question": "Pourquoi faut-il respecter la polarité lors de la mesure d’intensité avec un ampèremètre ?",
+      "options": ["Pour que l’appareil fonctionne correctement", "Pour augmenter le courant", "Pour diminuer la résistance", "Pour éteindre la lampe"],
+      "reponse": "Pour que l’appareil fonctionne correctement",
+      "explication": "Un branchement inversé peut fausser la mesure ou endommager l’appareil."
+    },
+    {
+      "question": "Quel est le symbole de l’ampèremètre dans un schéma électrique ?",
+      "options": ["Un cercle avec la lettre A", "Un carré", "Un triangle", "Une ligne droite"],
+      "reponse": "Un cercle avec la lettre A",
+      "explication": "Le cercle avec A indique un ampèremètre dans les schémas."
+    },
+    {
+      "question": "Que représente l’intensité dans un circuit électrique ?",
+      "options": ["Le débit de charges électriques", "La différence de potentiel", "La résistance", "La puissance"],
+      "reponse": "Le débit de charges électriques",
+      "explication": "L’intensité est la quantité de charges traversant un point par seconde."
+    },
+    {
+      "question": "Dans un circuit en parallèle, si l’intensité dans une branche est 3 A et dans une autre 4 A, quelle est l’intensité totale ?",
+      "options": ["7 A", "1 A", "4 A", "3 A"],
+      "reponse": "7 A",
+      "explication": "L’intensité totale est la somme des intensités des branches."
+    },
+    {
+      "question": "Quel est le rôle d’un ampèremètre dans un circuit électrique ?",
+      "options": ["Mesurer l’intensité du courant", "Mesurer la tension", "Limiter le courant", "Fournir de l’énergie"],
+      "reponse": "Mesurer l’intensité du courant",
+      "explication": "Il sert à quantifier le courant électrique dans un circuit."
+    },
+    {
+      "question": "Dans un circuit en série, si on ajoute une résistance, que fait l’intensité ?",
+      "options": ["Elle diminue", "Elle augmente", "Elle reste constante", "Elle devient nulle"],
+      "reponse": "Elle diminue",
+      "explication": "Ajouter une résistance augmente la résistance totale, réduisant l’intensité."
+    },
+    {
+      "question": "Que signifie une intensité élevée dans un circuit électrique ?",
+      "options": ["Un grand nombre de charges qui traversent par seconde", "Une faible tension", "Une résistance nulle", "Un circuit ouvert"],
+      "reponse": "Un grand nombre de charges qui traversent par seconde",
+      "explication": "Plus l’intensité est élevée, plus le courant est fort."
+    },
+    {
+      "question": "Quelle est la différence entre un ampèremètre et un voltmètre ?",
+      "options": ["L’ampèremètre mesure l’intensité, le voltmètre la tension", "Les deux mesurent la tension", "Les deux mesurent l’intensité", "L’ampèremètre mesure la résistance"],
+      "reponse": "L’ampèremètre mesure l’intensité, le voltmètre la tension",
+      "explication": "Chacun a un rôle spécifique dans la mesure électrique."
+    },
+    {
+      "question": "Un circuit en série comporte une pile, deux lampes et un ampèremètre. L’ampèremètre indique 0,4 A. Quelle est l’intensité entre les deux lampes ?",
+      "options": ["0,4 A", "0,2 A", "0,6 A", "0 A"],
+      "reponse": "0,4 A",
+      "explication": "En série, l’intensité est identique en tout point du circuit."
+    },
+    {
+      "question": "Dans un circuit en parallèle, on mesure 0,5 A dans la branche 1 et 0,7 A dans la branche 2. Quelle est l’intensité totale ?",
+      "options": ["1,2 A", "0,7 A", "0,5 A", "1,0 A"],
+      "reponse": "1,2 A",
+      "explication": "Loi d’additivité : l’intensité totale est la somme des intensités des branches."
+    },
+    {
+      "question": "Un ampèremètre mal branché est placé en parallèle avec une lampe. Que peut-il se passer ?",
+      "options": ["Court-circuit", "Mesure correcte", "Aucune conséquence", "La lampe brille plus"],
+      "reponse": "Court-circuit",
+      "explication": "Un ampèremètre doit être en série. En parallèle, il peut être endommagé."
+    },
+    {
+      "question": "Quel symbole utilise-t-on pour représenter un ampèremètre dans un circuit ?",
+      "options": ["Un cercle avec A", "Un cercle avec V", "Un carré", "Un triangle"],
+      "reponse": "Un cercle avec A",
+      "explication": "A pour 'ampère', unité d’intensité électrique."
+    },
+    {
+      "question": "Dans un circuit en série de 3 résistances, l’ampèremètre indique 1 A avant la première résistance. Quelle intensité après la troisième ?",
+      "options": ["1 A", "3 A", "0,33 A", "Impossible à savoir"],
+      "reponse": "1 A",
+      "explication": "En série, l’intensité est la même avant et après chaque composant."
+    },
+    {
+      "question": "Dans un circuit en parallèle avec deux branches de 0,8 A et 0,4 A, combien l’ampèremètre mesure-t-il avant la séparation ?",
+      "options": ["1,2 A", "0,8 A", "0,4 A", "0 A"],
+      "reponse": "1,2 A",
+      "explication": "La loi d’additivité s’applique avant la séparation des branches."
+    },
+    {
+      "question": "On mesure 0 A dans un circuit fermé. Quelle peut être la cause ?",
+      "options": ["La pile est vide", "Le fil est trop long", "L’ampèremètre est trop proche", "Le courant circule trop vite"],
+      "reponse": "La pile est vide",
+      "explication": "Sans énergie fournie, aucun courant ne circule même si le circuit est fermé."
+    },
+    {
+      "question": "Dans un circuit, une branche contient 2 lampes en série. L’ampèremètre indique 0,6 A. Quelle est l’intensité entre les deux lampes ?",
+      "options": ["0,6 A", "1,2 A", "0,3 A", "Impossible à dire"],
+      "reponse": "0,6 A",
+      "explication": "L’intensité ne change pas en série, même avec plusieurs composants."
+    },
+    {
+      "question": "Quel composant faut-il ajouter pour mesurer l’intensité du courant dans un circuit ?",
+      "options": ["Un ampèremètre", "Un voltmètre", "Un générateur", "Un interrupteur"],
+      "reponse": "Un ampèremètre",
+      "explication": "L’ampèremètre mesure l’intensité (débit de charges électriques)."
+    },
+    {
+      "question": "Un ampèremètre placé correctement dans un circuit indique 2 A. Que représente cette valeur ?",
+      "options": ["2 coulombs par seconde", "2 volts", "2 ohms", "2 watts"],
+      "reponse": "2 coulombs par seconde",
+      "explication": "1 ampère = 1 coulomb de charges par seconde."
+    },
+    {
+      "question": "Dans un circuit en parallèle, l’ampèremètre placé sur une branche indique 1,5 A. Une autre branche indique 2,5 A. L’intensité totale est :",
+      "options": ["4 A", "1 A", "2 A", "5 A"],
+      "reponse": "4 A",
+      "explication": "Somme des intensités des branches : 1,5 A + 2,5 A = 4 A."
+    },
+    {
+      "question": "Comment placer un ampèremètre pour mesurer le courant traversant une lampe ?",
+      "options": ["En série avec la lampe", "En parallèle avec la lampe", "Avant la pile", "Après l’interrupteur"],
+      "reponse": "En série avec la lampe",
+      "explication": "L’ampèremètre se branche en série pour mesurer le courant."
+    },
+    {
+      "question": "Un circuit en série contient une pile et une lampe. L’ampèremètre placé après la lampe indique 0,9 A. Que vaut l’intensité avant la lampe ?",
+      "options": ["0,9 A", "1,8 A", "0,45 A", "0 A"],
+      "reponse": "0,9 A",
+      "explication": "L’intensité reste constante en série."
+    },
+    {
+      "question": "Quelle grandeur varie entre les branches d’un circuit en parallèle ?",
+      "options": ["L’intensité", "La tension", "La masse", "La température"],
+      "reponse": "L’intensité",
+      "explication": "C’est l’intensité qui se divise dans un circuit en parallèle."
+    },
+    {
+      "question": "Dans un circuit, une lampe grille. L’intensité mesurée par l’ampèremètre devient 0 A. Pourquoi ?",
+      "options": ["Le circuit est ouvert", "L’ampèremètre est cassé", "La pile s’est rechargée", "La tension a augmenté"],
+      "reponse": "Le circuit est ouvert",
+      "explication": "Une lampe grillée ouvre le circuit et bloque le courant."
+    },
+    {
+      "question": "L’intensité est de 3 A dans un circuit. Combien de charges passent en 10 secondes ?",
+      "options": ["30 C", "3 C", "13 C", "300 C"],
+      "reponse": "30 C",
+      "explication": "Q = I × t = 3 A × 10 s = 30 coulombs."
+    },
+    {
+      "question": "Un circuit est composé d’une pile de 9 V, deux résistances en série et un ampèremètre. Que mesure l’ampèremètre ?",
+      "options": ["L’intensité du courant", "La tension totale", "La résistance", "Le nombre de charges"],
+      "reponse": "L’intensité du courant",
+      "explication": "L’ampèremètre mesure le débit d’électrons dans le circuit."
+    },
+    {
+      "question": "Dans un schéma, si un ampèremètre est mal placé en parallèle avec une résistance, il affiche :",
+      "options": ["0 A ou une valeur très élevée", "La vraie intensité", "Une tension", "Une résistance"],
+      "reponse": "0 A ou une valeur très élevée",
+      "explication": "Mauvais branchement = erreur de mesure ou court-circuit."
+    },
+    {
+      "question": "Un courant de 0,5 A circule pendant 20 secondes. Quelle est la charge transportée ?",
+      "options": ["10 C", "40 C", "0,5 C", "25 C"],
+      "reponse": "10 C",
+      "explication": "Q = I × t = 0,5 × 20 = 10 coulombs."
+    },
+    {
+      "question": "Pourquoi ne faut-il pas brancher un ampèremètre à la place d’un voltmètre ?",
+      "options": ["Il risque de court-circuiter le circuit", "Il donne une meilleure mesure", "Il augmente la résistance", "Il fait baisser la tension"],
+      "reponse": "Il risque de court-circuiter le circuit",
+      "explication": "Car l’ampèremètre a une très faible résistance interne."
+    }
+  ]
+}

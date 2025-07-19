@@ -1,0 +1,358 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est l’organe principal de la respiration chez l’homme ?",
+      "options": ["Le foie", "Le cœur", "Les poumons", "L’estomac"],
+      "reponse": "Les poumons",
+      "explication": "Les poumons assurent les échanges gazeux entre l’air et le sang."
+    },
+    {
+      "question": "Quel est le rôle de la trachée ?",
+      "options": ["Filtrer le sang", "Transporter l’air vers les poumons", "Digérer les aliments", "Produire de l’oxygène"],
+      "reponse": "Transporter l’air vers les poumons",
+      "explication": "La trachée est un conduit qui mène l’air inspiré vers les bronches."
+    },
+    {
+      "question": "Où se font les échanges gazeux dans les poumons ?",
+      "options": ["Dans le cœur", "Dans la trachée", "Dans les alvéoles pulmonaires", "Dans les bronches"],
+      "reponse": "Dans les alvéoles pulmonaires",
+      "explication": "Les alvéoles permettent les échanges entre l’air et le sang."
+    },
+    {
+      "question": "Quel gaz est absorbé par les poumons ?",
+      "options": ["Dioxyde de carbone", "Azote", "Oxygène", "Hydrogène"],
+      "reponse": "Oxygène",
+      "explication": "L’oxygène est absorbé par le sang dans les alvéoles pulmonaires."
+    },
+    {
+      "question": "Quel gaz est rejeté lors de l’expiration ?",
+      "options": ["Oxygène", "Dioxyde de carbone", "Hydrogène", "Hélium"],
+      "reponse": "Dioxyde de carbone",
+      "explication": "Le dioxyde de carbone est un déchet rejeté par les poumons."
+    },
+    {
+      "question": "Quel muscle facilite la respiration ?",
+      "options": ["Cœur", "Diaphragme", "Estomac", "Foie"],
+      "reponse": "Diaphragme",
+      "explication": "Le diaphragme se contracte et se relâche pour faire entrer et sortir l’air."
+    },
+    {
+      "question": "Quel est le rôle des bronches ?",
+      "options": ["Stocker l’air", "Produire l’oxygène", "Diriger l’air vers les poumons", "Transformer l’air"],
+      "reponse": "Diriger l’air vers les poumons",
+      "explication": "Les bronches distribuent l’air inspiré dans les poumons."
+    },
+    {
+      "question": "L’air est réchauffé et filtré au niveau de :",
+      "options": ["La bouche", "La langue", "Les fosses nasales", "Le diaphragme"],
+      "reponse": "Les fosses nasales",
+      "explication": "Les fosses nasales humidifient, réchauffent et filtrent l’air inspiré."
+    },
+    {
+      "question": "Comment appelle-t-on le passage de l’oxygène dans le sang ?",
+      "options": ["Inspiration", "Expiration", "Diffusion", "Absorption digestive"],
+      "reponse": "Diffusion",
+      "explication": "L’oxygène diffuse des alvéoles vers le sang par les capillaires."
+    },
+    {
+      "question": "Quel est le trajet de l’air lors de la respiration ?",
+      "options": ["Nez → œsophage → estomac", "Nez → trachée → bronches → poumons", "Bouche → intestin", "Fosses nasales → cœur"],
+      "reponse": "Nez → trachée → bronches → poumons",
+      "explication": "C’est le chemin suivi par l’air pour atteindre les alvéoles pulmonaires."
+    },
+    {
+      "question": "L’air expiré est riche en :",
+      "options": ["Oxygène", "Azote", "Dioxyde de carbone", "Hydrogène"],
+      "reponse": "Dioxyde de carbone",
+      "explication": "Le CO₂ est expulsé lors de l’expiration."
+    },
+    {
+      "question": "Le sang chargé d’oxygène part du poumon vers :",
+      "options": ["Le foie", "Le cœur", "L’intestin", "Le rein"],
+      "reponse": "Le cœur",
+      "explication": "Le sang oxygéné va d’abord au cœur qui le redistribue à tout le corps."
+    },
+    {
+      "question": "Que provoque l'inhalation de fumée de cigarette ?",
+      "options": ["Elle hydrate les poumons", "Elle renforce les alvéoles", "Elle irrite les voies respiratoires", "Elle augmente l’oxygène"],
+      "reponse": "Elle irrite les voies respiratoires",
+      "explication": "Le tabac contient des substances nocives qui endommagent les bronches."
+    },
+    {
+      "question": "Quel effet a le tabac sur les poumons à long terme ?",
+      "options": ["Les renforce", "Les nettoie", "Les rend plus élastiques", "Les abîme"],
+      "reponse": "Les abîme",
+      "explication": "Le tabac détruit progressivement les alvéoles et favorise le cancer."
+    },
+    {
+      "question": "Le monoxyde de carbone contenu dans la fumée :",
+      "options": ["Améliore la respiration", "Favorise la digestion", "Diminue le transport d’oxygène", "Stimule les muscles"],
+      "reponse": "Diminue le transport d’oxygène",
+      "explication": "Ce gaz prend la place de l’oxygène sur l’hémoglobine."
+    },
+    {
+      "question": "Quel organe est principalement atteint par la pollution de l’air ?",
+      "options": ["Le cœur", "Les reins", "Les poumons", "Le foie"],
+      "reponse": "Les poumons",
+      "explication": "Les poumons sont en contact direct avec l’air pollué."
+    },
+    {
+      "question": "La respiration est une fonction :",
+      "options": ["Nerveuse", "Volontaire", "Automatique", "Digestive"],
+      "reponse": "Automatique",
+      "explication": "La respiration se fait sans que l’on y pense, contrôlée par le cerveau."
+    },
+    {
+      "question": "Une exposition prolongée à la fumée entraîne :",
+      "options": ["Une meilleure forme", "Un meilleur souffle", "Des maladies respiratoires", "Une immunité renforcée"],
+      "reponse": "Des maladies respiratoires",
+      "explication": "Le tabac et la pollution peuvent provoquer des bronchites, cancers, etc."
+    },
+    {
+      "question": "Pourquoi est-il important d’avoir une bonne hygiène respiratoire ?",
+      "options": ["Pour manger mieux", "Pour bien dormir", "Pour assurer les échanges gazeux", "Pour éviter la fatigue musculaire"],
+      "reponse": "Pour assurer les échanges gazeux",
+      "explication": "L’hygiène respiratoire protège les organes responsables des échanges d’air."
+    },
+    {
+      "question": "La pollution de l’air est due en grande partie à :",
+      "options": ["La transpiration", "Les arbres", "Les gaz d’échappement", "Les vêtements"],
+      "reponse": "Les gaz d’échappement",
+      "explication": "Les voitures et usines rejettent des gaz polluants dans l’atmosphère."
+    },
+    {
+      "question": "Quel geste simple aide à protéger les voies respiratoires ?",
+      "options": ["Fumer", "Respirer la fumée", "Porter un masque en zone polluée", "Fermer la bouche en respirant"],
+      "reponse": "Porter un masque en zone polluée",
+      "explication": "Le masque limite l’inhalation de particules dangereuses."
+    },
+    {
+      "question": "Quel est un effet direct du tabagisme passif ?",
+      "options": ["Il donne de l’énergie", "Il renforce le cœur", "Il irrite les bronches", "Il nettoie les poumons"],
+      "reponse": "Il irrite les bronches",
+      "explication": "Même sans fumer, la fumée ambiante affecte les voies respiratoires."
+    },
+    {
+      "question": "Que contient principalement la fumée de cigarette ?",
+      "options": ["Vitamines", "Oxygène", "Substances toxiques", "Eau"],
+      "reponse": "Substances toxiques",
+      "explication": "La fumée contient goudrons, monoxyde de carbone, et autres poisons."
+    },
+    {
+      "question": "Quel est le rôle des poils dans les fosses nasales ?",
+      "options": ["Rendre l’air plus froid", "Accélérer l’air", "Filtrer les poussières", "Colorer l’air"],
+      "reponse": "Filtrer les poussières",
+      "explication": "Les poils retiennent les impuretés contenues dans l’air inspiré."
+    },
+    {
+      "question": "Respirer un air pur permet :",
+      "options": ["D’avoir des douleurs", "De mieux respirer", "D’attraper la grippe", "D’être plus fatigué"],
+      "reponse": "De mieux respirer",
+      "explication": "L’air pur favorise un bon fonctionnement des poumons."
+    },
+    {
+      "question": "Le tabac est particulièrement dangereux pour :",
+      "options": ["Les dents", "Les os", "Les cheveux", "Les poumons"],
+      "reponse": "Les poumons",
+      "explication": "Le tabac attaque les cellules respiratoires et favorise le cancer."
+    },
+    {
+      "question": "Le sport régulier améliore la respiration car :",
+      "options": ["Il fatigue les poumons", "Il augmente la pollution", "Il renforce les muscles respiratoires", "Il bloque les narines"],
+      "reponse": "Il renforce les muscles respiratoires",
+      "explication": "L’exercice physique entraîne une meilleure capacité pulmonaire."
+    },
+    {
+      "question": "Pourquoi déconseille-t-on de brûler les déchets à l’air libre ?",
+      "options": ["Ça attire les moustiques", "C’est bon pour les plantes", "Ça pollue l’air", "Ça produit du dioxygène"],
+      "reponse": "Ça pollue l’air",
+      "explication": "Les fumées toxiques issues de la combustion nuisent à la santé."
+    },
+    {
+      "question": "Un signe de mauvaise hygiène respiratoire est :",
+      "options": ["Peau sèche", "Toux fréquente", "Douleurs au ventre", "Bonne mémoire"],
+      "reponse": "Toux fréquente",
+      "explication": "Une toux persistante peut être le signe d’une atteinte des voies respiratoires."
+    },
+    {
+      "question": "Quelle habitude protège l’appareil respiratoire ?",
+      "options": ["Fumer entre les repas", "Respirer la poussière", "Éviter les zones polluées", "Allumer un feu dans la chambre"],
+      "reponse": "Éviter les zones polluées",
+      "explication": "Moins on est exposé à la pollution, mieux se porte le système respiratoire."
+    },
+    {
+      "question": "Un élève a bloqué sa respiration quelques secondes. Que se passe-t-il dans son corps ?",
+      "options": ["Son sang reçoit plus d’oxygène", "Il dort", "Il s'étouffe peu à peu", "Son cœur s’arrête"],
+      "reponse": "Il s'étouffe peu à peu",
+      "explication": "Le manque d’oxygène entraîne une asphyxie progressive si la respiration ne reprend pas."
+    },
+    {
+      "question": "Une fille respire très vite après avoir couru. Quelle est la raison ?",
+      "options": ["Elle est stressée", "Elle a peur", "Son corps a besoin d’oxygène", "Elle a faim"],
+      "reponse": "Son corps a besoin d’oxygène",
+      "explication": "L’effort physique augmente les besoins en oxygène pour les muscles."
+    },
+    {
+      "question": "Un garçon se met à tousser dans une pièce pleine de fumée. Pourquoi ?",
+      "options": ["Il s’étire", "Ses poumons se nettoient", "Ses voies respiratoires sont irritées", "Il digère mal"],
+      "reponse": "Ses voies respiratoires sont irritées",
+      "explication": "La fumée contient des particules qui irritent la trachée et les bronches."
+    },
+    {
+      "question": "Une personne a des difficultés à respirer après avoir couru longtemps. Quelle structure est impliquée ?",
+      "options": ["Estomac", "Diaphragme", "Rein", "Langue"],
+      "reponse": "Diaphragme",
+      "explication": "Le diaphragme est le principal muscle impliqué dans la respiration."
+    },
+    {
+      "question": "Lorsqu’on respire par le nez, l’air est :",
+      "options": ["Filtré, réchauffé et humidifié", "Pollué", "Non filtré", "Raffraîchi"],
+      "reponse": "Filtré, réchauffé et humidifié",
+      "explication": "Les fosses nasales assurent cette triple fonction pour protéger les poumons."
+    },
+    {
+      "question": "Une fille vit près d’une route très fréquentée. Quel risque court-elle ?",
+      "options": ["Attraper un rhume", "Respirer un air pur", "Avoir des infections respiratoires", "Avoir moins d’énergie"],
+      "reponse": "Avoir des infections respiratoires",
+      "explication": "Les gaz d’échappement des véhicules sont toxiques pour les voies respiratoires."
+    },
+    {
+      "question": "Une personne a subi une coupure du nerf qui contrôle le diaphragme. Elle aura du mal à :",
+      "options": ["Marcher", "Manger", "Respirer", "Entendre"],
+      "reponse": "Respirer",
+      "explication": "Le diaphragme ne fonctionnera plus correctement sans ce nerf moteur."
+    },
+    {
+      "question": "Si les alvéoles pulmonaires sont détruites, que se passe-t-il ?",
+      "options": ["La digestion est ralentie", "Le sang transporte moins d’oxygène", "Le cœur bat plus vite", "Les muscles gonflent"],
+      "reponse": "Le sang transporte moins d’oxygène",
+      "explication": "Les échanges gazeux ne peuvent plus avoir lieu efficacement."
+    },
+    {
+      "question": "Un enfant respire de la poussière en jouant. Quel mécanisme naturel intervient ?",
+      "options": ["Coagulation", "Salivation", "Mouvements des cils et éternuement", "Transpiration"],
+      "reponse": "Mouvements des cils et éternuement",
+      "explication": "Les cils des voies respiratoires et les éternuements expulsent les particules."
+    },
+    {
+      "question": "Pourquoi l’air inspiré doit-il être réchauffé ?",
+      "options": ["Pour accélérer la digestion", "Pour protéger les poumons", "Pour améliorer l’odorat", "Pour rendre l’air plus lourd"],
+      "reponse": "Pour protéger les poumons",
+      "explication": "Un air froid peut irriter ou endommager les tissus pulmonaires."
+    },
+    {
+      "question": "Lors d’un incendie, une personne respire de la fumée noire. Que risque-t-elle ?",
+      "options": ["Un coup de soleil", "Une intoxication", "Un refroidissement", "Un rhume"],
+      "reponse": "Une intoxication",
+      "explication": "La fumée contient du monoxyde de carbone, un gaz toxique."
+    },
+    {
+      "question": "Un bébé a du mal à respirer à la naissance. Quelle structure peut être encore bouchée ?",
+      "options": ["Le foie", "Les bronches", "Les fosses nasales", "Le cœur"],
+      "reponse": "Les fosses nasales",
+      "explication": "Le nez est parfois bouché par du mucus à la naissance."
+    },
+    {
+      "question": "Un élève observe une respiration très lente chez un patient. C’est un signe de :",
+      "options": ["Bonne santé", "Trouble respiratoire", "Faim", "Fatigue musculaire"],
+      "reponse": "Trouble respiratoire",
+      "explication": "Une respiration anormalement lente peut indiquer un problème de santé."
+    },
+    {
+      "question": "Un homme fume plusieurs paquets de cigarettes par jour. Quel risque court-il ?",
+      "options": ["Infection bénigne", "Fatigue des muscles", "Cancer des poumons", "Douleur à l’œil"],
+      "reponse": "Cancer des poumons",
+      "explication": "Le tabac contient des substances cancérigènes qui affectent les poumons."
+    },
+    {
+      "question": "Après avoir été exposé à la fumée, un enfant commence à tousser. Il s'agit de :",
+      "options": ["Fatigue", "Mauvaise digestion", "Réflexe de défense", "Soif"],
+      "reponse": "Réflexe de défense",
+      "explication": "La toux permet d’évacuer les substances irritantes inhalées."
+    },
+    {
+      "question": "Lorsqu’on gonfle un ballon, quel organe est sollicité ?",
+      "options": ["Le foie", "Les reins", "Les poumons", "Les intestins"],
+      "reponse": "Les poumons",
+      "explication": "Gonfler un ballon nécessite une expiration forcée via les poumons."
+    },
+    {
+      "question": "Un adolescent fume une cigarette pour la première fois et a la tête qui tourne. Pourquoi ?",
+      "options": ["C’est normal", "C’est le sucre", "C’est dû au monoxyde de carbone", "Il a faim"],
+      "reponse": "C’est dû au monoxyde de carbone",
+      "explication": "Le CO prend la place de l’oxygène dans le sang et provoque un malaise."
+    },
+    {
+      "question": "Pourquoi un asthmatique utilise un inhalateur ?",
+      "options": ["Pour digérer", "Pour lubrifier les poumons", "Pour dilater les bronches", "Pour produire de l’oxygène"],
+      "reponse": "Pour dilater les bronches",
+      "explication": "L’inhalateur aide à ouvrir les bronches en cas de crise."
+    },
+    {
+      "question": "Une personne a une voix rauque après avoir crié. Quel organe est affecté ?",
+      "options": ["Langue", "Corde vocale", "Bronche", "Œsophage"],
+      "reponse": "Corde vocale",
+      "explication": "Les cordes vocales sont situées dans le larynx, traversé par l’air expiré."
+    },
+    {
+      "question": "Une région fortement polluée est déconseillée aux personnes souffrant de :",
+      "options": ["Mal de tête", "Problèmes respiratoires", "Carie", "Insomnie"],
+      "reponse": "Problèmes respiratoires",
+      "explication": "La pollution aggrave les troubles pulmonaires."
+    },
+    {
+      "question": "Pourquoi conseille-t-on de faire du sport régulièrement ?",
+      "options": ["Pour maigrir seulement", "Pour transpirer", "Pour renforcer les poumons", "Pour avoir faim"],
+      "reponse": "Pour renforcer les poumons",
+      "explication": "L’activité physique améliore la capacité respiratoire."
+    },
+    {
+      "question": "Une personne est enfermée dans une pièce sans ventilation. Que risque-t-elle ?",
+      "options": ["Manque d’oxygène", "Trop de lumière", "Trop d’eau", "Douleur au ventre"],
+      "reponse": "Manque d’oxygène",
+      "explication": "Sans circulation d’air, l’oxygène diminue et le CO₂ augmente."
+    },
+    {
+      "question": "Un enfant respire vite et mal après avoir couru. Que faire ?",
+      "options": ["Le coucher immédiatement", "Le faire boire du sucre", "Le calmer et le faire respirer lentement", "Le faire crier"],
+      "reponse": "Le calmer et le faire respirer lentement",
+      "explication": "Cela permet de rétablir un bon rythme respiratoire."
+    },
+    {
+      "question": "Une usine rejette des gaz dans l’air. Quel est l’impact sur la santé ?",
+      "options": ["Elle augmente la respiration", "Elle améliore le climat", "Elle favorise les maladies respiratoires", "Elle donne de la vitamine D"],
+      "reponse": "Elle favorise les maladies respiratoires",
+      "explication": "Les particules et gaz toxiques peuvent être inhalés et nuire aux poumons."
+    },
+    {
+      "question": "Pourquoi ne faut-il pas allumer du charbon dans une chambre fermée ?",
+      "options": ["Ça chauffe trop", "Ça éclaire trop", "Ça produit du monoxyde de carbone", "Ça fait du bruit"],
+      "reponse": "Ça produit du monoxyde de carbone",
+      "explication": "Ce gaz est inodore mais très toxique et peut provoquer la mort."
+    },
+    {
+      "question": "Un garçon a eu une crise d’asthme en courant. Quelle est la cause directe ?",
+      "options": ["Faim", "Air froid ou poussière", "Fatigue musculaire", "Soif"],
+      "reponse": "Air froid ou poussière",
+      "explication": "Ces facteurs peuvent déclencher une crise chez l’asthmatique."
+    },
+    {
+      "question": "Un élève bloque sa respiration volontairement. Il ressent :",
+      "options": ["Plus d’énergie", "Une sensation de suffocation", "Une digestion lente", "Un refroidissement"],
+      "reponse": "Une sensation de suffocation",
+      "explication": "Le manque d’oxygène crée une gêne respiratoire."
+    },
+    {
+      "question": "Que faire en cas de forte pollution atmosphérique ?",
+      "options": ["Faire du sport dehors", "Fumer", "Rester à l’intérieur", "Dormir au soleil"],
+      "reponse": "Rester à l’intérieur",
+      "explication": "Cela évite d’inhaler les polluants présents dans l’air."
+    },
+    {
+      "question": "Pourquoi déconseille-t-on de fumer en présence d’enfants ?",
+      "options": ["Ça les distrait", "Ils vont tousser", "Ils inhalent les substances toxiques", "Ils prennent le briquet"],
+      "reponse": "Ils inhalent les substances toxiques",
+      "explication": "Le tabagisme passif est dangereux, surtout pour les enfants."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’un royaume dans le contexte précolonial africain ?",
+      "options": ["Un territoire gouverné par un roi", "Une région colonisée par l'Europe", "Une ville commerciale", "Une tribu sans organisation"],
+      "reponse": "Un territoire gouverné par un roi",
+      "explication": "Dans les sociétés africaines traditionnelles, un royaume est dirigé par un roi avec une hiérarchie politique établie."
+    },
+    {
+      "question": "Quel peuple est à l’origine du royaume du Yatenga ?",
+      "options": ["Les Mossi", "Les Gourmantché", "Les Peuls", "Les Dioulas"],
+      "reponse": "Les Mossi",
+      "explication": "Le royaume du Yatenga fait partie des anciens royaumes Mossi du Burkina Faso."
+    },
+    {
+      "question": "Quelle est la capitale historique du royaume du Yatenga ?",
+      "options": ["Ouahigouya", "Koudougou", "Gaoua", "Bobo-Dioulasso"],
+      "reponse": "Ouahigouya",
+      "explication": "Ouahigouya est le centre politique et culturel du royaume du Yatenga."
+    },
+    {
+      "question": "Comment s’appelle le roi dans la tradition Mossi ?",
+      "options": ["Naaba", "Lama", "Fon", "Sultan"],
+      "reponse": "Naaba",
+      "explication": "Chez les Mossi, le roi est appelé Naaba, un titre respecté dans tout le royaume."
+    },
+    {
+      "question": "Quel royaume Gourmantché est connu dans la région Est du Burkina Faso ?",
+      "options": ["Royaume de Fada N’Gourma", "Royaume de Gaoua", "Empire du Mali", "Royaume de Bobo"],
+      "reponse": "Royaume de Fada N’Gourma",
+      "explication": "Le royaume de Fada N’Gourma est un important royaume Gourmantché."
+    },
+    {
+      "question": "Qu’est-ce qu’un empire en Afrique précoloniale ?",
+      "options": ["Un vaste territoire dirigé par un empereur", "Un village", "Un camp de commerçants", "Un lieu sacré"],
+      "reponse": "Un vaste territoire dirigé par un empereur",
+      "explication": "Les empires regroupaient plusieurs royaumes sous une autorité impériale centralisée."
+    },
+    {
+      "question": "Quel empire ouest-africain fut célèbre pour sa richesse en or ?",
+      "options": ["Empire du Mali", "Empire Mossi", "Empire Gourma", "Royaume de Kong"],
+      "reponse": "Empire du Mali",
+      "explication": "L’empire du Mali, dirigé par des empereurs comme Soundiata Keïta et Mansa Moussa, était riche en or."
+    },
+    {
+      "question": "Quel fondateur légendaire est associé à l’empire du Mali ?",
+      "options": ["Soundiata Keïta", "Askia Mohamed", "Samory Touré", "Naaba Oubri"],
+      "reponse": "Soundiata Keïta",
+      "explication": "Soundiata est le fondateur de l’empire du Mali au XIIIe siècle."
+    },
+    {
+      "question": "Comment était organisée la société traditionnelle Mossi ?",
+      "options": ["Hiérarchisée avec le Naaba au sommet", "Sans structure", "Dirigée par des missionnaires", "Gérée par des colons"],
+      "reponse": "Hiérarchisée avec le Naaba au sommet",
+      "explication": "Le Naaba gouvernait avec l’aide de notables, chefs de guerre, religieux, etc."
+    },
+    {
+      "question": "Qui détenait le pouvoir religieux dans la société Mossi ?",
+      "options": ["Le Tengsoba", "Le roi", "Le griot", "Le chef de guerre"],
+      "reponse": "Le Tengsoba",
+      "explication": "Le Tengsoba était chargé des affaires religieuses et des rituels liés à la terre."
+    },
+    {
+      "question": "Quel est le rôle d’un griot dans les royaumes traditionnels ?",
+      "options": ["Conserver et transmettre l’histoire orale", "Diriger les armées", "Gérer les impôts", "Construire des cases"],
+      "reponse": "Conserver et transmettre l’histoire orale",
+      "explication": "Les griots étaient les gardiens de la mémoire collective."
+    },
+    {
+      "question": "Quelle caste était souvent spécialisée dans la forge ?",
+      "options": ["Les forgerons", "Les griots", "Les paysans", "Les chefs"],
+      "reponse": "Les forgerons",
+      "explication": "Les forgerons formaient une caste artisanale très respectée."
+    },
+    {
+      "question": "Comment s’appelait le roi suprême des Mossi selon la tradition ?",
+      "options": ["Mogho Naaba", "Lama", "Tengsoba", "Bey du Gourma"],
+      "reponse": "Mogho Naaba",
+      "explication": "Le Mogho Naaba est considéré comme le roi des rois Mossi."
+    },
+    {
+      "question": "Que signifie 'Naaba' dans les royaumes Mossi ?",
+      "options": ["Chef ou roi", "Serviteur", "Forgeron", "Conseiller"],
+      "reponse": "Chef ou roi",
+      "explication": "Le mot Naaba désigne un dirigeant local ou royal."
+    },
+    {
+      "question": "Quelle est la principale ressource économique dans les sociétés traditionnelles ?",
+      "options": ["L’agriculture", "Le pétrole", "Le commerce électronique", "La pêche industrielle"],
+      "reponse": "L’agriculture",
+      "explication": "L’économie était fondée sur l’agriculture et l’élevage."
+    },
+    {
+      "question": "Comment les lois étaient-elles appliquées dans les royaumes ?",
+      "options": ["Par les conseils de sages et chefs coutumiers", "Par les juges européens", "Par les colons", "Sans lois écrites"],
+      "reponse": "Par les conseils de sages et chefs coutumiers",
+      "explication": "Les décisions de justice étaient rendues oralement selon les traditions."
+    },
+    {
+      "question": "Comment les royaumes précoloniaux assuraient-ils leur défense ?",
+      "options": ["Par des armées dirigées par des chefs de guerre", "Par les missionnaires", "Par des alliances avec l’Europe", "Par des murs en pierre"],
+      "reponse": "Par des armées dirigées par des chefs de guerre",
+      "explication": "Les royaumes avaient des soldats entraînés pour défendre leur territoire."
+    },
+    {
+      "question": "Quels éléments renforçaient l’unité d’un royaume ?",
+      "options": ["La religion, les traditions et les alliances", "La colonisation", "La migration", "L’abandon des coutumes"],
+      "reponse": "La religion, les traditions et les alliances",
+      "explication": "Les pratiques religieuses et les mariages renforçaient la cohésion."
+    },
+    {
+      "question": "Quel empire était voisin du royaume Mossi au sud-ouest ?",
+      "options": ["Empire Lobi", "Empire Songhaï", "Empire du Mali", "Empire Peul"],
+      "reponse": "Empire Lobi",
+      "explication": "Les Lobis vivaient dans le sud-ouest, organisés de façon moins centralisée."
+    },
+    {
+      "question": "Quel rôle jouait la terre dans les sociétés traditionnelles ?",
+      "options": ["Source de richesse, transmise par héritage ou rituels", "Vendue au plus offrant", "Propriété de l’État", "Sans importance"],
+      "reponse": "Source de richesse, transmise par héritage ou rituels",
+      "explication": "La terre avait une valeur spirituelle et économique fondamentale."
+    },
+    {
+      "question": "Quel rôle avaient les anciens dans les sociétés précoloniales ?",
+      "options": ["Conseillers et gardiens des traditions", "Chefs militaires", "Colonisateurs", "Forgerons"],
+      "reponse": "Conseillers et gardiens des traditions",
+      "explication": "Leur sagesse était respectée dans la prise de décisions."
+    },
+    {
+      "question": "Quel est l'un des rôles du Tengsoba ?",
+      "options": ["Assurer la paix entre l’homme et la nature", "Gérer les impôts", "Combattre", "Vendre les esclaves"],
+      "reponse": "Assurer la paix entre l’homme et la nature",
+      "explication": "Le Tengsoba gérait les affaires religieuses liées à la terre et aux ancêtres."
+    },
+    {
+      "question": "Quels produits étaient échangés dans les marchés traditionnels ?",
+      "options": ["Mil, sorgho, sel, coton, bétail", "Voitures, pétrole, gaz", "Machines industrielles", "Produits importés"],
+      "reponse": "Mil, sorgho, sel, coton, bétail",
+      "explication": "Le commerce local se faisait avec les produits agricoles et artisanaux."
+    },
+    {
+      "question": "Que représente le Mogho Naaba aujourd’hui ?",
+      "options": ["Une autorité coutumière respectée", "Un roi politique élu", "Un chef militaire", "Un prêtre catholique"],
+      "reponse": "Une autorité coutumière respectée",
+      "explication": "Le Mogho Naaba conserve une grande influence traditionnelle au Burkina Faso."
+    },
+    {
+      "question": "Comment était transmise l’histoire dans les sociétés traditionnelles ?",
+      "options": ["Par oral via les griots", "Par livres européens", "Par internet", "Par dessins sur mur"],
+      "reponse": "Par oral via les griots",
+      "explication": "L’histoire était racontée à travers des récits chantés ou parlés."
+    },
+    {
+      "question": "Quel peuple fonde le royaume de Tenkodogo ?",
+      "options": ["Les Mossi", "Les Gourounsi", "Les Samos", "Les Bissas"],
+      "reponse": "Les Mossi",
+      "explication": "Tenkodogo est considéré comme le berceau de la chefferie Mossi."
+    },
+    {
+      "question": "Quel rôle joue la religion dans l’organisation du pouvoir ?",
+      "options": ["Elle légitime l’autorité du roi", "Elle s’oppose au pouvoir", "Elle est absente", "Elle est coloniale"],
+      "reponse": "Elle légitime l’autorité du roi",
+      "explication": "Le roi est souvent considéré comme choisi ou béni par les ancêtres ou divinités."
+    },
+    {
+      "question": "Quel artisan était aussi considéré comme un médiateur spirituel ?",
+      "options": ["Forgeron", "Tisserand", "Chef de guerre", "Paysagiste"],
+      "reponse": "Forgeron",
+      "explication": "Les forgerons avaient souvent un rôle sacré en plus de leur fonction artisanale."
+    },
+    {
+      "question": "Quel était un critère de puissance d’un royaume ?",
+      "options": ["Taille de l’armée et richesses agricoles", "Nombre d’écoles coloniales", "Relations avec l’Europe", "Présence d’usines"],
+      "reponse": "Taille de l’armée et richesses agricoles",
+      "explication": "Plus le royaume avait de soldats et de productions, plus il était puissant."
+    },
+    {
+      "question": "Quel rôle jouaient les alliances matrimoniales ?",
+      "options": ["Consolider les relations entre familles et royaumes", "Remplacer les guerres", "Adopter la culture européenne", "Envoyer des enfants en Europe"],
+      "reponse": "Consolider les relations entre familles et royaumes",
+      "explication": "Les mariages entre familles nobles renforçaient la stabilité politique."
+    }
+  ]
+}
