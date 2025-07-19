@@ -1,0 +1,472 @@
+{
+  "qcm": [
+    {
+      "question": "On considère une variable aléatoire X suivant une loi binomiale B(n=10, p=0.4). Quelle est la valeur de 𝔓(X = 3) ?",
+      "options": ["≈ 0.214", "≈ 0.300", "≈ 0.120", "≈ 0.050"],
+      "reponse": "≈ 0.214",
+      "explication": "𝔓(X = k) = Cₙᵏ × pᵏ × (1 − p)ⁿ⁻ᵏ. Ici, C₁₀³ × 0.4³ × 0.6⁷ ≈ 0.214."
+    },
+    {
+      "question": "La loi binomiale B(n, p) modélise :",
+      "options": ["Le nombre de succès dans n épreuves de Bernoulli", "Le nombre d’échecs avant le premier succès", "La somme de variables continues", "La durée d’un phénomène"],
+      "reponse": "Le nombre de succès dans n épreuves de Bernoulli",
+      "explication": "C’est une suite d’épreuves indépendantes à deux issues (succès/échec)."
+    },
+    {
+      "question": "La formule de 𝔓(X = k) pour X ~ B(n, p) est :",
+      "options": ["Cₙᵏ × pᵏ × (1 − p)ⁿ⁻ᵏ", "np", "Cₖⁿ × pⁿ", "p × (1 − p)ᵏ"],
+      "reponse": "Cₙᵏ × pᵏ × (1 − p)ⁿ⁻ᵏ",
+      "explication": "Formule fondamentale de la loi binomiale."
+    },
+    {
+      "question": "Soit X ~ B(5, 0.5). Quelle est l’espérance 𝔼(X) ?",
+      "options": ["2.5", "5", "1", "0.5"],
+      "reponse": "2.5",
+      "explication": "𝔼(X) = n × p = 5 × 0.5 = 2.5."
+    },
+    {
+      "question": "La variance d’une loi binomiale B(n, p) est donnée par :",
+      "options": ["np(1−p)", "np²", "n²p", "n/p"],
+      "reponse": "np(1−p)",
+      "explication": "Formule classique pour la dispersion d’une binomiale."
+    },
+    {
+      "question": "Une variable X suit la loi géométrique de paramètre p. 𝔓(X = k) est donnée par :",
+      "options": ["(1 − p)ᵏ⁻¹ × p", "pᵏ", "k × p", "1/pᵏ"],
+      "reponse": "(1 − p)ᵏ⁻¹ × p",
+      "explication": "C’est la probabilité d’obtenir le premier succès à la kᵉ tentative."
+    },
+    {
+      "question": "L’espérance d’une loi géométrique de paramètre p est :",
+      "options": ["1/p", "p", "1−p", "p²"],
+      "reponse": "1/p",
+      "explication": "Elle représente le nombre moyen d’épreuves avant un succès."
+    },
+    {
+      "question": "Une variable aléatoire X prend les valeurs 0, 1, 2 avec 𝔓(X=x) = 0.2, 0.5, 0.3. Quelle est l’espérance ?",
+      "options": ["1.1", "0.9", "1", "1.2"],
+      "reponse": "1.1",
+      "explication": "𝔼(X) = ∑ x × 𝔓(X = x) = 0×0.2 + 1×0.5 + 2×0.3 = 1.1."
+    },
+    {
+      "question": "La somme des probabilités d’une variable discrète est toujours :",
+      "options": ["1", "0", "np", "∞"],
+      "reponse": "1",
+      "explication": "C’est une propriété de base de toute loi de probabilité."
+    },
+    {
+      "question": "Quelle formule donne Cₙᵏ (nombre de combinaisons) ?",
+      "options": ["n! / [k!(n−k)!]", "n × k", "(n − k)!", "k! / n!"],
+      "reponse": "n! / [k!(n−k)!]",
+      "explication": "C’est la définition du coefficient binomial."
+    },
+    {
+      "question": "Soit une urne contenant 3 boules rouges et 2 vertes. On tire 2 boules sans remise. Quelle est la probabilité d’avoir 1 rouge et 1 verte ?",
+      "options": ["6/10", "3/10", "4/10", "1/2"],
+      "reponse": "6/10",
+      "explication": "C’est un cas de probabilité combinatoire : 3×2 / C₅² = 6/10."
+    },
+    {
+      "question": "Un événement A et son complémentaire Ā vérifient :",
+      "options": ["𝔓(A) + 𝔓(Ā) = 1", "𝔓(A) × 𝔓(Ā) = 1", "𝔓(A) − 𝔓(Ā) = 1", "𝔓(A) = −𝔓(Ā)"],
+      "reponse": "𝔓(A) + 𝔓(Ā) = 1",
+      "explication": "Un événement et son contraire forment l’univers."
+    },
+    {
+      "question": "La loi binomiale devient symétrique quand :",
+      "options": ["p = 0.5", "n = 1", "p = 1", "p < 0.1"],
+      "reponse": "p = 0.5",
+      "explication": "Quand le succès et l’échec ont la même probabilité."
+    },
+    {
+      "question": "Une loi géométrique est définie pour :",
+      "options": ["k ∈ ℕ*", "k ∈ ℝ", "k ≥ 0", "k < 0"],
+      "reponse": "k ∈ ℕ*",
+      "explication": "Le nombre d’essais avant un succès est toujours un entier positif."
+    },
+    {
+      "question": "L’écart-type d’une loi binomiale est :",
+      "options": ["√(np(1−p))", "np", "p(1−p)", "n × p²"],
+      "reponse": "√(np(1−p))",
+      "explication": "C’est la racine de la variance de la loi binomiale."
+    },
+    {
+      "question": "Soit X ~ B(4, 0.25). Quelle est la probabilité d’obtenir au moins un succès ?",
+      "options": ["≈ 0.684", "0.25", "0.75", "1"],
+      "reponse": "≈ 0.684",
+      "explication": "𝔓(X ≥ 1) = 1 − 𝔓(X = 0) = 1 − (0.75)⁴ ≈ 0.684."
+    },
+    {
+      "question": "On répète une expérience 6 fois avec p = 1/3. Quelle est la probabilité d’avoir 0 succès ?",
+      "options": ["(2/3)⁶", "1/3", "(1/3)⁶", "1"],
+      "reponse": "(2/3)⁶",
+      "explication": "0 succès : tous les essais échouent → (1 − p)⁶ = (2/3)⁶."
+    },
+    {
+      "question": "La loi binomiale est adaptée lorsque :",
+      "options": ["Les épreuves sont indépendantes et répétées un nombre fixe de fois", "On observe jusqu’au 1er succès", "Les valeurs sont continues", "Les probabilités changent à chaque essai"],
+      "reponse": "Les épreuves sont indépendantes et répétées un nombre fixe de fois",
+      "explication": "C’est la condition pour appliquer une loi binomiale."
+    },
+    {
+      "question": "L’espérance mathématique peut être interprétée comme :",
+      "options": ["La moyenne des résultats à long terme", "La plus grande valeur possible", "Le mode", "Le maximum d’un échantillon"],
+      "reponse": "La moyenne des résultats à long terme",
+      "explication": "Elle correspond à la valeur moyenne théorique d’une variable aléatoire."
+    },
+    {
+      "question": "Dans la loi géométrique, la probabilité que le succès arrive dès la première tentative est :",
+      "options": ["p", "1 − p", "p²", "0"],
+      "reponse": "p",
+      "explication": "𝔓(X = 1) = (1 − p)⁰ × p = p."
+    },
+    {
+      "question": "Un dé équilibré est lancé 4 fois. Quelle est la probabilité d'obtenir exactement deux 6 ?",
+      "options": ["C₄² × (1/6)² × (5/6)²", "(1/6)² × (5/6)²", "C₄² × (5/6)²", "(1/3)² × (2/3)²"],
+      "reponse": "C₄² × (1/6)² × (5/6)²",
+      "explication": "C’est une loi binomiale : n = 4, p = 1/6, k = 2."
+    },
+    {
+      "question": "On tire au hasard 3 cartes dans un jeu de 52, sans remise. Quelle est la probabilité d’obtenir 3 cœurs ?",
+      "options": ["(13/52) × (12/51) × (11/50)", "(1/4)³", "(13/52)³", "(3/52)"],
+      "reponse": "(13/52) × (12/51) × (11/50)",
+      "explication": "Les tirages sont successifs et sans remise, donc dépendants."
+    },
+    {
+      "question": "On répète une expérience jusqu’au premier succès avec p = 0.2. Quelle est 𝔓(X = 4) ?",
+      "options": ["(0.8)³ × 0.2", "0.2 × 0.8⁴", "0.2⁴", "0.8 × 0.2³"],
+      "reponse": "(0.8)³ × 0.2",
+      "explication": "Loi géométrique : 𝔓(X = k) = (1 − p)ᵏ⁻¹ × p."
+    },
+    {
+      "question": "X suit une loi B(6, 0.5). Quelle est la probabilité d'obtenir au moins 1 succès ?",
+      "options": ["1 − (0.5)⁶", "(0.5)⁶", "1", "6 × 0.5"],
+      "reponse": "1 − (0.5)⁶",
+      "explication": "𝔓(X ≥ 1) = 1 − 𝔓(X = 0) = 1 − (1 − p)⁶."
+    },
+    {
+      "question": "Une pièce est lancée 10 fois. Quelle est l’espérance du nombre de faces ?",
+      "options": ["5", "10", "2", "1"],
+      "reponse": "5",
+      "explication": "X ~ B(10, 0.5) ⇒ 𝔼(X) = np = 10 × 0.5."
+    },
+    {
+      "question": "X suit une loi géométrique de paramètre p = 0.1. Quelle est la probabilité que le premier succès survienne après le 5ᵉ essai ?",
+      "options": ["(0.9)⁵", "(0.1)⁵", "1 − (0.9)⁵", "0.9⁴ × 0.1"],
+      "reponse": "(0.9)⁵",
+      "explication": "𝔓(X > 5) = (1 − p)⁵."
+    },
+    {
+      "question": "Soit X une variable avec 𝔓(X=1)=0.2 ; 𝔓(X=2)=0.5 ; 𝔓(X=3)=0.3. Calculer Var(X).",
+      "options": ["0.41", "0.49", "0.35", "0.29"],
+      "reponse": "0.41",
+      "explication": "Var(X) = 𝔼(X²) − 𝔼(X)². ⇒ 𝔼(X) = 2.1 ; 𝔼(X²) = 4.81 ⇒ Var = 4.81 − 2.1² = 0.41."
+    },
+    {
+      "question": "Une urne contient 4 boules rouges et 6 noires. On tire avec remise 5 fois. Probabilité d’avoir exactement 2 rouges ?",
+      "options": ["C₅² × (0.4)² × (0.6)³", "(0.4)² × (0.6)³", "C₅² × 0.4 × 0.6", "0.6 × 0.4"],
+      "reponse": "C₅² × (0.4)² × (0.6)³",
+      "explication": "C’est une loi binomiale avec p = 0.4, n = 5, k = 2."
+    },
+    {
+      "question": "Soit X ~ B(12, 0.25). Calculer 𝔼(X) et σ(X).",
+      "options": ["𝔼 = 3 ; σ ≈ 1.5", "𝔼 = 4 ; σ = 2", "𝔼 = 3 ; σ = 2", "𝔼 = 6 ; σ = 3"],
+      "reponse": "𝔼 = 3 ; σ ≈ 1.5",
+      "explication": "𝔼 = np = 12×0.25 = 3 ; Var = 12×0.25×0.75 = 2.25 ⇒ σ = √2.25 = 1.5."
+    },
+    {
+      "question": "Dans une épreuve de 20 questions, chaque question est réussie avec proba 0.7. Quelle est la probabilité d'en réussir au moins 1 ?",
+      "options": ["1 − (0.3)²⁰", "(0.7)²⁰", "0.7 × 20", "0.3"],
+      "reponse": "1 − (0.3)²⁰",
+      "explication": "𝔓(X ≥ 1) = 1 − 𝔓(X = 0) = 1 − (1 − 0.7)²⁰."
+    },
+    {
+      "question": "Une machine a 90% de chance de réussir une tâche. Quelle est la probabilité qu'elle réussisse les 3 premières et échoue à la 4ᵉ ?",
+      "options": ["(0.9)³ × 0.1", "0.9 × 0.1³", "(0.1)³ × 0.9", "1 − (0.9)⁴"],
+      "reponse": "(0.9)³ × 0.1",
+      "explication": "C’est le cas pour une loi géométrique au 4ᵉ essai."
+    },
+    {
+      "question": "Dans une classe, la probabilité qu’un élève réussisse un test est 0.6. Si on prend 8 élèves, quelle est la probabilité que 5 réussissent ?",
+      "options": ["C₈⁵ × 0.6⁵ × 0.4³", "C₈⁵ × 0.4⁵ × 0.6³", "0.6⁵ × 0.4³", "5/8"],
+      "reponse": "C₈⁵ × 0.6⁵ × 0.4³",
+      "explication": "X ~ B(8, 0.6) ; on veut 𝔓(X = 5)."
+    },
+    {
+      "question": "Soit une variable X de loi géométrique avec p = 0.3. Quelle est l’espérance d’essais pour réussir ?",
+      "options": ["1 / 0.3", "0.3", "1 − 0.3", "0.3 × 2"],
+      "reponse": "1 / 0.3",
+      "explication": "Espérance géométrique : 1/p."
+    },
+    {
+      "question": "Quelle est la probabilité qu’aucun succès n’apparaisse dans une loi binomiale B(5, 0.1) ?",
+      "options": ["(0.9)⁵", "0.1", "1", "C₅⁰ × 0.1⁰ × 0.9⁵"],
+      "reponse": "(0.9)⁵",
+      "explication": "𝔓(X = 0) = (1 − p)⁵."
+    },
+    {
+      "question": "Une variable X suit une loi binomiale B(7, 0.2). Quelle est 𝔓(X ≥ 1) ?",
+      "options": ["1 − (0.8)⁷", "0.2⁷", "0.2", "(0.2) × (0.8)⁶"],
+      "reponse": "1 − (0.8)⁷",
+      "explication": "𝔓(X ≥ 1) = 1 − 𝔓(X = 0)."
+    },
+    {
+      "question": "On répète une expérience avec p = 0.6 jusqu’à réussite. Probabilité que le succès survienne au 2ᵉ essai ?",
+      "options": ["(0.4) × 0.6", "0.6 × 0.4²", "(0.6)²", "0.4 × 0.6"],
+      "reponse": "0.4 × 0.6",
+      "explication": "Loi géométrique : 𝔓(X = 2) = (1 − p) × p = 0.4 × 0.6."
+    },
+    {
+      "question": "La fonction génératrice d’une loi binomiale donne des informations sur :",
+      "options": ["Les moments (espérance, variance)", "Les fréquences", "Les intervalles", "Le maximum"],
+      "reponse": "Les moments (espérance, variance)",
+      "explication": "Elle permet de dériver les moments de la loi."
+    },
+    {
+      "question": "Une expérience aléatoire est répétée jusqu’au succès avec p = 0.4. Probabilité que le succès survienne avant le 4ᵉ essai ?",
+      "options": ["1 − (0.6)³", "0.4", "(0.6)³", "1 − 0.4"],
+      "reponse": "1 − (0.6)³",
+      "explication": "𝔓(X ≤ 3) = 1 − 𝔓(X > 3) = 1 − (1 − p)³."
+    },
+    {
+      "question": "Soit X ~ B(9, 0.3). Quelle est la probabilité qu’au plus 2 succès soient obtenus ?",
+      "options": ["𝔓(X ≤ 2)", "𝔓(X = 2)", "𝔓(X ≥ 2)", "𝔓(X > 2)"],
+      "reponse": "𝔓(X ≤ 2)",
+      "explication": "“Au plus” signifie inférieur ou égal à 2."
+    },
+    {
+      "question": "Qu’est-ce qu’un schéma de Bernoulli ?",
+      "options": ["Une répétition de n épreuves identiques à deux issues", "Une expérience avec plusieurs issues", "Un tirage sans remise", "Une fonction aléatoire"],
+      "reponse": "Une répétition de n épreuves identiques à deux issues",
+      "explication": "Chaque épreuve de Bernoulli n’a que deux résultats : succès ou échec."
+    },
+    {
+      "question": "Dans un schéma de Bernoulli de n répétitions, quelle est la probabilité d’avoir exactement k succès ?",
+      "options": ["Cₙᵏ × pᵏ × (1 − p)ⁿ⁻ᵏ", "p × (1 − p)", "k × p", "np"],
+      "reponse": "Cₙᵏ × pᵏ × (1 − p)ⁿ⁻ᵏ",
+      "explication": "C’est la formule de la loi binomiale B(n, p), liée au schéma de Bernoulli."
+    },
+    {
+      "question": "Combien d’issues possibles dans un schéma de Bernoulli de 3 répétitions ?",
+      "options": ["8", "3", "6", "2"],
+      "reponse": "8",
+      "explication": "2 issues par épreuve → 2³ = 8 issues."
+    },
+    {
+      "question": "Le schéma de Bernoulli est associé à quelle loi ?",
+      "options": ["Loi binomiale", "Loi géométrique", "Loi exponentielle", "Loi normale"],
+      "reponse": "Loi binomiale",
+      "explication": "La répétition d’épreuves de Bernoulli suit une loi B(n, p)."
+    },
+    {
+      "question": "Quel outil visuel permet de représenter les issues d’un schéma de Bernoulli ?",
+      "options": ["Un arbre pondéré", "Une droite graduée", "Un tableau croisé", "Un cercle"],
+      "reponse": "Un arbre pondéré",
+      "explication": "Chaque branche représente une issue avec sa probabilité."
+    },
+    {
+      "question": "Sur un arbre pondéré, que représente chaque nœud ?",
+      "options": ["Un état ou événement partiel", "Une probabilité", "Un résultat final", "Un vecteur"],
+      "reponse": "Un état ou événement partiel",
+      "explication": "Chaque nœud correspond à une étape de l’expérience."
+    },
+    {
+      "question": "Dans un arbre pondéré, la probabilité d’un chemin est :",
+      "options": ["Le produit des probabilités des branches", "La somme des probabilités", "Le plus petit poids", "Le carré des probabilités"],
+      "reponse": "Le produit des probabilités des branches",
+      "explication": "On multiplie les probabilités le long du chemin."
+    },
+    {
+      "question": "Le total des probabilités de tous les chemins de l’arbre donne :",
+      "options": ["1", "0", "n", "p"],
+      "reponse": "1",
+      "explication": "L’ensemble des issues constitue l’univers."
+    },
+    {
+      "question": "Une pièce équilibrée est lancée 2 fois. Quelle est la probabilité d’avoir pile puis face ?",
+      "options": ["0.25", "0.5", "1", "0.75"],
+      "reponse": "0.25",
+      "explication": "𝔓(Pile, Face) = 0.5 × 0.5 = 0.25."
+    },
+    {
+      "question": "Une urne contient 3 boules rouges et 2 bleues. Tirage avec remise. Probabilité d’avoir 2 rouges ?",
+      "options": ["(3/5)²", "2 × (3/5)", "(2/5) × (3/5)", "(2/5)²"],
+      "reponse": "(3/5)²",
+      "explication": "Avec remise, les événements sont indépendants."
+    },
+    {
+      "question": "Dans un arbre, une branche descendante notée 𝔓(B | A) représente :",
+      "options": ["La probabilité de B sachant A", "La probabilité de A sachant B", "La probabilité conjointe", "L’indépendance"],
+      "reponse": "La probabilité de B sachant A",
+      "explication": "Notation classique des probabilités conditionnelles."
+    },
+    {
+      "question": "𝔓(A ∩ B) = ?",
+      "options": ["𝔓(A) × 𝔓(B | A)", "𝔓(B) × 𝔓(A | B)", "𝔓(A) + 𝔓(B)", "𝔓(A | B) / 𝔓(B)"],
+      "reponse": "𝔓(A) × 𝔓(B | A)",
+      "explication": "C’est la définition du produit des probabilités."
+    },
+    {
+      "question": "Lorsque les événements A et B sont indépendants :",
+      "options": ["𝔓(B | A) = 𝔓(B)", "𝔓(A ∩ B) = 0", "𝔓(A) = 1", "𝔓(A | B) = 0"],
+      "reponse": "𝔓(B | A) = 𝔓(B)",
+      "explication": "Par définition, A n’a aucun effet sur B si A et B sont indépendants."
+    },
+    {
+      "question": "Quelle formule est vraie si A et B sont indépendants ?",
+      "options": ["𝔓(A ∩ B) = 𝔓(A) × 𝔓(B)", "𝔓(A ∪ B) = 𝔓(A) − 𝔓(B)", "𝔓(A ∩ B) = 𝔓(A | B)", "𝔓(B | A) = 0"],
+      "reponse": "𝔓(A ∩ B) = 𝔓(A) × 𝔓(B)",
+      "explication": "Produit direct des probabilités pour événements indépendants."
+    },
+    {
+      "question": "Dans un arbre, un chemin complet représente :",
+      "options": ["Une issue possible", "Un ensemble vide", "Un événement impossible", "Une probabilité nulle"],
+      "reponse": "Une issue possible",
+      "explication": "Chaque branche aboutit à une issue."
+    },
+    {
+      "question": "L'arbre d'un schéma de Bernoulli à 3 répétitions a combien de feuilles (issues finales) ?",
+      "options": ["8", "6", "4", "2"],
+      "reponse": "8",
+      "explication": "2³ = 8 issues finales distinctes."
+    },
+    {
+      "question": "Soit un arbre avec A puis B, et 𝔓(A) = 0.6 ; 𝔓(B | A) = 0.4. Que vaut 𝔓(A ∩ B) ?",
+      "options": ["0.24", "1", "0.6", "0.4"],
+      "reponse": "0.24",
+      "explication": "𝔓(A ∩ B) = 𝔓(A) × 𝔓(B | A) = 0.6 × 0.4 = 0.24."
+    },
+    {
+      "question": "Un arbre comporte 2 niveaux. Combien de branches au total si chaque nœud a 2 branches ?",
+      "options": ["4", "6", "8", "2"],
+      "reponse": "4",
+      "explication": "1er niveau : 2 branches ; 2e niveau : 2 par branche → 2 × 2 = 4."
+    },
+    {
+      "question": "À quoi sert l’arbre pondéré ?",
+      "options": ["Visualiser les enchaînements d’événements", "Remplacer un calcul matriciel", "Tracer une courbe", "Construire une fonction"],
+      "reponse": "Visualiser les enchaînements d’événements",
+      "explication": "C’est un outil graphique pour suivre les scénarios possibles."
+    },
+    {
+      "question": "L'arbre peut-il être utilisé avec des événements dépendants ?",
+      "options": ["Oui", "Non", "Seulement à une branche", "Uniquement pour p = 0.5"],
+      "reponse": "Oui",
+      "explication": "On utilise alors les probabilités conditionnelles sur les branches."
+    },
+    {
+      "question": "Une expérience consiste à lancer une pièce équilibrée trois fois. Quelle est la probabilité d’obtenir exactement deux faces ?",
+      "options": ["C₃² × (1/2)² × (1/2)", "(1/2)³", "C₃¹ × (1/2)² × (1/2)", "3 × (1/2)"],
+      "reponse": "C₃² × (1/2)² × (1/2)",
+      "explication": "Loi binomiale avec n = 3, k = 2, p = 1/2. Soit 3 chemins favorables : C₃² = 3."
+    },
+    {
+      "question": "On lance un dé non truqué deux fois. Quelle est la probabilité d’obtenir un 6 suivi d’un chiffre pair ?",
+      "options": ["1/6 × 3/6", "1/6 × 1/2", "1/6 × 1/3", "1/6 × 5/6"],
+      "reponse": "1/6 × 3/6",
+      "explication": "𝔓(6) = 1/6 ; chiffres pairs = 2, 4, 6 → 3/6."
+    },
+    {
+      "question": "Dans une urne : 3 rouges, 2 bleues. Tirage avec remise de deux boules. Probabilité d’obtenir rouge puis bleue ?",
+      "options": ["(3/5) × (2/5)", "(2/5) × (3/5)", "3/10", "1/2"],
+      "reponse": "(3/5) × (2/5)",
+      "explication": "Tirages indépendants avec remise."
+    },
+    {
+      "question": "Un arbre présente un premier tirage A (proba 0.3) puis B (proba 0.7 si A a eu lieu). Quelle est 𝔓(A ∩ B) ?",
+      "options": ["0.3 × 0.7", "0.7 × 0.3", "0.21", "Les trois réponses"],
+      "reponse": "0.21",
+      "explication": "Produit des probabilités conditionnelles : 0.3 × 0.7."
+    },
+    {
+      "question": "Une expérience est répétée 5 fois avec p = 0.6. Quelle est la probabilité d’exactement 3 succès ?",
+      "options": ["C₅³ × 0.6³ × 0.4²", "C₅³ × 0.4³ × 0.6²", "0.6³", "5 × 0.6"],
+      "reponse": "C₅³ × 0.6³ × 0.4²",
+      "explication": "Loi binomiale avec n = 5, p = 0.6, k = 3."
+    },
+    {
+      "question": "On lance une pièce trois fois. Quelle est la probabilité d’avoir exactement un seul pile ?",
+      "options": ["C₃¹ × (1/2) × (1/2)²", "1/3", "(1/2)³", "1/2"],
+      "reponse": "C₃¹ × (1/2) × (1/2)²",
+      "explication": "Un seul pile = 3 façons → C₃¹ = 3 chemins."
+    },
+    {
+      "question": "Sur un arbre, une branche indique : 𝔓(A) = 0.4 et 𝔓(B | A) = 0.5. Que vaut 𝔓(A ∩ B) ?",
+      "options": ["0.2", "0.9", "0.5", "1"],
+      "reponse": "0.2",
+      "explication": "𝔓(A ∩ B) = 0.4 × 0.5 = 0.2."
+    },
+    {
+      "question": "Une épreuve suit un schéma de Bernoulli avec p = 0.3, répétée 4 fois. Probabilité d’avoir au moins un succès ?",
+      "options": ["1 − (0.7)⁴", "(0.3)⁴", "0.3", "4 × 0.3"],
+      "reponse": "1 − (0.7)⁴",
+      "explication": "𝔓(X ≥ 1) = 1 − 𝔓(X = 0) = 1 − (1 − p)⁴."
+    },
+    {
+      "question": "Dans un arbre à 2 niveaux, les branches ont proba 0.5. Quelle est la proba d’un chemin de deux succès ?",
+      "options": ["0.25", "0.5", "1", "0.75"],
+      "reponse": "0.25",
+      "explication": "0.5 × 0.5 = 0.25 pour chaque chemin succès-succès."
+    },
+    {
+      "question": "Si A et B sont indépendants avec 𝔓(A) = 0.4 et 𝔓(B) = 0.5, alors 𝔓(A ∩ B) = ?",
+      "options": ["0.2", "0.9", "0.5", "0.4"],
+      "reponse": "0.2",
+      "explication": "𝔓(A ∩ B) = 𝔓(A) × 𝔓(B) = 0.4 × 0.5 = 0.2."
+    },
+    {
+      "question": "Un arbre présente : 𝔓(A) = 0.6 ; 𝔓(B | A) = 0.5 ; 𝔓(B | ¬A) = 0.2. Quelle est 𝔓(B) ?",
+      "options": ["0.6×0.5 + 0.4×0.2", "0.5 + 0.2", "0.7", "0.3"],
+      "reponse": "0.6×0.5 + 0.4×0.2",
+      "explication": "Formule des probabilités totales."
+    },
+    {
+      "question": "Dans une classe, 70% sont des filles. 60% des filles aiment les maths, 40% des garçons aussi. Quelle est la proba qu’un élève aime les maths ?",
+      "options": ["0.7×0.6 + 0.3×0.4", "0.6 + 0.4", "0.6×0.4", "0.5"],
+      "reponse": "0.7×0.6 + 0.3×0.4",
+      "explication": "𝔓(M) = 𝔓(F)×𝔓(M|F) + 𝔓(¬F)×𝔓(M|¬F)."
+    },
+    {
+      "question": "Un arbre a deux niveaux avec issues S et É. Si 𝔓(S) = 0.8 et 𝔓(É|S) = 0.3, quelle est 𝔓(S ∩ É) ?",
+      "options": ["0.24", "0.5", "0.3", "0.8"],
+      "reponse": "0.24",
+      "explication": "Produit des proba : 0.8 × 0.3."
+    },
+    {
+      "question": "Un test a 80% de chance de succès. Quelle est la proba de 3 succès en 5 essais ?",
+      "options": ["C₅³ × 0.8³ × 0.2²", "0.8³", "5 × 0.8", "C₅³ × 0.2³ × 0.8²"],
+      "reponse": "C₅³ × 0.8³ × 0.2²",
+      "explication": "Loi binomiale B(5, 0.8), k = 3."
+    },
+    {
+      "question": "Un élève réussit un QCM avec proba 0.75. Il tente 4 questions. Probabilité qu’il réussisse exactement 2 fois ?",
+      "options": ["C₄² × 0.75² × 0.25²", "0.75²", "C₄² × 0.25²", "0.5"],
+      "reponse": "C₄² × 0.75² × 0.25²",
+      "explication": "n = 4, k = 2, p = 0.75 ⇒ loi binomiale."
+    },
+    {
+      "question": "Un candidat a 60% de chance de réussir un test. Il tente 3 fois. Quelle est la proba de réussir au moins une fois ?",
+      "options": ["1 − (0.4)³", "0.6 × 3", "1 − 0.6³", "(0.6)³"],
+      "reponse": "1 − (0.4)³",
+      "explication": "𝔓(X ≥ 1) = 1 − 𝔓(0 succès) = 1 − (1 − 0.6)³."
+    },
+    {
+      "question": "Une urne contient 3 rouges et 1 noire. On tire deux boules avec remise. Probabilité de tirer deux rouges ?",
+      "options": ["(3/4)²", "3/4 × 1/4", "1/4", "2/4"],
+      "reponse": "(3/4)²",
+      "explication": "Avec remise, les proba ne changent → 3/4 × 3/4."
+    },
+    {
+      "question": "Dans un arbre, 𝔓(A) = 0.7 ; 𝔓(B|A) = 0.2 ; 𝔓(B|¬A) = 0.4. Quelle est 𝔓(B) ?",
+      "options": ["0.7×0.2 + 0.3×0.4", "0.2 + 0.4", "0.6", "0.5"],
+      "reponse": "0.7×0.2 + 0.3×0.4",
+      "explication": "Formule des probabilités totales."
+    },
+    {
+      "question": "Dans un jeu, on gagne si pile sort au moins une fois en 3 lancers. Quelle est la proba de gagner ?",
+      "options": ["1 − (1/2)³", "(1/2)³", "0.75", "1"],
+      "reponse": "1 − (1/2)³",
+      "explication": "1 − 𝔓(aucun pile) = 1 − (1/2)³ = 0.875."
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "La radioactivité est un phénomène :",
+      "options": ["Naturel et spontané", "Induit par la lumière", "Créé par l'homme uniquement", "Thermique"],
+      "reponse": "Naturel et spontané",
+      "explication": "La radioactivité est due à l’instabilité de certains noyaux atomiques et se produit spontanément."
+    },
+    {
+      "question": "Lors d'une désintégration α, le noyau éjecte :",
+      "options": ["Un noyau d’hélium", "Un électron", "Un photon", "Un neutron"],
+      "reponse": "Un noyau d’hélium",
+      "explication": "La particule α est un noyau d’hélium composé de 2 protons et 2 neutrons."
+    },
+    {
+      "question": "La désintégration bêta moins (β⁻) émet :",
+      "options": ["Un électron", "Un positon", "Un neutron", "Un proton"],
+      "reponse": "Un électron",
+      "explication": "Dans une désintégration β⁻, un neutron se transforme en proton en émettant un électron."
+    },
+    {
+      "question": "La désintégration bêta plus (β⁺) émet :",
+      "options": ["Un positon", "Un neutron", "Un photon", "Un électron"],
+      "reponse": "Un positon",
+      "explication": "En β⁺, un proton se transforme en neutron en émettant un positon (électron positif)."
+    },
+    {
+      "question": "Une émission gamma (γ) correspond à :",
+      "options": ["Un photon très énergétique", "Une particule alpha", "Un neutron", "Un positon"],
+      "reponse": "Un photon très énergétique",
+      "explication": "Le rayonnement γ est une émission de photons très énergétiques sans changement du noyau."
+    },
+    {
+      "question": "Le rayonnement le plus pénétrant est :",
+      "options": ["Le rayonnement gamma", "Le rayonnement alpha", "Le rayonnement bêta", "Les ultrasons"],
+      "reponse": "Le rayonnement gamma",
+      "explication": "Le rayonnement gamma traverse facilement la matière, contrairement à alpha ou bêta."
+    },
+    {
+      "question": "Le rayonnement alpha est arrêté par :",
+      "options": ["Une feuille de papier", "Une plaque de plomb", "L’air uniquement", "Un champ magnétique"],
+      "reponse": "Une feuille de papier",
+      "explication": "Les particules alpha sont très peu pénétrantes et sont arrêtées par du papier ou l'air."
+    },
+    {
+      "question": "La demi-vie d’un noyau est :",
+      "options": ["Le temps pour que la moitié des noyaux se désintègrent", "Le temps total de désintégration", "Le temps de réaction chimique", "Le temps de formation d’un isotope"],
+      "reponse": "Le temps pour que la moitié des noyaux se désintègrent",
+      "explication": "La demi-vie est la durée au bout de laquelle la moitié des noyaux radioactifs se sont désintégrés."
+    },
+    {
+      "question": "La loi de décroissance radioactive s’exprime par :",
+      "options": ["N(t) = N₀ × e^(−λt)", "N(t) = N₀ + λt", "N(t) = N₀ / t", "N(t) = N₀ × λt"],
+      "reponse": "N(t) = N₀ × e^(−λt)",
+      "explication": "La décroissance radioactive suit une loi exponentielle décroissante."
+    },
+    {
+      "question": "Le temps de demi-vie dépend :",
+      "options": ["Du type de noyau", "De la température", "De la pression", "De l'état chimique"],
+      "reponse": "Du type de noyau",
+      "explication": "La demi-vie est une constante propre à chaque noyau radioactif."
+    },
+    {
+      "question": "Quel type de radioactivité conserve le nombre de nucléons ?",
+      "options": ["Bêta", "Alpha", "Fission", "Fusion"],
+      "reponse": "Bêta",
+      "explication": "Dans une désintégration β, le nombre de nucléons reste inchangé (Z change, A reste)."
+    },
+    {
+      "question": "Un noyau radioactif est dit stable lorsqu’il :",
+      "options": ["Ne se désintègre pas", "Émet des rayons gamma", "Change de masse", "Absorbe un neutron"],
+      "reponse": "Ne se désintègre pas",
+      "explication": "Un noyau stable ne subit pas de transformation radioactive."
+    },
+    {
+      "question": "Après deux demi-vies, il reste :",
+      "options": ["1/4 des noyaux initiaux", "1/2 des noyaux", "3/4 des noyaux", "Tous les noyaux"],
+      "reponse": "1/4 des noyaux initiaux",
+      "explication": "Après chaque demi-vie, la moitié des noyaux restants se désintègrent. Donc (1/2)² = 1/4."
+    },
+    {
+      "question": "Le nombre de noyaux restant après 3 demi-vies est :",
+      "options": ["1/8 N₀", "1/2 N₀", "3/4 N₀", "1/3 N₀"],
+      "reponse": "1/8 N₀",
+      "explication": "Après 3 demi-vies : (1/2)³ = 1/8 des noyaux initiaux."
+    },
+    {
+      "question": "Une désintégration radioactive modifie :",
+      "options": ["Le noyau", "Les électrons", "La masse totale du corps", "La température"],
+      "reponse": "Le noyau",
+      "explication": "C’est le noyau qui se transforme lors d’une désintégration."
+    },
+    {
+      "question": "Un isotope est défini comme :",
+      "options": ["Même nombre de protons, mais neutrons différents", "Même nombre de neutrons", "Même masse atomique", "Même nombre total de nucléons"],
+      "reponse": "Même nombre de protons, mais neutrons différents",
+      "explication": "Les isotopes d’un élément ont le même numéro atomique (Z) mais des masses différentes (A)."
+    },
+    {
+      "question": "Une activité radioactive est exprimée en :",
+      "options": ["Becquerel", "Gray", "Coulomb", "Tesla"],
+      "reponse": "Becquerel",
+      "explication": "L’activité est le nombre de désintégrations par seconde, exprimée en Bq (1 Bq = 1 désintégration/s)."
+    },
+    {
+      "question": "Une émission gamma ne change pas :",
+      "options": ["Le numéro atomique", "L’état énergétique du noyau", "Le noyau", "La charge totale"],
+      "reponse": "Le numéro atomique",
+      "explication": "Une émission gamma ne modifie ni Z ni A, mais diminue l’énergie du noyau."
+    },
+    {
+      "question": "La courbe de décroissance radioactive est :",
+      "options": ["Exponentielle", "Linéaire", "Parabolique", "Sinusoïdale"],
+      "reponse": "Exponentielle",
+      "explication": "La décroissance radioactive suit une loi exponentielle négative."
+    },
+    {
+      "question": "Dans une désintégration β⁻, le noyau fils a :",
+      "options": ["Un proton de plus", "Un neutron de plus", "Deux protons de plus", "Le même nombre de protons"],
+      "reponse": "Un proton de plus",
+      "explication": "Un neutron se transforme en proton, donc Z augmente de 1."
+    },
+    {
+      "question": "Un échantillon contient 8000 noyaux radioactifs. Combien en reste-t-il après 3 demi-vies ?",
+      "options": ["1000", "4000", "2000", "500"],
+      "reponse": "1000",
+      "explication": "Après 3 demi-vies : N = 8000 × (1/2)³ = 1000."
+    },
+    {
+      "question": "Un noyau X se transforme par désintégration α. Le noyau fils Y aura :",
+      "options": ["Z−2 et A−4", "Z+2 et A−4", "Z−4 et A−2", "Z−2 et A+4"],
+      "reponse": "Z−2 et A−4",
+      "explication": "La particule α enlève 2 protons et 2 neutrons : donc Z−2 et A−4."
+    },
+    {
+      "question": "Un noyau ²³⁹₉₂U subit une désintégration α. Quel est le noyau fils ?",
+      "options": ["²³⁵₉₀Th", "²³⁷₉₀Th", "²³⁸₉₁Pa", "²³₉₉₁Pa"],
+      "reponse": "²³⁵₉₀Th",
+      "explication": "Désintégration α : A−4 = 235, Z−2 = 90 → Thorium ²³⁵₉₀Th."
+    },
+    {
+      "question": "Un isotope a une demi-vie de 2 h. Quelle fraction reste après 6 h ?",
+      "options": ["1/8", "1/2", "1/4", "1/6"],
+      "reponse": "1/8",
+      "explication": "Après 3 demi-vies (6 h), il reste (1/2)³ = 1/8."
+    },
+    {
+      "question": "L'activité initiale d’un échantillon est 3200 Bq. Quelle sera l’activité après 2 demi-vies ?",
+      "options": ["800 Bq", "1600 Bq", "3200 Bq", "400 Bq"],
+      "reponse": "800 Bq",
+      "explication": "A = A₀ × (1/2)² = 3200 × 1/4 = 800 Bq."
+    },
+    {
+      "question": "Un échantillon a une demi-vie de 10 min. Après combien de temps restera-t-il 12,5 % des noyaux ?",
+      "options": ["30 min", "20 min", "40 min", "10 min"],
+      "reponse": "30 min",
+      "explication": "12,5 % = (1/2)³ → 3 demi-vies de 10 min = 30 min."
+    },
+    {
+      "question": "Un isotope a une constante radioactive λ = 0,693 h⁻¹. Quelle est sa demi-vie ?",
+      "options": ["1 h", "2 h", "0,5 h", "10 h"],
+      "reponse": "1 h",
+      "explication": "T₁/₂ = ln(2)/λ = 0,693 / 0,693 = 1 h."
+    },
+    {
+      "question": "Une désintégration β⁺ transforme un noyau en un autre avec :",
+      "options": ["Z−1", "Z+1", "Z−2", "Z inchangé"],
+      "reponse": "Z−1",
+      "explication": "Un proton devient un neutron, donc Z diminue de 1."
+    },
+    {
+      "question": "Un échantillon passe de 5000 à 1250 noyaux. Combien de demi-vies sont écoulées ?",
+      "options": ["2", "1", "3", "4"],
+      "reponse": "2",
+      "explication": "5000 → 2500 → 1250 = 2 demi-vies."
+    },
+    {
+      "question": "Une source radioactive émet 4000 Bq. Combien de désintégrations en 10 secondes ?",
+      "options": ["40000", "400", "40", "4"],
+      "reponse": "40000",
+      "explication": "Nombre = activité × temps = 4000 × 10 = 40000 désintégrations."
+    },
+    {
+      "question": "Une désintégration γ est observée après une émission β⁻. Cela signifie :",
+      "options": ["Le noyau s’est désexcité", "Un neutron a disparu", "Une fusion s’est produite", "Le noyau a changé d’identité"],
+      "reponse": "Le noyau s’est désexcité",
+      "explication": "La désintégration γ correspond à la libération d’énergie sans changement de composition."
+    },
+    {
+      "question": "Quelle est la masse perdue si 1 mg d'uranium 235 libère 83 GJ ? (E = mc²)",
+      "options": ["0,92 mg", "0,00092 mg", "92 mg", "1 g"],
+      "reponse": "0,00092 mg",
+      "explication": "m = E / c² = 83×10⁹ / (9×10¹⁶) ≈ 9,2×10⁻⁷ kg = 0,00092 mg."
+    },
+    {
+      "question": "L’énergie libérée par désintégration est due à :",
+      "options": ["La perte de masse du noyau", "La perte d’électrons", "La gravité", "La chaleur"],
+      "reponse": "La perte de masse du noyau",
+      "explication": "Selon E = mc², toute perte de masse est convertie en énergie."
+    },
+    {
+      "question": "Un noyau a une demi-vie de 5 h. Combien en restera-t-il après 15 h ?",
+      "options": ["1/8", "1/2", "3/4", "1/4"],
+      "reponse": "1/8",
+      "explication": "15 h = 3 demi-vies → (1/2)³ = 1/8."
+    },
+    {
+      "question": "Une substance radioactive a une activité de 100 Bq. Combien de désintégrations par minute ?",
+      "options": ["6000", "100", "60", "600"],
+      "reponse": "6000",
+      "explication": "100 désintégrations/sec × 60 sec = 6000/min."
+    },
+    {
+      "question": "Si λ = 0,231 h⁻¹, quelle est la demi-vie ?",
+      "options": ["3 h", "1 h", "0,1 h", "0,5 h"],
+      "reponse": "3 h",
+      "explication": "T₁/₂ = ln(2)/λ ≈ 0,693 / 0,231 ≈ 3 h."
+    },
+    {
+      "question": "Une courbe de décroissance passe de 100 % à 25 % en 2 heures. Quelle est la demi-vie ?",
+      "options": ["1 h", "2 h", "0,5 h", "4 h"],
+      "reponse": "1 h",
+      "explication": "100 % → 50 % → 25 % = 2 demi-vies donc T = 1 h."
+    },
+    {
+      "question": "Une source radioactive perd 75 % de son activité. Combien de demi-vies ?",
+      "options": ["2", "1", "3", "4"],
+      "reponse": "2",
+      "explication": "Restant : 25 % = (1/2)² → 2 demi-vies."
+    },
+    {
+      "question": "Un échantillon perd la moitié de ses noyaux en 16 jours. Quelle est sa demi-vie ?",
+      "options": ["16 jours", "8 jours", "32 jours", "4 jours"],
+      "reponse": "16 jours",
+      "explication": "C’est la définition même de la demi-vie."
+    },
+    {
+      "question": "Une désintégration radioactive transforme un atome en :",
+      "options": ["Un autre élément", "Un isotope stable", "Un photon", "Un ion"],
+      "reponse": "Un autre élément",
+      "explication": "La transformation modifie Z, donc change l'identité chimique de l'atome."
+    }
+  ]
+}

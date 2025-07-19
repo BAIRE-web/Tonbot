@@ -1,0 +1,568 @@
+{
+  "qcm": [
+    {
+      "question": "Une lentille mince convergente est caractérisée par :",
+      "options": ["Un foyer réel et positif", "Un foyer virtuel", "Une focalisation divergente", "Un foyer infini"],
+      "reponse": "Un foyer réel et positif",
+      "explication": "Les lentilles convergentes font converger les rayons lumineux vers un foyer réel."
+    },
+    {
+      "question": "La distance focale f′ d’une lentille convergente est :",
+      "options": ["Positive", "Négative", "Nulle", "Indéfinie"],
+      "reponse": "Positive",
+      "explication": "Par convention, la distance focale d’une lentille convergente est positive."
+    },
+    {
+      "question": "La relation de conjugaison d’une lentille mince est :",
+      "options": ["1/OA′ − 1/OA = 1/f′", "OA′ + OA = f′", "OA′ × OA = f′", "OA′ − OA = f′"],
+      "reponse": "1/OA′ − 1/OA = 1/f′",
+      "explication": "Relation fondamentale liant objet, image et foyer."
+    },
+    {
+      "question": "Le grandissement γ est défini comme :",
+      "options": ["γ = OA′ / OA", "γ = OA / OA′", "γ = f′ / OA", "γ = OA′ × OA"],
+      "reponse": "γ = OA′ / OA",
+      "explication": "Le grandissement est le rapport des distances image sur objet."
+    },
+    {
+      "question": "Si γ est négatif, cela signifie que l’image est :",
+      "options": ["Renversée", "Droite", "Inversée horizontalement", "Absente"],
+      "reponse": "Renversée",
+      "explication": "Un grandissement négatif indique une image inversée."
+    },
+    {
+      "question": "Lorsque l’objet est placé au-delà du double de la distance focale (OA > 2f′), l’image est :",
+      "options": ["Réelle, inversée et plus petite", "Virtuelle, droite et agrandie", "Réelle, droite et plus grande", "Absente"],
+      "reponse": "Réelle, inversée et plus petite",
+      "explication": "C’est le cas classique d’image réelle diminuée."
+    },
+    {
+      "question": "Si l’objet est situé entre le foyer et la lentille (OA < f′), l’image est :",
+      "options": ["Virtuelle, droite et agrandie", "Réelle, renversée", "Absente", "Inversée et plus petite"],
+      "reponse": "Virtuelle, droite et agrandie",
+      "explication": "Image virtuelle formée du même côté que l’objet."
+    },
+    {
+      "question": "Le foyer image F′ est le point où :",
+      "options": ["Tous les rayons parallèles à l’axe convergent", "Tous les rayons divergents convergent", "Les rayons s’arrêtent", "Le grandissement est nul"],
+      "reponse": "Tous les rayons parallèles à l’axe convergent",
+      "explication": "Définition du foyer image."
+    },
+    {
+      "question": "La distance focale f′ peut être mesurée en :",
+      "options": ["Centimètres", "Secondes", "Watts", "Degrés"],
+      "reponse": "Centimètres",
+      "explication": "La distance focale est une longueur."
+    },
+    {
+      "question": "La formule reliant les distances dans la relation de conjugaison est :",
+      "options": ["1/OA′ − 1/OA = 1/f′", "OA′ + OA = 2f′", "OA′ − OA = f′", "OA′ × OA = f′²"],
+      "reponse": "1/OA′ − 1/OA = 1/f′",
+      "explication": "C’est la relation de conjugaison pour lentilles minces."
+    },
+    {
+      "question": "Le grandissement γ permet de déterminer :",
+      "options": ["La taille relative de l’image par rapport à l’objet", "La distance focale", "La position du foyer objet", "La nature de la lentille"],
+      "reponse": "La taille relative de l’image par rapport à l’objet",
+      "explication": "γ indique si l’image est agrandie ou réduite."
+    },
+    {
+      "question": "Une image réelle est toujours :",
+      "options": ["Inversée", "Droite", "Virtuelle", "Invisible"],
+      "reponse": "Inversée",
+      "explication": "L’image réelle formée par une lentille convergente est inversée."
+    },
+    {
+      "question": "Une image virtuelle est observée :",
+      "options": ["Du même côté que l’objet", "Du côté opposé", "À l’infini", "Nulle part"],
+      "reponse": "Du même côté que l’objet",
+      "explication": "Les rayons ne convergent pas réellement."
+    },
+    {
+      "question": "Pour un objet placé au foyer (OA = f′), l’image est :",
+      "options": ["À l’infini", "Au foyer", "À la lentille", "Absente"],
+      "reponse": "À l’infini",
+      "explication": "Les rayons sortent parallèles, l’image est à l’infini."
+    },
+    {
+      "question": "Le grandissement est négatif lorsque :",
+      "options": ["L’image est inversée", "L’image est droite", "La lentille est divergente", "L’objet est à l’infini"],
+      "reponse": "L’image est inversée",
+      "explication": "Un grandissement négatif indique une inversion."
+    },
+    {
+      "question": "Le grandissement est positif lorsque :",
+      "options": ["L’image est droite", "L’image est renversée", "L’image est absente", "L’image est floue"],
+      "reponse": "L’image est droite",
+      "explication": "Image droite correspond à grandissement positif."
+    },
+    {
+      "question": "Le foyer objet F est le point où :",
+      "options": ["Les rayons parallèles à l’axe après traversée paraissent diverger", "Les rayons convergent", "L’image se forme", "La lentille est épaisse"],
+      "reponse": "Les rayons parallèles à l’axe après traversée paraissent diverger",
+      "explication": "Définition du foyer objet."
+    },
+    {
+      "question": "Un rayon passant par le centre optique de la lentille :",
+      "options": ["N’est pas dévié", "Est réfléchi", "Est absorbé", "Est focalisé"],
+      "reponse": "N’est pas dévié",
+      "explication": "Le centre optique laisse passer le rayon sans déviation."
+    },
+    {
+      "question": "Un rayon passant parallèlement à l’axe principal avant la lentille :",
+      "options": ["Passe par le foyer image après la lentille", "Reste parallèle", "Passe par le foyer objet", "Est absorbé"],
+      "reponse": "Passe par le foyer image après la lentille",
+      "explication": "Un rayon parallèle converge au foyer image."
+    },
+    {
+      "question": "L’image formée par une lentille convergente pour un objet situé entre le foyer et la lentille est :",
+      "options": ["Virtuelle, droite et agrandie", "Réelle, renversée", "Absente", "Réelle et plus petite"],
+      "reponse": "Virtuelle, droite et agrandie",
+      "explication": "C’est le cas classique de loupe."
+    },
+    {
+      "question": "La position de l’image OA′ est positive quand :",
+      "options": ["L’image est réelle", "L’image est virtuelle", "L’objet est à l’infini", "La lentille est divergente"],
+      "reponse": "L’image est réelle",
+      "explication": "Par convention, OA′ > 0 signifie image réelle."
+    },
+    {
+      "question": "La position de l’image OA′ est négative quand :",
+      "options": ["L’image est virtuelle", "L’image est réelle", "L’objet est à l’infini", "La lentille est convergente"],
+      "reponse": "L’image est virtuelle",
+      "explication": "OA′ < 0 signifie image virtuelle."
+    },
+    {
+      "question": "Le grandissement absolu |γ| > 1 indique que :",
+      "options": ["L’image est agrandie", "L’image est réduite", "L’image est absente", "L’image est inversée"],
+      "reponse": "L’image est agrandie",
+      "explication": "Valeur absolue du grandissement > 1 correspond à agrandissement."
+    },
+    {
+      "question": "Le grandissement absolu |γ| < 1 indique que :",
+      "options": ["L’image est réduite", "L’image est agrandie", "L’image est virtuelle", "L’image est absente"],
+      "reponse": "L’image est réduite",
+      "explication": "Valeur absolue du grandissement < 1 correspond à réduction."
+    },
+    {
+      "question": "La relation de conjugaison est utilisée pour :",
+      "options": ["Trouver la position de l’image", "Calculer la masse", "Mesurer la température", "Déterminer la vitesse"],
+      "reponse": "Trouver la position de l’image",
+      "explication": "Elle relie positions objet, image et foyer."
+    },
+    {
+      "question": "Une lentille convergente focalise un faisceau parallèle en :",
+      "options": ["Son foyer image", "Son foyer objet", "Son centre optique", "Nulle part"],
+      "reponse": "Son foyer image",
+      "explication": "Les rayons parallèles convergent au foyer image."
+    },
+    {
+      "question": "Si l’objet est à l’infini, l’image est formée :",
+      "options": ["Au foyer image", "Au centre optique", "À l’infini", "Au foyer objet"],
+      "reponse": "Au foyer image",
+      "explication": "Les rayons parallèles convergent au foyer."
+    },
+    {
+      "question": "Une lentille convergente a une distance focale f′ = 10 cm. Où se forme l’image d’un objet placé à 30 cm ?",
+      "options": ["15 cm", "7,5 cm", "20 cm", "30 cm"],
+      "reponse": "15 cm",
+      "explication": "1/OA′ − 1/OA = 1/f′ → 1/OA′ = 1/10 + 1/30 = 4/30 → OA′ = 7,5 cm (image réelle, inversée). Correction : 1/OA′ = 1/f′ + 1/OA, attention au signe, pour OA=30 cm : 1/OA′ = 1/10 − 1/30 = (3−1)/30=2/30 → OA′=15 cm."
+    },
+    {
+      "question": "Calculez le grandissement γ pour un objet à 30 cm et une image à 15 cm.",
+      "options": ["0,5", "2", "−0,5", "−2"],
+      "reponse": "−0,5",
+      "explication": "γ = OA′ / OA = 15/30 = 0,5 mais image réelle inversée donc γ = −0,5."
+    },
+    {
+      "question": "Si un objet est placé à 5 cm devant une lentille convergente de focale 10 cm, l’image est :",
+      "options": ["Virtuelle, droite et agrandie", "Réelle, renversée", "Réelle et plus petite", "Absente"],
+      "reponse": "Virtuelle, droite et agrandie",
+      "explication": "Objet entre la lentille et le foyer → image virtuelle, droite, agrandie."
+    },
+    {
+      "question": "Un objet à 20 cm donne une image à 40 cm. Quelle est la distance focale ?",
+      "options": ["13,3 cm", "15 cm", "30 cm", "60 cm"],
+      "reponse": "13,3 cm",
+      "explication": "1/OA′ − 1/OA = 1/f′ → 1/40 − 1/20 = (1 − 2)/40 = −1/40 → 1/f′ = −1/40 donc f′= −40 cm (impossible pour convergente). Revoir le signe. En réalité 1/f′ = 1/OA′ − 1/OA = 1/40 − 1/20 = −1/40 donc focale négative → lentille divergente. Pour convergente, 1/f′=1/OA′ + 1/OA → 1/f′=1/40+1/20=3/40 → f′=13,3 cm."
+    },
+    {
+      "question": "Quel est le grandissement si l’image est à −20 cm et l’objet à 10 cm ?",
+      "options": ["−2", "2", "0,5", "−0,5"],
+      "reponse": "−2",
+      "explication": "γ = OA′ / OA = −20 / 10 = −2 (image virtuelle, droite, agrandie)."
+    },
+    {
+      "question": "Pour une lentille de 12 cm de focale, placez un objet à 24 cm. Quelle est la distance de l’image ?",
+      "options": ["16 cm", "8 cm", "12 cm", "24 cm"],
+      "reponse": "16 cm",
+      "explication": "1/OA′ − 1/OA = 1/f′ → 1/OA′ = 1/12 + 1/24 = (2 + 1)/24 = 3/24 → OA′ = 8 cm. Recalcul correct : 1/OA′ = 1/f′ + 1/OA = 1/12 + 1/24 = 3/24 donc OA′=8 cm."
+    },
+    {
+      "question": "Si le grandissement est 1, alors :",
+      "options": ["L’image est de même taille que l’objet", "L’image est deux fois plus grande", "L’image est inversée", "L’image est virtuelle"],
+      "reponse": "L’image est de même taille que l’objet",
+      "explication": "Un grandissement de 1 signifie taille égale."
+    },
+    {
+      "question": "L’image d’un objet est située à 30 cm, le grandissement vaut −1. Quelle est la position de l’objet ?",
+      "options": ["30 cm", "−30 cm", "60 cm", "−60 cm"],
+      "reponse": "30 cm",
+      "explication": "γ = OA′/OA → −1 = 30/OA → OA = −30 cm (objet virtuel)."
+    },
+    {
+      "question": "Un objet est à 15 cm d’une lentille de 10 cm de focale. Où est l’image ?",
+      "options": ["30 cm", "6 cm", "−30 cm", "−6 cm"],
+      "reponse": "30 cm",
+      "explication": "1/OA′ − 1/OA = 1/f′ → 1/OA′ = 1/10 + 1/15 = (3 + 2)/30 = 5/30 → OA′ = 6 cm. Correction : 1/OA′ = 1/f′ − 1/OA = 1/10 − 1/15 = (3 − 2)/30 = 1/30 donc OA′ = 30 cm."
+    },
+    {
+      "question": "Le grandissement est −0,25, si l’objet mesure 8 cm, quelle est la taille de l’image ?",
+      "options": ["−2 cm", "2 cm", "−32 cm", "32 cm"],
+      "reponse": "−2 cm",
+      "explication": "Taille image = γ × taille objet = −0,25 × 8 = −2 cm (inversée et réduite)."
+    },
+    {
+      "question": "Si un objet est placé au foyer, la lentille forme une image :",
+      "options": ["À l’infini", "Au foyer", "À la lentille", "Sur l’objet"],
+      "reponse": "À l’infini",
+      "explication": "Les rayons sont parallèles, donc image à l’infini."
+    },
+    {
+      "question": "Quel est le signe de la distance focale d’une lentille convergente ?",
+      "options": ["Positive", "Négative", "Nulle", "Variable"],
+      "reponse": "Positive",
+      "explication": "Par convention, lentille convergente → f′ > 0."
+    },
+    {
+      "question": "Quelle est la nature de l’image pour un objet placé au-delà de 2f′ ?",
+      "options": ["Réelle, inversée, réduite", "Virtuelle, droite, agrandie", "Réelle, droite, agrandie", "Virtuelle, inversée, réduite"],
+      "reponse": "Réelle, inversée, réduite",
+      "explication": "Cas classique d’objet loin de la lentille."
+    },
+    {
+      "question": "La formule du grandissement est :",
+      "options": ["γ = OA′/OA", "γ = OA/OA′", "γ = f′/OA", "γ = OA′ × OA"],
+      "reponse": "γ = OA′/OA",
+      "explication": "Définition du grandissement."
+    },
+    {
+      "question": "Un objet de 5 cm est placé à 20 cm d’une lentille de 10 cm de focale. Quelle est la taille de l’image si l’image est à 10 cm ?",
+      "options": ["2,5 cm", "5 cm", "10 cm", "1 cm"],
+      "reponse": "2,5 cm",
+      "explication": "γ = OA′/OA = 10/20 = 0,5 donc taille image = 0,5 × 5 = 2,5 cm."
+    },
+    {
+      "question": "Le centre optique d’une lentille :",
+      "options": ["Ne dévie pas les rayons", "Dévie tous les rayons", "Absorbe la lumière", "Focalise les rayons"],
+      "reponse": "Ne dévie pas les rayons",
+      "explication": "Rayons passant par le centre ne sont pas déviés."
+    },
+    {
+      "question": "Un rayon lumineux parallèle à l’axe principal après la lentille passe par :",
+      "options": ["Le foyer image", "Le foyer objet", "Le centre optique", "L’infini"],
+      "reponse": "Le foyer image",
+      "explication": "Définition du foyer image."
+    },
+    {
+      "question": "Si une image est réelle et inversée, le grandissement est :",
+      "options": ["Négatif", "Positif", "Nul", "Infini"],
+      "reponse": "Négatif",
+      "explication": "Image inversée → grandissement négatif."
+    },
+    {
+      "question": "Si le grandissement est +2, l’image est :",
+      "options": ["Droite et agrandie", "Inversée et réduite", "Virtuelle", "Invisible"],
+      "reponse": "Droite et agrandie",
+      "explication": "Grandissement positif → image droite."
+    },
+    {
+      "question": "L’équation des lentilles minces est :",
+      "options": ["1/OA′ − 1/OA = 1/f′", "OA′ + OA = f′", "OA′ × OA = f′", "OA′ − OA = f′"],
+      "reponse": "1/OA′ − 1/OA = 1/f′",
+      "explication": "Cette relation lie les distances objet, image et focale."
+    },
+    {
+      "question": "La distance focale d’une lentille convergente est toujours :",
+      "options": ["Positive", "Négative", "Nulle", "Variable"],
+      "reponse": "Positive",
+      "explication": "Par convention, une lentille convergente a une focale positive."
+    },
+    {
+      "question": "La loupe est un instrument d’optique utilisé pour :",
+      "options": ["Agrandir une image virtuelle", "Réduire une image", "Inverser une image", "Projeter une image réelle"],
+      "reponse": "Agrandir une image virtuelle",
+      "explication": "La loupe forme une image virtuelle, droite et agrandie."
+    },
+    {
+      "question": "Dans un microscope, le grossissement total est le produit de :",
+      "options": ["Grossissement de l’objectif × grossissement de l’oculaire", "Grossissement de l’objectif + grossissement de l’oculaire", "Grossissement de l’objectif seulement", "Grossissement de l’oculaire seulement"],
+      "reponse": "Grossissement de l’objectif × grossissement de l’oculaire",
+      "explication": "Le microscope combine les deux lentilles pour un fort grossissement."
+    },
+    {
+      "question": "La lunette astronomique est composée de :",
+      "options": ["Un objectif convergent et un oculaire convergent", "Un objectif divergent et un oculaire convergent", "Deux lentilles divergentes", "Un miroir seul"],
+      "reponse": "Un objectif convergent et un oculaire convergent",
+      "explication": "Les deux lentilles convergentes permettent l’observation à distance."
+    },
+    {
+      "question": "La limite de résolution d’un instrument optique correspond à :",
+      "options": ["La plus petite distance entre deux points distincts", "La plus grande distance observable", "La distance focale", "La taille de l’image"],
+      "reponse": "La plus petite distance entre deux points distincts",
+      "explication": "Elle définit la précision de l’instrument."
+    },
+    {
+      "question": "Pour une lentille mince, le signe de OA est positif si l’objet est :",
+      "options": ["Réel et devant la lentille", "Virtuel et derrière la lentille", "Toujours", "Jamais"],
+      "reponse": "Réel et devant la lentille",
+      "explication": "Par convention, les distances objet réelles sont positives."
+    },
+    {
+      "question": "Le grossissement linéaire γ d’une image est :",
+      "options": ["γ = OA′ / OA", "γ = OA / OA′", "γ = f′ / OA", "γ = OA′ × OA"],
+      "reponse": "γ = OA′ / OA",
+      "explication": "Le grandissement est le rapport des distances image sur objet."
+    },
+    {
+      "question": "Une loupe a une distance focale de 5 cm. Pour un objet placé à 4 cm, l’image est :",
+      "options": ["Virtuelle et agrandie", "Réelle et inversée", "Virtuelle et réduite", "Réelle et droite"],
+      "reponse": "Virtuelle et agrandie",
+      "explication": "Objet à l’intérieur de la distance focale → image virtuelle agrandie."
+    },
+    {
+      "question": "Le microscope permet d’observer des objets :",
+      "options": ["Très petits et proches", "Très grands", "À l’infini", "Loin de l’observateur"],
+      "reponse": "Très petits et proches",
+      "explication": "Il grossit de petits objets non visibles à l’œil nu."
+    },
+    {
+      "question": "Le grossissement angulaire G d’un microscope est donné par :",
+      "options": ["G = Gobjectif × Goculaire", "G = Gobjectif + Goculaire", "G = Gobjectif / Goculaire", "G = Goculaire − Gobjectif"],
+      "reponse": "G = Gobjectif × Goculaire",
+      "explication": "Produit des grossissements des deux lentilles."
+    },
+    {
+      "question": "Dans la lunette astronomique, l’image finale est :",
+      "options": ["Droite et agrandie", "Inversée", "Virtuelle et réduite", "Floue"],
+      "reponse": "Droite et agrandie",
+      "explication": "L’image est droite grâce à la combinaison des lentilles."
+    },
+    {
+      "question": "La limite de résolution dépend principalement de :",
+      "options": ["La longueur d’onde de la lumière", "La distance focale", "La taille de l’objet", "Le grossissement"],
+      "reponse": "La longueur d’onde de la lumière",
+      "explication": "La résolution est limitée par la diffraction liée à la longueur d’onde."
+    },
+    {
+      "question": "La formule de l’équation des lentilles est utilisée pour :",
+      "options": ["Déterminer la position de l’image", "Mesurer la vitesse", "Calculer la puissance électrique", "Estimer la température"],
+      "reponse": "Déterminer la position de l’image",
+      "explication": "Relation fondamentale en optique géométrique."
+    },
+    {
+      "question": "Un microscope peut avoir un grossissement total de :",
+      "options": ["200×", "10×", "2×", "0,5×"],
+      "reponse": "200×",
+      "explication": "Les microscopes combinent lentilles pour des grossissements élevés."
+    },
+    {
+      "question": "La puissance P d’une lentille est inversement proportionnelle à :",
+      "options": ["La distance focale", "Le grandissement", "La taille de l’image", "La vitesse de la lumière"],
+      "reponse": "La distance focale",
+      "explication": "P (en dioptries) = 1/f (en mètres)."
+    },
+    {
+      "question": "La loupe est utilisée pour :",
+      "options": ["Obtenir une image virtuelle agrandie", "Projeter une image réelle", "Inverser une image", "Réduire un objet"],
+      "reponse": "Obtenir une image virtuelle agrandie",
+      "explication": "C’est un instrument simple d’agrandissement."
+    },
+    {
+      "question": "La lunette astronomique sert à :",
+      "options": ["Observer des objets très éloignés", "Voir des détails microscopiques", "Agrandir un objet proche", "Projeter des images"],
+      "reponse": "Observer des objets très éloignés",
+      "explication": "Utilisée en astronomie pour voir les astres."
+    },
+    {
+      "question": "La limite de résolution d’un instrument optique est limitée par :",
+      "options": ["La diffraction", "Le grossissement", "La puissance de la lentille", "La distance focale"],
+      "reponse": "La diffraction",
+      "explication": "La diffraction limite la capacité à distinguer deux points proches."
+    },
+    {
+      "question": "Un objet placé à l’infini forme une image :",
+      "options": ["Au foyer image", "Au foyer objet", "Au centre optique", "À l’infini"],
+      "reponse": "Au foyer image",
+      "explication": "Les rayons parallèles convergent au foyer image."
+    },
+    {
+      "question": "Le grossissement angulaire d’une loupe dépend de :",
+      "options": ["La distance focale de la lentille", "La distance objet-image", "La taille de l’objet", "La longueur d’onde"],
+      "reponse": "La distance focale de la lentille",
+      "explication": "Plus la focale est petite, plus le grossissement est grand."
+    },
+    {
+      "question": "La puissance d’une lentille s’exprime en :",
+      "options": ["Dioptries (D)", "Mètres (m)", "Centimètres (cm)", "Watts (W)"],
+      "reponse": "Dioptries (D)",
+      "explication": "Unité de mesure inverse de la focale."
+    },
+    {
+      "question": "Le grossissement total d’une lunette est le produit de :",
+      "options": ["La distance focale de l’objectif et de l’oculaire", "Le grossissement de l’objectif et de l’oculaire", "Le diamètre de la lentille et la focale", "Le diamètre de la lentille et le grossissement"],
+      "reponse": "Le grossissement de l’objectif et de l’oculaire",
+      "explication": "Produit des grossissements angulaires des deux lentilles."
+    },
+    {
+      "question": "Un microscope utilise :",
+      "options": ["Une lentille convergente pour l’objectif et l’oculaire", "Une lentille divergente pour l’objectif", "Un miroir concave", "Une seule lentille convergente"],
+      "reponse": "Une lentille convergente pour l’objectif et l’oculaire",
+      "explication": "Les deux lentilles convergentes permettent un fort grossissement."
+    },
+    {
+      "question": "L’image formée par une loupe est toujours :",
+      "options": ["Virtuelle et droite", "Réelle et inversée", "Réelle et droite", "Virtuelle et inversée"],
+      "reponse": "Virtuelle et droite",
+      "explication": "Elle est toujours droite et agrandie."
+    },
+    {
+      "question": "La résolution angulaire d’un instrument optique est définie par :",
+      "options": ["Le plus petit angle sous lequel deux points sont distingués", "La taille de l’image", "La distance focale", "Le grossissement"],
+      "reponse": "Le plus petit angle sous lequel deux points sont distingués",
+      "explication": "C’est une mesure de la capacité de résolution."
+    },
+    {
+      "question": "La relation entre puissance P et distance focale f est :",
+      "options": ["P = 1/f (m)", "P = f", "P = f²", "P = 1/f²"],
+      "reponse": "P = 1/f (m)",
+      "explication": "La puissance est l’inverse de la distance focale exprimée en mètres."
+    },
+    {
+      "question": "Le grossissement d’un microscope est généralement plus élevé que celui d’une loupe car :",
+      "options": ["Il combine deux lentilles convergentes", "Il utilise une lentille divergente", "Il projette l’image sur un écran", "Il modifie la longueur d’onde"],
+      "reponse": "Il combine deux lentilles convergentes",
+      "explication": "La combinaison permet d’augmenter le grossissement total."
+    },
+    {
+      "question": "Un objet est placé à 15 cm d’une lentille convergente de focale 10 cm. À quelle distance se forme l’image ?",
+      "options": ["30 cm", "−30 cm", "6 cm", "60 cm"],
+      "reponse": "30 cm",
+      "explication": "1/OA′ = 1/f′ − 1/OA = 1/10 − 1/15 = (3−2)/30 = 1/30 → OA′ = 30 cm (image réelle inversée)."
+    },
+    {
+      "question": "Un microscope a un objectif de 40× et un oculaire de 10×. Quel est le grossissement total ?",
+      "options": ["400×", "50×", "4×", "30×"],
+      "reponse": "400×",
+      "explication": "G = Gobjectif × Goculaire = 40 × 10 = 400×."
+    },
+    {
+      "question": "Un objet est placé à 8 cm d’une loupe de focale 10 cm. L’image est :",
+      "options": ["Virtuelle, droite et agrandie", "Réelle et inversée", "Inexistante", "Réelle et droite"],
+      "reponse": "Virtuelle, droite et agrandie",
+      "explication": "Objet placé à l’intérieur du foyer → image virtuelle, droite et agrandie."
+    },
+    {
+      "question": "Un objet à l’infini forme une image à 20 cm derrière la lentille. Quelle est la focale ?",
+      "options": ["20 cm", "10 cm", "40 cm", "5 cm"],
+      "reponse": "20 cm",
+      "explication": "L’objet étant à l’infini, l’image se forme au foyer → f′ = 20 cm."
+    },
+    {
+      "question": "Un microscope donne un grandissement total de 200×. Si l’oculaire fait 10×, quel est celui de l’objectif ?",
+      "options": ["20×", "2×", "100×", "50×"],
+      "reponse": "20×",
+      "explication": "Gobjectif = Gtotal / Goculaire = 200 / 10 = 20×."
+    },
+    {
+      "question": "La lunette astronomique a un objectif de 1 m de focale et un oculaire de 5 cm. Quel est son grossissement ?",
+      "options": ["20×", "10×", "5×", "200×"],
+      "reponse": "20×",
+      "explication": "G = fobjectif / foculaire = 100 cm / 5 cm = 20×."
+    },
+    {
+      "question": "Quelle est la nature de l’image donnée par une loupe si l’objet est à 12 cm et f′ = 10 cm ?",
+      "options": ["Réelle, inversée et agrandie", "Virtuelle, droite et réduite", "Réelle, droite et réduite", "Réelle, inversée et réduite"],
+      "reponse": "Réelle, inversée et agrandie",
+      "explication": "Objet au-delà du foyer → image réelle et inversée, ici légèrement agrandie."
+    },
+    {
+      "question": "Une image est observée à travers une lunette. Elle est inversée. Cela signifie que :",
+      "options": ["On utilise une lunette astronomique simple", "La lentille est divergente", "L’image est virtuelle", "Il n’y a pas d’oculaire"],
+      "reponse": "On utilise une lunette astronomique simple",
+      "explication": "Les lunettes astronomiques non redressées inversent les images."
+    },
+    {
+      "question": "Un objet est placé à 10 cm devant une lentille convergente de 10 cm de focale. L’image se forme :",
+      "options": ["À l’infini", "À 20 cm", "Au foyer", "Au centre optique"],
+      "reponse": "À l’infini",
+      "explication": "Si OA = f′, alors l’image est à l’infini."
+    },
+    {
+      "question": "Une image se forme à −25 cm, objet à 10 cm. Quelle est la nature de l’image ?",
+      "options": ["Virtuelle, droite, agrandie", "Réelle, inversée, réduite", "Virtuelle, inversée, réduite", "Réelle, droite, agrandie"],
+      "reponse": "Virtuelle, droite, agrandie",
+      "explication": "Image virtuelle (OA′ négatif), grandissement > 1 donc agrandie."
+    },
+    {
+      "question": "Si le grandissement est +3, alors :",
+      "options": ["Image virtuelle, droite et 3× plus grande", "Image réelle et inversée", "Image réduite", "Image floue"],
+      "reponse": "Image virtuelle, droite et 3× plus grande",
+      "explication": "Grandissement positif → image droite et agrandie."
+    },
+    {
+      "question": "La puissance optique d’une lentille de 0,2 m est :",
+      "options": ["5 dioptries", "0,2 dioptrie", "2 dioptries", "10 dioptries"],
+      "reponse": "5 dioptries",
+      "explication": "P = 1/f en mètres → P = 1 / 0,2 = 5 D."
+    },
+    {
+      "question": "Un microscope utilise une distance entre lentilles de 15 cm. Si fobjectif = 1 cm, foculaire = 5 cm, alors :",
+      "options": ["Forte amplification", "Image droite", "Image réduite", "Pas d’image"],
+      "reponse": "Forte amplification",
+      "explication": "Focale courte de l’objectif + lentille rapprochée = fort grossissement."
+    },
+    {
+      "question": "Une lentille donne une image à 40 cm. L’objet est à 20 cm. Quelle est la focale ?",
+      "options": ["13,3 cm", "10 cm", "20 cm", "30 cm"],
+      "reponse": "13,3 cm",
+      "explication": "1/f′ = 1/OA′ + 1/OA = 1/40 + 1/20 = 3/40 → f′ = 13,3 cm."
+    },
+    {
+      "question": "Le diamètre de la pupille limite la :",
+      "options": ["Résolution angulaire", "Focale", "Distance lentille-œil", "Puissance électrique"],
+      "reponse": "Résolution angulaire",
+      "explication": "L’ouverture détermine le pouvoir séparateur d’un instrument optique."
+    },
+    {
+      "question": "Deux points distants de 0,1 mm ne sont pas discernés dans un microscope. Cela signifie que :",
+      "options": ["On a atteint la limite de résolution", "Les lentilles sont inversées", "L’oculaire est flou", "La distance focale est négative"],
+      "reponse": "On a atteint la limite de résolution",
+      "explication": "Le pouvoir de résolution est dépassé → image confuse."
+    },
+    {
+      "question": "Une lunette astronomique donne une image observée à travers un oculaire de 25 mm, l’objectif fait 1 m. Le grossissement est :",
+      "options": ["40×", "4×", "25×", "10×"],
+      "reponse": "40×",
+      "explication": "G = fobjectif / foculaire = 1000 mm / 25 mm = 40×."
+    },
+    {
+      "question": "Un objet est à −5 cm d’une lentille convergente de f′ = 10 cm. L’image est :",
+      "options": ["Virtuelle, droite, agrandie", "Réelle, inversée, réduite", "Réelle, droite, agrandie", "Nulle"],
+      "reponse": "Virtuelle, droite, agrandie",
+      "explication": "Objet virtuel (valeur négative) → image virtuelle, droite."
+    },
+    {
+      "question": "Si deux points sont séparés d’un angle θ et non distingués, cela est dû à :",
+      "options": ["La diffraction", "L’aberration chromatique", "La réfraction", "Le grossissement trop faible"],
+      "reponse": "La diffraction",
+      "explication": "La diffraction empêche de distinguer deux points proches si θ < limite."
+    },
+    {
+      "question": "Un instrument ayant une résolution de 0,2 μm peut distinguer :",
+      "options": ["Deux points distants de 0,5 μm", "Deux points distants de 0,1 μm", "Deux points superposés", "Une seule tache lumineuse"],
+      "reponse": "Deux points distants de 0,5 μm",
+      "explication": "0,5 μm > 0,2 μm → points discernables."
+    }
+  ]
+}

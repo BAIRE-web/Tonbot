@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Deux droites sont parallèles si :",
+      "options": ["Elles ne se coupent pas", "Elles se coupent en un point", "Elles sont perpendiculaires", "Elles ont la même longueur"],
+      "reponse": "Elles ne se coupent pas",
+      "explication": "Des droites parallèles sont situées dans un même plan et ne se rencontrent jamais."
+    },
+    {
+      "question": "Deux droites sont perpendiculaires si :",
+      "options": ["Elles se coupent à angle droit", "Elles sont parallèles", "Elles ne se coupent pas", "Elles ont la même longueur"],
+      "reponse": "Elles se coupent à angle droit",
+      "explication": "Des droites perpendiculaires se coupent en formant un angle de 90 degrés."
+    },
+    {
+      "question": "La somme des angles d’un triangle est :",
+      "options": ["180°", "90°", "360°", "270°"],
+      "reponse": "180°",
+      "explication": "Dans un triangle, la somme des trois angles est toujours égale à 180 degrés."
+    },
+    {
+      "question": "Un triangle équilatéral a :",
+      "options": ["Trois côtés égaux", "Deux côtés égaux", "Un angle droit", "Trois angles droits"],
+      "reponse": "Trois côtés égaux",
+      "explication": "Un triangle équilatéral possède trois côtés et trois angles égaux."
+    },
+    {
+      "question": "Un triangle isocèle a :",
+      "options": ["Deux côtés égaux", "Trois côtés égaux", "Un côté égal à zéro", "Tous les côtés différents"],
+      "reponse": "Deux côtés égaux",
+      "explication": "Un triangle isocèle possède au moins deux côtés de même longueur."
+    },
+    {
+      "question": "Le centre d’un cercle est :",
+      "options": ["Le point équidistant de tous les points du cercle", "Un point sur le cercle", "Un point à l’extérieur du cercle", "Un point à l’intérieur du cercle"],
+      "reponse": "Le point équidistant de tous les points du cercle",
+      "explication": "Le centre du cercle est le point à égale distance de tous les points du cercle."
+    },
+    {
+      "question": "Le rayon d’un cercle est :",
+      "options": ["Le segment reliant le centre au cercle", "La longueur du cercle", "Le diamètre", "Un angle au centre"],
+      "reponse": "Le segment reliant le centre au cercle",
+      "explication": "Le rayon est un segment qui va du centre à un point du cercle."
+    },
+    {
+      "question": "Le diamètre d’un cercle est :",
+      "options": ["Deux fois le rayon", "La moitié du rayon", "Un segment tangent", "Un angle au centre"],
+      "reponse": "Deux fois le rayon",
+      "explication": "Le diamètre est un segment qui passe par le centre et relie deux points du cercle, il est égal à deux fois le rayon."
+    },
+    {
+      "question": "Une droite est tangente à un cercle si :",
+      "options": ["Elle touche le cercle en un seul point", "Elle passe par le centre", "Elle coupe le cercle en deux points", "Elle ne touche pas le cercle"],
+      "reponse": "Elle touche le cercle en un seul point",
+      "explication": "La tangente touche le cercle en un point appelé point de tangence."
+    },
+    {
+      "question": "Dans un triangle rectangle, l’hypoténuse est :",
+      "options": ["Le plus grand côté", "Le plus petit côté", "Le côté opposé à l’angle droit", "Un angle droit"],
+      "reponse": "Le plus grand côté",
+      "explication": "L’hypoténuse est le côté le plus long, opposé à l’angle droit."
+    },
+    {
+      "question": "La somme des longueurs des deux côtés d’un triangle est toujours :",
+      "options": ["Plus grande que la longueur du troisième côté", "Égale à la longueur du troisième côté", "Plus petite que la longueur du troisième côté", "Égale à zéro"],
+      "reponse": "Plus grande que la longueur du troisième côté",
+      "explication": "C’est l’inégalité triangulaire."
+    },
+    {
+      "question": "Le théorème de Pythagore s’applique :",
+      "options": ["Dans un triangle rectangle", "Dans un triangle équilatéral", "Dans un cercle", "Dans un carré"],
+      "reponse": "Dans un triangle rectangle",
+      "explication": "Ce théorème relie les côtés d’un triangle rectangle."
+    },
+    {
+      "question": "Le théorème de Thalès concerne :",
+      "options": ["Des droites parallèles coupées par des sécantes", "Les cercles", "Les angles droits", "Les triangles équilatéraux"],
+      "reponse": "Des droites parallèles coupées par des sécantes",
+      "explication": "Ce théorème permet de calculer des longueurs dans certaines configurations géométriques."
+    },
+    {
+      "question": "L’aire d’un triangle est donnée par :",
+      "options": ["(base × hauteur) ÷ 2", "base + hauteur", "base × hauteur", "hauteur ÷ base"],
+      "reponse": "(base × hauteur) ÷ 2",
+      "explication": "L’aire se calcule avec cette formule."
+    },
+    {
+      "question": "La circonférence d’un cercle est :",
+      "options": ["2πr", "πr²", "πd", "r²"],
+      "reponse": "2πr",
+      "explication": "La longueur du cercle est égale à 2π fois le rayon."
+    },
+    {
+      "question": "L’aire d’un cercle est :",
+      "options": ["πr²", "2πr", "πd", "r²"],
+      "reponse": "πr²",
+      "explication": "L’aire du disque est π fois le carré du rayon."
+    },
+    {
+      "question": "Une hauteur dans un triangle est :",
+      "options": ["Un segment perpendiculaire à un côté", "Un côté du triangle", "Une diagonale", "Une médiatrice"],
+      "reponse": "Un segment perpendiculaire à un côté",
+      "explication": "La hauteur est la perpendiculaire abaissée d’un sommet au côté opposé."
+    },
+    {
+      "question": "La médiatrice d’un segment est :",
+      "options": ["La droite perpendiculaire passant par le milieu du segment", "La diagonale", "La hauteur", "La bissectrice"],
+      "reponse": "La droite perpendiculaire passant par le milieu du segment",
+      "explication": "Elle partage le segment en deux parties égales et forme un angle droit."
+    },
+    {
+      "question": "La bissectrice d’un angle est :",
+      "options": ["La droite qui partage l’angle en deux angles égaux", "La hauteur", "La médiatrice", "La diagonale"],
+      "reponse": "La droite qui partage l’angle en deux angles égaux",
+      "explication": "Elle divise un angle en deux parties égales."
+    },
+    {
+      "question": "Deux triangles sont semblables si :",
+      "options": ["Ils ont les mêmes angles", "Ils ont les mêmes côtés", "Ils ont les mêmes périmètres", "Ils ont les mêmes aires"],
+      "reponse": "Ils ont les mêmes angles",
+      "explication": "La similitude se base sur l’égalité des angles."
+    },
+    {
+      "question": "Le périmètre d’un cercle est :",
+      "options": ["2πr", "πr²", "πd", "r²"],
+      "reponse": "2πr",
+      "explication": "Le périmètre (ou circonférence) est égal à 2 fois π fois le rayon."
+    },
+    {
+      "question": "Le centre du cercle circonscrit à un triangle est :",
+      "options": ["Le point d’intersection des médiatrices", "Le point d’intersection des hauteurs", "Le point d’intersection des bissectrices", "Le centre du triangle"],
+      "reponse": "Le point d’intersection des médiatrices",
+      "explication": "Les médiatrices des côtés d’un triangle se coupent au centre du cercle circonscrit."
+    },
+    {
+      "question": "Le centre du cercle inscrit dans un triangle est :",
+      "options": ["Le point d’intersection des bissectrices", "Le point d’intersection des hauteurs", "Le point d’intersection des médiatrices", "Le centre du triangle"],
+      "reponse": "Le point d’intersection des bissectrices",
+      "explication": "Les bissectrices des angles d’un triangle se coupent au centre du cercle inscrit."
+    },
+    {
+      "question": "Un angle inscrit dans un cercle est :",
+      "options": ["Un angle dont le sommet est sur le cercle", "Un angle au centre", "Un angle droit", "Un angle aigu"],
+      "reponse": "Un angle dont le sommet est sur le cercle",
+      "explication": "L’angle inscrit a son sommet sur le cercle et ses côtés passent par des points du cercle."
+    },
+    {
+      "question": "Le rayon est :",
+      "options": ["La moitié du diamètre", "Le double du diamètre", "La circonférence", "Un angle au centre"],
+      "reponse": "La moitié du diamètre",
+      "explication": "Le rayon est la moitié du diamètre."
+    },
+    {
+      "question": "Deux droites sécantes sont :",
+      "options": ["Deux droites qui se coupent", "Deux droites parallèles", "Deux droites perpendiculaires", "Deux droites confondues"],
+      "reponse": "Deux droites qui se coupent",
+      "explication": "Des droites sécantes ont un point d’intersection."
+    },
+    {
+      "question": "La hauteur dans un triangle passe par :",
+      "options": ["Un sommet et est perpendiculaire au côté opposé", "Un sommet et est parallèle au côté opposé", "Le centre du cercle inscrit", "Le centre du cercle circonscrit"],
+      "reponse": "Un sommet et est perpendiculaire au côté opposé",
+      "explication": "La hauteur est une droite passant par un sommet et perpendiculaire au côté opposé."
+    },
+    {
+      "question": "Le triangle rectangle a :",
+      "options": ["Un angle droit", "Deux côtés égaux", "Trois côtés égaux", "Un angle obtus"],
+      "reponse": "Un angle droit",
+      "explication": "Par définition, un triangle rectangle possède un angle de 90 degrés."
+    },
+    {
+      "question": "Dans un triangle ABC rectangle en A, si AB = 3 cm et AC = 4 cm, quelle est la longueur de BC ?",
+      "options": ["5 cm", "6 cm", "7 cm", "4 cm"],
+      "reponse": "5 cm",
+      "explication": "Par le théorème de Pythagore : BC² = AB² + AC² = 9 + 16 = 25 ⇒ BC = 5 cm."
+    },
+    {
+      "question": "Deux droites sont parallèles et une sécante forme un angle de 50° avec la première. Quel est l’angle correspondant sur la deuxième droite ?",
+      "options": ["50°", "130°", "40°", "90°"],
+      "reponse": "50°",
+      "explication": "Les angles correspondants sont égaux lorsque les droites sont parallèles."
+    },
+    {
+      "question": "Dans un cercle de rayon 7 cm, quelle est la longueur du diamètre ?",
+      "options": ["14 cm", "7 cm", "21 cm", "3.5 cm"],
+      "reponse": "14 cm",
+      "explication": "Le diamètre est deux fois le rayon : 2 × 7 = 14 cm."
+    },
+    {
+      "question": "La médiatrice d’un segment [AB] passe par un point M. Que peut-on dire de M ?",
+      "options": ["M est équidistant de A et B", "M est au milieu de AB", "M est un sommet du triangle", "M est sur la bissectrice"],
+      "reponse": "M est équidistant de A et B",
+      "explication": "Tout point de la médiatrice est équidistant des extrémités du segment."
+    },
+    {
+      "question": "Un triangle isocèle a deux angles égaux de 45°. Quel est la mesure du troisième angle ?",
+      "options": ["90°", "60°", "100°", "45°"],
+      "reponse": "90°",
+      "explication": "La somme des angles est 180°, donc 180 − 45 − 45 = 90°."
+    },
+    {
+      "question": "Quelle est l’aire d’un cercle de rayon 5 cm ?",
+      "options": ["25π cm²", "10π cm²", "5π cm²", "50π cm²"],
+      "reponse": "25π cm²",
+      "explication": "L’aire est π × r² = π × 5² = 25π cm²."
+    },
+    {
+      "question": "Dans un triangle équilatéral de côté 6 cm, quelle est la mesure de chaque angle ?",
+      "options": ["60°", "90°", "45°", "120°"],
+      "reponse": "60°",
+      "explication": "Tous les angles dans un triangle équilatéral mesurent 60°."
+    },
+    {
+      "question": "Si deux droites sont perpendiculaires, quel est l’angle formé ?",
+      "options": ["90°", "45°", "180°", "60°"],
+      "reponse": "90°",
+      "explication": "Les droites perpendiculaires forment un angle droit."
+    },
+    {
+      "question": "Quelle est la longueur d’un arc de cercle de rayon 4 cm et d’angle au centre 90° ?",
+      "options": ["2π cm", "π cm", "4π cm", "π/2 cm"],
+      "reponse": "2π cm",
+      "explication": "Longueur d’arc = (angle/360) × 2πr = (90/360) × 2π × 4 = 2π cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, le carré de l’hypoténuse est égal à :",
+      "options": ["La somme des carrés des deux autres côtés", "La différence des carrés", "Le produit des deux autres côtés", "La moitié de la somme des carrés"],
+      "reponse": "La somme des carrés des deux autres côtés",
+      "explication": "C’est le théorème de Pythagore."
+    },
+    {
+      "question": "Un angle inscrit dans un cercle mesure 40°. Quel est l’angle au centre correspondant ?",
+      "options": ["80°", "40°", "20°", "100°"],
+      "reponse": "80°",
+      "explication": "L’angle au centre est le double de l’angle inscrit."
+    },
+    {
+      "question": "Dans un triangle ABC, si AB = AC, alors le triangle est :",
+      "options": ["Isocèle", "Équilatéral", "Rectangle", "Scalène"],
+      "reponse": "Isocèle",
+      "explication": "Deux côtés égaux définissent un triangle isocèle."
+    },
+    {
+      "question": "La somme des angles d’un triangle est :",
+      "options": ["180°", "90°", "360°", "270°"],
+      "reponse": "180°",
+      "explication": "La somme des angles dans un triangle est toujours 180°."
+    },
+    {
+      "question": "Dans un triangle, une hauteur est :",
+      "options": ["Une droite perpendiculaire à un côté passant par le sommet opposé", "Un côté du triangle", "Une diagonale", "Une médiane"],
+      "reponse": "Une droite perpendiculaire à un côté passant par le sommet opposé",
+      "explication": "La hauteur est perpendiculaire au côté opposé et passe par le sommet."
+    },
+    {
+      "question": "Quelle est l’aire d’un triangle de base 8 cm et hauteur 5 cm ?",
+      "options": ["20 cm²", "40 cm²", "13 cm²", "10 cm²"],
+      "reponse": "20 cm²",
+      "explication": "Aire = (base × hauteur) ÷ 2 = (8 × 5)/2 = 20 cm²."
+    },
+    {
+      "question": "Dans un cercle, une corde est :",
+      "options": ["Un segment joignant deux points du cercle", "Le rayon", "Le diamètre", "Une tangente"],
+      "reponse": "Un segment joignant deux points du cercle",
+      "explication": "La corde relie deux points du cercle."
+    },
+    {
+      "question": "Quelle est la longueur du diamètre d’un cercle de rayon 9 cm ?",
+      "options": ["18 cm", "9 cm", "27 cm", "4.5 cm"],
+      "reponse": "18 cm",
+      "explication": "Le diamètre est deux fois le rayon."
+    },
+    {
+      "question": "Une droite passant par le centre d’un cercle est :",
+      "options": ["Un diamètre", "Une tangente", "Une corde", "Une sécante"],
+      "reponse": "Un diamètre",
+      "explication": "Le diamètre passe par le centre et relie deux points du cercle."
+    },
+    {
+      "question": "Dans un triangle équilatéral, la hauteur mesure √3 fois le côté divisé par :",
+      "options": ["2", "3", "4", "1"],
+      "reponse": "2",
+      "explication": "Hauteur = (√3 / 2) × côté."
+    },
+    {
+      "question": "La médiatrice d’un segment est :",
+      "options": ["Une droite perpendiculaire passant par le milieu du segment", "Une diagonale", "Une hauteur", "Une bissectrice"],
+      "reponse": "Une droite perpendiculaire passant par le milieu du segment",
+      "explication": "La médiatrice est perpendiculaire et partage le segment en deux."
+    }
+  ]
+}

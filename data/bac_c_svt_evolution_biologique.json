@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "La sélection naturelle agit principalement sur :",
+      "options": ["Les individus les mieux adaptés à leur environnement", "Tous les individus de manière égale", "Les mutations uniquement", "Les caractéristiques acquises"],
+      "reponse": "Les individus les mieux adaptés à leur environnement",
+      "explication": "La sélection naturelle favorise la survie et la reproduction des individus les mieux adaptés."
+    },
+    {
+      "question": "La spéciation est :",
+      "options": ["Le processus par lequel une nouvelle espèce apparaît", "La disparition d’une espèce", "La variation au sein d’une population", "La migration d’une espèce"],
+      "reponse": "Le processus par lequel une nouvelle espèce apparaît",
+      "explication": "Elle résulte de l’isolement reproductif et de l’accumulation de différences génétiques."
+    },
+    {
+      "question": "Un arbre phylogénétique représente :",
+      "options": ["Les relations évolutives entre différentes espèces", "Le cycle de vie d’un individu", "La classification alphabétique des espèces", "La chaîne alimentaire"],
+      "reponse": "Les relations évolutives entre différentes espèces",
+      "explication": "Il montre l’histoire évolutive et les ancêtres communs des espèces."
+    },
+    {
+      "question": "Une mutation favorable est :",
+      "options": ["Un changement génétique qui améliore l’adaptation", "Un changement génétique sans effet", "Un changement génétique nuisible", "Une caractéristique acquise"],
+      "reponse": "Un changement génétique qui améliore l’adaptation",
+      "explication": "Ces mutations peuvent augmenter la survie ou la reproduction des individus."
+    },
+    {
+      "question": "La dérive génétique correspond à :",
+      "options": ["Une variation aléatoire des fréquences allélique", "La sélection naturelle", "La migration des individus", "La mutation génétique"],
+      "reponse": "Une variation aléatoire des fréquences allélique",
+      "explication": "Elle est plus marquée dans les petites populations et peut conduire à la perte d’allèles."
+    },
+    {
+      "question": "Le concept d’isolement reproductif signifie que :",
+      "options": ["Deux populations ne peuvent plus se reproduire entre elles", "Deux populations vivent dans le même habitat", "Les individus d’une population migrent", "La mutation est impossible"],
+      "reponse": "Deux populations ne peuvent plus se reproduire entre elles",
+      "explication": "C’est une étape clé de la formation de nouvelles espèces."
+    },
+    {
+      "question": "La sélection sexuelle favorise :",
+      "options": ["Les traits qui augmentent le succès reproducteur", "Les traits liés à la survie uniquement", "Les mutations délétères", "La compétition alimentaire"],
+      "reponse": "Les traits qui augmentent le succès reproducteur",
+      "explication": "Elle agit souvent sur des caractères visibles ou comportementaux liés à la reproduction."
+    },
+    {
+      "question": "La spéciation allopatrique se produit lorsque :",
+      "options": ["Une population est séparée géographiquement", "Une mutation survient", "Une espèce migre", "Les populations restent en contact"],
+      "reponse": "Une population est séparée géographiquement",
+      "explication": "Cette séparation favorise l’accumulation de différences génétiques."
+    },
+    {
+      "question": "Les caractères homologues sont :",
+      "options": ["Des structures héritées d’un ancêtre commun", "Des adaptations convergentes", "Des caractéristiques non héréditaires", "Des mutations récentes"],
+      "reponse": "Des structures héritées d’un ancêtre commun",
+      "explication": "Ils témoignent de relations évolutives entre espèces."
+    },
+    {
+      "question": "La pression de sélection correspond à :",
+      "options": ["Un facteur qui influence la survie et la reproduction", "Une mutation génétique", "Une migration de population", "Un comportement appris"],
+      "reponse": "Un facteur qui influence la survie et la reproduction",
+      "explication": "Elle peut être biotique (prédateurs) ou abiotique (climat)."
+    },
+    {
+      "question": "Un arbre phylogénétique se lit en partant de :",
+      "options": ["La racine vers les branches", "Les feuilles vers la racine", "Le milieu vers l’extérieur", "Le haut vers le bas"],
+      "reponse": "La racine vers les branches",
+      "explication": "La racine représente l’ancêtre commun le plus ancien."
+    },
+    {
+      "question": "Les mutations génétiques sont :",
+      "options": ["La source principale de la variation génétique", "Toujours nuisibles", "Facilement réparées", "Indépendantes de la sélection"],
+      "reponse": "La source principale de la variation génétique",
+      "explication": "Elles introduisent de nouveaux allèles dans les populations."
+    },
+    {
+      "question": "La spéciation sympatrique se produit :",
+      "options": ["Sans séparation géographique", "Avec séparation géographique", "Après extinction", "Par hybridation uniquement"],
+      "reponse": "Sans séparation géographique",
+      "explication": "Elle peut résulter d’une isolation reproductive génétique ou comportementale."
+    },
+    {
+      "question": "Les caractères analogues résultent de :",
+      "options": ["Une convergence évolutive", "Un ancêtre commun", "Une mutation", "Une dérive génétique"],
+      "reponse": "Une convergence évolutive",
+      "explication": "Ils ont une fonction similaire mais une origine différente."
+    },
+    {
+      "question": "Le principe de Le Chatelier en évolution concerne :",
+      "options": ["Aucune relation, c’est un principe chimique", "La stabilité des populations", "La mutation génétique", "L’équilibre des écosystèmes"],
+      "reponse": "Aucune relation, c’est un principe chimique",
+      "explication": "Ce principe s’applique aux équilibres chimiques, pas à la biologie évolutive."
+    },
+    {
+      "question": "Une population qui subit une sélection stabilisante verra :",
+      "options": ["Une réduction des extrêmes phénotypiques", "Une augmentation de la variation", "Une disparition des mutations", "Une migration accrue"],
+      "reponse": "Une réduction des extrêmes phénotypiques",
+      "explication": "Cette sélection favorise les phénotypes moyens."
+    },
+    {
+      "question": "Le goulot d’étranglement génétique correspond à :",
+      "options": ["Une forte réduction temporaire de la population", "Une mutation importante", "Une sélection sexuelle", "Une migration soudaine"],
+      "reponse": "Une forte réduction temporaire de la population",
+      "explication": "Cela peut diminuer la diversité génétique et modifier les fréquences alléliques."
+    },
+    {
+      "question": "L’adaptation évolutive est :",
+      "options": ["Le résultat de la sélection naturelle sur plusieurs générations", "Une modification instantanée", "Une acquisition due à l’apprentissage", "Une mutation aléatoire"],
+      "reponse": "Le résultat de la sélection naturelle sur plusieurs générations",
+      "explication": "Elle conduit à une meilleure adéquation entre l’espèce et son environnement."
+    },
+    {
+      "question": "La théorie synthétique de l’évolution combine :",
+      "options": ["La génétique mendélienne et la sélection naturelle", "La génétique et la dérive génétique uniquement", "La spéciation et la migration", "La sélection sexuelle et la mutation uniquement"],
+      "reponse": "La génétique mendélienne et la sélection naturelle",
+      "explication": "Elle intègre plusieurs mécanismes pour expliquer l’évolution."
+    },
+    {
+      "question": "Un caractère polygénique est contrôlé par :",
+      "options": ["Plusieurs gènes", "Un seul gène", "Une mutation", "Un facteur environnemental"],
+      "reponse": "Plusieurs gènes",
+      "explication": "Cela explique la variation continue de certains traits comme la taille."
+    },
+    {
+      "question": "Les fossiles permettent de :",
+      "options": ["Comprendre l’histoire évolutive", "Déterminer le comportement des espèces", "Mesurer la vitesse de reproduction", "Identifier les maladies passées"],
+      "reponse": "Comprendre l’histoire évolutive",
+      "explication": "Ils fournissent des preuves des formes de vie anciennes et de leurs transformations."
+    },
+    {
+      "question": "La sélection disruptive favorise :",
+      "options": ["Les deux extrêmes d’un trait", "Le phénotype moyen", "Les mutations", "Les caractères récessifs"],
+      "reponse": "Les deux extrêmes d’un trait",
+      "explication": "Elle peut conduire à la formation de nouvelles espèces."
+    },
+    {
+      "question": "L'ancêtre commun le plus récent entre deux espèces est :",
+      "options": ["Le dernier nœud commun sur un arbre phylogénétique", "Le premier individu de chaque espèce", "Un fossile", "Une mutation spécifique"],
+      "reponse": "Le dernier nœud commun sur un arbre phylogénétique",
+      "explication": "Il représente l’espèce dont elles descendent toutes deux."
+    },
+    {
+      "question": "La coévolution désigne :",
+      "options": ["L’évolution conjointe de deux espèces en interaction", "Une évolution rapide d’une seule espèce", "L’apparition simultanée de mutations", "La dérive génétique"],
+      "reponse": "L’évolution conjointe de deux espèces en interaction",
+      "explication": "Par exemple, les relations prédateur-proie ou plante-pollinisateur."
+    },
+    {
+      "question": "La barrière géographique peut provoquer :",
+      "options": ["Une spéciation allopatrique", "Une disparition d’espèces", "Une hybridation", "Un échange génétique intensif"],
+      "reponse": "Une spéciation allopatrique",
+      "explication": "Elle sépare physiquement les populations et limite les échanges génétiques."
+    },
+    {
+      "question": "La variabilité génétique est importante car :",
+      "options": ["Elle permet l’adaptation au changement environnemental", "Elle provoque des maladies", "Elle réduit la survie", "Elle bloque la reproduction"],
+      "reponse": "Elle permet l’adaptation au changement environnemental",
+      "explication": "Elle constitue le matériau brut sur lequel agit la sélection naturelle."
+    },
+    {
+      "question": "Une mutation silencieuse est :",
+      "options": ["Une mutation qui ne modifie pas la protéine", "Une mutation létale", "Une mutation bénéfique", "Une mutation visible"],
+      "reponse": "Une mutation qui ne modifie pas la protéine",
+      "explication": "Elle n’entraîne pas de changement de l’acide aminé codé."
+    },
+    {
+      "question": "Le cladogramme est :",
+      "options": ["Un type d’arbre phylogénétique basé sur des caractères partagés", "Un tableau de classification", "Une carte géographique", "Un diagramme de cycle de vie"],
+      "reponse": "Un type d’arbre phylogénétique basé sur des caractères partagés",
+      "explication": "Il montre les relations basées sur la présence de traits communs."
+    },
+    {
+      "question": "L’évolution convergente désigne :",
+      "options": ["L’apparition de traits similaires chez des espèces non apparentées", "L’évolution d’une seule espèce", "La dérive génétique", "L’extinction d’espèces"],
+      "reponse": "L’apparition de traits similaires chez des espèces non apparentées",
+      "explication": "Elle résulte d’une adaptation à des environnements similaires."
+    },
+    {
+      "question": "Dans une population, un papillon blanc et un papillon noir coexistent. Si les oiseaux préfèrent manger les papillons blancs, que va favoriser la sélection naturelle ?",
+      "options": ["Le papillon noir", "Le papillon blanc", "Les deux également", "Aucun"],
+      "reponse": "Le papillon noir",
+      "explication": "Les papillons noirs seront moins prédatés, donc leur fréquence augmentera dans la population."
+    },
+    {
+      "question": "Deux populations d’une même espèce sont séparées par une rivière qui devient infranchissable. Ce phénomène peut entraîner :",
+      "options": ["Une spéciation allopatrique", "Une hybridation", "Une dérive génétique identique", "Une fusion des populations"],
+      "reponse": "Une spéciation allopatrique",
+      "explication": "La séparation géographique peut empêcher les échanges génétiques, favorisant l’apparition de nouvelles espèces."
+    },
+    {
+      "question": "Une mutation qui modifie la séquence d’une protéine codée est appelée :",
+      "options": ["Mutation non-sens", "Mutation silencieuse", "Mutation neutre", "Mutation synonyme"],
+      "reponse": "Mutation non-sens",
+      "explication": "Elle change la séquence d’acides aminés, pouvant affecter la fonction de la protéine."
+    },
+    {
+      "question": "Dans un arbre phylogénétique, deux espèces qui partagent un nœud commun sont :",
+      "options": ["Plus proches parentes", "Sans lien évolutif", "Plus éloignées", "Identiques"],
+      "reponse": "Plus proches parentes",
+      "explication": "Elles ont un ancêtre commun récent, ce qui indique une parenté évolutive."
+    },
+    {
+      "question": "Le goulot d’étranglement génétique réduit :",
+      "options": ["La diversité génétique", "La taille des individus", "La durée de vie", "La taille de la population uniquement"],
+      "reponse": "La diversité génétique",
+      "explication": "Une réduction temporaire de population entraîne une perte d’allèles rares."
+    },
+    {
+      "question": "Quelle est la conséquence directe d’une dérive génétique ?",
+      "options": ["Modification aléatoire des fréquences alléliques", "Sélection des meilleurs traits", "Augmentation des mutations", "Élimination de la variation"],
+      "reponse": "Modification aléatoire des fréquences alléliques",
+      "explication": "Elle agit de manière aléatoire, particulièrement dans les petites populations."
+    },
+    {
+      "question": "La spéciation sympatrique implique :",
+      "options": ["Une isolation reproductrice sans séparation géographique", "Une séparation par une barrière physique", "Une hybridation entre espèces", "Une mutation létale"],
+      "reponse": "Une isolation reproductrice sans séparation géographique",
+      "explication": "Par exemple, une différence de comportement reproducteur dans la même zone."
+    },
+    {
+      "question": "Les caractères analogues sont le résultat de :",
+      "options": ["Convergence évolutive", "Héritage d’un ancêtre commun", "Mutation ponctuelle", "Sélection stabilisante"],
+      "reponse": "Convergence évolutive",
+      "explication": "Ils ont des fonctions similaires mais des origines différentes."
+    },
+    {
+      "question": "La sélection disruptive favorise :",
+      "options": ["Les phénotypes extrêmes", "Le phénotype moyen", "La disparition des mutations", "L’homogénéité génétique"],
+      "reponse": "Les phénotypes extrêmes",
+      "explication": "Elle peut entraîner une séparation en sous-populations distinctes."
+    },
+    {
+      "question": "Lorsqu’une population subit une forte pression de sélection, on observe généralement :",
+      "options": ["Une augmentation de la fréquence des allèles avantageux", "Une diminution de toutes les mutations", "Une homogénéité génétique totale", "Une disparition des caractères dominants"],
+      "reponse": "Une augmentation de la fréquence des allèles avantageux",
+      "explication": "La sélection favorise les traits bénéfiques pour la survie et la reproduction."
+    },
+    {
+      "question": "Quel mécanisme peut causer une variation rapide des fréquences alléliques dans une petite population ?",
+      "options": ["Dérive génétique", "Mutation", "Migration", "Sélection sexuelle"],
+      "reponse": "Dérive génétique",
+      "explication": "Dans les petites populations, les fluctuations aléatoires ont un impact plus fort."
+    },
+    {
+      "question": "Dans le contexte de l’évolution, un allèle favorable :",
+      "options": ["Augmente la fitness des individus qui le portent", "Diminue la survie", "Est toujours dominant", "Est éliminé rapidement"],
+      "reponse": "Augmente la fitness des individus qui le portent",
+      "explication": "Il confère un avantage adaptatif permettant une meilleure reproduction."
+    },
+    {
+      "question": "Quelle affirmation décrit le mieux un arbre phylogénétique ?",
+      "options": ["Un diagramme représentant les relations évolutives", "Une classification basée sur l’habitat", "Une carte géographique des espèces", "Un graphique des populations humaines"],
+      "reponse": "Un diagramme représentant les relations évolutives",
+      "explication": "Il illustre les liens d’ancêtres communs entre espèces."
+    },
+    {
+      "question": "Une mutation silencieuse :",
+      "options": ["Ne modifie pas la séquence d’acides aminés", "Est toujours létale", "Change la fonction d’une protéine", "Augmente la variation phénotypique"],
+      "reponse": "Ne modifie pas la séquence d’acides aminés",
+      "explication": "Elle ne change pas le codon ou code pour le même acide aminé."
+    },
+    {
+      "question": "Lequel de ces facteurs ne contribue pas à la spéciation ?",
+      "options": ["Migration libre entre populations", "Isolement reproductif", "Sélection naturelle", "Dérive génétique"],
+      "reponse": "Migration libre entre populations",
+      "explication": "La migration empêche la divergence génétique nécessaire à la spéciation."
+    },
+    {
+      "question": "Un exemple de barrière reproductive prézygote est :",
+      "options": ["Différences de comportements d’accouplement", "Hybridation fertile", "Mutations dans l’ADN", "Sélection naturelle"],
+      "reponse": "Différences de comportements d’accouplement",
+      "explication": "Cela empêche la formation du zygote entre populations."
+    },
+    {
+      "question": "La notion d’ancêtre commun dans l’évolution signifie :",
+      "options": ["Une espèce dont descendent plusieurs espèces actuelles", "Un individu unique actuel", "Une mutation récente", "Un trait partagé par hasard"],
+      "reponse": "Une espèce dont descendent plusieurs espèces actuelles",
+      "explication": "C’est l’origine commune à des groupes d’espèces apparentées."
+    },
+    {
+      "question": "Lequel des processus suivants peut augmenter la variabilité génétique ?",
+      "options": ["Mutation", "Sélection stabilisante", "Dérive génétique", "Isolement reproductif"],
+      "reponse": "Mutation",
+      "explication": "Les mutations créent de nouveaux allèles dans la population."
+    },
+    {
+      "question": "Dans un arbre phylogénétique, plus deux espèces sont éloignées, plus leur ancêtre commun est :",
+      "options": ["Ancien", "Récent", "Inexistant", "Invisible"],
+      "reponse": "Ancien",
+      "explication": "Un ancêtre commun plus ancien signifie une divergence plus lointaine."
+    },
+    {
+      "question": "La sélection naturelle peut être définie comme :",
+      "options": ["Un processus favorisant les organismes les mieux adaptés", "Une mutation aléatoire", "Une migration de population", "Un phénomène aléatoire sans effet"],
+      "reponse": "Un processus favorisant les organismes les mieux adaptés",
+      "explication": "Elle agit sur la survie et la reproduction des individus."
+    }
+  ]
+}

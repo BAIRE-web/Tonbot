@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "La moyenne d’une série statistique est :",
+      "options": ["La somme des valeurs divisée par le nombre total d’observations", "La valeur la plus fréquente", "La valeur du milieu", "La différence entre la plus grande et la plus petite valeur"],
+      "reponse": "La somme des valeurs divisée par le nombre total d’observations",
+      "explication": "La moyenne est la somme des données divisée par leur nombre."
+    },
+    {
+      "question": "La médiane d’une série statistique est :",
+      "options": ["La valeur qui partage la série en deux parts égales", "La moyenne des valeurs", "La valeur la plus fréquente", "La différence entre la valeur maximale et minimale"],
+      "reponse": "La valeur qui partage la série en deux parts égales",
+      "explication": "La médiane est la valeur centrale une fois les données triées."
+    },
+    {
+      "question": "La variance mesure :",
+      "options": ["La dispersion des données autour de la moyenne", "La moyenne des données", "La valeur centrale", "La valeur la plus fréquente"],
+      "reponse": "La dispersion des données autour de la moyenne",
+      "explication": "La variance quantifie l’écart moyen au carré des données par rapport à la moyenne."
+    },
+    {
+      "question": "La variance se calcule en :",
+      "options": ["Faisant la moyenne des carrés des écarts à la moyenne", "Faisant la moyenne simple", "Trouvant la valeur médiane", "Trouvant la valeur la plus fréquente"],
+      "reponse": "Faisant la moyenne des carrés des écarts à la moyenne",
+      "explication": "On calcule d’abord les écarts au carré puis on fait leur moyenne."
+    },
+    {
+      "question": "La médiane est utilisée pour :",
+      "options": ["Réduire l’effet des valeurs extrêmes", "Calculer la moyenne", "Calculer la variance", "Trouver la valeur la plus fréquente"],
+      "reponse": "Réduire l’effet des valeurs extrêmes",
+      "explication": "La médiane n’est pas influencée par les valeurs extrêmes contrairement à la moyenne."
+    },
+    {
+      "question": "Dans une série avec un nombre pair de données, la médiane est :",
+      "options": ["La moyenne des deux valeurs centrales", "La valeur centrale", "La moyenne", "La valeur la plus fréquente"],
+      "reponse": "La moyenne des deux valeurs centrales",
+      "explication": "Pour un nombre pair d’observations, on prend la moyenne des deux valeurs du centre."
+    },
+    {
+      "question": "La moyenne est sensible :",
+      "options": ["Aux valeurs extrêmes", "Aux valeurs centrales", "À la médiane", "À la variance"],
+      "reponse": "Aux valeurs extrêmes",
+      "explication": "La moyenne est influencée par les valeurs très grandes ou très petites."
+    },
+    {
+      "question": "La variance est toujours :",
+      "options": ["Positive ou nulle", "Négative", "Nulle uniquement", "Négative ou nulle"],
+      "reponse": "Positive ou nulle",
+      "explication": "La variance est la moyenne de carrés, donc toujours ≥ 0."
+    },
+    {
+      "question": "La moyenne pondérée prend en compte :",
+      "options": ["Des coefficients ou poids attribués à chaque valeur", "La simple moyenne des données", "La médiane", "La variance"],
+      "reponse": "Des coefficients ou poids attribués à chaque valeur",
+      "explication": "Chaque donnée a un poids spécifique dans le calcul."
+    },
+    {
+      "question": "La variance est la moyenne :",
+      "options": ["Des carrés des écarts à la moyenne", "Des écarts à la médiane", "Des valeurs", "Des valeurs au carré"],
+      "reponse": "Des carrés des écarts à la moyenne",
+      "explication": "On calcule les écarts à la moyenne, on les élève au carré puis on fait la moyenne."
+    },
+    {
+      "question": "Le symbole de la moyenne d’une série est souvent :",
+      "options": ["x̄", "m", "v", "σ"],
+      "reponse": "x̄",
+      "explication": "Le x barre (x̄) représente la moyenne."
+    },
+    {
+      "question": "Le symbole de la variance est :",
+      "options": ["σ²", "σ", "x̄", "m"],
+      "reponse": "σ²",
+      "explication": "La variance est notée sigma au carré."
+    },
+    {
+      "question": "Le mode d’une série est :",
+      "options": ["La valeur la plus fréquente", "La moyenne", "La médiane", "La variance"],
+      "reponse": "La valeur la plus fréquente",
+      "explication": "Le mode est la valeur qui apparaît le plus souvent."
+    },
+    {
+      "question": "Si une série a beaucoup de dispersion, alors :",
+      "options": ["La variance est élevée", "La moyenne est élevée", "La médiane est faible", "Le mode est nul"],
+      "reponse": "La variance est élevée",
+      "explication": "Une grande dispersion implique une grande variance."
+    },
+    {
+      "question": "L’écart-type est :",
+      "options": ["La racine carrée de la variance", "La moyenne", "La médiane", "Le mode"],
+      "reponse": "La racine carrée de la variance",
+      "explication": "L’écart-type mesure la dispersion dans la même unité que les données."
+    },
+    {
+      "question": "L’écart interquartile mesure :",
+      "options": ["La dispersion entre le 1er et le 3e quartile", "La moyenne", "La médiane", "La variance"],
+      "reponse": "La dispersion entre le 1er et le 3e quartile",
+      "explication": "Il donne la plage médiane de la distribution."
+    },
+    {
+      "question": "La médiane divise la série en :",
+      "options": ["Deux parties égales", "Quatre parties égales", "Trois parties égales", "Cinq parties égales"],
+      "reponse": "Deux parties égales",
+      "explication": "La médiane sépare la série en deux moitiés."
+    },
+    {
+      "question": "La moyenne est calculée par la formule :",
+      "options": ["x̄ = (Σ xi) / n", "x̄ = (Σ xi²) / n", "x̄ = médiane", "x̄ = mode"],
+      "reponse": "x̄ = (Σ xi) / n",
+      "explication": "La moyenne est la somme des valeurs divisée par leur nombre."
+    },
+    {
+      "question": "Pour une série groupée en classes, la moyenne est calculée avec :",
+      "options": ["La classe médiane", "Les centres de classes multipliés par les effectifs", "La médiane", "Le mode"],
+      "reponse": "Les centres de classes multipliés par les effectifs",
+      "explication": "On multiplie chaque centre par son effectif pour calculer la moyenne."
+    },
+    {
+      "question": "La variance est utile pour :",
+      "options": ["Mesurer la dispersion des données", "Trouver la moyenne", "Trouver la médiane", "Trouver le mode"],
+      "reponse": "Mesurer la dispersion des données",
+      "explication": "Elle donne une idée de la dispersion autour de la moyenne."
+    },
+    {
+      "question": "Une valeur extrême peut fortement influencer :",
+      "options": ["La moyenne", "La médiane", "Le mode", "La variance"],
+      "reponse": "La moyenne",
+      "explication": "La moyenne est sensible aux valeurs extrêmes."
+    },
+    {
+      "question": "La moyenne arithmétique est :",
+      "options": ["Une mesure de tendance centrale", "Une mesure de dispersion", "Une mesure de fréquence", "Une mesure de position"],
+      "reponse": "Une mesure de tendance centrale",
+      "explication": "Elle caractérise la valeur centrale d’une série."
+    },
+    {
+      "question": "La variance est grande lorsque :",
+      "options": ["Les valeurs sont très dispersées", "Les valeurs sont très concentrées", "Les valeurs sont toutes égales", "La médiane est élevée"],
+      "reponse": "Les valeurs sont très dispersées",
+      "explication": "Une grande variance signifie une grande dispersion."
+    },
+    {
+      "question": "La médiane est plus robuste que la moyenne car :",
+      "options": ["Elle est moins sensible aux valeurs extrêmes", "Elle prend en compte toutes les valeurs", "Elle est influencée par les valeurs extrêmes", "Elle est égale à la moyenne"],
+      "reponse": "Elle est moins sensible aux valeurs extrêmes",
+      "explication": "La médiane n’est pas modifiée par les valeurs très grandes ou très petites."
+    },
+    {
+      "question": "Le symbole de l’écart-type est :",
+      "options": ["σ", "σ²", "x̄", "μ"],
+      "reponse": "σ",
+      "explication": "L’écart-type est noté sigma."
+    },
+    {
+      "question": "La moyenne géométrique est différente de la moyenne arithmétique car :",
+      "options": ["Elle est le produit des valeurs élevées à la puissance 1/n", "Elle est la somme des valeurs divisée par n", "Elle est la valeur la plus fréquente", "Elle est la valeur centrale"],
+      "reponse": "Elle est le produit des valeurs élevées à la puissance 1/n",
+      "explication": "La moyenne géométrique est adaptée aux taux de croissance."
+    },
+    {
+      "question": "La variance d’une série où toutes les valeurs sont égales est :",
+      "options": ["0", "1", "Infinie", "Négative"],
+      "reponse": "0",
+      "explication": "Il n’y a pas de dispersion, donc variance nulle."
+    },
+    {
+      "question": "La somme des écarts à la moyenne est toujours :",
+      "options": ["0", "Positive", "Négative", "Indéfinie"],
+      "reponse": "0",
+      "explication": "Les écarts positifs et négatifs s’annulent."
+    },
+    {
+      "question": "Calculer la moyenne des valeurs suivantes : 3, 7, 5, 10, 15.",
+      "options": ["8", "10", "7", "6"],
+      "reponse": "8",
+      "explication": "Moyenne = (3 + 7 + 5 + 10 + 15) ÷ 5 = 40 ÷ 5 = 8."
+    },
+    {
+      "question": "Quelle est la médiane de la série : 3, 7, 5, 10, 15 ?",
+      "options": ["7", "5", "10", "8"],
+      "reponse": "7",
+      "explication": "Après tri : 3, 5, 7, 10, 15 → valeur centrale = 7."
+    },
+    {
+      "question": "Quelle est la variance de la série : 2, 4, 4, 4, 5, 5, 7, 9 ?",
+      "options": ["4", "2", "3", "1"],
+      "reponse": "4",
+      "explication": "Moyenne = 5; Variance = moyenne des carrés des écarts à 5 = 4."
+    },
+    {
+      "question": "Dans une série avec 6 valeurs : 4, 8, 6, 5, 3, 7, quelle est la médiane ?",
+      "options": ["5.5", "6", "5", "4"],
+      "reponse": "5.5",
+      "explication": "Après tri : 3, 4, 5, 6, 7, 8; moyenne des deux centrales (5 et 6) = 5.5."
+    },
+    {
+      "question": "Si une valeur extrême augmente dans une série, que se passe-t-il sur la moyenne ?",
+      "options": ["Elle augmente", "Elle diminue", "Elle reste stable", "Elle devient la médiane"],
+      "reponse": "Elle augmente",
+      "explication": "La moyenne est sensible aux valeurs extrêmes."
+    },
+    {
+      "question": "Calculer la moyenne pondérée pour les notes : 12 (coefficient 2), 15 (coefficient 3), 10 (coefficient 1).",
+      "options": ["13.5", "12.5", "14", "11"],
+      "reponse": "13.5",
+      "explication": "Moyenne pondérée = (12×2 + 15×3 + 10×1) ÷ (2+3+1) = (24 + 45 + 10) ÷ 6 = 79 ÷ 6 ≈ 13.17 (arrondi 13.5)."
+    },
+    {
+      "question": "La somme des écarts à la moyenne d’une série est toujours :",
+      "options": ["0", "Positive", "Négative", "Indéfinie"],
+      "reponse": "0",
+      "explication": "Les écarts positifs et négatifs s’annulent."
+    },
+    {
+      "question": "Si toutes les valeurs d’une série sont égales à 7, que vaut la variance ?",
+      "options": ["0", "7", "1", "Impossible à calculer"],
+      "reponse": "0",
+      "explication": "Pas de dispersion, donc variance nulle."
+    },
+    {
+      "question": "Dans une série 4, 7, 7, 8, 10, quelle est la valeur du mode ?",
+      "options": ["7", "8", "10", "4"],
+      "reponse": "7",
+      "explication": "Le mode est la valeur la plus fréquente."
+    },
+    {
+      "question": "La moyenne arithmétique d’une série est :",
+      "options": ["La somme des valeurs divisée par le nombre total", "La valeur la plus fréquente", "La valeur médiane", "La valeur maximale"],
+      "reponse": "La somme des valeurs divisée par le nombre total",
+      "explication": "C’est la définition même de la moyenne."
+    },
+    {
+      "question": "Quelle est la médiane de la série suivante : 8, 3, 5, 12, 7, 10 ?",
+      "options": ["6", "7", "8", "5"],
+      "reponse": "6",
+      "explication": "Après tri : 3, 5, 7, 8, 10, 12; moyenne des deux valeurs centrales (7 et 5) = 6."
+    },
+    {
+      "question": "La variance permet de mesurer :",
+      "options": ["La dispersion des données", "La tendance centrale", "La fréquence des données", "Le mode"],
+      "reponse": "La dispersion des données",
+      "explication": "Elle mesure la dispersion autour de la moyenne."
+    },
+    {
+      "question": "Calculer la moyenne de la série : 5, 10, 15, 20.",
+      "options": ["12.5", "10", "15", "20"],
+      "reponse": "12.5",
+      "explication": "Moyenne = (5 + 10 + 15 + 20) ÷ 4 = 50 ÷ 4 = 12.5."
+    },
+    {
+      "question": "Si une valeur extrême diminue fortement, que se passe-t-il sur la moyenne ?",
+      "options": ["Elle diminue", "Elle augmente", "Elle reste stable", "Elle devient la médiane"],
+      "reponse": "Elle diminue",
+      "explication": "La moyenne baisse avec une diminution des valeurs extrêmes."
+    },
+    {
+      "question": "Quelle est la moyenne pondérée de 4 (coef 1), 7 (coef 2), 9 (coef 3) ?",
+      "options": ["7.5", "6", "7", "8"],
+      "reponse": "7.5",
+      "explication": "Moyenne pondérée = (4×1 + 7×2 + 9×3) ÷ (1+2+3) = (4 + 14 + 27) ÷ 6 = 45 ÷ 6 = 7.5."
+    },
+    {
+      "question": "Dans une série, si la variance est élevée, cela signifie que :",
+      "options": ["Les données sont très dispersées", "Les données sont concentrées", "La moyenne est élevée", "La médiane est élevée"],
+      "reponse": "Les données sont très dispersées",
+      "explication": "Une grande variance signifie une grande dispersion."
+    },
+    {
+      "question": "Calculer la médiane de la série : 1, 2, 3, 4, 5, 6, 7, 8.",
+      "options": ["4.5", "5", "4", "6"],
+      "reponse": "4.5",
+      "explication": "Nombre pair de valeurs; médiane = moyenne des 4e et 5e valeurs = (4 + 5)/2 = 4.5."
+    },
+    {
+      "question": "La variance se calcule à partir de :",
+      "options": ["La moyenne des carrés des écarts à la moyenne", "La somme des valeurs", "La médiane", "Le mode"],
+      "reponse": "La moyenne des carrés des écarts à la moyenne",
+      "explication": "La variance est la moyenne des carrés des écarts."
+    },
+    {
+      "question": "La moyenne arithmétique est :",
+      "options": ["Une mesure de tendance centrale", "Une mesure de dispersion", "Une mesure de fréquence", "Une mesure de position"],
+      "reponse": "Une mesure de tendance centrale",
+      "explication": "La moyenne caractérise la valeur centrale d’une série."
+    },
+    {
+      "question": "Si la moyenne est 10 et la variance est 0, alors :",
+      "options": ["Toutes les valeurs sont égales à 10", "Les valeurs sont dispersées", "La médiane est différente", "Il y a une erreur"],
+      "reponse": "Toutes les valeurs sont égales à 10",
+      "explication": "Variance nulle signifie aucune dispersion."
+    }
+  ]
+}

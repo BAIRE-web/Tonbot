@@ -1,0 +1,604 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’un référentiel en mécanique ?",
+      "options": ["Un point de vue depuis lequel on observe le mouvement", "Un type de mouvement", "Un appareil de mesure", "Une vitesse constante"],
+      "reponse": "Un point de vue depuis lequel on observe le mouvement",
+      "explication": "Le référentiel est le cadre dans lequel on étudie le mouvement d’un objet."
+    },
+    {
+      "question": "Quel référentiel est adapté à l’étude des mouvements terrestres ?",
+      "options": ["Référentiel terrestre", "Référentiel héliocentrique", "Référentiel lunaire", "Référentiel galactique"],
+      "reponse": "Référentiel terrestre",
+      "explication": "Pour les objets proches de la surface terrestre, le référentiel terrestre est suffisamment précis."
+    },
+    {
+      "question": "Comment se définit la trajectoire d’un point ?",
+      "options": ["Ensemble des positions successives dans un référentiel", "Sa vitesse moyenne", "L’angle qu’il parcourt", "Le temps de parcours"],
+      "reponse": "Ensemble des positions successives dans un référentiel",
+      "explication": "C’est la ligne décrite par le point au cours de son mouvement."
+    },
+    {
+      "question": "Un mouvement est rectiligne si sa trajectoire est :",
+      "options": ["Une droite", "Un cercle", "Une parabole", "Une courbe fermée"],
+      "reponse": "Une droite",
+      "explication": "La trajectoire d’un mouvement rectiligne est une ligne droite."
+    },
+    {
+      "question": "Le mouvement d’un objet est uniforme si :",
+      "options": ["Sa vitesse est constante", "Sa position ne change pas", "Il accélère", "Il change de direction"],
+      "reponse": "Sa vitesse est constante",
+      "explication": "Un mouvement uniforme correspond à une vitesse constante en valeur et direction."
+    },
+    {
+      "question": "Que signifie un mouvement rectiligne uniformément accéléré ?",
+      "options": ["Accélération constante et trajectoire droite", "Vitesse constante sur une droite", "Trajectoire circulaire", "Vitesse variable en courbe"],
+      "reponse": "Accélération constante et trajectoire droite",
+      "explication": "C’est la définition du MRUA."
+    },
+    {
+      "question": "L’unité SI de la vitesse est :",
+      "options": ["m/s", "km/h", "m²/s", "m/s²"],
+      "reponse": "m/s",
+      "explication": "La vitesse est une distance divisée par un temps."
+    },
+    {
+      "question": "Quelle est l’unité SI de l’accélération ?",
+      "options": ["m/s²", "m/s", "s/m²", "N/kg"],
+      "reponse": "m/s²",
+      "explication": "C’est le taux de variation de la vitesse par unité de temps."
+    },
+    {
+      "question": "Quelle formule donne la vitesse moyenne v sur un intervalle Δt ?",
+      "options": ["v = Δx / Δt", "v = a × t", "v = x / t²", "v = x × t"],
+      "reponse": "v = Δx / Δt",
+      "explication": "La vitesse moyenne est le rapport distance parcourue sur durée."
+    },
+    {
+      "question": "L’accélération est :",
+      "options": ["Variation de la vitesse par unité de temps", "Inverse de la vitesse", "Force appliquée", "Masse divisée par le temps"],
+      "reponse": "Variation de la vitesse par unité de temps",
+      "explication": "a = Δv / Δt."
+    },
+    {
+      "question": "Dans un MRUA, l’équation de la vitesse est :",
+      "options": ["v = v₀ + a × t", "v = a / t", "v = v₀ / a", "v = a² × t²"],
+      "reponse": "v = v₀ + a × t",
+      "explication": "C’est l’évolution de la vitesse en fonction du temps."
+    },
+    {
+      "question": "Dans un MRUA, la position x(t) s’écrit :",
+      "options": ["x = x₀ + v₀t + ½at²", "x = x₀ + at²", "x = x₀ + vt", "x = v × t²"],
+      "reponse": "x = x₀ + v₀t + ½at²",
+      "explication": "Formule de position avec accélération constante."
+    },
+    {
+      "question": "Quel mouvement a une vitesse constante en norme mais change de direction ?",
+      "options": ["Mouvement circulaire uniforme", "Mouvement rectiligne", "Mouvement accéléré", "Mouvement chaotique"],
+      "reponse": "Mouvement circulaire uniforme",
+      "explication": "Dans ce cas, l’objet tourne avec vitesse constante mais direction variable."
+    },
+    {
+      "question": "Dans un MCU, la vitesse est :",
+      "options": ["Tangente au cercle", "Radiale", "Nulle", "Opposée au rayon"],
+      "reponse": "Tangente au cercle",
+      "explication": "Elle est perpendiculaire au rayon, donc tangentielle."
+    },
+    {
+      "question": "La trajectoire dans un mouvement circulaire est :",
+      "options": ["Un cercle", "Une droite", "Une parabole", "Un segment"],
+      "reponse": "Un cercle",
+      "explication": "Par définition."
+    },
+    {
+      "question": "L'accélération dans un MCU est :",
+      "options": ["Centrée vers le centre du cercle", "Tangente au cercle", "Nulle", "Vers l’extérieur"],
+      "reponse": "Centrée vers le centre du cercle",
+      "explication": "C’est l’accélération centripète."
+    },
+    {
+      "question": "L’expression de l’accélération centripète est :",
+      "options": ["a = v² / R", "a = R² / v", "a = v / R", "a = R × v"],
+      "reponse": "a = v² / R",
+      "explication": "Formule classique du MCU."
+    },
+    {
+      "question": "Si la vitesse augmente dans un mouvement circulaire, l’accélération devient :",
+      "options": ["Non uniforme", "Nulle", "Radiale", "Constante"],
+      "reponse": "Non uniforme",
+      "explication": "Il y a alors une composante tangentielle en plus de la radiale."
+    },
+    {
+      "question": "Dans un mouvement rectiligne uniforme, l’accélération est :",
+      "options": ["Nulle", "Constante", "Variable", "Positive"],
+      "reponse": "Nulle",
+      "explication": "La vitesse ne varie pas, donc pas d’accélération."
+    },
+    {
+      "question": "Quel appareil mesure directement la vitesse instantanée ?",
+      "options": ["Radar", "Chronomètre", "Compas", "Baromètre"],
+      "reponse": "Radar",
+      "explication": "Les radars mesurent la vitesse en un instant donné."
+    },
+    {
+      "question": "En SI, la vitesse angulaire s’exprime en :",
+      "options": ["rad/s", "m/s", "Hz", "tr/min"],
+      "reponse": "rad/s",
+      "explication": "C’est l’unité standard de rotation dans le système international."
+    },
+    {
+      "question": "La relation entre vitesse linéaire v et angulaire ω est :",
+      "options": ["v = ω × R", "v = R / ω", "v = ω² × R", "v = ω / R"],
+      "reponse": "v = ω × R",
+      "explication": "Formule fondamentale du MCU."
+    },
+    {
+      "question": "Une voiture roule à 72 km/h. Quelle est sa vitesse en m/s ?",
+      "options": ["20 m/s", "18 m/s", "22 m/s", "25 m/s"],
+      "reponse": "20 m/s",
+      "explication": "72 ÷ 3,6 = 20 m/s."
+    },
+    {
+      "question": "L’étude d’un mouvement sans chercher les causes est appelée :",
+      "options": ["Cinématique", "Dynamique", "Statique", "Mécanique des fluides"],
+      "reponse": "Cinématique",
+      "explication": "La cinématique décrit le mouvement sans en analyser l’origine."
+    },
+    {
+      "question": "Le vecteur vitesse est :",
+      "options": ["Tangent à la trajectoire", "Dirigé vers le centre", "Toujours vertical", "Identique au vecteur position"],
+      "reponse": "Tangent à la trajectoire",
+      "explication": "Par définition, le vecteur vitesse est tangentiel."
+    },
+    {
+      "question": "Un objet avec vitesse nulle mais accélération non nulle est :",
+      "options": ["Au point de rebroussement", "Au repos définitif", "Toujours en MRU", "Immobile sans mouvement"],
+      "reponse": "Au point de rebroussement",
+      "explication": "L’objet s’arrête avant de repartir (ex : lancé vertical)."
+    },
+    {
+      "question": "Dans un référentiel galiléen, un objet soumis à aucune force a :",
+      "options": ["Mouvement rectiligne uniforme", "Accélération constante", "Mouvement circulaire", "Vitesse nulle"],
+      "reponse": "Mouvement rectiligne uniforme",
+      "explication": "D’après le 1er principe de Newton."
+    },
+    {
+      "question": "En MRUA, si a < 0 alors le mouvement est :",
+      "options": ["Ralentissement", "Accélération", "Uniforme", "Circulaire"],
+      "reponse": "Ralentissement",
+      "explication": "L’accélération négative freine l’objet."
+    },
+    {
+      "question": "La dérivée de la position par rapport au temps donne :",
+      "options": ["La vitesse", "L’accélération", "L’angle", "Le rayon"],
+      "reponse": "La vitesse",
+      "explication": "v(t) = dx/dt."
+    },
+    {
+      "question": "La dérivée de la vitesse donne :",
+      "options": ["L’accélération", "Le rayon", "La masse", "Le temps"],
+      "reponse": "L’accélération",
+      "explication": "a(t) = dv/dt."
+    },
+    {
+      "question": "Un véhicule parcourt 180 km en 2 h 30 min. Quelle est sa vitesse moyenne en m/s ?",
+      "options": ["20 m/s", "25 m/s", "30 m/s", "40 m/s"],
+      "reponse": "20 m/s",
+      "explication": "180 km = 180000 m ; 2,5 h = 9000 s ; v = 180000 / 9000 = 20 m/s."
+    },
+    {
+      "question": "Un mobile part du repos avec une accélération de 2 m/s². Quelle est sa vitesse après 5 s ?",
+      "options": ["10 m/s", "5 m/s", "15 m/s", "20 m/s"],
+      "reponse": "10 m/s",
+      "explication": "v = v₀ + at = 0 + 2×5 = 10 m/s."
+    },
+    {
+      "question": "Une voiture freine avec une accélération constante de -4 m/s². Sa vitesse passe de 20 m/s à 0. En combien de temps s’arrête-t-elle ?",
+      "options": ["5 s", "4 s", "6 s", "2 s"],
+      "reponse": "5 s",
+      "explication": "v = v₀ + at → 0 = 20 + (-4)t → t = 5 s."
+    },
+    {
+      "question": "Un point M a pour position x(t) = 3t² + 2t. Quelle est son accélération ?",
+      "options": ["6 m/s²", "2 m/s²", "3 m/s²", "Constante de 0"],
+      "reponse": "6 m/s²",
+      "explication": "x'(t) = 6t + 2 → v(t), puis a(t) = d²x/dt² = 6."
+    },
+    {
+      "question": "Une particule a une vitesse v = 5 m/s pendant 10 s, puis 0 m/s pendant 5 s. Quelle est la distance parcourue ?",
+      "options": ["50 m", "25 m", "75 m", "100 m"],
+      "reponse": "50 m",
+      "explication": "Seuls les 10 s à 5 m/s sont pris en compte → d = v × t = 5×10 = 50 m."
+    },
+    {
+      "question": "Une roue tourne à 120 tours/min. Quelle est sa vitesse angulaire en rad/s ?",
+      "options": ["4π rad/s", "2π rad/s", "6π rad/s", "10π rad/s"],
+      "reponse": "4π rad/s",
+      "explication": "120 tr/min = 2 tr/s → ω = 2×2π = 4π rad/s."
+    },
+    {
+      "question": "Un mobile a v(t) = 3t. Quelle est son accélération à t = 4 s ?",
+      "options": ["3 m/s²", "12 m/s²", "4 m/s²", "0 m/s²"],
+      "reponse": "3 m/s²",
+      "explication": "a = dv/dt = dérivée de 3t = 3 (constante)."
+    },
+    {
+      "question": "Un point M suit x(t) = 4t² + 6t + 2. Quelle est la vitesse à t = 2 s ?",
+      "options": ["22 m/s", "26 m/s", "18 m/s", "30 m/s"],
+      "reponse": "22 m/s",
+      "explication": "v(t) = x'(t) = 8t + 6 ; donc v(2) = 8×2 + 6 = 22 m/s."
+    },
+    {
+      "question": "Une voiture parcourt 150 m avec une vitesse constante de 10 m/s. Temps de parcours ?",
+      "options": ["15 s", "12 s", "10 s", "20 s"],
+      "reponse": "15 s",
+      "explication": "t = d / v = 150 / 10 = 15 s."
+    },
+    {
+      "question": "Dans un graphique x(t), une portion courbe indique que :",
+      "options": ["La vitesse varie", "La vitesse est constante", "Le mobile est au repos", "La vitesse est nulle"],
+      "reponse": "La vitesse varie",
+      "explication": "Une courbe implique que la pente (vitesse) change."
+    },
+    {
+      "question": "Une moto roule à 108 km/h. Quelle est sa vitesse en m/s ?",
+      "options": ["30 m/s", "28 m/s", "25 m/s", "32 m/s"],
+      "reponse": "30 m/s",
+      "explication": "108 ÷ 3,6 = 30 m/s."
+    },
+    {
+      "question": "Une voiture part du repos et atteint 24 m/s en 8 s. Quelle est son accélération moyenne ?",
+      "options": ["3 m/s²", "2 m/s²", "4 m/s²", "5 m/s²"],
+      "reponse": "3 m/s²",
+      "explication": "a = Δv / Δt = 24 / 8 = 3 m/s²."
+    },
+    {
+      "question": "Un objet ralentit avec a = -3 m/s² pendant 4 s. Il allait à 12 m/s. Quelle distance parcourt-il ?",
+      "options": ["24 m", "18 m", "30 m", "48 m"],
+      "reponse": "24 m",
+      "explication": "x = v₀t + ½at² = 12×4 + ½×(-3)×16 = 48 - 24 = 24 m."
+    },
+    {
+      "question": "Sur un graphique v(t), l’aire sous la courbe représente :",
+      "options": ["Distance parcourue", "Accélération", "Vitesse moyenne", "Temps total"],
+      "reponse": "Distance parcourue",
+      "explication": "L’aire sous v(t) correspond à l’intégrale de la vitesse = distance."
+    },
+    {
+      "question": "Une roue de rayon 0,5 m tourne à 6 rad/s. Quelle est la vitesse linéaire ?",
+      "options": ["3 m/s", "12 m/s", "0,3 m/s", "6 m/s"],
+      "reponse": "3 m/s",
+      "explication": "v = ω × R = 6 × 0,5 = 3 m/s."
+    },
+    {
+      "question": "Un objet est lancé verticalement avec v₀ = 20 m/s. À quelle hauteur maximale monte-t-il ? (g = 10 m/s²)",
+      "options": ["20 m", "30 m", "40 m", "10 m"],
+      "reponse": "20 m",
+      "explication": "h = v₀² / (2g) = 400 / 20 = 20 m."
+    },
+    {
+      "question": "Un objet chute librement. Quelle est sa vitesse après 3 s ? (g = 10 m/s²)",
+      "options": ["30 m/s", "20 m/s", "15 m/s", "10 m/s"],
+      "reponse": "30 m/s",
+      "explication": "v = g × t = 10 × 3 = 30 m/s."
+    },
+    {
+      "question": "Un objet lancé verticalement revient au sol en 6 s. Quelle était sa vitesse initiale ?",
+      "options": ["30 m/s", "36 m/s", "25 m/s", "20 m/s"],
+      "reponse": "30 m/s",
+      "explication": "Temps de montée = 3 s, donc v₀ = g × t = 10 × 3 = 30 m/s."
+    },
+    {
+      "question": "Une voiture accélère de 5 m/s à 25 m/s en 4 s. Quelle est l’accélération ?",
+      "options": ["5 m/s²", "6 m/s²", "4 m/s²", "10 m/s²"],
+      "reponse": "5 m/s²",
+      "explication": "a = (25 - 5) / 4 = 20 / 4 = 5 m/s²."
+    },
+    {
+      "question": "Un objet parcourt 40 m en 5 s avec mouvement rectiligne uniformément accéléré, partant du repos. Quelle est l’accélération ?",
+      "options": ["3,2 m/s²", "4 m/s²", "2 m/s²", "1,6 m/s²"],
+      "reponse": "3,2 m/s²",
+      "explication": "x = ½at² → a = 2x / t² = 80 / 25 = 3,2 m/s²."
+    },
+    {
+      "question": "Dans un graphique x(t), que représente la pente ?",
+      "options": ["La vitesse", "L'accélération", "La position", "La masse"],
+      "reponse": "La vitesse",
+      "explication": "La pente de x(t) = dx/dt = vitesse instantanée."
+    },
+    {
+      "question": "Si la courbe x(t) est une droite oblique, alors le mouvement est :",
+      "options": ["Rectiligne uniforme", "Accéléré", "Circulaire", "Au repos"],
+      "reponse": "Rectiligne uniforme",
+      "explication": "Une droite oblique = pente constante → vitesse constante."
+    },
+    {
+      "question": "Une courbe x(t) concave vers le haut indique :",
+      "options": ["Accélération positive", "Décélération", "Vitesse constante", "Mouvement au repos"],
+      "reponse": "Accélération positive",
+      "explication": "La courbure indique que la vitesse augmente (courbe de type x = at²)."
+    },
+    {
+      "question": "Dans un graphique v(t), la pente représente :",
+      "options": ["L’accélération", "La position", "La masse", "La vitesse moyenne"],
+      "reponse": "L’accélération",
+      "explication": "dv/dt = a(t), donc la pente de v(t) donne l’accélération."
+    },
+    {
+      "question": "L’aire sous la courbe v(t) entre deux instants donne :",
+      "options": ["La distance parcourue", "La vitesse", "L’accélération", "La masse"],
+      "reponse": "La distance parcourue",
+      "explication": "C’est l’intégrale de la vitesse → déplacement."
+    },
+    {
+      "question": "Si v(t) est constant et positif, le mouvement est :",
+      "options": ["Rectiligne uniforme", "Accéléré", "Circulaire", "Oscillant"],
+      "reponse": "Rectiligne uniforme",
+      "explication": "v constante → x(t) est une droite."
+    },
+    {
+      "question": "Une courbe v(t) qui monte en ligne droite signifie :",
+      "options": ["Accélération constante", "Accélération nulle", "Décélération", "Mouvement circulaire"],
+      "reponse": "Accélération constante",
+      "explication": "Pente constante de v(t) = a constante."
+    },
+    {
+      "question": "Si v(t) est une droite décroissante, alors :",
+      "options": ["Le mobile ralentit", "Le mobile accélère", "La vitesse est nulle", "Le mouvement est uniforme"],
+      "reponse": "Le mobile ralentit",
+      "explication": "v diminue → décélération (a < 0)."
+    },
+    {
+      "question": "Dans un graphe a(t), une valeur constante de a indique :",
+      "options": ["Une accélération uniforme", "Une vitesse nulle", "Un repos", "Une position constante"],
+      "reponse": "Une accélération uniforme",
+      "explication": "a(t) constant → MRUA."
+    },
+    {
+      "question": "Si l’accélération est nulle, alors v(t) est :",
+      "options": ["Constante", "Croissante", "Négative", "Nulle aussi"],
+      "reponse": "Constante",
+      "explication": "a = 0 → pas de variation de v → v constante."
+    },
+    {
+      "question": "Sur un graphe x(t), une portion horizontale signifie :",
+      "options": ["Repos", "Vitesse maximale", "Accélération", "Décélération"],
+      "reponse": "Repos",
+      "explication": "x ne varie pas → vitesse = 0 → repos."
+    },
+    {
+      "question": "Dans un graphe v(t), une aire négative signifie que le mobile :",
+      "options": ["Recule", "Accélère", "Tourne", "S'arrête"],
+      "reponse": "Recule",
+      "explication": "v < 0 → mouvement vers l’arrière."
+    },
+    {
+      "question": "Une fonction x(t) avec pente qui augmente indique :",
+      "options": ["Accélération", "Repos", "Uniformité", "Décélération"],
+      "reponse": "Accélération",
+      "explication": "Si la pente de x(t) augmente, v(t) augmente → accélération."
+    },
+    {
+      "question": "Une fonction x(t) avec pente qui diminue indique :",
+      "options": ["Ralentissement", "Accélération", "Vitesse constante", "Aucune info"],
+      "reponse": "Ralentissement",
+      "explication": "La pente = vitesse → si elle diminue : décélération."
+    },
+    {
+      "question": "La courbe v(t) passe de positif à négatif. Que se passe-t-il ?",
+      "options": ["Le mobile change de direction", "Le mobile s’arrête", "Le mobile accélère", "Le mobile se stabilise"],
+      "reponse": "Le mobile change de direction",
+      "explication": "v > 0 puis v < 0 → changement de sens."
+    },
+    {
+      "question": "Si la courbe v(t) coupe l’axe des temps, alors :",
+      "options": ["La vitesse est nulle à cet instant", "L'accélération est nulle", "La masse est nulle", "Le temps est nul"],
+      "reponse": "La vitesse est nulle à cet instant",
+      "explication": "Intersection avec l’axe t → v(t) = 0."
+    },
+    {
+      "question": "Une courbe a(t) en dessous de l’axe des abscisses signifie :",
+      "options": ["Accélération négative", "Pas de mouvement", "Vitesse constante", "Recul"],
+      "reponse": "Accélération négative",
+      "explication": "a < 0 → ralentissement."
+    },
+    {
+      "question": "Le passage de a(t) de positif à négatif indique :",
+      "options": ["Changement de comportement du mouvement", "Repos", "Masse constante", "Rien de particulier"],
+      "reponse": "Changement de comportement du mouvement",
+      "explication": "Peut passer d’accélération à décélération."
+    },
+    {
+      "question": "L’aire sous a(t) donne :",
+      "options": ["Variation de vitesse", "Variation de position", "Accélération", "Temps total"],
+      "reponse": "Variation de vitesse",
+      "explication": "a intégrée → Δv."
+    },
+    {
+      "question": "Une surface sous v(t) en forme de triangle se calcule avec :",
+      "options": ["½ × base × hauteur", "base × hauteur", "côté × côté", "pente × rayon"],
+      "reponse": "½ × base × hauteur",
+      "explication": "Aire d’un triangle pour déterminer déplacement."
+    },
+    {
+      "question": "Une courbe x(t) dont la pente diminue, reste positive et s’annule, signifie :",
+      "options": ["Le mobile s'arrête", "Il accélère", "Il revient en arrière", "Il tourne"],
+      "reponse": "Le mobile s'arrête",
+      "explication": "Pente → v → si elle devient 0, v = 0, donc arrêt momentané."
+    },
+    {
+      "question": "Un mobile a une courbe x(t) en forme de parabole. Il s’agit d’un :",
+      "options": ["MRUA", "MRU", "MCU", "Rebond"],
+      "reponse": "MRUA",
+      "explication": "Forme x(t) = x₀ + v₀t + ½at²."
+    },
+    {
+      "question": "Si v(t) a une pente constante ≠ 0, le mouvement est :",
+      "options": ["Rectiligne uniformément accéléré", "Uniforme", "Nul", "Périodique"],
+      "reponse": "Rectiligne uniformément accéléré",
+      "explication": "Pente constante → a = constante."
+    },
+    {
+      "question": "Un plateau horizontal sur un graphe v(t) indique :",
+      "options": ["Vitesse constante", "Accélération", "Recul", "Arrêt"],
+      "reponse": "Vitesse constante",
+      "explication": "v(t) constant → pas de variation de vitesse."
+    },
+    {
+      "question": "Une portion horizontale sur a(t) indique :",
+      "options": ["Accélération constante", "Repos", "Changement de direction", "v = 0"],
+      "reponse": "Accélération constante",
+      "explication": "a(t) = constante → MRUA."
+    },
+    {
+      "question": "L’aire entre t = 2 et t = 5 sous v(t) est 12. L’objet a donc parcouru :",
+      "options": ["12 unités", "7 unités", "5 unités", "3 unités"],
+      "reponse": "12 unités",
+      "explication": "Aire = distance parcourue → 12."
+    },
+    {
+      "question": "Si la pente de x(t) est constante, alors a(t) est :",
+      "options": ["Nulle", "Constante", "Variable", "Inconnue"],
+      "reponse": "Nulle",
+      "explication": "pente constante = v constante → a = 0."
+    },
+    {
+      "question": "Dans v(t), une pente nulle signifie que le mobile :",
+      "options": ["A une vitesse constante", "S'arrête", "Recule", "Accélère"],
+      "reponse": "A une vitesse constante",
+      "explication": "pente de v(t) = a(t) = 0."
+    },
+    {
+      "question": "La dérivée de la vitesse v(t) correspond à :",
+      "options": ["Accélération", "Position", "Énergie", "Angle"],
+      "reponse": "Accélération",
+      "explication": "a(t) = dv/dt."
+    },
+    {
+      "question": "Une position x(t) décroissante signifie que :",
+      "options": ["Le mobile se déplace vers l’arrière", "Il s’arrête", "Il revient au repos", "Il s’élève"],
+      "reponse": "Le mobile se déplace vers l’arrière",
+      "explication": "x diminue → déplacement en sens opposé."
+    },
+    {
+      "question": "Un graphique x(t) montre une droite inclinée vers le haut. Que peut-on dire du mouvement ?",
+      "options": ["Mouvement rectiligne uniforme", "Décélération", "Repos", "Mouvement circulaire"],
+      "reponse": "Mouvement rectiligne uniforme",
+      "explication": "Une droite signifie que la vitesse est constante (MRU)."
+    },
+    {
+      "question": "Sur un graphique x(t), la courbe est une parabole ouverte vers le haut. Le mobile :",
+      "options": ["Accélère", "Décélère", "Est au repos", "A une vitesse constante"],
+      "reponse": "Accélère",
+      "explication": "Une parabole indique une accélération constante (MRUA)."
+    },
+    {
+      "question": "Un graphique v(t) montre une droite qui descend de 10 m/s à 0 en 5 s. Quelle est l’accélération ?",
+      "options": ["-2 m/s²", "-1 m/s²", "-5 m/s²", "2 m/s²"],
+      "reponse": "-2 m/s²",
+      "explication": "a = Δv / Δt = (0 - 10)/5 = -2 m/s²."
+    },
+    {
+      "question": "Sur un graphe v(t), l’aire entre t = 0 et t = 4 vaut 20. Quelle distance a été parcourue ?",
+      "options": ["20 m", "24 m", "10 m", "8 m"],
+      "reponse": "20 m",
+      "explication": "L’aire sous v(t) = distance parcourue, donc 20 m."
+    },
+    {
+      "question": "Une courbe v(t) a une pente constante positive. Cela signifie que :",
+      "options": ["L’accélération est constante", "La vitesse est nulle", "Le mobile est au repos", "L’accélération est variable"],
+      "reponse": "L’accélération est constante",
+      "explication": "Pente constante = a constante → MRUA."
+    },
+    {
+      "question": "Une droite horizontale sur un graphique v(t) signifie :",
+      "options": ["Vitesse constante", "Accélération", "Repos", "Changement de sens"],
+      "reponse": "Vitesse constante",
+      "explication": "v(t) constante → MRU."
+    },
+    {
+      "question": "Un mobile a v(t) négatif constant. Il :",
+      "options": ["Se déplace vers l’arrière à vitesse constante", "Accélère", "Est immobile", "Tourne en rond"],
+      "reponse": "Se déplace vers l’arrière à vitesse constante",
+      "explication": "v < 0 constante → MRU vers l’arrière."
+    },
+    {
+      "question": "Un mobile s’arrête à t = 3 s. Sur le graphe v(t), cela correspond à :",
+      "options": ["v(t) = 0 à t = 3 s", "pente nulle", "position maximale", "a(t) = 0"],
+      "reponse": "v(t) = 0 à t = 3 s",
+      "explication": "Quand v = 0, le mobile s’arrête."
+    },
+    {
+      "question": "Dans un graphique x(t), un point où la pente s’annule correspond à :",
+      "options": ["Arrêt instantané", "Accélération maximale", "Départ", "Recul"],
+      "reponse": "Arrêt instantané",
+      "explication": "Pente nulle → vitesse nulle → arrêt momentané."
+    },
+    {
+      "question": "Si la courbe a(t) passe de +2 à -2, cela signifie :",
+      "options": ["Le mobile passe d’une accélération à une décélération", "Changement de position", "Repos", "Changement de référentiel"],
+      "reponse": "Le mobile passe d’une accélération à une décélération",
+      "explication": "a > 0 puis a < 0 → changement de comportement."
+    },
+    {
+      "question": "Sur v(t), si la surface entre t = 0 et t = 4 est un trapèze de bases 2 et 6, hauteur 4 :",
+      "options": ["Distance = 16 m", "Distance = 10 m", "Distance = 32 m", "Distance = 20 m"],
+      "reponse": "Distance = 16 m",
+      "explication": "Aire trapèze = ½ × (2+6) × 4 = 16 m."
+    },
+    {
+      "question": "Un graphique a(t) constant à 3 m/s² indique un mouvement :",
+      "options": ["Uniformément accéléré", "Rectiligne uniforme", "Périodique", "Inconnu"],
+      "reponse": "Uniformément accéléré",
+      "explication": "a constante → MRUA."
+    },
+    {
+      "question": "Une courbe v(t) croise l’axe des abscisses. Cela signifie que :",
+      "options": ["Le mobile change de sens", "Il atteint sa vitesse max", "Il est au repos", "Il accélère"],
+      "reponse": "Le mobile change de sens",
+      "explication": "v = 0 → passage de v > 0 à v < 0."
+    },
+    {
+      "question": "Une courbe x(t) est plate entre t = 2 s et t = 6 s. Le mobile :",
+      "options": ["Est au repos", "Accélère", "Décélère", "Change de sens"],
+      "reponse": "Est au repos",
+      "explication": "x ne varie pas → v = 0."
+    },
+    {
+      "question": "Une courbe x(t) descend avec pente constante. Cela signifie :",
+      "options": ["MRU vers l’arrière", "Décélération", "Rebond", "Repos"],
+      "reponse": "MRU vers l’arrière",
+      "explication": "Pente négative constante = MRU dans l’autre sens."
+    },
+    {
+      "question": "Une vitesse instantanée peut être obtenue sur x(t) en :",
+      "options": ["Calculant la pente de la tangente", "Cherchant l’aire sous la courbe", "Regardant l’ordonnée", "Prenant l’inverse de x"],
+      "reponse": "Calculant la pente de la tangente",
+      "explication": "La tangente à x(t) donne v(t) instantanée."
+    },
+    {
+      "question": "Un objet lancé verticalement monte puis redescend. Sur v(t), cela se traduit par :",
+      "options": ["v(t) passe de positif à négatif", "v(t) reste constant", "v(t) augmente", "v(t) est nulle tout le temps"],
+      "reponse": "v(t) passe de positif à négatif",
+      "explication": "Il monte (v > 0), s’arrête (v = 0), descend (v < 0)."
+    },
+    {
+      "question": "Sur v(t), l’aire entre t = 0 et t = 5 s est 15 m. Distance parcourue ?",
+      "options": ["15 m", "10 m", "5 m", "20 m"],
+      "reponse": "15 m",
+      "explication": "Aire = distance (déplacement si v(t) positif)."
+    },
+    {
+      "question": "L’unité de l’aire sous a(t) est :",
+      "options": ["m/s", "m", "m²", "s"],
+      "reponse": "m/s",
+      "explication": "a(t) en m/s² × t en s → m/s = variation de vitesse."
+    },
+    {
+      "question": "Une vitesse v(t) = 0 constante pendant 3 s signifie que le mobile :",
+      "options": ["Est immobile", "Recule", "Accélère", "Tourne"],
+      "reponse": "Est immobile",
+      "explication": "v = 0 → pas de mouvement → repos."
+    }
+  ]
+}

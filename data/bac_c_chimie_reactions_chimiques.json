@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "Que représente une équation-bilan en chimie ?",
+      "options": ["La transformation globale d’un système", "La masse totale des réactifs", "La température du système", "Le volume occupé par les gaz"],
+      "reponse": "La transformation globale d’un système",
+      "explication": "Elle décrit la réaction chimique en faisant apparaître les réactifs et les produits."
+    },
+    {
+      "question": "Quel principe est utilisé pour équilibrer une équation chimique ?",
+      "options": ["Conservation des atomes", "Conservation de l’énergie", "Conservation du volume", "Conservation de la vitesse"],
+      "reponse": "Conservation des atomes",
+      "explication": "Le nombre d’atomes de chaque élément est identique des deux côtés de l’équation."
+    },
+    {
+      "question": "Quel est le coefficient stœchiométrique de H₂ dans H₂ + Cl₂ → 2 HCl ?",
+      "options": ["1", "2", "0", "4"],
+      "reponse": "1",
+      "explication": "Un seul H₂ est nécessaire pour produire 2 molécules de HCl avec 1 Cl₂."
+    },
+    {
+      "question": "Quelle est la formule de l’ion hydronium ?",
+      "options": ["H₃O⁺", "OH⁻", "H⁺", "HO⁻"],
+      "reponse": "H₃O⁺",
+      "explication": "H⁺ réagit avec H₂O pour former l’ion H₃O⁺ en solution aqueuse."
+    },
+    {
+      "question": "Quelle espèce chimique libère des protons H⁺ en solution ?",
+      "options": ["Acide", "Base", "Sel", "Gaz noble"],
+      "reponse": "Acide",
+      "explication": "Selon la définition de Brønsted, un acide donne un proton H⁺."
+    },
+    {
+      "question": "Dans la réaction HCl + H₂O → Cl⁻ + H₃O⁺, l’ion Cl⁻ est :",
+      "options": ["La base conjuguée", "Un acide", "Un oxydant", "Un réactif inerte"],
+      "reponse": "La base conjuguée",
+      "explication": "Cl⁻ est la base conjuguée de l’acide HCl selon Brønsted."
+    },
+    {
+      "question": "Qu’est-ce qu’une réaction acido-basique ?",
+      "options": ["Échange de protons H⁺", "Échange d’électrons", "Échange de neutrons", "Échange de photons"],
+      "reponse": "Échange de protons H⁺",
+      "explication": "Les acides donnent des protons, les bases les acceptent."
+    },
+    {
+      "question": "La soude (NaOH) est :",
+      "options": ["Une base", "Un acide", "Un oxydant", "Un gaz"],
+      "reponse": "Une base",
+      "explication": "Elle libère des ions OH⁻ en solution aqueuse."
+    },
+    {
+      "question": "Dans une réaction acide-base, les réactifs forment :",
+      "options": ["Un couple acide/base", "Un couple oxydant/réducteur", "Une chaîne carbonée", "Une liaison métallique"],
+      "reponse": "Un couple acide/base",
+      "explication": "Chaque acide est lié à une base conjuguée dans une telle réaction."
+    },
+    {
+      "question": "Quel pH indique une solution acide ?",
+      "options": ["Inférieur à 7", "Égal à 7", "Supérieur à 7", "Supérieur à 14"],
+      "reponse": "Inférieur à 7",
+      "explication": "Une solution est acide si son pH < 7."
+    },
+    {
+      "question": "Une base de Brønsted est une espèce qui :",
+      "options": ["Capte un proton H⁺", "Libère un électron", "Donne un neutron", "Capte un photon"],
+      "reponse": "Capte un proton H⁺",
+      "explication": "Définition même d’une base selon Brønsted."
+    },
+    {
+      "question": "Une réaction d’oxydoréduction implique un transfert :",
+      "options": ["D’électrons", "De protons", "De neutrons", "De photons"],
+      "reponse": "D’électrons",
+      "explication": "L’oxydant capte des électrons, le réducteur les cède."
+    },
+    {
+      "question": "Quel est l’oxydant dans le couple Fe³⁺/Fe²⁺ ?",
+      "options": ["Fe³⁺", "Fe²⁺", "Fe", "O₂"],
+      "reponse": "Fe³⁺",
+      "explication": "L’oxydant est celui qui capte les électrons : ici, Fe³⁺ → Fe²⁺."
+    },
+    {
+      "question": "Dans le couple Cu²⁺/Cu, qui est le réducteur ?",
+      "options": ["Cu", "Cu²⁺", "O₂", "H⁺"],
+      "reponse": "Cu",
+      "explication": "Cu est le réducteur car il peut donner des électrons pour former Cu²⁺."
+    },
+    {
+      "question": "Quelle demi-équation correspond à la réduction de MnO₄⁻ en Mn²⁺ ?",
+      "options": ["MnO₄⁻ + 8 H⁺ + 5 e⁻ → Mn²⁺ + 4 H₂O", "Mn²⁺ → MnO₄⁻ + 8 H⁺", "MnO₄⁻ → Mn²⁺ + 5 e⁻", "Mn²⁺ + H₂O → MnO₄⁻"],
+      "reponse": "MnO₄⁻ + 8 H⁺ + 5 e⁻ → Mn²⁺ + 4 H₂O",
+      "explication": "C’est la demi-équation d’oxydoréduction équilibrée en milieu acide."
+    },
+    {
+      "question": "Une réaction est dite spontanée si :",
+      "options": ["Elle se produit sans apport d’énergie extérieur", "Elle a lieu à température élevée", "Elle nécessite une enzyme", "Elle produit un gaz"],
+      "reponse": "Elle se produit sans apport d’énergie extérieur",
+      "explication": "Spontanée = thermodynamiquement favorable."
+    },
+    {
+      "question": "La corrosion du fer est un exemple de :",
+      "options": ["Oxydation", "Réduction", "Neutralisation", "Fusion"],
+      "reponse": "Oxydation",
+      "explication": "Le fer s’oxyde en présence d’eau et d’oxygène pour former de la rouille."
+    },
+    {
+      "question": "Dans l’équation Zn + Cu²⁺ → Zn²⁺ + Cu, qui est l’oxydant ?",
+      "options": ["Cu²⁺", "Zn", "Cu", "Zn²⁺"],
+      "reponse": "Cu²⁺",
+      "explication": "Cu²⁺ capte 2 électrons de Zn pour devenir Cu : il est donc l’oxydant."
+    },
+    {
+      "question": "Une pile électrochimique est basée sur une réaction :",
+      "options": ["D’oxydoréduction", "Acido-basique", "Exothermique", "Électrostatique"],
+      "reponse": "D’oxydoréduction",
+      "explication": "La circulation des électrons entre les électrodes provient d’un transfert redox."
+    },
+    {
+      "question": "Le pH d’une solution basique est :",
+      "options": ["Supérieur à 7", "Inférieur à 7", "Égal à 7", "Toujours égal à 14"],
+      "reponse": "Supérieur à 7",
+      "explication": "pH > 7 indique un excès d’ions OH⁻."
+    },
+    {
+      "question": "Complète : Fe + HCl → … + H₂. Quel produit se forme ?",
+      "options": ["FeCl₂", "Fe₂O₃", "Fe(OH)₃", "FeCl₃"],
+      "reponse": "FeCl₂",
+      "explication": "Le fer réagit avec l’acide chlorhydrique pour former FeCl₂ et libérer du dihydrogène."
+    },
+    {
+      "question": "Équilibrer : H₂ + O₂ → H₂O",
+      "options": ["2 H₂ + O₂ → 2 H₂O", "H₂ + 2 O₂ → H₂O", "H₂ + O₂ → 2 H₂O", "H₂ + O₂ → H₂O₂"],
+      "reponse": "2 H₂ + O₂ → 2 H₂O",
+      "explication": "Il faut 2 molécules d’H₂ pour 1 molécule d’O₂ afin d’obtenir 2 H₂O."
+    },
+    {
+      "question": "Quelle est la concentration en H₃O⁺ d’une solution de pH 3 ?",
+      "options": ["10⁻³ mol/L", "10⁻⁶ mol/L", "3 mol/L", "10³ mol/L"],
+      "reponse": "10⁻³ mol/L",
+      "explication": "pH = -log[H₃O⁺] → [H₃O⁺] = 10⁻³ mol/L."
+    },
+    {
+      "question": "Quelle est la base conjuguée de l’acide CH₃COOH ?",
+      "options": ["CH₃COO⁻", "CH₄", "CO₃²⁻", "HCOOH"],
+      "reponse": "CH₃COO⁻",
+      "explication": "CH₃COOH cède un proton pour devenir CH₃COO⁻."
+    },
+    {
+      "question": "Quelle est la demi-équation de réduction du couple Cu²⁺/Cu ?",
+      "options": ["Cu²⁺ + 2 e⁻ → Cu", "Cu → Cu²⁺ + 2 e⁻", "Cu²⁺ → Cu + 2 H⁺", "Cu + 2 OH⁻ → Cu²⁺"],
+      "reponse": "Cu²⁺ + 2 e⁻ → Cu",
+      "explication": "La réduction implique un gain de 2 électrons pour Cu²⁺."
+    },
+    {
+      "question": "Complète : Zn + Cu²⁺ → …",
+      "options": ["Zn²⁺ + Cu", "Zn + Cu", "ZnO + Cu", "Zn²⁺ + Cu²⁺"],
+      "reponse": "Zn²⁺ + Cu",
+      "explication": "Zn est oxydé, Cu²⁺ est réduit → Zn²⁺ + Cu."
+    },
+    {
+      "question": "Le pH d’une solution de NaOH 10⁻² mol/L est environ :",
+      "options": ["12", "2", "7", "4"],
+      "reponse": "12",
+      "explication": "[OH⁻] = 10⁻² → pOH = 2 → pH = 14 - 2 = 12."
+    },
+    {
+      "question": "Une solution a un pH de 9. Elle est :",
+      "options": ["Basique", "Acide", "Neutre", "Saturée"],
+      "reponse": "Basique",
+      "explication": "pH > 7 indique une solution basique."
+    },
+    {
+      "question": "Complète : HNO₃ + NaOH → … + H₂O",
+      "options": ["NaNO₃", "NaCl", "NO₂", "NaHCO₃"],
+      "reponse": "NaNO₃",
+      "explication": "Acide + base → sel + eau. Ici : NaNO₃ + H₂O."
+    },
+    {
+      "question": "Le couple oxydant/réducteur correspondant à l’eau est :",
+      "options": ["H₂O/H₂", "H₂O/O₂", "H⁺/H₂", "H₂O/HO⁻"],
+      "reponse": "H₂O/H₂",
+      "explication": "H₂O peut être réduite en H₂, c’est un couple redox."
+    },
+    {
+      "question": "Dans l’équation MnO₄⁻ + Fe²⁺ → Mn²⁺ + Fe³⁺, qui est l’oxydant ?",
+      "options": ["MnO₄⁻", "Fe²⁺", "Fe³⁺", "Mn²⁺"],
+      "reponse": "MnO₄⁻",
+      "explication": "MnO₄⁻ capte des électrons : c’est l’oxydant."
+    },
+    {
+      "question": "L’ion HCO₃⁻ peut se comporter comme :",
+      "options": ["Acide ou base", "Uniquement acide", "Uniquement base", "Sel neutre"],
+      "reponse": "Acide ou base",
+      "explication": "C’est une espèce amphotère."
+    },
+    {
+      "question": "Quel produit forme-t-on à partir de H₂SO₄ + 2 NaOH ?",
+      "options": ["Na₂SO₄", "NaHSO₄", "Na₂CO₃", "NaCl"],
+      "reponse": "Na₂SO₄",
+      "explication": "L’acide sulfurique est dibasique → 2 NaOH nécessaires → Na₂SO₄ + 2 H₂O."
+    },
+    {
+      "question": "Dans Cl₂ + 2 e⁻ → 2 Cl⁻, Cl₂ est :",
+      "options": ["Un oxydant", "Un réducteur", "Une base", "Un catalyseur"],
+      "reponse": "Un oxydant",
+      "explication": "Il capte 2 électrons → c’est l’oxydant."
+    },
+    {
+      "question": "Quelle réaction est une réaction acido-basique ?",
+      "options": ["CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O", "Zn + Cu²⁺ → Cu + Zn²⁺", "H₂ + O₂ → H₂O", "C + O₂ → CO₂"],
+      "reponse": "CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O",
+      "explication": "Acide + base → base conjuguée + eau."
+    },
+    {
+      "question": "Quelle espèce est réduite dans la réaction : 2 H⁺ + Fe → Fe²⁺ + H₂ ?",
+      "options": ["H⁺", "Fe", "Fe²⁺", "H₂"],
+      "reponse": "H⁺",
+      "explication": "H⁺ capte des électrons pour devenir H₂ → il est réduit."
+    },
+    {
+      "question": "Un pH de 1 indique une solution :",
+      "options": ["Très acide", "Neutre", "Légèrement acide", "Très basique"],
+      "reponse": "Très acide",
+      "explication": "pH très faible = acidité élevée."
+    },
+    {
+      "question": "Dans une pile Daniell (Zn/Cu), quel métal est à l’anode ?",
+      "options": ["Zn", "Cu", "Fe", "Ag"],
+      "reponse": "Zn",
+      "explication": "Le zinc s’oxyde : il est à l’anode."
+    },
+    {
+      "question": "Quel est le rôle du sel dans une réaction acido-basique ?",
+      "options": ["Résultat de la neutralisation", "Réactif principal", "Solvant", "Oxydant fort"],
+      "reponse": "Résultat de la neutralisation",
+      "explication": "Acide + base → sel + eau."
+    },
+    {
+      "question": "Une solution contient autant de H₃O⁺ que de OH⁻. Son pH est :",
+      "options": ["7", "0", "14", "10"],
+      "reponse": "7",
+      "explication": "Solution neutre → pH = 7."
+    }
+  ]
+}

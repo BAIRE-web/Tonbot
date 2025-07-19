@@ -1,0 +1,580 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle partie du neurone reçoit les messages nerveux ?",
+      "options": ["Dendrites", "Axone", "Soma", "Terminaisons synaptiques"],
+      "reponse": "Dendrites",
+      "explication": "Les dendrites reçoivent les signaux des autres neurones."
+    },
+    {
+      "question": "Quel est le rôle de l’axone dans un neurone ?",
+      "options": ["Conduire l’influx nerveux vers d’autres cellules", "Recevoir les signaux", "Synthétiser les protéines", "Produire des neurotransmetteurs"],
+      "reponse": "Conduire l’influx nerveux vers d’autres cellules",
+      "explication": "L’axone transmet le signal électrique vers les terminaisons synaptiques."
+    },
+    {
+      "question": "Le corps cellulaire d’un neurone est appelé :",
+      "options": ["Soma", "Dendrite", "Axone", "Synapse"],
+      "reponse": "Soma",
+      "explication": "Le soma contient le noyau et les organites du neurone."
+    },
+    {
+      "question": "Qu’est-ce qu’un potentiel d’action ?",
+      "options": ["Signal électrique parcourant le neurone", "Libération de neurotransmetteurs", "Réception d’un message", "Repos du neurone"],
+      "reponse": "Signal électrique parcourant le neurone",
+      "explication": "Le potentiel d’action est une dépolarisation brève qui se propage le long de l’axone."
+    },
+    {
+      "question": "Quelle ion est principalement responsable de la dépolarisation lors du potentiel d’action ?",
+      "options": ["Na⁺", "K⁺", "Ca²⁺", "Cl⁻"],
+      "reponse": "Na⁺",
+      "explication": "L’entrée rapide des ions sodium provoque la dépolarisation."
+    },
+    {
+      "question": "Quel ion est expulsé pour repolariser la membrane après un potentiel d’action ?",
+      "options": ["K⁺", "Na⁺", "Ca²⁺", "Cl⁻"],
+      "reponse": "K⁺",
+      "explication": "La sortie des ions potassium rétablit le potentiel de repos."
+    },
+    {
+      "question": "La synapse est :",
+      "options": ["Le point de communication entre deux neurones", "Le corps cellulaire", "Le prolongement du neurone", "La membrane plasmique"],
+      "reponse": "Le point de communication entre deux neurones",
+      "explication": "La synapse permet la transmission chimique ou électrique du message."
+    },
+    {
+      "question": "Comment se transmet un message au niveau de la synapse chimique ?",
+      "options": ["Libération de neurotransmetteurs", "Passage direct du courant", "Diffusion de ions K⁺", "Propagation de potentiel d’action"],
+      "reponse": "Libération de neurotransmetteurs",
+      "explication": "Les neurotransmetteurs sont libérés dans la fente synaptique pour transmettre le signal."
+    },
+    {
+      "question": "Quel neurotransmetteur est souvent excitateur dans le cerveau ?",
+      "options": ["Glutamate", "GABA", "Dopamine", "Sérotonine"],
+      "reponse": "Glutamate",
+      "explication": "Le glutamate favorise la dépolarisation des neurones postsynaptiques."
+    },
+    {
+      "question": "Quel neurotransmetteur est souvent inhibiteur ?",
+      "options": ["GABA", "Glutamate", "Acétylcholine", "Noradrénaline"],
+      "reponse": "GABA",
+      "explication": "Le GABA induit l’hyperpolarisation et inhibe l’excitation neuronale."
+    },
+    {
+      "question": "La période réfractaire est :",
+      "options": ["Un intervalle où le neurone ne peut pas générer un nouveau potentiel d’action", "La phase de dépolarisation", "La libération de neurotransmetteurs", "La réception d’un signal"],
+      "reponse": "Un intervalle où le neurone ne peut pas générer un nouveau potentiel d’action",
+      "explication": "C’est la phase qui suit le potentiel d’action empêchant une nouvelle excitation immédiate."
+    },
+    {
+      "question": "Quel rôle joue le calcium (Ca²⁺) dans la synapse ?",
+      "options": ["Induit la libération des neurotransmetteurs", "Provoque la dépolarisation", "Ferme les canaux ioniques", "Repousse les neurotransmetteurs"],
+      "reponse": "Induit la libération des neurotransmetteurs",
+      "explication": "L’entrée de Ca²⁺ dans la terminaison présynaptique déclenche la fusion des vésicules contenant les neurotransmetteurs."
+    },
+    {
+      "question": "La gaine de myéline permet de :",
+      "options": ["Accélérer la conduction de l’influx nerveux", "Protéger le neurone", "Stocker les neurotransmetteurs", "Recevoir les messages"],
+      "reponse": "Accélérer la conduction de l’influx nerveux",
+      "explication": "La myéline isole l’axone et permet une conduction saltatoire rapide."
+    },
+    {
+      "question": "Le neurone est une cellule :",
+      "options": ["Spécialisée dans la transmission de l’influx nerveux", "Du tissu musculaire", "Des glandes endocrines", "Du tissu conjonctif"],
+      "reponse": "Spécialisée dans la transmission de l’influx nerveux",
+      "explication": "Le neurone est la cellule de base du système nerveux."
+    },
+    {
+      "question": "Quelle est la charge électrique interne du neurone au repos ?",
+      "options": ["Négative", "Positive", "Nulle", "Variable"],
+      "reponse": "Négative",
+      "explication": "Le potentiel de repos est négatif à l’intérieur par rapport à l’extérieur."
+    },
+    {
+      "question": "Quel mécanisme restaure le potentiel de repos après un potentiel d’action ?",
+      "options": ["Pompe sodium-potassium", "Canaux calciques", "Diffusion passive", "Libération de neurotransmetteurs"],
+      "reponse": "Pompe sodium-potassium",
+      "explication": "La pompe expulse 3 Na⁺ et fait entrer 2 K⁺ pour rétablir les concentrations ioniques."
+    },
+    {
+      "question": "Le potentiel d’action est déclenché lorsque :",
+      "options": ["Le seuil de dépolarisation est atteint", "Le neurone est au repos", "La synapse est inactive", "La membrane est hyperpolarisée"],
+      "reponse": "Le seuil de dépolarisation est atteint",
+      "explication": "La dépolarisation doit dépasser un seuil pour déclencher le potentiel d’action."
+    },
+    {
+      "question": "Dans une synapse chimique, le message est :",
+      "options": ["Chimique puis électrique", "Électrique puis chimique", "Uniquement électrique", "Uniquement chimique"],
+      "reponse": "Électrique puis chimique",
+      "explication": "Le potentiel d’action électrique déclenche la libération chimique des neurotransmetteurs."
+    },
+    {
+      "question": "Lequel de ces ions est majoritairement plus concentré à l’intérieur de la cellule au repos ?",
+      "options": ["K⁺", "Na⁺", "Ca²⁺", "Cl⁻"],
+      "reponse": "K⁺",
+      "explication": "Le potassium est plus concentré à l’intérieur, alors que le sodium est plus extracellulaire."
+    },
+    {
+      "question": "Qu’est-ce qu’une synapse électrique ?",
+      "options": ["Transmission directe de courant via jonctions gap", "Libération de neurotransmetteurs", "Dépolarisation membranaire", "Libération d’hormones"],
+      "reponse": "Transmission directe de courant via jonctions gap",
+      "explication": "Les synapses électriques permettent le passage direct du courant d’un neurone à l’autre."
+    },
+    {
+      "question": "Quelle est la fonction des dendrites ?",
+      "options": ["Réception des messages nerveux", "Transmission des influx", "Libération de neurotransmetteurs", "Synthèse des protéines"],
+      "reponse": "Réception des messages nerveux",
+      "explication": "Les dendrites reçoivent les signaux des neurones voisins."
+    },
+    {
+      "question": "Quelle partie du neurone contient le noyau ?",
+      "options": ["Soma", "Axone", "Dendrites", "Terminaisons synaptiques"],
+      "reponse": "Soma",
+      "explication": "Le soma est le corps cellulaire qui contient le noyau."
+    },
+    {
+      "question": "La propagation du potentiel d’action se fait :",
+      "options": ["Dans un seul sens, de la dendrite à la terminaison", "Dans les deux sens", "Du soma aux dendrites", "Au hasard"],
+      "reponse": "Dans un seul sens, de la dendrite à la terminaison",
+      "explication": "Le potentiel d’action se propage toujours de l’axone vers la synapse."
+    },
+    {
+      "question": "Quel phénomène correspond à la phase de repolarisation ?",
+      "options": ["Sortie de K⁺", "Entrée de Na⁺", "Libération de neurotransmetteurs", "Entrée de Ca²⁺"],
+      "reponse": "Sortie de K⁺",
+      "explication": "La sortie des ions potassium restaure la polarité négative de la membrane."
+    },
+    {
+      "question": "Quelle est la durée moyenne d’un potentiel d’action ?",
+      "options": ["1 à 2 millisecondes", "1 seconde", "10 secondes", "1 minute"],
+      "reponse": "1 à 2 millisecondes",
+      "explication": "Le potentiel d’action est un événement très bref."
+    },
+    {
+      "question": "Les neurotransmetteurs sont stockés dans :",
+      "options": ["Vésicules synaptiques", "Noyau", "Mitochondries", "Dendrites"],
+      "reponse": "Vésicules synaptiques",
+      "explication": "Les vésicules contiennent les neurotransmetteurs dans la terminaison axonale."
+    },
+    {
+      "question": "Que fait la fente synaptique ?",
+      "options": ["Sépare les neurones au niveau de la synapse", "Conduit l’influx nerveux", "Stocke les neurotransmetteurs", "Fabrique les ions"],
+      "reponse": "Sépare les neurones au niveau de la synapse",
+      "explication": "La fente est l’espace entre neurones où les neurotransmetteurs diffusent."
+    },
+    {
+      "question": "Quelle est la charge électrique externe du neurone au repos ?",
+      "options": ["Positive", "Négative", "Nulle", "Variable"],
+      "reponse": "Positive",
+      "explication": "L’extérieur de la membrane est chargé positivement au repos."
+    },
+    {
+      "question": "Le potentiel d’action se propage le long de :",
+      "options": ["L’axone", "Le soma", "La dendrite", "La synapse"],
+      "reponse": "L’axone",
+      "explication": "L’axone est le prolongement conducteur du neurone où circule le potentiel d’action."
+    },
+    {
+      "question": "Quel ion entre rapidement dans le neurone lors de la phase de dépolarisation ?",
+      "options": ["Na⁺", "K⁺", "Cl⁻", "Ca²⁺"],
+      "reponse": "Na⁺",
+      "explication": "L’entrée massive de Na⁺ provoque la dépolarisation membranaire."
+    },
+    {
+      "question": "Lors de la repolarisation, la membrane devient :",
+      "options": ["Plus négative", "Plus positive", "Neutre", "Variable"],
+      "reponse": "Plus négative",
+      "explication": "La sortie des ions K⁺ fait revenir la membrane vers un potentiel négatif."
+    },
+    {
+      "question": "La période réfractaire empêche :",
+      "options": ["La survenue immédiate d’un nouveau potentiel d’action", "La transmission du message", "La dépolarisation", "La libération de neurotransmetteurs"],
+      "reponse": "La survenue immédiate d’un nouveau potentiel d’action",
+      "explication": "Cette période garantit un sens unique à la propagation."
+    },
+    {
+      "question": "Dans une synapse chimique, les neurotransmetteurs sont libérés par :",
+      "options": ["Exocytose", "Diffusion simple", "Endocytose", "Phagocytose"],
+      "reponse": "Exocytose",
+      "explication": "Les vésicules fusionnent avec la membrane pour libérer les neurotransmetteurs."
+    },
+    {
+      "question": "Quel canal ionique s’ouvre en premier lors du potentiel d’action ?",
+      "options": ["Canaux Na⁺ voltage-dépendants", "Canaux K⁺", "Canaux Ca²⁺", "Canaux Cl⁻"],
+      "reponse": "Canaux Na⁺ voltage-dépendants",
+      "explication": "L’ouverture rapide des canaux Na⁺ initie la dépolarisation."
+    },
+    {
+      "question": "La myéline est produite par :",
+      "options": ["Les cellules de Schwann", "Les neurones", "Les astrocytes", "Les microglies"],
+      "reponse": "Les cellules de Schwann",
+      "explication": "Elles assurent la myélinisation des axones périphériques."
+    },
+    {
+      "question": "L’espace entre deux neurones au niveau d’une synapse est appelé :",
+      "options": ["Fente synaptique", "Soma", "Nœud de Ranvier", "Axone"],
+      "reponse": "Fente synaptique",
+      "explication": "C’est le petit espace où les neurotransmetteurs diffusent."
+    },
+    {
+      "question": "Quel phénomène suit immédiatement la libération de neurotransmetteurs ?",
+      "options": ["Fixation sur les récepteurs postsynaptiques", "Entrée de Na⁺ dans le neurone", "Sortie de K⁺", "Dépolarisation de la membrane présynaptique"],
+      "reponse": "Fixation sur les récepteurs postsynaptiques",
+      "explication": "Les neurotransmetteurs activent les récepteurs pour transmettre le signal."
+    },
+    {
+      "question": "La gaine de myéline permet :",
+      "options": ["La conduction saltatoire", "La synthèse de neurotransmetteurs", "La réception des signaux", "La libération des ions"],
+      "reponse": "La conduction saltatoire",
+      "explication": "Le potentiel d’action saute de nœud en nœud, accélérant la transmission."
+    },
+    {
+      "question": "Un neurone reçoit un stimulus suffisamment fort pour atteindre le seuil. Que se passe-t-il ?",
+      "options": ["Un potentiel d’action est généré", "Rien ne se passe", "Le neurone se dépolarise partiellement", "Le neurone s’hyperpolarise"],
+      "reponse": "Un potentiel d’action est généré",
+      "explication": "Le seuil déclenche une dépolarisation complète et un potentiel d’action."
+    },
+    {
+      "question": "Pendant le potentiel d’action, la membrane devient temporairement :",
+      "options": ["Perméable au sodium", "Imperméable au sodium", "Perméable au potassium", "Imperméable à tous ions"],
+      "reponse": "Perméable au sodium",
+      "explication": "L’ouverture des canaux sodium provoque l’entrée des ions."
+    },
+    {
+      "question": "Quel est le rôle principal des terminaisons synaptiques ?",
+      "options": ["Libérer les neurotransmetteurs", "Recevoir les messages", "Conduire le potentiel d’action", "Synthétiser l’ATP"],
+      "reponse": "Libérer les neurotransmetteurs",
+      "explication": "Les terminaisons envoient le signal vers le neurone suivant."
+    },
+    {
+      "question": "La dépolarisation est due à :",
+      "options": ["Entrée massive de Na⁺", "Sortie massive de K⁺", "Entrée de Cl⁻", "Sortie de Ca²⁺"],
+      "reponse": "Entrée massive de Na⁺",
+      "explication": "L’entrée rapide de sodium inverse la polarité membranaire."
+    },
+    {
+      "question": "Le potentiel de repos d’un neurone est d’environ :",
+      "options": ["-70 mV", "0 mV", "+30 mV", "-100 mV"],
+      "reponse": "-70 mV",
+      "explication": "C’est la différence de potentiel typique entre intérieur et extérieur au repos."
+    },
+    {
+      "question": "Quelle est la fonction des nœuds de Ranvier ?",
+      "options": ["Permettre la conduction saltatoire", "Produire la myéline", "Recevoir le potentiel d’action", "Libérer les neurotransmetteurs"],
+      "reponse": "Permettre la conduction saltatoire",
+      "explication": "Ces zones non myélinisées permettent au potentiel d’action de sauter."
+    },
+    {
+      "question": "Lors de la transmission synaptique, les neurotransmetteurs sont éliminés par :",
+      "options": ["Dégradation enzymatique", "Diffusion dans le sang", "Absorption par les mitochondries", "Conversion en ATP"],
+      "reponse": "Dégradation enzymatique",
+      "explication": "Les enzymes dans la fente synaptique dégradent les neurotransmetteurs."
+    },
+    {
+      "question": "L’entrée de Ca²⁺ dans la terminaison présynaptique provoque :",
+      "options": ["La fusion des vésicules synaptiques avec la membrane", "La dépolarisation", "La fermeture des canaux Na⁺", "La synthèse des protéines"],
+      "reponse": "La fusion des vésicules synaptiques avec la membrane",
+      "explication": "Le calcium déclenche la libération des neurotransmetteurs."
+    },
+    {
+      "question": "Les dendrites ont une fonction :",
+      "options": ["Réceptrice", "Conductrice", "Synthétique", "Contractile"],
+      "reponse": "Réceptrice",
+      "explication": "Elles reçoivent les signaux d’autres neurones."
+    },
+    {
+      "question": "Un neurone est hyperpolarisé quand :",
+      "options": ["La membrane devient plus négative que le potentiel de repos", "La membrane devient plus positive", "Le potentiel d’action se déclenche", "Les neurotransmetteurs sont libérés"],
+      "reponse": "La membrane devient plus négative que le potentiel de repos",
+      "explication": "L’hyperpolarisation empêche le déclenchement d’un potentiel d’action."
+    },
+    {
+      "question": "Quelle partie du cerveau est principalement responsable de la coordination motrice ?",
+      "options": ["Le cervelet", "Le cortex moteur", "L’hippocampe", "Le thalamus"],
+      "reponse": "Le cervelet",
+      "explication": "Le cervelet coordonne les mouvements précis et l’équilibre."
+    },
+    {
+      "question": "Le cortex préfrontal est associé à :",
+      "options": ["La prise de décision", "La vision", "La respiration", "Le contrôle de la température"],
+      "reponse": "La prise de décision",
+      "explication": "Cette zone est impliquée dans les fonctions cognitives supérieures."
+    },
+    {
+      "question": "Le système limbique joue un rôle clé dans :",
+      "options": ["Les émotions", "La digestion", "La respiration", "La vision"],
+      "reponse": "Les émotions",
+      "explication": "Le système limbique régule les réponses émotionnelles."
+    },
+    {
+      "question": "La plasticité cérébrale désigne :",
+      "options": ["La capacité du cerveau à se modifier", "La rigidité des neurones", "La mort cellulaire", "L’inflammation du cerveau"],
+      "reponse": "La capacité du cerveau à se modifier",
+      "explication": "Elle permet l’apprentissage et la récupération après une lésion."
+    },
+    {
+      "question": "La mémoire à court terme est principalement localisée dans :",
+      "options": ["Le cortex préfrontal", "Le cervelet", "Le tronc cérébral", "Le bulbe rachidien"],
+      "reponse": "Le cortex préfrontal",
+      "explication": "Le cortex préfrontal retient temporairement l’information."
+    },
+    {
+      "question": "La dopamine est un neurotransmetteur impliqué dans :",
+      "options": ["La motivation et le plaisir", "La douleur", "La respiration", "La vision"],
+      "reponse": "La motivation et le plaisir",
+      "explication": "Elle joue un rôle majeur dans les circuits de récompense."
+    },
+    {
+      "question": "Le thalamus agit comme :",
+      "options": ["Un relais sensoriel vers le cortex", "Un centre moteur", "Une glande endocrine", "Un os du crâne"],
+      "reponse": "Un relais sensoriel vers le cortex",
+      "explication": "Il transmet les informations sensorielles au cerveau."
+    },
+    {
+      "question": "Le comportement réflexe est contrôlé par :",
+      "options": ["La moelle épinière", "Le cortex cérébral", "L’hippocampe", "Le cervelet"],
+      "reponse": "La moelle épinière",
+      "explication": "Les réflexes sont des réponses automatiques sans passage par le cerveau."
+    },
+    {
+      "question": "Le système nerveux autonome régule :",
+      "options": ["Les fonctions involontaires", "Les mouvements volontaires", "La pensée", "Le langage"],
+      "reponse": "Les fonctions involontaires",
+      "explication": "Il contrôle la respiration, le rythme cardiaque, la digestion, etc."
+    },
+    {
+      "question": "L’hippocampe est essentiel pour :",
+      "options": ["La formation de la mémoire à long terme", "La vision", "La régulation hormonale", "Le mouvement"],
+      "reponse": "La formation de la mémoire à long terme",
+      "explication": "Il joue un rôle clé dans l’apprentissage et la mémoire."
+    },
+    {
+      "question": "La substance blanche du cerveau est composée principalement de :",
+      "options": ["Axones myélinisés", "Corps cellulaires", "Dendrites", "Cellules gliales uniquement"],
+      "reponse": "Axones myélinisés",
+      "explication": "Elle contient les fibres nerveuses assurant la communication entre régions."
+    },
+    {
+      "question": "L’aire de Broca est impliquée dans :",
+      "options": ["La production du langage", "La compréhension du langage", "La mémoire", "La vision"],
+      "reponse": "La production du langage",
+      "explication": "Cette aire est essentielle pour l’expression orale."
+    },
+    {
+      "question": "L’aire de Wernicke est responsable de :",
+      "options": ["La compréhension du langage", "La motricité fine", "La vision", "Le contrôle du rythme cardiaque"],
+      "reponse": "La compréhension du langage",
+      "explication": "Elle permet la compréhension des mots et des phrases."
+    },
+    {
+      "question": "Le cortex moteur contrôle :",
+      "options": ["Les mouvements volontaires", "Les émotions", "La mémoire", "La respiration"],
+      "reponse": "Les mouvements volontaires",
+      "explication": "Il initie les commandes motrices pour le corps."
+    },
+    {
+      "question": "Le système nerveux central est composé de :",
+      "options": ["Cerveau et moelle épinière", "Nerfs périphériques", "Muscles et tendons", "Peau"],
+      "reponse": "Cerveau et moelle épinière",
+      "explication": "Il intègre et traite l’information nerveuse."
+    },
+    {
+      "question": "Le réflexe myotatique (réflexe d’étirement) est un exemple de :",
+      "options": ["Réflexe monosynaptique", "Réflexe polysynaptique", "Réflexe conditionné", "Réflexe volontaire"],
+      "reponse": "Réflexe monosynaptique",
+      "explication": "Il implique une seule synapse entre neurone sensitif et moteur."
+    },
+    {
+      "question": "Le cortex somesthésique est associé à :",
+      "options": ["La perception tactile", "La vision", "La mémoire", "La régulation hormonale"],
+      "reponse": "La perception tactile",
+      "explication": "Il traite les informations sensorielles du toucher."
+    },
+    {
+      "question": "L’axone d’un neurone est recouvert d’une gaine de myéline qui :",
+      "options": ["Accélère la conduction nerveuse", "Produit des neurotransmetteurs", "Stocke le calcium", "Génère le potentiel d’action"],
+      "reponse": "Accélère la conduction nerveuse",
+      "explication": "La myéline permet une transmission rapide du signal."
+    },
+    {
+      "question": "Une lésion de l’hippocampe entraîne principalement :",
+      "options": ["Des troubles de la mémoire", "Des paralysies", "Une perte de la vue", "Des troubles de l’équilibre"],
+      "reponse": "Des troubles de la mémoire",
+      "explication": "L’hippocampe est crucial pour la mémorisation."
+    },
+    {
+      "question": "Le comportement adaptatif est rendu possible grâce à :",
+      "options": ["La plasticité cérébrale", "Les réflexes", "La moelle épinière", "La myéline"],
+      "reponse": "La plasticité cérébrale",
+      "explication": "Elle permet l’apprentissage et l’ajustement des comportements."
+    },
+    {
+      "question": "Les neurotransmetteurs permettent de :",
+      "options": ["Transmettre le signal entre neurones", "Générer des impulsions électriques", "Stocker de l’énergie", "Synthétiser des protéines"],
+      "reponse": "Transmettre le signal entre neurones",
+      "explication": "Ils assurent la communication chimique dans le cerveau."
+    },
+    {
+      "question": "La douleur est perçue grâce à :",
+      "options": ["Les nocicepteurs", "Les photorécepteurs", "Les chémorécepteurs", "Les mécanorécepteurs"],
+      "reponse": "Les nocicepteurs",
+      "explication": "Ces récepteurs détectent les stimuli douloureux."
+    },
+    {
+      "question": "Le système nerveux parasympathique est impliqué dans :",
+      "options": ["Le repos et la digestion", "L’action et le stress", "La mémoire", "La vision"],
+      "reponse": "Le repos et la digestion",
+      "explication": "Il favorise les fonctions de relaxation et d’entretien."
+    },
+    {
+      "question": "L’insula est une région cérébrale associée à :",
+      "options": ["La conscience de soi et les émotions", "La motricité", "La vision", "L’audition"],
+      "reponse": "La conscience de soi et les émotions",
+      "explication": "Elle intègre les sensations corporelles et émotionnelles."
+    },
+    {
+      "question": "Le cerveau droit est souvent associé à :",
+      "options": ["La créativité et les émotions", "Le langage", "La logique mathématique", "La motricité fine de la main droite"],
+      "reponse": "La créativité et les émotions",
+      "explication": "Il traite des fonctions intuitives et artistiques."
+    },
+    {
+      "question": "La moelle épinière transmet :",
+      "options": ["Les messages entre le cerveau et le corps", "L’oxygène", "Le sang", "Les hormones"],
+      "reponse": "Les messages entre le cerveau et le corps",
+      "explication": "Elle est le principal canal de communication nerveuse."
+    },
+    {
+      "question": "Les cellules gliales ont pour fonction :",
+      "options": ["Soutenir et protéger les neurones", "Produire des impulsions nerveuses", "Conduire les signaux", "Synthétiser des neurotransmetteurs"],
+      "reponse": "Soutenir et protéger les neurones",
+      "explication": "Elles assurent le maintien et la nutrition des neurones."
+    },
+    {
+      "question": "Le réflexe conditionné est un exemple de :",
+      "options": ["Apprentissage associatif", "Réflexe inné", "Réflexe spinal", "Réflexe volontaire"],
+      "reponse": "Apprentissage associatif",
+      "explication": "Il résulte d’une association entre stimulus neutre et réflexe."
+    },
+    {
+      "question": "Le cerveau contrôle la plupart des fonctions du corps via :",
+      "options": ["Le système nerveux", "Le système digestif", "Le système respiratoire", "Le système immunitaire"],
+      "reponse": "Le système nerveux",
+      "explication": "Il coordonne les actions par des signaux électriques et chimiques."
+    },
+    {
+      "question": "Si une lésion affecte le cervelet, on s’attend à :",
+      "options": ["Des troubles de l’équilibre et de la coordination", "Une perte de mémoire", "Une paralysie complète", "Une perte de la vue"],
+      "reponse": "Des troubles de l’équilibre et de la coordination",
+      "explication": "Le cervelet est essentiel pour coordonner les mouvements et maintenir l’équilibre."
+    },
+    {
+      "question": "Lors d’un réflexe monosynaptique, le signal nerveux passe par :",
+      "options": ["Une seule synapse entre neurone sensitif et moteur", "Plusieurs synapses", "Aucune synapse", "Une synapse et un muscle"],
+      "reponse": "Une seule synapse entre neurone sensitif et moteur",
+      "explication": "C’est la caractéristique principale des réflexes monosynaptiques."
+    },
+    {
+      "question": "Une stimulation excessive des neurones dopaminergiques peut conduire à :",
+      "options": ["Des troubles psychotiques", "Une paralysie", "Une perte de mémoire", "Une insensibilité à la douleur"],
+      "reponse": "Des troubles psychotiques",
+      "explication": "Un excès de dopamine est lié à certaines maladies mentales comme la schizophrénie."
+    },
+    {
+      "question": "Lorsqu’une personne apprend une nouvelle compétence, la plasticité cérébrale :",
+      "options": ["Renforce certaines connexions synaptiques", "Détruit les neurones", "Réduit la taille du cerveau", "Bloque les signaux électriques"],
+      "reponse": "Renforce certaines connexions synaptiques",
+      "explication": "La plasticité permet la modification des circuits neuronaux lors de l’apprentissage."
+    },
+    {
+      "question": "Le cortex moteur gauche contrôle principalement :",
+      "options": ["La motricité volontaire du côté droit", "La motricité volontaire du côté gauche", "La vision", "La mémoire"],
+      "reponse": "La motricité volontaire du côté droit",
+      "explication": "Le contrôle moteur est croisé entre hémisphères cérébraux et côtés du corps."
+    },
+    {
+      "question": "Une lésion de l’aire de Broca entraîne :",
+      "options": ["Une difficulté à parler", "Une perte de la mémoire", "Une cécité", "Une perte de l’équilibre"],
+      "reponse": "Une difficulté à parler",
+      "explication": "L’aire de Broca est responsable de la production du langage."
+    },
+    {
+      "question": "L’aire de Wernicke affectée provoque :",
+      "options": ["Une incompréhension du langage", "Une paralysie", "Une perte du goût", "Une surdité"],
+      "reponse": "Une incompréhension du langage",
+      "explication": "Cette aire permet la compréhension orale et écrite."
+    },
+    {
+      "question": "Quel neurotransmetteur est principalement impliqué dans la douleur ?",
+      "options": ["La substance P", "La dopamine", "La sérotonine", "L’acétylcholine"],
+      "reponse": "La substance P",
+      "explication": "Elle transmet les signaux de douleur dans le système nerveux."
+    },
+    {
+      "question": "Une lésion du système limbique peut provoquer :",
+      "options": ["Des troubles émotionnels", "Une paralysie", "Une perte de la vue", "Une augmentation de la mémoire"],
+      "reponse": "Des troubles émotionnels",
+      "explication": "Le système limbique régule les émotions et la motivation."
+    },
+    {
+      "question": "Le réflexe conditionné implique :",
+      "options": ["Un apprentissage associatif entre deux stimuli", "Une réponse automatique innée", "Une réaction musculaire volontaire", "Une réponse au stress uniquement"],
+      "reponse": "Un apprentissage associatif entre deux stimuli",
+      "explication": "C’est un mécanisme d’apprentissage de type Pavlovien."
+    },
+    {
+      "question": "La myéline autour des axones permet :",
+      "options": ["D’augmenter la vitesse de conduction du signal", "De stocker les neurotransmetteurs", "De produire des hormones", "D’initier le potentiel d’action"],
+      "reponse": "D’augmenter la vitesse de conduction du signal",
+      "explication": "La gaine de myéline isole et accélère la transmission électrique."
+    },
+    {
+      "question": "La mémoire à long terme est majoritairement associée à :",
+      "options": ["L’hippocampe et le cortex", "Le cervelet", "La moelle épinière", "Le tronc cérébral"],
+      "reponse": "L’hippocampe et le cortex",
+      "explication": "Ces régions participent à la consolidation et au stockage des souvenirs."
+    },
+    {
+      "question": "Le potentiel d’action correspond à :",
+      "options": ["Une dépolarisation rapide de la membrane neuronale", "Une contraction musculaire", "Une sécrétion hormonale", "Une réponse immunitaire"],
+      "reponse": "Une dépolarisation rapide de la membrane neuronale",
+      "explication": "C’est le signal électrique qui se propage le long de l’axone."
+    },
+    {
+      "question": "La synapse est :",
+      "options": ["Le point de communication entre deux neurones", "Un organe sensoriel", "Un type de cellule gliale", "Une région du cerveau"],
+      "reponse": "Le point de communication entre deux neurones",
+      "explication": "Elle permet la transmission chimique ou électrique du signal."
+    },
+    {
+      "question": "Le système nerveux autonome sympathique provoque :",
+      "options": ["Une accélération du rythme cardiaque", "Une diminution de la pression artérielle", "La digestion", "Le repos"],
+      "reponse": "Une accélération du rythme cardiaque",
+      "explication": "Il prépare le corps à l’action (réaction de fuite ou combat)."
+    },
+    {
+      "question": "Une lésion du cortex somesthésique provoque :",
+      "options": ["Une perte de sensation tactile", "Une perte de la vue", "Une perte de la parole", "Une paralysie"],
+      "reponse": "Une perte de sensation tactile",
+      "explication": "Le cortex somesthésique traite les sensations corporelles."
+    },
+    {
+      "question": "Le réflexe d’étirement est un exemple de :",
+      "options": ["Réflexe monosynaptique", "Réflexe conditionné", "Réflexe volontaire", "Réflexe polysynaptique"],
+      "reponse": "Réflexe monosynaptique",
+      "explication": "Il n’implique qu’une seule synapse entre neurones sensoriel et moteur."
+    },
+    {
+      "question": "La substance grise est composée principalement de :",
+      "options": ["Corps cellulaires de neurones", "Axones myélinisés", "Cellules gliales uniquement", "Liquide cérébrospinal"],
+      "reponse": "Corps cellulaires de neurones",
+      "explication": "Elle contient les soma des neurones et les synapses."
+    },
+    {
+      "question": "Le tronc cérébral contrôle :",
+      "options": ["Les fonctions vitales automatiques", "La mémoire", "La motricité fine", "Les émotions"],
+      "reponse": "Les fonctions vitales automatiques",
+      "explication": "Il régule la respiration, le rythme cardiaque et la pression artérielle."
+    }
+  ]
+}

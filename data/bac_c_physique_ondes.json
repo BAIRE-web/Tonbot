@@ -1,0 +1,256 @@
+{
+  "qcm": [
+    {
+      "question": "Une onde progressive transporte :",
+      "options": ["De l’énergie", "De la matière", "De l’énergie et de la matière", "Uniquement des particules"],
+      "reponse": "De l’énergie",
+      "explication": "Une onde transporte de l'énergie sans déplacer de matière."
+    },
+    {
+      "question": "La vitesse de propagation d’une onde dépend de :",
+      "options": ["Le milieu", "L'amplitude de l'onde", "La longueur d’onde", "La fréquence"],
+      "reponse": "Le milieu",
+      "explication": "La vitesse de propagation est déterminée par les propriétés du milieu de propagation."
+    },
+    {
+      "question": "Une onde sonore est une onde :",
+      "options": ["Mécanique et longitudinale", "Electromagnétique", "Transversale", "Mécanique et transversale"],
+      "reponse": "Mécanique et longitudinale",
+      "explication": "L'onde sonore est une onde mécanique où les oscillations des particules sont dans la direction de la propagation."
+    },
+    {
+      "question": "La vitesse de propagation d’une onde sonore dans l’air dépend de :",
+      "options": ["La température", "La couleur", "La longueur d'onde", "L'amplitude"],
+      "reponse": "La température",
+      "explication": "La vitesse de propagation de l’onde sonore varie avec la température de l’air."
+    },
+    {
+      "question": "Dans une onde sonore, la compression correspond à :",
+      "options": ["Une zone de haute pression", "Une zone de basse pression", "Une zone de vide", "Une oscillation nulle"],
+      "reponse": "Une zone de haute pression",
+      "explication": "Dans une onde sonore, la compression est la zone où les particules du milieu sont plus proches les unes des autres."
+    },
+    {
+      "question": "La diffraction est un phénomène qui survient lorsque :",
+      "options": ["Une onde rencontre un obstacle ou une ouverture", "Deux ondes se superposent", "Une onde change de milieu", "L'amplitude varie"],
+      "reponse": "Une onde rencontre un obstacle ou une ouverture",
+      "explication": "La diffraction est le phénomène de courbure de l'onde autour d'un obstacle ou dans une ouverture."
+    },
+    {
+      "question": "Une onde transversale est caractérisée par :",
+      "options": ["Les oscillations perpendiculaires à la direction de propagation", "Les oscillations parallèles à la direction de propagation", "Une variation continue de l’amplitude", "La propagation de particules solides"],
+      "reponse": "Les oscillations perpendiculaires à la direction de propagation",
+      "explication": "Dans une onde transversale, les oscillations des particules sont perpendiculaires à la direction de propagation de l'onde."
+    },
+    {
+      "question": "La fréquence d’une onde sonore correspond à :",
+      "options": ["Le nombre de compressions et raréfactions par seconde", "La vitesse de propagation", "La longueur d'onde", "L'amplitude de l'onde"],
+      "reponse": "Le nombre de compressions et raréfactions par seconde",
+      "explication": "La fréquence mesure combien de fois par seconde une compression ou raréfaction se produit."
+    },
+    {
+      "question": "Une onde sonore se propage mieux dans :",
+      "options": ["Les solides", "Les gaz", "Le vide", "L'eau"],
+      "reponse": "Les solides",
+      "explication": "Les ondes sonores se propagent plus rapidement dans les solides, car les particules sont plus rapprochées."
+    },
+    {
+      "question": "Les interférences constructives se produisent lorsque :",
+      "options": ["Les crêtes des ondes se superposent", "Les ondes sont totalement déphasées", "Les ondes ont la même amplitude", "Les ondes se réfractent"],
+      "reponse": "Les crêtes des ondes se superposent",
+      "explication": "Dans les interférences constructives, les crêtes des ondes coïncident et s'amplifient."
+    },
+    {
+      "question": "La diffraction d'une onde lumineuse augmente lorsque :",
+      "options": ["L'ouverture augmente", "La fréquence de l'onde augmente", "La longueur d'onde diminue", "L'obstacle devient plus grand"],
+      "reponse": "L'ouverture augmente",
+      "explication": "Plus l'ouverture est grande par rapport à la longueur d'onde, plus l'onde se diffracte."
+    },
+    {
+      "question": "La période d'une onde est l'inverse de :",
+      "options": ["La fréquence", "La vitesse de propagation", "L'amplitude", "La longueur d'onde"],
+      "reponse": "La fréquence",
+      "explication": "La période T est l'inverse de la fréquence f : T = 1/f."
+    },
+    {
+      "question": "La vitesse de propagation d'une onde sonore dans l’air à 20°C est environ :",
+      "options": ["343 m/s", "300 m/s", "1000 m/s", "1500 m/s"],
+      "reponse": "343 m/s",
+      "explication": "La vitesse de propagation du son dans l'air à température ambiante est environ 343 m/s."
+    },
+    {
+      "question": "Le phénomène de diffraction dépend principalement de :",
+      "options": ["La longueur d'onde et de l'ouverture", "La fréquence", "L'amplitude", "La température"],
+      "reponse": "La longueur d'onde et de l'ouverture",
+      "explication": "La diffraction est plus importante lorsque la longueur d'onde est proche de l'ouverture."
+    },
+    {
+      "question": "Les interférences destructives se produisent lorsque :",
+      "options": ["Les crêtes d’une onde coïncident avec les creux de l’autre", "Les ondes ont des fréquences différentes", "Les ondes sont en phase", "Les amplitudes sont égales"],
+      "reponse": "Les crêtes d’une onde coïncident avec les creux de l’autre",
+      "explication": "Les interférences destructives résultent de l'annulation des ondes opposées."
+    },
+    {
+      "question": "La diffraction des ondes mécaniques dépend principalement de :",
+      "options": ["La taille de l'obstacle", "La fréquence des ondes", "Le milieu de propagation", "La longueur d'onde"],
+      "reponse": "La longueur d'onde",
+      "explication": "La diffraction est plus prononcée lorsque la longueur d'onde est comparable à la taille de l’obstacle."
+    },
+    {
+      "question": "Dans une onde sonore, la vitesse de propagation dépend de :",
+      "options": ["La température du milieu", "L'intensité sonore", "La fréquence", "La longueur d'onde"],
+      "reponse": "La température du milieu",
+      "explication": "La température affecte la vitesse de propagation du son dans un milieu."
+    },
+    {
+      "question": "Une onde mécanique est caractérisée par :",
+      "options": ["Un transport d'énergie sans transport de matière", "Un transport de matière", "La propagation d'un champ électrique", "La variation de la température"],
+      "reponse": "Un transport d'énergie sans transport de matière",
+      "explication": "Une onde mécanique transporte de l'énergie sans déplacer de manière permanente la matière."
+    },
+    {
+      "question": "Dans une onde sonore, la rarefaction correspond à :",
+      "options": ["Une zone de faible pression", "Une zone de haute pression", "Une oscillation nulle", "Une oscillation inverse"],
+      "reponse": "Une zone de faible pression",
+      "explication": "La rarefaction est la zone où les particules sont espacées et la pression est faible."
+    },
+    {
+      "question": "Le phénomène d'interférence se produit uniquement si :",
+      "options": ["Les deux ondes sont cohérentes", "Les ondes ont la même fréquence", "Les ondes ont une amplitude identique", "Les ondes sont réfléchies"],
+      "reponse": "Les deux ondes sont cohérentes",
+      "explication": "Pour que l’interférence ait lieu, les ondes doivent être cohérentes et avoir des fréquences constantes."
+    },
+    {
+      "question": "La vitesse de propagation des ondes dans un milieu dépend de :",
+      "options": ["Les propriétés mécaniques du milieu", "La couleur de l'onde", "La fréquence de l'onde", "La taille de l'obstacle"],
+      "reponse": "Les propriétés mécaniques du milieu",
+      "explication": "La vitesse de propagation des ondes dépend des caractéristiques physiques du milieu (densité, élasticité)."
+    },
+    {
+      "question": "Un son produit par une onde sonore de fréquence 20 Hz aura une longueur d'onde :",
+      "options": ["Longue", "Courte", "Variable", "Nulle"],
+      "reponse": "Longue",
+      "explication": "Les ondes de basse fréquence (20 Hz) ont des longueurs d'onde plus longues."
+    },
+    {
+      "question": "Une onde sonore se propage dans l'air à 340 m/s avec une fréquence de 680 Hz. Quelle est sa longueur d’onde ?",
+      "options": ["0,5 m", "2 m", "0,2 m", "1 m"],
+      "reponse": "0,5 m",
+      "explication": "λ = v / f = 340 / 680 = 0,5 m."
+    },
+    {
+      "question": "Un sismographe détecte une onde qui parcourt 100 km en 25 s. Quelle est la vitesse de propagation ?",
+      "options": ["4000 m/s", "2500 m/s", "100 m/s", "5000 m/s"],
+      "reponse": "4000 m/s",
+      "explication": "v = d / t = 100000 / 25 = 4000 m/s."
+    },
+    {
+      "question": "Une onde de fréquence 500 Hz se propage à 250 m/s. Sa longueur d’onde est :",
+      "options": ["0,5 m", "2 m", "0,25 m", "1 m"],
+      "reponse": "0,5 m",
+      "explication": "λ = v / f = 250 / 500 = 0,5 m."
+    },
+    {
+      "question": "Un sonar émet une onde qui revient après 4 s. La vitesse du son dans l’eau est de 1500 m/s. Quelle est la distance au fond ?",
+      "options": ["3000 m", "6000 m", "750 m", "1500 m"],
+      "reponse": "3000 m",
+      "explication": "Aller-retour : d = (1500 × 4) / 2 = 3000 m."
+    },
+    {
+      "question": "Deux ondes de même fréquence arrivent en phase au même point. Que se passe-t-il ?",
+      "options": ["Interférence constructive", "Interférence destructive", "Diffraction", "Réflexion"],
+      "reponse": "Interférence constructive",
+      "explication": "Si les ondes sont en phase, elles s’ajoutent : interférence constructive."
+    },
+    {
+      "question": "Une onde met 0,2 s pour parcourir 100 m. Quelle est sa vitesse ?",
+      "options": ["500 m/s", "200 m/s", "20 m/s", "2 m/s"],
+      "reponse": "500 m/s",
+      "explication": "v = d / t = 100 / 0,2 = 500 m/s."
+    },
+    {
+      "question": "Un haut-parleur émet un son de fréquence 440 Hz. Quelle est sa période ?",
+      "options": ["0,0023 s", "2,3 s", "0,044 s", "0,0044 s"],
+      "reponse": "0,0023 s",
+      "explication": "T = 1 / f = 1 / 440 ≈ 0,0023 s."
+    },
+    {
+      "question": "Une onde mécanique se propage à 120 m/s et a une longueur d’onde de 3 m. Quelle est sa fréquence ?",
+      "options": ["40 Hz", "360 Hz", "0,025 Hz", "60 Hz"],
+      "reponse": "40 Hz",
+      "explication": "f = v / λ = 120 / 3 = 40 Hz."
+    },
+    {
+      "question": "Une onde de 1000 Hz se propage à 340 m/s. Quelle distance sépare deux crêtes ?",
+      "options": ["0,34 m", "3,4 m", "0,0034 m", "34 m"],
+      "reponse": "0,34 m",
+      "explication": "λ = v / f = 340 / 1000 = 0,34 m."
+    },
+    {
+      "question": "Le son met 0,5 s pour aller d’un haut-parleur à un mur distant de 85 m. Quelle est sa vitesse ?",
+      "options": ["170 m/s", "340 m/s", "42,5 m/s", "85 m/s"],
+      "reponse": "170 m/s",
+      "explication": "v = d / t = 85 / 0,5 = 170 m/s."
+    },
+    {
+      "question": "Lors d’un orage, on voit l’éclair et entend le tonnerre 5 s plus tard. Quelle est la distance de l’orage ? (v = 340 m/s)",
+      "options": ["1700 m", "340 m", "680 m", "850 m"],
+      "reponse": "1700 m",
+      "explication": "d = v × t = 340 × 5 = 1700 m."
+    },
+    {
+      "question": "Une onde sinusoïdale a une fréquence de 250 Hz et une période de :",
+      "options": ["0,004 s", "4 s", "0,25 s", "0,0025 s"],
+      "reponse": "0,004 s",
+      "explication": "T = 1 / f = 1 / 250 = 0,004 s."
+    },
+    {
+      "question": "Une onde mécanique met 0,01 s pour parcourir 4 m. Sa vitesse est :",
+      "options": ["400 m/s", "40 m/s", "0,25 m/s", "4 m/s"],
+      "reponse": "400 m/s",
+      "explication": "v = d / t = 4 / 0,01 = 400 m/s."
+    },
+    {
+      "question": "Une onde de 600 Hz a une longueur d’onde de 0,5 m. Sa vitesse est :",
+      "options": ["300 m/s", "1200 m/s", "0,0012 m/s", "3 m/s"],
+      "reponse": "300 m/s",
+      "explication": "v = f × λ = 600 × 0,5 = 300 m/s."
+    },
+    {
+      "question": "Une onde a une vitesse de 1000 m/s et une fréquence de 100 Hz. Sa longueur d’onde est :",
+      "options": ["10 m", "10000 m", "1 m", "100 m"],
+      "reponse": "10 m",
+      "explication": "λ = v / f = 1000 / 100 = 10 m."
+    },
+    {
+      "question": "Un signal acoustique met 0,1 s à faire un aller-retour. Distance totale 34 m. Quelle est la vitesse ?",
+      "options": ["340 m/s", "68 m/s", "170 m/s", "34 m/s"],
+      "reponse": "340 m/s",
+      "explication": "v = d / t = 34 / 0,1 = 340 m/s."
+    },
+    {
+      "question": "Une onde a une longueur d’onde de 2 m et une fréquence de 50 Hz. Quelle est sa vitesse ?",
+      "options": ["100 m/s", "25 m/s", "1 m/s", "0,04 m/s"],
+      "reponse": "100 m/s",
+      "explication": "v = f × λ = 50 × 2 = 100 m/s."
+    },
+    {
+      "question": "Une onde mécanique de fréquence 250 Hz se propage à 500 m/s. Quelle est sa longueur d’onde ?",
+      "options": ["2 m", "0,5 m", "5 m", "1 m"],
+      "reponse": "2 m",
+      "explication": "λ = v / f = 500 / 250 = 2 m."
+    },
+    {
+      "question": "Une onde sonore de 440 Hz a une vitesse de 330 m/s. Sa longueur d’onde est :",
+      "options": ["0,75 m", "1,2 m", "0,5 m", "2 m"],
+      "reponse": "0,75 m",
+      "explication": "λ = v / f = 330 / 440 ≈ 0,75 m."
+    },
+    {
+      "question": "Une onde a une période de 0,01 s et se propage à 340 m/s. Quelle est sa longueur d’onde ?",
+      "options": ["3,4 m", "0,034 m", "34 m", "1 m"],
+      "reponse": "3,4 m",
+      "explication": "λ = v × T = 340 × 0,01 = 3,4 m."
+    }
+  ]
+}

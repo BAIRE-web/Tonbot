@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "La loi des nœuds de Kirchhoff affirme que :",
+      "options": ["ΣIᵉⁿᵗʳᵃⁿᵗₑ = ΣIₛₒᵣₜₐₙₜₑ", "U = RI", "ΣU = 0", "I = P/U"],
+      "reponse": "ΣIᵉⁿᵗʳᵃⁿᵗₑ = ΣIₛₒᵣₜₐₙₜₑ",
+      "explication": "La somme des courants entrant dans un nœud est égale à celle des courants sortants."
+    },
+    {
+      "question": "La loi des mailles de Kirchhoff stipule que :",
+      "options": ["ΣU = 0", "I = U/R", "R = ρL/S", "P = UI"],
+      "reponse": "ΣU = 0",
+      "explication": "Dans toute boucle fermée, la somme algébrique des tensions est nulle."
+    },
+    {
+      "question": "L’unité de la résistance électrique est :",
+      "options": ["Ohm (Ω)", "Volt (V)", "Ampère (A)", "Watt (W)"],
+      "reponse": "Ohm (Ω)",
+      "explication": "La résistance se mesure en ohms (symbole : Ω)."
+    },
+    {
+      "question": "La loi d’Ohm relie les grandeurs suivantes :",
+      "options": ["U, I, R", "P, R, t", "E, Q, R", "V, F, t"],
+      "reponse": "U, I, R",
+      "explication": "La loi d’Ohm s’écrit : U = R × I"
+    },
+    {
+      "question": "L’unité de la tension est :",
+      "options": ["Volt (V)", "Ohm (Ω)", "Watt (W)", "Coulomb (C)"],
+      "reponse": "Volt (V)",
+      "explication": "La tension électrique se mesure en volts."
+    },
+    {
+      "question": "Dans une résistance, si U = 10 V et R = 2 Ω, alors I = ?",
+      "options": ["5 A", "2 A", "0.2 A", "20 A"],
+      "reponse": "5 A",
+      "explication": "I = U / R = 10 / 2 = 5 A"
+    },
+    {
+      "question": "En série, la résistance équivalente est :",
+      "options": ["Rₑ = R₁ + R₂ + R₃", "Rₑ⁻¹ = R₁⁻¹ + R₂⁻¹", "Rₑ = R₁×R₂", "Rₑ = R₁ − R₂"],
+      "reponse": "Rₑ = R₁ + R₂ + R₃",
+      "explication": "Dans un montage en série, les résistances s’additionnent."
+    },
+    {
+      "question": "En parallèle, la résistance équivalente obéit à :",
+      "options": ["1/Rₑ = 1/R₁ + 1/R₂ + ...", "Rₑ = R₁ + R₂", "Rₑ = R₁ − R₂", "Rₑ = R₁ × R₂"],
+      "reponse": "1/Rₑ = 1/R₁ + 1/R₂ + ...",
+      "explication": "Dans un circuit parallèle, les inverses des résistances s’additionnent."
+    },
+    {
+      "question": "La puissance électrique est donnée par :",
+      "options": ["P = U × I", "P = I/R", "P = R/U", "P = U²R"],
+      "reponse": "P = U × I",
+      "explication": "C’est la formule fondamentale de la puissance électrique."
+    },
+    {
+      "question": "L’énergie électrique consommée est :",
+      "options": ["E = P × t", "E = I/R", "E = U − R", "E = P/t"],
+      "reponse": "E = P × t",
+      "explication": "L’énergie est la puissance multipliée par le temps (en joules ou kWh)."
+    },
+    {
+      "question": "Si une résistance de 10 Ω est traversée par 2 A, la tension est :",
+      "options": ["20 V", "5 V", "12 V", "0.2 V"],
+      "reponse": "20 V",
+      "explication": "U = R × I = 10 × 2 = 20 V"
+    },
+    {
+      "question": "Une ampoule consomme 60 W sous 220 V. Le courant est :",
+      "options": ["0.27 A", "3 A", "1.2 A", "0.5 A"],
+      "reponse": "0.27 A",
+      "explication": "I = P / U = 60 / 220 ≈ 0.27 A"
+    },
+    {
+      "question": "Le courant dans un circuit série est :",
+      "options": ["Le même partout", "Différent à chaque résistance", "Nul", "Inversé"],
+      "reponse": "Le même partout",
+      "explication": "En série, le courant est identique dans tous les composants."
+    },
+    {
+      "question": "Dans un circuit en dérivation (parallèle), la tension est :",
+      "options": ["La même pour chaque branche", "Divisée selon R", "Nulle", "Inconnue"],
+      "reponse": "La même pour chaque branche",
+      "explication": "En parallèle, la tension aux bornes de chaque branche est identique."
+    },
+    {
+      "question": "La formule P = R × I² est utilisée quand on connaît :",
+      "options": ["R et I", "U et I", "U et R", "U et t"],
+      "reponse": "R et I",
+      "explication": "C’est une des formes alternatives de la puissance électrique."
+    },
+    {
+      "question": "Un circuit a R = 5 Ω et I = 3 A. La puissance dissipée est :",
+      "options": ["45 W", "15 W", "60 W", "9 W"],
+      "reponse": "45 W",
+      "explication": "P = R × I² = 5 × 9 = 45 W"
+    },
+    {
+      "question": "Une résistance dissipe 100 W pendant 10 min. Énergie ?",
+      "options": ["60000 J", "1000 J", "10 kJ", "600 J"],
+      "reponse": "60000 J",
+      "explication": "E = P × t = 100 × 600 = 60000 J"
+    },
+    {
+      "question": "La formule E = U × I × t donne une énergie en :",
+      "options": ["Joules", "Watts", "Volts", "Ohms"],
+      "reponse": "Joules",
+      "explication": "U × I × t = P × t = énergie en joules (J)"
+    },
+    {
+      "question": "La puissance d’un fer électrique est de 1200 W. Temps = 2 h. Énergie consommée ?",
+      "options": ["2.4 kWh", "1200 J", "2400 J", "0.24 kWh"],
+      "reponse": "2.4 kWh",
+      "explication": "E = 1200 × 2 = 2400 Wh = 2.4 kWh"
+    },
+    {
+      "question": "Pour 1 kWh consommé, l’énergie équivaut à :",
+      "options": ["3.6×10⁶ J", "1000 J", "360 J", "36 J"],
+      "reponse": "3.6×10⁶ J",
+      "explication": "1 kWh = 1000 × 3600 = 3.6 millions de joules."
+    },
+    {
+      "question": "Dans un montage en série, si une résistance grille :",
+      "options": ["Le courant est interrompu", "Le reste fonctionne", "La tension augmente", "La puissance double"],
+      "reponse": "Le courant est interrompu",
+      "explication": "Une coupure dans une série coupe toute la circulation du courant."
+    },
+    {
+      "question": "Plus la résistance augmente :",
+      "options": ["Moins le courant circule", "Plus la tension baisse", "Plus la puissance augmente", "Plus l’intensité monte"],
+      "reponse": "Moins le courant circule",
+      "explication": "I = U/R → quand R ↑, alors I ↓"
+    },
+    {
+      "question": "Si on double la tension aux bornes d’une même résistance, alors :",
+      "options": ["Le courant double", "Le courant est divisé par deux", "La résistance double", "La puissance baisse"],
+      "reponse": "Le courant double",
+      "explication": "U = RI → I ∝ U quand R constante"
+    },
+    {
+      "question": "La résistance d’un conducteur dépend de :",
+      "options": ["Sa longueur et sa section", "Sa vitesse", "Sa masse", "Sa température seulement"],
+      "reponse": "Sa longueur et sa section",
+      "explication": "R = ρL/S : résistance proportionnelle à L et inversement à S"
+    },
+    {
+      "question": "Une résistance convertit l’énergie électrique en :",
+      "options": ["Chaleur", "Lumière", "Travail mécanique", "Champ magnétique"],
+      "reponse": "Chaleur",
+      "explication": "Elle dissipe l’énergie sous forme thermique (effet Joule)."
+    },
+    {
+      "question": "Un générateur fournit :",
+      "options": ["De l’énergie électrique", "Du courant continu uniquement", "De la résistance", "Des électrons fixes"],
+      "reponse": "De l’énergie électrique",
+      "explication": "Il convertit une autre forme d’énergie en énergie électrique."
+    },
+    {
+      "question": "Un voltmètre se branche :",
+      "options": ["En dérivation", "En série", "À la masse", "Avec une résistance nulle"],
+      "reponse": "En dérivation",
+      "explication": "Pour mesurer une tension, on se place aux bornes (parallèle)."
+    },
+    {
+      "question": "Un ampèremètre se branche :",
+      "options": ["En série", "En parallèle", "Sur la masse", "Sur le neutre"],
+      "reponse": "En série",
+      "explication": "Pour mesurer le courant, il doit être traversé par le courant du circuit."
+    },
+    {
+      "question": "Une résistance de 2 Ω laisse passer un courant de 3 A. Tension ?",
+      "options": ["6 V", "1.5 V", "0.67 V", "9 V"],
+      "reponse": "6 V",
+      "explication": "U = R × I = 2 × 3 = 6 V"
+    },
+    {
+      "question": "La tension dans un circuit ouvert est :",
+      "options": ["Non nulle", "Égale à zéro", "Variable", "Inférieure au courant"],
+      "reponse": "Non nulle",
+      "explication": "La tension peut être présente même si le courant ne circule pas."
+    },
+    {
+      "question": "Dans un circuit série, R₁ = 4 Ω et R₂ = 6 Ω. Quelle est la résistance équivalente ?",
+      "options": ["10 Ω", "2.4 Ω", "24 Ω", "0.6 Ω"],
+      "reponse": "10 Ω",
+      "explication": "Rₑ = R₁ + R₂ = 4 + 6 = 10 Ω"
+    },
+    {
+      "question": "Dans un circuit parallèle, R₁ = 4 Ω et R₂ = 6 Ω. Calculer Rₑ.",
+      "options": ["2.4 Ω", "10 Ω", "24 Ω", "5 Ω"],
+      "reponse": "2.4 Ω",
+      "explication": "1/Rₑ = 1/4 + 1/6 = 5/12 → Rₑ = 12/5 = 2.4 Ω"
+    },
+    {
+      "question": "Une lampe de 60 W fonctionne sous 220 V. Quelle est son intensité ?",
+      "options": ["0.27 A", "3.6 A", "13200 A", "1.5 A"],
+      "reponse": "0.27 A",
+      "explication": "I = P / U = 60 / 220 ≈ 0.27 A"
+    },
+    {
+      "question": "Une résistance de 10 Ω est traversée par 2 A. Quelle est la puissance dissipée ?",
+      "options": ["40 W", "20 W", "5 W", "200 W"],
+      "reponse": "40 W",
+      "explication": "P = R × I² = 10 × 4 = 40 W"
+    },
+    {
+      "question": "Une résistance de 5 Ω dissipe 45 W. Quelle est l’intensité ?",
+      "options": ["3 A", "2 A", "9 A", "0.5 A"],
+      "reponse": "3 A",
+      "explication": "P = R × I² → 45 = 5 × I² → I² = 9 → I = 3 A"
+    },
+    {
+      "question": "Une batterie alimente un circuit de 12 Ω avec 2 A. Quelle tension fournit-elle ?",
+      "options": ["24 V", "6 V", "12 V", "10 V"],
+      "reponse": "24 V",
+      "explication": "U = R × I = 12 × 2 = 24 V"
+    },
+    {
+      "question": "Un fer à repasser de 1000 W fonctionne pendant 30 minutes. Énergie consommée ?",
+      "options": ["1800000 J", "30000 J", "1800 J", "500000 J"],
+      "reponse": "1800000 J",
+      "explication": "E = P × t = 1000 × 1800 s = 1.8 × 10⁶ J"
+    },
+    {
+      "question": "Dans un nœud, I₁ = 3 A entre, I₂ = 2 A sort. Que vaut le courant manquant ?",
+      "options": ["1 A sortant", "5 A entrant", "6 A sortant", "1 A entrant"],
+      "reponse": "1 A sortant",
+      "explication": "3 A entrant = 2 A sortant + x → x = 1 A sortant"
+    },
+    {
+      "question": "Un générateur de 12 V alimente deux résistances en série : R₁ = 2 Ω et R₂ = 4 Ω. I = ?",
+      "options": ["2 A", "3 A", "4 A", "6 A"],
+      "reponse": "2 A",
+      "explication": "Rₑ = 6 Ω, I = U/R = 12/6 = 2 A"
+    },
+    {
+      "question": "Même question : quelle est la tension aux bornes de R₁ ?",
+      "options": ["4 V", "2 V", "8 V", "6 V"],
+      "reponse": "4 V",
+      "explication": "U₁ = R₁ × I = 2 × 2 = 4 V"
+    },
+    {
+      "question": "Un circuit parallèle comporte R₁ = 10 Ω et R₂ = 20 Ω. U = 12 V. I total ?",
+      "options": ["1.8 A", "0.6 A", "0.9 A", "2.4 A"],
+      "reponse": "1.8 A",
+      "explication": "I₁ = 1.2 A, I₂ = 0.6 A → I = 1.8 A"
+    },
+    {
+      "question": "Un moteur de 500 W fonctionne 2 heures. Énergie consommée ?",
+      "options": ["1 kWh", "0.5 kWh", "500 J", "1000 J"],
+      "reponse": "1 kWh",
+      "explication": "E = 500 × 2 = 1000 Wh = 1 kWh"
+    },
+    {
+      "question": "Un voltmètre indique 0 V entre deux points :",
+      "options": ["Ils sont au même potentiel", "Il y a court-circuit", "La résistance est infinie", "La tension est maximale"],
+      "reponse": "Ils sont au même potentiel",
+      "explication": "Tension nulle = même potentiel électrique."
+    },
+    {
+      "question": "Un fil de cuivre idéal a une résistance de :",
+      "options": ["0 Ω", "∞ Ω", "1 Ω", "100 Ω"],
+      "reponse": "0 Ω",
+      "explication": "Un conducteur parfait a R = 0"
+    },
+    {
+      "question": "Si la résistance double dans un circuit, à tension constante :",
+      "options": ["Le courant diminue de moitié", "Le courant double", "Le courant ne change pas", "La puissance augmente"],
+      "reponse": "Le courant diminue de moitié",
+      "explication": "I = U / R → R × 2 → I / 2"
+    },
+    {
+      "question": "Un grille-pain de 800 W fonctionne 15 min. Quelle énergie ?",
+      "options": ["720000 J", "800 J", "180000 J", "1500 J"],
+      "reponse": "720000 J",
+      "explication": "E = 800 × 900 = 720000 J"
+    },
+    {
+      "question": "Une résistance de 100 Ω est parcourue par 0.5 A. Quelle puissance ?",
+      "options": ["25 W", "50 W", "100 W", "12.5 W"],
+      "reponse": "25 W",
+      "explication": "P = R × I² = 100 × 0.25 = 25 W"
+    },
+    {
+      "question": "Un circuit consomme 2.4 kWh par jour. En joules, cela correspond à :",
+      "options": ["8.64 × 10⁶ J", "2400 J", "8640 J", "2.4 × 10³ J"],
+      "reponse": "8.64 × 10⁶ J",
+      "explication": "1 kWh = 3.6 × 10⁶ J → 2.4 kWh = 8.64 × 10⁶ J"
+    },
+    {
+      "question": "Dans une maille, ΣU = 0 car :",
+      "options": ["L’énergie se conserve", "Le courant est nul", "La tension est négative", "La résistance est nulle"],
+      "reponse": "L’énergie se conserve",
+      "explication": "Loi de Kirchhoff → conservation de l’énergie dans un circuit fermé."
+    },
+    {
+      "question": "Une batterie fournit 1.5 V et un courant de 0.1 A pendant 10 minutes. Énergie fournie ?",
+      "options": ["90 J", "15 J", "0.15 J", "1500 J"],
+      "reponse": "90 J",
+      "explication": "P = U × I = 0.15 W ; E = 0.15 × 600 = 90 J"
+    }
+  ]
+}

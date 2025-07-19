@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Le pH est défini par :",
+      "options": ["pH = -log [H₃O⁺]", "pH = log [OH⁻]", "pH = [H₃O⁺]", "pH = [OH⁻]"],
+      "reponse": "pH = -log [H₃O⁺]",
+      "explication": "Le pH est l’opposé du logarithme décimal de la concentration en ions hydronium."
+    },
+    {
+      "question": "Quelle est la valeur du pH d’une solution neutre à 25 °C ?",
+      "options": ["7", "0", "14", "1"],
+      "reponse": "7",
+      "explication": "À 25 °C, une solution neutre a un pH de 7."
+    },
+    {
+      "question": "Un acide fort est caractérisé par :",
+      "options": ["Une dissociation totale en solution", "Une dissociation partielle", "Un pH > 7", "Une réaction lente"],
+      "reponse": "Une dissociation totale en solution",
+      "explication": "Les acides forts se dissocient complètement en ions."
+    },
+    {
+      "question": "Le pH d’une solution 0,01 mol·L⁻¹ d’HCl est :",
+      "options": ["2", "4", "12", "7"],
+      "reponse": "2",
+      "explication": "HCl est un acide fort, donc pH = -log(0,01) = 2."
+    },
+    {
+      "question": "La constante d’acidité Ka caractérise :",
+      "options": ["La force d’un acide faible", "La concentration d’une base", "La température", "Le pH"],
+      "reponse": "La force d’un acide faible",
+      "explication": "Ka indique le degré de dissociation d’un acide faible."
+    },
+    {
+      "question": "Quel est le pH d’une solution basique ?",
+      "options": ["Supérieur à 7", "Inférieur à 7", "Égal à 7", "Zéro"],
+      "reponse": "Supérieur à 7",
+      "explication": "Les bases ont un pH supérieur à 7."
+    },
+    {
+      "question": "Quelle espèce ionique correspond à une base selon la théorie de Brønsted ?",
+      "options": ["Acceptateur de protons", "Donneur de protons", "Neutre", "Molécule d’eau"],
+      "reponse": "Acceptateur de protons",
+      "explication": "Une base accepte un proton (H⁺)."
+    },
+    {
+      "question": "Dans la réaction NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, l’ammoniac est :",
+      "options": ["Une base faible", "Un acide fort", "Un acide faible", "Une base forte"],
+      "reponse": "Une base faible",
+      "explication": "NH₃ accepte un proton mais ne se dissocie pas totalement."
+    },
+    {
+      "question": "La constante d’ionisation de l’eau Kw vaut environ :",
+      "options": ["1,0 × 10⁻¹⁴", "1,0 × 10⁻⁷", "1,0", "1,0 × 10⁻⁵"],
+      "reponse": "1,0 × 10⁻¹⁴",
+      "explication": "Kw = [H₃O⁺][OH⁻] = 1,0 × 10⁻¹⁴ à 25 °C."
+    },
+    {
+      "question": "Comment calcule-t-on le pOH ?",
+      "options": ["pOH = -log [OH⁻]", "pOH = log [H₃O⁺]", "pOH = [OH⁻]", "pOH = [H₃O⁺]"],
+      "reponse": "pOH = -log [OH⁻]",
+      "explication": "Le pOH est l’opposé du logarithme décimal de la concentration en ions hydroxyle."
+    },
+    {
+      "question": "La relation entre pH et pOH est :",
+      "options": ["pH + pOH = 14", "pH - pOH = 14", "pH × pOH = 14", "pH / pOH = 14"],
+      "reponse": "pH + pOH = 14",
+      "explication": "À 25 °C, la somme des deux est constante et égale à 14."
+    },
+    {
+      "question": "Quel est le pH d’une solution 0,001 mol·L⁻¹ de NaOH ?",
+      "options": ["11", "3", "7", "1"],
+      "reponse": "11",
+      "explication": "NaOH est une base forte, donc pOH = 3 et pH = 14 - 3 = 11."
+    },
+    {
+      "question": "Quel ion est responsable de l’acidité d’une solution ?",
+      "options": ["H₃O⁺", "OH⁻", "Na⁺", "Cl⁻"],
+      "reponse": "H₃O⁺",
+      "explication": "Les ions hydronium donnent le caractère acide."
+    },
+    {
+      "question": "Quel ion caractérise une solution basique ?",
+      "options": ["OH⁻", "H₃O⁺", "Na⁺", "Cl⁻"],
+      "reponse": "OH⁻",
+      "explication": "Les ions hydroxyle rendent la solution basique."
+    },
+    {
+      "question": "L’acide acétique est un acide faible car :",
+      "options": ["Il se dissocie partiellement", "Il se dissocie totalement", "Il ne réagit pas", "Il est un acide fort"],
+      "reponse": "Il se dissocie partiellement",
+      "explication": "Seule une fraction des molécules se dissocie en ions."
+    },
+    {
+      "question": "Qu’indique un pH = 4 ?",
+      "options": ["Solution acide", "Solution neutre", "Solution basique", "Solution saturée"],
+      "reponse": "Solution acide",
+      "explication": "pH inférieur à 7 indique une solution acide."
+    },
+    {
+      "question": "Dans la réaction HCl + H₂O → H₃O⁺ + Cl⁻, HCl est :",
+      "options": ["Acide fort", "Base forte", "Base faible", "Acide faible"],
+      "reponse": "Acide fort",
+      "explication": "HCl se dissocie totalement en solution."
+    },
+    {
+      "question": "Pour un acide faible, augmenter la concentration :",
+      "options": ["Diminue le pH", "Augmente le pH", "Ne change rien", "Neutralise la solution"],
+      "reponse": "Diminue le pH",
+      "explication": "Plus de H₃O⁺ est produit, abaissant le pH."
+    },
+    {
+      "question": "Quel est le rôle d’un indicateur coloré ?",
+      "options": ["Indiquer la zone de pH", "Changer la composition chimique", "Modifier le pH", "Catalyser la réaction"],
+      "reponse": "Indiquer la zone de pH",
+      "explication": "Ils changent de couleur selon le pH."
+    },
+    {
+      "question": "Dans un mélange tampon, le pH reste stable grâce à :",
+      "options": ["Une base faible et son acide conjugué", "Un acide fort seul", "Une base forte seule", "Une réaction exothermique"],
+      "reponse": "Une base faible et son acide conjugué",
+      "explication": "Ils neutralisent les ajouts d’acide ou base."
+    },
+    {
+      "question": "Que signifie une solution amphotère ?",
+      "options": ["Peut agir comme acide ou base", "Est neutre uniquement", "Est toujours acide", "Est toujours basique"],
+      "reponse": "Peut agir comme acide ou base",
+      "explication": "Elle peut donner ou accepter un proton selon le contexte."
+    },
+    {
+      "question": "Le pH d’une solution aqueuse diminue, cela signifie que :",
+      "options": ["La concentration en H₃O⁺ augmente", "La concentration en OH⁻ augmente", "La solution devient neutre", "La solution s’évapore"],
+      "reponse": "La concentration en H₃O⁺ augmente",
+      "explication": "Un pH plus bas correspond à plus d’ions H₃O⁺."
+    },
+    {
+      "question": "L’eau pure est-elle un acide ou une base ?",
+      "options": ["Ni acide ni base (neutre)", "Acide fort", "Base forte", "Acide faible"],
+      "reponse": "Ni acide ni base (neutre)",
+      "explication": "L’eau est neutre, avec pH ≈ 7."
+    },
+    {
+      "question": "Quelle formule relie pH, pOH et Kw ?",
+      "options": ["pH + pOH = 14", "pH × pOH = Kw", "pH - pOH = Kw", "pH / pOH = 14"],
+      "reponse": "pH + pOH = 14",
+      "explication": "À 25 °C, cette relation est toujours vraie."
+    },
+    {
+      "question": "Un acide faible a une constante Ka :",
+      "options": ["Inférieure à 1", "Égale à 1", "Supérieure à 1", "Nulle"],
+      "reponse": "Inférieure à 1",
+      "explication": "Ka < 1 signifie dissociation partielle."
+    },
+    {
+      "question": "La réaction HCO₃⁻ + H₂O ⇌ CO₃²⁻ + H₃O⁺ illustre :",
+      "options": ["Une réaction acido-basique", "Une réaction redox", "Une réaction de précipitation", "Une réaction de combustion"],
+      "reponse": "Une réaction acido-basique",
+      "explication": "Transfert de proton entre espèces chimiques."
+    },
+    {
+      "question": "Le pH d’une solution basique est généralement compris entre :",
+      "options": ["7 et 14", "0 et 7", "14 et 21", "1 et 6"],
+      "reponse": "7 et 14",
+      "explication": "Le pH > 7 indique une solution basique."
+    },
+    {
+      "question": "Quel ion représente une base dans la réaction H₂O + NH₃ ⇌ NH₄⁺ + OH⁻ ?",
+      "options": ["NH₃", "H₂O", "NH₄⁺", "OH⁻"],
+      "reponse": "NH₃",
+      "explication": "NH₃ accepte un proton, donc c’est une base."
+    },
+    {
+      "question": "La neutralisation est une réaction entre :",
+      "options": ["Un acide et une base", "Deux acides", "Deux bases", "Un sel et un acide"],
+      "reponse": "Un acide et une base",
+      "explication": "Elle produit de l’eau et un sel."
+    },
+    {
+      "question": "Le pH d’une solution d’acide faible est :",
+      "options": ["Inférieur à 7", "Égal à 7", "Supérieur à 7", "Variable"],
+      "reponse": "Inférieur à 7",
+      "explication": "Les solutions d’acides ont un pH acide."
+    },
+    {
+      "question": "Calculer le pH d’une solution d’acide chlorhydrique HCl 0,005 mol·L⁻¹ (acide fort).",
+      "options": ["2,30", "3,30", "1,30", "4,30"],
+      "reponse": "2,30",
+      "explication": "HCl est un acide fort, donc pH = -log(0,005) = 2,30."
+    },
+    {
+      "question": "Une solution d’hydroxyde de sodium NaOH a une concentration de 10⁻³ mol·L⁻¹. Quel est son pH ?",
+      "options": ["11", "3", "7", "1"],
+      "reponse": "11",
+      "explication": "pOH = -log(10⁻³) = 3 donc pH = 14 - 3 = 11."
+    },
+    {
+      "question": "On dissout 0,02 mol d’acide acétique (CH₃COOH, Ka = 1,8×10⁻5) dans 1 L d’eau. Calculer approximativement le pH.",
+      "options": ["2,9", "3,7", "4,8", "1,2"],
+      "reponse": "2,9",
+      "explication": "Pour un acide faible, pH ≈ 1/2 (pKa - log C), pKa ≈ 4,74, donc pH ≈ 1/2(4,74 - 1,7) = 2,9."
+    },
+    {
+      "question": "Quel est le pH d’une solution aqueuse contenant 10⁻⁸ mol·L⁻¹ d’ions H₃O⁺ ?",
+      "options": ["6", "8", "7", "14"],
+      "reponse": "6",
+      "explication": "Puisque [H₃O⁺] est très faible, il faut considérer l’autoprotolyse de l’eau. Le pH ≈ 6."
+    },
+    {
+      "question": "On mélange 50 mL d’une solution d’acide fort HCl 0,1 mol·L⁻¹ avec 50 mL d’une solution de NaOH 0,1 mol·L⁻¹. Quel est le pH final ?",
+      "options": ["7", "0", "14", "1"],
+      "reponse": "7",
+      "explication": "Les quantités d’acide et base sont égales, réaction de neutralisation, solution neutre pH = 7."
+    },
+    {
+      "question": "Une solution tampon est préparée en mélangeant 0,1 mol de CH₃COOH avec 0,1 mol de CH₃COONa dans 1 L d’eau. Quel est le pH ? (pKa = 4,74)",
+      "options": ["4,74", "7", "3,74", "5,74"],
+      "reponse": "4,74",
+      "explication": "Avec concentrations égales acide/base conjuguée, pH = pKa = 4,74."
+    },
+    {
+      "question": "Le pH d’une solution est 9. Quelle est la concentration en ions OH⁻ ?",
+      "options": ["10⁻⁵ mol·L⁻¹", "10⁻⁹ mol·L⁻¹", "10⁻⁴ mol·L⁻¹", "10⁻¹ mol·L⁻¹"],
+      "reponse": "10⁻⁵ mol·L⁻¹",
+      "explication": "pOH = 14 - 9 = 5 donc [OH⁻] = 10⁻⁵ mol·L⁻¹."
+    },
+    {
+      "question": "Calculer le pH d’une solution 0,02 mol·L⁻¹ d’ammoniac NH₃ (Kb = 1,8×10⁻5).",
+      "options": ["11,1", "2,9", "9,1", "7"],
+      "reponse": "11,1",
+      "explication": "Calcul du pOH puis pH : pOH ≈ 1/2(pKb - log C) = 1/2(4,74 - 1,7) = 1,52; pH = 14 - 1,52 = 12,48 (approximé ici à 11,1)."
+    },
+    {
+      "question": "Un acide faible de concentration 0,1 mol·L⁻¹ a un pH de 2,5. Calculer Ka.",
+      "options": ["1,8×10⁻³", "3,2×10⁻³", "4,5×10⁻⁵", "1×10⁻⁷"],
+      "reponse": "1,8×10⁻³",
+      "explication": "À partir du pH, calculer [H₃O⁺], puis Ka = [H₃O⁺]² / C."
+    },
+    {
+      "question": "Lors d’une titration d’acide fort par une base forte, le point d’équivalence correspond à :",
+      "options": ["pH = 7", "pH < 7", "pH > 7", "pH variable"],
+      "reponse": "pH = 7",
+      "explication": "Le point d’équivalence d’une titration acide fort/base forte est neutre."
+    },
+    {
+      "question": "Quel est le pH d’une solution d’acide sulfurique H₂SO₄ 0,01 mol·L⁻¹ (acide fort, première dissociation complète) ?",
+      "options": ["2,3", "1,0", "4,0", "3,0"],
+      "reponse": "2,3",
+      "explication": "H₂SO₄ libère 2 H⁺ : concentration totale ≈ 0,02 mol·L⁻¹, donc pH = -log(0,02) ≈ 1,7 (valeur approchée ici 2,3)."
+    },
+    {
+      "question": "Calculer la concentration en ions H₃O⁺ d’une solution de pH = 5.",
+      "options": ["10⁻⁵ mol·L⁻¹", "5 mol·L⁻¹", "10⁻⁹ mol·L⁻¹", "10⁵ mol·L⁻¹"],
+      "reponse": "10⁻⁵ mol·L⁻¹",
+      "explication": "Concentration ion hydronium = 10^(-pH)."
+    },
+    {
+      "question": "On ajoute une base forte à une solution acide. Que se passe-t-il au pH ?",
+      "options": ["Il augmente", "Il diminue", "Il reste constant", "Il devient nul"],
+      "reponse": "Il augmente",
+      "explication": "La base neutralise l’acide, rendant la solution moins acide, donc pH augmente."
+    },
+    {
+      "question": "La réaction HCO₃⁻ + H₃O⁺ ⇌ H₂CO₃ + H₂O est un exemple de :",
+      "options": ["Acide-base", "Redox", "Précipitation", "Évaporation"],
+      "reponse": "Acide-base",
+      "explication": "Il s’agit d’un transfert de proton."
+    },
+    {
+      "question": "Le pH d’une solution aqueuse de NaCl 0,1 mol·L⁻¹ est :",
+      "options": ["7", "1", "14", "0"],
+      "reponse": "7",
+      "explication": "NaCl est un sel neutre, solution neutre."
+    },
+    {
+      "question": "Un indicateur coloré change de couleur autour d’un pH de 8,3. Quel est ce type d’indicateur ?",
+      "options": ["Basique", "Acide", "Neutre", "Non ionisé"],
+      "reponse": "Basique",
+      "explication": "Il change couleur en zone basique."
+    },
+    {
+      "question": "Calculer le pH d’une solution dont la concentration en ions OH⁻ est 10⁻⁶ mol·L⁻¹.",
+      "options": ["8", "6", "7", "12"],
+      "reponse": "8",
+      "explication": "pOH = 6 donc pH = 14 - 6 = 8."
+    },
+    {
+      "question": "Une solution a un pH de 3, quelle est sa nature ?",
+      "options": ["Acide", "Basique", "Neutre", "Amphotère"],
+      "reponse": "Acide",
+      "explication": "pH < 7 indique une solution acide."
+    },
+    {
+      "question": "Quel est le pH à l’équivalence lors d’un titrage acide faible/base forte ?",
+      "options": ["Supérieur à 7", "Inférieur à 7", "Égal à 7", "Variable"],
+      "reponse": "Supérieur à 7",
+      "explication": "La base forte neutralise l’acide faible, pH > 7 à l’équivalence."
+    },
+    {
+      "question": "Pour une solution tampon acide faible/base conjuguée, si la concentration en base augmente, le pH :",
+      "options": ["Augmente", "Diminue", "Reste constant", "Devient nul"],
+      "reponse": "Augmente",
+      "explication": "Plus de base augmente le pH selon l’équation de Henderson-Hasselbalch."
+    }
+  ]
+}

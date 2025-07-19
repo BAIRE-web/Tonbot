@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "Quel principe repose sur la superposition des couches sédimentaires ?",
+      "options": ["Les couches les plus récentes sont au-dessus", "Les couches plus anciennes sont au-dessus", "Les couches sont mélangées", "Toutes les couches ont le même âge"],
+      "reponse": "Les couches les plus récentes sont au-dessus",
+      "explication": "Selon le principe de superposition, les strates les plus récentes recouvrent les plus anciennes."
+    },
+    {
+      "question": "Un fossile stratigraphique doit être :",
+      "options": ["Réparti mondialement et de courte durée", "Très ancien et rare", "Très grand et localisé", "Trouvé uniquement en Afrique"],
+      "reponse": "Réparti mondialement et de courte durée",
+      "explication": "Il permet de dater précisément les couches grâce à sa large répartition et à sa durée de vie courte."
+    },
+    {
+      "question": "La datation relative permet :",
+      "options": ["De classer les événements sans connaître l'âge exact", "De mesurer en années", "De dater les roches magmatiques", "De dater grâce au carbone 14"],
+      "reponse": "De classer les événements sans connaître l'âge exact",
+      "explication": "Elle compare l’ordre d’apparition des événements géologiques."
+    },
+    {
+      "question": "Quel élément radioactif est utilisé pour dater des roches très anciennes ?",
+      "options": ["Uranium 238", "Carbone 14", "Hydrogène", "Oxygène 18"],
+      "reponse": "Uranium 238",
+      "explication": "L’uranium 238 est utilisé pour des datations jusqu’à plusieurs milliards d’années."
+    },
+    {
+      "question": "La datation absolue repose sur :",
+      "options": ["La désintégration d'isotopes radioactifs", "La taille des fossiles", "Le principe de recoupement", "La couleur des roches"],
+      "reponse": "La désintégration d'isotopes radioactifs",
+      "explication": "Elle mesure la proportion d’isotopes père et fils dans une roche pour calculer son âge."
+    },
+    {
+      "question": "Le principe d’inclusion permet de dire que :",
+      "options": ["Les fragments inclus sont plus anciens", "Les inclusions sont plus récentes", "Les roches sédimentaires sont magmatiques", "Les fossiles ne servent pas à dater"],
+      "reponse": "Les fragments inclus sont plus anciens",
+      "explication": "Une roche contenant des fragments d’une autre est plus récente que ces fragments."
+    },
+    {
+      "question": "Quel est le rôle de la stratigraphie ?",
+      "options": ["Étudier la succession des couches sédimentaires", "Analyser les roches volcaniques", "Mesurer l'âge absolu", "Créer des fossiles artificiels"],
+      "reponse": "Étudier la succession des couches sédimentaires",
+      "explication": "La stratigraphie est essentielle à la datation relative."
+    },
+    {
+      "question": "Le principe de recoupement affirme que :",
+      "options": ["Toute structure qui en recoupe une autre lui est postérieure", "Les couches sont toujours horizontales", "Les plis sont récents", "Les failles sont plus anciennes que les couches"],
+      "reponse": "Toute structure qui en recoupe une autre lui est postérieure",
+      "explication": "Une faille ou un filon recoupe des couches plus anciennes."
+    },
+    {
+      "question": "Un fossile est utile à la datation s’il :",
+      "options": ["Est bien conservé, bien daté, et répandu", "Est très vieux", "Se trouve dans le magma", "Est découvert une seule fois"],
+      "reponse": "Est bien conservé, bien daté, et répandu",
+      "explication": "Les fossiles stratigraphiques remplissent ces conditions."
+    },
+    {
+      "question": "Le carbone 14 est efficace pour dater :",
+      "options": ["Des objets récents (moins de 50 000 ans)", "Des roches magmatiques", "Des roches vieilles de milliards d’années", "Des météorites"],
+      "reponse": "Des objets récents (moins de 50 000 ans)",
+      "explication": "La demi-vie du carbone 14 limite son usage aux temps récents."
+    },
+    {
+      "question": "La demi-vie d’un isotope radioactif correspond à :",
+      "options": ["Durée pour que la moitié des atomes se désintègre", "Temps nécessaire à l’arrêt de toute activité", "Durée de vie d’un fossile", "Temps de refroidissement d’une roche"],
+      "reponse": "Durée pour que la moitié des atomes se désintègre",
+      "explication": "La demi-vie est une constante pour chaque isotope radioactif."
+    },
+    {
+      "question": "Une discordance stratigraphique représente :",
+      "options": ["Une interruption dans la sédimentation", "Un pli récent", "Une intrusion magmatique", "Un métamorphisme léger"],
+      "reponse": "Une interruption dans la sédimentation",
+      "explication": "Elle marque un arrêt ou une érosion entre deux couches."
+    },
+    {
+      "question": "Le principe de continuité stipule que :",
+      "options": ["Une couche sédimentaire a la même origine sur toute son étendue", "Les failles sont continues", "Les fossiles vivent longtemps", "Les roches métamorphiques se propagent"],
+      "reponse": "Une couche sédimentaire a la même origine sur toute son étendue",
+      "explication": "Une même strate est continue sur toute sa surface d’origine."
+    },
+    {
+      "question": "Quelle est la principale limite du carbone 14 ?",
+      "options": ["Son efficacité diminue au-delà de 50 000 ans", "Il ne mesure pas les fossiles", "Il ne fonctionne pas en milieu marin", "Il ne peut dater que les plantes"],
+      "reponse": "Son efficacité diminue au-delà de 50 000 ans",
+      "explication": "La faible demi-vie limite sa portée dans le temps."
+    },
+    {
+      "question": "Un filon magmatique recoupant des couches sédimentaires est :",
+      "options": ["Plus récent que ces couches", "Plus ancien que ces couches", "Contemporain", "Impossible à dater"],
+      "reponse": "Plus récent que ces couches",
+      "explication": "D’après le principe de recoupement, il est postérieur aux couches qu’il traverse."
+    },
+    {
+      "question": "Une couche contenant le fossile d’un ammonite index permet de :",
+      "options": ["Donner une datation relative précise", "Déterminer sa température", "Mesurer sa radioactivité", "Identifier le type de roche"],
+      "reponse": "Donner une datation relative précise",
+      "explication": "Les ammonites sont des fossiles stratigraphiques fiables."
+    },
+    {
+      "question": "Un pli affectant des couches sédimentaires est :",
+      "options": ["Postérieur à ces couches", "Antérieur aux couches", "Contemporain", "Fossilisé"],
+      "reponse": "Postérieur à ces couches",
+      "explication": "Les déformations tectoniques sont toujours plus récentes que les couches qu’elles affectent."
+    },
+    {
+      "question": "Les fossiles sont absents dans :",
+      "options": ["Les roches magmatiques", "Les roches sédimentaires", "Les roches calcaires", "Les argiles"],
+      "reponse": "Les roches magmatiques",
+      "explication": "La température de formation des roches magmatiques détruit tout organisme."
+    },
+    {
+      "question": "Quel couple radioactif est utilisé pour dater des minéraux anciens ?",
+      "options": ["Uranium/Plomb", "Carbone/Azote", "Hydrogène/Oxygène", "Potassium/Soufre"],
+      "reponse": "Uranium/Plomb",
+      "explication": "La méthode uranium/plomb est utilisée pour les âges de plusieurs centaines de millions d’années."
+    },
+    {
+      "question": "Quel est l’intérêt des coupes géologiques ?",
+      "options": ["Reconstituer l’histoire géologique d’une région", "Comparer les fossiles animaux", "Mesurer la température", "Déterminer la latitude"],
+      "reponse": "Reconstituer l’histoire géologique d’une région",
+      "explication": "Elles permettent d’analyser les relations entre les couches et les événements."
+    },
+    {
+      "question": "Une couche sédimentaire contient un fossile de trilobite. Que peut-on en déduire ?",
+      "options": ["Elle date du Paléozoïque", "Elle est volcanique", "Elle date du Cénozoïque", "Elle contient du carbone 14"],
+      "reponse": "Elle date du Paléozoïque",
+      "explication": "Les trilobites sont caractéristiques du Paléozoïque et servent de fossiles stratigraphiques."
+    },
+    {
+      "question": "Une roche contient 25% d’isotope père uranium 238. Elle a subi combien de demi-vies ?",
+      "options": ["2", "1", "3", "4"],
+      "reponse": "2",
+      "explication": "50% → 1 demi-vie ; 25% → 2 demi-vies."
+    },
+    {
+      "question": "Une faille recoupe toutes les couches sauf la plus récente. Que peut-on conclure ?",
+      "options": ["La faille est antérieure à la dernière couche", "La faille est plus récente que toutes", "Elle est contemporaine de la dernière couche", "La faille est d'origine sédimentaire"],
+      "reponse": "La faille est antérieure à la dernière couche",
+      "explication": "Elle ne la recoupe pas, donc elle lui est antérieure."
+    },
+    {
+      "question": "Une strate contient 12,5% d'isotope père. Combien de demi-vies sont passées ?",
+      "options": ["3", "2", "1", "4"],
+      "reponse": "3",
+      "explication": "100 → 50 → 25 → 12,5 : 3 demi-vies."
+    },
+    {
+      "question": "Un fossile d’ammonite trouvé dans deux strates différentes indique que :",
+      "options": ["Les deux strates sont de la même époque", "Les couches sont volcaniques", "Les couches sont identiques", "Les deux fossiles sont faux"],
+      "reponse": "Les deux strates sont de la même époque",
+      "explication": "Les ammonites étant des fossiles stratigraphiques, elles indiquent une même période."
+    },
+    {
+      "question": "Une inclusion de roche dans un granite signifie :",
+      "options": ["L’inclusion est plus ancienne", "Le granite est plus vieux", "Ils ont le même âge", "L’inclusion est magmatique"],
+      "reponse": "L’inclusion est plus ancienne",
+      "explication": "Selon le principe d’inclusion, l’objet inclus est antérieur à la roche qui l’entoure."
+    },
+    {
+      "question": "Une strate repose en discordance sur une couche plissée. Que peut-on dire ?",
+      "options": ["La couche inférieure est plus ancienne et a été déformée avant", "Les deux sont contemporaines", "La plissure est postérieure", "La couche supérieure est plus ancienne"],
+      "reponse": "La couche inférieure est plus ancienne et a été déformée avant",
+      "explication": "La discordance marque une phase de plissement antérieure à la sédimentation supérieure."
+    },
+    {
+      "question": "Une strate contient un isotope radioactif dont la demi-vie est de 1 million d’années. Elle contient 6,25% de l’isotope père. Quel âge a-t-elle ?",
+      "options": ["4 millions d’années", "1 million d’années", "6 millions d’années", "2 millions d’années"],
+      "reponse": "4 millions d’années",
+      "explication": "100 → 50 → 25 → 12,5 → 6,25 : 4 demi-vies donc 4 millions d’années."
+    },
+    {
+      "question": "Quel couple de données est cohérent pour une datation au carbone 14 ?",
+      "options": ["Fossile de mammouth, 30 000 ans", "Roche magmatique, 200 millions d’années", "Ammonite, 70 millions d’années", "Cristal de zircon, 3 milliards d’années"],
+      "reponse": "Fossile de mammouth, 30 000 ans",
+      "explication": "Le carbone 14 ne fonctionne que sur les fossiles récents (moins de 50 000 ans)."
+    },
+    {
+      "question": "Un fossile A est trouvé dans une couche inférieure à celle contenant le fossile B. Que peut-on dire ?",
+      "options": ["A est plus ancien que B", "B est plus ancien que A", "Ils sont contemporains", "Impossible de dater"],
+      "reponse": "A est plus ancien que B",
+      "explication": "Selon le principe de superposition, A est plus ancien car il est plus profond."
+    },
+    {
+      "question": "Une discordance entre deux strates signale :",
+      "options": ["Une période d’érosion ou de non dépôt", "Une activité volcanique", "Une extinction massive", "Un changement climatique"],
+      "reponse": "Une période d’érosion ou de non dépôt",
+      "explication": "Elle marque une interruption dans la sédimentation."
+    },
+    {
+      "question": "Un granite intrusif recoupe une série sédimentaire. Quel est le plus ancien ?",
+      "options": ["La série sédimentaire", "Le granite", "Ils sont contemporains", "Impossible de déterminer"],
+      "reponse": "La série sédimentaire",
+      "explication": "Le granite est plus récent car il recoupe les sédiments."
+    },
+    {
+      "question": "Un pli affecte des couches contenant un fossile du Jurassique. Que peut-on en conclure ?",
+      "options": ["Le pli est postérieur au Jurassique", "Le pli est antérieur", "Le pli date du Cambrien", "Le pli est magmatique"],
+      "reponse": "Le pli est postérieur au Jurassique",
+      "explication": "Les déformations sont toujours postérieures aux couches qu’elles affectent."
+    },
+    {
+      "question": "La datation absolue d’une roche indique 600 millions d’années. Elle est donc de l’époque :",
+      "options": ["Précambrien", "Cénozoïque", "Jurassique", "Crétacé"],
+      "reponse": "Précambrien",
+      "explication": "Elle est antérieure à l’ère primaire."
+    },
+    {
+      "question": "Un fossile de foraminifère est trouvé dans deux continents. Cela montre :",
+      "options": ["Une datation possible des couches", "Un lien génétique", "Une faille continentale", "Une migration récente"],
+      "reponse": "Une datation possible des couches",
+      "explication": "Les fossiles stratigraphiques permettent une corrélation géologique."
+    },
+    {
+      "question": "Le principe de recoupement ne s’applique pas dans :",
+      "options": ["Les couches non déformées", "Les roches métamorphiques", "Les sédiments récents", "Les plis synclinaux"],
+      "reponse": "Les roches métamorphiques",
+      "explication": "Il s’applique surtout aux structures qui recoupent d’autres, comme des failles ou des intrusions."
+    },
+    {
+      "question": "Quel isotope est utilisé pour dater les zircons ?",
+      "options": ["Uranium 238", "Carbone 14", "Azote 15", "Potassium 40"],
+      "reponse": "Uranium 238",
+      "explication": "Le zircon contient souvent de l’uranium 238 utilisé pour dater les très vieilles roches."
+    },
+    {
+      "question": "Si une strate contient 50% d’un isotope père dont la demi-vie est de 700 millions d’années, quel est son âge ?",
+      "options": ["700 millions d’années", "1 400 millions d’années", "350 millions d’années", "1 million d’années"],
+      "reponse": "700 millions d’années",
+      "explication": "50% signifie qu’une seule demi-vie s’est écoulée."
+    },
+    {
+      "question": "Pourquoi les fossiles sont-ils rares dans les roches métamorphiques ?",
+      "options": ["La chaleur les détruit", "Ils ne s’y forment pas", "Ils se transforment en cristaux", "Ils fondent"],
+      "reponse": "La chaleur les détruit",
+      "explication": "La température et la pression du métamorphisme effacent les traces fossiles."
+    },
+    {
+      "question": "Quel est l'intérêt des fossiles repères ?",
+      "options": ["Ils permettent de dater les couches qui les contiennent", "Ils décorent les laboratoires", "Ils indiquent la présence de métaux", "Ils sont faciles à extraire"],
+      "reponse": "Ils permettent de dater les couches qui les contiennent",
+      "explication": "Ce sont des outils clés de la datation relative."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la forme générale d’une équation du premier degré à une inconnue x ?",
+      "options": ["ax + b = 0", "ax^2 + bx + c = 0", "ax^n + b = 0", "|x| = a",],
+      "reponse": "ax + b = 0",
+      "explication": "Une équation du premier degré est linéaire en x."
+    },
+    {
+      "question": "Quelle est la solution de l’équation 3x + 6 = 0 ?",
+      "options": ["x = −2", "x = 2", "x = 0", "x = 6"],
+      "reponse": "x = −2",
+      "explication": "On isole x : 3x = −6 → x = −2."
+    },
+    {
+      "question": "Quelles sont les solutions de x^2 − 4 = 0 ?",
+      "options": ["x = ±2", "x = 2", "x = −2", "x = 0"],
+      "reponse": "x = ±2",
+      "explication": "Factorisation : (x − 2)(x + 2) = 0."
+    },
+    {
+      "question": "Pour résoudre x^2 + 2x + 1 = 0, on reconnaît :",
+      "options": ["(x + 1)^2 = 0", "x(x + 2) = 0", "x^2 = −1", "|x| = 1"],
+      "reponse": "(x + 1)^2 = 0",
+      "explication": "Trinôme carré parfait."
+    },
+    {
+      "question": "Quelle est la formule du discriminant Δ d’une équation ax^2 + bx + c = 0 ?",
+      "options": ["Δ = b^2 − 4ac", "Δ = b^2 + 4ac", "Δ = 2ac − b^2", "Δ = b^2 − 2ac"],
+      "reponse": "Δ = b^2 − 4ac",
+      "explication": "Le discriminant détermine le nombre de solutions réelles."
+    },
+    {
+      "question": "Si Δ > 0, combien de solutions réelles a l’équation ax^2 + bx + c = 0 ?",
+      "options": ["Deux solutions distinctes", "Une solution", "Aucune solution", "Infinité de solutions"],
+      "reponse": "Deux solutions distinctes",
+      "explication": "Le polynôme a deux racines réelles distinctes."
+    },
+    {
+      "question": "Si Δ = 0, combien de solutions ?",
+      "options": ["Une solution double", "Deux solutions distinctes", "Aucune solution", "Infinité de solutions"],
+      "reponse": "Une solution double",
+      "explication": "Racine double, la parabole touche l’axe des x en un seul point."
+    },
+    {
+      "question": "Si Δ < 0, combien de solutions réelles ?",
+      "options": ["Aucune solution réelle", "Une solution", "Deux solutions", "Infinité"],
+      "reponse": "Aucune solution réelle",
+      "explication": "Les racines sont complexes (non réelles)."
+    },
+    {
+      "question": "Quelle est la solution de |x| = 3 ?",
+      "options": ["x = 3 ou x = −3", "x = 3", "x = −3", "x = 0"],
+      "reponse": "x = 3 ou x = −3",
+      "explication": "La valeur absolue mesure la distance à zéro."
+    },
+    {
+      "question": "Quelle est la solution de |x − 2| = 5 ?",
+      "options": ["x = 7 ou x = −3", "x = 3", "x = 5", "x = −7 ou x = 3"],
+      "reponse": "x = 7 ou x = −3",
+      "explication": "Distance 5 autour de 2."
+    },
+    {
+      "question": "Comment résoudre une équation avec valeur absolue |A| = B (B ≥ 0) ?",
+      "options": ["Résoudre A = B et A = −B", "Résoudre A = B uniquement", "Résoudre A = 0", "Pas de solution"],
+      "reponse": "Résoudre A = B et A = −B",
+      "explication": "Valeur absolue égale à B implique deux cas."
+    },
+    {
+      "question": "Quelle est la solution de l’équation x^3 − 8 = 0 ?",
+      "options": ["x = 2", "x = −2", "x = 8", "x = 0"],
+      "reponse": "x = 2",
+      "explication": "x^3 = 8 → x = 2."
+    },
+    {
+      "question": "Comment résoudre l’équation (x − 1)(x + 3) = 0 ?",
+      "options": ["x = 1 ou x = −3", "x = 1", "x = −3", "Aucune solution"],
+      "reponse": "x = 1 ou x = −3",
+      "explication": "Produit nul si un facteur est nul."
+    },
+    {
+      "question": "Quelle est la solution de 2x − 5 = 3 ?",
+      "options": ["x = 4", "x = 1", "x = −4", "x = 8"],
+      "reponse": "x = 4",
+      "explication": "2x = 8 → x = 4."
+    },
+    {
+      "question": "Quelle est la solution de x^2 = 9 ?",
+      "options": ["x = 3 ou x = −3", "x = 3", "x = −3", "x = 0"],
+      "reponse": "x = 3 ou x = −3",
+      "explication": "Racines carrées positives et négatives."
+    },
+    {
+      "question": "Quelle est la solution de |2x + 1| = 7 ?",
+      "options": ["x = 3 ou x = −4", "x = 3", "x = −4", "Aucune solution"],
+      "reponse": "x = 3 ou x = −4",
+      "explication": "2x + 1 = 7 ou 2x + 1 = −7."
+    },
+    {
+      "question": "Comment résoudre x^4 = 16 ?",
+      "options": ["x = ±2", "x = 4", "x = −4", "x = 0"],
+      "reponse": "x = ±2",
+      "explication": "x^4 = (x^2)^2, racines positives et négatives."
+    },
+    {
+      "question": "Quelle est la solution de x^2 − 5x + 6 = 0 ?",
+      "options": ["x = 2 ou x = 3", "x = 5", "x = 6", "x = 1"],
+      "reponse": "x = 2 ou x = 3",
+      "explication": "Factorisation : (x − 2)(x − 3) = 0."
+    },
+    {
+      "question": "Quelle est la solution de |x| + 3 = 5 ?",
+      "options": ["x = 2 ou x = −2", "x = 2", "x = −2", "Aucune solution"],
+      "reponse": "x = 2 ou x = −2",
+      "explication": "|x| = 2."
+    },
+    {
+      "question": "Quelle est la solution de l’équation 0 = 0 ?",
+      "options": ["Toutes les valeurs de x", "Aucune valeur", "x = 0", "x = 1"],
+      "reponse": "Toutes les valeurs de x",
+      "explication": "Équation toujours vraie."
+    },
+    {
+      "question": "Quelle est la solution de x^2 + 1 = 0 ?",
+      "options": ["Aucune solution réelle", "x = 1", "x = −1", "x = 0"],
+      "reponse": "Aucune solution réelle",
+      "explication": "x^2 = −1 impossible dans ℝ."
+    },
+    {
+      "question": "Quelle est la solution de |x − 3| = 0 ?",
+      "options": ["x = 3", "x = 0", "x = −3", "Aucune solution"],
+      "reponse": "x = 3",
+      "explication": "Valeur absolue nulle seulement en 0."
+    },
+    {
+      "question": "Quelle est la solution de 2(x − 1) = 4 ?",
+      "options": ["x = 3", "x = 2", "x = 1", "x = 4"],
+      "reponse": "x = 3",
+      "explication": "2x − 2 = 4 → 2x = 6 → x = 3."
+    },
+    {
+      "question": "Comment résoudre x^3 − 27 = 0 ?",
+      "options": ["x = 3", "x = −3", "x = 27", "x = 0"],
+      "reponse": "x = 3",
+      "explication": "x^3 = 27 → x = 3."
+    },
+    {
+      "question": "Quelle est la solution de |x + 4| = 2 ?",
+      "options": ["x = −2 ou x = −6", "x = 2", "x = −6", "Aucune solution"],
+      "reponse": "x = −2 ou x = −6",
+      "explication": "x + 4 = 2 ou x + 4 = −2."
+    },
+    {
+      "question": "Quelle est la solution de x^2 − 2x − 3 = 0 ?",
+      "options": ["x = 3 ou x = −1", "x = 1", "x = −3", "x = 0"],
+      "reponse": "x = 3 ou x = −1",
+      "explication": "Factorisation : (x − 3)(x + 1) = 0."
+    },
+    {
+      "question": "Quelle est la solution de |2x − 3| = 0 ?",
+      "options": ["x = 3/2", "x = 0", "x = −3/2", "Aucune solution"],
+      "reponse": "x = 3/2",
+      "explication": "Valeur absolue nulle uniquement si l’expression est nulle."
+    },
+    {
+      "question": "Quelle est la solution de l’équation (x − 2)^2 = 0 ?",
+      "options": ["x = 2", "x = 0", "x = −2", "Aucune solution"],
+      "reponse": "x = 2",
+      "explication": "Racine double."
+    }
+  ]
+}

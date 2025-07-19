@@ -1,0 +1,514 @@
+{
+  "qcm": [
+    {
+      "question": "Lors de la mitose, le nombre de chromosomes dans la cellule fille est :",
+      "options": ["Identique à la cellule mère", "Divisé par deux", "Multiplié par deux", "Variable selon les cas"],
+      "reponse": "Identique à la cellule mère",
+      "explication": "La mitose produit deux cellules filles diploïdes identiques à la cellule mère."
+    },
+    {
+      "question": "Quelle est la principale différence entre mitose et méiose ?",
+      "options": ["La méiose produit des cellules haploïdes", "La mitose produit des gamètes", "La mitose réduit le nombre de chromosomes", "La méiose produit des cellules identiques"],
+      "reponse": "La méiose produit des cellules haploïdes",
+      "explication": "La méiose réduit de moitié le nombre de chromosomes, formant les gamètes."
+    },
+    {
+      "question": "Un gène est défini comme :",
+      "options": ["Une séquence d’ADN codant un caractère", "Un chromosome entier", "Une protéine", "Une cellule spécialisée"],
+      "reponse": "Une séquence d’ADN codant un caractère",
+      "explication": "Un gène est une portion d’ADN responsable d’un trait héréditaire."
+    },
+    {
+      "question": "Lors d’un croisement entre deux individus hétérozygotes (Aa × Aa), la proportion attendue de descendants homozygotes récessifs est :",
+      "options": ["25 %", "50 %", "75 %", "0 %"],
+      "reponse": "25 %",
+      "explication": "Selon la loi de Mendel, la proportion de aa est de 1/4 dans la descendance."
+    },
+    {
+      "question": "En codominance, le phénotype de l’hétérozygote est :",
+      "options": ["L’expression des deux allèles simultanément", "Celui de l’allèle dominant", "Celui de l’allèle récessif", "Aucun des deux"],
+      "reponse": "L’expression des deux allèles simultanément",
+      "explication": "Les deux allèles s’expriment également chez l’hétérozygote."
+    },
+    {
+      "question": "La méiose comporte :",
+      "options": ["Deux divisions cellulaires successives", "Une division unique", "Trois divisions", "Quatre divisions"],
+      "reponse": "Deux divisions cellulaires successives",
+      "explication": "La méiose I et II produisent quatre cellules haploïdes."
+    },
+    {
+      "question": "Dans un arbre généalogique, un individu porteur sain d’une maladie récessive est :",
+      "options": ["Hétérozygote non affecté", "Homozygote dominant", "Homozygote récessif", "Non concerné"],
+      "reponse": "Hétérozygote non affecté",
+      "explication": "Il porte l’allèle récessif sans exprimer la maladie."
+    },
+    {
+      "question": "Un individu homozygote dominant pour un gène aura :",
+      "options": ["Deux allèles dominants identiques", "Deux allèles récessifs", "Un allèle dominant et un récessif", "Un seul allèle"],
+      "reponse": "Deux allèles dominants identiques",
+      "explication": "Homozygote dominant signifie AA."
+    },
+    {
+      "question": "Les gamètes produits par méiose sont :",
+      "options": ["Haploïdes et génétiquement différents", "Diploïdes", "Identiques à la cellule mère", "Haploïdes et identiques entre eux"],
+      "reponse": "Haploïdes et génétiquement différents",
+      "explication": "La méiose crée des gamètes à diversité génétique."
+    },
+    {
+      "question": "La première loi de Mendel indique que :",
+      "options": ["Les allèles se séparent au cours de la formation des gamètes", "Les caractères s’additionnent", "Les allèles fusionnent", "Les caractères dominants s’effacent"],
+      "reponse": "Les allèles se séparent au cours de la formation des gamètes",
+      "explication": "Chaque gamète reçoit un seul allèle par gène."
+    },
+    {
+      "question": "Un individu hétérozygote exprime :",
+      "options": ["Le phénotype de l’allèle dominant", "Le phénotype de l’allèle récessif", "Un mélange des deux phénotypes", "Aucun phénotype"],
+      "reponse": "Le phénotype de l’allèle dominant",
+      "explication": "Le dominant masque le récessif dans l’expression."
+    },
+    {
+      "question": "La méiose permet la formation de :",
+      "options": ["Gamètes", "Cellules somatiques", "Spermatogonies", "Ovocytes immatures"],
+      "reponse": "Gamètes",
+      "explication": "La méiose produit spermatozoïdes et ovules haploïdes."
+    },
+    {
+      "question": "Un arbre généalogique peut montrer :",
+      "options": ["La transmission d’un caractère héréditaire", "L’âge des individus", "Le poids des individus", "La taille des chromosomes"],
+      "reponse": "La transmission d’un caractère héréditaire",
+      "explication": "Il sert à visualiser la transmission des traits dans une famille."
+    },
+    {
+      "question": "Une cellule diploïde possède :",
+      "options": ["Deux jeux complets de chromosomes", "Un seul jeu", "Aucun chromosome", "Trois jeux complets"],
+      "reponse": "Deux jeux complets de chromosomes",
+      "explication": "Diploïde = 2n chromosomes."
+    },
+    {
+      "question": "Une cellule haploïde possède :",
+      "options": ["Un seul jeu de chromosomes", "Deux jeux complets", "Aucun chromosome", "Un nombre variable"],
+      "reponse": "Un seul jeu de chromosomes",
+      "explication": "Haploïde = n chromosomes."
+    },
+    {
+      "question": "La séparation des chromosomes homologues se produit durant :",
+      "options": ["La méiose I", "La mitose", "La méiose II", "La phase S"],
+      "reponse": "La méiose I",
+      "explication": "C’est lors de la première division méiotique que les homologues se séparent."
+    },
+    {
+      "question": "Un individu porteur d’un allèle récessif peut être :",
+      "options": ["Non affecté phénotypiquement", "Toujours malade", "Uniquement malade s’il est homozygote dominant", "Toujours hétérozygote dominant"],
+      "reponse": "Non affecté phénotypiquement",
+      "explication": "Les porteurs récessifs sont souvent asymptomatiques."
+    },
+    {
+      "question": "La transmission d’un caractère récessif nécessite que l’individu soit :",
+      "options": ["Homozygote récessif", "Homozygote dominant", "Hétérozygote", "Non porteur"],
+      "reponse": "Homozygote récessif",
+      "explication": "Le caractère récessif ne s’exprime que s’il est homozygote."
+    },
+    {
+      "question": "Le croisement test (test-cross) sert à :",
+      "options": ["Déterminer le génotype d’un individu dominant", "Produire une génération F2", "Modifier le génotype", "Fusionner deux gènes"],
+      "reponse": "Déterminer le génotype d’un individu dominant",
+      "explication": "Le test permet de vérifier si un dominant est homozygote ou hétérozygote."
+    },
+    {
+      "question": "La méiose assure :",
+      "options": ["La diversité génétique", "La stabilité du nombre de chromosomes", "La duplication de l’ADN", "La production de cellules somatiques"],
+      "reponse": "La diversité génétique",
+      "explication": "Les brassages interchromosomiques et intrachromosomiques créent la diversité."
+    },
+    {
+      "question": "Une mutation génétique peut :",
+      "options": ["Modifier la séquence d’ADN", "Augmenter le nombre de chromosomes", "Diviser la cellule", "Abolir la méiose"],
+      "reponse": "Modifier la séquence d’ADN",
+      "explication": "La mutation change la nature de l’information génétique."
+    },
+    {
+      "question": "Un gène est situé sur :",
+      "options": ["Un chromosome", "Une protéine", "Une cellule", "Un organe"],
+      "reponse": "Un chromosome",
+      "explication": "Les gènes sont localisés sur les chromosomes."
+    },
+    {
+      "question": "Un individu hétérozygote peut transmettre :",
+      "options": ["Soit l’allèle dominant, soit l’allèle récessif", "Les deux allèles simultanément", "Uniquement l’allèle dominant", "Aucun allèle"],
+      "reponse": "Soit l’allèle dominant, soit l’allèle récessif",
+      "explication": "Les gamètes portent un seul allèle à la fois."
+    },
+    {
+      "question": "La dominance incomplète produit chez l’hétérozygote un phénotype :",
+      "options": ["Intermédiaire entre les deux allèles", "Identique au dominant", "Identique au récessif", "Variable aléatoirement"],
+      "reponse": "Intermédiaire entre les deux allèles",
+      "explication": "Ni l’un ni l’autre allèle ne masque totalement l’autre."
+    },
+    {
+      "question": "L’allèle d’un gène peut être :",
+      "options": ["Dominant, récessif, codominant", "Unique", "Toujours dominant", "Non transmissible"],
+      "reponse": "Dominant, récessif, codominant",
+      "explication": "Les allèles ont différentes relations d’expression."
+    },
+    {
+      "question": "Le crossing-over se produit pendant :",
+      "options": ["La prophase I de la méiose", "La mitose", "L’interphase", "La télophase II"],
+      "reponse": "La prophase I de la méiose",
+      "explication": "Il échange des segments entre chromosomes homologues."
+    },
+    {
+      "question": "Le nombre de chromosomes dans les gamètes humains est :",
+      "options": ["23", "46", "92", "12"],
+      "reponse": "23",
+      "explication": "Les gamètes humains sont haploïdes (n=23)."
+    },
+    {
+      "question": "Un individu homozygote récessif pour une maladie génétique aura :",
+      "options": ["La maladie", "Pas la maladie", "Un risque faible", "Une immunité"],
+      "reponse": "La maladie",
+      "explication": "La maladie se manifeste si les deux allèles sont récessifs."
+    },
+    {
+      "question": "Qu’est-ce qu’un gène ?",
+      "options": ["Segment d’ADN codant un caractère", "Une cellule", "Un organe", "Un chromosome"],
+      "reponse": "Segment d’ADN codant un caractère",
+      "explication": "Un gène est une séquence d’ADN qui détermine un caractère héréditaire."
+    },
+    {
+      "question": "Un allèle est :",
+      "options": ["Une variante d’un gène", "Une cellule", "Une molécule", "Un chromosome"],
+      "reponse": "Une variante d’un gène",
+      "explication": "Les allèles sont différentes versions possibles d’un même gène."
+    },
+    {
+      "question": "Qu’est-ce que la dominance en génétique ?",
+      "options": ["Un allèle masque l’effet d’un autre", "Les allèles s’additionnent", "Les allèles disparaissent", "Les gènes fusionnent"],
+      "reponse": "Un allèle masque l’effet d’un autre",
+      "explication": "L’allèle dominant s’exprime toujours quand il est présent."
+    },
+    {
+      "question": "La codominance signifie :",
+      "options": ["Expression simultanée de deux allèles", "Un allèle domine l’autre", "Les allèles sont identiques", "Les gènes sont absents"],
+      "reponse": "Expression simultanée de deux allèles",
+      "explication": "Les deux allèles s’expriment également, sans qu’un ne masque l’autre."
+    },
+    {
+      "question": "Selon Mendel, les caractères héréditaires sont transmis sous forme de :",
+      "options": ["Unités discrètes (gènes)", "Fluides", "Caractères acquis", "Chromosomes entiers"],
+      "reponse": "Unités discrètes (gènes)",
+      "explication": "Mendel a établi que les caractères sont transmis par des facteurs (gènes) distincts."
+    },
+    {
+      "question": "Quelle est la première loi de Mendel (loi de la ségrégation) ?",
+      "options": ["Les allèles d’un gène se séparent lors de la formation des gamètes", "Les caractères sont acquis", "Les gènes fusionnent", "Tous les caractères sont dominants"],
+      "reponse": "Les allèles d’un gène se séparent lors de la formation des gamètes",
+      "explication": "Chaque gamète reçoit un seul allèle pour chaque gène."
+    },
+    {
+      "question": "La deuxième loi de Mendel (loi de l’assortiment indépendant) affirme que :",
+      "options": ["Les gènes situés sur des chromosomes différents se répartissent indépendamment", "Tous les gènes sont liés", "Les allèles dominants s’additionnent", "Les caractères disparaissent"],
+      "reponse": "Les gènes situés sur des chromosomes différents se répartissent indépendamment",
+      "explication": "Cela explique la diversité génétique lors de la formation des gamètes."
+    },
+    {
+      "question": "Un individu homozygote possède :",
+      "options": ["Deux allèles identiques pour un gène", "Deux allèles différents", "Un seul allèle", "Aucun allèle"],
+      "reponse": "Deux allèles identiques pour un gène",
+      "explication": "Homozygote signifie que les allèles sont identiques (AA ou aa)."
+    },
+    {
+      "question": "Un individu hétérozygote possède :",
+      "options": ["Deux allèles différents pour un gène", "Deux allèles identiques", "Un seul allèle", "Aucun allèle"],
+      "reponse": "Deux allèles différents pour un gène",
+      "explication": "Hétérozygote signifie que les allèles sont différents (Aa)."
+    },
+    {
+      "question": "Dans un croisement monohybride AA × aa, la génération F1 est :",
+      "options": ["100 % hétérozygote dominant", "100 % homozygote récessif", "50 % hétérozygote", "50 % homozygote dominant"],
+      "reponse": "100 % hétérozygote dominant",
+      "explication": "Tous les descendants héritent un allèle dominant A et un récessif a."
+    },
+    {
+      "question": "Lors d’un croisement de deux hétérozygotes Aa × Aa, la proportion en F2 de génotypes est :",
+      "options": ["1 AA : 2 Aa : 1 aa", "2 AA : 1 Aa : 1 aa", "3 AA : 1 aa", "4 Aa"],
+      "reponse": "1 AA : 2 Aa : 1 aa",
+      "explication": "La loi de Mendel prévoit cette répartition génétique."
+    },
+    {
+      "question": "Un arbre généalogique sert à :",
+      "options": ["Suivre la transmission des caractères dans une famille", "Mesurer la taille", "Calculer le poids", "Prévoir la météo"],
+      "reponse": "Suivre la transmission des caractères dans une famille",
+      "explication": "Il permet d’étudier la transmission des allèles héréditaires."
+    },
+    {
+      "question": "Dans un arbre généalogique, un cercle représente :",
+      "options": ["Une femme", "Un homme", "Un couple", "Un enfant"],
+      "reponse": "Une femme",
+      "explication": "Les cercles symbolisent les femmes, les carrés les hommes."
+    },
+    {
+      "question": "Dans un arbre généalogique, un carré représente :",
+      "options": ["Un homme", "Une femme", "Un couple", "Un enfant"],
+      "reponse": "Un homme",
+      "explication": "Les carrés représentent les hommes."
+    },
+    {
+      "question": "Un caractère dominant dans un arbre généalogique apparaît chez :",
+      "options": ["Tous les individus affectés ont au moins un parent affecté", "Tous les individus ont les parents non affectés", "Les individus apparaissent au hasard", "Tous les individus sont malades"],
+      "reponse": "Tous les individus affectés ont au moins un parent affecté",
+      "explication": "La dominance implique la transmission visible d’une génération à l’autre."
+    },
+    {
+      "question": "Un caractère récessif dans un arbre généalogique apparaît :",
+      "options": ["Chez des individus parfois issus de parents non affectés", "Seulement chez les parents", "Chez tous les descendants", "Jamais chez les enfants"],
+      "reponse": "Chez des individus parfois issus de parents non affectés",
+      "explication": "Le caractère récessif peut sauter des générations."
+    },
+    {
+      "question": "Un allèle récessif s’exprime uniquement si :",
+      "options": ["L’individu est homozygote récessif", "L’individu est homozygote dominant", "L’individu est hétérozygote", "L’allèle dominant est absent"],
+      "reponse": "L’individu est homozygote récessif",
+      "explication": "L’allèle récessif s’exprime uniquement quand aucun allèle dominant n’est présent."
+    },
+    {
+      "question": "Le croisement test sert à :",
+      "options": ["Déterminer le génotype d’un individu dominant", "Produire des hybrides", "Créer des mutants", "Modifier les gènes"],
+      "reponse": "Déterminer le génotype d’un individu dominant",
+      "explication": "Le croisement test permet de savoir si un dominant est homozygote ou hétérozygote."
+    },
+    {
+      "question": "Les allèles situés sur des chromosomes homologues sont dits :",
+      "options": ["Allèles homologues", "Allèles indépendants", "Allèles mutés", "Allèles liés"],
+      "reponse": "Allèles homologues",
+      "explication": "Ils occupent la même position (locus) sur les chromosomes homologues."
+    },
+    {
+      "question": "La transmission autosomique concerne :",
+      "options": ["Les gènes situés sur les chromosomes non sexuels", "Les gènes sexuels", "Les mitochondries", "Les bactéries"],
+      "reponse": "Les gènes situés sur les chromosomes non sexuels",
+      "explication": "Les autosomes sont les chromosomes non sexuels."
+    },
+    {
+      "question": "La transmission liée au sexe concerne :",
+      "options": ["Les gènes situés sur les chromosomes sexuels", "Les mitochondries", "Les chromosomes autosomes", "Les plasmides"],
+      "reponse": "Les gènes situés sur les chromosomes sexuels",
+      "explication": "Les gènes liés au sexe se transmettent via les chromosomes X ou Y."
+    },
+    {
+      "question": "La loi de Hardy-Weinberg s’applique :",
+      "options": ["À une population en équilibre génétique", "À une population mutante", "À un individu seul", "À une cellule"],
+      "reponse": "À une population en équilibre génétique",
+      "explication": "Elle décrit la stabilité des fréquences alléliques en absence de facteurs évolutifs."
+    },
+    {
+      "question": "En génétique, un phénotype désigne :",
+      "options": ["L’expression observable d’un caractère", "Le patrimoine génétique", "Une mutation", "Une cellule"],
+      "reponse": "L’expression observable d’un caractère",
+      "explication": "Le phénotype est l’apparence ou la manifestation du génotype."
+    },
+    {
+      "question": "Le génotype correspond à :",
+      "options": ["La composition génétique d’un individu", "Son apparence", "Sa taille", "Sa couleur de peau"],
+      "reponse": "La composition génétique d’un individu",
+      "explication": "Le génotype désigne les allèles présents chez un individu."
+    },
+    {
+      "question": "Un allèle dominant est noté habituellement :",
+      "options": ["Par une majuscule", "Par une minuscule", "Par un chiffre", "Par un symbole mathématique"],
+      "reponse": "Par une majuscule",
+      "explication": "On utilise une majuscule pour symboliser l’allèle dominant."
+    },
+    {
+      "question": "Un allèle récessif est noté habituellement :",
+      "options": ["Par une minuscule", "Par une majuscule", "Par un chiffre", "Par un symbole"],
+      "reponse": "Par une minuscule",
+      "explication": "On utilise une minuscule pour symboliser l’allèle récessif."
+    },
+    {
+      "question": "La génétique mendélienne repose sur :",
+      "options": ["L’étude des caractères héréditaires par croisements", "La génétique moléculaire", "Les mutations spontanées", "La génétique des populations"],
+      "reponse": "L’étude des caractères héréditaires par croisements",
+      "explication": "Mendel a établi ses lois en étudiant la transmission de caractères via les croisements."
+    },
+    {
+      "question": "Quel est le rôle principal de la mitose ?",
+      "options": ["Multiplier les cellules identiques", "Produire des cellules sexuelles", "Réduire le nombre de chromosomes", "Créer de nouvelles espèces"],
+      "reponse": "Multiplier les cellules identiques",
+      "explication": "La mitose permet la division d'une cellule mère en deux cellules filles génétiquement identiques."
+    },
+    {
+      "question": "Combien de cellules filles sont produites à partir d’une mitose ?",
+      "options": ["2", "4", "1", "8"],
+      "reponse": "2",
+      "explication": "La mitose produit deux cellules filles identiques à la cellule mère."
+    },
+    {
+      "question": "Quel est le nombre de chromosomes dans les cellules issues de la mitose humaine ?",
+      "options": ["46", "23", "92", "13"],
+      "reponse": "46",
+      "explication": "La mitose conserve le nombre de chromosomes, donc 46 chez l'humain."
+    },
+    {
+      "question": "La méiose permet :",
+      "options": ["La formation des gamètes", "La cicatrisation", "Le renouvellement des tissus", "La respiration cellulaire"],
+      "reponse": "La formation des gamètes",
+      "explication": "La méiose est à l’origine des cellules reproductrices, ou gamètes."
+    },
+    {
+      "question": "Quel est le nombre de cellules filles issues d’une méiose complète ?",
+      "options": ["4", "2", "1", "8"],
+      "reponse": "4",
+      "explication": "Une cellule mère diploïde donne 4 cellules haploïdes lors de la méiose."
+    },
+    {
+      "question": "Combien de divisions cellulaires comporte la méiose ?",
+      "options": ["2", "1", "3", "4"],
+      "reponse": "2",
+      "explication": "La méiose comprend deux divisions successives : réductionnelle et équationnelle."
+    },
+    {
+      "question": "Quel est le nombre de chromosomes dans un gamète humain ?",
+      "options": ["23", "46", "92", "13"],
+      "reponse": "23",
+      "explication": "Les gamètes sont haploïdes, donc possèdent 23 chromosomes chez l'humain."
+    },
+    {
+      "question": "Quelle phase précède la mitose ?",
+      "options": ["Interphase", "Télophase", "Métaphase", "Cytokinèse"],
+      "reponse": "Interphase",
+      "explication": "L'interphase est la phase où la cellule prépare sa division (réplication de l’ADN)."
+    },
+    {
+      "question": "À quelle étape les chromosomes s’alignent-ils au centre de la cellule lors de la mitose ?",
+      "options": ["Métaphase", "Prophase", "Anaphase", "Télophase"],
+      "reponse": "Métaphase",
+      "explication": "En métaphase, les chromosomes s’alignent sur la plaque équatoriale."
+    },
+    {
+      "question": "Pendant la prophase, on observe :",
+      "options": ["Condensation des chromosomes", "Séparation des chromatides", "Disparition du cytoplasme", "Duplication de l’ADN"],
+      "reponse": "Condensation des chromosomes",
+      "explication": "C’est en prophase que les chromosomes deviennent visibles, car ils se condensent."
+    },
+    {
+      "question": "Lors de l’anaphase de mitose :",
+      "options": ["Les chromatides migrent vers les pôles", "Les chromosomes se dupliquent", "Le noyau disparaît", "Les cellules fusionnent"],
+      "reponse": "Les chromatides migrent vers les pôles",
+      "explication": "Les chromatides sœurs se séparent et sont tirées vers les pôles opposés."
+    },
+    {
+      "question": "Quelle est la principale différence entre mitose et méiose ?",
+      "options": ["Conservation ou réduction du nombre de chromosomes", "Durée du cycle", "Présence d’ADN", "Localisation cellulaire"],
+      "reponse": "Conservation ou réduction du nombre de chromosomes",
+      "explication": "La mitose conserve le caryotype, la méiose le divise par deux."
+    },
+    {
+      "question": "Quel événement clé se produit en prophase I de la méiose ?",
+      "options": ["Enjambement (crossing-over)", "Division du cytoplasme", "Fusion des gamètes", "Duplication de l’ADN"],
+      "reponse": "Enjambement (crossing-over)",
+      "explication": "En prophase I, les chromosomes homologues échangent des segments d’ADN."
+    },
+    {
+      "question": "Quel est le résultat du crossing-over ?",
+      "options": ["Brassage intrachromosomique", "Mutation", "Division cellulaire", "Réduction chromosomique"],
+      "reponse": "Brassage intrachromosomique",
+      "explication": "Le crossing-over favorise les recombinaisons génétiques au sein d’un même chromosome."
+    },
+    {
+      "question": "Le brassage interchromosomique résulte :",
+      "options": ["De la répartition aléatoire des chromosomes homologues", "Du crossing-over", "De la mitose", "De la télophase"],
+      "reponse": "De la répartition aléatoire des chromosomes homologues",
+      "explication": "Lors de la métaphase I, les chromosomes homologues s’orientent aléatoirement."
+    },
+    {
+      "question": "Les cellules issues de la méiose sont :",
+      "options": ["Haploïdes", "Diploïdes", "Triploïdes", "Polyploïdes"],
+      "reponse": "Haploïdes",
+      "explication": "Elles possèdent un seul exemplaire de chaque chromosome."
+    },
+    {
+      "question": "Le brassage génétique augmente :",
+      "options": ["La diversité génétique", "La durée de vie", "La taille des chromosomes", "Le nombre de mutations"],
+      "reponse": "La diversité génétique",
+      "explication": "Les recombinaisons permettent des combinaisons variées d’allèles chez les descendants."
+    },
+    {
+      "question": "Le cycle cellulaire comprend :",
+      "options": ["Interphase + mitose", "Méiose uniquement", "Apoptose", "Mutation + réplication"],
+      "reponse": "Interphase + mitose",
+      "explication": "Le cycle cellulaire inclut la préparation (interphase) et la division (mitose)."
+    },
+    {
+      "question": "Les cellules germinales se divisent par :",
+      "options": ["Méiose", "Mitose", "Cytolyse", "Osmose"],
+      "reponse": "Méiose",
+      "explication": "Les cellules germinales subissent la méiose pour produire les gamètes."
+    },
+    {
+      "question": "Lors de la fécondation humaine, les gamètes fusionnent pour donner une cellule :",
+      "options": ["Diploïde", "Haploïde", "Anormale", "Polyploïde"],
+      "reponse": "Diploïde",
+      "explication": "La cellule-œuf (zygote) contient 2n chromosomes (n du père + n de la mère)."
+    },
+    {
+      "question": "Quand la duplication de l’ADN se produit-elle ?",
+      "options": ["Pendant l’interphase", "Pendant la prophase", "En télophase", "Après la mitose"],
+      "reponse": "Pendant l’interphase",
+      "explication": "La phase S de l’interphase est le moment de la réplication de l’ADN."
+    },
+    {
+      "question": "La télophase est caractérisée par :",
+      "options": ["La reconstitution des noyaux", "La duplication des chromosomes", "L’échange d’ADN", "La lyse de la cellule"],
+      "reponse": "La reconstitution des noyaux",
+      "explication": "Les chromosomes se décondensent et les enveloppes nucléaires se reforment."
+    },
+    {
+      "question": "Le fuseau mitotique sert à :",
+      "options": ["Séparer les chromatides", "Créer des mutations", "Fusionner les cellules", "Synthétiser l’ADN"],
+      "reponse": "Séparer les chromatides",
+      "explication": "Il guide les chromatides vers les pôles opposés."
+    },
+    {
+      "question": "Chez l’humain, combien de combinaisons différentes de chromosomes sont possibles par répartition aléatoire ?",
+      "options": ["2²³", "23", "46", "2⁴⁶"],
+      "reponse": "2²³",
+      "explication": "23 paires de chromosomes → 2²³ ≈ 8 millions de combinaisons possibles."
+    },
+    {
+      "question": "La réplication de l’ADN est :",
+      "options": ["Semi-conservative", "Conservative", "Aléatoire", "Absolue"],
+      "reponse": "Semi-conservative",
+      "explication": "Chaque brin parental sert de modèle pour un nouveau brin complémentaire."
+    },
+    {
+      "question": "Quelle enzyme est responsable de la synthèse du brin complémentaire d’ADN ?",
+      "options": ["ADN polymérase", "ARN polymérase", "Ligase", "Hélicase"],
+      "reponse": "ADN polymérase",
+      "explication": "Elle assemble les nucléotides complémentaires lors de la réplication."
+    },
+    {
+      "question": "Un chromosome est constitué de :",
+      "options": ["Deux chromatides", "Un brin d’ARN", "Trois centrioles", "Une membrane plasmique"],
+      "reponse": "Deux chromatides",
+      "explication": "Avant la division, chaque chromosome est formé de deux chromatides sœurs."
+    },
+    {
+      "question": "La cytodiérèse désigne :",
+      "options": ["La séparation du cytoplasme", "La mort cellulaire", "La fusion des noyaux", "La réplication de l’ADN"],
+      "reponse": "La séparation du cytoplasme",
+      "explication": "Elle suit la mitose et termine la division en deux cellules."
+    },
+    {
+      "question": "Chez la femme, la méiose aboutit à :",
+      "options": ["Une ovule et trois globules polaires", "Quatre ovules", "Deux cellules identiques", "Une cellule diploïde"],
+      "reponse": "Une ovule et trois globules polaires",
+      "explication": "La méiose est asymétrique chez la femme pour concentrer le cytoplasme dans l'ovule."
+    },
+    {
+      "question": "Une anomalie lors de la méiose peut conduire à :",
+      "options": ["Une non-disjonction chromosomique", "Un crossing-in", "Une fusion cellulaire", "Une duplication cellulaire"],
+      "reponse": "Une non-disjonction chromosomique",
+      "explication": "Cela provoque des anomalies de caryotype (ex : trisomie 21)."
+    }
+  ]
+}

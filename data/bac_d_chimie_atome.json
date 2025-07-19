@@ -1,0 +1,484 @@
+{
+  "qcm": [
+    {
+      "question": "Un atome est électriquement neutre lorsque :",
+      "options": ["Le nombre de protons est égal au nombre d’électrons", "Il a autant de neutrons que de protons", "Il contient un seul neutron", "Il ne contient pas d’électrons"],
+      "reponse": "Le nombre de protons est égal au nombre d’électrons",
+      "explication": "La charge positive des protons compense la charge négative des électrons."
+    },
+    {
+      "question": "Les protons se trouvent dans :",
+      "options": ["Le noyau", "La couche externe", "Les orbitales", "Le vide autour de l’atome"],
+      "reponse": "Le noyau",
+      "explication": "Protons et neutrons constituent le noyau de l’atome."
+    },
+    {
+      "question": "Le neutron a une charge électrique :",
+      "options": ["Nulle", "Positive", "Négative", "Variable"],
+      "reponse": "Nulle",
+      "explication": "Le neutron est électriquement neutre, contrairement au proton (+) et à l’électron (−)."
+    },
+    {
+      "question": "Le numéro atomique Z d’un élément représente :",
+      "options": ["Le nombre de protons", "Le nombre de neutrons", "La masse atomique", "Le nombre d’orbitales"],
+      "reponse": "Le nombre de protons",
+      "explication": "Z correspond au nombre de charges positives dans le noyau (protons)."
+    },
+    {
+      "question": "La masse d’un atome dépend principalement de :",
+      "options": ["Protons et neutrons", "Électrons", "Photons", "Isotopes"],
+      "reponse": "Protons et neutrons",
+      "explication": "Les électrons ont une masse négligeable par rapport aux protons et neutrons."
+    },
+    {
+      "question": "Deux isotopes d’un même élément ont :",
+      "options": ["Le même nombre de protons mais un nombre de neutrons différent", "Des électrons en plus", "Des masses identiques", "Des numéros atomiques différents"],
+      "reponse": "Le même nombre de protons mais un nombre de neutrons différent",
+      "explication": "Les isotopes ont même Z mais A (masse) différent."
+    },
+    {
+      "question": "La configuration électronique décrit :",
+      "options": ["La répartition des électrons autour du noyau", "La structure du noyau", "La masse atomique", "La densité de l’atome"],
+      "reponse": "La répartition des électrons autour du noyau",
+      "explication": "Elle montre comment les électrons sont distribués dans les différentes couches."
+    },
+    {
+      "question": "Combien d’électrons peut contenir la couche K au maximum ?",
+      "options": ["2", "8", "18", "6"],
+      "reponse": "2",
+      "explication": "La couche K (n=1) peut contenir jusqu’à 2 électrons : 2n² = 2."
+    },
+    {
+      "question": "Un atome de sodium (Z = 11) a pour configuration électronique :",
+      "options": ["1s² 2s² 2p⁶ 3s¹", "1s² 2s² 2p⁶ 3p¹", "1s² 2s² 2p⁶", "1s² 2s² 2p⁶ 3s²"],
+      "reponse": "1s² 2s² 2p⁶ 3s¹",
+      "explication": "Les 11 électrons sont répartis ainsi : 2 + 2 + 6 + 1."
+    },
+    {
+      "question": "Les éléments d’une même colonne du tableau périodique ont :",
+      "options": ["Le même nombre d’électrons de valence", "La même masse", "Le même nombre d’électrons total", "Le même nombre de couches électroniques"],
+      "reponse": "Le même nombre d’électrons de valence",
+      "explication": "Cela explique leur réactivité chimique similaire."
+    },
+    {
+      "question": "Quel est le nombre total de protons et de neutrons dans le noyau d’un atome ?",
+      "options": ["Nombre de masse A", "Numéro atomique Z", "Nombre d’oxydation", "Charge nucléaire"],
+      "reponse": "Nombre de masse A",
+      "explication": "A = Z + N, c’est le nombre total de nucléons (protons + neutrons)."
+    },
+    {
+      "question": "Un ion négatif (anion) se forme quand :",
+      "options": ["Un atome gagne des électrons", "Un atome perd des électrons", "Un noyau se divise", "Un neutron est éjecté"],
+      "reponse": "Un atome gagne des électrons",
+      "explication": "Gagner des électrons donne un excès de charge négative."
+    },
+    {
+      "question": "Un cation est :",
+      "options": ["Un ion positif", "Un électron libre", "Un atome neutre", "Une particule α"],
+      "reponse": "Un ion positif",
+      "explication": "Il est formé par perte d’électrons."
+    },
+    {
+      "question": "Un atome avec Z = 8 est :",
+      "options": ["L’oxygène", "Le carbone", "Le fluor", "L’hélium"],
+      "reponse": "L’oxygène",
+      "explication": "Z = 8 correspond à l’élément O dans le tableau périodique."
+    },
+    {
+      "question": "La 3ᵉ période du tableau comprend :",
+      "options": ["8 éléments", "2 éléments", "10 éléments", "18 éléments"],
+      "reponse": "8 éléments",
+      "explication": "De Na à Ar, la 3ᵉ période contient 8 éléments."
+    },
+    {
+      "question": "Quel est le symbole chimique du potassium ?",
+      "options": ["K", "P", "Pt", "Po"],
+      "reponse": "K",
+      "explication": "K vient du latin « kalium »."
+    },
+    {
+      "question": "La classification périodique actuelle est organisée selon :",
+      "options": ["Le numéro atomique", "La masse atomique", "Le volume atomique", "La densité atomique"],
+      "reponse": "Le numéro atomique",
+      "explication": "Mendeleïev utilisait la masse, mais la version moderne suit Z."
+    },
+    {
+      "question": "Les gaz nobles se trouvent dans :",
+      "options": ["La 18ᵉ colonne", "La 1ʳᵉ ligne", "Le bloc d", "La 3ᵉ période"],
+      "reponse": "La 18ᵉ colonne",
+      "explication": "Les gaz nobles (He, Ne, Ar...) sont dans la dernière colonne."
+    },
+    {
+      "question": "Les métaux alcalins se situent dans :",
+      "options": ["La 1ʳᵉ colonne", "La 2ᵉ ligne", "Le bloc f", "La 17ᵉ colonne"],
+      "reponse": "La 1ʳᵉ colonne",
+      "explication": "Ils ont un seul électron de valence et sont très réactifs."
+    },
+    {
+      "question": "Le fluor (F) a combien d’électrons de valence ?",
+      "options": ["7", "2", "1", "8"],
+      "reponse": "7",
+      "explication": "F est dans la colonne 17 → 7 électrons de valence."
+    },
+    {
+      "question": "Un isotope du carbone est :",
+      "options": ["¹²C et ¹⁴C", "¹⁶O et ¹⁸O", "¹H et ²H", "²³Na et ³⁵Cl"],
+      "reponse": "¹²C et ¹⁴C",
+      "explication": "Même Z = 6 (carbone), masse A différente."
+    },
+    {
+      "question": "Quel atome a la configuration 1s² 2s² 2p⁶ ?",
+      "options": ["Néon", "Oxygène", "Fluor", "Magnésium"],
+      "reponse": "Néon",
+      "explication": "Z = 10, configuration complète jusqu’à la couche L."
+    },
+    {
+      "question": "La 2ᵉ période du tableau contient :",
+      "options": ["8 éléments", "2 éléments", "10 éléments", "6 éléments"],
+      "reponse": "8 éléments",
+      "explication": "Allant du lithium (Z = 3) au néon (Z = 10)."
+    },
+    {
+      "question": "Le nombre de couches électroniques est donné par :",
+      "options": ["Le numéro de période", "La masse atomique", "La charge du noyau", "Le groupe chimique"],
+      "reponse": "Le numéro de période",
+      "explication": "Ex : élément en 3ᵉ période → 3 couches électroniques."
+    },
+    {
+      "question": "Un atome dont Z = 17 est :",
+      "options": ["Le chlore", "Le soufre", "Le potassium", "Le calcium"],
+      "reponse": "Le chlore",
+      "explication": "Z = 17 correspond à l’élément Cl."
+    },
+    {
+      "question": "Les électrons de valence déterminent :",
+      "options": ["La réactivité chimique", "La masse atomique", "Le nombre de neutrons", "La densité"],
+      "reponse": "La réactivité chimique",
+      "explication": "Ce sont eux qui participent aux liaisons chimiques."
+    },
+    {
+      "question": "Les éléments du même groupe ont :",
+      "options": ["Des propriétés chimiques similaires", "Le même nombre de neutrons", "Le même numéro atomique", "La même masse volumique"],
+      "reponse": "Des propriétés chimiques similaires",
+      "explication": "Car ils ont le même nombre d’électrons de valence."
+    },
+    {
+      "question": "Quel est le numéro atomique du calcium (Ca) ?",
+      "options": ["20", "40", "12", "22"],
+      "reponse": "20",
+      "explication": "Ca → Z = 20."
+    },
+    {
+      "question": "Un électron a une charge de :",
+      "options": ["-1,6 × 10⁻¹⁹ C", "+1,6 × 10⁻¹⁹ C", "0", "1,6 C"],
+      "reponse": "-1,6 × 10⁻¹⁹ C",
+      "explication": "Charge élémentaire négative de l’électron."
+    },
+    {
+      "question": "Le noyau d’un atome est :",
+      "options": ["Très petit mais très dense", "Vide", "Chargé négativement", "Formé uniquement d’électrons"],
+      "reponse": "Très petit mais très dense",
+      "explication": "Il concentre presque toute la masse de l’atome dans un volume minuscule."
+    },
+    {
+      "question": "L’électronégativité d’un élément est :",
+      "options": ["Sa capacité à attirer les électrons dans une liaison", "Son nombre d’électrons", "Sa masse atomique", "Sa densité nucléaire"],
+      "reponse": "Sa capacité à attirer les électrons dans une liaison",
+      "explication": "Elle mesure l’aptitude d’un atome à attirer les électrons partagés dans une liaison chimique."
+    },
+    {
+      "question": "Dans une période, l’électronégativité :",
+      "options": ["Augmente de gauche à droite", "Diminue de gauche à droite", "Reste constante", "Varie sans tendance"],
+      "reponse": "Augmente de gauche à droite",
+      "explication": "Car le noyau attire plus fortement les électrons avec plus de protons."
+    },
+    {
+      "question": "Quel élément est le plus électronégatif ?",
+      "options": ["Fluor", "Oxygène", "Chlore", "Azote"],
+      "reponse": "Fluor",
+      "explication": "Le fluor a l’électronégativité la plus élevée (≈3,98 selon Pauling)."
+    },
+    {
+      "question": "Le rayon atomique est :",
+      "options": ["La distance entre le noyau et l’électron le plus externe", "La masse de l’atome", "Le nombre de neutrons", "La taille du noyau"],
+      "reponse": "La distance entre le noyau et l’électron le plus externe",
+      "explication": "Il donne une idée de la taille globale de l’atome."
+    },
+    {
+      "question": "Dans une même période, le rayon atomique :",
+      "options": ["Diminue de gauche à droite", "Augmente de gauche à droite", "Reste constant", "Double"],
+      "reponse": "Diminue de gauche à droite",
+      "explication": "Le noyau attire plus fortement les électrons, ce qui réduit le rayon."
+    },
+    {
+      "question": "Dans une même colonne, le rayon atomique :",
+      "options": ["Augmente de haut en bas", "Diminue de haut en bas", "Reste constant", "Devient nul"],
+      "reponse": "Augmente de haut en bas",
+      "explication": "On ajoute des couches électroniques en descendant."
+    },
+    {
+      "question": "L’énergie d’ionisation est :",
+      "options": ["L’énergie nécessaire pour arracher un électron à un atome neutre", "L’énergie d’une liaison chimique", "La masse totale de l’atome", "La vitesse d’un électron"],
+      "reponse": "L’énergie nécessaire pour arracher un électron à un atome neutre",
+      "explication": "Elle traduit la difficulté à ioniser un atome."
+    },
+    {
+      "question": "L’énergie d’ionisation augmente :",
+      "options": ["De gauche à droite dans une période", "De bas en haut dans une colonne", "Quand le rayon diminue", "Toutes ces réponses"],
+      "reponse": "Toutes ces réponses",
+      "explication": "Plus l’électron est proche du noyau, plus il est difficile à retirer."
+    },
+    {
+      "question": "Les métaux ont en général :",
+      "options": ["Une faible énergie d’ionisation", "Une électronégativité élevée", "Un petit rayon", "Une forte affinité électronique"],
+      "reponse": "Une faible énergie d’ionisation",
+      "explication": "Ils perdent facilement leurs électrons de valence."
+    },
+    {
+      "question": "L’affinité électronique est :",
+      "options": ["L’énergie libérée quand un atome neutre capte un électron", "L’énergie d’un photon", "Le rayon d’un ion", "La densité électronique"],
+      "reponse": "L’énergie libérée quand un atome neutre capte un électron",
+      "explication": "Elle indique la tendance d’un atome à accepter un électron."
+    },
+    {
+      "question": "Les non-métaux ont une affinité électronique :",
+      "options": ["Forte", "Nulle", "Négative", "Instable"],
+      "reponse": "Forte",
+      "explication": "Ils tendent à gagner des électrons."
+    },
+    {
+      "question": "Dans le tableau périodique, une période correspond à :",
+      "options": ["Une ligne horizontale", "Une colonne verticale", "Un groupe d’isotopes", "Une couche électronique"],
+      "reponse": "Une ligne horizontale",
+      "explication": "Chaque période correspond à une même valeur de n (niveau principal)."
+    },
+    {
+      "question": "Les éléments d’un même groupe ont :",
+      "options": ["Le même nombre d’électrons de valence", "Le même rayon", "La même masse", "La même période"],
+      "reponse": "Le même nombre d’électrons de valence",
+      "explication": "C’est pourquoi ils ont des propriétés chimiques similaires."
+    },
+    {
+      "question": "Quel élément possède le plus grand rayon atomique ?",
+      "options": ["Césium", "Hydrogène", "Fluor", "Carbone"],
+      "reponse": "Césium",
+      "explication": "Le césium est très en bas à gauche → rayon maximal."
+    },
+    {
+      "question": "Les métalloïdes se trouvent :",
+      "options": ["À la frontière entre métaux et non-métaux", "Au centre du tableau", "Dans les gaz rares", "En bas à droite"],
+      "reponse": "À la frontière entre métaux et non-métaux",
+      "explication": "Ils ont des propriétés intermédiaires."
+    },
+    {
+      "question": "Les gaz nobles sont chimiquement :",
+      "options": ["Inertes", "Très réactifs", "Oxydants", "Réducteurs"],
+      "reponse": "Inertes",
+      "explication": "Leur couche externe est saturée → faible réactivité."
+    },
+    {
+      "question": "Quel est le lien entre rayon atomique et énergie d’ionisation ?",
+      "options": ["Plus le rayon est petit, plus l’énergie d’ionisation est élevée", "Ils sont indépendants", "Ils augmentent ensemble", "Le rayon diminue si l’ionisation est faible"],
+      "reponse": "Plus le rayon est petit, plus l’énergie d’ionisation est élevée",
+      "explication": "Les électrons proches du noyau sont plus difficiles à arracher."
+    },
+    {
+      "question": "Les alcalins (colonne 1) ont un électron de valence. Ils sont :",
+      "options": ["Très réactifs", "Inertes", "Gaz rares", "Métalloïdes"],
+      "reponse": "Très réactifs",
+      "explication": "Ils perdent facilement cet électron pour se stabiliser."
+    },
+    {
+      "question": "Les halogènes sont situés :",
+      "options": ["Colonne 17", "Colonne 1", "Bloc s", "Période 1"],
+      "reponse": "Colonne 17",
+      "explication": "F, Cl, Br, I… sont des halogènes, très électronégatifs."
+    },
+    {
+      "question": "L’élément ayant Z = 1 est :",
+      "options": ["Hydrogène", "Hélium", "Lithium", "Carbone"],
+      "reponse": "Hydrogène",
+      "explication": "Z = 1 → 1 proton → H."
+    },
+    {
+      "question": "La famille des lanthanides se trouve dans :",
+      "options": ["Le bloc f", "Le bloc s", "Le bloc p", "La colonne 2"],
+      "reponse": "Le bloc f",
+      "explication": "Ils occupent la première ligne séparée du tableau."
+    },
+    {
+      "question": "Quel élément est un métal alcalino-terreux ?",
+      "options": ["Calcium", "Sodium", "Aluminium", "Fer"],
+      "reponse": "Calcium",
+      "explication": "Colonne 2 du tableau : Be, Mg, Ca, Sr..."
+    },
+    {
+      "question": "Le passage d’un atome neutre à un cation entraîne :",
+      "options": ["Une diminution du rayon", "Une augmentation du rayon", "Un gain de masse", "Aucune variation"],
+      "reponse": "Une diminution du rayon",
+      "explication": "Moins d’électrons → attraction plus forte du noyau."
+    },
+    {
+      "question": "Quel élément a une très faible électronégativité ?",
+      "options": ["Francium", "Oxygène", "Fluor", "Soufre"],
+      "reponse": "Francium",
+      "explication": "Élément alcalin très en bas → électronégativité minimale."
+    },
+    {
+      "question": "En descendant dans une colonne, l’électronégativité :",
+      "options": ["Diminue", "Augmente", "Reste constante", "Devient nulle"],
+      "reponse": "Diminue",
+      "explication": "Les électrons sont plus éloignés du noyau, donc moins attirés."
+    },
+    {
+      "question": "Quel est l’élément le plus réactif des halogènes ?",
+      "options": ["Fluor", "Iode", "Brome", "Chlore"],
+      "reponse": "Fluor",
+      "explication": "Le fluor a la plus forte électronégativité."
+    },
+    {
+      "question": "Les propriétés chimiques d’un élément dépendent principalement :",
+      "options": ["Des électrons de valence", "Du noyau", "De la masse", "Du nombre de neutrons"],
+      "reponse": "Des électrons de valence",
+      "explication": "Ce sont eux qui interviennent dans les réactions chimiques."
+    },
+    {
+      "question": "Les éléments de transition sont situés dans :",
+      "options": ["Le bloc d", "La 18e colonne", "La 1re période", "Le bloc s"],
+      "reponse": "Le bloc d",
+      "explication": "Ce sont les métaux de transition (Fe, Cu, Zn, etc.)."
+    },
+    {
+      "question": "Quel élément a une configuration 1s² 2s² 2p⁶ 3s² 3p⁶ ?",
+      "options": ["Argon", "Potassium", "Soufre", "Chlore"],
+      "reponse": "Argon",
+      "explication": "Cette configuration correspond à Z = 18."
+    },
+    {
+      "question": "Quel gaz rare est utilisé dans les lampes à incandescence ?",
+      "options": ["Argon", "Hélium", "Néon", "Radon"],
+      "reponse": "Argon",
+      "explication": "Inerte et peu coûteux, il empêche l’oxydation du filament."
+    },
+    {
+      "question": "Quel est le nombre total d’électrons dans un ion O²⁻ ?",
+      "options": ["10", "8", "6", "16"],
+      "reponse": "10",
+      "explication": "L'atome d’oxygène neutre a 8 électrons. En gagnant 2 électrons, il en a 10."
+    },
+    {
+      "question": "Quelle est la configuration électronique du magnésium (Z = 12) ?",
+      "options": ["1s² 2s² 2p⁶ 3s²", "1s² 2s² 2p⁶ 3p²", "1s² 2p⁶ 3s² 3p²", "1s² 2s² 2p⁶ 4s²"],
+      "reponse": "1s² 2s² 2p⁶ 3s²",
+      "explication": "Le magnésium a 12 électrons, répartis sur trois couches jusqu'à 3s²."
+    },
+    {
+      "question": "Quel atome est isoélectronique avec le néon ?",
+      "options": ["Na⁺", "F⁻", "O²⁻", "Toutes ces réponses"],
+      "reponse": "Toutes ces réponses",
+      "explication": "Ils ont tous 10 électrons comme le néon (Z = 10)."
+    },
+    {
+      "question": "L’ion Ca²⁺ a une configuration identique à celle de :",
+      "options": ["Argon", "Calcium", "Potassium", "Soufre"],
+      "reponse": "Argon",
+      "explication": "Ca²⁺ perd 2 électrons pour obtenir la configuration stable de Ar (Z = 18)."
+    },
+    {
+      "question": "Quel élément a le plus petit rayon atomique ?",
+      "options": ["Fluor", "Sodium", "Oxygène", "Chlore"],
+      "reponse": "Fluor",
+      "explication": "Le rayon atomique diminue de gauche à droite dans une période."
+    },
+    {
+      "question": "Lequel a l’électronégativité la plus élevée ?",
+      "options": ["Fluor", "Oxygène", "Chlore", "Azote"],
+      "reponse": "Fluor",
+      "explication": "C’est l’élément le plus électronégatif du tableau périodique (3,98)."
+    },
+    {
+      "question": "Combien d’électrons de valence possède le chlore (Z = 17) ?",
+      "options": ["7", "1", "5", "8"],
+      "reponse": "7",
+      "explication": "Configuration : 1s² 2s² 2p⁶ 3s² 3p⁵ → 7 électrons de valence."
+    },
+    {
+      "question": "Quelle propriété augmente de bas en haut dans une colonne ?",
+      "options": ["Électronégativité", "Rayon atomique", "Nombre de couches", "Masse atomique"],
+      "reponse": "Électronégativité",
+      "explication": "Elle augmente de bas en haut et de gauche à droite."
+    },
+    {
+      "question": "Quel est le cation le plus petit ?",
+      "options": ["Mg²⁺", "Na⁺", "Ca²⁺", "K⁺"],
+      "reponse": "Mg²⁺",
+      "explication": "Il a perdu 2 électrons et a une couche de moins → rayon plus petit."
+    },
+    {
+      "question": "Quelle est la configuration électronique de l’anion Cl⁻ ?",
+      "options": ["[Ne] 3s² 3p⁶", "1s² 2s² 2p⁶ 3s² 3p⁵", "[Ne] 3s² 3p⁵", "1s² 2s² 2p⁶ 3s² 3p⁴"],
+      "reponse": "[Ne] 3s² 3p⁶",
+      "explication": "Le chlore neutre (Z = 17) gagne 1 électron pour atteindre 18 → configuration du Ar."
+    },
+    {
+      "question": "Quel élément correspond à la configuration [Ne] 3s² 3p⁴ ?",
+      "options": ["Soufre", "Phosphore", "Chlore", "Magnésium"],
+      "reponse": "Soufre",
+      "explication": "Cela correspond à Z = 16, soit l’atome de soufre."
+    },
+    {
+      "question": "Quel est le numéro atomique de l’élément ayant cette configuration : 1s² 2s² 2p⁶ 3s¹ ?",
+      "options": ["11", "10", "12", "13"],
+      "reponse": "11",
+      "explication": "Cette configuration correspond au sodium (Na), Z = 11."
+    },
+    {
+      "question": "Les éléments du même groupe ont :",
+      "options": ["Même nb d’électrons de valence", "Même nb de protons", "Même masse", "Même niveau d’énergie"],
+      "reponse": "Même nb d’électrons de valence",
+      "explication": "Ils ont des propriétés chimiques similaires."
+    },
+    {
+      "question": "Quel est le rayon le plus grand ?",
+      "options": ["K", "Na", "Mg", "Ca"],
+      "reponse": "K",
+      "explication": "Dans une même période, le rayon diminue ; dans une colonne, il augmente vers le bas."
+    },
+    {
+      "question": "Quel élément a la plus faible énergie d’ionisation ?",
+      "options": ["Francium", "Hydrogène", "Carbone", "Chlore"],
+      "reponse": "Francium",
+      "explication": "Il se trouve tout en bas à gauche → atome très gros et très réactif."
+    },
+    {
+      "question": "Quel ion est isoélectronique avec Ar ?",
+      "options": ["Cl⁻", "K⁺", "Ca²⁺", "Tous"],
+      "reponse": "Tous",
+      "explication": "Ils ont tous 18 électrons comme l’atome d’argon (Z = 18)."
+    },
+    {
+      "question": "Quel élément est un alcalino-terreux ?",
+      "options": ["Calcium", "Sodium", "Fer", "Zinc"],
+      "reponse": "Calcium",
+      "explication": "Les alcalino-terreux sont dans la colonne 2 : Be, Mg, Ca, etc."
+    },
+    {
+      "question": "Quelle est la configuration électronique complète de l’atome de carbone (Z = 6) ?",
+      "options": ["1s² 2s² 2p²", "1s² 2s² 2p⁶", "1s² 2p⁴", "1s² 2s² 3s²"],
+      "reponse": "1s² 2s² 2p²",
+      "explication": "Le carbone possède 6 électrons répartis sur deux couches."
+    },
+    {
+      "question": "Le passage d’un atome neutre à un anion entraîne :",
+      "options": ["Une augmentation du rayon", "Une diminution du rayon", "Pas de changement", "Un rayon nul"],
+      "reponse": "Une augmentation du rayon",
+      "explication": "Les électrons supplémentaires augmentent la répulsion → rayon plus grand."
+    },
+    {
+      "question": "Un élément possède la configuration 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹. Quel est cet élément ?",
+      "options": ["Potassium", "Calcium", "Argon", "Sodium"],
+      "reponse": "Potassium",
+      "explication": "Il a 19 électrons, le premier de la 4ᵉ période (K)."
+    }
+  ]
+}

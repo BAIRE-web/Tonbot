@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "La moyenne d’une série de valeurs x₁, x₂, ..., xₙ est donnée par :",
+      "options": ["(x₁ + x₂ + ... + xₙ)/n", "x₁ × x₂ × ... × xₙ", "xₙ − x₁", "xₙ/n"],
+      "reponse": "(x₁ + x₂ + ... + xₙ)/n",
+      "explication": "La moyenne est la somme des valeurs divisée par leur effectif total."
+    },
+    {
+      "question": "La variance V d’une série est :",
+      "options": ["(1/n) ∑(xᵢ − 𝜇)²", "(1/n) ∑xᵢ", "√(∑xᵢ)", "max(xᵢ) − min(xᵢ)"],
+      "reponse": "(1/n) ∑(xᵢ − 𝜇)²",
+      "explication": "La variance mesure la dispersion autour de la moyenne 𝜇."
+    },
+    {
+      "question": "L’écart-type σ d’une série est défini comme :",
+      "options": ["√(V)", "V²", "V/2", "1/V"],
+      "reponse": "√(V)",
+      "explication": "L’écart-type est la racine carrée de la variance."
+    },
+    {
+      "question": "Un écart-type faible signifie que les données sont :",
+      "options": ["Regroupées autour de la moyenne", "Très dispersées", "Négatives", "Équidistantes"],
+      "reponse": "Regroupées autour de la moyenne",
+      "explication": "Un faible σ indique peu de dispersion des données."
+    },
+    {
+      "question": "Si toutes les données d’une série sont égales, alors l’écart-type est :",
+      "options": ["0", "1", "x", "∞"],
+      "reponse": "0",
+      "explication": "Pas de variation → σ = 0."
+    },
+    {
+      "question": "L’intervalle [𝜇−σ ; 𝜇+σ] contient environ :",
+      "options": ["68% des données", "100% des données", "50% des données", "10% des données"],
+      "reponse": "68% des données",
+      "explication": "Dans une loi normale, ≈68% des données se situent dans cet intervalle."
+    },
+    {
+      "question": "Quel est l’effet de multiplier toutes les données par un nombre k sur la variance ?",
+      "options": ["Elle est multipliée par k²", "Elle reste inchangée", "Elle est multipliée par k", "Elle devient nulle"],
+      "reponse": "Elle est multipliée par k²",
+      "explication": "La variance dépend du carré des écarts, donc varie avec k²."
+    },
+    {
+      "question": "Si on ajoute une constante à chaque donnée, alors la variance :",
+      "options": ["Ne change pas", "Double", "Devient nulle", "Est multipliée par la constante"],
+      "reponse": "Ne change pas",
+      "explication": "La variance mesure la dispersion, pas la position."
+    },
+    {
+      "question": "Le coefficient de corrélation linéaire r vérifie :",
+      "options": ["−1 ≤ r ≤ 1", "r ≥ 0", "r ≤ 0", "r > 1"],
+      "reponse": "−1 ≤ r ≤ 1",
+      "explication": "r est compris entre −1 (corrélation négative) et 1 (corrélation positive)."
+    },
+    {
+      "question": "Une corrélation r = 0,9 signifie que :",
+      "options": ["Les données sont fortement corrélées positivement", "Il n'y a aucune corrélation", "La corrélation est négative", "La variance est nulle"],
+      "reponse": "Les données sont fortement corrélées positivement",
+      "explication": "Plus r est proche de 1, plus la relation est linéaire et positive."
+    },
+    {
+      "question": "Une droite d’ajustement a pour équation :",
+      "options": ["y = ax + b", "y = ax² + bx + c", "y = sin(x)", "x = y"],
+      "reponse": "y = ax + b",
+      "explication": "C’est le modèle de régression linéaire affine."
+    },
+    {
+      "question": "Dans y = ax + b, le paramètre a représente :",
+      "options": ["La pente", "L’ordonnée à l’origine", "La moyenne", "La variance"],
+      "reponse": "La pente",
+      "explication": "a est le coefficient directeur de la droite."
+    },
+    {
+      "question": "L’ajustement affine consiste à :",
+      "options": ["Trouver une droite proche des points", "Tracer une parabole", "Calculer la moyenne", "Déterminer un polynôme de degré 2"],
+      "reponse": "Trouver une droite proche des points",
+      "explication": "Il s’agit d’approcher un nuage de points par une droite (modèle linéaire)."
+    },
+    {
+      "question": "Plus les points sont proches de la droite d’ajustement, plus :",
+      "options": ["La corrélation est forte", "La variance est nulle", "La moyenne est élevée", "Le nuage est circulaire"],
+      "reponse": "La corrélation est forte",
+      "explication": "Cela signifie que la relation linéaire est fiable."
+    },
+    {
+      "question": "Si r = 0, alors :",
+      "options": ["Aucune corrélation linéaire", "Corrélation parfaite", "Corrélation négative", "Variance nulle"],
+      "reponse": "Aucune corrélation linéaire",
+      "explication": "r = 0 signifie absence de relation linéaire, mais pas forcément aucune dépendance."
+    },
+    {
+      "question": "L’aire sous la courbe de densité d’une loi normale est égale à :",
+      "options": ["1", "0", "100", "π"],
+      "reponse": "1",
+      "explication": "Une fonction de densité doit avoir une aire totale égale à 1."
+    },
+    {
+      "question": "Si deux séries ont la même moyenne mais des écarts-types différents, alors :",
+      "options": ["Elles ont des dispersions différentes", "Elles sont identiques", "Leurs médianes sont égales", "Leurs minimums sont égaux"],
+      "reponse": "Elles ont des dispersions différentes",
+      "explication": "L’écart-type mesure l’étalement des données autour de la moyenne."
+    },
+    {
+      "question": "Une droite d’ajustement passe toujours par le point :",
+      "options": ["(𝑥̄ ; 𝑦̄)", "(0;0)", "(1;1)", "(a;b)"],
+      "reponse": "(𝑥̄ ; 𝑦̄)",
+      "explication": "La droite de régression passe toujours par le barycentre des données."
+    },
+    {
+      "question": "L’ordonnée à l’origine b dans y = ax + b représente :",
+      "options": ["La valeur de y quand x = 0", "Le coefficient de corrélation", "La pente", "La moyenne de x"],
+      "reponse": "La valeur de y quand x = 0",
+      "explication": "C’est le point où la droite coupe l’axe des ordonnées."
+    },
+    {
+      "question": "La médiane d’une série est :",
+      "options": ["La valeur centrale", "La plus fréquente", "La moyenne", "Le maximum"],
+      "reponse": "La valeur centrale",
+      "explication": "Elle divise la série ordonnée en deux groupes de même effectif."
+    },
+    {
+      "question": "Une classe a obtenu les notes suivantes : 10, 12, 14, 16, 18. Quelle est la moyenne ?",
+      "options": ["14", "12", "16", "15"],
+      "reponse": "14",
+      "explication": "Moyenne = (10 + 12 + 14 + 16 + 18)/5 = 70/5 = 14."
+    },
+    {
+      "question": "La moyenne de 3 valeurs est 8. Deux de ces valeurs sont 7 et 9. Quelle est la troisième ?",
+      "options": ["8", "9", "7", "6"],
+      "reponse": "8",
+      "explication": "(7 + 9 + x)/3 = 8 ⇒ x = 8."
+    },
+    {
+      "question": "Soit une série : 2, 4, 4, 4, 5, 5, 7, 9. Quel est l’écart-type approximatif ?",
+      "options": ["±2", "±3", "±1", "±5"],
+      "reponse": "±2",
+      "explication": "Écart-type ≈ racine de la variance, ici ≈ 2 (à estimer à l’examen)."
+    },
+    {
+      "question": "Une série a une moyenne de 10 et un écart-type de 0. Que peut-on conclure ?",
+      "options": ["Toutes les valeurs sont 10", "Il y a une dispersion forte", "La moyenne est fausse", "Certaines valeurs sont nulles"],
+      "reponse": "Toutes les valeurs sont 10",
+      "explication": "Écart-type nul → aucune dispersion → toutes les valeurs sont identiques."
+    },
+    {
+      "question": "On ajoute 5 à chaque valeur d’une série. Que devient la variance ?",
+      "options": ["Elle ne change pas", "Elle augmente de 5", "Elle devient nulle", "Elle double"],
+      "reponse": "Elle ne change pas",
+      "explication": "L’ajout d’une constante ne modifie pas la dispersion."
+    },
+    {
+      "question": "La moyenne d’une série est 20. Si chaque valeur est multipliée par 2, la nouvelle moyenne est :",
+      "options": ["40", "30", "20", "10"],
+      "reponse": "40",
+      "explication": "Nouvelle moyenne = ancienne × 2 = 20 × 2 = 40."
+    },
+    {
+      "question": "Les âges suivants sont relevés : 15, 17, 18, 20. La moyenne est :",
+      "options": ["17,5", "18", "17", "16,5"],
+      "reponse": "17,5",
+      "explication": "(15 + 17 + 18 + 20)/4 = 70/4 = 17,5."
+    },
+    {
+      "question": "Une série de 5 valeurs a une variance de 9. Quel est l’écart-type ?",
+      "options": ["3", "9", "81", "6"],
+      "reponse": "3",
+      "explication": "Écart-type = √(variance) = √9 = 3."
+    },
+    {
+      "question": "Soit une série avec x̄ = 10, σ = 2. Dans quel intervalle [x̄ − σ ; x̄ + σ] se trouvent les données ?",
+      "options": ["[8 ; 12]", "[10 ; 20]", "[9 ; 11]", "[6 ; 14]"],
+      "reponse": "[8 ; 12]",
+      "explication": "10 − 2 = 8 ; 10 + 2 = 12."
+    },
+    {
+      "question": "La droite d’ajustement d’un nuage de points est y = 2x + 1. Quelle est l’image de x = 3 ?",
+      "options": ["7", "6", "5", "8"],
+      "reponse": "7",
+      "explication": "y = 2×3 + 1 = 7."
+    },
+    {
+      "question": "On mesure des températures : 20, 22, 24, 26, 28. L’écart-type est le plus proche de :",
+      "options": ["3.16", "5", "2", "1"],
+      "reponse": "3.16",
+      "explication": "Variance ≈ 10 → écart-type ≈ √10 ≈ 3.16."
+    },
+    {
+      "question": "Une série de 10 notes a une moyenne de 15. Quelle est la somme des notes ?",
+      "options": ["150", "100", "120", "140"],
+      "reponse": "150",
+      "explication": "Somme = moyenne × effectif = 15 × 10."
+    },
+    {
+      "question": "Si une série a un coefficient de corrélation r = −0.95, cela signifie :",
+      "options": ["Corrélation forte négative", "Aucune relation", "Corrélation faible", "Corrélation parfaite positive"],
+      "reponse": "Corrélation forte négative",
+      "explication": "r proche de −1 → relation linéaire négative forte."
+    },
+    {
+      "question": "Une fonction d’ajustement linéaire est y = 0.5x + 2. Quelle est l’ordonnée à l’origine ?",
+      "options": ["2", "0.5", "1", "−2"],
+      "reponse": "2",
+      "explication": "C’est la valeur de y quand x = 0, donc b."
+    },
+    {
+      "question": "Soit une moyenne pondérée avec notes : 12 (coefficient 2), 15 (coefficient 3). Quelle est la moyenne ?",
+      "options": ["13.8", "14.5", "12", "15"],
+      "reponse": "13.8",
+      "explication": "(2×12 + 3×15)/(2 + 3) = (24 + 45)/5 = 13.8."
+    },
+    {
+      "question": "Si les données sont très dispersées, alors l’écart-type est :",
+      "options": ["Grand", "Petit", "Nul", "Négatif"],
+      "reponse": "Grand",
+      "explication": "Plus les données sont éloignées de la moyenne, plus σ est grand."
+    },
+    {
+      "question": "Une médiane est :",
+      "options": ["Une valeur qui sépare la série en deux", "Toujours égale à la moyenne", "Un écart", "Une fréquence"],
+      "reponse": "Une valeur qui sépare la série en deux",
+      "explication": "50% des données sont inférieures, 50% supérieures à la médiane."
+    },
+    {
+      "question": "Dans un tableau statistique, l’effectif total est :",
+      "options": ["La somme des effectifs", "La somme des valeurs", "La moyenne", "L’écart-type"],
+      "reponse": "La somme des effectifs",
+      "explication": "Il correspond au nombre total d’observations."
+    },
+    {
+      "question": "Quel outil graphique aide à visualiser une dispersion ?",
+      "options": ["Histogramme", "Droite", "Polynôme", "Valeur absolue"],
+      "reponse": "Histogramme",
+      "explication": "Il permet de voir la répartition et l’étalement des données."
+    },
+    {
+      "question": "Une distribution est dite symétrique si :",
+      "options": ["Moyenne = médiane = mode", "Écart-type = 0", "Tous les x sont égaux", "Les valeurs sont négatives"],
+      "reponse": "Moyenne = médiane = mode",
+      "explication": "C’est le cas d’une loi normale idéale."
+    }
+  ]
+}

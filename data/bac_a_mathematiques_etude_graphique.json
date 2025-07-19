@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Une fonction linéaire est de la forme :",
+      "options": ["f(x) = ax + b", "f(x) = x²", "f(x) = ax", "f(x) = b"],
+      "reponse": "f(x) = ax",
+      "explication": "Une fonction linéaire s’écrit f(x) = ax, sans terme constant."
+    },
+    {
+      "question": "Une fonction affine est de la forme :",
+      "options": ["f(x) = ax", "f(x) = ax + b", "f(x) = x²", "f(x) = b"],
+      "reponse": "f(x) = ax + b",
+      "explication": "Une fonction affine s’écrit f(x) = ax + b, avec a et b réels."
+    },
+    {
+      "question": "La fonction carré s’écrit :",
+      "options": ["f(x) = ax", "f(x) = ax² + b", "f(x) = x²", "f(x) = b"],
+      "reponse": "f(x) = x²",
+      "explication": "La fonction de référence f(x) = x² est appelée fonction carré."
+    },
+    {
+      "question": "Dans f(x) = ax + b, le nombre b est :",
+      "options": ["La pente", "Le maximum", "L’image de 0", "La racine"],
+      "reponse": "L’image de 0",
+      "explication": "f(0) = a×0 + b = b, donc b est l’ordonnée à l’origine."
+    },
+    {
+      "question": "Dans f(x) = ax, si a > 0 alors f est :",
+      "options": ["Croissante", "Décroissante", "Constante", "Paire"],
+      "reponse": "Croissante",
+      "explication": "La fonction linéaire f(x) = ax est croissante si a > 0."
+    },
+    {
+      "question": "Si f(x) = 2x + 3, que vaut f(0) ?",
+      "options": ["0", "2", "3", "5"],
+      "reponse": "3",
+      "explication": "f(0) = 2×0 + 3 = 3."
+    },
+    {
+      "question": "Quel est le minimum de f(x) = x² ?",
+      "options": ["0", "1", "-1", "Aucun"],
+      "reponse": "0",
+      "explication": "La fonction x² atteint un minimum en x = 0 : f(0) = 0."
+    },
+    {
+      "question": "Si f(x) = -x², la courbe est :",
+      "options": ["Vers le haut", "Vers le bas", "Droite", "Constante"],
+      "reponse": "Vers le bas",
+      "explication": "Le signe négatif devant x² renverse la parabole vers le bas."
+    },
+    {
+      "question": "La fonction f(x) = x² est-elle paire ?",
+      "options": ["Oui", "Non", "Impaire", "Constante"],
+      "reponse": "Oui",
+      "explication": "f(-x) = (-x)² = x² = f(x), donc la fonction est paire."
+    },
+    {
+      "question": "f(x) = 3x. Quelle est l’image de 4 ?",
+      "options": ["12", "7", "3", "1"],
+      "reponse": "12",
+      "explication": "f(4) = 3 × 4 = 12."
+    },
+    {
+      "question": "Sur quel intervalle f(x) = x² est-elle décroissante ?",
+      "options": ["[0 ; +∞[", "]−∞ ; 0]", "ℝ", "Aucun"],
+      "reponse": "]−∞ ; 0]",
+      "explication": "La fonction carré est décroissante de −∞ à 0."
+    },
+    {
+      "question": "Si f(x) = 2x + 1, que vaut f(3) ?",
+      "options": ["7", "5", "6", "4"],
+      "reponse": "7",
+      "explication": "f(3) = 2×3 + 1 = 7."
+    },
+    {
+      "question": "Une fonction est constante si :",
+      "options": ["a = 1", "a = 0", "b = 0", "x = 0"],
+      "reponse": "a = 0",
+      "explication": "f(x) = ax + b est constante si a = 0, donc f(x) = b."
+    },
+    {
+      "question": "f(x) = x². Que vaut f(−3) ?",
+      "options": ["−9", "0", "9", "6"],
+      "reponse": "9",
+      "explication": "f(−3) = (−3)² = 9."
+    },
+    {
+      "question": "Dans f(x) = −2x + 4, le coefficient directeur est :",
+      "options": ["−2", "4", "2", "0"],
+      "reponse": "−2",
+      "explication": "Le coefficient de x est −2 : c’est le coefficient directeur."
+    },
+    {
+      "question": "La courbe de f(x) = ax est une :",
+      "options": ["Parabole", "Droite passant par l’origine", "Hyperbole", "Courbe fermée"],
+      "reponse": "Droite passant par l’origine",
+      "explication": "La fonction linéaire f(x) = ax passe toujours par l’origine (0 ; 0)."
+    },
+    {
+      "question": "Une fonction est croissante si :",
+      "options": ["f(x) diminue", "f(x) augmente", "f(x) est constante", "a < 0"],
+      "reponse": "f(x) augmente",
+      "explication": "Une fonction est croissante si ses valeurs augmentent quand x augmente."
+    },
+    {
+      "question": "Dans f(x) = 5x − 2, f(1) vaut :",
+      "options": ["3", "7", "−7", "−3"],
+      "reponse": "3",
+      "explication": "f(1) = 5×1 − 2 = 3."
+    },
+    {
+      "question": "Quel est le sommet de f(x) = x² ?",
+      "options": ["(0 ; 0)", "(1 ; 1)", "(2 ; 4)", "(−1 ; 1)"],
+      "reponse": "(0 ; 0)",
+      "explication": "Le sommet de la parabole f(x) = x² est en (0 ; 0)."
+    },
+    {
+      "question": "Si f(x) = x² − 1, alors f(0) = ?",
+      "options": ["0", "−1", "1", "2"],
+      "reponse": "−1",
+      "explication": "f(0) = 0² − 1 = −1."
+    },
+    {
+      "question": "Si une fonction a une droite horizontale, elle est :",
+      "options": ["Linéaire", "Affiche une pente nulle", "Paire", "Inversible"],
+      "reponse": "Affiche une pente nulle",
+      "explication": "Une droite horizontale correspond à une pente a = 0 donc f(x) constante."
+    },
+    {
+      "question": "Quel est le sens de variation de f(x) = −x ?",
+      "options": ["Croissante", "Décroissante", "Constante", "Variable"],
+      "reponse": "Décroissante",
+      "explication": "f(x) = −x est décroissante car le coefficient a = −1 < 0."
+    },
+    {
+      "question": "Si f(x) = 2x², f(2) vaut :",
+      "options": ["2", "4", "6", "8"],
+      "reponse": "8",
+      "explication": "f(2) = 2×2² = 2×4 = 8."
+    },
+    {
+      "question": "Le graphe de f(x) = x² + 1 coupe l’axe des ordonnées en :",
+      "options": ["0", "1", "2", "−1"],
+      "reponse": "1",
+      "explication": "f(0) = 0² + 1 = 1, donc la courbe coupe l’axe des ordonnées en 1."
+    },
+    {
+      "question": "La fonction f(x) = x² est-elle définie sur ℝ ?",
+      "options": ["Oui", "Non", "Seulement pour x ≥ 0", "Seulement pour x ≤ 0"],
+      "reponse": "Oui",
+      "explication": "La fonction carré est définie pour tout réel x."
+    },
+    {
+      "question": "Quel est le signe de f(x) = x² pour tout x ≠ 0 ?",
+      "options": ["Toujours négatif", "Toujours nul", "Toujours positif", "Inconnu"],
+      "reponse": "Toujours positif",
+      "explication": "x² > 0 pour tout x ≠ 0, donc f(x) est toujours positif."
+    },
+    {
+      "question": "La représentation graphique d'une fonction affine est :",
+      "options": ["Une droite", "Une courbe", "Une parabole", "Un cercle"],
+      "reponse": "Une droite",
+      "explication": "Une fonction affine est toujours représentée par une droite (pente a, ordonnée à l’origine b)."
+    },
+    {
+      "question": "f(x) = x² − 4 a une racine en :",
+      "options": ["x = −2", "x = 4", "x = 2", "x = 0"],
+      "reponse": "x = −2",
+      "explication": "Les racines sont x = ±2 car x² − 4 = 0 ⟹ x² = 4 ⟹ x = ±2."
+    },
+    {
+      "question": "Quel est l’aspect du graphe de f(x) = x² + 2 ?",
+      "options": ["Parabole vers le bas", "Droite", "Parabole vers le haut", "Constante"],
+      "reponse": "Parabole vers le haut",
+      "explication": "La courbe de f(x) = x² + 2 est une parabole tournée vers le haut, déplacée verticalement."
+    },
+    {
+      "question": "Si f(x) = ax avec a < 0, alors f est :",
+      "options": ["Croissante", "Décroissante", "Constante", "Nulle"],
+      "reponse": "Décroissante",
+      "explication": "La fonction f(x) = ax est décroissante si a < 0."
+    },
+    {
+      "question": "Si la courbe monte de gauche à droite, la fonction est :",
+      "options": ["Constante", "Décroissante", "Croissante", "Paire"],
+      "reponse": "Croissante",
+      "explication": "Quand une courbe monte de gauche à droite, cela signifie que la fonction est croissante sur cet intervalle."
+    },
+    {
+      "question": "Une fonction est décroissante sur un intervalle si :",
+      "options": ["f(x) augmente", "f(x) reste constante", "f(x) diminue", "x est négatif"],
+      "reponse": "f(x) diminue",
+      "explication": "Une fonction est décroissante lorsque ses images diminuent quand x augmente."
+    },
+    {
+      "question": "Sur le graphe de f(x) = x², la fonction est décroissante :",
+      "options": ["Sur ℝ", "Sur [0 ; +∞[", "Sur ]-∞ ; 0]", "Jamais"],
+      "reponse": "Sur ]-∞ ; 0]",
+      "explication": "La fonction carré est décroissante à gauche de 0, puis croissante à droite."
+    },
+    {
+      "question": "Quel est le minimum de la fonction f(x) = x² ?",
+      "options": ["1", "0", "-1", "Elle n’a pas de minimum"],
+      "reponse": "0",
+      "explication": "La valeur minimale est atteinte en x = 0 : f(0) = 0."
+    },
+    {
+      "question": "Si une courbe a un sommet en (2 ; 4), alors le minimum est :",
+      "options": ["2", "4", "-2", "0"],
+      "reponse": "4",
+      "explication": "Le sommet (2 ; 4) signifie que f(2) = 4 est le minimum ou le maximum selon l'orientation de la courbe."
+    },
+    {
+      "question": "Sur un graphe, une courbe qui reste horizontale correspond à :",
+      "options": ["Une fonction croissante", "Une fonction décroissante", "Une fonction constante", "Une fonction affine"],
+      "reponse": "Une fonction constante",
+      "explication": "Une droite horizontale signifie que f(x) est identique pour tous les x : c’est une fonction constante."
+    },
+    {
+      "question": "La courbe de f(x) = x² est :",
+      "options": ["Une droite", "Une parabole", "Une courbe en S", "Une exponentielle"],
+      "reponse": "Une parabole",
+      "explication": "La fonction carré est représentée par une parabole symétrique par rapport à l’axe des ordonnées."
+    },
+    {
+      "question": "Une fonction f est croissante sur [1 ; 5] si :",
+      "options": ["f(1) > f(5)", "f(1) < f(5)", "f(1) = f(5)", "f est constante"],
+      "reponse": "f(1) < f(5)",
+      "explication": "Si f est croissante, alors plus x augmente, plus f(x) augmente. Donc f(1) < f(5)."
+    },
+    {
+      "question": "Si f(x) = -x², que peut-on dire du sommet de sa courbe ?",
+      "options": ["C’est un minimum", "C’est un maximum", "C’est un zéro", "C’est une racine carrée"],
+      "reponse": "C’est un maximum",
+      "explication": "La parabole de f(x) = -x² est tournée vers le bas, donc son sommet est un maximum."
+    },
+    {
+      "question": "Sur le graphe de f(x) = 2x + 1, la fonction est :",
+      "options": ["Croissante", "Décroissante", "Constante", "Non définie"],
+      "reponse": "Croissante",
+      "explication": "Le coefficient directeur est 2 > 0, donc la droite monte : f est croissante sur ℝ."
+    },
+    {
+      "question": "Un point où la courbe coupe l’axe des ordonnées correspond à :",
+      "options": ["f(x) = 0", "x = 0", "f(0)", "Une racine"],
+      "reponse": "f(0)",
+      "explication": "Ce point est l’ordonnée à l’origine : c’est l’image de 0 par f, donc f(0)."
+    },
+    {
+      "question": "Si une courbe descend entre x = -3 et x = 2, la fonction est :",
+      "options": ["Croissante", "Décroissante", "Paire", "Constante"],
+      "reponse": "Décroissante",
+      "explication": "Une courbe qui descend signifie que les images diminuent quand x augmente, donc la fonction est décroissante."
+    },
+    {
+      "question": "La courbe d’une fonction affine est :",
+      "options": ["Parabolique", "Droite", "Courbe", "Exponentielle"],
+      "reponse": "Droite",
+      "explication": "Toute fonction affine f(x) = ax + b est représentée par une droite."
+    },
+    {
+      "question": "Une fonction constante est représentée par :",
+      "options": ["Une droite oblique", "Une droite verticale", "Une droite horizontale", "Une parabole"],
+      "reponse": "Une droite horizontale",
+      "explication": "f(x) = c est une droite parallèle à l’axe des abscisses (horizontale)."
+    },
+    {
+      "question": "Une fonction décroissante a-t-elle une pente positive ?",
+      "options": ["Oui", "Non", "Seulement pour x > 0", "Cela dépend"],
+      "reponse": "Non",
+      "explication": "Une fonction décroissante a un coefficient directeur négatif : sa pente est négative."
+    },
+    {
+      "question": "Le point où la courbe coupe l’axe des abscisses correspond à :",
+      "options": ["f(0)", "x = 0", "Une racine", "Un sommet"],
+      "reponse": "Une racine",
+      "explication": "C’est le point où f(x) = 0, donc la racine de la fonction."
+    },
+    {
+      "question": "Sur le graphe de f(x) = -2x, la courbe :",
+      "options": ["Monte", "Descend", "Reste stable", "Est une parabole"],
+      "reponse": "Descend",
+      "explication": "Le coefficient est négatif, donc la droite descend de gauche à droite."
+    },
+    {
+      "question": "Sur un graphe, une flèche vers le haut à droite signifie :",
+      "options": ["Décroissance", "Croissance", "Constante", "Inversion"],
+      "reponse": "Croissance",
+      "explication": "Cela signifie que plus x augmente, plus f(x) augmente : fonction croissante."
+    },
+    {
+      "question": "Si f(x) est maximum en x = 3, alors f est :",
+      "options": ["Croissante en x = 3", "Décroissante en x = 3", "N’a pas de dérivée", "A une courbe en cloche"],
+      "reponse": "A une courbe en cloche",
+      "explication": "La présence d’un maximum signifie que la courbe monte puis redescend : forme de cloche."
+    },
+    {
+      "question": "f(x) = x² est croissante :",
+      "options": ["Sur ℝ", "Sur [0 ; +∞[", "Sur ]-∞ ; 0]", "Jamais"],
+      "reponse": "Sur [0 ; +∞[",
+      "explication": "La fonction x² est croissante pour x ≥ 0."
+    }
+  ]
+}

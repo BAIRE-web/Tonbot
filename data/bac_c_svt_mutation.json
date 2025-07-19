@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Une mutation par insertion de 2 nucléotides dans un gène entraînera :",
+      "options": ["Décalage du cadre de lecture", "Mutation silencieuse", "Substitution d’un acide aminé", "Aucun effet"],
+      "reponse": "Décalage du cadre de lecture",
+      "explication": "L’insertion non multiple de 3 modifie le cadre de lecture, altérant la protéine."
+    },
+    {
+      "question": "Une substitution entraînant un codon stop prématuré provoque :",
+      "options": ["Mutation non-sens", "Mutation faux-sens", "Mutation silencieuse", "Duplication"],
+      "reponse": "Mutation non-sens",
+      "explication": "Le codon stop prématuré arrête la synthèse protéique."
+    },
+    {
+      "question": "La méiose favorise la variabilité génétique par :",
+      "options": ["Crossing-over et assortiments indépendants", "Duplication génique", "Mutation", "Transcription"],
+      "reponse": "Crossing-over et assortiments indépendants",
+      "explication": "Elle recombine les allèles entre chromosomes homologues."
+    },
+    {
+      "question": "Une mutation neutre sur un exon est souvent :",
+      "options": ["Une substitution silencieuse", "Une insertion", "Une délétion", "Une translocation"],
+      "reponse": "Une substitution silencieuse",
+      "explication": "Elle ne modifie pas l’acide aminé codé."
+    },
+    {
+      "question": "Quel type de mutation affecte la structure tridimensionnelle de la protéine ?",
+      "options": ["Mutation faux-sens", "Mutation silencieuse", "Mutation non-codante", "Mutation neutre"],
+      "reponse": "Mutation faux-sens",
+      "explication": "Elle change un acide aminé, pouvant altérer la conformation."
+    },
+    {
+      "question": "Une délétion de 3 nucléotides entraîne :",
+      "options": ["Perte d’un acide aminé sans décalage", "Décalage du cadre de lecture", "Duplication", "Mutation non-sens"],
+      "reponse": "Perte d’un acide aminé sans décalage",
+      "explication": "La suppression multiple de 3 ne décale pas le cadre."
+    },
+    {
+      "question": "La fréquence des mutations spontanées est :",
+      "options": ["Faible mais suffisante pour l’évolution", "Nulle", "Élevée", "Constante à 50 %"],
+      "reponse": "Faible mais suffisante pour l’évolution",
+      "explication": "Les mutations spontanées sont rares mais importantes."
+    },
+    {
+      "question": "Le principe de Le Chatelier appliqué aux mutations génétiques implique que :",
+      "options": ["Non applicable en génétique", "Les mutations sont toujours réparées", "Les mutations s’équilibrent", "Les mutations évoluent selon la pression de sélection"],
+      "reponse": "Les mutations évoluent selon la pression de sélection",
+      "explication": "Les mutations bénéfiques sont sélectionnées."
+    },
+    {
+      "question": "Les agents mutagènes chimiques agissent en :",
+      "options": ["Modifiant chimiquement les bases", "Brisant les chromosomes", "Perturbant la transcription", "Bloquant la mitose"],
+      "reponse": "Modifiant chimiquement les bases",
+      "explication": "Ils altèrent la structure des bases d’ADN."
+    },
+    {
+      "question": "Quelle est la conséquence d’une mutation dans une séquence régulatrice ?",
+      "options": ["Modification de l’expression génique", "Mutation silencieuse", "Changement d’acide aminé", "Duplication de gène"],
+      "reponse": "Modification de l’expression génique",
+      "explication": "Elle peut augmenter ou diminuer la transcription."
+    },
+    {
+      "question": "Une mutation germinale peut :",
+      "options": ["Être transmise à la descendance", "Ne pas affecter les gamètes", "Rester limitée à une cellule", "Se produire uniquement après la fécondation"],
+      "reponse": "Être transmise à la descendance",
+      "explication": "Elle touche les cellules reproductrices."
+    },
+    {
+      "question": "La dérive génétique concerne :",
+      "options": ["Variations aléatoires des fréquences alléliques", "Mutations dirigées", "Sélection naturelle", "Transfert horizontal"],
+      "reponse": "Variations aléatoires des fréquences alléliques",
+      "explication": "Elle affecte particulièrement les petites populations."
+    },
+    {
+      "question": "Une mutation de substitution peut ne pas modifier la protéine si :",
+      "options": ["Elle est silencieuse", "Elle est non-sens", "Elle est faux-sens", "Elle est délétère"],
+      "reponse": "Elle est silencieuse",
+      "explication": "Le codon modifié code pour le même acide aminé."
+    },
+    {
+      "question": "Une mutation peut être détectée par :",
+      "options": ["Séquençage de l’ADN", "Microscopie optique", "Transcription", "Mitose"],
+      "reponse": "Séquençage de l’ADN",
+      "explication": "On compare la séquence d’ADN mutée à la normale."
+    },
+    {
+      "question": "Qu’est-ce qu’une mutation de décalage du cadre de lecture ?",
+      "options": ["Insertion ou délétion non multiple de 3", "Substitution ponctuelle", "Duplication", "Translocation chromosomique"],
+      "reponse": "Insertion ou délétion non multiple de 3",
+      "explication": "Elle modifie la lecture des codons en décalant le cadre."
+    },
+    {
+      "question": "Les mutations peuvent être réparées par :",
+      "options": ["Systèmes enzymatiques de réparation de l’ADN", "Synthèse protéique", "Mitose", "Méiose"],
+      "reponse": "Systèmes enzymatiques de réparation de l’ADN",
+      "explication": "Ces systèmes corrigent les erreurs d’ADN."
+    },
+    {
+      "question": "Quelle mutation cause la mucoviscidose ?",
+      "options": ["Délétion de 3 nucléotides", "Substitution non-sens", "Insertion", "Translocation"],
+      "reponse": "Délétion de 3 nucléotides",
+      "explication": "La perte d’un acide aminé perturbe la protéine CFTR."
+    },
+    {
+      "question": "La sélection naturelle agit sur :",
+      "options": ["La variabilité génétique", "Les mutations uniquement", "La reproduction asexuée", "La mitose"],
+      "reponse": "La variabilité génétique",
+      "explication": "Elle favorise les allèles avantageux."
+    },
+    {
+      "question": "Les mutations peuvent contribuer à :",
+      "options": ["L’apparition de maladies", "L’évolution des espèces", "La diversité génétique", "Toutes les réponses"],
+      "reponse": "Toutes les réponses",
+      "explication": "Les mutations ont des effets variés, parfois nuisibles ou bénéfiques."
+    },
+    {
+      "question": "Une mutation silencieuse se produit lorsque :",
+      "options": ["Le codon modifié code le même acide aminé", "Le codon devient un codon stop", "Une base est insérée", "Un gène est dupliqué"],
+      "reponse": "Le codon modifié code le même acide aminé",
+      "explication": "Cela ne modifie pas la protéine synthétisée."
+    },
+    {
+      "question": "Qu’est-ce qu’une mutation génétique ?",
+      "options": ["Une modification permanente de la séquence d’ADN", "Une copie conforme de l’ADN", "Une étape de la transcription", "Un fragment d’ARNt"],
+      "reponse": "Une modification permanente de la séquence d’ADN",
+      "explication": "La mutation est un changement stable dans la séquence nucléotidique."
+    },
+    {
+      "question": "Quelle mutation correspond à l’insertion d’un ou plusieurs nucléotides ?",
+      "options": ["Insertion", "Délétion", "Substitution", "Duplication"],
+      "reponse": "Insertion",
+      "explication": "L’insertion ajoute des nucléotides dans la séquence d’ADN."
+    },
+    {
+      "question": "Une substitution de base peut entraîner :",
+      "options": ["Mutation silencieuse, faux-sens ou non-sens", "Une délétion", "Une duplication", "Une translocation"],
+      "reponse": "Mutation silencieuse, faux-sens ou non-sens",
+      "explication": "Selon le codon modifié, la mutation peut ne pas changer ou changer l’acide aminé."
+    },
+    {
+      "question": "Qu’est-ce qu’une mutation délétère ?",
+      "options": ["Mutation qui nuit à la survie ou la reproduction", "Mutation neutre", "Mutation bénéfique", "Mutation silencieuse"],
+      "reponse": "Mutation qui nuit à la survie ou la reproduction",
+      "explication": "Elle réduit la capacité de l’organisme à survivre ou se reproduire."
+    },
+    {
+      "question": "La mutation non-sens se caractérise par :",
+      "options": ["Apparition prématurée d’un codon stop", "Substitution sans changement d’acide aminé", "Insertion de nucléotides", "Aucune modification"],
+      "reponse": "Apparition prématurée d’un codon stop",
+      "explication": "Elle provoque la fin prématurée de la protéine."
+    },
+    {
+      "question": "Qu’est-ce qu’une mutation de délétion ?",
+      "options": ["Perte d’un ou plusieurs nucléotides", "Gain d’un ou plusieurs nucléotides", "Substitution d’une base", "Duplication de gène"],
+      "reponse": "Perte d’un ou plusieurs nucléotides",
+      "explication": "La délétion enlève des nucléotides dans l’ADN."
+    },
+    {
+      "question": "Les mutations dites « neutres » :",
+      "options": ["N’ont pas d’effet sur la fonction de la protéine", "Sont toujours mortelles", "Améliorent la fonction", "Ne touchent pas l’ADN"],
+      "reponse": "N’ont pas d’effet sur la fonction de la protéine",
+      "explication": "Elles n’altèrent ni la structure ni la fonction."
+    },
+    {
+      "question": "Quel type de mutation peut entraîner un décalage du cadre de lecture ?",
+      "options": ["Insertion ou délétion non multiple de 3", "Substitution", "Duplication", "Translocation"],
+      "reponse": "Insertion ou délétion non multiple de 3",
+      "explication": "Cela modifie la lecture des codons en décalant le cadre."
+    },
+    {
+      "question": "Les mutations spontanées sont causées par :",
+      "options": ["Des erreurs lors de la réplication de l’ADN", "Les radiations UV", "Les produits chimiques", "Les virus"],
+      "reponse": "Des erreurs lors de la réplication de l’ADN",
+      "explication": "Elles surviennent naturellement sans agent extérieur."
+    },
+    {
+      "question": "Les mutations induites sont provoquées par :",
+      "options": ["Des agents mutagènes externes", "Le hasard", "La méiose", "La mitose"],
+      "reponse": "Des agents mutagènes externes",
+      "explication": "Les radiations, produits chimiques peuvent causer des mutations."
+    },
+    {
+      "question": "Quel est l’effet possible d’une mutation sur un gène ?",
+      "options": ["Modification de la protéine codée", "Aucune modification", "Perte de fonction", "Toutes les réponses sont possibles"],
+      "reponse": "Toutes les réponses sont possibles",
+      "explication": "Les mutations peuvent avoir des effets variés selon leur nature."
+    },
+    {
+      "question": "La variabilité génétique est importante car elle :",
+      "options": ["Permet l’adaptation des populations", "Empêche la reproduction", "Diminue la diversité", "Réduit la survie"],
+      "reponse": "Permet l’adaptation des populations",
+      "explication": "Elle génère des différences favorables à l’évolution."
+    },
+    {
+      "question": "Une duplication génique correspond à :",
+      "options": ["Copie supplémentaire d’un fragment d’ADN", "Perte d’un fragment d’ADN", "Substitution d’une base", "Translocation chromosomique"],
+      "reponse": "Copie supplémentaire d’un fragment d’ADN",
+      "explication": "Cela augmente le nombre de copies du gène."
+    },
+    {
+      "question": "Quel type de mutation peut modifier la séquence protéique sans changer le cadre de lecture ?",
+      "options": ["Substitution", "Insertion", "Délétion", "Translocation"],
+      "reponse": "Substitution",
+      "explication": "Elle change une base sans modifier le cadre des triplets."
+    },
+    {
+      "question": "Une translocation chromosomique est :",
+      "options": ["Échange de segments entre chromosomes non homologues", "Perte d’un chromosome", "Duplication d’un gène", "Substitution d’un nucléotide"],
+      "reponse": "Échange de segments entre chromosomes non homologues",
+      "explication": "C’est un réarrangement structurel des chromosomes."
+    },
+    {
+      "question": "Quelle mutation est responsable de la drépanocytose ?",
+      "options": ["Substitution ponctuelle faux-sens", "Délétion", "Insertion", "Mutation non-sens"],
+      "reponse": "Substitution ponctuelle faux-sens",
+      "explication": "Une base modifie un acide aminé dans l’hémoglobine."
+    },
+    {
+      "question": "Les mutations peuvent-elles être héréditaires ?",
+      "options": ["Oui, si elles touchent les cellules germinales", "Non, jamais", "Seulement dans les cellules somatiques", "Uniquement si elles sont silencieuses"],
+      "reponse": "Oui, si elles touchent les cellules germinales",
+      "explication": "Seules les mutations des cellules reproductrices se transmettent."
+    },
+    {
+      "question": "Qu’est-ce qu’une mutation somatique ?",
+      "options": ["Mutation dans une cellule non reproductrice", "Mutation dans un spermatozoïde", "Mutation dans un ovule", "Mutation dans un gamète"],
+      "reponse": "Mutation dans une cellule non reproductrice",
+      "explication": "Elle n’est pas transmise à la descendance."
+    },
+    {
+      "question": "Les agents mutagènes physiques comprennent :",
+      "options": ["Rayons X, UV", "Virus", "Bactéries", "Produits chimiques"],
+      "reponse": "Rayons X, UV",
+      "explication": "Ce sont des radiations pouvant endommager l’ADN."
+    },
+    {
+      "question": "L’effet des mutations peut être bénéfique si :",
+      "options": ["Elles confèrent un avantage sélectif", "Elles détruisent un gène", "Elles empêchent la reproduction", "Elles provoquent la mort"],
+      "reponse": "Elles confèrent un avantage sélectif",
+      "explication": "Certaines mutations améliorent la survie dans un environnement donné."
+    },
+    {
+      "question": "Le polymorphisme génétique désigne :",
+      "options": ["Présence de plusieurs formes alléliques dans une population", "Une mutation mortelle", "Une duplication", "Un gène unique"],
+      "reponse": "Présence de plusieurs formes alléliques dans une population",
+      "explication": "Cela contribue à la diversité génétique."
+    },
+    {
+      "question": "Une mutation avec effet dominant aura pour conséquence :",
+      "options": ["Expression du phénotype chez l’hétérozygote", "Expression uniquement chez l’homozygote", "Pas d’expression", "Toujours létale"],
+      "reponse": "Expression du phénotype chez l’hétérozygote",
+      "explication": "L’allèle dominant masque l’allèle récessif."
+    },
+    {
+      "question": "Le système de réparation de l’ADN sert à :",
+      "options": ["Corriger les erreurs de réplication", "Augmenter les mutations", "Synthétiser des protéines", "Transcrire l’ARNm"],
+      "reponse": "Corriger les erreurs de réplication",
+      "explication": "Il limite l’accumulation de mutations."
+    },
+    {
+      "question": "La variabilité génétique peut provenir de :",
+      "options": ["Mutations, recombinaisons, migrations", "Un seul individu", "La mitose uniquement", "Un gène unique"],
+      "reponse": "Mutations, recombinaisons, migrations",
+      "explication": "Ce sont les principales sources de diversité."
+    },
+    {
+      "question": "Les mutations peuvent influencer l’évolution car :",
+      "options": ["Elles introduisent de nouveaux allèles", "Elles empêchent la reproduction", "Elles suppriment des gènes", "Elles bloquent la transcription"],
+      "reponse": "Elles introduisent de nouveaux allèles",
+      "explication": "Cela permet la sélection naturelle."
+    },
+    {
+      "question": "Une mutation peut-elle affecter une seule cellule ?",
+      "options": ["Oui, une mutation somatique affecte une cellule unique", "Non, toujours tout un organisme", "Seulement lors de la méiose", "Uniquement lors de la mitose"],
+      "reponse": "Oui, une mutation somatique affecte une cellule unique",
+      "explication": "Cela ne touche pas la lignée germinale."
+    },
+    {
+      "question": "Quelle mutation est associée à la trisomie 21 ?",
+      "options": ["Anomalie chromosomique (trisomie)", "Substitution", "Délétion", "Insertion"],
+      "reponse": "Anomalie chromosomique (trisomie)",
+      "explication": "Présence d’un chromosome 21 supplémentaire."
+    },
+    {
+      "question": "La variabilité génétique est essentielle pour :",
+      "options": ["La survie et l’adaptation des espèces", "La disparition des espèces", "La clonage", "La stabilité génétique"],
+      "reponse": "La survie et l’adaptation des espèces",
+      "explication": "Elle fournit la matière première de l’évolution."
+    }
+  ]
+}

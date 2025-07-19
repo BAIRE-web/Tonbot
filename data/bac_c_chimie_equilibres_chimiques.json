@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Dans la réaction N₂ + 3H₂ ⇌ 2NH₃, que se passe-t-il si on augmente la pression ?",
+      "options": ["L’équilibre se déplace vers la droite", "L’équilibre se déplace vers la gauche", "La réaction s’arrête", "La pression n’affecte pas"],
+      "reponse": "L’équilibre se déplace vers la droite",
+      "explication": "La réaction favorise le côté avec moins de moles gazeuses (4 → 2)."
+    },
+    {
+      "question": "Pour la réaction exothermique A + B ⇌ C + chaleur, que provoque une augmentation de température ?",
+      "options": ["L’équilibre se déplace vers la gauche", "L’équilibre se déplace vers la droite", "Pas d’effet", "La réaction s’arrête"],
+      "reponse": "L’équilibre se déplace vers la gauche",
+      "explication": "L’équilibre s’éloigne de la chaleur, favorisant les réactifs."
+    },
+    {
+      "question": "Quelle est la valeur du quotient réactionnel Q pour le système à l’équilibre ?",
+      "options": ["Q = K", "Q > K", "Q < K", "Q = 0"],
+      "reponse": "Q = K",
+      "explication": "À l’équilibre, Q est égal à la constante d’équilibre K."
+    },
+    {
+      "question": "Que fait un catalyseur dans une réaction chimique ?",
+      "options": ["Accélère la réaction dans les deux sens", "Déplace l’équilibre vers les produits", "Déplace l’équilibre vers les réactifs", "N’a aucun effet"],
+      "reponse": "Accélère la réaction dans les deux sens",
+      "explication": "Il ne modifie pas la position de l’équilibre, seulement la vitesse."
+    },
+    {
+      "question": "Dans la réaction H₂ + I₂ ⇌ 2HI, que se passe-t-il si on ajoute du HI ?",
+      "options": ["L’équilibre se déplace vers la gauche", "L’équilibre se déplace vers la droite", "La pression augmente", "Rien ne change"],
+      "reponse": "L’équilibre se déplace vers la gauche",
+      "explication": "Le système tente de consommer l’excès de produit ajouté."
+    },
+    {
+      "question": "Quel effet a une diminution de la concentration d’un réactif sur l’équilibre ?",
+      "options": ["L’équilibre se déplace vers les réactifs", "L’équilibre se déplace vers les produits", "La réaction devient irréversible", "La température baisse"],
+      "reponse": "L’équilibre se déplace vers les réactifs",
+      "explication": "Pour compenser la perte, la réaction inverse est favorisée."
+    },
+    {
+      "question": "Pour la réaction : 2SO₂ + O₂ ⇌ 2SO₃, que se passe-t-il si on augmente le volume du récipient ?",
+      "options": ["L’équilibre se déplace vers la gauche", "L’équilibre se déplace vers la droite", "La réaction s’accélère", "Rien ne change"],
+      "reponse": "L’équilibre se déplace vers la gauche",
+      "explication": "Une augmentation du volume diminue la pression, favorisant le côté avec plus de moles (3 à gauche)."
+    },
+    {
+      "question": "La constante d’équilibre K pour une réaction est très faible (K ≪ 1). Que peut-on en conclure ?",
+      "options": ["Les réactifs prédominent à l’équilibre", "Les produits prédominent", "La réaction est rapide", "La réaction est complète"],
+      "reponse": "Les réactifs prédominent à l’équilibre",
+      "explication": "Un faible K indique que l’équilibre est déplacé vers les réactifs."
+    },
+    {
+      "question": "Si on chauffe un système à l’équilibre d’une réaction endothermique, que se passe-t-il ?",
+      "options": ["L’équilibre se déplace vers les produits", "L’équilibre se déplace vers les réactifs", "La réaction s’arrête", "La température baisse"],
+      "reponse": "L’équilibre se déplace vers les produits",
+      "explication": "La chaleur favorise la réaction qui absorbe de l’énergie."
+    },
+    {
+      "question": "Qu’indique une constante d’équilibre K égale à 1 ?",
+      "options": ["Produits et réactifs sont en quantités équivalentes", "La réaction est terminée", "Les réactifs sont dominants", "Les produits sont dominants"],
+      "reponse": "Produits et réactifs sont en quantités équivalentes",
+      "explication": "Un K proche de 1 signifie un équilibre où ni les produits ni les réactifs ne dominent."
+    },
+    {
+      "question": "Lors d’une réaction impliquant uniquement des solides et liquides, que vaut K ?",
+      "options": ["K est basé sur les concentrations des espèces en solution", "K est nul", "K est très grand", "K est indéfini"],
+      "reponse": "K est basé sur les concentrations des espèces en solution",
+      "explication": "Les solides et liquides purs ne figurent pas dans l’expression de K."
+    },
+    {
+      "question": "Si une réaction produit des gaz, quel facteur influence son équilibre ?",
+      "options": ["La pression", "La couleur", "Le volume uniquement", "La température uniquement"],
+      "reponse": "La pression",
+      "explication": "La pression affecte les équilibres impliquant des gaz."
+    },
+    {
+      "question": "Dans une réaction équilibrée, que représente la vitesse de la réaction directe ?",
+      "options": ["Elle est égale à la vitesse de la réaction inverse", "Elle est nulle", "Elle est supérieure à la vitesse inverse", "Elle est inférieure à la vitesse inverse"],
+      "reponse": "Elle est égale à la vitesse de la réaction inverse",
+      "explication": "À l’équilibre, les deux vitesses sont égales."
+    },
+    {
+      "question": "Si on ajoute un gaz inerte à volume constant dans un système en équilibre, que se passe-t-il ?",
+      "options": ["Rien ne change", "L’équilibre se déplace", "La température baisse", "La réaction s’arrête"],
+      "reponse": "Rien ne change",
+      "explication": "Les gaz inertes n’affectent pas les pressions partielles ni l’équilibre."
+    },
+    {
+      "question": "Dans la réaction CO + 2H₂ ⇌ CH₃OH, que se passe-t-il si on diminue la température ?",
+      "options": ["L’équilibre se déplace vers la droite", "L’équilibre se déplace vers la gauche", "La réaction s’arrête", "La pression augmente"],
+      "reponse": "L’équilibre se déplace vers la droite",
+      "explication": "La réaction est exothermique, donc baisser la température favorise les produits."
+    },
+    {
+      "question": "Qu’est-ce qui détermine la position d’un équilibre chimique ?",
+      "options": ["Les conditions extérieures (température, pression, concentration)", "La nature des réactifs uniquement", "La vitesse initiale", "Le catalyseur uniquement"],
+      "reponse": "Les conditions extérieures (température, pression, concentration)",
+      "explication": "Ces facteurs influencent la direction et la position de l’équilibre."
+    },
+    {
+      "question": "Que représente la demi-vie d’une réaction chimique à l’équilibre ?",
+      "options": ["Le temps pour que la concentration d’un réactif soit divisée par deux", "Le temps total de la réaction", "La vitesse maximale", "La température optimale"],
+      "reponse": "Le temps pour que la concentration d’un réactif soit divisée par deux",
+      "explication": "La demi-vie est un indicateur cinétique, pas thermodynamique."
+    },
+    {
+      "question": "Quelle est l’influence d’un catalyseur sur l’énergie d’activation ?",
+      "options": ["Il la diminue", "Il l’augmente", "Il la supprime", "Il n’a aucun effet"],
+      "reponse": "Il la diminue",
+      "explication": "Le catalyseur facilite la réaction en abaissant la barrière énergétique."
+    },
+    {
+      "question": "Lorsqu’un système est perturbé, le principe de Le Chatelier prévoit :",
+      "options": ["Un déplacement de l’équilibre pour minimiser la perturbation", "Un arrêt total de la réaction", "Une accélération sans changement d’équilibre", "Une explosion"],
+      "reponse": "Un déplacement de l’équilibre pour minimiser la perturbation",
+      "explication": "Le système s’adapte pour retrouver un nouvel équilibre."
+    },
+    {
+      "question": "Pour une réaction A ⇌ B, quelle expression représente K en fonction des concentrations ?",
+      "options": ["K = [B]/[A]", "K = [A]/[B]", "K = [A] + [B]", "K = [A] - [B]"],
+      "reponse": "K = [B]/[A]",
+      "explication": "La constante d’équilibre est le rapport des produits sur les réactifs."
+    },
+    {
+      "question": "Qu’est-ce qu’un équilibre chimique ?",
+      "options": ["Un état où les vitesses directe et inverse sont égales", "Une réaction terminée", "Une réaction sans produit", "Une réaction instantanée"],
+      "reponse": "Un état où les vitesses directe et inverse sont égales",
+      "explication": "À l’équilibre, les concentrations restent constantes car les réactions directe et inverse ont la même vitesse."
+    },
+    {
+      "question": "La constante d’équilibre K est définie comme :",
+      "options": ["Le rapport des concentrations des produits sur celles des réactifs à l’équilibre", "La somme des concentrations des réactifs", "La pression totale", "La vitesse de la réaction"],
+      "reponse": "Le rapport des concentrations des produits sur celles des réactifs à l’équilibre",
+      "explication": "K = [produits]^coefficients / [réactifs]^coefficients, à l’équilibre."
+    },
+    {
+      "question": "Si K ≫ 1, cela signifie que :",
+      "options": ["Les produits sont favorisés à l’équilibre", "Les réactifs sont favorisés", "La réaction est lente", "La réaction est impossible"],
+      "reponse": "Les produits sont favorisés à l’équilibre",
+      "explication": "Une grande valeur de K indique que la réaction va presque à complétion."
+    },
+    {
+      "question": "Si K ≪ 1, cela signifie que :",
+      "options": ["Les réactifs sont favorisés à l’équilibre", "Les produits sont favorisés", "La réaction est instantanée", "La réaction est exothermique"],
+      "reponse": "Les réactifs sont favorisés à l’équilibre",
+      "explication": "Une petite valeur de K indique que la réaction reste surtout à l’état initial."
+    },
+    {
+      "question": "Le principe de Le Chatelier stipule que :",
+      "options": ["Un système à l’équilibre subit une perturbation et tend à s’y opposer", "La vitesse de réaction augmente toujours", "La température ne change pas", "La pression diminue toujours"],
+      "reponse": "Un système à l’équilibre subit une perturbation et tend à s’y opposer",
+      "explication": "Le système ajuste ses concentrations pour minimiser la perturbation."
+    },
+    {
+      "question": "Que se passe-t-il si on augmente la concentration d’un réactif ?",
+      "options": ["L’équilibre se déplace vers les produits", "L’équilibre se déplace vers les réactifs", "La réaction s’arrête", "La température baisse"],
+      "reponse": "L’équilibre se déplace vers les produits",
+      "explication": "Le système consomme l’excès de réactif en produisant plus de produits."
+    },
+    {
+      "question": "L’augmentation de la pression favorise la réaction qui :",
+      "options": ["Diminue le nombre total de moles gazeuses", "Augmente le nombre de moles", "Ne change pas", "Est toujours exothermique"],
+      "reponse": "Diminue le nombre total de moles gazeuses",
+      "explication": "La pression pousse l’équilibre vers le côté avec moins de gaz."
+    },
+    {
+      "question": "L’augmentation de la température favorise :",
+      "options": ["La réaction endothermique", "La réaction exothermique", "Le catalyseur", "La pression"],
+      "reponse": "La réaction endothermique",
+      "explication": "La chaleur agit comme un réactif, donc l’équilibre se déplace pour absorber la chaleur."
+    },
+    {
+      "question": "Une réaction exothermique libère :",
+      "options": ["De la chaleur", "Du froid", "De la lumière uniquement", "De la pression"],
+      "reponse": "De la chaleur",
+      "explication": "Elle dégage de l’énergie thermique vers l’extérieur."
+    },
+    {
+      "question": "La constante d’équilibre K dépend de :",
+      "options": ["La température uniquement", "La pression", "La concentration initiale", "Le temps"],
+      "reponse": "La température uniquement",
+      "explication": "K varie avec la température mais pas avec la concentration ou la pression."
+    },
+    {
+      "question": "Pour une réaction à l’équilibre, si Q < K, la réaction évolue :",
+      "options": ["Dans le sens direct (formation produits)", "Dans le sens inverse", "Ne change pas", "Est terminée"],
+      "reponse": "Dans le sens direct (formation produits)",
+      "explication": "Q est le quotient réactionnel, et la réaction tend vers l’équilibre."
+    },
+    {
+      "question": "Pour une réaction à l’équilibre, si Q > K, la réaction évolue :",
+      "options": ["Dans le sens inverse (formation réactifs)", "Dans le sens direct", "Ne change pas", "Est terminée"],
+      "reponse": "Dans le sens inverse (formation réactifs)",
+      "explication": "La réaction revient vers les réactifs pour atteindre l’équilibre."
+    },
+    {
+      "question": "Dans l’expression de K, les solides et liquides purs :",
+      "options": ["Ne figurent pas", "Sont inclus", "Sont au numérateur uniquement", "Sont au dénominateur uniquement"],
+      "reponse": "Ne figurent pas",
+      "explication": "Leur concentration est constante et donc omise."
+    },
+    {
+      "question": "L’expression de la constante d’équilibre Kp utilise :",
+      "options": ["Les pressions partielles des gaz", "Les concentrations en mol·L⁻¹", "Les volumes", "Les températures"],
+      "reponse": "Les pressions partielles des gaz",
+      "explication": "Kp s’applique aux réactions gazeuses."
+    },
+    {
+      "question": "La constante d’équilibre Kc utilise :",
+      "options": ["Les concentrations molaires", "Les volumes", "Les pressions", "Le temps"],
+      "reponse": "Les concentrations molaires",
+      "explication": "Kc s’applique aux réactions en solution."
+    },
+    {
+      "question": "Le déplacement d’équilibre par ajout d’un produit :",
+      "options": ["Favorise les réactifs", "Favorise les produits", "N’affecte pas l’équilibre", "Termine la réaction"],
+      "reponse": "Favorise les réactifs",
+      "explication": "Le système réagit pour consommer l’excès de produit."
+    },
+    {
+      "question": "Le principe de Le Chatelier s’applique à :",
+      "options": ["Concentration, pression, température", "Volume uniquement", "Catalyseurs uniquement", "Réactifs uniquement"],
+      "reponse": "Concentration, pression, température",
+      "explication": "Ces facteurs perturbent l’équilibre et provoquent un déplacement."
+    },
+    {
+      "question": "Un catalyseur modifie l’équilibre chimique :",
+      "options": ["Faux", "Vrai", "Parfois", "Seulement à haute température"],
+      "reponse": "Faux",
+      "explication": "Il accélère l’atteinte de l’équilibre sans changer sa position."
+    },
+    {
+      "question": "À l’équilibre, les concentrations des espèces :",
+      "options": ["Sont constantes dans le temps", "Sont nulles", "Sont égales", "Varient régulièrement"],
+      "reponse": "Sont constantes dans le temps",
+      "explication": "Il n’y a plus de changement net dans les concentrations."
+    },
+    {
+      "question": "La constante d’équilibre K est une grandeur :",
+      "options": ["Sans dimension", "Toujours inférieure à 1", "Toujours supérieure à 1", "Variable avec le temps"],
+      "reponse": "Sans dimension",
+      "explication": "Elle est obtenue par un rapport de concentrations normalisées."
+    },
+    {
+      "question": "Le principe de Le Chatelier prédit que l’augmentation de volume :",
+      "options": ["Déplace l’équilibre vers le côté avec plus de moles gazeuses", "Diminue le nombre de moles", "N’affecte pas l’équilibre", "Augmente la température"],
+      "reponse": "Déplace l’équilibre vers le côté avec plus de moles gazeuses",
+      "explication": "La baisse de pression favorise le côté avec plus de gaz."
+    },
+    {
+      "question": "Pour une réaction endothermique, augmenter la température :",
+      "options": ["Favorise les produits", "Favorise les réactifs", "N’affecte pas l’équilibre", "Fait disparaître la réaction"],
+      "reponse": "Favorise les produits",
+      "explication": "La chaleur agit comme un réactif et déplace l’équilibre vers la formation des produits."
+    },
+    {
+      "question": "La constante d’équilibre est calculée à :",
+      "options": ["L’équilibre chimique", "Le début de la réaction", "La fin de la réaction", "N’importe quand"],
+      "reponse": "L’équilibre chimique",
+      "explication": "Elle ne s’applique qu’à l’état d’équilibre."
+    },
+    {
+      "question": "La variation de la pression n’affecte pas l’équilibre si :",
+      "options": ["Le nombre total de moles gazeuses est le même des deux côtés", "La réaction est exothermique", "La température baisse", "La concentration change"],
+      "reponse": "Le nombre total de moles gazeuses est le même des deux côtés",
+      "explication": "Il n’y a pas de déséquilibre créé par la pression dans ce cas."
+    },
+    {
+      "question": "L’ajout d’un catalyseur :",
+      "options": ["Ne modifie pas la position de l’équilibre", "Déplace l’équilibre vers les produits", "Déplace l’équilibre vers les réactifs", "Rend la réaction impossible"],
+      "reponse": "Ne modifie pas la position de l’équilibre",
+      "explication": "Le catalyseur accélère la réaction dans les deux sens sans modifier l’équilibre."
+    },
+    {
+      "question": "Le quotient réactionnel Q est :",
+      "options": ["Le rapport des concentrations instantanées", "La constante d’équilibre", "Le temps de réaction", "Le volume de gaz produit"],
+      "reponse": "Le rapport des concentrations instantanées",
+      "explication": "Q est calculé à un instant donné, pas nécessairement à l’équilibre."
+    },
+    {
+      "question": "Si Q = K, alors :",
+      "options": ["Le système est à l’équilibre", "La réaction évolue vers les produits", "La réaction évolue vers les réactifs", "La réaction est terminée"],
+      "reponse": "Le système est à l’équilibre",
+      "explication": "Q = K signifie que le système ne change plus."
+    },
+    {
+      "question": "Dans une réaction en solution, la pression n’a pas d’effet car :",
+      "options": ["Les réactions ne concernent pas de gaz", "La température est constante", "Le catalyseur est absent", "La concentration est nulle"],
+      "reponse": "Les réactions ne concernent pas de gaz",
+      "explication": "La pression affecte principalement les réactions impliquant des gaz."
+    }
+  ]
+}

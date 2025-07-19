@@ -1,0 +1,328 @@
+{
+  "qcm": [
+    {
+      "question": "Un condensateur de 100 μF est chargé sous une tension de 12 V. Quelle est la charge Q ?",
+      "options": ["1,2×10⁻³ C", "8,3×10⁻⁴ C", "1,2 C", "120 C"],
+      "reponse": "1,2×10⁻³ C",
+      "explication": "Q = C × U = 100×10⁻⁶ × 12 = 1,2×10⁻³ C"
+    },
+    {
+      "question": "La constante de temps τ d’un circuit RC avec R = 2 kΩ et C = 5 μF est :",
+      "options": ["0,01 s", "0,1 s", "10 s", "0,001 s"],
+      "reponse": "0,01 s",
+      "explication": "τ = R × C = 2000 × 5×10⁻⁶ = 0,01 s"
+    },
+    {
+      "question": "Après une durée t = τ, la charge Q(t) sur un condensateur en charge vaut :",
+      "options": ["≈ 63% de Q_max", "50% de Q_max", "100% de Q_max", "0% de Q_max"],
+      "reponse": "≈ 63% de Q_max",
+      "explication": "Q(t) = Q_max(1 − e⁻¹) ≈ 0,63 Q_max"
+    },
+    {
+      "question": "Un condensateur de 10 μF est déchargé dans une résistance R = 1 kΩ. Quelle est la tension après 0,005 s ? (τ = 0,01 s)",
+      "options": ["6,07 V", "3,68 V", "9,53 V", "0 V"],
+      "reponse": "6,07 V",
+      "explication": "U(t) = U₀ e⁻ᵗ/ᵗ = 12 × e⁻⁰,⁰⁵ ≈ 6,07 V"
+    },
+    {
+      "question": "Quelle est l’énergie stockée dans un condensateur de 50 μF chargé à 20 V ?",
+      "options": ["0,01 J", "0,001 J", "0,1 J", "1 J"],
+      "reponse": "0,01 J",
+      "explication": "E = ½ C U² = 0,5 × 50×10⁻⁶ × 400 = 0,01 J"
+    },
+    {
+      "question": "Dans un circuit RC, si R augmente, alors la charge du condensateur :",
+      "options": ["Met plus de temps à atteindre sa valeur max", "Est plus grande", "Est plus petite", "Ne change pas"],
+      "reponse": "Met plus de temps à atteindre sa valeur max",
+      "explication": "τ = RC → plus R est grand, plus la charge monte lentement."
+    },
+    {
+      "question": "Quelle est la charge Q maximale d’un condensateur 100 μF sous 5 V ?",
+      "options": ["5×10⁻⁴ C", "5×10⁻³ C", "20 C", "500 C"],
+      "reponse": "5×10⁻⁴ C",
+      "explication": "Q = C × U = 100×10⁻⁶ × 5 = 5×10⁻⁴ C"
+    },
+    {
+      "question": "Un condensateur se décharge avec une tension initiale de 10 V. Quelle sera la tension au bout de 2τ ?",
+      "options": ["1,35 V", "3,68 V", "5 V", "0 V"],
+      "reponse": "1,35 V",
+      "explication": "U = U₀ e⁻² ≈ 10 × 0,135 = 1,35 V"
+    },
+    {
+      "question": "Une charge initiale Q₀ = 2 mC se décharge dans un circuit RC avec τ = 0,5 s. Quelle est Q après 1 s ?",
+      "options": ["0,74 mC", "1 mC", "1,46 mC", "2 mC"],
+      "reponse": "0,74 mC",
+      "explication": "Q = Q₀ e⁻ᵗ/ᵗ = 2 × e⁻² ≈ 0,74 mC"
+    },
+    {
+      "question": "Dans un circuit RC, que représente τ ?",
+      "options": ["Le temps caractéristique de charge/décharge", "La fréquence du signal", "La tension maximale", "La puissance dissipée"],
+      "reponse": "Le temps caractéristique de charge/décharge",
+      "explication": "τ = RC caractérise la rapidité des phénomènes transitoires."
+    },
+    {
+      "question": "Un condensateur 220 μF est chargé à 9 V. Quelle est l’énergie stockée ?",
+      "options": ["0,0089 J", "0,02 J", "0,89 J", "8,9 J"],
+      "reponse": "0,0089 J",
+      "explication": "E = ½ C U² = 0,5 × 220×10⁻⁶ × 81 ≈ 0,0089 J"
+    },
+    {
+      "question": "Comment varie l’intensité I(t) lors de la charge ?",
+      "options": ["Décroît exponentiellement", "Reste constante", "Augmente", "Est nulle"],
+      "reponse": "Décroît exponentiellement",
+      "explication": "I(t) = (U₀/R) e⁻ᵗ/ᵗ décroît avec le temps."
+    },
+    {
+      "question": "Si la capacité double, que devient τ ?",
+      "options": ["Double", "Divise par 2", "Reste constant", "Zéro"],
+      "reponse": "Double",
+      "explication": "τ = R × C, donc si C double, τ double."
+    },
+    {
+      "question": "Quelle est la tension aux bornes du condensateur après 3τ en charge ?",
+      "options": ["≈ 95% de U₀", "50% de U₀", "63% de U₀", "100% de U₀"],
+      "reponse": "≈ 95% de U₀",
+      "explication": "À 3τ, charge presque complète (~95%)."
+    },
+    {
+      "question": "Quelle grandeur mesure-t-on avec un capacimètre ?",
+      "options": ["La capacité", "La charge", "La tension", "La résistance"],
+      "reponse": "La capacité",
+      "explication": "Le capacimètre mesure la capacité du condensateur."
+    },
+    {
+      "question": "Un condensateur est chargé à 12 V. Quelle charge pour C = 50 μF ?",
+      "options": ["6×10⁻⁴ C", "0,6 C", "0,06 C", "600 C"],
+      "reponse": "6×10⁻⁴ C",
+      "explication": "Q = C × U = 50×10⁻⁶ × 12 = 6×10⁻⁴ C"
+    },
+    {
+      "question": "La charge Q(t) au temps t lors de la charge suit la loi :",
+      "options": ["Q(t) = Q_max (1 − e⁻ᵗ/ᵗ)", "Q(t) = Q_max e⁻ᵗ/ᵗ", "Q(t) = Q_max / t", "Q(t) = t"],
+      "reponse": "Q(t) = Q_max (1 − e⁻ᵗ/ᵗ)",
+      "explication": "Charge exponentielle croissante."
+    },
+    {
+      "question": "Lors de la décharge, le courant I(t) vaut :",
+      "options": ["I(t) = I₀ e⁻ᵗ/ᵗ", "I(t) = 0", "I(t) = constant", "I(t) = t"],
+      "reponse": "I(t) = I₀ e⁻ᵗ/ᵗ",
+      "explication": "Courant décroissant exponentiellement."
+    },
+    {
+      "question": "Une résistance R = 5 kΩ est associée à un condensateur C = 4 μF. τ = ?",
+      "options": ["0,02 s", "0,2 s", "20 s", "200 s"],
+      "reponse": "0,02 s",
+      "explication": "τ = R × C = 5000 × 4×10⁻⁶ = 0,02 s"
+    },
+    {
+      "question": "Que représente l’énergie stockée dans un condensateur ?",
+      "options": ["Énergie potentielle électrique", "Énergie cinétique", "Énergie thermique", "Énergie lumineuse"],
+      "reponse": "Énergie potentielle électrique",
+      "explication": "L’énergie stockée est électrostatique."
+    },
+    {
+      "question": "Un condensateur est déchargé dans une résistance R = 1 kΩ. Quelle est la loi de U(t) ?",
+      "options": ["U(t) = U₀ e⁻ᵗ/τ", "U(t) = U₀ (1 − e⁻ᵗ/τ)", "U(t) = U₀ t", "U(t) = t"],
+      "reponse": "U(t) = U₀ e⁻ᵗ/τ",
+      "explication": "Tension décroissante exponentielle lors de la décharge."
+    },
+    {
+      "question": "Si on multiplie C par 3 et divise R par 3, τ devient :",
+      "options": ["Constant", "Triple", "Divisé par 3", "Zéro"],
+      "reponse": "Constant",
+      "explication": "τ = R × C, donc 3C × (R/3) = C × R."
+    },
+    {
+      "question": "Un condensateur de 1 μF est chargé sous 10 V. Charge initiale Q = ?",
+      "options": ["1×10⁻⁵ C", "1×10⁻⁶ C", "10 C", "0,1 C"],
+      "reponse": "1×10⁻⁵ C",
+      "explication": "Q = C × U = 1×10⁻⁶ × 10 = 1×10⁻⁵ C"
+    },
+    {
+      "question": "Le courant initial I₀ dans un circuit RC en charge est :",
+      "options": ["I₀ = U₀ / R", "I₀ = 0", "I₀ = C / R", "I₀ = U₀ × C"],
+      "reponse": "I₀ = U₀ / R",
+      "explication": "Au départ, le condensateur agit comme un circuit ouvert."
+    },
+    {
+      "question": "Un condensateur est un composant qui :",
+      "options": ["Stocke de l'énergie électrique", "Produit du courant alternatif", "Fournit une tension constante", "Bloque le courant continu"],
+      "reponse": "Stocke de l'énergie électrique",
+      "explication": "Le condensateur emmagasine de l'énergie sous forme de champ électrique."
+    },
+    {
+      "question": "La grandeur stockée dans un condensateur est :",
+      "options": ["La charge Q", "La tension U", "La résistance R", "La puissance P"],
+      "reponse": "La charge Q",
+      "explication": "Q = C × U → c'est la charge électrique accumulée."
+    },
+    {
+      "question": "L’unité de la capacité C est :",
+      "options": ["Farad (F)", "Coulomb (C)", "Volt (V)", "Ohm (Ω)"],
+      "reponse": "Farad (F)",
+      "explication": "La capacité se mesure en farads (F), unité du condensateur."
+    },
+    {
+      "question": "Si C = 2 mF et U = 10 V, la charge Q vaut :",
+      "options": ["0.02 C", "0.2 C", "20 C", "200 C"],
+      "reponse": "0.02 C",
+      "explication": "Q = C × U = 2×10⁻³ × 10 = 0.02 C"
+    },
+    {
+      "question": "L’énergie stockée par un condensateur est donnée par :",
+      "options": ["E = ½ C U²", "E = Q × U", "E = C × U", "E = C/U"],
+      "reponse": "E = ½ C U²",
+      "explication": "C’est la formule exacte de l’énergie emmagasinée dans un condensateur."
+    },
+    {
+      "question": "Pendant la charge, la tension aux bornes du condensateur :",
+      "options": ["Augmente progressivement", "Diminue", "Reste nulle", "Oscille"],
+      "reponse": "Augmente progressivement",
+      "explication": "Elle suit une loi exponentielle croissante : U(t) = U₀(1 − e⁻ᵗ/ᵗ)."
+    },
+    {
+      "question": "Lors de la décharge, la tension décroît :",
+      "options": ["Exponentiellement", "Linéairement", "En palier", "Pas du tout"],
+      "reponse": "Exponentiellement",
+      "explication": "U(t) = U₀ × e⁻ᵗ/ᵗ → c’est une décroissance exponentielle."
+    },
+    {
+      "question": "La constante de temps τ s’exprime par :",
+      "options": ["τ = RC", "τ = R/C", "τ = C/R", "τ = 1/RC"],
+      "reponse": "τ = RC",
+      "explication": "τ (tau) donne la vitesse de charge ou décharge du condensateur."
+    },
+    {
+      "question": "Au bout d’un temps t = 5τ, la charge du condensateur est :",
+      "options": ["Quasi complète", "Égale à 0", "Divisée par 5", "Inférieure à 10%"],
+      "reponse": "Quasi complète",
+      "explication": "À t = 5τ, la charge ou la décharge est à plus de 99% terminée."
+    },
+    {
+      "question": "La capacité d’un condensateur dépend de :",
+      "options": ["La surface des armatures et la distance entre elles", "La température", "L’intensité du courant", "La masse du condensateur"],
+      "reponse": "La surface des armatures et la distance entre elles",
+      "explication": "C ∝ S/d, où S est la surface et d l’écart entre plaques."
+    },
+    {
+      "question": "Pendant la charge, le courant dans le circuit :",
+      "options": ["Décroît exponentiellement", "Reste constant", "Augmente", "Est nul"],
+      "reponse": "Décroît exponentiellement",
+      "explication": "I(t) = (U₀/R) × e⁻ᵗ/ᵗ → le courant diminue progressivement."
+    },
+    {
+      "question": "Lors de la décharge, la tension U(t) suit :",
+      "options": ["U(t) = U₀ e⁻ᵗ/ᵗ", "U(t) = U₀(1 − e⁻ᵗ/ᵗ)", "U(t) = C × t", "U(t) = U₀ + t"],
+      "reponse": "U(t) = U₀ e⁻ᵗ/ᵗ",
+      "explication": "C’est la loi exponentielle de décroissance lors de la décharge."
+    },
+    {
+      "question": "Dans une charge RC, à t = τ, U atteint :",
+      "options": ["Environ 63% de U₀", "50% de U₀", "100% de U₀", "90% de U₀"],
+      "reponse": "Environ 63% de U₀",
+      "explication": "U(t) = U₀(1 − e⁻¹) ≈ 0.63 U₀"
+    },
+    {
+      "question": "Dans une décharge RC, à t = τ, U vaut :",
+      "options": ["≈ 37% de U₀", "0% de U₀", "50% de U₀", "90% de U₀"],
+      "reponse": "≈ 37% de U₀",
+      "explication": "U(t) = U₀ e⁻¹ ≈ 0.37 U₀"
+    },
+    {
+      "question": "Si R = 1 kΩ et C = 10 μF, la constante τ est :",
+      "options": ["0.01 s", "1 s", "0.1 s", "10 s"],
+      "reponse": "0.01 s",
+      "explication": "τ = RC = 1000 × 10⁻⁶ = 0.01 s"
+    },
+    {
+      "question": "Un condensateur complètement chargé se comporte comme :",
+      "options": ["Un interrupteur ouvert", "Une résistance", "Une source de courant", "Un court-circuit"],
+      "reponse": "Un interrupteur ouvert",
+      "explication": "Il ne laisse plus passer de courant quand il est chargé."
+    },
+    {
+      "question": "Lors de la décharge, l’énergie du condensateur :",
+      "options": ["Diminue", "Augmente", "Reste constante", "Devient négative"],
+      "reponse": "Diminue",
+      "explication": "Le condensateur restitue l’énergie stockée au circuit."
+    },
+    {
+      "question": "Un condensateur de 220 μF est chargé sous 9 V. Quelle énergie stocke-t-il ?",
+      "options": ["0.0089 J", "0.89 J", "8.9 J", "0.089 J"],
+      "reponse": "0.0089 J",
+      "explication": "E = ½ × C × U² = ½ × 220×10⁻⁶ × 81 ≈ 0.0089 J"
+    },
+    {
+      "question": "Dans un circuit RC, si on double la résistance R, alors τ :",
+      "options": ["Double aussi", "Diminue", "Ne change pas", "Devient nulle"],
+      "reponse": "Double aussi",
+      "explication": "τ = RC → quand R double, τ double aussi."
+    },
+    {
+      "question": "Un condensateur en courant continu finit par :",
+      "options": ["Bloquer le courant", "Conduire fortement", "Changer de polarité", "Disparaître"],
+      "reponse": "Bloquer le courant",
+      "explication": "Après la charge, le courant cesse de circuler en continu."
+    },
+    {
+      "question": "Si on inverse la polarité d’un condensateur électrolytique :",
+      "options": ["Il peut être détruit", "Il fonctionne mieux", "Il devient une bobine", "Il stocke plus"],
+      "reponse": "Il peut être détruit",
+      "explication": "Ces condensateurs ont un sens de branchement à respecter."
+    },
+    {
+      "question": "Plus la capacité C est grande, plus la charge :",
+      "options": ["Dure longtemps", "Est instantanée", "Est impossible", "Est interrompue"],
+      "reponse": "Dure longtemps",
+      "explication": "Un grand C implique un temps de charge plus long (τ = RC)."
+    },
+    {
+      "question": "Un condensateur peut être utilisé pour :",
+      "options": ["Filtrer des signaux", "Allumer une lampe", "Créer une onde sonore", "Remplacer une pile"],
+      "reponse": "Filtrer des signaux",
+      "explication": "En électronique, il sert à filtrer ou lisser les tensions."
+    },
+    {
+      "question": "L’intensité dans le circuit RC décroît comme :",
+      "options": ["I(t) = I₀ e⁻ᵗ/ᵗ", "I(t) = t", "I(t) = I₀ + t", "I(t) = constant"],
+      "reponse": "I(t) = I₀ e⁻ᵗ/ᵗ",
+      "explication": "La loi est exponentielle décroissante."
+    },
+    {
+      "question": "Le courant initial lors de la charge vaut :",
+      "options": ["I₀ = U₀ / R", "I₀ = 0", "I₀ = RC", "I₀ = U₀ × C"],
+      "reponse": "I₀ = U₀ / R",
+      "explication": "Au départ, le condensateur est vide et la tension est aux bornes de R."
+    },
+    {
+      "question": "Lors de la décharge, l’énergie est dissipée sous forme de :",
+      "options": ["Chaleur", "Lumière", "Son", "Tension constante"],
+      "reponse": "Chaleur",
+      "explication": "L’énergie se transforme en chaleur dans la résistance."
+    },
+    {
+      "question": "L’unité de l’énergie est :",
+      "options": ["Joule (J)", "Volt (V)", "Farad (F)", "Ohm (Ω)"],
+      "reponse": "Joule (J)",
+      "explication": "Toutes les énergies se mesurent en joules dans le SI."
+    },
+    {
+      "question": "En alternatif, un condensateur :",
+      "options": ["Laisse passer le courant", "Bloque tout", "Explose", "Devient une pile"],
+      "reponse": "Laisse passer le courant",
+      "explication": "Il se charge et se décharge en continu, donc laisse passer le courant AC."
+    },
+    {
+      "question": "La capacité C s’exprime aussi en :",
+      "options": ["μF, nF, pF", "mA, A", "V, Ω", "C/m²"],
+      "reponse": "μF, nF, pF",
+      "explication": "Les multiples courants sont microfarad, nanofarad, picofarad."
+    },
+    {
+      "question": "Un condensateur idéal ne perd pas d’énergie car :",
+      "options": ["Il n’a pas de fuite", "Il est parfait", "Il chauffe", "Il rayonne"],
+      "reponse": "Il n’a pas de fuite",
+      "explication": "Idéalement, il n’y a pas de dissipation, donc pas de perte."
+    }
+  ]
+}

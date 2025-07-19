@@ -1,0 +1,486 @@
+{
+  "qcm": [
+    {
+      "question": "Soient A(1;2), B(4;6). Quel est le vecteur AB ?",
+      "options": ["(3;4)", "(−3;−4)", "(5;8)", "(4;3)"],
+      "reponse": "(3;4)",
+      "explication": "AB = (4−1 ; 6−2) = (3;4)."
+    },
+    {
+      "question": "La droite passant par A(1;2) et de vecteur directeur u(2;3) a pour équation cartésienne :",
+      "options": ["(y−2)/(x−1) = 3/2", "x + y = 0", "x = 2t ; y = 3t", "x + 2y = 7"],
+      "reponse": "(y−2)/(x−1) = 3/2",
+      "explication": "Forme réduite : y−y₀ = (b/a)(x−x₀) → ici (3/2)(x−1)."
+    },
+    {
+      "question": "Soient u = (1;2), v = (−2;1). Le produit scalaire u•v vaut :",
+      "options": ["0", "3", "−1", "−2"],
+      "reponse": "0",
+      "explication": "u•v = 1×(−2) + 2×1 = −2 + 2 = 0 → vecteurs orthogonaux."
+    },
+    {
+      "question": "Déterminer l’angle entre u = (3;0) et v = (0;4).",
+      "options": ["90°", "0°", "45°", "180°"],
+      "reponse": "90°",
+      "explication": "Produit scalaire = 0 → angle droit."
+    },
+    {
+      "question": "Soient les plans P₁ : x + y + z = 1 et P₂ : 2x + 2y + 2z = 4. Que peut-on dire ?",
+      "options": ["Ils sont parallèles", "Ils sont confondus", "Ils sont orthogonaux", "Ils sont sécants"],
+      "reponse": "Ils sont parallèles",
+      "explication": "Même vecteur normal, mais équations différentes → plans parallèles."
+    },
+    {
+      "question": "Quelle est l’équation du plan passant par A(1;2;3) et de vecteur normal n(1;1;1) ?",
+      "options": ["x + y + z = 6", "x + y + z = 0", "x − y + z = 0", "x + y = z"],
+      "reponse": "x + y + z = 6",
+      "explication": "x + y + z − (1+2+3) = 0 → x + y + z = 6."
+    },
+    {
+      "question": "Soient u = (1;2;2), v = (2;−1;1). Le produit scalaire u•v vaut :",
+      "options": ["2", "4", "5", "0"],
+      "reponse": "2",
+      "explication": "u•v = 1×2 + 2×(−1) + 2×1 = 2 − 2 + 2 = 2."
+    },
+    {
+      "question": "Un vecteur a une norme de 5 et un autre une norme de 3. Leur produit scalaire est 15. Quel est l’angle entre eux ?",
+      "options": ["0°", "60°", "90°", "120°"],
+      "reponse": "0°",
+      "explication": "u•v = ‖u‖‖v‖cos(θ) = 5×3×cos(θ) = 15 ⇒ cos(θ) = 1 → θ = 0°."
+    },
+    {
+      "question": "Quel vecteur est orthogonal à u = (3;−2) ?",
+      "options": ["(2;3)", "(2;3)", "(2;3)", "(2;3)"],
+      "reponse": "(2;3)",
+      "explication": "u•v = 0 ⇒ 3×2 + (−2)×3 = 6 − 6 = 0."
+    },
+    {
+      "question": "L’angle entre deux vecteurs unitaires dont le produit scalaire vaut −1 est :",
+      "options": ["180°", "90°", "60°", "0°"],
+      "reponse": "180°",
+      "explication": "cos(θ) = −1 → θ = 180°."
+    },
+    {
+      "question": "Quel est le produit scalaire de u = (−1;2;3) et v = (1;−2;−3) ?",
+      "options": ["−14", "−12", "−1", "−16"],
+      "reponse": "−14",
+      "explication": "u•v = −1×1 + 2×(−2) + 3×(−3) = −1 − 4 − 9 = −14."
+    },
+    {
+      "question": "Quelle est la distance entre les points A(1;2) et B(4;6) ?",
+      "options": ["5", "6", "7", "√25"],
+      "reponse": "5",
+      "explication": "Distance = √((4−1)² + (6−2)²) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "Quel est le cosinus de l’angle entre u = (1;2) et v = (2;4) ?",
+      "options": ["1", "0", "1/2", "√2"],
+      "reponse": "1",
+      "explication": "Vecteurs colinéaires de même sens → cos(θ) = 1 → θ = 0°."
+    },
+    {
+      "question": "Quelle est l’équation cartésienne de la droite passant par (1;1) et de direction (2;3) ?",
+      "options": ["(y−1)/(x−1) = 3/2", "y = 3x + 2", "y = 2x + 1", "x = 2t ; y = 3t"],
+      "reponse": "(y−1)/(x−1) = 3/2",
+      "explication": "Forme d’équation paramétrée réduite."
+    },
+    {
+      "question": "Soient u = (1;2) et v = (−2;1). Ces deux vecteurs sont :",
+      "options": ["Orthogonaux", "Colinéaires", "Opposés", "Égaux"],
+      "reponse": "Orthogonaux",
+      "explication": "u•v = −2 + 2 = 0 → orthogonaux."
+    },
+    {
+      "question": "Soit u = (2;−1;3), sa norme est :",
+      "options": ["√14", "√9", "√12", "√6"],
+      "reponse": "√14",
+      "explication": "‖u‖ = √(2² + (−1)² + 3²) = √(4 + 1 + 9) = √14."
+    },
+    {
+      "question": "Un vecteur u de norme 3 et un vecteur v de norme 4 forment un angle de 60°. Le produit scalaire vaut :",
+      "options": ["6", "9", "12", "10"],
+      "reponse": "6",
+      "explication": "u•v = 3×4×cos(60°) = 12×0.5 = 6."
+    },
+    {
+      "question": "Quelle est la valeur de cos(θ) si u•v = 5, ‖u‖ = 2, ‖v‖ = 3 ?",
+      "options": ["5/6", "5/2", "1", "10/3"],
+      "reponse": "5/6",
+      "explication": "cos(θ) = u•v / (‖u‖‖v‖) = 5 / (2×3) = 5/6."
+    },
+    {
+      "question": "Quelle est l’équation d’un plan orthogonal à u = (1;2;−1) passant par A(0;1;2) ?",
+      "options": ["x + 2y − z − 3 = 0", "x − 2y + z = 0", "x + y + z = 0", "2x − y = 0"],
+      "reponse": "x + 2y − z − 3 = 0",
+      "explication": "Formule : a(x−x₀) + b(y−y₀) + c(z−z₀) = 0."
+    },
+    {
+      "question": "Soit A(0;0;0), B(2;2;2). Quelle est l’équation de la droite (AB) ?",
+      "options": ["x = t ; y = t ; z = t", "x + y + z = 0", "x = 2t ; y = 2t ; z = 2t", "x + y = z"],
+      "reponse": "x = t ; y = t ; z = t",
+      "explication": "Direction : (2;2;2) → simplifiée en (1;1;1)."
+    },
+    {
+      "question": "Quelle est la forme générale d’une équation cartésienne de plan dans l’espace ℝ³ ?",
+      "options": ["ax + by + cz + d = 0", "x² + y² + z² = r²", "y = ax + b", "az + b = 0"],
+      "reponse": "ax + by + cz + d = 0",
+      "explication": "Un plan est défini par une équation de la forme ax + by + cz + d = 0."
+    },
+    {
+      "question": "Le vecteur normal au plan 3x − 2y + z = 5 est :",
+      "options": ["(3;−2;1)", "(-3;2;1)", "(3;2;1)", "(5;5;5)"],
+      "reponse": "(3;−2;1)",
+      "explication": "Le vecteur normal est donné par les coefficients de x, y et z dans l’équation du plan."
+    },
+    {
+      "question": "Deux plans sont parallèles si...",
+      "options": ["Leurs vecteurs normaux sont colinéaires", "Ils ont un point commun", "Ils ont un vecteur directeur commun", "Ils sont orthogonaux"],
+      "reponse": "Leurs vecteurs normaux sont colinéaires",
+      "explication": "Des plans parallèles ont des vecteurs normaux colinéaires."
+    },
+    {
+      "question": "Quel est le produit scalaire de u = (2;1) et v = (−1;4) ?",
+      "options": ["2", "6", "3", "0"],
+      "reponse": "2",
+      "explication": "u•v = 2×(−1) + 1×4 = −2 + 4 = 2."
+    },
+    {
+      "question": "Quelle est la norme de u = (3;4) ?",
+      "options": ["5", "7", "9", "25"],
+      "reponse": "5",
+      "explication": "‖u‖ = √(3² + 4²) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "Soient u = (1;2;2) et v = (2;−1;1). u•v = ?",
+      "options": ["2", "3", "4", "5"],
+      "reponse": "2",
+      "explication": "u•v = 1×2 + 2×(−1) + 2×1 = 2 − 2 + 2 = 2."
+    },
+    {
+      "question": "Deux vecteurs sont orthogonaux si leur produit scalaire est...",
+      "options": ["0", "1", "2", "−1"],
+      "reponse": "0",
+      "explication": "Le produit scalaire nul implique que les vecteurs sont perpendiculaires."
+    },
+    {
+      "question": "Quelle est la formule du produit scalaire en fonction du cosinus ?",
+      "options": ["u•v = ‖u‖‖v‖cos(θ)", "u•v = ‖u‖/‖v‖", "u•v = u + v", "u•v = θ/‖u‖"],
+      "reponse": "u•v = ‖u‖‖v‖cos(θ)",
+      "explication": "Formule fondamentale reliant produit scalaire et angle entre vecteurs."
+    },
+    {
+      "question": "Si u = (1;0) et v = (0;1), alors u•v = ?",
+      "options": ["0", "1", "2", "−1"],
+      "reponse": "0",
+      "explication": "Les vecteurs sont orthogonaux, donc produit scalaire nul."
+    },
+    {
+      "question": "L’angle entre deux vecteurs u et v est de 90° si...",
+      "options": ["u•v = 0", "‖u‖ = ‖v‖", "u = v", "u × v = 0"],
+      "reponse": "u•v = 0",
+      "explication": "Un produit scalaire nul signifie un angle droit entre les deux vecteurs."
+    },
+    {
+      "question": "Quel est l’angle entre u = (1;1) et v = (1;−1) ?",
+      "options": ["90°", "45°", "0°", "180°"],
+      "reponse": "90°",
+      "explication": "u•v = 1×1 + 1×(−1) = 1−1 = 0 ⇒ angle droit."
+    },
+    {
+      "question": "Si u = (2;0;0), alors son vecteur unitaire est :",
+      "options": ["(1;0;0)", "(2;0;0)", "(0;1;0)", "(0;0;1)"],
+      "reponse": "(1;0;0)",
+      "explication": "Un vecteur unitaire a une norme de 1, donc on divise chaque composante par ‖u‖ = 2."
+    },
+    {
+      "question": "Deux plans sont orthogonaux si...",
+      "options": ["Leurs vecteurs normaux sont orthogonaux", "Ils n’ont aucun point commun", "Ils sont parallèles", "Ils sont confondus"],
+      "reponse": "Leurs vecteurs normaux sont orthogonaux",
+      "explication": "La perpendiculaire entre plans se traduit par orthogonalité de leurs vecteurs normaux."
+    },
+    {
+      "question": "Soient deux vecteurs u = (a;b) et v = (−b;a). Alors u et v sont...",
+      "options": ["Orthogonaux", "Colinéaires", "Opposés", "Égaux"],
+      "reponse": "Orthogonaux",
+      "explication": "u•v = a×(−b) + b×a = −ab + ab = 0 ⇒ orthogonaux."
+    },
+    {
+      "question": "Quel est le cosinus de l’angle entre u = (1;0) et v = (1;1) ?",
+      "options": ["√2/2", "1", "0", "−1"],
+      "reponse": "√2/2",
+      "explication": "cos(θ) = u•v / (‖u‖‖v‖) = 1 / (1×√2) = √2/2."
+    },
+    {
+      "question": "L’équation du plan orthogonal à (1;2;3) et passant par A(1;1;1) est :",
+      "options": ["x + 2y + 3z − 6 = 0", "x + y + z = 0", "2x + y + z = 3", "x + y + z = 6"],
+      "reponse": "x + 2y + 3z − 6 = 0",
+      "explication": "On utilise les coordonnées de A et le vecteur normal (1;2;3)."
+    },
+    {
+      "question": "L’angle entre deux vecteurs u et v est noté...",
+      "options": ["θ", "π", "α", "Ω"],
+      "reponse": "θ",
+      "explication": "θ est la notation usuelle pour un angle entre deux vecteurs."
+    },
+    {
+      "question": "Une équation cartésienne d’une droite dans l’espace est définie par :",
+      "options": ["Un point et un vecteur directeur", "Un seul point", "Un vecteur normal", "Trois coordonnées"],
+      "reponse": "Un point et un vecteur directeur",
+      "explication": "La droite est déterminée par un point et une direction."
+    },
+    {
+      "question": "Soient u = (1;2) et v = (2;4). Ils sont :",
+      "options": ["Colinéaires", "Orthogonaux", "Opposés", "Unitaires"],
+      "reponse": "Colinéaires",
+      "explication": "v = 2u donc u et v sont dans la même direction."
+    },
+    {
+      "question": "Le produit scalaire est commutatif, c’est-à-dire :",
+      "options": ["u•v = v•u", "u + v = v + u", "u•v = −v•u", "u•v = u × v"],
+      "reponse": "u•v = v•u",
+      "explication": "C’est une propriété essentielle du produit scalaire."
+    },
+    {
+      "question": "Soient A(1;2;3) et B(4;6;9). Quelle est la norme du vecteur AB ?",
+      "options": ["√77", "√62", "7", "10"],
+      "reponse": "√77",
+      "explication": "AB = (3;4;6) donc ‖AB‖ = √(3² + 4² + 6²) = √(9 + 16 + 36) = √61."
+    },
+    {
+      "question": "Soient les points A(0;0;0), B(1;2;3) et C(2;4;6). Que peut-on dire des vecteurs AB et AC ?",
+      "options": ["Ils sont colinéaires", "Ils sont orthogonaux", "Ils ont même norme", "Ils sont opposés"],
+      "reponse": "Ils sont colinéaires",
+      "explication": "AB = (1;2;3), AC = (2;4;6), donc AC = 2×AB → colinéaires."
+    },
+    {
+      "question": "Quelle est la distance entre les points A(1;0;2) et B(4;0;6) ?",
+      "options": ["5", "3", "4", "6"],
+      "reponse": "5",
+      "explication": "AB = (3;0;4) → norme = √(3² + 0² + 4²) = √25 = 5."
+    },
+    {
+      "question": "Une droite passe par A(1;2;0) et a pour vecteur directeur u(1;1;1). Donner sa représentation paramétrique.",
+      "options": ["x = 1+t ; y = 2+t ; z = t", "x = 2+t ; y = 1+t ; z = t", "x = t ; y = t ; z = t", "x = t+1 ; y = t+2 ; z = 2t"],
+      "reponse": "x = 1+t ; y = 2+t ; z = t",
+      "explication": "On part du point A et on ajoute le vecteur directeur × t."
+    },
+    {
+      "question": "Soient les droites D₁ : x=1+t ; y=2+t ; z=t et D₂ : x=3+s ; y=4+s ; z=s. Que peut-on dire ?",
+      "options": ["Les droites sont parallèles", "Les droites sont confondues", "Les droites sont gauches", "Les droites sont orthogonales"],
+      "reponse": "Les droites sont parallèles",
+      "explication": "Le vecteur directeur est le même : (1;1;1)."
+    },
+    {
+      "question": "Donner un vecteur normal au plan d’équation x − 2y + 3z = 4.",
+      "options": ["(1;−2;3)", "(-1;2;-3)", "(1;2;3)", "(4;4;4)"],
+      "reponse": "(1;−2;3)",
+      "explication": "Les coefficients de x, y, z dans l’équation du plan donnent le vecteur normal."
+    },
+    {
+      "question": "Un plan passe par A(0;1;0) et a pour vecteur normal n(1;2;3). Quelle est son équation ?",
+      "options": ["x + 2y + 3z − 2 = 0", "x + 2y + 3z + 1 = 0", "x + y + z = 0", "x − 2y − 3z = 0"],
+      "reponse": "x + 2y + 3z − 2 = 0",
+      "explication": "Forme : a(x−x₀) + b(y−y₀) + c(z−z₀) = 0 avec n = (a;b;c) et A(x₀;y₀;z₀)."
+    },
+    {
+      "question": "Le produit scalaire de u = (1;2;3) et v = (4;−2;1) est :",
+      "options": ["4", "2", "5", "6"],
+      "reponse": "4",
+      "explication": "u•v = 1×4 + 2×(−2) + 3×1 = 4 − 4 + 3 = 3."
+    },
+    {
+      "question": "Les vecteurs u(1;1;1) et v(−1;−1;−1) sont :",
+      "options": ["Colinéaires", "Orthogonaux", "Égaux", "Inverses"],
+      "reponse": "Colinéaires",
+      "explication": "v = −1 × u donc ils sont colinéaires."
+    },
+    {
+      "question": "Un plan est orthogonal à la droite d’équation x = 1+t ; y = 2−t ; z = 3+t. Son vecteur normal est donc :",
+      "options": ["(1;−1;1)", "(1;1;1)", "(−1;2;3)", "(1;2;0)"],
+      "reponse": "(1;−1;1)",
+      "explication": "Le vecteur directeur est (1;−1;1) donc un vecteur normal au plan orthogonal est ce même vecteur."
+    },
+    {
+      "question": "Soit A(1;2;3) et B(4;5;6). Le milieu I de [AB] est :",
+      "options": ["(2.5;3.5;4.5)", "(3;4;5)", "(1;2;3)", "(5;5;5)"],
+      "reponse": "(2.5;3.5;4.5)",
+      "explication": "I = ((xA+xB)/2 ; (yA+yB)/2 ; (zA+zB)/2)."
+    },
+    {
+      "question": "Quel est le plan passant par A(0;0;0) et orthogonal au vecteur n(1;1;1) ?",
+      "options": ["x + y + z = 0", "x + y − z = 0", "x − y + z = 0", "x = y = z"],
+      "reponse": "x + y + z = 0",
+      "explication": "Equation : a(x−x₀) + b(y−y₀) + c(z−z₀) = 0 → ici, x + y + z = 0."
+    },
+    {
+      "question": "Soit un vecteur u(2;1;−3). Sa norme est :",
+      "options": ["√14", "√9", "√6", "√5"],
+      "reponse": "√14",
+      "explication": "‖u‖ = √(2² + 1² + (−3)²) = √(4 + 1 + 9) = √14."
+    },
+    {
+      "question": "Deux vecteurs u et v ont un produit scalaire nul. Alors :",
+      "options": ["Ils sont orthogonaux", "Ils sont colinéaires", "Ils sont égaux", "Ils ont même norme"],
+      "reponse": "Ils sont orthogonaux",
+      "explication": "Définition du produit scalaire nul : vecteurs perpendiculaires."
+    },
+    {
+      "question": "Soit u(1;2;3) et v(4;−1;2). Quel est le produit vectoriel \\(\\vec{u} \\times \\vec{v}\\) ?",
+      "options": ["(8;10;−9)", "(7;5;4)", "(7;10;−11)", "(1;1;1)"],
+      "reponse": "(7;10;−11)",
+      "explication": "Calcul classique du produit vectoriel 3D (développement du déterminant)."
+    },
+    {
+      "question": "Quel est le volume du parallélépipède formé par u(1;0;0), v(0;2;0), w(0;0;3) ?",
+      "options": ["6", "3", "1", "0"],
+      "reponse": "6",
+      "explication": "Volume = |[u v w]| = produit mixte = 1×2×3 = 6."
+    },
+    {
+      "question": "Le point M(2;4;6) est-il sur la droite D : x = 1 + t ; y = 2 + 2t ; z = 3 + 3t ?",
+      "options": ["Oui", "Non", "Impossible à savoir", "Seulement si t = 2"],
+      "reponse": "Oui",
+      "explication": "Vérifions : x = 1+t ⇒ t = 1, y = 2+2t = 4, z = 3+3t = 6 ⇒ M ∈ D."
+    },
+    {
+      "question": "Le plan P : x + y + z = 6 coupe l’axe des z en quel point ?",
+      "options": ["(0;0;6)", "(0;0;0)", "(6;0;0)", "(0;0;−6)"],
+      "reponse": "(0;0;6)",
+      "explication": "Sur l’axe z, x = y = 0 donc z = 6."
+    },
+    {
+      "question": "La droite D₁ a pour équation paramétrique x = 1+t ; y = 2 ; z = 3. Quelle est sa direction ?",
+      "options": ["(1;0;0)", "(0;1;0)", "(1;2;3)", "(0;0;1)"],
+      "reponse": "(1;0;0)",
+      "explication": "Seul x varie avec t, donc direction parallèle à l’axe x."
+    },
+    {
+      "question": "La projection orthogonale du point M(1;2;3) sur le plan x + y + z = 6 est :",
+      "options": ["(2;3;1)", "(1;2;3)", "(2;2;2)", "(0;0;0)"],
+      "reponse": "(2;3;1)",
+      "explication": "Projection selon vecteur normal (1;1;1), donc calcul via distance au plan et déplacement."
+    },
+{
+  "qcm": [
+    {
+      "question": "Quel est le repère usuel de l’espace en géométrie analytique ?",
+      "options": ["(O; i, j, k)", "(A; x, y)", "(O; u, v)", "(P; x, y, z)"],
+      "reponse": "(O; i, j, k)",
+      "explication": "Il s’agit du repère orthonormé de l’espace, formé par un point O et trois vecteurs unitaires i, j, k."
+    },
+    {
+      "question": "Un point M(x, y, z) dans l’espace est défini par...",
+      "options": ["Ses trois coordonnées", "Sa norme", "Ses deux coordonnées", "Sa projection"],
+      "reponse": "Ses trois coordonnées",
+      "explication": "Un point dans l’espace est défini par ses abscisse, ordonnée et cote (x, y, z)."
+    },
+    {
+      "question": "Quel est le vecteur directeur de la droite passant par A(1,2,3) et B(4,5,6) ?",
+      "options": ["(3;3;3)", "(5;3;2)", "(4;5;6)", "(−3;−3;−3)"],
+      "reponse": "(3;3;3)",
+      "explication": "AB = B − A = (4−1; 5−2; 6−3) = (3;3;3)."
+    },
+    {
+      "question": "Quel est le vecteur normal du plan d’équation 2x − y + 3z = 7 ?",
+      "options": ["(2;−1;3)", "(−2;1;−3)", "(7;7;7)", "(2;1;3)"],
+      "reponse": "(2;−1;3)",
+      "explication": "Les coefficients de x, y, z dans l’équation cartésienne définissent le vecteur normal."
+    },
+    {
+      "question": "Deux vecteurs sont colinéaires si...",
+      "options": ["Leur produit vectoriel est nul", "Ils sont perpendiculaires", "Leur somme est nulle", "Leur norme est 1"],
+      "reponse": "Leur produit vectoriel est nul",
+      "explication": "Deux vecteurs colinéaires ont un produit vectoriel nul car ils sont parallèles."
+    },
+    {
+      "question": "La distance entre deux points A(x₁,y₁,z₁) et B(x₂,y₂,z₂) est donnée par :",
+      "options": ["√((x₂−x₁)²+(y₂−y₁)²+(z₂−z₁)²)", "(x₂−x₁)+(y₂−y₁)+(z₂−z₁)", "(x₁x₂+y₁y₂+z₁z₂)", "Aucune"],
+      "reponse": "√((x₂−x₁)²+(y₂−y₁)²+(z₂−z₁)²)",
+      "explication": "C’est la formule classique de la distance entre deux points dans l’espace."
+    },
+    {
+      "question": "Une équation cartésienne d’un plan est de la forme :",
+      "options": ["ax + by + cz + d = 0", "ax² + by² + cz² = d", "x + y = z", "Aucune"],
+      "reponse": "ax + by + cz + d = 0",
+      "explication": "C’est la forme générale d’un plan dans ℝ³."
+    },
+    {
+      "question": "Si un vecteur est normal à un plan, alors il est...",
+      "options": ["Perpendiculaire au plan", "Parallèle au plan", "Sur le plan", "Colinéaire à une droite du plan"],
+      "reponse": "Perpendiculaire au plan",
+      "explication": "Le vecteur normal est orthogonal à tous les vecteurs du plan."
+    },
+    {
+      "question": "Quel est le produit scalaire de deux vecteurs \\(\\vec{u} = (1,2,3)\\) et \\(\\vec{v} = (4,5,6)\\) ?",
+      "options": ["32", "27", "18", "45"],
+      "reponse": "32",
+      "explication": "u•v = 1×4 + 2×5 + 3×6 = 4 + 10 + 18 = 32."
+    },
+    {
+      "question": "Deux droites de l’espace sont dites gauches si...",
+      "options": ["Elles ne sont ni parallèles ni sécantes", "Elles sont parallèles", "Elles sont confondues", "Elles sont perpendiculaires"],
+      "reponse": "Elles ne sont ni parallèles ni sécantes",
+      "explication": "Les droites gauches ne se rencontrent pas et ne sont pas coplanaires."
+    },
+    {
+      "question": "La direction d’une droite est donnée par...",
+      "options": ["Un vecteur directeur", "Un point", "Un plan", "Un angle"],
+      "reponse": "Un vecteur directeur",
+      "explication": "Le vecteur directeur permet de connaître le sens et la direction d’une droite."
+    },
+    {
+      "question": "Un plan est entièrement défini par...",
+      "options": ["Un point et un vecteur normal", "Deux vecteurs", "Trois points alignés", "Deux droites quelconques"],
+      "reponse": "Un point et un vecteur normal",
+      "explication": "On a besoin d’un point d’ancrage et d’une direction perpendiculaire."
+    },
+    {
+      "question": "La condition de coplanarité de 3 vecteurs u, v, w est :",
+      "options": ["[u v w] = 0", "u + v + w = 0", "u × v = w", "||u|| = ||v|| = ||w||"],
+      "reponse": "[u v w] = 0",
+      "explication": "Le triple produit mixte nul signifie que les trois vecteurs sont coplanaires."
+    },
+    {
+      "question": "Quelle est la norme du vecteur \\(\\vec{u} = (3;4;0)\\) ?",
+      "options": ["5", "7", "9", "25"],
+      "reponse": "5",
+      "explication": "‖u‖ = √(3² + 4² + 0²) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "Un vecteur est orthogonal à un autre si...",
+      "options": ["Leur produit scalaire est nul", "Leur norme est égale", "Ils sont parallèles", "Ils sont égaux"],
+      "reponse": "Leur produit scalaire est nul",
+      "explication": "C’est la définition d’orthogonalité entre vecteurs."
+    },
+    {
+      "question": "Quelle est la représentation paramétrique d’une droite passant par A(1,0,2) de vecteur directeur (1;1;1) ?",
+      "options": ["x = 1 + t ; y = t ; z = 2 + t", "x = 1t ; y = t ; z = 2t", "x = t ; y = 1 + t ; z = 2 + t", "x = t + 1 ; y = t + 1 ; z = t + 2"],
+      "reponse": "x = 1 + t ; y = t ; z = 2 + t",
+      "explication": "On ajoute les coordonnées du point A aux composantes du vecteur directeur multipliées par t."
+    },
+    {
+      "question": "Un plan est orthogonal à un vecteur si...",
+      "options": ["Le vecteur est normal au plan", "Il est parallèle à une droite du plan", "Le vecteur est confondu au plan", "Il est opposé à un point du plan"],
+      "reponse": "Le vecteur est normal au plan",
+      "explication": "C’est la condition même pour définir un plan par un vecteur normal."
+    },
+    {
+      "question": "Une droite est contenue dans un plan si...",
+      "options": ["Elle passe par un point du plan et a un vecteur directeur orthogonal au vecteur normal du plan", "Elle est perpendiculaire au plan", "Elle croise le plan", "Elle est parallèle à un plan"],
+      "reponse": "Elle passe par un point du plan et a un vecteur directeur orthogonal au vecteur normal du plan",
+      "explication": "C’est la condition d’appartenance d’une droite à un plan."
+    },
+    {
+      "question": "La projection orthogonale d’un point sur un plan est...",
+      "options": ["Le point le plus proche du plan", "Un point confondu au plan", "Une droite", "Une normale"],
+      "reponse": "Le point le plus proche du plan",
+      "explication": "C’est le pied de la perpendiculaire issue du point vers le plan."
+    },
+    {
+      "question": "Si deux droites ont des vecteurs directeurs colinéaires, elles sont...",
+      "options": ["Parallèles", "Perpendiculaires", "Confondues", "Gauches"],
+      "reponse": "Parallèles",
+      "explication": "Des vecteurs directeurs colinéaires impliquent que les droites sont parallèles."
+    }
+  ]
+}

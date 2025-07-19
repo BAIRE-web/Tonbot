@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "Lors de l’estérification de l’acide éthanoïque avec le butanol, quel est le nom de l’ester formé ?",
+      "options": ["Butanoate d’éthyle", "Éthanoate de butyle", "Butanoate de méthyle", "Éthanoate de propyle"],
+      "reponse": "Éthanoate de butyle",
+      "explication": "On nomme d’abord la chaîne issue de l’acide (éthanoate), puis celle de l’alcool (butyle)."
+    },
+    {
+      "question": "On fait réagir du propène (CH₃—CH=CH₂) avec HCl. Quel est le produit principal ?",
+      "options": ["CH₃—CHCl—CH₃", "CH₃—CH₂—CH₂Cl", "CH₃—CH=CHCl", "CH₃Cl—CH₂—CH₃"],
+      "reponse": "CH₃—CHCl—CH₃",
+      "explication": "L’addition suit la règle de Markovnikov : H va sur le carbone ayant le plus d’H déjà."
+    },
+    {
+      "question": "Lors de la déshydratation de l’éthanol, on obtient :",
+      "options": ["CH₂=CH₂", "CH₃—CH₃", "CH₄", "CH₃—OH"],
+      "reponse": "CH₂=CH₂",
+      "explication": "L’éthanol chauffé perd H₂O et forme l’éthène (alcène)."
+    },
+    {
+      "question": "Le test à l’eau de Br₂ (bromée) permet de mettre en évidence :",
+      "options": ["Une double liaison", "Une liaison simple", "Un alcool", "Une cétone"],
+      "reponse": "Une double liaison",
+      "explication": "L’eau de brome est décolorée en présence de C=C (alcène)."
+    },
+    {
+      "question": "Quel est le réactif nécessaire à l’hydrolyse acide de l’ester CH₃COOCH₂CH₃ ?",
+      "options": ["H₂O, H⁺", "NaOH", "Cl₂", "Br₂"],
+      "reponse": "H₂O, H⁺",
+      "explication": "L’hydrolyse acide nécessite de l’eau et un catalyseur acide (H⁺)."
+    },
+    {
+      "question": "Quelle est la fonction obtenue après oxydation douce de CH₃CH₂OH ?",
+      "options": ["Aldéhyde", "Cétone", "Alcane", "Ester"],
+      "reponse": "Aldéhyde",
+      "explication": "Un alcool primaire s’oxyde doucement en aldéhyde."
+    },
+    {
+      "question": "On ajoute Br₂ à un alcène. Que constate-t-on ?",
+      "options": ["Décoloration", "Précipité blanc", "Ébullition", "Effervescence"],
+      "reponse": "Décoloration",
+      "explication": "Le Br₂ brun est consommé lors de l’addition sur la double liaison."
+    },
+    {
+      "question": "Quel est le groupe partant lors d’une substitution nucléophile d’un halogénoalcane ?",
+      "options": ["Halogène", "Hydroxyle", "Hydrogène", "Carboxyle"],
+      "reponse": "Halogène",
+      "explication": "L’atome d’halogène est remplacé par un autre nucléophile (ex : —OH)."
+    },
+    {
+      "question": "La réaction d’un alcool et d’un acide en présence d’H₂SO₄ produit un ester. Que fait-on pour favoriser la formation de l’ester ?",
+      "options": ["Éliminer l’eau", "Refroidir fortement", "Ajouter du sel", "Ajouter du NaOH"],
+      "reponse": "Éliminer l’eau",
+      "explication": "Cela déplace l’équilibre de l’estérification vers la droite."
+    },
+    {
+      "question": "Quelle est la formule semi-développée de l’ester formé par l’acide propanoïque et le méthanol ?",
+      "options": ["CH₃—CH₂—COOCH₃", "CH₃—CH₂—COOH", "CH₃COOCH₂CH₃", "CH₃—COOH"],
+      "reponse": "CH₃—CH₂—COOCH₃",
+      "explication": "C’est le propanoate de méthyle."
+    },
+    {
+      "question": "On fait réagir CH₃—CHBr—CH₃ avec KOH à chaud. Quel produit forme-t-on ?",
+      "options": ["CH₃—CH=CH₂", "CH₃—CH₂—OH", "CH₃—CH₂—CH₃", "CH₃—CH₂—COOH"],
+      "reponse": "CH₃—CH=CH₂",
+      "explication": "Réaction d’élimination (E2) : formation d’un alcène."
+    },
+    {
+      "question": "Dans la réaction suivante : CH₃CH=CH₂ + HBr → ?, quel est le produit attendu selon la règle de Markovnikov ?",
+      "options": ["CH₃CHBrCH₃", "CH₃CH₂CH₂Br", "CH₃CH=CHBr", "CH₃CH₂CH₂OH"],
+      "reponse": "CH₃CHBrCH₃",
+      "explication": "H se fixe sur le C déjà le plus riche en H, Br sur l’autre."
+    },
+    {
+      "question": "On fait réagir un ester avec de la soude (NaOH). C’est une hydrolyse :",
+      "options": ["Basique", "Acide", "Neutre", "Oxydante"],
+      "reponse": "Basique",
+      "explication": "La saponification (hydrolyse basique) donne un ion carboxylate et un alcool."
+    },
+    {
+      "question": "La réaction d’un alcool tertiaire avec HBr est généralement :",
+      "options": ["Rapide", "Lente", "Impossible", "Inversée"],
+      "reponse": "Rapide",
+      "explication": "Les carbocations tertiaires sont très stables, favorisant la substitution."
+    },
+    {
+      "question": "Quel composé ne peut pas subir d’élimination pour former un alcène ?",
+      "options": ["Alcane", "Alcool", "Halogénoalcane", "Amine"],
+      "reponse": "Alcane",
+      "explication": "Les alcanes n'ont pas de groupes partants favorables."
+    },
+    {
+      "question": "Quel type de produit peut-on obtenir à partir d’un alcène et de Cl₂ ?",
+      "options": ["Un dihalogénoalcane", "Un ester", "Un alcool", "Un acide"],
+      "reponse": "Un dihalogénoalcane",
+      "explication": "Les deux Cl s’ajoutent aux extrémités de la double liaison."
+    },
+    {
+      "question": "Un ester possède l’odeur caractéristique de :",
+      "options": ["Fruits", "Soufre", "Ammoniaque", "Fer"],
+      "reponse": "Fruits",
+      "explication": "Les esters sont souvent utilisés en parfumerie et arômes."
+    },
+    {
+      "question": "Une réaction de substitution peut être favorisée par :",
+      "options": ["Un solvant polaire", "Une température très basse", "L’absence d’eau", "Une lumière intense"],
+      "reponse": "Un solvant polaire",
+      "explication": "Il stabilise les intermédiaires ioniques de la réaction."
+    },
+    {
+      "question": "Pour obtenir CH₃—CH=CH₂ à partir de CH₃—CH₂—CH₂Br, il faut réaliser :",
+      "options": ["Élimination", "Oxydation", "Hydrolyse", "Addition"],
+      "reponse": "Élimination",
+      "explication": "On élimine HBr pour former une double liaison."
+    },
+    {
+      "question": "Lors de l’hydrolyse d’un ester en milieu basique, on obtient :",
+      "options": ["Un ion carboxylate et un alcool", "Un acide et un alcool", "Deux esters", "Un alcène et un alcool"],
+      "reponse": "Un ion carboxylate et un alcool",
+      "explication": "La base déprotonne l’acide formé : c’est la saponification."
+    },
+    {
+      "question": "Quel type de réaction transforme un alcène en alcool ?",
+      "options": ["Addition", "Élimination", "Substitution", "Hydrolyse"],
+      "reponse": "Addition",
+      "explication": "Une molécule d’eau peut s’additionner à la double liaison de l’alcène pour donner un alcool."
+    },
+    {
+      "question": "Quel est le type de réaction entre un acide carboxylique et un alcool ?",
+      "options": ["Estérification", "Addition", "Substitution", "Élimination"],
+      "reponse": "Estérification",
+      "explication": "L’acide et l’alcool réagissent pour former un ester et de l’eau."
+    },
+    {
+      "question": "Quel est le produit de l’addition de HBr sur CH₂=CH₂ ?",
+      "options": ["CH₃—CH₂Br", "CH₃—CH₃", "CH₂Br—CH₂Br", "CH₄"],
+      "reponse": "CH₃—CH₂Br",
+      "explication": "L’addition de HBr sur l’alcène donne un halogénoalcane."
+    },
+    {
+      "question": "Quelle réaction transforme un alcool en alcène ?",
+      "options": ["Élimination", "Addition", "Substitution", "Estérification"],
+      "reponse": "Élimination",
+      "explication": "L’alcool perd H₂O pour former une double liaison."
+    },
+    {
+      "question": "Dans une substitution, un groupe est :",
+      "options": ["Remplacé", "Ajouté", "Éliminé", "Hydrolysé"],
+      "reponse": "Remplacé",
+      "explication": "Une entité chimique est substituée par une autre."
+    },
+    {
+      "question": "L’hydrolyse d’un ester en milieu acide produit :",
+      "options": ["Un acide et un alcool", "Deux esters", "Une cétone", "Un alcène"],
+      "reponse": "Un acide et un alcool",
+      "explication": "C’est la réaction inverse de l’estérification."
+    },
+    {
+      "question": "Quel est le rôle de l’acide sulfurique dans une estérification ?",
+      "options": ["Catalyseur", "Produit", "Solvant", "Oxydant"],
+      "reponse": "Catalyseur",
+      "explication": "L’acide sulfurique catalyse la réaction et favorise l’élimination de l’eau."
+    },
+    {
+      "question": "La réaction d’un alcool avec un acide chlorhydrique est une :",
+      "options": ["Substitution", "Addition", "Oxydation", "Élimination"],
+      "reponse": "Substitution",
+      "explication": "Le groupe —OH est remplacé par un atome de chlore."
+    },
+    {
+      "question": "La réaction de déshydratation d’un alcool donne :",
+      "options": ["Un alcène", "Un ester", "Un acide", "Un alcool"],
+      "reponse": "Un alcène",
+      "explication": "L’élimination d’eau entre deux carbones donne une double liaison."
+    },
+    {
+      "question": "Quel type de réaction est utilisé pour former un ester ?",
+      "options": ["Condensation", "Addition", "Oxydation", "Réduction"],
+      "reponse": "Condensation",
+      "explication": "L’estérification est une réaction de condensation avec élimination d’eau."
+    },
+    {
+      "question": "Quelle est la condition essentielle pour l’hydrolyse d’un ester ?",
+      "options": ["Présence d’eau", "Présence de lumière", "Oxydation", "Température basse"],
+      "reponse": "Présence d’eau",
+      "explication": "L’eau est indispensable pour rompre l’ester en acide et alcool."
+    },
+    {
+      "question": "Quel produit obtient-on lors de l’élimination d’HBr d’un halogénoalcane ?",
+      "options": ["Un alcène", "Un ester", "Un alcool", "Un cétone"],
+      "reponse": "Un alcène",
+      "explication": "L’élimination d’HBr crée une double liaison entre les carbones."
+    },
+    {
+      "question": "La réaction de CH₃CH₂OH avec HCl donne :",
+      "options": ["CH₃CH₂Cl", "CH₃CH₃", "CH₃COOH", "CH₃CH=CH₂"],
+      "reponse": "CH₃CH₂Cl",
+      "explication": "Il s’agit d’une substitution où —OH est remplacé par —Cl."
+    },
+    {
+      "question": "L’ajout de Br₂ à un alcène est une :",
+      "options": ["Addition", "Élimination", "Hydrolyse", "Substitution"],
+      "reponse": "Addition",
+      "explication": "Les deux atomes de Br s’ajoutent sur la double liaison."
+    },
+    {
+      "question": "Quelle réaction produit un ester à partir d’un acide et d’un alcool ?",
+      "options": ["Estérification", "Élimination", "Addition", "Substitution"],
+      "reponse": "Estérification",
+      "explication": "C’est la réaction de base en chimie organique."
+    },
+    {
+      "question": "Quel est le mécanisme général d'une addition ?",
+      "options": ["Rupture d’une double liaison", "Perte d’un groupe", "Remplacement d’un atome", "Formation d’un cycle"],
+      "reponse": "Rupture d’une double liaison",
+      "explication": "L’addition casse une liaison multiple pour ajouter des atomes."
+    },
+    {
+      "question": "Que produit l’addition d’eau sur un alcène ?",
+      "options": ["Un alcool", "Un acide", "Un ester", "Un éther"],
+      "reponse": "Un alcool",
+      "explication": "L’eau s’ajoute à la double liaison formant un groupe —OH."
+    },
+    {
+      "question": "Une élimination nécessite souvent :",
+      "options": ["Chauffage", "Refroidissement", "Lumière", "Pression faible"],
+      "reponse": "Chauffage",
+      "explication": "Le chauffage favorise la perte d’un groupe (H₂O, HX…)."
+    },
+    {
+      "question": "L’estérification est une réaction :",
+      "options": ["Réversible", "Totale", "Instantanée", "Irréversible"],
+      "reponse": "Réversible",
+      "explication": "C’est un équilibre chimique entre l’ester et ses réactifs."
+    },
+    {
+      "question": "L’addition de H₂ à un alcène donne :",
+      "options": ["Un alcane", "Un alcool", "Un acide", "Un ester"],
+      "reponse": "Un alcane",
+      "explication": "L’hydrogénation d’un alcène forme un alcane saturé."
+    }
+  ]
+}

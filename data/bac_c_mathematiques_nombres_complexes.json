@@ -1,0 +1,484 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la forme algébrique d’un nombre complexe z ?",
+      "options": ["z = a + ib", "z = a − ib", "z = a × b", "z = a / b"],
+      "reponse": "z = a + ib",
+      "explication": "La forme algébrique est la somme d’une partie réelle a et d’une partie imaginaire ib."
+    },
+    {
+      "question": "Que représente le module |z| d’un nombre complexe z = a + ib ?",
+      "options": ["√(a² + b²)", "a + b", "a − b", "a × b"],
+      "reponse": "√(a² + b²)",
+      "explication": "Le module est la distance du point (a,b) à l’origine dans le plan complexe."
+    },
+    {
+      "question": "Quelle est la formule de l’argument arg(z) pour z = a + ib avec a > 0 ?",
+      "options": ["arg(z) = arctan(b / a)", "arg(z) = arcsin(b / a)", "arg(z) = arccos(b / a)", "arg(z) = a + b"],
+      "reponse": "arg(z) = arctan(b / a)",
+      "explication": "L’argument est l’angle que fait le vecteur avec l’axe des réels positifs."
+    },
+    {
+      "question": "Quelle est la forme trigonométrique d’un nombre complexe z ?",
+      "options": ["z = |z|(cos θ + i sin θ)", "z = |z| + iθ", "z = a + iθ", "z = cos θ + i sin θ"],
+      "reponse": "z = |z|(cos θ + i sin θ)",
+      "explication": "La forme trigonométrique exprime z avec son module et son argument."
+    },
+    {
+      "question": "Quel est le module de z = 3 − 4i ?",
+      "options": ["5", "7", "1", "−1"],
+      "reponse": "5",
+      "explication": "Module = √(3² + (−4)²) = √(9 + 16) = 5."
+    },
+    {
+      "question": "Quelle est la partie réelle de z = 5(cos 60° + i sin 60°) ?",
+      "options": ["2,5", "5", "5√3/2", "5/2"],
+      "reponse": "2,5",
+      "explication": "Partie réelle = 5 × cos 60° = 5 × 1/2 = 2,5."
+    },
+    {
+      "question": "Quel est l’argument principal arg(z) de z = −1 + 0i ?",
+      "options": ["π", "0", "π/2", "−π"],
+      "reponse": "π",
+      "explication": "Le point (−1,0) correspond à un angle π."
+    },
+    {
+      "question": "Comment exprimer le conjugué de z = a + ib ?",
+      "options": ["\u007a̅ = a − ib", "z = a − ib", "z = −a + ib", "z = −a − ib"],
+      "reponse": "z̅ = a − ib",
+      "explication": "Le conjugué inverse le signe de la partie imaginaire."
+    },
+    {
+      "question": "Quelle est la formule de multiplication en forme trigonométrique ?",
+      "options": ["z₁z₂ = |z₁||z₂| [cos(θ₁ + θ₂) + i sin(θ₁ + θ₂)]", "z₁z₂ = |z₁| + |z₂|", "z₁z₂ = |z₁||z₂|", "z₁z₂ = cos(θ₁) cos(θ₂) + i sin(θ₁) sin(θ₂)"],
+      "reponse": "z₁z₂ = |z₁||z₂| [cos(θ₁ + θ₂) + i sin(θ₁ + θ₂)]",
+      "explication": "Lors de la multiplication, on multiplie les modules et on additionne les arguments."
+    },
+    {
+      "question": "Quelle est la formule de la division en forme trigonométrique ?",
+      "options": ["z₁/z₂ = (|z₁|/|z₂|) [cos(θ₁ − θ₂) + i sin(θ₁ − θ₂)]", "z₁/z₂ = |z₁| − |z₂|", "z₁/z₂ = |z₁|/|z₂|", "z₁/z₂ = cos(θ₁ − θ₂) + i sin(θ₁ + θ₂)"],
+      "reponse": "z₁/z₂ = (|z₁|/|z₂|) [cos(θ₁ − θ₂) + i sin(θ₁ − θ₂)]",
+      "explication": "Pour diviser, on divise les modules et on soustrait les arguments."
+    },
+    {
+      "question": "Comment calculer le module du produit z₁z₂ ?",
+      "options": ["|z₁z₂| = |z₁| × |z₂|", "|z₁z₂| = |z₁| + |z₂|", "|z₁z₂| = |z₁| − |z₂|", "|z₁z₂| = |z₁| / |z₂|"],
+      "reponse": "|z₁z₂| = |z₁| × |z₂|",
+      "explication": "Le module du produit est le produit des modules."
+    },
+    {
+      "question": "Quelle est la relation entre le module de z et son conjugué z̅ ?",
+      "options": ["|z| = |z̅|", "|z| = −|z̅|", "|z| = 1 / |z̅|", "|z| = |z̅|²"],
+      "reponse": "|z| = |z̅|",
+      "explication": "Le module est identique pour un nombre complexe et son conjugué."
+    },
+    {
+      "question": "Quelle est l’argument de z̅ si arg(z) = θ ?",
+      "options": ["arg(z̅) = −θ", "arg(z̅) = θ", "arg(z̅) = π − θ", "arg(z̅) = π + θ"],
+      "reponse": "arg(z̅) = −θ",
+      "explication": "Le conjugué inverse le signe de l’argument."
+    },
+    {
+      "question": "Quel est le module de z = 0 + 0i ?",
+      "options": ["0", "1", "π", "indéfini"],
+      "reponse": "0",
+      "explication": "Le module du point à l’origine est nul."
+    },
+    {
+      "question": "Quelle est la forme trigonométrique de z = 1 + i ?",
+      "options": ["√2(cos π/4 + i sin π/4)", "1 + i", "2(cos π/2 + i sin π/2)", "√2(cos π/2 + i sin π/2)"],
+      "reponse": "√2(cos π/4 + i sin π/4)",
+      "explication": "Module √2 et argument π/4."
+    },
+    {
+      "question": "Quelle est la forme trigonométrique de z = −1 + i√3 ?",
+      "options": ["2(cos 2π/3 + i sin 2π/3)", "2(cos π/3 + i sin π/3)", "1 + i√3", "2(cos π/6 + i sin π/6)"],
+      "reponse": "2(cos 2π/3 + i sin 2π/3)",
+      "explication": "Module 2 et argument 2π/3."
+    },
+    {
+      "question": "Comment s’appelle la forme z = r (cos θ + i sin θ) ?",
+      "options": ["forme trigonométrique", "forme algébrique", "forme exponentielle", "forme polaire"],
+      "reponse": "forme trigonométrique",
+      "explication": "C’est la forme trigonométrique classique des nombres complexes."
+    },
+    {
+      "question": "Quelle est la relation entre la forme exponentielle et trigonométrique ?",
+      "options": ["e^{iθ} = cos θ + i sin θ", "e^{iθ} = cos θ − i sin θ", "e^{θ} = cos θ + i sin θ", "e^{iθ} = sin θ + cos θ"],
+      "reponse": "e^{iθ} = cos θ + i sin θ",
+      "explication": "Formule d’Euler qui relie forme exponentielle et trigonométrique."
+    },
+    {
+      "question": "Quelle est la formule de Moivre pour z^n ?",
+      "options": ["z^n = r^n (cos nθ + i sin nθ)", "z^n = r (cos θ + i sin θ)^n", "z^n = r^n + nθ", "z^n = n r (cos θ + i sin θ)"],
+      "reponse": "z^n = r^n (cos nθ + i sin nθ)",
+      "explication": "Formule pour élever un nombre complexe à une puissance entière."
+    },
+    {
+      "question": "Quelle est la partie imaginaire de z = 4 (cos 45° + i sin 45°) ?",
+      "options": ["2√2", "4", "4√2", "2"],
+      "reponse": "2√2",
+      "explication": "Partie imaginaire = 4 × sin 45° = 4 × √2/2 = 2√2."
+    },
+    {
+      "question": "Quel est l’argument principal arg(z) d’un nombre complexe ?",
+      "options": ["L’angle entre le vecteur et l’axe réel positif compris dans (−π, π]", "Le module de z", "La partie imaginaire", "La partie réelle"],
+      "reponse": "L’angle entre le vecteur et l’axe réel positif compris dans (−π, π]",
+      "explication": "L’argument principal est l’angle unique dans cet intervalle."
+    },
+    {
+      "question": "Calculer le module de z = −3 + 4i.",
+      "options": ["5", "7", "1", "−1"],
+      "reponse": "5",
+      "explication": "Module = √(−3)² + 4² = √9 + 16 = 5."
+    },
+    {
+      "question": "Trouver l’argument principal de z = 1 + i√3.",
+      "options": ["π/3", "π/6", "π/4", "π/2"],
+      "reponse": "π/3",
+      "explication": "arg(z) = arctan(√3/1) = π/3."
+    },
+    {
+      "question": "Exprimer z = 2 (cos π/4 + i sin π/4) en forme algébrique.",
+      "options": ["√2 + i√2", "2 + 2i", "1 + i", "2 + i√2"],
+      "reponse": "√2 + i√2",
+      "explication": "Partie réelle = 2 cos π/4 = √2, partie imaginaire = 2 sin π/4 = √2."
+    },
+    {
+      "question": "Calculer le conjugué de z = 3 − 5i.",
+      "options": ["3 + 5i", "−3 + 5i", "3 − 5i", "−3 − 5i"],
+      "reponse": "3 + 5i",
+      "explication": "Le conjugué change le signe de la partie imaginaire."
+    },
+    {
+      "question": "Multiplier z₁ = 3 (cos 60° + i sin 60°) par z₂ = 2 (cos 30° + i sin 30°).",
+      "options": ["6 (cos 90° + i sin 90°)", "5 (cos 90° + i sin 90°)", "6 (cos 30° + i sin 30°)", "5 (cos 60° + i sin 60°)"],
+      "reponse": "6 (cos 90° + i sin 90°)",
+      "explication": "Modules × : 3 × 2 = 6; arguments + : 60° + 30° = 90°."
+    },
+    {
+      "question": "Diviser z₁ = 4 (cos 150° + i sin 150°) par z₂ = 2 (cos 30° + i sin 30°).",
+      "options": ["2 (cos 120° + i sin 120°)", "2 (cos 180° + i sin 180°)", "8 (cos 120° + i sin 120°)", "2 (cos 90° + i sin 90°)"],
+      "reponse": "2 (cos 120° + i sin 120°)",
+      "explication": "Modules ÷ : 4 / 2 = 2; arguments − : 150° − 30° = 120°."
+    },
+    {
+      "question": "Calculer |z| si z = 0 + 7i.",
+      "options": ["7", "0", "1", "−7"],
+      "reponse": "7",
+      "explication": "Module = √0² + 7² = 7."
+    },
+    {
+      "question": "Trouver l’argument principal de z = −1 − i√3.",
+      "options": ["−2π/3", "2π/3", "−π/3", "π/3"],
+      "reponse": "−2π/3",
+      "explication": "Le point est dans le 3e quadrant avec un angle −120° = −2π/3."
+    },
+    {
+      "question": "Convertir z = −2 + 2i en forme trigonométrique.",
+      "options": ["2√2 (cos 3π/4 + i sin 3π/4)", "2 (cos π/4 + i sin π/4)", "2√2 (cos π/4 + i sin π/4)", "2 (cos 3π/4 + i sin 3π/4)"],
+      "reponse": "2√2 (cos 3π/4 + i sin 3π/4)",
+      "explication": "Module √(−2)² + 2² = 2√2; argument 135° = 3π/4."
+    },
+    {
+      "question": "Calculer le module de z = 5.",
+      "options": ["5", "0", "1", "−5"],
+      "reponse": "5",
+      "explication": "Partie imaginaire nulle, module = valeur absolue partie réelle."
+    },
+    {
+      "question": "Si |z| = 1 et arg(z) = θ, que vaut z^n en forme trigonométrique ?",
+      "options": ["cos nθ + i sin nθ", "n (cos θ + i sin θ)", "1", "nθ"],
+      "reponse": "cos nθ + i sin nθ",
+      "explication": "Le module élevé à n est 1^n = 1, l’argument multiplié par n."
+    },
+    {
+      "question": "Exprimer z = 1 − i√3 en forme trigonométrique.",
+      "options": ["2 (cos (−π/3) + i sin (−π/3))", "2 (cos π/3 + i sin π/3)", "2 (cos 2π/3 + i sin 2π/3)", "1 − i√3"],
+      "reponse": "2 (cos (−π/3) + i sin (−π/3))",
+      "explication": "Module 2, argument −60° = −π/3."
+    },
+    {
+      "question": "Calculer z × z̅ si z = 3 + 4i.",
+      "options": ["25", "7", "12", "−25"],
+      "reponse": "25",
+      "explication": "Produit z × conjugué = |z|² = 3² + 4² = 25."
+    },
+    {
+      "question": "Quel est le conjugué de z = 7 (cos 45° + i sin 45°) ?",
+      "options": ["7 (cos (−45°) + i sin (−45°))", "7 (cos 45° − i sin 45°)", "−7 (cos 45° + i sin 45°)", "7 (cos 135° + i sin 135°)"],
+      "reponse": "7 (cos (−45°) + i sin (−45°))",
+      "explication": "Le conjugué inverse le signe de l’argument."
+    },
+    {
+      "question": "Calculer z³ si z = 2 (cos 30° + i sin 30°).",
+      "options": ["8 (cos 90° + i sin 90°)", "6 (cos 60° + i sin 60°)", "8 (cos 30° + i sin 30°)", "2 (cos 90° + i sin 90°)"],
+      "reponse": "8 (cos 90° + i sin 90°)",
+      "explication": "Module 2³ = 8; argument 3 × 30° = 90°."
+    },
+    {
+      "question": "Calculer l’argument de z = 0 − 2i.",
+      "options": ["−π/2", "π/2", "0", "π"],
+      "reponse": "−π/2",
+      "explication": "Le point est sur l’axe imaginaire négatif."
+    },
+    {
+      "question": "Quelle est la partie réelle de z = 5 (cos 120° + i sin 120°) ?",
+      "options": ["−2,5", "2,5", "5", "−5"],
+      "reponse": "−2,5",
+      "explication": "5 × cos 120° = 5 × (−1/2) = −2,5."
+    },
+    {
+      "question": "Quelle est la forme exponentielle de z = r (cos θ + i sin θ) ?",
+      "options": ["z = r e^{iθ}", "z = r e^{−iθ}", "z = r e^{θ}", "z = r e^{−θ}"],
+      "reponse": "z = r e^{iθ}",
+      "explication": "Formule d’Euler."
+    },
+    {
+      "question": "Résoudre z^4 = 1 en trouvant les racines complexes.",
+      "options": ["1, i, −1, −i", "1, −1", "i, −i", "0, 1, −1, i"],
+      "reponse": "1, i, −1, −i",
+      "explication": "Les racines 4èmes de l’unité sont aux arguments 0, π/2, π, 3π/2."
+    },
+    {
+      "question": "Combien de solutions une équation polynomiale de degré n admet-elle dans ℂ ?",
+      "options": ["n", "n−1", "1", "0"],
+      "reponse": "n",
+      "explication": "Le théorème fondamental de l’algèbre garantit n racines complexes (comptées avec multiplicité)."
+    },
+    {
+      "question": "Quelle est la forme générale d’une équation quadratique dans ℂ ?",
+      "options": ["az² + bz + c = 0", "az + b = 0", "z² + c = 0", "az² + c = 0"],
+      "reponse": "az² + bz + c = 0",
+      "explication": "Une équation du second degré avec coefficients complexes."
+    },
+    {
+      "question": "Quelle formule permet de trouver les racines de az² + bz + c = 0 dans ℂ ?",
+      "options": ["z = (−b ± √(b² − 4ac)) / (2a)", "z = (b ± √(b² − 4ac)) / (2a)", "z = −b / (2a)", "z = c / a"],
+      "reponse": "z = (−b ± √(b² − 4ac)) / (2a)",
+      "explication": "Formule quadratique applicable dans ℂ, racines complexes possibles."
+    },
+    {
+      "question": "Si ∆ = b² − 4ac = 0, combien de racines distinctes ?",
+      "options": ["1", "2", "0", "∞"],
+      "reponse": "1",
+      "explication": "Une racine double (multiplicité 2)."
+    },
+    {
+      "question": "Quel est l’ensemble des solutions de z² + 1 = 0 ?",
+      "options": ["i et −i", "1 et −1", "0", "aucune solution"],
+      "reponse": "i et −i",
+      "explication": "Racines carrées de −1 dans ℂ."
+    },
+    {
+      "question": "Comment résoudre l’équation zⁿ = 1 ?",
+      "options": ["Trouver les racines n-ièmes de l’unité", "z = 1 uniquement", "z = 0", "z = −1"],
+      "reponse": "Trouver les racines n-ièmes de l’unité",
+      "explication": "Solutions sur le cercle unité avec arguments 2kπ/n."
+    },
+    {
+      "question": "Quelle est la forme trigonométrique des racines n-ièmes de l’unité ?",
+      "options": ["z_k = cos(2kπ/n) + i sin(2kπ/n)", "z_k = cos(kπ) + i sin(kπ)", "z_k = cos(k) + i sin(k)", "z_k = cos(π/n) + i sin(π/n)"],
+      "reponse": "z_k = cos(2kπ/n) + i sin(2kπ/n)",
+      "explication": "k = 0, 1, ..., n−1."
+    },
+    {
+      "question": "Combien y a-t-il de racines distinctes pour z³ = 8 ?",
+      "options": ["3", "1", "2", "0"],
+      "reponse": "3",
+      "explication": "Trois racines cubiques distinctes dans ℂ."
+    },
+    {
+      "question": "Quelle est la racine principale cubique de 8 ?",
+      "options": ["2", "−2", "2i", "−2i"],
+      "reponse": "2",
+      "explication": "Racine réelle positive."
+    },
+    {
+      "question": "Comment s’écrit la forme exponentielle de la racine k-ième de z = r e^{iθ} ?",
+      "options": ["r^{1/n} e^{i(θ + 2kπ)/n}", "r e^{i(θ + 2kπ)}", "r^{n} e^{i nθ}", "r^{1/n} e^{iθ/n}"],
+      "reponse": "r^{1/n} e^{i(θ + 2kπ)/n}",
+      "explication": "k = 0, 1, ..., n−1."
+    },
+    {
+      "question": "Résoudre l’équation (z − 1)² = 0 dans ℂ.",
+      "options": ["z = 1", "z = 0", "z = −1", "aucune solution"],
+      "reponse": "z = 1",
+      "explication": "Racine double z = 1."
+    },
+    {
+      "question": "Que vaut arg(z) si z est réel positif ?",
+      "options": ["0", "π/2", "π", "−π/2"],
+      "reponse": "0",
+      "explication": "Angle avec l’axe réel positif."
+    },
+    {
+      "question": "Quelle est la solution de z^4 = −16 en forme trigonométrique ?",
+      "options": ["2 (cos (π/4 + kπ/2) + i sin (π/4 + kπ/2))", "4 (cos (π + 2kπ/4) + i sin (π + 2kπ/4))", "2 (cos (π + kπ/2) + i sin (π + kπ/2))", "2 (cos (π/2 + kπ/4) + i sin (π/2 + kπ/4))"],
+      "reponse": "2 (cos (π/4 + kπ/2) + i sin (π/4 + kπ/2))",
+      "explication": "Module 2 et argument π/4 + kπ/2 pour k=0,1,2,3."
+    },
+    {
+      "question": "Quelle est la racine carrée de z = 4 (cos 120° + i sin 120°) ?",
+      "options": ["2 (cos 60° + i sin 60°)", "2 (cos 120° + i sin 120°)", "4 (cos 60° + i sin 60°)", "2 (cos 30° + i sin 30°)"],
+      "reponse": "2 (cos 60° + i sin 60°)",
+      "explication": "Module racine carrée de 4 = 2, argument divisé par 2."
+    },
+    {
+      "question": "Que signifie que z est une racine multiple d’un polynôme ?",
+      "options": ["z annule aussi la dérivée du polynôme", "z est la seule racine", "z est une racine réelle", "z est conjugué de la racine"],
+      "reponse": "z annule aussi la dérivée du polynôme",
+      "explication": "Racine de multiplicité > 1 annule aussi la dérivée."
+    },
+    {
+      "question": "Quelle est la forme factorisée d’un polynôme de degré 3 avec racines z₁, z₂, z₃ ?",
+      "options": ["a (z − z₁)(z − z₂)(z − z₃)", "a (z + z₁)(z + z₂)(z + z₃)", "a z³ + b z² + c z + d", "a (z − z₁)² (z − z₂)"],
+      "reponse": "a (z − z₁)(z − z₂)(z − z₃)",
+      "explication": "Factorisation classique avec racines."
+    },
+    {
+      "question": "Pour résoudre z^n = w, comment trouve-t-on les solutions ?",
+      "options": ["On écrit w en forme trigonométrique et on applique la formule des racines", "On divise w par n", "On multiplie w par n", "On résout seulement pour w réel"],
+      "reponse": "On écrit w en forme trigonométrique et on applique la formule des racines",
+      "explication": "Transformation en forme trigonométrique puis racines n-ièmes."
+    },
+    {
+      "question": "Quelle est la solution de l’équation z^2 − 2z + 2 = 0 ?",
+      "options": ["1 + i et 1 − i", "2 et −2", "i et −i", "aucune solution"],
+      "reponse": "1 + i et 1 − i",
+      "explication": "Calcul du discriminant négatif, racines complexes conjuguées."
+    },
+    {
+      "question": "Quelle est la forme trigonométrique de z = 1 + i ?",
+      "options": ["√2 (cos π/4 + i sin π/4)", "√2 (cos π/2 + i sin π/2)", "1 + i", "2 (cos π/4 + i sin π/4)"],
+      "reponse": "√2 (cos π/4 + i sin π/4)",
+      "explication": "Module √2, argument π/4."
+    },
+    {
+      "question": "Combien y a-t-il de solutions à l’équation z^n = 0 ?",
+      "options": ["1", "n", "0", "∞"],
+      "reponse": "1",
+      "explication": "Seule solution : z = 0."
+    },
+    {
+      "question": "Combien de solutions une équation polynomiale de degré n admet-elle dans ℂ ?",
+      "options": ["n", "n−1", "1", "0"],
+      "reponse": "n",
+      "explication": "Le théorème fondamental de l’algèbre garantit n racines complexes (comptées avec multiplicité)."
+    },
+    {
+      "question": "Quelle est la forme générale d’une équation quadratique dans ℂ ?",
+      "options": ["az² + bz + c = 0", "az + b = 0", "z² + c = 0", "az² + c = 0"],
+      "reponse": "az² + bz + c = 0",
+      "explication": "Une équation du second degré avec coefficients complexes."
+    },
+    {
+      "question": "Quelle formule permet de trouver les racines de az² + bz + c = 0 dans ℂ ?",
+      "options": ["z = (−b ± √(b² − 4ac)) / (2a)", "z = (b ± √(b² − 4ac)) / (2a)", "z = −b / (2a)", "z = c / a"],
+      "reponse": "z = (−b ± √(b² − 4ac)) / (2a)",
+      "explication": "Formule quadratique applicable dans ℂ, racines complexes possibles."
+    },
+    {
+      "question": "Si ∆ = b² − 4ac = 0, combien de racines distinctes ?",
+      "options": ["1", "2", "0", "∞"],
+      "reponse": "1",
+      "explication": "Une racine double (multiplicité 2)."
+    },
+    {
+      "question": "Quel est l’ensemble des solutions de z² + 1 = 0 ?",
+      "options": ["i et −i", "1 et −1", "0", "aucune solution"],
+      "reponse": "i et −i",
+      "explication": "Racines carrées de −1 dans ℂ."
+    },
+    {
+      "question": "Comment résoudre l’équation zⁿ = 1 ?",
+      "options": ["Trouver les racines n-ièmes de l’unité", "z = 1 uniquement", "z = 0", "z = −1"],
+      "reponse": "Trouver les racines n-ièmes de l’unité",
+      "explication": "Solutions sur le cercle unité avec arguments 2kπ/n."
+    },
+    {
+      "question": "Quelle est la forme trigonométrique des racines n-ièmes de l’unité ?",
+      "options": ["zₖ = cos(2kπ/n) + i sin(2kπ/n)", "zₖ = cos(kπ) + i sin(kπ)", "zₖ = cos(k) + i sin(k)", "zₖ = cos(π/n) + i sin(π/n)"],
+      "reponse": "zₖ = cos(2kπ/n) + i sin(2kπ/n)",
+      "explication": "k = 0, 1, ..., n−1."
+    },
+    {
+      "question": "Combien y a-t-il de racines distinctes pour z³ = 8 ?",
+      "options": ["3", "1", "2", "0"],
+      "reponse": "3",
+      "explication": "Trois racines cubiques distinctes dans ℂ."
+    },
+    {
+      "question": "Quelle est la racine principale cubique de 8 ?",
+      "options": ["2", "−2", "2i", "−2i"],
+      "reponse": "2",
+      "explication": "Racine réelle positive."
+    },
+    {
+      "question": "Comment s’écrit la forme exponentielle de la racine k-ième de z = r e^{iθ} ?",
+      "options": ["r^{1/n} e^{i(θ + 2kπ)/n}", "r e^{i(θ + 2kπ)}", "r^{n} e^{i nθ}", "r^{1/n} e^{iθ/n}"],
+      "reponse": "r^{1/n} e^{i(θ + 2kπ)/n}",
+      "explication": "k = 0, 1, ..., n−1."
+    },
+    {
+      "question": "Résoudre l’équation (z − 1)² = 0 dans ℂ.",
+      "options": ["z = 1", "z = 0", "z = −1", "aucune solution"],
+      "reponse": "z = 1",
+      "explication": "Racine double z = 1."
+    },
+    {
+      "question": "Que vaut arg(z) si z est réel positif ?",
+      "options": ["0", "π/2", "π", "−π/2"],
+      "reponse": "0",
+      "explication": "Angle avec l’axe réel positif."
+    },
+    {
+      "question": "Quelle est la solution de z⁴ = −16 en forme trigonométrique ?",
+      "options": ["2 (cos (π/4 + kπ/2) + i sin (π/4 + kπ/2))", "4 (cos (π + 2kπ/4) + i sin (π + 2kπ/4))", "2 (cos (π + kπ/2) + i sin (π + kπ/2))", "2 (cos (π/2 + kπ/4) + i sin (π/2 + kπ/4))"],
+      "reponse": "2 (cos (π/4 + kπ/2) + i sin (π/4 + kπ/2))",
+      "explication": "Module 2 et argument π/4 + kπ/2 pour k=0,1,2,3."
+    },
+    {
+      "question": "Quelle est la racine carrée de z = 4 (cos 120° + i sin 120°) ?",
+      "options": ["2 (cos 60° + i sin 60°)", "2 (cos 120° + i sin 120°)", "4 (cos 60° + i sin 60°)", "2 (cos 30° + i sin 30°)"],
+      "reponse": "2 (cos 60° + i sin 60°)",
+      "explication": "Module racine carrée de 4 = 2, argument divisé par 2."
+    },
+    {
+      "question": "Que signifie que z est une racine multiple d’un polynôme ?",
+      "options": ["z annule aussi la dérivée du polynôme", "z est la seule racine", "z est une racine réelle", "z est conjugué de la racine"],
+      "reponse": "z annule aussi la dérivée du polynôme",
+      "explication": "Racine de multiplicité > 1 annule aussi la dérivée."
+    },
+    {
+      "question": "Quelle est la forme factorisée d’un polynôme de degré 3 avec racines z₁, z₂, z₃ ?",
+      "options": ["a (z − z₁)(z − z₂)(z − z₃)", "a (z + z₁)(z + z₂)(z + z₃)", "a z³ + b z² + c z + d", "a (z − z₁)² (z − z₂)"],
+      "reponse": "a (z − z₁)(z − z₂)(z − z₃)",
+      "explication": "Factorisation classique avec racines."
+    },
+    {
+      "question": "Pour résoudre zⁿ = w, comment trouve-t-on les solutions ?",
+      "options": ["On écrit w en forme trigonométrique et on applique la formule des racines", "On divise w par n", "On multiplie w par n", "On résout seulement pour w réel"],
+      "reponse": "On écrit w en forme trigonométrique et on applique la formule des racines",
+      "explication": "Transformation en forme trigonométrique puis racines n-ièmes."
+    },
+    {
+      "question": "Quelle est la solution de l’équation z² − 2z + 2 = 0 ?",
+      "options": ["1 + i et 1 − i", "2 et −2", "i et −i", "aucune solution"],
+      "reponse": "1 + i et 1 − i",
+      "explication": "Calcul du discriminant négatif, racines complexes conjuguées."
+    },
+    {
+      "question": "Quelle est la forme trigonométrique de z = 1 + i ?",
+      "options": ["√2 (cos π/4 + i sin π/4)", "√2 (cos π/2 + i sin π/2)", "1 + i", "2 (cos π/4 + i sin π/4)"],
+      "reponse": "√2 (cos π/4 + i sin π/4)",
+      "explication": "Module √2, argument π/4."
+    },
+    {
+      "question": "Combien y a-t-il de solutions à l’équation zⁿ = 0 ?",
+      "options": ["1", "n", "0", "∞"],
+      "reponse": "1",
+      "explication": "Seule solution : z = 0."
+    }
+  ]
+}

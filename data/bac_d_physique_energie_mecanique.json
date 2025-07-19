@@ -1,0 +1,604 @@
+{
+  "qcm": [
+    {
+      "question": "Un objet de 3 kg passe de 2 m/s à 6 m/s. Quel est le travail total reçu ?",
+      "options": ["48 J", "36 J", "60 J", "24 J"],
+      "reponse": "48 J",
+      "explication": "ΔE𝑐 = ½×3(6² − 2²) = 1.5×(36 − 4) = 1.5×32 = 48 J"
+    },
+    {
+      "question": "Un corps reçoit un travail résistant de −40 J. Il passe de 8 m/s à v. Masse = 2 kg. Trouver v.",
+      "options": ["6 m/s", "10 m/s", "4 m/s", "2 m/s"],
+      "reponse": "6 m/s",
+      "explication": "ΔE𝑐 = −40 = ½×2(v² − 64) → v² = 64 − 40 = 24 → v ≈ √24 ≈ 4.9 m/s"
+    },
+    {
+      "question": "Un objet de 5 kg est lancé à 10 m/s et soumis à un frottement de −125 J. Vitesse finale ?",
+      "options": ["5 m/s", "7 m/s", "6 m/s", "4 m/s"],
+      "reponse": "5 m/s",
+      "explication": "ΔE𝑐 = −125 = ½×5(v² − 100) → v² = 100 − 50 = 50 → v ≈ 7.07 m/s"
+    },
+    {
+      "question": "Un objet tombe de 20 m sans frottement. Masse = 1 kg. Quelle est sa vitesse avant impact ?",
+      "options": ["≈19.8 m/s", "10 m/s", "5 m/s", "15 m/s"],
+      "reponse": "≈19.8 m/s",
+      "explication": "Eₚ = E𝑐 → mgh = ½mv² → v = √(2gh) = √(400) = 20 m/s"
+    },
+    {
+      "question": "Une balle est lancée vers le haut à 20 m/s. Altitude max atteinte ?",
+      "options": ["20.4 m", "30 m", "10 m", "40.8 m"],
+      "reponse": "20.4 m",
+      "explication": "E𝑐 initiale = Eₚ max → ½mv² = mgh → h = v² / (2g) = 400 / 20 = 20 m"
+    },
+    {
+      "question": "Un objet est lancé à 15 m/s. Quelle est son énergie mécanique (m = 2 kg) ?",
+      "options": ["225 J", "150 J", "100 J", "30 J"],
+      "reponse": "225 J",
+      "explication": "E𝑐 = ½×2×15² = 225 J, Eₚ = 0 donc Eₘ = 225 J"
+    },
+    {
+      "question": "Un objet chute avec Eₘ = 300 J. À mi-hauteur, E𝑐 vaut :",
+      "options": ["150 J", "75 J", "200 J", "100 J"],
+      "reponse": "150 J",
+      "explication": "Eₘ = E𝑐 + Eₚ, à mi-hauteur E𝑐 = Eₚ = 150 J"
+    },
+    {
+      "question": "Un solide de 4 kg passe de 0 à 3 m/s en 2 s. Travail reçu ?",
+      "options": ["18 J", "24 J", "36 J", "9 J"],
+      "reponse": "18 J",
+      "explication": "ΔE𝑐 = ½×4×9 = 18 J"
+    },
+    {
+      "question": "Un objet de 3 kg est freiné de 6 m/s à 2 m/s. Travail des forces résistantes ?",
+      "options": ["−48 J", "−36 J", "−12 J", "−24 J"],
+      "reponse": "−48 J",
+      "explication": "ΔE𝑐 = ½×3(2² − 6²) = 1.5(4 − 36) = −48 J"
+    },
+    {
+      "question": "Une force motrice exerce 80 J sur un objet de 4 kg. Variation de vitesse de 0 à v ?",
+      "options": ["6.32 m/s", "4.47 m/s", "5.67 m/s", "3.5 m/s"],
+      "reponse": "6.32 m/s",
+      "explication": "ΔE𝑐 = 80 = ½×4×v² → v² = 40 → v ≈ 6.32 m/s"
+    },
+    {
+      "question": "Un corps chute, sa E𝑐 vaut 60 J à 2 m du sol. Quelle est Eₘ si h = 5 m ? (m = 2 kg)",
+      "options": ["160 J", "100 J", "120 J", "80 J"],
+      "reponse": "160 J",
+      "explication": "Eₘ = E𝑐 + Eₚ = 60 + 2×10×2 = 60 + 40 = 100 J"
+    },
+    {
+      "question": "Un objet a une Eₘ constante de 100 J. À un moment donné, E𝑐 = 40 J. Eₚ = ?",
+      "options": ["60 J", "40 J", "20 J", "100 J"],
+      "reponse": "60 J",
+      "explication": "Eₘ = E𝑐 + Eₚ → 100 = 40 + Eₚ → Eₚ = 60 J"
+    },
+    {
+      "question": "Un système isolé a une Eₘ de 200 J. Quelle sera Eₘ après 10 s ?",
+      "options": ["200 J", "0 J", "100 J", "Variable"],
+      "reponse": "200 J",
+      "explication": "L’énergie mécanique se conserve si le système est isolé (pas de pertes)."
+    },
+    {
+      "question": "Une voiture (m = 800 kg) freine et perd 32000 J. Variation de vitesse ?",
+      "options": ["20 m/s à 0 m/s", "10 m/s à 0", "40 m/s à 20", "Aucune variation"],
+      "reponse": "20 m/s à 0 m/s",
+      "explication": "E𝑐 = ½×800×20² = 160000 J. Perte = freinage total"
+    },
+    {
+      "question": "Un chariot (m = 50 kg) est poussé sur 10 m par F = 20 N. Travail ?",
+      "options": ["200 J", "500 J", "1000 J", "50 J"],
+      "reponse": "200 J",
+      "explication": "W = F·d = 20 × 10 = 200 J"
+    },
+    {
+      "question": "Même chariot reçoit W = 200 J. Quelle est sa vitesse après, partant du repos ?",
+      "options": ["2.83 m/s", "4 m/s", "6.32 m/s", "1.2 m/s"],
+      "reponse": "2.83 m/s",
+      "explication": "ΔE𝑐 = 200 = ½×50×v² → v² = 8 → v ≈ 2.83 m/s"
+    },
+    {
+      "question": "Un objet tombe, à mi-hauteur E𝑐 = Eₚ. Quelle est la hauteur totale ? (E𝑐 = 100 J, m = 2 kg)",
+      "options": ["10 m", "5 m", "15 m", "20 m"],
+      "reponse": "10 m",
+      "explication": "Eₚ = 100 J → mgh = 100 → h = 100 / (2×10) = 5 m → total = 10 m"
+    },
+    {
+      "question": "Un ressort restitue 30 J à un bloc. Masse = 3 kg. Vitesse acquise ?",
+      "options": ["4.47 m/s", "5 m/s", "6.32 m/s", "2.83 m/s"],
+      "reponse": "4.47 m/s",
+      "explication": "E𝑐 = 30 = ½×3×v² → v² = 20 → v = √20 ≈ 4.47 m/s"
+    },
+    {
+      "question": "Une balle atteint une E𝑐 de 80 J. Masse = 0.2 kg. Vitesse ?",
+      "options": ["28.28 m/s", "20 m/s", "10 m/s", "16 m/s"],
+      "reponse": "28.28 m/s",
+      "explication": "E𝑐 = ½×0.2×v² = 80 → v² = 800 → v ≈ 28.28 m/s"
+    },
+    {
+      "question": "Un cycliste de 60 kg atteint une vitesse de 10 m/s. E𝑐 = ?",
+      "options": ["3000 J", "600 J", "1200 J", "36000 J"],
+      "reponse": "3000 J",
+      "explication": "E𝑐 = ½×60×10² = 3000 J"
+    },
+    {
+      "question": "Le théorème de l’énergie cinétique s’exprime par :",
+      "options": ["ΔE𝑐 = ΣW", "E𝑐 = mgh", "ΔE𝑐 = P/t", "E𝑐 = mv"],
+      "reponse": "ΔE𝑐 = ΣW",
+      "explication": "La variation d’énergie cinétique est égale à la somme des travaux des forces appliquées."
+    },
+    {
+      "question": "Le travail total Wᵣ est positif, donc :",
+      "options": ["L’objet accélère", "La vitesse diminue", "Le mouvement s’arrête", "L’énergie potentielle augmente"],
+      "reponse": "L’objet accélère",
+      "explication": "Wᵣ > 0 implique une augmentation de l’énergie cinétique → accélération."
+    },
+    {
+      "question": "Si la somme des travaux est négative, alors :",
+      "options": ["L’énergie cinétique diminue", "La masse augmente", "L’objet chute librement", "La vitesse augmente"],
+      "reponse": "L’énergie cinétique diminue",
+      "explication": "ΔE𝑐 < 0 signifie que l’objet perd de la vitesse."
+    },
+    {
+      "question": "Le travail du poids lors d’une descente est :",
+      "options": ["Positif", "Négatif", "Nul", "Inconnu"],
+      "reponse": "Positif",
+      "explication": "Le poids est une force motrice qui va dans le sens du déplacement."
+    },
+    {
+      "question": "Une force de frottement produit un travail :",
+      "options": ["Négatif", "Positif", "Nul", "Variable"],
+      "reponse": "Négatif",
+      "explication": "Elle s’oppose au mouvement, donc son travail est résistant (négatif)."
+    },
+    {
+      "question": "Le théorème de l’énergie cinétique est applicable à :",
+      "options": ["Un point matériel", "Un système isolé", "Un solide au repos", "Un circuit électrique"],
+      "reponse": "Un point matériel",
+      "explication": "C’est un outil fondamental pour l’étude du mouvement d’un point matériel."
+    },
+    {
+      "question": "Quelle grandeur traduit un transfert d’énergie lié à une force ?",
+      "options": ["Travail", "Puissance", "Vitesse", "Pression"],
+      "reponse": "Travail",
+      "explication": "Le travail est l’action mécanique transférant de l’énergie par une force."
+    },
+    {
+      "question": "Quand Wᵣ = 0, alors :",
+      "options": ["ΔE𝑐 = 0", "ΔE𝑐 > 0", "v = 0", "a = 0"],
+      "reponse": "ΔE𝑐 = 0",
+      "explication": "L’énergie cinétique ne varie pas si le travail total est nul."
+    },
+    {
+      "question": "Un objet freiné :",
+      "options": ["Perd de l’énergie cinétique", "Gagne de l’altitude", "Accélère", "Augmente sa masse"],
+      "reponse": "Perd de l’énergie cinétique",
+      "explication": "Le travail des frottements est négatif donc ΔE𝑐 < 0."
+    },
+    {
+      "question": "La conservation de l’énergie mécanique suppose que :",
+      "options": ["Il n’y a pas de frottement", "La vitesse est constante", "La masse ne change pas", "L’altitude reste fixe"],
+      "reponse": "Il n’y a pas de frottement",
+      "explication": "Les forces non conservatives comme le frottement empêchent la conservation de Eₘ."
+    },
+    {
+      "question": "Dans le vide, un corps chute :",
+      "options": ["Avec conservation d’Eₘ", "Avec perte d’E𝑐", "Avec vitesse constante", "Sans énergie"],
+      "reponse": "Avec conservation d’Eₘ",
+      "explication": "En absence de frottements, l’énergie mécanique se conserve."
+    },
+    {
+      "question": "Eₘ = E𝑐 + Eₚ est :",
+      "options": ["L’énergie mécanique totale", "L’énergie cinétique", "L’énergie thermique", "La force totale"],
+      "reponse": "L’énergie mécanique totale",
+      "explication": "Eₘ est la somme des deux formes d’énergie : cinétique et potentielle."
+    },
+    {
+      "question": "Si un objet est au repos au sol, son énergie mécanique est :",
+      "options": ["Nulle", "Maximale", "Égale à Eₚ", "Égale à E𝑐"],
+      "reponse": "Nulle",
+      "explication": "E𝑐 = 0 (v = 0) et Eₚ = 0 (h = 0), donc Eₘ = 0."
+    },
+    {
+      "question": "Lors d’un mouvement vertical sans frottement, la conversion d’énergie est :",
+      "options": ["Eₚ ↔ E𝑐", "E𝑐 → chaleur", "Eₘ → poids", "Eₚ → pression"],
+      "reponse": "Eₚ ↔ E𝑐",
+      "explication": "L’énergie mécanique se conserve, seule la forme change."
+    },
+    {
+      "question": "Quand Eₘ reste constante, alors :",
+      "options": ["E𝑐 augmente quand Eₚ diminue", "La vitesse est nulle", "L’objet s’arrête", "La hauteur reste fixe"],
+      "reponse": "E𝑐 augmente quand Eₚ diminue",
+      "explication": "Échange d’énergie interne entre formes, sans perte totale."
+    },
+    {
+      "question": "Une force motrice fait :",
+      "options": ["Augmenter E𝑐", "Réduire Eₘ", "Opposer le mouvement", "Créer une réaction"],
+      "reponse": "Augmenter E𝑐",
+      "explication": "Elle agit dans le sens du déplacement, donc W > 0 → ΔE𝑐 > 0."
+    },
+    {
+      "question": "En présence de frottement, Eₘ :",
+      "options": ["Diminue", "Se conserve", "Augmente", "Devient nulle"],
+      "reponse": "Diminue",
+      "explication": "L’énergie mécanique se dissipe sous forme de chaleur."
+    },
+    {
+      "question": "Quel phénomène illustre bien la conservation d’énergie mécanique ?",
+      "options": ["Un pendule sans frottement", "Un freinage de voiture", "Une chute dans l’eau", "Un ressort amorti"],
+      "reponse": "Un pendule sans frottement",
+      "explication": "Eₚ ↔ E𝑐 à chaque oscillation, sans perte d’énergie."
+    },
+    {
+      "question": "Le gain d’altitude d’un corps augmente :",
+      "options": ["Eₚ", "E𝑐", "W", "F"],
+      "reponse": "Eₚ",
+      "explication": "Eₚ = mgh → augmentation de h → augmentation de l’énergie potentielle."
+    },
+    {
+      "question": "En chute libre, quand Eₚ diminue :",
+      "options": ["E𝑐 augmente", "Eₘ diminue", "v diminue", "W = 0"],
+      "reponse": "E𝑐 augmente",
+      "explication": "Conversion directe de l’énergie potentielle en énergie cinétique."
+    },
+    {
+      "question": "Le travail d’une force constante dans le sens du déplacement :",
+      "options": ["Est positif", "Est nul", "Est négatif", "Est constant"],
+      "reponse": "Est positif",
+      "explication": "cos(0°) = 1 → W = F·d·cos(0) > 0"
+    },
+    {
+      "question": "Un système isolé conserve :",
+      "options": ["Son énergie mécanique", "Sa vitesse constante", "Sa masse", "Sa température"],
+      "reponse": "Son énergie mécanique",
+      "explication": "En absence de forces non conservatives, Eₘ est constante."
+    },
+    {
+      "question": "Le théorème de l’énergie cinétique permet de :",
+      "options": ["Déterminer la vitesse finale", "Calculer la masse", "Connaitre l’énergie potentielle", "Trouver le temps"],
+      "reponse": "Déterminer la vitesse finale",
+      "explication": "ΔE𝑐 = ΣW permet d’en déduire v avec E𝑐 = ½mv²."
+    },
+    {
+      "question": "Une voiture descend une pente sans moteur, elle :",
+      "options": ["Convertit Eₚ en E𝑐", "Transforme E𝑐 en Eₚ", "Augmente son poids", "A une force nulle"],
+      "reponse": "Convertit Eₚ en E𝑐",
+      "explication": "La vitesse augmente, donc E𝑐 ↑, tandis qu’Eₚ ↓"
+    },
+    {
+      "question": "Une chute verticale sans frottement :",
+      "options": ["Conserve Eₘ", "Diminue E𝑐", "Produit du bruit", "Annule le poids"],
+      "reponse": "Conserve Eₘ",
+      "explication": "Pas de perte d’énergie, seulement conversion Eₚ → E𝑐"
+    },
+    {
+      "question": "Un tir vers le haut (sans frottement) :",
+      "options": ["Convertit E𝑐 en Eₚ", "Perd toute son énergie", "Gagne en masse", "Subit une force constante"],
+      "reponse": "Convertit E𝑐 en Eₚ",
+      "explication": "v diminue → E𝑐 ↓, h augmente → Eₚ ↑"
+    },
+    {
+      "question": "Un travail nul signifie que :",
+      "options": ["E𝑐 ne varie pas", "E𝑐 augmente", "W = F·v", "L’objet monte"],
+      "reponse": "E𝑐 ne varie pas",
+      "explication": "ΔE𝑐 = Wᵣ → si W = 0 alors pas de variation"
+    },
+    {
+      "question": "Le rendement énergétique d’un moteur est inférieur à 1 car :",
+      "options": ["Il y a dissipation d’énergie", "La masse varie", "Le temps est long", "La vitesse est nulle"],
+      "reponse": "Il y a dissipation d’énergie",
+      "explication": "Perte d’énergie sous forme de chaleur ou frottement."
+    },
+    {
+      "question": "Si Eₘ = constante, alors :",
+      "options": ["Le système est conservatif", "La masse varie", "Le travail est nul", "Il n’y a pas de vitesse"],
+      "reponse": "Le système est conservatif",
+      "explication": "Un système sans forces dissipatives conserve son énergie mécanique."
+    },
+    {
+      "question": "Le travail moteur d’un moteur de 1000 W pendant 5 s est :",
+      "options": ["5000 J", "1000 J", "200 J", "50 J"],
+      "reponse": "5000 J",
+      "explication": "W = P × t = 1000 × 5 = 5000 J"
+    },
+    {
+      "question": "Un objet de 2 kg est lancé horizontalement à 5 m/s. Quelle est son énergie cinétique ?",
+      "options": ["25 J", "10 J", "20 J", "5 J"],
+      "reponse": "25 J",
+      "explication": "E𝑐 = ½ × 2 × 5² = 25 J"
+    },
+    {
+      "question": "Un sac de 4 kg est à 3 m de haut. Quelle est son énergie potentielle ? (g = 10 m/s²)",
+      "options": ["120 J", "40 J", "12 J", "30 J"],
+      "reponse": "120 J",
+      "explication": "Eₚ = mgh = 4 × 10 × 3 = 120 J"
+    },
+    {
+      "question": "Un objet de 5 kg tombe de 8 m. Quelle est sa vitesse juste avant d’atteindre le sol ?",
+      "options": ["≈12.6 m/s", "8 m/s", "20 m/s", "10 m/s"],
+      "reponse": "≈12.6 m/s",
+      "explication": "Eₚ = E𝑐 → mgh = ½mv² → v = √(2gh) = √(160) ≈ 12.6 m/s"
+    },
+    {
+      "question": "Un moteur effectue un travail de 500 J en 10 s. Quelle est sa puissance ?",
+      "options": ["50 W", "5 W", "100 W", "10 W"],
+      "reponse": "50 W",
+      "explication": "P = W / t = 500 / 10 = 50 W"
+    },
+    {
+      "question": "Un objet de 3 kg monte de 5 m. Variation d’énergie potentielle ?",
+      "options": ["150 J", "15 J", "30 J", "60 J"],
+      "reponse": "150 J",
+      "explication": "ΔEₚ = mgh = 3 × 10 × 5 = 150 J"
+    },
+    {
+      "question": "Un objet glisse sur un plan sans frottement de 4 m de haut. Quelle est sa vitesse en bas ?",
+      "options": ["≈8.9 m/s", "10 m/s", "4 m/s", "20 m/s"],
+      "reponse": "≈8.9 m/s",
+      "explication": "Eₚ = E𝑐 → v = √(2gh) = √(80) ≈ 8.9 m/s"
+    },
+    {
+      "question": "Un cycliste de 60 kg roule à 10 m/s. Quelle est son énergie cinétique ?",
+      "options": ["3000 J", "600 J", "1200 J", "36000 J"],
+      "reponse": "3000 J",
+      "explication": "E𝑐 = ½ × 60 × 10² = 3000 J"
+    },
+    {
+      "question": "Un objet chute de 20 m. Quelle est son énergie mécanique (m = 2 kg) ?",
+      "options": ["400 J", "40 J", "20 J", "200 J"],
+      "reponse": "400 J",
+      "explication": "Eₘ = Eₚ = 2 × 10 × 20 = 400 J"
+    },
+    {
+      "question": "Un objet de 1 kg se déplace à 3 m/s. Travail effectué ?",
+      "options": ["4.5 J", "3 J", "6 J", "1.5 J"],
+      "reponse": "4.5 J",
+      "explication": "E𝑐 = ½ × 1 × 9 = 4.5 J"
+    },
+    {
+      "question": "Une force de 20 N agit sur 3 m, angle = 0°. Quel est le travail ?",
+      "options": ["60 J", "0 J", "20 J", "10 J"],
+      "reponse": "60 J",
+      "explication": "W = F·d·cos(0°) = 20 × 3 = 60 J"
+    },
+    {
+      "question": "Même question si l’angle est 60° ?",
+      "options": ["30 J", "60 J", "10 J", "50 J"],
+      "reponse": "30 J",
+      "explication": "W = 20 × 3 × cos(60°) = 60 × 0.5 = 30 J"
+    },
+    {
+      "question": "Une force s’oppose au déplacement (θ = 180°), F = 10 N, d = 4 m. Travail ?",
+      "options": ["−40 J", "40 J", "0 J", "−10 J"],
+      "reponse": "−40 J",
+      "explication": "W = Fdcos(180°) = 10 × 4 × (−1) = −40 J"
+    },
+    {
+      "question": "Un objet de 2 kg chute de 10 m. Vitesse à l’arrivée ?",
+      "options": ["≈14.1 m/s", "10 m/s", "20 m/s", "9.8 m/s"],
+      "reponse": "≈14.1 m/s",
+      "explication": "v = √(2gh) = √(200) ≈ 14.1 m/s"
+    },
+    {
+      "question": "Un objet de 5 kg chute. À mi-hauteur, quelle est son Eₚ ? (h = 8 m)",
+      "options": ["200 J", "100 J", "400 J", "50 J"],
+      "reponse": "200 J",
+      "explication": "Eₚ = mgh = 5 × 10 × 4 = 200 J"
+    },
+    {
+      "question": "À cette même hauteur, son E𝑐 vaut :",
+      "options": ["200 J", "50 J", "400 J", "0 J"],
+      "reponse": "200 J",
+      "explication": "Conservation → Eₘ = 400 J → E𝑐 = Eₘ − Eₚ = 200 J"
+    },
+    {
+      "question": "Un treuil soulève 100 kg à 2 m/s pendant 5 s. Énergie fournie ?",
+      "options": ["10000 J", "2000 J", "500 J", "1000 J"],
+      "reponse": "10000 J",
+      "explication": "Eₚ = mgh = 100 × 10 × (2 × 5) = 10 000 J"
+    },
+    {
+      "question": "Puissance du treuil ci-dessus ?",
+      "options": ["2000 W", "1000 W", "500 W", "1500 W"],
+      "reponse": "2000 W",
+      "explication": "P = E / t = 10000 / 5 = 2000 W"
+    },
+    {
+      "question": "Un objet passe de 2 m/s à 6 m/s, masse 2 kg. Variation d’E𝑐 ?",
+      "options": ["32 J", "12 J", "36 J", "8 J"],
+      "reponse": "32 J",
+      "explication": "ΔE𝑐 = ½×2(6²−2²) = 1×(36−4) = 32 J"
+    },
+    {
+      "question": "Un objet immobile (m = 1 kg) est lâché d’un pont (h = 10 m). Son énergie mécanique est :",
+      "options": ["100 J", "10 J", "0 J", "1 J"],
+      "reponse": "100 J",
+      "explication": "Eₘ = mgh = 1 × 10 × 10 = 100 J"
+    },
+    {
+      "question": "À 5 m du sol, E𝑐 vaut :",
+      "options": ["50 J", "25 J", "0 J", "100 J"],
+      "reponse": "50 J",
+      "explication": "À mi-hauteur → Eₚ = 50 J → E𝑐 = 100 − 50 = 50 J"
+    },
+    {
+      "question": "L’énergie mécanique est la somme de :",
+      "options": ["E𝑐 + Eₚ", "P + F", "E𝑐 + m", "F + v"],
+      "reponse": "E𝑐 + Eₚ",
+      "explication": "Eₘ = Énergie cinétique + Énergie potentielle"
+    },
+    {
+      "question": "L’unité de l’énergie dans le S.I est :",
+      "options": ["Le joule (J)", "Le watt (W)", "Le newton (N)", "Le volt (V)"],
+      "reponse": "Le joule (J)",
+      "explication": "1 J = 1 N·m = 1 kg·m²/s²"
+    },
+    {
+      "question": "L’énergie cinétique d’un corps est donnée par la formule :",
+      "options": ["E𝑐 = ½mv²", "E𝑐 = mv", "E𝑐 = mgh", "E𝑐 = F·d"],
+      "reponse": "E𝑐 = ½mv²",
+      "explication": "Elle dépend de la masse et de la vitesse au carré."
+    },
+    {
+      "question": "L’énergie potentielle de pesanteur est donnée par :",
+      "options": ["Eₚ = mgh", "Eₚ = ½mv²", "Eₚ = mg/v", "Eₚ = F×d"],
+      "reponse": "Eₚ = mgh",
+      "explication": "Elle dépend de l’altitude dans un champ de pesanteur."
+    },
+    {
+      "question": "Le travail d’une force constante est donné par :",
+      "options": ["W = F·d·cos(θ)", "W = F / d", "W = F + d", "W = F·t"],
+      "reponse": "W = F·d·cos(θ)",
+      "explication": "C’est une projection de la force sur le déplacement."
+    },
+    {
+      "question": "Si une force est perpendiculaire au déplacement, son travail est :",
+      "options": ["Nul", "Maximal", "Minimal", "Négatif"],
+      "reponse": "Nul",
+      "explication": "cos(90°) = 0 → W = 0"
+    },
+    {
+      "question": "Un travail est positif si la force :",
+      "options": ["Va dans le sens du déplacement", "S’oppose au mouvement", "Est nulle", "Est verticale"],
+      "reponse": "Va dans le sens du déplacement",
+      "explication": "cos(θ) > 0 → travail moteur"
+    },
+    {
+      "question": "Le travail du poids dans une descente est :",
+      "options": ["Positif", "Négatif", "Nul", "Infini"],
+      "reponse": "Positif",
+      "explication": "Le poids accompagne le mouvement."
+    },
+    {
+      "question": "L’énergie cinétique augmente si :",
+      "options": ["Le travail total est positif", "Le poids est nul", "Le déplacement est nul", "La masse diminue"],
+      "reponse": "Le travail total est positif",
+      "explication": "Wᵣ > 0 → augmentation de E𝑐"
+    },
+    {
+      "question": "Si le travail total est nul, alors l’énergie cinétique :",
+      "options": ["Ne change pas", "Devient nulle", "Double", "Diminue"],
+      "reponse": "Ne change pas",
+      "explication": "ΔE𝑐 = Wᵣ = 0 → pas de variation"
+    },
+    {
+      "question": "Le théorème de l’énergie cinétique s’écrit :",
+      "options": ["ΔE𝑐 = ΣW", "E𝑐 = mgh", "ΔE𝑐 = P·t", "E𝑐 = mv"],
+      "reponse": "ΔE𝑐 = ΣW",
+      "explication": "Variation d’énergie cinétique = somme des travaux"
+    },
+    {
+      "question": "Quand un corps monte, l’énergie potentielle :",
+      "options": ["Augmente", "Diminue", "Reste constante", "Devient négative"],
+      "reponse": "Augmente",
+      "explication": "Eₚ = mgh avec h qui augmente"
+    },
+    {
+      "question": "Le travail d’une force de frottement est :",
+      "options": ["Négatif", "Positif", "Nul", "Inconnu"],
+      "reponse": "Négatif",
+      "explication": "Les frottements s’opposent au déplacement."
+    },
+    {
+      "question": "Une force conservative comme le poids a un travail :",
+      "options": ["Indépendant du chemin", "Dépendant du chemin", "Toujours nul", "Toujours positif"],
+      "reponse": "Indépendant du chemin",
+      "explication": "Seul le point de départ et d’arrivée comptent"
+    },
+    {
+      "question": "L’énergie mécanique se conserve si :",
+      "options": ["Aucune force non conservative n’agit", "Il y a frottement", "Il y a accélération", "Le poids varie"],
+      "reponse": "Aucune force non conservative n’agit",
+      "explication": "Ex : chute libre sans frottements"
+    },
+    {
+      "question": "Un objet lancé vers le haut :",
+      "options": ["Transforme E𝑐 en Eₚ", "Gagne de l’énergie", "Perd de la masse", "Est en équilibre"],
+      "reponse": "Transforme E𝑐 en Eₚ",
+      "explication": "La vitesse diminue, la hauteur augmente"
+    },
+    {
+      "question": "À l’altitude maximale, la vitesse est :",
+      "options": ["Nulle", "Maximale", "Égale à g", "Inférieure à g"],
+      "reponse": "Nulle",
+      "explication": "E𝑐 = 0 et Eₚ est maximale"
+    },
+    {
+      "question": "La conservation de l’énergie mécanique implique :",
+      "options": ["E𝑐ᵢ + Eₚᵢ = E𝑐f + Eₚf", "E𝑐 = F·v", "E𝑐 = Eₚ", "W = Eₚ / t"],
+      "reponse": "E𝑐ᵢ + Eₚᵢ = E𝑐f + Eₚf",
+      "explication": "Énergie totale constante sans dissipation"
+    },
+    {
+      "question": "Si un corps perd de l’altitude sans frottement, son E𝑐 :",
+      "options": ["Augmente", "Diminue", "Reste constante", "Devient négative"],
+      "reponse": "Augmente",
+      "explication": "Transformation Eₚ → E𝑐"
+    },
+    {
+      "question": "L’énergie potentielle est maximale quand :",
+      "options": ["La hauteur est maximale", "La vitesse est maximale", "Le poids est nul", "Le déplacement est horizontal"],
+      "reponse": "La hauteur est maximale",
+      "explication": "Eₚ = mgh → dépend de h"
+    },
+    {
+      "question": "La puissance mécanique est définie par :",
+      "options": ["P = W / t", "P = F·t", "P = v / t", "P = m / t"],
+      "reponse": "P = W / t",
+      "explication": "Travail effectué par unité de temps"
+    },
+    {
+      "question": "Le watt est équivalent à :",
+      "options": ["1 J/s", "1 N/s", "1 m/s", "1 V·A"],
+      "reponse": "1 J/s",
+      "explication": "P = énergie / temps"
+    },
+    {
+      "question": "Un moteur développe une puissance de 1000 W pendant 10 s. Travail ?",
+      "options": ["10 000 J", "100 J", "100 W", "1 J"],
+      "reponse": "10 000 J",
+      "explication": "W = P × t = 1000 × 10 = 10 000 J"
+    },
+    {
+      "question": "La variation d’énergie potentielle dépend de :",
+      "options": ["Δh", "Δv", "Δm", "g²"],
+      "reponse": "Δh",
+      "explication": "ΔEₚ = m × g × Δh"
+    },
+    {
+      "question": "Un objet en chute libre sans frottement :",
+      "options": ["Conserve son énergie mécanique", "Perd E𝑐", "Conserve Eₚ", "Double sa masse"],
+      "reponse": "Conserve son énergie mécanique",
+      "explication": "Transformation continue entre Eₚ et E𝑐"
+    },
+    {
+      "question": "Lors d’un freinage avec frottement, l’énergie mécanique :",
+      "options": ["Diminue", "Augmente", "Se conserve", "Devient infinie"],
+      "reponse": "Diminue",
+      "explication": "L’énergie est dissipée en chaleur"
+    },
+    {
+      "question": "Un objet immobile possède :",
+      "options": ["E𝑐 = 0", "E𝑐 = 1", "Eₚ = 0", "E𝑐 = mgh"],
+      "reponse": "E𝑐 = 0",
+      "explication": "v = 0 → pas d’énergie cinétique"
+    },
+    {
+      "question": "Une chute verticale avec frottement transforme une partie de l’énergie en :",
+      "options": ["Chaleur", "Électricité", "Travail", "Puissance"],
+      "reponse": "Chaleur",
+      "explication": "L’énergie mécanique est partiellement dissipée"
+    },
+    {
+      "question": "Le rendement d’une machine s’écrit :",
+      "options": ["η = E_utilisée / E_reçue", "η = E_reçue / E_utilisée", "η = P / t", "η = m / g"],
+      "reponse": "η = E_utilisée / E_reçue",
+      "explication": "Le rendement est toujours ≤ 1"
+    },
+    {
+      "question": "Quand un objet atteint sa vitesse limite en chute, son énergie cinétique :",
+      "options": ["Devient constante", "Devient nulle", "Continue d’augmenter", "Égale l’énergie potentielle"],
+      "reponse": "Devient constante",
+      "explication": "v constante → E𝑐 constante"
+    }
+  ]
+}

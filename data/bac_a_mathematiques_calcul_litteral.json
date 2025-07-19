@@ -1,0 +1,250 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la forme développée de (a + b)² ?",
+      "options": ["a² + 2ab + b²", "a² − 2ab + b²", "a² + b²", "2a + 2b"],
+      "reponse": "a² + 2ab + b²",
+      "explication": "Formule remarquable : (a + b)² = a² + 2ab + b²."
+    },
+    {
+      "question": "Quel est le résultat de (a − b)² développé ?",
+      "options": ["a² − 2ab + b²", "a² + 2ab + b²", "a² − b²", "a² + b²"],
+      "reponse": "a² − 2ab + b²",
+      "explication": "Formule remarquable : (a − b)² = a² − 2ab + b²."
+    },
+    {
+      "question": "Comment factoriser a² − b² ?",
+      "options": ["(a − b)(a + b)", "(a − b)²", "(a + b)²", "a² + b²"],
+      "reponse": "(a − b)(a + b)",
+      "explication": "Différence de carrés : a² − b² = (a − b)(a + b)."
+    },
+    {
+      "question": "Quel est le développement de (2x + 3)² ?",
+      "options": ["4x² + 12x + 9", "4x² − 12x + 9", "2x² + 3", "4x + 9"],
+      "reponse": "4x² + 12x + 9",
+      "explication": "Utiliser (a + b)² = a² + 2ab + b² avec a=2x, b=3."
+    },
+    {
+      "question": "Quelle est la forme factorisée de 9x² − 16 ?",
+      "options": ["(3x − 4)(3x + 4)", "(9x − 16)", "(3x − 4)²", "(9x + 16)"],
+      "reponse": "(3x − 4)(3x + 4)",
+      "explication": "Différence de carrés : 9x² − 16 = (3x − 4)(3x + 4)."
+    },
+    {
+      "question": "Le développement de (x − 5)(x + 5) est :",
+      "options": ["x² − 25", "x² + 25", "x² − 10x + 25", "x² + 10x + 25"],
+      "reponse": "x² − 25",
+      "explication": "Produit remarquable : (a − b)(a + b) = a² − b²."
+    },
+    {
+      "question": "Factoriser x² + 2x :",
+      "options": ["x(x + 2)", "x + 2", "x²(1 + 2)", "x² + 2x"],
+      "reponse": "x(x + 2)",
+      "explication": "Mettre x en facteur commun."
+    },
+    {
+      "question": "Le développement de (3x − 2)² est :",
+      "options": ["9x² − 12x + 4", "9x² + 12x + 4", "6x − 4", "9x² − 4"],
+      "reponse": "9x² − 12x + 4",
+      "explication": "Formule remarquable : (a − b)² = a² − 2ab + b² avec a=3x, b=2."
+    },
+    {
+      "question": "Factoriser x² − 4x + 4 :",
+      "options": ["(x − 2)²", "(x + 2)²", "x(x − 4) + 4", "x² − 2x + 2"],
+      "reponse": "(x − 2)²",
+      "explication": "C’est un carré parfait : (x − 2)² = x² − 4x + 4."
+    },
+    {
+      "question": "Développer (x + 3)(x − 2) :",
+      "options": ["x² + x − 6", "x² − 6", "x² + 5x − 6", "x² − 5x − 6"],
+      "reponse": "x² + x − 6",
+      "explication": "Produit : x·x + x·(−2) + 3·x + 3·(−2) = x² − 2x + 3x − 6 = x² + x − 6."
+    },
+    {
+      "question": "Factoriser 4x² + 4x :",
+      "options": ["4x(x + 1)", "4(x + x)", "4x²(x + 1)", "x(4x + 4)"],
+      "reponse": "4x(x + 1)",
+      "explication": "Mettre 4x en facteur commun."
+    },
+    {
+      "question": "Développer (2x − 3)(x + 5) :",
+      "options": ["2x² + 7x − 15", "2x² + 10x − 3", "2x² − x − 15", "2x² − x + 15"],
+      "reponse": "2x² + 7x − 15",
+      "explication": "Produit : 2x·x + 2x·5 − 3·x − 3·5 = 2x² + 10x − 3x − 15 = 2x² + 7x − 15."
+    },
+    {
+      "question": "Factoriser x² − 9 :",
+      "options": ["(x − 3)(x + 3)", "x(x − 9)", "x² − 3²", "Impossible"],
+      "reponse": "(x − 3)(x + 3)",
+      "explication": "Différence de carrés : x² − 9 = (x − 3)(x + 3)."
+    },
+    {
+      "question": "Le développement de (x − 4)(x − 4) est :",
+      "options": ["x² − 8x + 16", "x² − 4x − 4", "x² + 8x + 16", "x² − 16"],
+      "reponse": "x² − 8x + 16",
+      "explication": "Carré d’une différence : (a − b)² = a² − 2ab + b²."
+    },
+    {
+      "question": "Factoriser 6x² − 9x :",
+      "options": ["3x(2x − 3)", "3x(2x + 3)", "6x(x − 9)", "3(2x² − 3x)"],
+      "reponse": "3x(2x − 3)",
+      "explication": "Mettre 3x en facteur commun."
+    },
+    {
+      "question": "Développer (x + 1)(x² − x + 1) :",
+      "options": ["x³ + 1", "x³ + x² − x + 1", "x³ − 1", "x³ − x² + x − 1"],
+      "reponse": "x³ + 1",
+      "explication": "Identité remarquable : (x + 1)(x² − x + 1) = x³ + 1."
+    },
+    {
+      "question": "Factoriser x³ + 1 :",
+      "options": ["(x + 1)(x² − x + 1)", "(x + 1)³", "(x + 1)(x² + x + 1)", "Impossible"],
+      "reponse": "(x + 1)(x² − x + 1)",
+      "explication": "Somme de cubes : x³ + a³ = (x + a)(x² − ax + a²)."
+    },
+    {
+      "question": "Quel est le résultat de (2x + 1)(x − 3) ?",
+      "options": ["2x² − 5x − 3", "2x² − 6x + 1", "2x² + 5x − 3", "2x² − 3x + 1"],
+      "reponse": "2x² − 5x − 3",
+      "explication": "2x·x + 2x·(−3) + 1·x + 1·(−3) = 2x² − 6x + x − 3 = 2x² − 5x − 3."
+    },
+    {
+      "question": "Factoriser x² + 6x + 9 :",
+      "options": ["(x + 3)²", "(x − 3)²", "x(x + 6) + 9", "Impossible"],
+      "reponse": "(x + 3)²",
+      "explication": "Carré parfait : (x + 3)² = x² + 6x + 9."
+    },
+    {
+      "question": "Développer (x − 2)(x² + 2x + 4) :",
+      "options": ["x³ − 8", "x³ − 4x + 8", "x³ + 8", "x³ − 2x² + 4x"],
+      "reponse": "x³ − 8",
+      "explication": "Identité remarquable : (x − 2)(x² + 2x + 4) = x³ − 2³."
+    },
+    {
+      "question": "Factoriser x³ − 8 :",
+      "options": ["(x − 2)(x² + 2x + 4)", "(x − 2)³", "(x − 2)(x² − 2x + 4)", "Impossible"],
+      "reponse": "(x − 2)(x² + 2x + 4)",
+      "explication": "Différence de cubes : x³ − a³ = (x − a)(x² + ax + a²)."
+    },
+    {
+      "question": "Développer (x + 4)(x − 3) :",
+      "options": ["x² + x − 12", "x² + 7x − 12", "x² − 7x + 12", "x² − x − 12"],
+      "reponse": "x² + x − 12",
+      "explication": "Produit : x·x + x·(−3) + 4·x + 4·(−3) = x² − 3x + 4x − 12 = x² + x − 12."
+    },
+    {
+      "question": "Factoriser 4x² − 9 :",
+      "options": ["(2x − 3)(2x + 3)", "(4x − 9)", "(2x − 3)²", "(4x + 9)"],
+      "reponse": "(2x − 3)(2x + 3)",
+      "explication": "Différence de carrés : 4x² − 9 = (2x − 3)(2x + 3)."
+    },
+    {
+      "question": "Développer (3x − 1)(x + 5) :",
+      "options": ["3x² + 14x − 5", "3x² + 15x − 1", "3x² − 14x − 5", "3x² − 4x + 5"],
+      "reponse": "3x² + 14x − 5",
+      "explication": "Produit : 3x·x + 3x·5 − 1·x − 1·5 = 3x² + 15x − x − 5 = 3x² + 14x − 5."
+    },
+    {
+      "question": "Factoriser x² + 5x :",
+      "options": ["x(x + 5)", "x + 5", "x² + 5", "Impossible"],
+      "reponse": "x(x + 5)",
+      "explication": "Mettre x en facteur commun."
+    },
+    {
+      "question": "Développer (x − 2)² :",
+      "options": ["x² − 4x + 4", "x² + 4x + 4", "x² − 2x + 2", "x² − 2x − 2"],
+      "reponse": "x² − 4x + 4",
+      "explication": "Formule remarquable : (a − b)² = a² − 2ab + b²."
+    },
+    {
+      "question": "Factoriser 9x² − 24x + 16 :",
+      "options": ["(3x − 4)²", "(3x + 4)²", "(9x − 16)", "Impossible"],
+      "reponse": "(3x − 4)²",
+      "explication": "Carré parfait : (3x − 4)² = 9x² − 24x + 16."
+    },
+    {
+      "question": "Développer (2x + 3)(x − 1) :",
+      "options": ["2x² + x − 3", "2x² − 2x − 3", "2x² − x + 3", "2x² + 5x − 3"],
+      "reponse": "2x² + x − 3",
+      "explication": "Produit : 2x·x + 2x·(−1) + 3·x + 3·(−1) = 2x² − 2x + 3x − 3 = 2x² + x − 3."
+    },
+    {
+      "question": "Factoriser x² − 6x + 9 :",
+      "options": ["(x − 3)²", "(x + 3)²", "x(x − 6) + 9", "Impossible"],
+      "reponse": "(x − 3)²",
+      "explication": "Carré parfait : (x − 3)² = x² − 6x + 9."
+    },
+    {
+      "question": "Développer (x + 2)(x² − 2x + 4) :",
+      "options": ["x³ + 8", "x³ − 8", "x³ + 2x² − 2x + 8", "x³ − 2x² + 4x + 8"],
+      "reponse": "x³ + 8",
+      "explication": "Identité remarquable : (x + 2)(x² − 2x + 4) = x³ + 2³ = x³ + 8."
+    },
+    {
+      "question": "Factoriser x³ + 27 :",
+      "options": ["(x + 3)(x² − 3x + 9)", "(x + 3)³", "(x + 3)(x² + 3x + 9)", "Impossible"],
+      "reponse": "(x + 3)(x² − 3x + 9)",
+      "explication": "Somme de cubes : x³ + a³ = (x + a)(x² − ax + a²)."
+    },
+    {
+      "question": "Développer (x − 4)(x + 6) :",
+      "options": ["x² + 2x − 24", "x² − 2x − 24", "x² − 10x − 24", "x² + 10x + 24"],
+      "reponse": "x² + 2x − 24",
+      "explication": "Produit : x·x + x·6 − 4·x − 4·6 = x² + 6x − 4x − 24 = x² + 2x − 24."
+    },
+    {
+      "question": "Factoriser 16x² − 25 :",
+      "options": ["(4x − 5)(4x + 5)", "(16x − 25)", "(4x − 5)²", "(16x + 25)"],
+      "reponse": "(4x − 5)(4x + 5)",
+      "explication": "Différence de carrés : 16x² − 25 = (4x − 5)(4x + 5)."
+    },
+    {
+      "question": "Développer (3x + 2)² :",
+      "options": ["9x² + 12x + 4", "9x² − 12x + 4", "6x² + 4", "9x² + 4"],
+      "reponse": "9x² + 12x + 4",
+      "explication": "Formule remarquable : (a + b)² = a² + 2ab + b²."
+    },
+    {
+      "question": "Factoriser 25x² − 20x + 4 :",
+      "options": ["(5x − 2)²", "(5x + 2)²", "(25x − 4)", "Impossible"],
+      "reponse": "(5x − 2)²",
+      "explication": "Carré parfait : (5x − 2)² = 25x² − 20x + 4."
+    },
+    {
+      "question": "Développer (x + 5)(x − 2) :",
+      "options": ["x² + 3x − 10", "x² − 3x − 10", "x² + 7x − 10", "x² − 7x + 10"],
+      "reponse": "x² + 3x − 10",
+      "explication": "Produit : x·x + x·(−2) + 5·x + 5·(−2) = x² − 2x + 5x − 10 = x² + 3x − 10."
+    },
+    {
+      "question": "Factoriser 12x² + 18x :",
+      "options": ["6x(2x + 3)", "3x(4x + 6)", "12x(x + 1.5)", "Impossible"],
+      "reponse": "6x(2x + 3)",
+      "explication": "Mettre 6x en facteur commun."
+    },
+    {
+      "question": "Développer (2x − 1)(x + 4) :",
+      "options": ["2x² + 7x − 4", "2x² + 8x − 1", "2x² − 7x − 4", "2x² + 3x + 4"],
+      "reponse": "2x² + 7x − 4",
+      "explication": "Produit : 2x·x + 2x·4 − 1·x − 1·4 = 2x² + 8x − x − 4 = 2x² + 7x − 4."
+    },
+    {
+      "question": "Factoriser x² − 4x + 4 :",
+      "options": ["(x − 2)²", "(x + 2)²", "x(x − 4) + 4", "Impossible"],
+      "reponse": "(x − 2)²",
+      "explication": "Carré parfait : (x − 2)² = x² − 4x + 4."
+    },
+    {
+      "question": "Développer (x − 3)(x² + 3x + 9) :",
+      "options": ["x³ − 27", "x³ + 27", "x³ − 9x + 27", "x³ − 3x² + 9x"],
+      "reponse": "x³ − 27",
+      "explication": "Différence de cubes : (x − 3)(x² + 3x + 9) = x³ − 3³."
+    },
+    {
+      "question": "Factoriser x³ − 27 :",
+      "options": ["(x − 3)(x² + 3x + 9)", "(x − 3)³", "(x − 3)(x² − 3x + 9)", "Impossible"],
+      "reponse": "(x − 3)(x² + 3x + 9)",
+      "explication": "Différence de cubes : x³ − a³ = (x − a)(x² + ax + a²)."
+    }
+  ]
+}

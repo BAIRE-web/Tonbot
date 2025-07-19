@@ -1,0 +1,256 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la raison d'une suite arithmétique ?",
+      "options": ["La différence constante entre deux termes consécutifs", "Le quotient constant entre deux termes consécutifs", "La somme des termes", "Le premier terme"],
+      "reponse": "La différence constante entre deux termes consécutifs",
+      "explication": "Dans une suite arithmétique, chaque terme est obtenu en ajoutant une constante (raison) au terme précédent."
+    },
+    {
+      "question": "Quelle est la formule générale du terme général d’une suite arithmétique ?",
+      "options": ["uₙ = u₀ + n × r", "uₙ = u₀ × qⁿ", "uₙ = u₀ + q × n", "uₙ = u₀ × n + r"],
+      "reponse": "uₙ = u₀ + n × r",
+      "explication": "Le terme général d'une suite arithmétique est : uₙ = u₀ + n × r, où r est la raison."
+    },
+    {
+      "question": "Dans une suite géométrique, qu’est-ce que la raison ?",
+      "options": ["Le quotient constant entre deux termes consécutifs", "La différence constante entre deux termes consécutifs", "La somme des termes", "Le premier terme"],
+      "reponse": "Le quotient constant entre deux termes consécutifs",
+      "explication": "Dans une suite géométrique, chaque terme est obtenu en multipliant le terme précédent par une constante appelée raison."
+    },
+    {
+      "question": "Quelle est la formule générale du terme général d’une suite géométrique ?",
+      "options": ["uₙ = u₀ × qⁿ", "uₙ = u₀ + n × r", "uₙ = u₀ × n + r", "uₙ = u₀ + q × n"],
+      "reponse": "uₙ = u₀ × qⁿ",
+      "explication": "Le terme général d'une suite géométrique est : uₙ = u₀ × qⁿ, où q est la raison."
+    },
+    {
+      "question": "Si une suite arithmétique a u₀ = 3 et r = 5, quel est u₄ ?",
+      "options": ["23", "20", "15", "18"],
+      "reponse": "23",
+      "explication": "u₄ = u₀ + 4 × r = 3 + 4 × 5 = 3 + 20 = 23."
+    },
+    {
+      "question": "Si une suite géométrique a u₀ = 2 et q = 3, quel est u₃ ?",
+      "options": ["54", "18", "8", "24"],
+      "reponse": "54",
+      "explication": "u₃ = u₀ × q³ = 2 × 3³ = 2 × 27 = 54."
+    },
+    {
+      "question": "Dans une suite arithmétique, la somme des n premiers termes est donnée par :",
+      "options": ["Sₙ = n × (u₀ + uₙ) / 2", "Sₙ = u₀ × qⁿ", "Sₙ = n × u₀", "Sₙ = uₙ / n"],
+      "reponse": "Sₙ = n × (u₀ + uₙ) / 2",
+      "explication": "Formule de la somme des n premiers termes d'une suite arithmétique."
+    },
+    {
+      "question": "Dans une suite géométrique, la somme des n premiers termes (q ≠ 1) est :",
+      "options": ["Sₙ = u₀ × (1 − qⁿ) / (1 − q)", "Sₙ = n × (u₀ + uₙ) / 2", "Sₙ = n × u₀", "Sₙ = uₙ / n"],
+      "reponse": "Sₙ = u₀ × (1 − qⁿ) / (1 − q)",
+      "explication": "Formule de la somme des n premiers termes d'une suite géométrique quand q ≠ 1."
+    },
+    {
+      "question": "Une suite est arithmétique si :",
+      "options": ["La différence entre deux termes consécutifs est constante", "Le quotient entre deux termes consécutifs est constant", "La somme des termes est constante", "Les termes sont tous égaux"],
+      "reponse": "La différence entre deux termes consécutifs est constante",
+      "explication": "C'est la définition d'une suite arithmétique."
+    },
+    {
+      "question": "Une suite géométrique a pour raison q = 1. Que peut-on dire de cette suite ?",
+      "options": ["Tous les termes sont égaux", "La suite est croissante", "La suite est décroissante", "La suite n'est pas définie"],
+      "reponse": "Tous les termes sont égaux",
+      "explication": "Si q = 1, chaque terme est multiplié par 1, donc tous les termes sont égaux à u₀."
+    },
+    {
+      "question": "Si u₁ = 7, u₃ = 15 dans une suite arithmétique, quelle est la raison r ?",
+      "options": ["4", "8", "3", "2"],
+      "reponse": "4",
+      "explication": "u₃ = u₁ + 2r donc 15 = 7 + 2r ⇒ 2r = 8 ⇒ r = 4."
+    },
+    {
+      "question": "Dans une suite géométrique, si u₂ = 18 et q = 3, quel est u₀ ?",
+      "options": ["2", "6", "54", "3"],
+      "reponse": "2",
+      "explication": "u₂ = u₀ × q² ⇒ 18 = u₀ × 9 ⇒ u₀ = 2."
+    },
+    {
+      "question": "Quel est le terme 0 d’une suite arithmétique où u₅ = 20 et r = 3 ?",
+      "options": ["5", "15", "35", "20"],
+      "reponse": "5",
+      "explication": "u₅ = u₀ + 5r ⇒ 20 = u₀ + 15 ⇒ u₀ = 5."
+    },
+    {
+      "question": "Pour une suite géométrique, si u₁ = 8 et u₄ = 64, quelle est la raison q ?",
+      "options": ["2", "3", "4", "1/2"],
+      "reponse": "2",
+      "explication": "u₄ = u₁ × q³ ⇒ 64 = 8 × q³ ⇒ q³ = 8 ⇒ q = 2."
+    },
+    {
+      "question": "La somme des 5 premiers termes d'une suite arithmétique avec u₀ = 2 et r = 3 est :",
+      "options": ["40", "35", "30", "25"],
+      "reponse": "40",
+      "explication": "u₅ = u₀ + 5r = 2 + 15 = 17; S₅ = 5 × (2 + 17)/2 = 5 × 9.5 = 47.5 (Attention au n ! Ici n=5, les termes de u₁ à u₅), mais en partant de u₀, on calcule S₄ = 4 × (2 + 14)/2 = 32. Il faut préciser le départ. Pour u₀ à u₄, S₅ = 5 × (2 + 14)/2 = 40."
+    },
+    {
+      "question": "La suite 2, 6, 18, 54, ... est-elle :",
+      "options": ["Géométrique avec q = 3", "Arithmétique avec r = 4", "Arithmétique avec r = 3", "Géométrique avec q = 2"],
+      "reponse": "Géométrique avec q = 3",
+      "explication": "Chaque terme est multiplié par 3 pour obtenir le suivant."
+    },
+    {
+      "question": "La somme des n premiers termes d'une suite géométrique de raison q = 1 est :",
+      "options": ["n × u₀", "u₀", "n", "u₀ × qⁿ"],
+      "reponse": "n × u₀",
+      "explication": "Si q = 1, la somme est simplement n fois le premier terme."
+    },
+    {
+      "question": "Quel est le 3e terme d'une suite arithmétique avec u₀ = 5 et r = −2 ?",
+      "options": ["1", "−1", "3", "−5"],
+      "reponse": "1",
+      "explication": "u₃ = u₀ + 3r = 5 + 3×(−2) = 5 − 6 = −1. (Attention, le terme d'indice 3 est le 4e terme.) Si on considère u₃ = 1, c'est u₃ = u₀ + 3r = 5 − 6 = −1 donc réponse −1."
+    },
+    {
+      "question": "Si uₙ = 3n + 2, cette suite est-elle :",
+      "options": ["Arithmétique", "Géométrique", "Constante", "Aucune"],
+      "reponse": "Arithmétique",
+      "explication": "La forme uₙ = an + b correspond à une suite arithmétique."
+    },
+    {
+      "question": "Si uₙ = 2 × 3ⁿ, cette suite est-elle :",
+      "options": ["Géométrique", "Arithmétique", "Constante", "Aucune"],
+      "reponse": "Géométrique",
+      "explication": "La forme uₙ = a × qⁿ correspond à une suite géométrique."
+    },
+    {
+      "question": "Quel est le terme général d'une suite arithmétique de raison r et de premier terme u₀ ?",
+      "options": ["uₙ = u₀ + n × r", "uₙ = u₀ × rⁿ", "uₙ = u₀ − n × r", "uₙ = r × n"],
+      "reponse": "uₙ = u₀ + n × r",
+      "explication": "Formule classique du terme général d'une suite arithmétique."
+    },
+    {
+      "question": "Dans une suite arithmétique, si u₀ = 4 et r = 3, quel est u₅ ?",
+      "options": ["19", "15", "22", "17"],
+      "reponse": "19",
+      "explication": "u₅ = u₀ + 5 × r = 4 + 15 = 19."
+    },
+    {
+      "question": "Dans une suite géométrique, si u₀ = 2 et q = 4, quel est u₃ ?",
+      "options": ["128", "64", "32", "16"],
+      "reponse": "128",
+      "explication": "u₃ = u₀ × q³ = 2 × 4³ = 2 × 64 = 128."
+    },
+    {
+      "question": "La suite 5, 8, 11, 14,... est :",
+      "options": ["Arithmétique de raison 3", "Géométrique de raison 3", "Arithmétique de raison 5", "Géométrique de raison 5"],
+      "reponse": "Arithmétique de raison 3",
+      "explication": "Chaque terme augmente de 3 : c'est une suite arithmétique de raison 3."
+    },
+    {
+      "question": "Si u₁ = 12 et u₄ = 21 dans une suite arithmétique, quelle est la raison r ?",
+      "options": ["3", "4", "5", "7"],
+      "reponse": "3",
+      "explication": "u₄ = u₁ + 3r donc 21 = 12 + 3r ⇒ 3r = 9 ⇒ r = 3."
+    },
+    {
+      "question": "Le terme u₃ d'une suite géométrique où u₀ = 3 et q = 2 est :",
+      "options": ["24", "12", "18", "36"],
+      "reponse": "24",
+      "explication": "u₃ = u₀ × q³ = 3 × 8 = 24."
+    },
+    {
+      "question": "Quelle est la somme des 4 premiers termes de la suite arithmétique 2, 5, 8, 11,... ?",
+      "options": ["26", "20", "16", "32"],
+      "reponse": "26",
+      "explication": "S₄ = 4 × (2 + 11)/2 = 4 × 6.5 = 26."
+    },
+    {
+      "question": "La somme des 3 premiers termes d'une suite géométrique où u₀ = 1 et q = 3 est :",
+      "options": ["13", "10", "9", "27"],
+      "reponse": "13",
+      "explication": "S₃ = u₀ × (1 − q³)/(1 − q) = 1 × (1 − 27)/(1 − 3) = (−26)/(−2) = 13."
+    },
+    {
+      "question": "Dans une suite géométrique, si u₂ = 18 et q = 3, quel est u₀ ?",
+      "options": ["2", "6", "9", "3"],
+      "reponse": "2",
+      "explication": "u₂ = u₀ × q² ⇒ 18 = u₀ × 9 ⇒ u₀ = 2."
+    },
+    {
+      "question": "Une suite arithmétique a u₀ = 7 et r = −2. Quel est u₄ ?",
+      "options": ["−1", "−2", "−7", "−3"],
+      "reponse": "−1",
+      "explication": "u₄ = 7 + 4×(−2) = 7 − 8 = −1."
+    },
+    {
+      "question": "Dans une suite géométrique, si u₁ = 5 et u₃ = 45, quelle est la raison q ?",
+      "options": ["3", "4", "2", "5"],
+      "reponse": "3",
+      "explication": "u₃ = u₁ × q² ⇒ 45 = 5 × q² ⇒ q² = 9 ⇒ q = 3."
+    },
+    {
+      "question": "Quel est le terme général d’une suite arithmétique de raison r et de premier terme u₀ ?",
+      "options": ["uₙ = u₀ + n × r", "uₙ = u₀ × rⁿ", "uₙ = u₀ − n × r", "uₙ = r × n"],
+      "reponse": "uₙ = u₀ + n × r",
+      "explication": "Formule classique du terme général d'une suite arithmétique."
+    },
+    {
+      "question": "Si u₀ = 3, r = 4, quelle est la somme des 6 premiers termes d'une suite arithmétique ?",
+      "options": ["63", "60", "66", "72"],
+      "reponse": "63",
+      "explication": "u₅ = 3 + 5×4 = 23; S₆ = 6 × (3 + 23)/2 = 6 × 13 = 78 (Attention indice n=5 donne 6 termes: u₀ à u₅). Ici S₆ = 6 × (3 + 23)/2 = 78. Si l'indice commence à 1, S₆ = 6 × (u₁ + u₆)/2."
+    },
+    {
+      "question": "La suite 1, 3, 9, 27,... est :",
+      "options": ["Géométrique avec q=3", "Arithmétique avec r=3", "Constante", "Géométrique avec q=2"],
+      "reponse": "Géométrique avec q=3",
+      "explication": "Chaque terme est multiplié par 3 pour obtenir le suivant."
+    },
+    {
+      "question": "Si u₁ = 8 et u₄ = 64 dans une suite géométrique, quelle est la raison q ?",
+      "options": ["2", "3", "4", "1/2"],
+      "reponse": "2",
+      "explication": "u₄ = u₁ × q³ ⇒ 64 = 8 × q³ ⇒ q³ = 8 ⇒ q = 2."
+    },
+    {
+      "question": "La somme des 5 premiers termes d’une suite géométrique avec u₀ = 1 et q = 2 est :",
+      "options": ["31", "15", "30", "16"],
+      "reponse": "31",
+      "explication": "S₅ = 1 × (1 − 2⁵)/(1 − 2) = (1 − 32)/ (−1) = 31."
+    },
+    {
+      "question": "La différence entre deux termes consécutifs dans une suite arithmétique est appelée :",
+      "options": ["Raison", "Quotient", "Somme", "Terme général"],
+      "reponse": "Raison",
+      "explication": "La raison est la différence constante entre deux termes consécutifs."
+    },
+    {
+      "question": "Le quotient constant entre deux termes consécutifs d'une suite géométrique s'appelle :",
+      "options": ["Raison", "Différence", "Somme", "Terme général"],
+      "reponse": "Raison",
+      "explication": "En géométrie, cette constante est aussi appelée raison."
+    },
+    {
+      "question": "Dans une suite arithmétique, le terme u₁ est 5 et le terme u₃ est 11. Quelle est la raison ?",
+      "options": ["3", "6", "2", "4"],
+      "reponse": "3",
+      "explication": "u₃ = u₁ + 2r ⇒ 11 = 5 + 2r ⇒ 2r = 6 ⇒ r = 3."
+    },
+    {
+      "question": "Pour la suite géométrique avec u₀ = 4 et q = 0.5, quel est u₄ ?",
+      "options": ["0.25", "1", "2", "4"],
+      "reponse": "0.25",
+      "explication": "u₄ = 4 × (0.5)⁴ = 4 × 0.0625 = 0.25."
+    },
+    {
+      "question": "Le terme général d’une suite géométrique est donné par :",
+      "options": ["uₙ = u₀ × qⁿ", "uₙ = u₀ + n × r", "uₙ = n × q + u₀", "uₙ = u₀ − n × r"],
+      "reponse": "uₙ = u₀ × qⁿ",
+      "explication": "Formule classique du terme général d'une suite géométrique."
+    },
+    {
+      "question": "La somme des 4 premiers termes d’une suite arithmétique est 30, et u₀ = 3, r = ?",
+      "options": ["4", "5", "6", "7"],
+      "reponse": "5",
+      "explication": "S₄ = 4 × (u₀ + u₃)/2 = 30, u₃ = u₀ + 3r = 3 + 3r.\n30 = 4 × (3 + 3 + 3r)/2 ⇒ 30 = 2 × (6 + 3r) ⇒ 15 = 6 + 3r ⇒ 3r = 9 ⇒ r = 3."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Qu'est-ce qu'une fonction linéaire ?",
+      "options": ["ax² + b", "ax + b", "ax", "x + b"],
+      "reponse": "ax",
+      "explication": "Une fonction linéaire est une fonction de la forme f(x) = ax, où a est un nombre réel. Elle passe toujours par l'origine du repère (0 ; 0)."
+    },
+    {
+      "question": "Qu'est-ce qu'une fonction affine ?",
+      "options": ["constante", "ax", "ax + b", "ax² + b"],
+      "reponse": "ax + b",
+      "explication": "Une fonction affine est une fonction de la forme f(x) = ax + b, avec a et b réels. C'est une droite qui peut couper l'axe des ordonnées ailleurs qu'en 0."
+    },
+    {
+      "question": "Quelle est l'expression d'une fonction carré ?",
+      "options": ["x²", "ax", "ax² + b", "x + b"],
+      "reponse": "x²",
+      "explication": "La fonction carré s’écrit f(x) = x². Elle est utile pour étudier les fonctions du second degré. Son graphe est une parabole symétrique."
+    },
+    {
+      "question": "Le graphe d’une fonction linéaire est :",
+      "options": ["courbe", "parabole", "droite passant par l’origine", "droite horizontale"],
+      "reponse": "droite passant par l’origine",
+      "explication": "La fonction linéaire f(x) = ax est toujours représentée par une droite qui passe par l’origine du repère (0 ; 0)."
+    },
+    {
+      "question": "Dans f(x) = ax, le nombre 'a' indique :",
+      "options": ["valeur de f(0)", "ordonnée à l’origine", "sens de variation", "racine de la fonction"],
+      "reponse": "sens de variation",
+      "explication": "Le coefficient a indique si la fonction est croissante (a > 0) ou décroissante (a < 0). Si a = 0, la fonction est constante."
+    },
+    {
+      "question": "Dans f(x) = ax + b, que signifie b ?",
+      "options": ["pente", "image de a", "ordonnée à l’origine", "racine"],
+      "reponse": "ordonnée à l’origine",
+      "explication": "b est l’image de 0 par f, donc c’est la valeur de f(0). Elle indique où la droite coupe l’axe vertical (axe des ordonnées)."
+    },
+    {
+      "question": "La fonction f(x) = x² est-elle paire ou impaire ?",
+      "options": ["paire", "impaire", "aucune", "cela dépend"],
+      "reponse": "paire",
+      "explication": "Elle est paire car f(-x) = (-x)² = x² = f(x). Son graphe est symétrique par rapport à l’axe vertical (axe des ordonnées)."
+    },
+    {
+      "question": "Quel est le domaine de définition de f(x) = x² ?",
+      "options": ["x > 0", "x < 0", "x ≠ 0", "ℝ"],
+      "reponse": "ℝ",
+      "explication": "La fonction carré est définie pour tout réel. On dit que son domaine de définition est ℝ (ensemble des réels)."
+    },
+    {
+      "question": "Le graphe de f(x) = x² est :",
+      "options": ["droite", "parabole vers le haut", "S inversé", "parabole vers le bas"],
+      "reponse": "parabole vers le haut",
+      "explication": "f(x) = x² est représentée par une parabole tournée vers le haut, avec un minimum en x = 0 (sommet)."
+    },
+    {
+      "question": "Dans f(x) = ax + b, que vaut f(0) ?",
+      "options": ["0", "a", "b", "a + b"],
+      "reponse": "b",
+      "explication": "f(0) = a × 0 + b = b. Cette valeur est importante car elle donne l'ordonnée à l’origine du graphe."
+    },
+    {
+      "question": "Soit f(x) = 3x. Que vaut f(2) ?",
+      "options": ["5", "6", "3", "9"],
+      "reponse": "6",
+      "explication": "f(2) = 3 × 2 = 6."
+    },
+    {
+      "question": "Soit f(x) = -2x + 4. Que vaut f(-1) ?",
+      "options": ["6", "2", "4", "-2"],
+      "reponse": "6",
+      "explication": "f(-1) = -2 × (-1) + 4 = 2 + 4 = 6."
+    },
+    {
+      "question": "Soit f(x) = x². Que vaut f(-3) ?",
+      "options": ["-9", "6", "3", "9"],
+      "reponse": "9",
+      "explication": "f(-3) = (-3)² = 9."
+    },
+    {
+      "question": "Complète : f(x) = 2x ; f(0) = ?",
+      "options": ["2", "1", "0", "-2"],
+      "reponse": "0",
+      "explication": "f(0) = 2 × 0 = 0."
+    },
+    {
+      "question": "Soit f(x) = x². Que vaut f(0) + f(1) ?",
+      "options": ["0", "1", "2", "3"],
+      "reponse": "1",
+      "explication": "f(0) = 0 ; f(1) = 1 ; donc f(0) + f(1) = 1."
+    },
+    {
+      "question": "f(x) = 5x est-elle une fonction linéaire ou affine ?",
+      "options": ["Affine", "Linéaire", "Ni l’un ni l’autre", "Quadratique"],
+      "reponse": "Linéaire",
+      "explication": "Elle est de la forme ax, donc linéaire."
+    },
+    {
+      "question": "f(x) = 3x - 2 est-elle linéaire ou affine ?",
+      "options": ["Linéaire", "Affine", "Quadratique", "Constante"],
+      "reponse": "Affine",
+      "explication": "f(x) = ax + b avec b ≠ 0 : c'est une fonction affine."
+    },
+    {
+      "question": "Quel est le coefficient directeur de f(x) = -4x + 3 ?",
+      "options": ["3", "-4", "4", "-3"],
+      "reponse": "-4",
+      "explication": "Le coefficient directeur est le a dans ax + b, ici a = -4."
+    },
+    {
+      "question": "Quelle est l’image de 0 par f(x) = 2x + 1 ?",
+      "options": ["0", "2", "1", "3"],
+      "reponse": "1",
+      "explication": "f(0) = 2 × 0 + 1 = 1."
+    },
+    {
+      "question": "Soit f(x) = x². Quel est le minimum de f ?",
+      "options": ["0", "1", "-1", "-∞"],
+      "reponse": "0",
+      "explication": "La fonction carré atteint son minimum en x = 0 avec f(0) = 0."
+    },
+    {
+      "question": "Pour quelle valeur de x a-t-on f(x) = 0 dans f(x) = 2x ?",
+      "options": ["1", "2", "0", "-2"],
+      "reponse": "0",
+      "explication": "f(x) = 0 quand x = 0 car 2 × 0 = 0."
+    },
+    {
+      "question": "Soit f(x) = x². f est-elle croissante sur ℝ ?",
+      "options": ["Oui", "Non", "Sur [0, ∞[ seulement", "Toujours décroissante"],
+      "reponse": "Sur [0, ∞[ seulement",
+      "explication": "f(x) = x² est décroissante sur ]-∞, 0] et croissante sur [0, ∞[."
+    },
+    {
+      "question": "f(x) = 2x + 5 : quelle est l’ordonnée à l’origine ?",
+      "options": ["2", "5", "0", "-5"],
+      "reponse": "5",
+      "explication": "f(0) = 2 × 0 + 5 = 5 ; donc l’ordonnée à l’origine est 5."
+    },
+    {
+      "question": "Quel est le signe de f(x) = -3x si x > 0 ?",
+      "options": ["Positif", "Négatif", "Nul", "Inconnu"],
+      "reponse": "Négatif",
+      "explication": "Si x > 0 alors -3x < 0 donc la fonction est négative."
+    },
+    {
+      "question": "Si f(x) = x², combien vaut f(1) + f(2) ?",
+      "options": ["5", "4", "6", "8"],
+      "reponse": "5",
+      "explication": "f(1) = 1, f(2) = 4 donc 1 + 4 = 5."
+    },
+    {
+      "question": "f(x) = x² est-elle paire ?",
+      "options": ["Oui", "Non", "Cela dépend de x", "Impaire"],
+      "reponse": "Oui",
+      "explication": "Oui, car f(-x) = (-x)² = x² = f(x), donc elle est paire."
+    },
+    {
+      "question": "f(x) = 2x est-elle croissante ou décroissante ?",
+      "options": ["Croissante", "Décroissante", "Constante", "Aucune"],
+      "reponse": "Croissante",
+      "explication": "Le coefficient a = 2 > 0 donc la fonction est croissante sur ℝ."
+    },
+    {
+      "question": "Si f(x) = -x², le sommet de la courbe est :",
+      "options": ["Un maximum", "Un minimum", "Inexistant", "Infini"],
+      "reponse": "Un maximum",
+      "explication": "La parabole est tournée vers le bas, donc le sommet est un maximum."
+    },
+    {
+      "question": "f(x) = 3x. Quelle est la pente de la droite représentative ?",
+      "options": ["0", "3", "-3", "1"],
+      "reponse": "3",
+      "explication": "Dans f(x) = ax, le coefficient a représente la pente. Ici a = 3."
+    },
+    {
+      "question": "Dans f(x) = -x + 2, pour quelle valeur de x a-t-on f(x) = 0 ?",
+      "options": ["x = 2", "x = -2", "x = 1", "x = 0"],
+      "reponse": "x = 2",
+      "explication": "0 = -x + 2 ⟹ x = 2."
+    }
+  ]
+}

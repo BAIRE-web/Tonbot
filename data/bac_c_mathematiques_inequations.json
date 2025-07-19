@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la solution de l’inéquation 2x + 3 > 7 ?",
+      "options": ["x > 2", "x < 2", "x ≥ 2", "x ≤ 2"],
+      "reponse": "x > 2",
+      "explication": "2x > 4 donc x > 2."
+    },
+    {
+      "question": "Résoudre l’inéquation x^2 − 4 ≤ 0.",
+      "options": ["−2 ≤ x ≤ 2", "x ≤ −2 ou x ≥ 2", "x < −2 ou x > 2", "x > −2 et x < 2"],
+      "reponse": "−2 ≤ x ≤ 2",
+      "explication": "x^2 ≤ 4 signifie que |x| ≤ 2."
+    },
+    {
+      "question": "Résoudre 3x − 5 < 1.",
+      "options": ["x < 2", "x > 2", "x ≤ 2", "x ≥ 2"],
+      "reponse": "x < 2",
+      "explication": "3x < 6 donc x < 2."
+    },
+    {
+      "question": "Quelle est la solution de |x − 4| < 3 ?",
+      "options": ["1 < x < 7", "x < 1 ou x > 7", "x ≤ 1 ou x ≥ 7", "x > 1 et x < 7"],
+      "reponse": "1 < x < 7",
+      "explication": "Distance entre x et 4 inférieure à 3."
+    },
+    {
+      "question": "Résoudre l’inéquation x^2 + 2x − 3 > 0.",
+      "options": ["x < −3 ou x > 1", "−3 < x < 1", "x ≤ −3 ou x ≥ 1", "−3 ≤ x ≤ 1"],
+      "reponse": "x < −3 ou x > 1",
+      "explication": "Signe du trinôme selon ses racines −3 et 1."
+    },
+    {
+      "question": "Résoudre l’inéquation |2x + 1| ≥ 5.",
+      "options": ["x ≤ −3 ou x ≥ 2", "−3 < x < 2", "x < −3 ou x > 2", "x > −3 et x < 2"],
+      "reponse": "x ≤ −3 ou x ≥ 2",
+      "explication": "Valeur absolue ≥ 5 implique deux cas."
+    },
+    {
+      "question": "Résoudre 4 − x < 1.",
+      "options": ["x > 3", "x < 3", "x ≥ 3", "x ≤ 3"],
+      "reponse": "x > 3",
+      "explication": "−x < −3 donc x > 3."
+    },
+    {
+      "question": "Résoudre x^2 − 5x + 6 ≤ 0.",
+      "options": ["2 ≤ x ≤ 3", "x ≤ 2 ou x ≥ 3", "x < 2 ou x > 3", "x > 2 et x < 3"],
+      "reponse": "2 ≤ x ≤ 3",
+      "explication": "Le trinôme est négatif entre ses racines 2 et 3."
+    },
+    {
+      "question": "Quelle est la solution de |x + 2| ≤ 4 ?",
+      "options": ["−6 ≤ x ≤ 2", "x ≤ −6 ou x ≥ 2", "x < −6 ou x > 2", "x > −6 et x < 2"],
+      "reponse": "−6 ≤ x ≤ 2",
+      "explication": "Distance entre x et −2 inférieure ou égale à 4."
+    },
+    {
+      "question": "Résoudre 2x^2 − 8 ≥ 0.",
+      "options": ["x ≤ −2 ou x ≥ 2", "−2 < x < 2", "x < −2 ou x > 2", "−2 ≤ x ≤ 2"],
+      "reponse": "x ≤ −2 ou x ≥ 2",
+      "explication": "Parabole positive hors des racines ±2."
+    },
+    {
+      "question": "Résoudre |3x − 1| < 2.",
+      "options": ["−1/3 < x < 1", "x < −1/3 ou x > 1", "x ≤ −1/3 ou x ≥ 1", "x > −1/3 et x < 1"],
+      "reponse": "−1/3 < x < 1",
+      "explication": "Valeur absolue < 2 implique intervalle ouvert."
+    },
+    {
+      "question": "Résoudre 5 − 2x ≥ 1.",
+      "options": ["x ≤ 2", "x ≥ 2", "x > 2", "x < 2"],
+      "reponse": "x ≤ 2",
+      "explication": "−2x ≥ −4 donc x ≤ 2."
+    },
+    {
+      "question": "Quelle est la solution de l’inéquation (x − 3)(x + 1) < 0 ?",
+      "options": ["−1 < x < 3", "x < −1 ou x > 3", "x ≤ −1 ou x ≥ 3", "x > −1 et x < 3"],
+      "reponse": "−1 < x < 3",
+      "explication": "Produit négatif entre les racines −1 et 3."
+    },
+    {
+      "question": "Résoudre |x − 5| > 4.",
+      "options": ["x < 1 ou x > 9", "1 < x < 9", "x ≤ 1 ou x ≥ 9", "x ≥ 1 et x ≤ 9"],
+      "reponse": "x < 1 ou x > 9",
+      "explication": "Valeur absolue strictement plus grande que 4."
+    },
+    {
+      "question": "Résoudre x^2 − 1 < 0.",
+      "options": ["−1 < x < 1", "x ≤ −1 ou x ≥ 1", "x < −1 ou x > 1", "x ≥ −1 et x ≤ 1"],
+      "reponse": "−1 < x < 1",
+      "explication": "Parabole négative entre −1 et 1."
+    },
+    {
+      "question": "Résoudre 3x + 4 ≤ 10.",
+      "options": ["x ≤ 2", "x ≥ 2", "x < 2", "x > 2"],
+      "reponse": "x ≤ 2",
+      "explication": "3x ≤ 6 donc x ≤ 2."
+    },
+    {
+      "question": "Quelle est la solution de |2x + 3| ≤ 1 ?",
+      "options": ["−2 ≤ x ≤ −1", "x ≤ −2 ou x ≥ −1", "x < −2 ou x > −1", "x > −2 et x < −1"],
+      "reponse": "−2 ≤ x ≤ −1",
+      "explication": "Valeur absolue ≤ 1."
+    },
+    {
+      "question": "Résoudre x^2 − 6x + 8 ≥ 0.",
+      "options": ["x ≤ 2 ou x ≥ 4", "2 < x < 4", "x < 2 ou x > 4", "2 ≤ x ≤ 4"],
+      "reponse": "x ≤ 2 ou x ≥ 4",
+      "explication": "Parabole positive en dehors des racines 2 et 4."
+    },
+    {
+      "question": "Résoudre |x/2 − 3| > 1.",
+      "options": ["x < 4 ou x > 8", "4 < x < 8", "x ≤ 4 ou x ≥ 8", "x ≥ 4 et x ≤ 8"],
+      "reponse": "x < 4 ou x > 8",
+      "explication": "Valeur absolue stricte."
+    },
+    {
+      "question": "Résoudre 2x − 7 < 1.",
+      "options": ["x < 4", "x > 4", "x ≤ 4", "x ≥ 4"],
+      "reponse": "x < 4",
+      "explication": "2x < 8 donc x < 4."
+    },
+    {
+      "question": "Quelle est la solution de (x − 1)^2 > 0 ?",
+      "options": ["x ≠ 1", "x = 1", "x > 1", "x < 1"],
+      "reponse": "x ≠ 1",
+      "explication": "Carré strictement positif sauf en 1."
+    },
+    {
+      "question": "Résoudre |x + 1| < 2.",
+      "options": ["−3 < x < 1", "x < −3 ou x > 1", "x ≤ −3 ou x ≥ 1", "x ≥ −3 et x ≤ 1"],
+      "reponse": "−3 < x < 1",
+      "explication": "Valeur absolue inférieure à 2."
+    },
+    {
+      "question": "Résoudre x^2 + 4x + 3 ≤ 0.",
+      "options": ["−3 ≤ x ≤ −1", "x ≤ −3 ou x ≥ −1", "x < −3 ou x > −1", "−3 < x < −1"],
+      "reponse": "−3 ≤ x ≤ −1",
+      "explication": "Parabole négative entre ses racines −3 et −1."
+    },
+    {
+      "question": "Résoudre |5 − x| ≥ 2.",
+      "options": ["x ≤ 3 ou x ≥ 7", "3 < x < 7", "x < 3 ou x > 7", "x ≥ 3 et x ≤ 7"],
+      "reponse": "x ≤ 3 ou x ≥ 7",
+      "explication": "Valeur absolue ≥ 2."
+    },
+    {
+      "question": "Résoudre 7 − 2x > 3.",
+      "options": ["x < 2", "x > 2", "x ≤ 2", "x ≥ 2"],
+      "reponse": "x < 2",
+      "explication": "−2x > −4 donc x < 2."
+    },
+    {
+      "question": "Quelle est la solution de (x + 4)(x − 5) ≤ 0 ?",
+      "options": ["−4 ≤ x ≤ 5", "x ≤ −4 ou x ≥ 5", "x < −4 ou x > 5", "x ≥ −4 et x ≤ 5"],
+      "reponse": "−4 ≤ x ≤ 5",
+      "explication": "Produit négatif ou nul entre −4 et 5."
+    },
+    {
+      "question": "Résoudre |x − 2| ≥ 0.",
+      "options": ["Pour tout x", "x = 2 uniquement", "x ≠ 2", "Aucune solution"],
+      "reponse": "Pour tout x",
+      "explication": "Valeur absolue toujours ≥ 0."
+    },
+    {
+      "question": "Résoudre x^2 − 9 < 0.",
+      "options": ["−3 < x < 3", "x ≤ −3 ou x ≥ 3", "x < −3 ou x > 3", "x ≥ −3 et x ≤ 3"],
+      "reponse": "−3 < x < 3",
+      "explication": "Parabole négative entre −3 et 3."
+    },
+    {
+      "question": "Résoudre l’inéquation 5x − 3 > 2x + 6.",
+      "options": ["x > 3", "x < 3", "x ≥ 3", "x ≤ 3"],
+      "reponse": "x > 3",
+      "explication": "On soustrait 2x : 3x > 9 donc x > 3."
+    },
+    {
+      "question": "Résoudre l’inéquation x^2 − 4x + 3 < 0.",
+      "options": ["1 < x < 3", "x < 1 ou x > 3", "x ≤ 1 ou x ≥ 3", "x > 1 et x < 3"],
+      "reponse": "1 < x < 3",
+      "explication": "Le trinôme est négatif entre ses racines 1 et 3."
+    },
+    {
+      "question": "Résoudre |2x − 5| ≤ 7.",
+      "options": ["−1 ≤ x ≤ 6", "x ≤ −1 ou x ≥ 6", "x < −1 ou x > 6", "x > −1 et x < 6"],
+      "reponse": "−1 ≤ x ≤ 6",
+      "explication": "On a −7 ≤ 2x − 5 ≤ 7."
+    },
+    {
+      "question": "Résoudre 3 − x^2 ≥ 0.",
+      "options": ["−√3 ≤ x ≤ √3", "x ≤ −√3 ou x ≥ √3", "x < −√3 ou x > √3", "x > −√3 et x < √3"],
+      "reponse": "−√3 ≤ x ≤ √3",
+      "explication": "x^2 ≤ 3 donc x entre −√3 et √3."
+    },
+    {
+      "question": "Résoudre (x + 1)(x − 4) ≥ 0.",
+      "options": ["x ≤ −1 ou x ≥ 4", "−1 < x < 4", "x < −1 ou x > 4", "−1 ≤ x ≤ 4"],
+      "reponse": "x ≤ −1 ou x ≥ 4",
+      "explication": "Produit positif hors des racines −1 et 4."
+    },
+    {
+      "question": "Résoudre |x + 3| > 5.",
+      "options": ["x < −8 ou x > 2", "−8 < x < 2", "x ≤ −8 ou x ≥ 2", "x ≥ −8 et x ≤ 2"],
+      "reponse": "x < −8 ou x > 2",
+      "explication": "Valeur absolue strictement plus grande que 5."
+    },
+    {
+      "question": "Résoudre 2x + 7 < 3x − 1.",
+      "options": ["x > 8", "x < 8", "x ≥ 8", "x ≤ 8"],
+      "reponse": "x > 8",
+      "explication": "On soustrait 2x : 7 < x − 1 → x > 8."
+    },
+    {
+      "question": "Résoudre x^2 − 9x + 20 ≤ 0.",
+      "options": ["4 ≤ x ≤ 5", "x ≤ 4 ou x ≥ 5", "x < 4 ou x > 5", "4 < x < 5"],
+      "reponse": "4 ≤ x ≤ 5",
+      "explication": "Parabole négative entre les racines 4 et 5."
+    },
+    {
+      "question": "Résoudre |4x − 1| < 3.",
+      "options": ["−0.5 < x < 1", "x < −0.5 ou x > 1", "x ≤ −0.5 ou x ≥ 1", "x ≥ −0.5 et x ≤ 1"],
+      "reponse": "−0.5 < x < 1",
+      "explication": "On a −3 < 4x − 1 < 3."
+    },
+    {
+      "question": "Résoudre 5x^2 − 20 ≥ 0.",
+      "options": ["x ≤ −2 ou x ≥ 2", "−2 < x < 2", "x < −2 ou x > 2", "−2 ≤ x ≤ 2"],
+      "reponse": "x ≤ −2 ou x ≥ 2",
+      "explication": "5(x^2 − 4) ≥ 0 → x^2 ≥ 4."
+    },
+    {
+      "question": "Résoudre |x − 7| = 2x − 5.",
+      "options": ["x ≥ 6", "x ≤ 6", "x = 6", "x ≠ 6"],
+      "reponse": "x ≥ 6",
+      "explication": "On doit vérifier que 2x − 5 ≥ 0 pour que valeur absolue soit égale."
+    },
+    {
+      "question": "Résoudre 3x^2 + 4x − 7 < 0.",
+      "options": ["−2.333 < x < 0.999", "x < −2.333 ou x > 0.999", "x ≤ −2.333 ou x ≥ 0.999", "−2.333 ≤ x ≤ 0.999"],
+      "reponse": "−2.333 < x < 0.999",
+      "explication": "Parabole négative entre ses racines."
+    },
+    {
+      "question": "Résoudre |x/3 + 1| ≥ 4.",
+      "options": ["x ≤ −15 ou x ≥ 9", "−15 < x < 9", "x < −15 ou x > 9", "x ≥ −15 et x ≤ 9"],
+      "reponse": "x ≤ −15 ou x ≥ 9",
+      "explication": "Valeur absolue ≥ 4 implique ces intervalles."
+    },
+    {
+      "question": "Résoudre 7 − 2x^2 < 3.",
+      "options": ["−1 < x < 1", "x ≤ −1 ou x ≥ 1", "x < −1 ou x > 1", "−1 ≤ x ≤ 1"],
+      "reponse": "−1 < x < 1",
+      "explication": "2x^2 > 4 → x^2 < 2."
+    },
+    {
+      "question": "Résoudre (x − 2)(x + 3) > 0.",
+      "options": ["x < −3 ou x > 2", "−3 < x < 2", "x ≤ −3 ou x ≥ 2", "−3 ≤ x ≤ 2"],
+      "reponse": "x < −3 ou x > 2",
+      "explication": "Produit positif hors des racines."
+    },
+    {
+      "question": "Résoudre |3x − 2| ≤ 4.",
+      "options": ["−2/3 ≤ x ≤ 2", "x ≤ −2/3 ou x ≥ 2", "x < −2/3 ou x > 2", "x > −2/3 et x < 2"],
+      "reponse": "−2/3 ≤ x ≤ 2",
+      "explication": "On a −4 ≤ 3x − 2 ≤ 4."
+    },
+    {
+      "question": "Résoudre 2x − 5 < 3x + 1.",
+      "options": ["x > −6", "x < −6", "x ≥ −6", "x ≤ −6"],
+      "reponse": "x > −6",
+      "explication": "−x < 6 → x > −6."
+    },
+    {
+      "question": "Résoudre x^2 − 2x − 3 ≥ 0.",
+      "options": ["x ≤ −1 ou x ≥ 3", "−1 < x < 3", "x < −1 ou x > 3", "−1 ≥ x ≤ 3"],
+      "reponse": "x ≤ −1 ou x ≥ 3",
+      "explication": "Parabole positive hors des racines."
+    },
+    {
+      "question": "Résoudre |x + 5| > 3.",
+      "options": ["x < −8 ou x > −2", "−8 < x < −2", "x ≤ −8 ou x ≥ −2", "x ≥ −8 et x ≤ −2"],
+      "reponse": "x < −8 ou x > −2",
+      "explication": "Valeur absolue stricte."
+    },
+    {
+      "question": "Résoudre 6 − x > 2x + 3.",
+      "options": ["x < 1", "x > 1", "x ≤ 1", "x ≥ 1"],
+      "reponse": "x < 1",
+      "explication": "6 − x > 2x + 3 → 3 > 3x → x < 1."
+    }
+  ]
+}

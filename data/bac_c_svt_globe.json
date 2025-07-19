@@ -1,0 +1,286 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle couche de la Terre est la plus externe ?",
+      "options": ["La croûte", "Le manteau", "Le noyau externe", "Le noyau interne"],
+      "reponse": "La croûte",
+      "explication": "La croûte est la couche la plus superficielle de la Terre, constituant la surface solide."
+    },
+    {
+      "question": "Le manteau terrestre est principalement composé de :",
+      "options": ["Roches silicatées riches en fer et magnésium", "Fer liquide", "Métal lourd", "Glace"],
+      "reponse": "Roches silicatées riches en fer et magnésium",
+      "explication": "Le manteau est constitué de roches solides mais ductiles riches en silicates ferromagnésiens."
+    },
+    {
+      "question": "Le noyau externe est :",
+      "options": ["Liquide", "Solide", "Gazeux", "Plasmatique"],
+      "reponse": "Liquide",
+      "explication": "Le noyau externe est constitué de fer et nickel en état liquide."
+    },
+    {
+      "question": "Le noyau interne est :",
+      "options": ["Solide", "Liquide", "Gazeux", "Fluide"],
+      "reponse": "Solide",
+      "explication": "Le noyau interne est solide malgré les très hautes températures, à cause de la pression énorme."
+    },
+    {
+      "question": "Les ondes P (ondes primaires) sont :",
+      "options": ["Des ondes de compression qui traversent solides et liquides", "Des ondes de cisaillement qui traversent uniquement les solides", "Des ondes de surface", "Des ondes qui ne traversent pas la Terre"],
+      "reponse": "Des ondes de compression qui traversent solides et liquides",
+      "explication": "Les ondes P sont les premières à arriver et peuvent traverser tout type de milieu."
+    },
+    {
+      "question": "Les ondes S (ondes secondaires) sont :",
+      "options": ["Des ondes de cisaillement ne traversant que les solides", "Des ondes de compression", "Des ondes électromagnétiques", "Des ondes de surface"],
+      "reponse": "Des ondes de cisaillement ne traversant que les solides",
+      "explication": "Les ondes S ne peuvent pas traverser les liquides, ce qui permet de distinguer le noyau liquide."
+    },
+    {
+      "question": "Pourquoi les ondes S ne traversent-elles pas le noyau externe ?",
+      "options": ["Parce que le noyau externe est liquide", "Parce qu’il est trop chaud", "Parce qu’il est solide", "Parce qu’il est trop dense"],
+      "reponse": "Parce que le noyau externe est liquide",
+      "explication": "Les ondes de cisaillement ne peuvent pas se propager dans un milieu liquide."
+    },
+    {
+      "question": "La lithosphère correspond à :",
+      "options": ["La croûte et la partie supérieure du manteau rigide", "Le noyau interne", "Le manteau inférieur", "Le noyau externe"],
+      "reponse": "La croûte et la partie supérieure du manteau rigide",
+      "explication": "La lithosphère est la couche rigide formée par la croûte et une partie du manteau supérieur."
+    },
+    {
+      "question": "L’asthénosphère est :",
+      "options": ["Une zone ductile du manteau supérieur", "La couche la plus externe", "Le noyau interne", "La croûte océanique"],
+      "reponse": "Une zone ductile du manteau supérieur",
+      "explication": "L’asthénosphère est une couche semi-fluide permettant le mouvement des plaques lithosphériques."
+    },
+    {
+      "question": "La discontinuité de Mohorovičić (Moho) sépare :",
+      "options": ["La croûte et le manteau", "Le manteau et le noyau", "Le noyau externe et interne", "La lithosphère et l’asthénosphère"],
+      "reponse": "La croûte et le manteau",
+      "explication": "Le Moho est une discontinuité où la vitesse des ondes sismiques change brutalement."
+    },
+    {
+      "question": "La discontinuité de Gutenberg correspond à :",
+      "options": ["La séparation entre le manteau et le noyau externe", "La séparation entre la croûte et le manteau", "La frontière entre noyau externe et interne", "La surface terrestre"],
+      "reponse": "La séparation entre le manteau et le noyau externe",
+      "explication": "C’est la limite entre manteau solide et noyau liquide."
+    },
+    {
+      "question": "La vitesse des ondes sismiques augmente généralement avec :",
+      "options": ["La densité et la rigidité des roches", "La température uniquement", "La profondeur uniquement", "La composition chimique uniquement"],
+      "reponse": "La densité et la rigidité des roches",
+      "explication": "Les ondes se propagent plus vite dans des milieux denses et rigides."
+    },
+    {
+      "question": "L’analyse des ondes sismiques a permis de découvrir :",
+      "options": ["La structure interne de la Terre", "La forme des continents", "La composition atmosphérique", "La composition des océans"],
+      "reponse": "La structure interne de la Terre",
+      "explication": "L’étude des variations de vitesses et trajets des ondes donne des informations sur les couches internes."
+    },
+    {
+      "question": "Les ondes sismiques de surface se propagent :",
+      "options": ["Le long de la surface terrestre", "Dans le noyau", "Dans le manteau profond", "Dans la lithosphère uniquement"],
+      "reponse": "Le long de la surface terrestre",
+      "explication": "Ces ondes causent la plupart des dégâts lors des séismes."
+    },
+    {
+      "question": "La croûte océanique est principalement composée de :",
+      "options": ["Basalte", "Granite", "Gabbro", "Calcaire"],
+      "reponse": "Basalte",
+      "explication": "La croûte océanique est formée de roches basaltiques, plus denses que la croûte continentale."
+    },
+    {
+      "question": "La croûte continentale est principalement composée de :",
+      "options": ["Granite", "Basalte", "Gabbro", "Diorite"],
+      "reponse": "Granite",
+      "explication": "La croûte continentale est constituée de roches granitiques, moins denses que la croûte océanique."
+    },
+    {
+      "question": "Les ondes P sont détectées dans toutes les stations sismiques sauf dans :",
+      "options": ["La zone d’ombre du noyau", "La croûte océanique", "La lithosphère", "Le manteau supérieur"],
+      "reponse": "La zone d’ombre du noyau",
+      "explication": "Les ondes P sont réfractées par le noyau liquide, créant une zone d’ombre où elles ne sont pas détectées."
+    },
+    {
+      "question": "La zone d’ombre des ondes S est plus étendue que celle des ondes P car :",
+      "options": ["Les ondes S ne traversent pas le noyau externe liquide", "Les ondes S sont plus lentes", "Les ondes S se dispersent", "Les ondes S ne sont pas détectées par les sismomètres"],
+      "reponse": "Les ondes S ne traversent pas le noyau externe liquide",
+      "explication": "L’impossibilité des ondes S à traverser le noyau liquide cause une grande zone d’ombre."
+    },
+    {
+      "question": "La méthode principale pour étudier la structure interne de la Terre est :",
+      "options": ["L’analyse des ondes sismiques", "La mesure des températures de surface", "L’observation directe", "La datation au carbone 14"],
+      "reponse": "L’analyse des ondes sismiques",
+      "explication": "Les séismes fournissent des ondes qui traversent la Terre et donnent des indices sur ses couches."
+    },
+    {
+      "question": "La croûte océanique est généralement plus :",
+      "options": ["Fine et dense", "Épaisse et légère", "Fine et légère", "Épaisse et dense"],
+      "reponse": "Fine et dense",
+      "explication": "La croûte océanique a une épaisseur d'environ 7 km et est plus dense que la croûte continentale."
+    },
+    {
+      "question": "Le manteau inférieur est :",
+      "options": ["Plus rigide que le manteau supérieur", "Liquide", "Molasseux", "De même consistance que le noyau"],
+      "reponse": "Plus rigide que le manteau supérieur",
+      "explication": "La pression élevée rend le manteau inférieur plus rigide malgré la température."
+    },
+    {
+      "question": "Les séismes génèrent des ondes qui permettent de :",
+      "options": ["Déterminer la profondeur des couches terrestres", "Changer la structure de la Terre", "Augmenter la température interne", "Créer de nouvelles roches"],
+      "reponse": "Déterminer la profondeur des couches terrestres",
+      "explication": "Les variations dans la vitesse et la direction des ondes renseignent sur la structure interne."
+    },
+    {
+      "question": "La discontinuité de Lehmann marque la limite entre :",
+      "options": ["Noyau externe liquide et noyau interne solide", "Manteau et croûte", "Lithosphère et asthénosphère", "Croûte océanique et continentale"],
+      "reponse": "Noyau externe liquide et noyau interne solide",
+      "explication": "C’est la frontière interne la plus profonde de la Terre."
+    },
+    {
+      "question": "L’étude des ondes sismiques est une preuve indirecte :",
+      "options": ["De la composition et de la structure interne de la Terre", "De la température à la surface", "De la vitesse des plaques tectoniques", "De la formation des volcans"],
+      "reponse": "De la composition et de la structure interne de la Terre",
+      "explication": "On ne peut pas observer directement ces couches, on déduit leur nature via les ondes."
+    },
+    {
+      "question": "Quelle est la principale différence entre le noyau interne et le noyau externe ?",
+      "options": ["Le noyau interne est solide, le noyau externe est liquide", "Le noyau interne est liquide, le noyau externe est solide", "Les deux sont liquides", "Les deux sont solides"],
+      "reponse": "Le noyau interne est solide, le noyau externe est liquide",
+      "explication": "Cette différence est due à la pression plus élevée dans le noyau interne."
+    },
+    {
+      "question": "Quelle propriété des roches influence la vitesse des ondes sismiques ?",
+      "options": ["La densité et l’élasticité", "La couleur", "La température uniquement", "La taille des cristaux"],
+      "reponse": "La densité et l’élasticité",
+      "explication": "Ces propriétés physiques déterminent la propagation des ondes."
+    },
+    {
+      "question": "Le noyau de la Terre est principalement composé de :",
+      "options": ["Fer et nickel", "Silicium", "Oxygène", "Aluminium"],
+      "reponse": "Fer et nickel",
+      "explication": "Ces métaux lourds forment la majeure partie du noyau terrestre."
+    },
+    {
+      "question": "Une onde S est détectée jusqu’à une certaine distance d’un séisme puis disparaît. Que peut-on en déduire ?",
+      "options": ["Elle ne traverse pas le noyau externe liquide", "Elle est absorbée par la croûte", "Elle ralentit dans le manteau", "Elle se transforme en onde P"],
+      "reponse": "Elle ne traverse pas le noyau externe liquide",
+      "explication": "Les ondes S ne se propagent pas dans les liquides comme le noyau externe."
+    },
+    {
+      "question": "Quel phénomène provoque la discontinuité de Mohorovičić (Moho) ?",
+      "options": ["Changement brusque de la vitesse des ondes sismiques", "Augmentation de la température", "Augmentation de la pression", "Présence d’eau souterraine"],
+      "reponse": "Changement brusque de la vitesse des ondes sismiques",
+      "explication": "Le Moho est la limite entre la croûte et le manteau, où la vitesse des ondes augmente fortement."
+    },
+    {
+      "question": "Parmi les propositions suivantes, laquelle caractérise le manteau terrestre ?",
+      "options": ["Il est solide mais ductile", "Il est liquide", "Il est gazeux", "Il est constitué uniquement de fer"],
+      "reponse": "Il est solide mais ductile",
+      "explication": "Le manteau peut se déformer lentement, ce qui permet le déplacement des plaques."
+    },
+    {
+      "question": "Quelle est la nature du noyau externe ?",
+      "options": ["Liquide", "Solide", "Semi-solide", "Gazeux"],
+      "reponse": "Liquide",
+      "explication": "Le noyau externe est un métal en fusion, principalement fer et nickel liquide."
+    },
+    {
+      "question": "Quel type d’onde est la première à être détectée lors d’un séisme ?",
+      "options": ["Onde P", "Onde S", "Onde de surface", "Onde L"],
+      "reponse": "Onde P",
+      "explication": "Les ondes P sont les plus rapides et arrivent en premier aux sismomètres."
+    },
+    {
+      "question": "Pourquoi la croûte océanique est-elle plus dense que la croûte continentale ?",
+      "options": ["Elle est principalement basaltique", "Elle est plus épaisse", "Elle contient plus de silice", "Elle est plus vieille"],
+      "reponse": "Elle est principalement basaltique",
+      "explication": "Le basalte est plus dense que le granite qui compose la croûte continentale."
+    },
+    {
+      "question": "Quel phénomène explique la formation de la zone d’ombre des ondes P ?",
+      "options": ["Réfraction des ondes au passage du noyau externe", "Absorption par la croûte", "Diffraction des ondes à la surface", "Réflexion sur la surface terrestre"],
+      "reponse": "Réfraction des ondes au passage du noyau externe",
+      "explication": "Les ondes P sont déviées par le changement de milieu entre manteau et noyau liquide."
+    },
+    {
+      "question": "La discontinuité de Gutenberg marque la limite entre :",
+      "options": ["Le manteau et le noyau externe", "La croûte et le manteau", "Le noyau externe et interne", "La lithosphère et l’asthénosphère"],
+      "reponse": "Le manteau et le noyau externe",
+      "explication": "C’est la frontière entre la partie solide et liquide de la Terre."
+    },
+    {
+      "question": "La lithosphère est composée de :",
+      "options": ["Croûte et manteau supérieur rigide", "Noyau externe", "Noyau interne", "Asthénosphère"],
+      "reponse": "Croûte et manteau supérieur rigide",
+      "explication": "Elle forme la couche rigide qui flotte sur l’asthénosphère ductile."
+    },
+    {
+      "question": "Qu’indiquent les variations de la vitesse des ondes sismiques dans la Terre ?",
+      "options": ["Des changements de composition et d’état des roches", "Une augmentation de la température", "Une augmentation de la pression", "Un changement de profondeur uniquement"],
+      "reponse": "Des changements de composition et d’état des roches",
+      "explication": "Les ondes accélèrent ou ralentissent selon les matériaux traversés."
+    },
+    {
+      "question": "Quel rôle jouent les ondes S dans l’étude du noyau terrestre ?",
+      "options": ["Elles confirment que le noyau externe est liquide", "Elles indiquent que le noyau est solide", "Elles ne sont pas utilisées", "Elles traversent le noyau externe"],
+      "reponse": "Elles confirment que le noyau externe est liquide",
+      "explication": "L’absence d’ondes S dans le noyau externe montre qu’il est liquide."
+    },
+    {
+      "question": "La croûte terrestre est :",
+      "options": ["La couche la plus fine et la plus légère", "Le noyau de la Terre", "Le manteau supérieur", "Une couche liquide"],
+      "reponse": "La couche la plus fine et la plus légère",
+      "explication": "Elle constitue la surface terrestre et est relativement mince."
+    },
+    {
+      "question": "Quel phénomène est à l’origine des séismes ?",
+      "options": ["Libération brusque d’énergie par déplacement de failles", "Mouvements des océans", "Changements climatiques", "Activité solaire"],
+      "reponse": "Libération brusque d’énergie par déplacement de failles",
+      "explication": "Les séismes résultent des mouvements rapides le long des failles."
+    },
+    {
+      "question": "La vitesse des ondes P est généralement :",
+      "options": ["Plus élevée que celle des ondes S", "Inférieure à celle des ondes S", "Égale à celle des ondes S", "Nulle dans le noyau"],
+      "reponse": "Plus élevée que celle des ondes S",
+      "explication": "Les ondes P sont les plus rapides et arrivent en premier."
+    },
+    {
+      "question": "La discontinuité de Lehmann sépare :",
+      "options": ["Noyau interne solide et noyau externe liquide", "Croûte et manteau", "Lithosphère et asthénosphère", "Manteau supérieur et inférieur"],
+      "reponse": "Noyau interne solide et noyau externe liquide",
+      "explication": "Elle marque la frontière entre les deux parties du noyau."
+    },
+    {
+      "question": "Quel est le rôle des ondes de surface lors d’un séisme ?",
+      "options": ["Provoquer la plupart des dégâts", "Traverser le noyau", "Se propager uniquement dans le noyau", "Aucun rôle particulier"],
+      "reponse": "Provoquer la plupart des dégâts",
+      "explication": "Les ondes de surface causent les secousses ressenties."
+    },
+    {
+      "question": "Pourquoi le manteau est-il ductile ?",
+      "options": ["Parce qu’il est soumis à haute température et pression", "Parce qu’il est liquide", "Parce qu’il est composé de métaux", "Parce qu’il est froid"],
+      "reponse": "Parce qu’il est soumis à haute température et pression",
+      "explication": "Ces conditions permettent au manteau de se déformer lentement."
+    },
+    {
+      "question": "Qu’est-ce qu’une discontinuité sismique ?",
+      "options": ["Une limite entre deux couches aux propriétés différentes", "Une faille géologique", "Une zone d’ombre", "Une zone de tremblement de terre"],
+      "reponse": "Une limite entre deux couches aux propriétés différentes",
+      "explication": "Elle correspond à un changement brutal dans la vitesse des ondes."
+    },
+    {
+      "question": "Le noyau terrestre est principalement composé de :",
+      "options": ["Fer et nickel", "Silicium et oxygène", "Aluminium et magnésium", "Carbone et hydrogène"],
+      "reponse": "Fer et nickel",
+      "explication": "Ces éléments lourds dominent la composition du noyau."
+    },
+    {
+      "question": "Quelle méthode est utilisée pour localiser l’épicentre d’un séisme ?",
+      "options": ["Analyse des temps d’arrivée des ondes P et S en plusieurs stations", "Mesure des températures de surface", "Observation des dégâts", "Détection des ondes radio"],
+      "reponse": "Analyse des temps d’arrivée des ondes P et S en plusieurs stations",
+      "explication": "La triangulation permet de déterminer le point d’origine du séisme."
+    }
+  ]
+}

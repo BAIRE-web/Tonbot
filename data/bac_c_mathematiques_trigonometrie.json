@@ -1,0 +1,280 @@
+{
+  "qcm": [
+    {
+      "question": "Résoudre sin x = 1/2 pour x dans [0, 2π].",
+      "options": ["x = π/6 ou x = 5π/6", "x = π/4 ou x = 3π/4", "x = π/3 ou x = 2π/3", "x = 0 ou x = π"],
+      "reponse": "x = π/6 ou x = 5π/6",
+      "explication": "Le sinus vaut 1/2 en π/6 et 5π/6 dans [0, 2π]."
+    },
+    {
+      "question": "Résoudre cos x = −1 pour x dans ℝ.",
+      "options": ["x = π + 2kπ", "x = 2kπ", "x = π/2 + kπ", "x = kπ"],
+      "reponse": "x = π + 2kπ",
+      "explication": "Cosinus vaut −1 pour x = π + 2kπ."
+    },
+    {
+      "question": "Résoudre tan x = 0 dans ℝ.",
+      "options": ["x = kπ", "x = π/2 + kπ", "x = k2π", "x = π/4 + kπ"],
+      "reponse": "x = kπ",
+      "explication": "Tangente est nulle aux multiples entiers de π."
+    },
+    {
+      "question": "Calculer sin²(π/4) + cos²(π/4).",
+      "options": ["1", "0", "√2", "1/2"],
+      "reponse": "1",
+      "explication": "Identité fondamentale sin²x + cos²x = 1."
+    },
+    {
+      "question": "Simplifier cos 2x en fonction de sin²x.",
+      "options": ["cos 2x = 1 − 2 sin²x", "cos 2x = 2 sin²x − 1", "cos 2x = sin²x − cos²x", "cos 2x = sin²x + cos²x"],
+      "reponse": "cos 2x = 1 − 2 sin²x",
+      "explication": "Formule d’angle double pour cos 2x."
+    },
+    {
+      "question": "Résoudre sin 2x = 0 pour x dans [0, π].",
+      "options": ["x = 0, π/2, π", "x = π/4, 3π/4", "x = π/6, 5π/6", "x = π/3, 2π/3"],
+      "reponse": "x = 0, π/2, π",
+      "explication": "sin 2x = 0 quand 2x = kπ → x = kπ/2."
+    },
+    {
+      "question": "Exprimer tan 2x en fonction de tan x.",
+      "options": ["tan 2x = 2 tan x / (1 − tan²x)", "tan 2x = tan²x", "tan 2x = 1 / tan x", "tan 2x = tan x / 2"],
+      "reponse": "tan 2x = 2 tan x / (1 − tan²x)",
+      "explication": "Formule de l’angle double pour la tangente."
+    },
+    {
+      "question": "Quelle est la dérivée de cos x ?",
+      "options": ["−sin x", "sin x", "cos x", "−cos x"],
+      "reponse": "−sin x",
+      "explication": "La dérivée du cosinus est −sin x."
+    },
+    {
+      "question": "Résoudre cos x = 0 pour x dans [0, 2π].",
+      "options": ["x = π/2, 3π/2", "x = 0, π", "x = π, 2π", "x = π/4, 3π/4"],
+      "reponse": "x = π/2, 3π/2",
+      "explication": "Le cosinus est nul aux points π/2 et 3π/2."
+    },
+    {
+      "question": "Quelle est la valeur de sin(0) ?",
+      "options": ["0", "1", "−1", "π"],
+      "reponse": "0",
+      "explication": "sin 0 = 0."
+    },
+    {
+      "question": "Résoudre l’équation sin x = −1/2 dans [0, 2π].",
+      "options": ["x = 7π/6, 11π/6", "x = π/6, 5π/6", "x = π/4, 3π/4", "x = π/3, 2π/3"],
+      "reponse": "x = 7π/6, 11π/6",
+      "explication": "Le sinus vaut −1/2 à ces deux angles."
+    },
+    {
+      "question": "Quel est le domaine de définition de tan x ?",
+      "options": ["ℝ \\ {π/2 + kπ}", "ℝ", "ℝ \\ {kπ}", "ℝ \\ {0}"],
+      "reponse": "ℝ \\ {π/2 + kπ}",
+      "explication": "La tangente est indéfinie aux points où cos x = 0."
+    },
+    {
+      "question": "Formule pour transformer sin a cos b en somme :",
+      "options": ["(sin(a + b) + sin(a − b)) / 2", "(cos(a + b) + cos(a − b)) / 2", "sin(a + b) − sin(a − b)", "cos(a + b) − cos(a − b)"],
+      "reponse": "(sin(a + b) + sin(a − b)) / 2",
+      "explication": "Identité produit-somme utile en trigonométrie."
+    },
+    {
+      "question": "Résoudre l’équation tan x = √3 dans [0, 2π].",
+      "options": ["x = π/3, 4π/3", "x = π/6, 7π/6", "x = π/4, 5π/4", "x = π/2, 3π/2"],
+      "reponse": "x = π/3, 4π/3",
+      "explication": "Tangente vaut √3 en ces points."
+    },
+    {
+      "question": "Calculer cos²(π/4).",
+      "options": ["1/2", "1", "0", "√2/2"],
+      "reponse": "1/2",
+      "explication": "cos π/4 = √2/2, son carré est 1/2."
+    },
+    {
+      "question": "Quelle est la valeur de tan(π/4) ?",
+      "options": ["1", "0", "√3", "−1"],
+      "reponse": "1",
+      "explication": "tan π/4 = 1."
+    },
+    {
+      "question": "Formule pour cos(a + b) :",
+      "options": ["cos a cos b − sin a sin b", "cos a sin b + sin a cos b", "sin a sin b − cos a cos b", "sin a cos b − cos a sin b"],
+      "reponse": "cos a cos b − sin a sin b",
+      "explication": "Formule de l’addition pour le cosinus."
+    },
+    {
+      "question": "Résoudre sin x = cos x pour x dans [0, 2π].",
+      "options": ["x = π/4, 5π/4", "x = π/2, 3π/2", "x = 0, π", "x = π/3, 4π/3"],
+      "reponse": "x = π/4, 5π/4",
+      "explication": "sin x = cos x ⇔ tan x = 1."
+    },
+    {
+      "question": "Quelle est la dérivée de tan x ?",
+      "options": ["1 / cos²x", "−1 / sin²x", "sin x", "cos x"],
+      "reponse": "1 / cos²x",
+      "explication": "La dérivée de tan x est sec²x = 1/cos²x."
+    },
+    {
+      "question": "Résoudre cos 2x = 0 dans [0, 2π].",
+      "options": ["x = π/4, 3π/4, 5π/4, 7π/4", "x = 0, π/2, π, 3π/2", "x = π/3, 2π/3, 4π/3, 5π/3", "x = π/6, 5π/6, 7π/6, 11π/6"],
+      "reponse": "x = π/4, 3π/4, 5π/4, 7π/4",
+      "explication": "cos 2x = 0 pour 2x = π/2 + kπ."
+    },
+    {
+      "question": "Quelle est l’identité fondamentale en trigonométrie ?",
+      "options": ["sin²x + cos²x = 1", "sin x + cos x = 1", "sin x × cos x = 1", "sin²x − cos²x = 1"],
+      "reponse": "sin²x + cos²x = 1",
+      "explication": "Elle lie le carré du sinus et du cosinus d’un même angle."
+    },
+    {
+      "question": "Quelle est la formule de l’angle double pour le sinus ?",
+      "options": ["sin 2x = 2 sin x cos x", "sin 2x = sin²x + cos²x", "sin 2x = cos 2x", "sin 2x = 2 cos²x"],
+      "reponse": "sin 2x = 2 sin x cos x",
+      "explication": "C’est la formule qui exprime le sinus du double d’un angle."
+    },
+    {
+      "question": "Quelle est la formule de l’angle double pour le cosinus ?",
+      "options": ["cos 2x = cos²x − sin²x", "cos 2x = sin²x + cos²x", "cos 2x = 2 sin x cos x", "cos 2x = 1 − 2 sin²x"],
+      "reponse": "cos 2x = cos²x − sin²x",
+      "explication": "On peut aussi l’écrire cos 2x = 2 cos²x − 1 ou 1 − 2 sin²x."
+    },
+    {
+      "question": "Quelle est la formule de transformation pour tan(x) en fonction de sin et cos ?",
+      "options": ["tan x = sin x / cos x", "tan x = cos x / sin x", "tan x = sin²x + cos²x", "tan x = sin x × cos x"],
+      "reponse": "tan x = sin x / cos x",
+      "explication": "La tangente est le rapport sinus sur cosinus."
+    },
+    {
+      "question": "Quelle est la période de la fonction sin x ?",
+      "options": ["2π", "π", "π/2", "4π"],
+      "reponse": "2π",
+      "explication": "sin x est périodique de période 2π."
+    },
+    {
+      "question": "Quelle est la période de la fonction tan x ?",
+      "options": ["π", "2π", "π/2", "4π"],
+      "reponse": "π",
+      "explication": "tan x est périodique de période π."
+    },
+    {
+      "question": "Résoudre sin x = 0 pour x dans ℝ.",
+      "options": ["x = kπ", "x = π/2 + kπ", "x = π/4 + kπ", "x = k2π"],
+      "reponse": "x = kπ",
+      "explication": "Le sinus est nul pour les multiples entiers de π."
+    },
+    {
+      "question": "Résoudre cos x = 0 pour x dans ℝ.",
+      "options": ["x = π/2 + kπ", "x = kπ", "x = k2π", "x = π + k2π"],
+      "reponse": "x = π/2 + kπ",
+      "explication": "Le cosinus est nul aux points π/2 + kπ."
+    },
+    {
+      "question": "Résoudre tan x = 1 pour x dans ℝ.",
+      "options": ["x = π/4 + kπ", "x = kπ", "x = π/2 + kπ", "x = k2π"],
+      "reponse": "x = π/4 + kπ",
+      "explication": "La tangente vaut 1 en π/4 + kπ."
+    },
+    {
+      "question": "Formule de la somme des sinus : sin a + sin b = ?",
+      "options": ["2 sin((a + b)/2) cos((a − b)/2)", "sin(a + b)", "cos a + cos b", "2 cos((a + b)/2) sin((a − b)/2)"],
+      "reponse": "2 sin((a + b)/2) cos((a − b)/2)",
+      "explication": "C’est une identité de somme à produit."
+    },
+    {
+      "question": "Formule de la différence des cosinus : cos a − cos b = ?",
+      "options": ["−2 sin((a + b)/2) sin((a − b)/2)", "2 cos((a + b)/2) sin((a − b)/2)", "cos(a − b)", "sin a − sin b"],
+      "reponse": "−2 sin((a + b)/2) sin((a − b)/2)",
+      "explication": "Identité utile pour transformer une différence en produit."
+    },
+    {
+      "question": "Quelle est la dérivée de sin x ?",
+      "options": ["cos x", "−cos x", "−sin x", "sin x"],
+      "reponse": "cos x",
+      "explication": "La dérivée du sinus est le cosinus."
+    },
+    {
+      "question": "Quelle est la dérivée de cos x ?",
+      "options": ["−sin x", "sin x", "cos x", "−cos x"],
+      "reponse": "−sin x",
+      "explication": "La dérivée du cosinus est −sin x."
+    },
+    {
+      "question": "Quelle est la dérivée de tan x ?",
+      "options": ["1 / cos²x", "−1 / sin²x", "sin x", "cos x"],
+      "reponse": "1 / cos²x",
+      "explication": "La dérivée de tan x est sec²x = 1/cos²x."
+    },
+    {
+      "question": "Résoudre sin 2x = 0.",
+      "options": ["x = kπ/2", "x = kπ", "x = k2π", "x = π/2 + kπ"],
+      "reponse": "x = kπ/2",
+      "explication": "sin 2x nul quand 2x = kπ."
+    },
+    {
+      "question": "Résoudre cos 2x = 1.",
+      "options": ["x = kπ", "x = π/2 + kπ", "x = kπ/2", "x = k2π"],
+      "reponse": "x = kπ",
+      "explication": "cos 2x = 1 lorsque 2x est un multiple de 2π."
+    },
+    {
+      "question": "Résoudre tan x = 0.",
+      "options": ["x = kπ", "x = π/2 + kπ", "x = k2π", "x = kπ/2"],
+      "reponse": "x = kπ",
+      "explication": "La tangente est nulle aux multiples entiers de π."
+    },
+    {
+      "question": "Quelle est la valeur de sin(π/6) ?",
+      "options": ["1/2", "√3/2", "1", "0"],
+      "reponse": "1/2",
+      "explication": "sin π/6 vaut 0,5."
+    },
+    {
+      "question": "Quelle est la valeur de cos(π/3) ?",
+      "options": ["1/2", "√3/2", "1", "0"],
+      "reponse": "1/2",
+      "explication": "cos π/3 vaut 0,5."
+    },
+    {
+      "question": "Quelle est la formule de l’angle moitié pour sin x ?",
+      "options": ["sin²(x/2) = (1 − cos x)/2", "sin²(x/2) = (1 + cos x)/2", "sin²(x/2) = (1 − sin x)/2", "sin²(x/2) = (1 + sin x)/2"],
+      "reponse": "sin²(x/2) = (1 − cos x)/2",
+      "explication": "Formule utilisée pour exprimer le sinus de l’angle moitié."
+    },
+    {
+      "question": "Quelle est la formule de l’angle moitié pour cos x ?",
+      "options": ["cos²(x/2) = (1 + cos x)/2", "cos²(x/2) = (1 − cos x)/2", "cos²(x/2) = (1 + sin x)/2", "cos²(x/2) = (1 − sin x)/2"],
+      "reponse": "cos²(x/2) = (1 + cos x)/2",
+      "explication": "Formule utilisée pour exprimer le cosinus de l’angle moitié."
+    },
+    {
+      "question": "Résoudre cos x = 1/2 pour x dans [0, 2π].",
+      "options": ["x = π/3 ou x = 5π/3", "x = π/4 ou x = 3π/4", "x = π/6 ou x = 11π/6", "x = π/2 ou x = 3π/2"],
+      "reponse": "x = π/3 ou x = 5π/3",
+      "explication": "Le cosinus vaut 1/2 en ces deux points."
+    },
+    {
+      "question": "Quelle est la période de la fonction cos x ?",
+      "options": ["2π", "π", "π/2", "4π"],
+      "reponse": "2π",
+      "explication": "Le cosinus est périodique de période 2π."
+    },
+    {
+      "question": "Quelle est la relation entre sin(−x) et sin x ?",
+      "options": ["sin(−x) = −sin x", "sin(−x) = sin x", "sin(−x) = cos x", "sin(−x) = −cos x"],
+      "reponse": "sin(−x) = −sin x",
+      "explication": "Le sinus est une fonction impaire."
+    },
+    {
+      "question": "Quelle est la relation entre cos(−x) et cos x ?",
+      "options": ["cos(−x) = cos x", "cos(−x) = −cos x", "cos(−x) = −sin x", "cos(−x) = sin x"],
+      "reponse": "cos(−x) = cos x",
+      "explication": "Le cosinus est une fonction paire."
+    },
+    {
+      "question": "Quelle est la formule pour transformer un produit sin a cos b ?",
+      "options": ["(sin(a + b) + sin(a − b)) / 2", "(cos(a + b) + cos(a − b)) / 2", "sin(a + b) − sin(a − b)", "cos(a + b) − cos(a − b)"],
+      "reponse": "(sin(a + b) + sin(a − b)) / 2",
+      "explication": "Identité de produit à somme."
+    }
+  ]
+}

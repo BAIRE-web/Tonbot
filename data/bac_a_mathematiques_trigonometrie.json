@@ -1,0 +1,286 @@
+{
+  "qcm": [
+    {
+      "question": "Le sinus d’un angle aigu dans un triangle rectangle est :",
+      "options": ["Le rapport du côté opposé à l’hypoténuse", "Le rapport du côté adjacent à l’hypoténuse", "Le rapport de l’hypoténuse au côté opposé", "Le rapport du côté adjacent au côté opposé"],
+      "reponse": "Le rapport du côté opposé à l’hypoténuse",
+      "explication": "sin θ = côté opposé / hypoténuse."
+    },
+    {
+      "question": "Le cosinus d’un angle aigu est :",
+      "options": ["Le rapport du côté adjacent à l’hypoténuse", "Le rapport du côté opposé à l’hypoténuse", "Le rapport de l’hypoténuse au côté adjacent", "Le rapport du côté opposé au côté adjacent"],
+      "reponse": "Le rapport du côté adjacent à l’hypoténuse",
+      "explication": "cos θ = côté adjacent / hypoténuse."
+    },
+    {
+      "question": "La tangente d’un angle aigu est :",
+      "options": ["Le rapport du côté opposé au côté adjacent", "Le rapport du côté adjacent au côté opposé", "Le rapport de l’hypoténuse au côté opposé", "Le rapport du côté opposé à l’hypoténuse"],
+      "reponse": "Le rapport du côté opposé au côté adjacent",
+      "explication": "tan θ = côté opposé / côté adjacent."
+    },
+    {
+      "question": "Dans un triangle rectangle, la relation fondamentale est :",
+      "options": ["sin² θ + cos² θ = 1", "sin θ + cos θ = 1", "sin θ × cos θ = 1", "tan² θ + 1 = 0"],
+      "reponse": "sin² θ + cos² θ = 1",
+      "explication": "Identité trigonométrique fondamentale."
+    },
+    {
+      "question": "Pour un angle θ, tan θ peut s’exprimer comme :",
+      "options": ["sin θ / cos θ", "cos θ / sin θ", "1 / sin θ", "1 / cos θ"],
+      "reponse": "sin θ / cos θ",
+      "explication": "tan θ = sin θ ÷ cos θ."
+    },
+    {
+      "question": "Le sinus de 90° est :",
+      "options": ["1", "0", "0.5", "√2/2"],
+      "reponse": "1",
+      "explication": "sin 90° = 1."
+    },
+    {
+      "question": "Le cosinus de 0° est :",
+      "options": ["1", "0", "0.5", "√2/2"],
+      "reponse": "1",
+      "explication": "cos 0° = 1."
+    },
+    {
+      "question": "Le tangente de 45° est :",
+      "options": ["1", "0", "√3", "√2"],
+      "reponse": "1",
+      "explication": "tan 45° = 1."
+    },
+    {
+      "question": "Quel est l’angle associé au sinus 0.5 ?",
+      "options": ["30°", "45°", "60°", "90°"],
+      "reponse": "30°",
+      "explication": "sin 30° = 0.5."
+    },
+    {
+      "question": "Le cosinus de 60° est :",
+      "options": ["0.5", "0", "√3/2", "1"],
+      "reponse": "0.5",
+      "explication": "cos 60° = 0.5."
+    },
+    {
+      "question": "Le sinus d’un angle négatif −θ est :",
+      "options": ["−sin θ", "sin θ", "cos θ", "−cos θ"],
+      "reponse": "−sin θ",
+      "explication": "sin(−θ) = −sin θ (fonction impaire)."
+    },
+    {
+      "question": "Le cosinus d’un angle négatif −θ est :",
+      "options": ["cos θ", "−cos θ", "sin θ", "−sin θ"],
+      "reponse": "cos θ",
+      "explication": "cos(−θ) = cos θ (fonction paire)."
+    },
+    {
+      "question": "Le domaine principal de définition des fonctions sinus, cosinus et tangente est :",
+      "options": ["ℝ (tous les réels)", "ℝ sauf certains points", "ℕ", "ℤ"],
+      "reponse": "ℝ (tous les réels)",
+      "explication": "sin et cos sont définis sur ℝ, tan est définie sur ℝ sauf π/2 + kπ."
+    },
+    {
+      "question": "La tangente n’est pas définie pour :",
+      "options": ["90° + k×180°", "0°", "45°", "180°"],
+      "reponse": "90° + k×180°",
+      "explication": "tan θ = sin θ / cos θ, non définie où cos θ = 0."
+    },
+    {
+      "question": "L’identité sin(2θ) s’écrit :",
+      "options": ["2 sin θ cos θ", "sin² θ − cos² θ", "sin² θ + cos² θ", "2 cos² θ − 1"],
+      "reponse": "2 sin θ cos θ",
+      "explication": "Formule de l’angle double pour le sinus."
+    },
+    {
+      "question": "L’identité cos(2θ) s’écrit :",
+      "options": ["cos² θ − sin² θ", "2 sin θ cos θ", "sin² θ + cos² θ", "sin(2θ)"],
+      "reponse": "cos² θ − sin² θ",
+      "explication": "Formule de l’angle double pour le cosinus."
+    },
+    {
+      "question": "Pour tout angle θ, on a :",
+      "options": ["tan θ = sin θ / cos θ", "tan θ = cos θ / sin θ", "tan θ = 1", "tan θ = 0"],
+      "reponse": "tan θ = sin θ / cos θ",
+      "explication": "Définition de la tangente."
+    },
+    {
+      "question": "Le sinus de 0° est :",
+      "options": ["0", "1", "0.5", "−1"],
+      "reponse": "0",
+      "explication": "sin 0° = 0."
+    },
+    {
+      "question": "Le cosinus de 90° est :",
+      "options": ["0", "1", "−1", "0.5"],
+      "reponse": "0",
+      "explication": "cos 90° = 0."
+    },
+    {
+      "question": "Le sinus d’un angle obtus est :",
+      "options": ["Positif", "Négatif", "Zéro", "Indéfini"],
+      "reponse": "Positif",
+      "explication": "Pour un angle entre 90° et 180°, le sinus est positif."
+    },
+    {
+      "question": "Le cosinus d’un angle obtus est :",
+      "options": ["Négatif", "Positif", "Zéro", "Indéfini"],
+      "reponse": "Négatif",
+      "explication": "Pour un angle entre 90° et 180°, le cosinus est négatif."
+    },
+    {
+      "question": "La tangente d’un angle aigu est :",
+      "options": ["Positive", "Négative", "Zéro", "Indéfinie"],
+      "reponse": "Positive",
+      "explication": "Dans le premier quadrant, la tangente est positive."
+    },
+    {
+      "question": "La période des fonctions sinus et cosinus est :",
+      "options": ["360°", "180°", "90°", "720°"],
+      "reponse": "360°",
+      "explication": "Les fonctions sinus et cosinus sont périodiques de période 360° (ou 2π radians)."
+    },
+    {
+      "question": "La période de la fonction tangente est :",
+      "options": ["180°", "360°", "90°", "720°"],
+      "reponse": "180°",
+      "explication": "La fonction tangente est périodique de période 180° (ou π radians)."
+    },
+    {
+      "question": "Quelle est la valeur de sin 45° ?",
+      "options": ["√2/2", "1", "0", "0.5"],
+      "reponse": "√2/2",
+      "explication": "sin 45° = √2/2."
+    },
+    {
+      "question": "Quelle est la valeur de cos 45° ?",
+      "options": ["√2/2", "1", "0", "0.5"],
+      "reponse": "√2/2",
+      "explication": "cos 45° = √2/2."
+    },
+    {
+      "question": "Quelle est la valeur de tan 0° ?",
+      "options": ["0", "1", "Indéfini", "∞"],
+      "reponse": "0",
+      "explication": "tan 0° = 0."
+    },
+    {
+      "question": "Dans un triangle rectangle, si l’angle aigu mesure 30° et l’hypoténuse 10 cm, quelle est la longueur du côté opposé ?",
+      "options": ["5 cm", "10 cm", "8.7 cm", "3 cm"],
+      "reponse": "5 cm",
+      "explication": "Côté opposé = hypoténuse × sin 30° = 10 × 0.5 = 5 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, l’angle aigu mesure 60°, et le côté adjacent à cet angle mesure 6 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["12 cm", "3 cm", "6 cm", "10.4 cm"],
+      "reponse": "12 cm",
+      "explication": "Côté adjacent = hypoténuse × cos 60°, donc hypoténuse = 6 / 0.5 = 12 cm."
+    },
+    {
+      "question": "Si tan θ = 1, quelle est la valeur de θ en degrés ?",
+      "options": ["45°", "30°", "60°", "90°"],
+      "reponse": "45°",
+      "explication": "tan 45° = 1."
+    },
+    {
+      "question": "Calculer cos 45° × sin 45°.",
+      "options": ["0.5", "1", "√2", "0"],
+      "reponse": "0.5",
+      "explication": "cos 45° = sin 45° = √2/2, donc produit = (√2/2)² = 0.5."
+    },
+    {
+      "question": "Dans un triangle rectangle, si le côté opposé à l’angle θ mesure 7 cm et l’angle θ est 35°, quelle est la longueur de l’hypoténuse ?",
+      "options": ["12.2 cm", "10 cm", "8 cm", "14 cm"],
+      "reponse": "12.2 cm",
+      "explication": "Hypoténuse = côté opposé / sin θ = 7 / sin 35° ≈ 7 / 0.574 = 12.2 cm."
+    },
+    {
+      "question": "Si sin θ = 0.6, quelle est la valeur approchée de cos θ sachant que θ est aigu ?",
+      "options": ["0.8", "0.5", "0.6", "0.4"],
+      "reponse": "0.8",
+      "explication": "sin² θ + cos² θ = 1 ⇒ cos θ = √(1 − 0.6²) = √(1 − 0.36) = √0.64 = 0.8."
+    },
+    {
+      "question": "Calculer tan 30°.",
+      "options": ["√3/3", "√3", "1", "√2/2"],
+      "reponse": "√3/3",
+      "explication": "tan 30° = 1/√3 ≈ √3/3."
+    },
+    {
+      "question": "Dans un triangle rectangle, la longueur du côté adjacent est 5 cm, l’angle θ est 53°. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["8.3 cm", "7 cm", "5 cm", "10 cm"],
+      "reponse": "8.3 cm",
+      "explication": "Hypoténuse = côté adjacent / cos θ = 5 / cos 53° ≈ 5 / 0.6018 = 8.3 cm."
+    },
+    {
+      "question": "Si cos θ = 0.5, quelle est la valeur de θ ?",
+      "options": ["60°", "30°", "45°", "90°"],
+      "reponse": "60°",
+      "explication": "cos 60° = 0.5."
+    },
+    {
+      "question": "Quelle est la valeur de sin 90° ?",
+      "options": ["1", "0", "0.5", "−1"],
+      "reponse": "1",
+      "explication": "sin 90° = 1."
+    },
+    {
+      "question": "Si l’angle θ mesure 0°, quelle est la valeur de tan θ ?",
+      "options": ["0", "1", "Indéfini", "∞"],
+      "reponse": "0",
+      "explication": "tan 0° = 0."
+    },
+    {
+      "question": "Dans un triangle rectangle, si l’angle aigu est 45°, que vaut sin 45° ?",
+      "options": ["√2/2", "1", "0", "0.5"],
+      "reponse": "√2/2",
+      "explication": "sin 45° = √2/2."
+    },
+    {
+      "question": "Si tan θ = √3, quelle est la valeur de θ ?",
+      "options": ["60°", "30°", "45°", "90°"],
+      "reponse": "60°",
+      "explication": "tan 60° = √3."
+    },
+    {
+      "question": "Pour un angle θ de 90°, quelle est la valeur de cos θ ?",
+      "options": ["0", "1", "−1", "0.5"],
+      "reponse": "0",
+      "explication": "cos 90° = 0."
+    },
+    {
+      "question": "Dans un triangle rectangle, si l’angle θ est 60°, et l’hypoténuse mesure 8 cm, quelle est la longueur du côté adjacent ?",
+      "options": ["4 cm", "6 cm", "8 cm", "3 cm"],
+      "reponse": "4 cm",
+      "explication": "Côté adjacent = hypoténuse × cos 60° = 8 × 0.5 = 4 cm."
+    },
+    {
+      "question": "Si sin θ = 0.866, quelle est la valeur approchée de θ en degrés ?",
+      "options": ["60°", "30°", "45°", "90°"],
+      "reponse": "60°",
+      "explication": "sin 60° ≈ 0.866."
+    },
+    {
+      "question": "Quelle est la relation entre tan θ, sin θ et cos θ ?",
+      "options": ["tan θ = sin θ / cos θ", "tan θ = cos θ / sin θ", "tan θ = sin θ × cos θ", "tan θ = sin² θ + cos² θ"],
+      "reponse": "tan θ = sin θ / cos θ",
+      "explication": "Définition de la tangente."
+    },
+    {
+      "question": "Si cos θ = 0.707, quelle est la valeur approchée de θ ?",
+      "options": ["45°", "30°", "60°", "90°"],
+      "reponse": "45°",
+      "explication": "cos 45° ≈ 0.707."
+    },
+    {
+      "question": "Calculer sin 0°.",
+      "options": ["0", "1", "−1", "0.5"],
+      "reponse": "0",
+      "explication": "sin 0° = 0."
+    },
+    {
+      "question": "Quelle est la valeur de tan 0° ?",
+      "options": ["0", "1", "Indéfini", "∞"],
+      "reponse": "0",
+      "explication": "tan 0° = 0."
+    }
+  ]
+}

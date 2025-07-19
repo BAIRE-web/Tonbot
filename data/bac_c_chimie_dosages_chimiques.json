@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "On titre 20 mL d’HCl avec une solution de NaOH de concentration 0,1 mol·L⁻¹. Le volume équivalent est 25 mL. Quelle est la concentration de HCl ?",
+      "options": ["0,125 mol·L⁻¹", "0,08 mol·L⁻¹", "0,10 mol·L⁻¹", "0,05 mol·L⁻¹"],
+      "reponse": "0,125 mol·L⁻¹",
+      "explication": "n(HCl) = n(NaOH) → C₁·V₁ = C₂·V₂ → C₁ = 0,1×25 / 20 = 0,125 mol·L⁻¹."
+    },
+    {
+      "question": "Lors d’un titrage acide/base, la courbe pH = f(V) présente une forte variation brutale du pH. Cela correspond à :",
+      "options": ["L’équivalence", "La neutralisation incomplète", "Un excès de base", "Un point de demi-équivalence"],
+      "reponse": "L’équivalence",
+      "explication": "À l’équivalence, les quantités de réactifs sont stœchiométriques et le pH varie brusquement."
+    },
+    {
+      "question": "Lors d’un titrage conductimétrique, la conductivité diminue puis augmente. Cela signifie :",
+      "options": ["Remplacement d’ions conducteurs par d’autres", "Evaporation de la solution", "Dilution excessive", "Précipitation"],
+      "reponse": "Remplacement d’ions conducteurs par d’autres",
+      "explication": "Les ions H⁺ sont remplacés par Na⁺, moins conducteurs, puis excès de Na⁺ fait remonter la conductivité."
+    },
+    {
+      "question": "On dose une solution d’ion Fe²⁺ par KMnO₄. Quelle est la réaction principale ?",
+      "options": ["Oxydation de Fe²⁺ en Fe³⁺", "Réduction de Fe²⁺ en Fe", "Oxydation de MnO₄⁻", "Formation d’un précipité"],
+      "reponse": "Oxydation de Fe²⁺ en Fe³⁺",
+      "explication": "Fe²⁺ est oxydé en Fe³⁺ tandis que MnO₄⁻ est réduit."
+    },
+    {
+      "question": "Dans un titrage par étalonnage, l’absorbance mesurée est 0,6. Si la courbe d’étalonnage est A = 2C, quelle est la concentration ?",
+      "options": ["0,30 mol·L⁻¹", "1,20 mol·L⁻¹", "0,12 mol·L⁻¹", "0,60 mol·L⁻¹"],
+      "reponse": "0,30 mol·L⁻¹",
+      "explication": "A = 2C → C = A/2 = 0,6 / 2 = 0,30 mol·L⁻¹."
+    },
+    {
+      "question": "Dans un titrage rédox, le réactif titrant doit être :",
+      "options": ["Un oxydant ou un réducteur connu", "Toujours un acide", "Coloré obligatoirement", "Insoluble"],
+      "reponse": "Un oxydant ou un réducteur connu",
+      "explication": "Il faut que la réaction soit rapide et connue pour établir le point d’équivalence."
+    },
+    {
+      "question": "Le point d’équivalence dans un titrage se repère grâce :",
+      "options": ["À un changement brusque de pH ou de conductivité", "À une baisse de température", "À l’odeur", "À l’ébullition"],
+      "reponse": "À un changement brusque de pH ou de conductivité",
+      "explication": "L’équivalence provoque un saut de pH ou de conductivité facilement détectable."
+    },
+    {
+      "question": "Dans le dosage du vinaigre par la soude, on dose :",
+      "options": ["L’acide acétique", "Le sel", "L’eau", "Le glucose"],
+      "reponse": "L’acide acétique",
+      "explication": "Le vinaigre contient de l’acide acétique CH₃COOH, titré par NaOH."
+    },
+    {
+      "question": "Lors d’un titrage acido-basique, on utilise une pipette jaugée pour :",
+      "options": ["Prélever un volume précis de la solution titrée", "Verser rapidement le titrant", "Agiter la solution", "Mesurer le pH"],
+      "reponse": "Prélever un volume précis de la solution titrée",
+      "explication": "La pipette jaugée permet un prélèvement précis et reproductible."
+    },
+    {
+      "question": "La burette est utilisée pour :",
+      "options": ["Verser lentement le titrant", "Remuer la solution", "Réchauffer la solution", "Observer un précipité"],
+      "reponse": "Verser lentement le titrant",
+      "explication": "Elle permet un ajout contrôlé et mesuré du réactif titrant."
+    },
+    {
+      "question": "Si on dépasse le volume équivalent, alors :",
+      "options": ["On a un excès de titrant", "La solution est trop froide", "On annule la réaction", "La réaction s’inverse"],
+      "reponse": "On a un excès de titrant",
+      "explication": "Tout le réactif a réagi, l’excès reste inutile à la réaction."
+    },
+    {
+      "question": "Dans un dosage, on cherche généralement :",
+      "options": ["La concentration d’un des réactifs", "Le nom du solvant", "La masse du bécher", "La température du jour"],
+      "reponse": "La concentration d’un des réactifs",
+      "explication": "Le but est de déterminer la quantité de matière présente dans un volume donné."
+    },
+    {
+      "question": "Dans la réaction acide/base : HCl + NaOH → NaCl + H₂O, le volume équivalent dépend :",
+      "options": ["Des concentrations et des volumes", "De la couleur de la solution", "Du récipient utilisé", "Du type de pH-mètre"],
+      "reponse": "Des concentrations et des volumes",
+      "explication": "C’est la relation C₁·V₁ = C₂·V₂ qui est appliquée à l’équivalence."
+    },
+    {
+      "question": "Le KMnO₄ est utilisé car :",
+      "options": ["Il change de couleur à l’équivalence", "Il est un acide fort", "Il contient du fer", "Il dégage un gaz"],
+      "reponse": "Il change de couleur à l’équivalence",
+      "explication": "Il passe du violet au incolore (ou brun) à l’équivalence sans indicateur supplémentaire."
+    },
+    {
+      "question": "Lors d’un titrage acide faible / base forte, le pH à l’équivalence est :",
+      "options": ["> 7", "= 7", "< 7", "= 0"],
+      "reponse": "> 7",
+      "explication": "Il reste un excès de base conjuguée, donc la solution est basique."
+    },
+    {
+      "question": "L’absorbance est liée à la concentration par :",
+      "options": ["A = ε·l·C", "A = pH²", "A = V/n", "A = m/V"],
+      "reponse": "A = ε·l·C",
+      "explication": "C’est la loi de Beer-Lambert (ε : coefficient d’extinction, l : épaisseur)."
+    },
+    {
+      "question": "Une droite d’étalonnage permet :",
+      "options": ["De trouver la concentration à partir de l’absorbance", "De connaître la température", "De calculer le pH", "D’évaluer la densité"],
+      "reponse": "De trouver la concentration à partir de l’absorbance",
+      "explication": "Elle permet d’interpréter les résultats d’un dosage par étalonnage."
+    },
+    {
+      "question": "Si le pH change lentement pendant un titrage, on en déduit :",
+      "options": ["La réaction est incomplète", "Le sel est trop concentré", "L’eau est contaminée", "La burette fuit"],
+      "reponse": "La réaction est incomplète",
+      "explication": "Une variation lente indique une réaction partielle ou tamponnée."
+    },
+    {
+      "question": "Un indicateur coloré est choisi en fonction :",
+      "options": ["Du pH à l’équivalence", "De la couleur du bécher", "Du réfrigérant", "Du volume total"],
+      "reponse": "Du pH à l’équivalence",
+      "explication": "Il doit changer de couleur à une valeur proche du pH d’équivalence."
+    },
+    {
+      "question": "Lors d’un dosage par titrage, l’incertitude est liée :",
+      "options": ["Au volume versé et au repérage de l’équivalence", "Au type de tableau utilisé", "À la concentration théorique", "À la température extérieure"],
+      "reponse": "Au volume versé et au repérage de l’équivalence",
+      "explication": "L’imprécision sur le volume ou le saut de pH influence la précision finale."
+    },
+    {
+      "question": "Lors d’un dosage direct, on mesure :",
+      "options": ["Une grandeur physique liée à la concentration", "Le volume total de la solution", "La masse du bécher", "La pression dans le flacon"],
+      "reponse": "Une grandeur physique liée à la concentration",
+      "explication": "Le dosage direct repose sur une mesure physique (absorbance, conductivité…) liée à la concentration."
+    },
+    {
+      "question": "Le titrage acide-base repose sur :",
+      "options": ["Une réaction rapide et totale", "Une réaction lente et incomplète", "Une réaction nucléaire", "Un changement de température"],
+      "reponse": "Une réaction rapide et totale",
+      "explication": "Le titrage acide-base est basé sur une réaction de neutralisation totale et rapide."
+    },
+    {
+      "question": "Le volume équivalent est atteint lorsque :",
+      "options": ["Les quantités de matière réagissent dans les proportions stœchiométriques", "L’acide est complètement évaporé", "La solution devient gazeuse", "On atteint 100 mL"],
+      "reponse": "Les quantités de matière réagissent dans les proportions stœchiométriques",
+      "explication": "À l’équivalence, les réactifs ont été introduits dans les proportions exactes de l’équation chimique."
+    },
+    {
+      "question": "Quel indicateur est utilisé pour un titrage acide fort – base forte ?",
+      "options": ["Bleu de bromothymol", "Phénolphtaléine", "Rouge de méthyle", "Eosine"],
+      "reponse": "Bleu de bromothymol",
+      "explication": "Le bleu de bromothymol change de couleur vers un pH proche de 7, adapté à ce type de titrage."
+    },
+    {
+      "question": "Lors d’un titrage conductimétrique, on suit :",
+      "options": ["La conductivité de la solution", "La température", "La couleur du liquide", "La masse"],
+      "reponse": "La conductivité de la solution",
+      "explication": "Le titrage conductimétrique suit la variation de conductivité en fonction du volume de titrant ajouté."
+    },
+    {
+      "question": "Le titrage d’un acide faible par une base forte donne un pH final :",
+      "options": ["Basique", "Acide", "Neutre", "Inconnu"],
+      "reponse": "Basique",
+      "explication": "Après l’équivalence, il reste un excès de base forte, donc pH > 7."
+    },
+    {
+      "question": "La relation à l’équivalence est :",
+      "options": ["n₁ × C₁ × V₁ = n₂ × C₂ × V₂", "C = m/V", "pH = −log[H⁺]", "C = n/V"],
+      "reponse": "n₁ × C₁ × V₁ = n₂ × C₂ × V₂",
+      "explication": "Cette relation traduit l’égalité des quantités de matière à l’équivalence."
+    },
+    {
+      "question": "Lors d’un titrage rédox, on observe souvent :",
+      "options": ["Un changement de couleur", "Un dégagement gazeux", "Une variation de pression", "Un précipité noir"],
+      "reponse": "Un changement de couleur",
+      "explication": "Le changement d’état d’oxydation s’accompagne souvent d’un changement de teinte observable."
+    },
+    {
+      "question": "Le permanganate de potassium est un oxydant utilisé dans :",
+      "options": ["Les titrages rédox", "Les titrages acido-basiques", "Les dosages gravimétriques", "Les distillations"],
+      "reponse": "Les titrages rédox",
+      "explication": "Le KMnO₄ est un oxydant puissant souvent utilisé pour titrer des réducteurs."
+    },
+    {
+      "question": "À quoi sert le point d’équivalence ?",
+      "options": ["À calculer la concentration inconnue", "À nettoyer la verrerie", "À augmenter la température", "À créer une précipitation"],
+      "reponse": "À calculer la concentration inconnue",
+      "explication": "Il permet de relier les volumes et concentrations des réactifs."
+    },
+    {
+      "question": "Quel appareil est utilisé pour un titrage pH-métrique ?",
+      "options": ["pH-mètre", "Spectrophotomètre", "Conductimètre", "Voltmètre"],
+      "reponse": "pH-mètre",
+      "explication": "Le pH-mètre mesure précisément les variations de pH pendant le titrage."
+    },
+    {
+      "question": "Un titrage est précis si :",
+      "options": ["La réaction est totale, rapide et unique", "Le mélange est chaud", "Le bécher est en plastique", "La couleur est belle"],
+      "reponse": "La réaction est totale, rapide et unique",
+      "explication": "Ces conditions garantissent la fiabilité des calculs à l’équivalence."
+    },
+    {
+      "question": "Le volume de titrant versé est mesuré avec :",
+      "options": ["Une burette graduée", "Une pipette jaugée", "Un ballon", "Une éprouvette"],
+      "reponse": "Une burette graduée",
+      "explication": "La burette permet un ajout progressif et précis du titrant."
+    },
+    {
+      "question": "Lors d’un dosage par étalonnage, on trace :",
+      "options": ["Une courbe d’étalonnage", "Un titrage pH-métrique", "Une équation bilan", "Un histogramme"],
+      "reponse": "Une courbe d’étalonnage",
+      "explication": "Elle relie l’absorbance à la concentration pour identifier un échantillon inconnu."
+    },
+    {
+      "question": "Le dosage par étalonnage utilise souvent :",
+      "options": ["La loi de Beer-Lambert", "La loi de Newton", "La loi des gaz parfaits", "La loi d’Ohm"],
+      "reponse": "La loi de Beer-Lambert",
+      "explication": "Cette loi relie l’absorbance à la concentration d’un soluté coloré."
+    },
+    {
+      "question": "Une solution titrée est :",
+      "options": ["Celle dont on cherche la concentration", "Une solution standard", "Toujours de l’eau", "Un indicateur coloré"],
+      "reponse": "Celle dont on cherche la concentration",
+      "explication": "La solution titrée est celle dont on veut déterminer la concentration."
+    },
+    {
+      "question": "Dans un titrage acide fort / base forte, le pH à l’équivalence est :",
+      "options": ["7", "5", "9", "3"],
+      "reponse": "7",
+      "explication": "La neutralisation complète produit une solution neutre (pH = 7)."
+    },
+    {
+      "question": "Si le volume équivalent est trop difficile à lire, on peut :",
+      "options": ["Tracer la courbe pH = f(V)", "Changer le réactif", "Mettre plus d’indicateur", "Baisser le pH"],
+      "reponse": "Tracer la courbe pH = f(V)",
+      "explication": "Cela permet de repérer l’équivalence graphiquement (point d’inflexion)."
+    },
+    {
+      "question": "Le pH augmente fortement autour de l’équivalence dans un titrage :",
+      "options": ["Acide fort par base forte", "Acide faible par acide fort", "Redox", "À reflux"],
+      "reponse": "Acide fort par base forte",
+      "explication": "On observe une rupture brutale de pH au point d’équivalence."
+    },
+    {
+      "question": "Une réaction rédox implique toujours :",
+      "options": ["Un transfert d’électrons", "Un échange d’ions H⁺", "Un changement de température", "Un dégagement de CO₂"],
+      "reponse": "Un transfert d’électrons",
+      "explication": "Une oxydation-réduction est caractérisée par un transfert d’électrons entre espèces chimiques."
+    }
+  ]
+}

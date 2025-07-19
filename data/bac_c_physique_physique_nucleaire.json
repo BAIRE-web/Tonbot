@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "Une réaction nucléaire implique principalement :",
+      "options": ["Les noyaux atomiques", "Les électrons", "Les liaisons chimiques", "Les molécules"],
+      "reponse": "Les noyaux atomiques",
+      "explication": "Une réaction nucléaire concerne la transformation du noyau d’un atome, pas des électrons."
+    },
+    {
+      "question": "Dans une réaction de fusion nucléaire, deux noyaux :",
+      "options": ["Se combinent pour former un noyau plus lourd", "Se divisent en deux", "Se transforment en électrons", "S'annihilent"],
+      "reponse": "Se combinent pour former un noyau plus lourd",
+      "explication": "La fusion est l’union de deux noyaux légers pour en créer un plus lourd."
+    },
+    {
+      "question": "La fission nucléaire est :",
+      "options": ["La division d’un noyau lourd en noyaux plus légers", "La perte d’un électron", "L’émission d’un photon", "La fusion de deux protons"],
+      "reponse": "La division d’un noyau lourd en noyaux plus légers",
+      "explication": "La fission est utilisée dans les centrales nucléaires (ex : ²³⁵U)."
+    },
+    {
+      "question": "Dans une réaction nucléaire équilibrée, on conserve :",
+      "options": ["Le nombre de nucléons et la charge", "La masse uniquement", "Le nombre d’électrons", "La température"],
+      "reponse": "Le nombre de nucléons et la charge",
+      "explication": "Les lois de conservation imposent que A (nucléons) et Z (protons) soient conservés."
+    },
+    {
+      "question": "Une réaction de fusion dans le Soleil implique :",
+      "options": ["Des noyaux d’hydrogène", "Des noyaux d’uranium", "Des neutrons libres", "Des électrons rapides"],
+      "reponse": "Des noyaux d’hydrogène",
+      "explication": "Dans le Soleil, des noyaux d’hydrogène fusionnent pour produire de l’hélium."
+    },
+    {
+      "question": "L’énergie libérée lors d’une réaction nucléaire provient :",
+      "options": ["D’une perte de masse", "Des électrons", "De la pression", "Du mouvement de rotation"],
+      "reponse": "D’une perte de masse",
+      "explication": "Selon E = mc², une petite masse convertie donne une grande énergie."
+    },
+    {
+      "question": "L’effet photoélectrique consiste en :",
+      "options": ["L’émission d’électrons par un métal éclairé", "La fusion des atomes", "L’ionisation nucléaire", "La création d’un neutron"],
+      "reponse": "L’émission d’électrons par un métal éclairé",
+      "explication": "C’est l’un des phénomènes fondamentaux de la mécanique quantique."
+    },
+    {
+      "question": "L’effet photoélectrique prouve que la lumière peut se comporter comme :",
+      "options": ["Une particule", "Une onde pure", "Un champ magnétique", "Une masse nulle"],
+      "reponse": "Une particule",
+      "explication": "L’effet photoélectrique révèle la nature corpusculaire (photons) de la lumière."
+    },
+    {
+      "question": "Le quantum d’énergie lumineuse est appelé :",
+      "options": ["Photon", "Électron", "Proton", "Ion"],
+      "reponse": "Photon",
+      "explication": "Le photon est la particule élémentaire de lumière, porteuse d’énergie."
+    },
+    {
+      "question": "La dualité onde-particule signifie que :",
+      "options": ["La lumière et les particules ont des propriétés ondulatoires et corpusculaires", "Les ondes deviennent des particules", "Les particules sont toujours immobiles", "Les photons sont invisibles"],
+      "reponse": "La lumière et les particules ont des propriétés ondulatoires et corpusculaires",
+      "explication": "Selon la mécanique quantique, une entité comme un photon ou un électron peut se comporter comme une onde ou une particule."
+    },
+    {
+      "question": "L’énergie d’un photon est donnée par la relation :",
+      "options": ["E = h × f", "E = mc²", "E = q × V", "E = ½mv²"],
+      "reponse": "E = h × f",
+      "explication": "h est la constante de Planck, f est la fréquence de la lumière."
+    },
+    {
+      "question": "Dans l’effet photoélectrique, si la lumière n’a pas assez d’énergie :",
+      "options": ["Aucun électron n’est émis", "Les électrons sortent plus lentement", "La lumière est réfléchie", "L’électron gagne en masse"],
+      "reponse": "Aucun électron n’est émis",
+      "explication": "Il faut une fréquence minimale pour arracher un électron : c’est le seuil photoélectrique."
+    },
+    {
+      "question": "La constante de Planck (h) a pour unité :",
+      "options": ["J·s", "Coulomb", "kg", "W"],
+      "reponse": "J·s",
+      "explication": "Elle relie l’énergie d’un photon à la fréquence de l’onde."
+    },
+    {
+      "question": "Plus la fréquence de la lumière est élevée :",
+      "options": ["Plus l’énergie du photon est grande", "Moins elle est énergétique", "Plus la longueur d’onde augmente", "La lumière devient rouge"],
+      "reponse": "Plus l’énergie du photon est grande",
+      "explication": "E = h × f, donc plus f augmente, plus E augmente."
+    },
+    {
+      "question": "La lumière bleue par rapport à la rouge a :",
+      "options": ["Une fréquence plus élevée", "Une fréquence plus faible", "Une longueur d’onde plus longue", "Moins d’énergie"],
+      "reponse": "Une fréquence plus élevée",
+      "explication": "Le bleu a une fréquence plus haute donc une énergie plus grande."
+    },
+    {
+      "question": "L’effet Compton est une preuve que :",
+      "options": ["La lumière a une quantité de mouvement", "La lumière est purement ondulatoire", "Les électrons sont des ondes", "La matière se dilate"],
+      "reponse": "La lumière a une quantité de mouvement",
+      "explication": "Il montre qu’un photon peut transférer de l’énergie et de la quantité de mouvement à un électron."
+    },
+    {
+      "question": "L’équation de conservation dans une réaction nucléaire implique :",
+      "options": ["A et Z sont conservés", "La masse seule est conservée", "L’énergie est perdue", "Les électrons sont conservés"],
+      "reponse": "A et Z sont conservés",
+      "explication": "Le nombre de nucléons (A) et la charge (Z) sont conservés dans toute réaction nucléaire."
+    },
+    {
+      "question": "Le seuil photoélectrique dépend de :",
+      "options": ["La nature du métal", "L’intensité lumineuse", "La température", "La pression"],
+      "reponse": "La nature du métal",
+      "explication": "Chaque métal a une énergie minimale (fonction de travail) pour libérer un électron."
+    },
+    {
+      "question": "La fonction de travail (Φ) d’un métal est :",
+      "options": ["L’énergie minimale pour extraire un électron", "Le courant électrique", "L’énergie du photon", "La température de fusion"],
+      "reponse": "L’énergie minimale pour extraire un électron",
+      "explication": "Elle détermine si l’énergie du photon est suffisante pour l’effet photoélectrique."
+    },
+    {
+      "question": "Dans une réaction nucléaire, un neutron peut transformer un noyau stable en :",
+      "options": ["Un isotope instable", "Un électron", "Un ion négatif", "Une molécule"],
+      "reponse": "Un isotope instable",
+      "explication": "L’absorption d’un neutron peut déséquilibrer un noyau et le rendre radioactif."
+    },
+    {
+      "question": "Un noyau ²³⁵₉₂U subit une fission. Combien de nucléons restent dans chaque fragment si la division est égale ?",
+      "options": ["117 et 118", "100 et 135", "200 et 35", "120 et 115"],
+      "reponse": "117 et 118",
+      "explication": "La moitié de 235 est environ 117-118 nucléons dans chaque fragment."
+    },
+    {
+      "question": "Quelle particule est émise lors d’une désintégration β⁻ ?",
+      "options": ["Un électron", "Un proton", "Un neutron", "Un photon γ"],
+      "reponse": "Un électron",
+      "explication": "La désintégration β⁻ émet un électron et un antineutrino."
+    },
+    {
+      "question": "La fission nucléaire est déclenchée par :",
+      "options": ["Un neutron", "Un photon", "Un électron", "Une onde sonore"],
+      "reponse": "Un neutron",
+      "explication": "Un neutron incident provoque la scission du noyau lourd."
+    },
+    {
+      "question": "Lors d’une réaction de fusion, l’énergie libérée est :",
+      "options": ["Importante", "Nulle", "Négative", "Toujours faible"],
+      "reponse": "Importante",
+      "explication": "La fusion libère une grande quantité d’énergie par conversion de masse."
+    },
+    {
+      "question": "Quel phénomène n’appartient pas à la physique quantique ?",
+      "options": ["Gravité", "Effet photoélectrique", "Dualité onde-particule", "Quantification de l’énergie"],
+      "reponse": "Gravité",
+      "explication": "La gravité est étudiée en physique classique et relativité."
+    },
+    {
+      "question": "Un photon a une fréquence de 6 × 10¹⁴ Hz. Quelle est son énergie ? (h = 6,63×10⁻³⁴ J·s)",
+      "options": ["3,98×10⁻¹⁹ J", "6,63×10⁻³⁴ J", "1,11×10⁻¹³ J", "9,96×10⁻¹⁹ J"],
+      "reponse": "3,98×10⁻¹⁹ J",
+      "explication": "E = h × f = 6,63×10⁻³⁴ × 6×10¹⁴ = 3,98×10⁻¹⁹ J."
+    },
+    {
+      "question": "L’effet photoélectrique est observé uniquement si :",
+      "options": ["La fréquence de la lumière dépasse un seuil", "L’intensité est élevée", "La température est basse", "La lumière est monochromatique"],
+      "reponse": "La fréquence de la lumière dépasse un seuil",
+      "explication": "Il faut que les photons aient assez d’énergie pour éjecter les électrons."
+    },
+    {
+      "question": "Lors de la désintégration α, le noyau perd :",
+      "options": ["2 protons et 2 neutrons", "1 proton", "1 neutron", "Un électron"],
+      "reponse": "2 protons et 2 neutrons",
+      "explication": "La particule α est un noyau d’hélium (2p+2n)."
+    },
+    {
+      "question": "Quelle grandeur n’est pas conservée dans une réaction nucléaire ?",
+      "options": ["Masse", "Nombre de nucléons", "Charge", "Énergie totale"],
+      "reponse": "Masse",
+      "explication": "La masse peut diminuer, transformée en énergie."
+    },
+    {
+      "question": "La constante de Planck est exprimée en :",
+      "options": ["Joule seconde", "Coulomb", "Tesla", "Volt"],
+      "reponse": "Joule seconde",
+      "explication": "h relie l’énergie à la fréquence en J·s."
+    },
+    {
+      "question": "Une source radioactive a une demi-vie de 5 jours. Quelle fraction reste après 15 jours ?",
+      "options": ["1/8", "1/3", "1/2", "1/15"],
+      "reponse": "1/8",
+      "explication": "Après 3 demi-vies, reste (1/2)³ = 1/8."
+    },
+    {
+      "question": "Dans une réaction de fusion, les noyaux légers :",
+      "options": ["Libèrent de l’énergie", "Absorbent de l’énergie", "Se décomposent", "Sont stables"],
+      "reponse": "Libèrent de l’énergie",
+      "explication": "Fusion libère de l’énergie grâce à la liaison des noyaux."
+    },
+    {
+      "question": "L’énergie d’un photon dépend de :",
+      "options": ["Sa fréquence", "Son amplitude", "Sa vitesse", "Sa masse"],
+      "reponse": "Sa fréquence",
+      "explication": "E = h × f, fréquence détermine l’énergie."
+    },
+    {
+      "question": "Le seuil d’énergie pour l’effet photoélectrique dépend :",
+      "options": ["Du métal", "De la lumière incidente", "De la température", "De la pression"],
+      "reponse": "Du métal",
+      "explication": "Chaque métal a une fonction travail propre."
+    },
+    {
+      "question": "Le photon est une particule sans :",
+      "options": ["Masse au repos", "Charge", "Énergie", "Vitesse"],
+      "reponse": "Masse au repos",
+      "explication": "Le photon a une masse au repos nulle."
+    },
+    {
+      "question": "Une désintégration β⁺ transforme un proton en :",
+      "options": ["Un neutron", "Un électron", "Un positron", "Un neutrino"],
+      "reponse": "Un neutron",
+      "explication": "β⁺ correspond à un proton qui devient neutron et émet un positron."
+    },
+    {
+      "question": "La lumière visible correspond à une longueur d’onde de l’ordre de :",
+      "options": ["400 à 700 nm", "10 à 20 m", "1 à 10 mm", "1 à 10 µm"],
+      "reponse": "400 à 700 nm",
+      "explication": "Le visible est dans cette gamme de longueurs d’onde."
+    },
+    {
+      "question": "Un électron absorbant un photon gagne :",
+      "options": ["De l’énergie", "De la masse", "De la charge", "De la vitesse uniquement"],
+      "reponse": "De l’énergie",
+      "explication": "L’électron reçoit l’énergie du photon."
+    },
+    {
+      "question": "La diffraction est une propriété liée à :",
+      "options": ["La nature ondulatoire", "La nature corpusculaire", "La masse", "La charge"],
+      "reponse": "La nature ondulatoire",
+      "explication": "La diffraction ne s’explique que par les ondes."
+    },
+    {
+      "question": "Une réaction nucléaire produit souvent :",
+      "options": ["Des neutrons libres", "Des photons γ", "Des noyaux instables", "Toutes ces réponses"],
+      "reponse": "Toutes ces réponses",
+      "explication": "Tous ces produits peuvent apparaître lors d’une réaction nucléaire."
+    }
+  ]
+}

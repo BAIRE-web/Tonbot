@@ -1,0 +1,172 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le rôle principal des ovaires ?",
+      "options": ["Production d’ovules", "Production de spermatozoïdes", "Sécrétion de testostérone", "Filtration du sang"],
+      "reponse": "Production d’ovules",
+      "explication": "Les ovaires produisent les gamètes féminins appelés ovules."
+    },
+    {
+      "question": "Quelle hormone est principalement produite par les ovaires pour initier le cycle menstruel ?",
+      "options": ["Œstrogène", "Testostérone", "Progestérone", "Cortisol"],
+      "reponse": "Œstrogène",
+      "explication": "Les œstrogènes préparent l’utérus et régulent le cycle menstruel."
+    },
+    {
+      "question": "Quelle hormone est principalement responsable de la préparation de la muqueuse utérine à l’implantation ?",
+      "options": ["Progestérone", "LH", "FSH", "Œstrogène"],
+      "reponse": "Progestérone",
+      "explication": "La progestérone épaissit la muqueuse utérine pour accueillir l’embryon."
+    },
+    {
+      "question": "Quel est le rôle de la FSH chez la femme ?",
+      "options": ["Stimuler la croissance des follicules ovariens", "Déclencher l’ovulation", "Produire la progestérone", "Produire la testostérone"],
+      "reponse": "Stimuler la croissance des follicules ovariens",
+      "explication": "La FSH favorise le développement des follicules contenant les ovules."
+    },
+    {
+      "question": "Quelle hormone déclenche l’ovulation ?",
+      "options": ["LH (Hormone lutéinisante)", "FSH", "Progestérone", "Œstrogène"],
+      "reponse": "LH (Hormone lutéinisante)",
+      "explication": "Le pic de LH provoque la rupture du follicule et la libération de l’ovule."
+    },
+    {
+      "question": "La phase folliculaire du cycle correspond à :",
+      "options": ["La maturation du follicule sous l’effet de la FSH", "La sécrétion de progestérone", "La phase post-ovulatoire", "La menstruation"],
+      "reponse": "La maturation du follicule sous l’effet de la FSH",
+      "explication": "Durant cette phase, le follicule se développe jusqu’à l’ovulation."
+    },
+    {
+      "question": "Après l’ovulation, le follicule se transforme en :",
+      "options": ["Corps jaune", "Corps albicans", "Corpuscule de De Graaf", "Follicule primordial"],
+      "reponse": "Corps jaune",
+      "explication": "Le corps jaune produit la progestérone pour maintenir la muqueuse utérine."
+    },
+    {
+      "question": "Quelle est la fonction principale du corps jaune ?",
+      "options": ["Sécréter la progestérone", "Produire des ovules", "Sécréter la FSH", "Stimuler la production de testostérone"],
+      "reponse": "Sécréter la progestérone",
+      "explication": "Il maintient la muqueuse utérine en vue d’une grossesse."
+    },
+    {
+      "question": "Quelles sont les phases principales du cycle menstruel ?",
+      "options": ["Phase folliculaire, ovulation, phase lutéale", "Phase de sommeil, éveil, digestion", "Phase de croissance, repos, déclin", "Phase de gestation, lactation, ménopause"],
+      "reponse": "Phase folliculaire, ovulation, phase lutéale",
+      "explication": "Ces phases contrôlent la préparation et la libération de l’ovule ainsi que la préparation utérine."
+    },
+    {
+      "question": "Le cycle menstruel dure en moyenne :",
+      "options": ["28 jours", "14 jours", "7 jours", "35 jours"],
+      "reponse": "28 jours",
+      "explication": "La durée moyenne d’un cycle menstruel est d’environ 28 jours."
+    },
+    {
+      "question": "Quelle est la fonction principale de l’utérus ?",
+      "options": ["Accueillir et nourrir l’embryon", "Produire des ovules", "Sécréter des hormones", "Filtrer le sang"],
+      "reponse": "Accueillir et nourrir l’embryon",
+      "explication": "L’utérus abrite l’embryon durant la grossesse."
+    },
+    {
+      "question": "Qu’est-ce que la menstruation ?",
+      "options": ["Desquamation de la muqueuse utérine", "Ovulation", "Formation du corps jaune", "Développement du follicule"],
+      "reponse": "Desquamation de la muqueuse utérine",
+      "explication": "La menstruation correspond à l’élimination de la muqueuse utérine non fécondée."
+    },
+    {
+      "question": "Quel est le rôle des œstrogènes durant le cycle ?",
+      "options": ["Stimuler la croissance de la muqueuse utérine", "Déclencher l’ovulation", "Favoriser la sécrétion de progestérone", "Arrêter la menstruation"],
+      "reponse": "Stimuler la croissance de la muqueuse utérine",
+      "explication": "Les œstrogènes préparent l’endomètre à recevoir l’embryon."
+    },
+    {
+      "question": "Le pic de LH est provoqué par :",
+      "options": ["Un taux élevé d’œstrogènes", "Une forte sécrétion de progestérone", "La baisse de FSH", "La menstruation"],
+      "reponse": "Un taux élevé d’œstrogènes",
+      "explication": "L’augmentation des œstrogènes déclenche une rétroaction positive sur l’hypophyse."
+    },
+    {
+      "question": "Quelle glande contrôle l’ensemble du cycle menstruel ?",
+      "options": ["L’hypophyse", "La thyroïde", "Le pancréas", "Les surrénales"],
+      "reponse": "L’hypophyse",
+      "explication": "Elle sécrète la FSH et la LH qui régulent le cycle ovarien."
+    },
+    {
+      "question": "L’hypothalamus agit sur l’hypophyse par :",
+      "options": ["La sécrétion de GnRH", "La production de progestérone", "La libération d’adrénaline", "La synthèse d’œstrogènes"],
+      "reponse": "La sécrétion de GnRH",
+      "explication": "La GnRH stimule l’hypophyse à libérer FSH et LH."
+    },
+    {
+      "question": "La phase lutéale correspond à :",
+      "options": ["La sécrétion de progestérone par le corps jaune", "La croissance folliculaire", "L’ovulation", "La menstruation"],
+      "reponse": "La sécrétion de progestérone par le corps jaune",
+      "explication": "Cette phase prépare la muqueuse utérine à l’implantation."
+    },
+    {
+      "question": "Quel est le rôle des trompes de Fallope ?",
+      "options": ["Transporter l’ovule vers l’utérus", "Produire les ovules", "Sécréter la progestérone", "Accueillir l’embryon"],
+      "reponse": "Transporter l’ovule vers l’utérus",
+      "explication": "Elles permettent la fécondation et le déplacement de l’ovule fécondé."
+    },
+    {
+      "question": "La fécondation a lieu généralement :",
+      "options": ["Dans les trompes de Fallope", "Dans l’utérus", "Dans l’ovaire", "Dans le vagin"],
+      "reponse": "Dans les trompes de Fallope",
+      "explication": "C’est le site principal où spermatozoïde et ovule se rencontrent."
+    },
+    {
+      "question": "La progestérone agit principalement sur :",
+      "options": ["L’endomètre pour maintenir la grossesse", "Les ovaires pour produire des ovules", "L’hypophyse pour sécréter la FSH", "Les trompes pour la fécondation"],
+      "reponse": "L’endomètre pour maintenir la grossesse",
+      "explication": "Elle prépare et maintient la muqueuse utérine."
+    },
+    {
+      "question": "Quelles sont les glandes sexuelles féminines ?",
+      "options": ["Les ovaires", "Les testicules", "La thyroïde", "Les glandes surrénales"],
+      "reponse": "Les ovaires",
+      "explication": "Ils produisent ovules et hormones sexuelles féminines."
+    },
+    {
+      "question": "Le cycle menstruel est contrôlé par un mécanisme de :",
+      "options": ["Rétrocontrôle hormonal", "Contrôle nerveux", "Contrôle rénal", "Contrôle musculaire"],
+      "reponse": "Rétrocontrôle hormonal",
+      "explication": "Les hormones agissent en boucle pour réguler le cycle."
+    },
+    {
+      "question": "La ménopause correspond à :",
+      "options": ["La fin des cycles menstruels", "Le début de la puberté", "L’ovulation intense", "La grossesse"],
+      "reponse": "La fin des cycles menstruels",
+      "explication": "Elle survient avec l’arrêt de la fonction ovarienne."
+    },
+    {
+      "question": "Quels sont les caractères sexuels secondaires féminins influencés par les œstrogènes ?",
+      "options": ["Développement des seins, élargissement du bassin", "Croissance des poils faciaux", "Augmentation de la masse musculaire", "Développement de la barbe"],
+      "reponse": "Développement des seins, élargissement du bassin",
+      "explication": "Ces caractères apparaissent à la puberté sous l’influence des œstrogènes."
+    },
+    {
+      "question": "Quel est le site de production de la progestérone après ovulation ?",
+      "options": ["Corps jaune", "Follicule primordial", "Hypophyse", "Trompes de Fallope"],
+      "reponse": "Corps jaune",
+      "explication": "Il produit la progestérone pour maintenir la muqueuse utérine."
+    },
+    {
+      "question": "La diminution de la progestérone provoque :",
+      "options": ["Le déclenchement des règles", "L’ovulation", "Le pic de LH", "La production d’œstrogènes"],
+      "reponse": "Le déclenchement des règles",
+      "explication": "La chute de progestérone entraîne la desquamation de l’endomètre."
+    },
+    {
+      "question": "Quelle hormone favorise la croissance du follicule et l’augmentation des œstrogènes ?",
+      "options": ["FSH", "LH", "Progestérone", "Ocytocine"],
+      "reponse": "FSH",
+      "explication": "La FSH stimule le follicule ovarien et la sécrétion d’œstrogènes."
+    },
+    {
+      "question": "Les glandes mammaires sont stimulées par :",
+      "options": ["Œstrogènes et progestérone", "Testostérone", "LH", "FSH"],
+      "reponse": "Œstrogènes et progestérone",
+      "explication": "Ces hormones préparent les seins à la lactation."
+    }
+  ]
+}

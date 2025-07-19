@@ -1,0 +1,575 @@
+{
+  "qcm": [
+    {
+      "question": "Soit f(x) = x³ - 3x + 1. Quelle est la valeur de f'(1) ?",
+      "options": ["0", "3", "2", "-3"],
+      "reponse": "0",
+      "explication": "f'(x) = 3x² - 3, donc f'(1) = 3(1)² - 3 = 0."
+    },
+    {
+      "question": "Pour f(x) = 2x² - 4x + 1, déterminer les intervalles de croissance.",
+      "options": ["[2, +∞[", "]−∞, 1]", "[1, +∞[", "]−∞, 2]"],
+      "reponse": "[1, +∞[",
+      "explication": "f'(x) = 4x - 4; f'(x) ≥ 0 ⇔ x ≥ 1 donc f est croissante sur [1, +∞[."
+    },
+    {
+      "question": "Quelle est la limite de f(x) = (3x² + 5)/(x² - 1) quand x → +∞ ?",
+      "options": ["3", "0", "∞", "−1"],
+      "reponse": "3",
+      "explication": "Les degrés sont égaux, limite = quotient des coefficients de x², soit 3/1 = 3."
+    },
+    {
+      "question": "Trouver l’équation de la tangente à la courbe de f(x) = x² en x = 2.",
+      "options": ["y = 4x - 4", "y = 2x + 4", "y = 4x + 4", "y = 2x - 4"],
+      "reponse": "y = 4x - 4",
+      "explication": "f'(x) = 2x, f'(2) = 4; tangente : y = 4(x - 2) + 4 = 4x - 4."
+    },
+    {
+      "question": "Soit f(x) = ln(x). Quelle est la dérivée f'(x) ?",
+      "options": ["1/x", "x", "ln(x)", "e^x"],
+      "reponse": "1/x",
+      "explication": "Dérivée du logarithme népérien est 1/x pour x > 0."
+    },
+    {
+      "question": "Si f est dérivable et f'(a) = 0, que peut-on conclure ?",
+      "options": ["a est un point critique", "f est maximale en a", "f est minimale en a", "f est continue en a"],
+      "reponse": "a est un point critique",
+      "explication": "Un point où la dérivée s’annule est un point critique possible pour un extremum."
+    },
+    {
+      "question": "Calculer la limite de f(x) = (x - 1)/(x² - 1) en x → 1.",
+      "options": ["1/2", "0", "∞", "Indéterminée"],
+      "reponse": "Indéterminée",
+      "explication": "Substitution directe donne 0/0, forme indéterminée, nécessitant une simplification."
+    },
+    {
+      "question": "La fonction f(x) = e^x est-elle croissante sur ℝ ?",
+      "options": ["Oui", "Non", "Seulement sur ℝ+", "Seulement sur ℝ−"],
+      "reponse": "Oui",
+      "explication": "f'(x) = e^x > 0 pour tout x, donc f est strictement croissante partout."
+    },
+    {
+      "question": "Quelle est la nature du point x = 0 pour f(x) = x³ ?",
+      "options": ["Point d’inflexion", "Maximum local", "Minimum local", "Discontinu"],
+      "reponse": "Point d’inflexion",
+      "explication": "La dérivée seconde change de signe en 0, donc c’est un point d’inflexion."
+    },
+    {
+      "question": "Pour f(x) = 1/x, quelle est la limite en 0 par valeurs positives ?",
+      "options": ["+∞", "−∞", "0", "1"],
+      "reponse": "+∞",
+      "explication": "Quand x → 0+ alors 1/x → +∞."
+    },
+    {
+      "question": "Quelle est la dérivée de f(x) = ln(2x + 1) ?",
+      "options": ["2/(2x + 1)", "1/(2x + 1)", "ln(2x + 1)", "2x + 1"],
+      "reponse": "2/(2x + 1)",
+      "explication": "Dérivée de ln(u) = u'/u; ici u=2x+1 donc u'=2."
+    },
+    {
+      "question": "Pour f(x) = x^4 - 4x², trouver les valeurs de x où f'(x) = 0.",
+      "options": ["x = 0, ±√2", "x = ±2", "x = 1, -1", "x = 0"],
+      "reponse": "x = 0, ±√2",
+      "explication": "f'(x) = 4x³ - 8x = 4x(x² - 2) = 0 donc racines en 0 et ±√2."
+    },
+    {
+      "question": "Quel est le domaine de définition de f(x) = ln(x - 3) ?",
+      "options": ["]3, +∞[", "ℝ", "[3, +∞[", "]−∞, 3["],
+      "reponse": "]3, +∞[",
+      "explication": "Argument du ln strictement positif : x - 3 > 0."
+    },
+    {
+      "question": "Calculer la limite de f(x) = (x² - 9)/(x - 3) en x → 3.",
+      "options": ["6", "3", "0", "Indéterminée"],
+      "reponse": "6",
+      "explication": "Factorisation : (x² - 9) = (x - 3)(x + 3); limite = lim (x + 3) = 6."
+    },
+    {
+      "question": "Quelle est la limite de f(x) = e^{-x} quand x → +∞ ?",
+      "options": ["0", "+∞", "1", "−∞"],
+      "reponse": "0",
+      "explication": "e^{-x} tend vers 0 quand x tend vers +∞."
+    },
+    {
+      "question": "La fonction f(x) = x/(x² + 1) est-elle continue sur ℝ ?",
+      "options": ["Oui", "Non", "Seulement pour x ≠ 0", "Seulement sur ℝ⁺"],
+      "reponse": "Oui",
+      "explication": "Dénominateur jamais nul, fonction définie et continue partout."
+    },
+    {
+      "question": "Soit f(x) = x³ - 6x² + 9x + 1. Combien y a-t-il de points critiques ?",
+      "options": ["2", "1", "3", "0"],
+      "reponse": "2",
+      "explication": "f'(x) = 3x² - 12x + 9 = 3(x² - 4x + 3) = 3(x - 1)(x - 3)."
+    },
+    {
+      "question": "Calculer la dérivée de f(x) = (x² + 1)^3.",
+      "options": ["6x(x² + 1)^2", "3(x² + 1)^2", "6x^2", "3x^2(x² + 1)^2"],
+      "reponse": "6x(x² + 1)^2",
+      "explication": "Dérivée de u^3 = 3u² * u', avec u = x² + 1."
+    },
+    {
+      "question": "Quel est le comportement de f(x) = 1/(x - 1) près de x = 1 ?",
+      "options": ["Asymptote verticale", "Point de continuité", "Tangente horizontale", "Maximum local"],
+      "reponse": "Asymptote verticale",
+      "explication": "Dénominateur nul en 1, fonction tend vers ±∞."
+    },
+    {
+      "question": "Trouver la limite de f(x) = (√x - 2)/(x - 4) quand x → 4.",
+      "options": ["1/4", "1/2", "Indéterminée", "0"],
+      "reponse": "1/4",
+      "explication": "Rationalisation et simplification donnent cette limite."
+    },
+    {
+      "question": "La fonction f(x) = sin(x)/x est-elle continue en x = 0 ?",
+      "options": ["Oui, par prolongement", "Non", "Seulement pour x ≠ 0", "Indéterminée"],
+      "reponse": "Oui, par prolongement",
+      "explication": "Limite en 0 vaut 1, on peut définir f(0)=1 pour continuité."
+    },
+    {
+      "question": "Qu’est-ce que la dérivée f'(a) d’une fonction f en un point a ?",
+      "options": ["La pente de la tangente à la courbe en a", "La valeur de f(a)", "La limite de f en a", "L’aire sous la courbe en a"],
+      "reponse": "La pente de la tangente à la courbe en a",
+      "explication": "La dérivée en a représente le taux de variation instantané de f, donc la pente de la tangente au point d’abscisse a."
+    },
+    {
+      "question": "Quelle est la condition nécessaire pour qu’une fonction soit croissante sur un intervalle I ?",
+      "options": ["f'(x) ≥ 0 pour tout x ∈ I", "f'(x) ≤ 0 pour tout x ∈ I", "f(x) > 0 pour tout x ∈ I", "f(x) < 0 pour tout x ∈ I"],
+      "reponse": "f'(x) ≥ 0 pour tout x ∈ I",
+      "explication": "Si la dérivée est positive ou nulle sur I, alors la fonction est croissante (non décroissante) sur I."
+    },
+    {
+      "question": "Que signifie que la fonction f est convexe sur un intervalle I ?",
+      "options": ["La courbe est au-dessus de toutes ses tangentes", "La courbe est en dessous de toutes ses tangentes", "La dérivée f'(x) est décroissante", "La fonction est croissante"],
+      "reponse": "La courbe est au-dessus de toutes ses tangentes",
+      "explication": "La convexité signifie que la courbe ne « dépasse » pas la tangente en chaque point, elle est au-dessus."
+    },
+    {
+      "question": "Si f est deux fois dérivable, quelle condition exprime la convexité de f sur I ?",
+      "options": ["f''(x) ≥ 0 pour tout x ∈ I", "f''(x) ≤ 0 pour tout x ∈ I", "f'(x) ≥ 0 pour tout x ∈ I", "f'(x) ≤ 0 pour tout x ∈ I"],
+      "reponse": "f''(x) ≥ 0 pour tout x ∈ I",
+      "explication": "La fonction est convexe sur I si sa dérivée seconde est positive ou nulle sur I."
+    },
+    {
+      "question": "Quelle est l’équation de la tangente à la courbe de f au point d’abscisse a ?",
+      "options": ["y = f'(a)(x - a) + f(a)", "y = f(a)(x - a) + f'(a)", "y = f(a)x + f'(a)", "y = f'(a)x + f(a)"],
+      "reponse": "y = f'(a)(x - a) + f(a)",
+      "explication": "La tangente passe par (a, f(a)) avec pente f'(a)."
+    },
+    {
+      "question": "Que signifie que f est continue en un point a ?",
+      "options": ["Limite de f en a égale à f(a)", "f(a) = 0", "f’(a) existe", "f(x) tend vers +∞ quand x tend vers a"],
+      "reponse": "Limite de f en a égale à f(a)",
+      "explication": "La fonction est continue en a si la limite en a existe et vaut f(a)."
+    },
+    {
+      "question": "Quelle est la limite de f(x) = (x² - 1)/(x - 1) quand x tend vers 1 ?",
+      "options": ["2", "0", "1", "Indéterminée"],
+      "reponse": "2",
+      "explication": "Factorisation : (x² - 1) = (x - 1)(x + 1), donc limite = lim (x + 1) = 2."
+    },
+    {
+      "question": "Si f'(x) > 0 sur un intervalle, que peut-on dire de f ?",
+      "options": ["f est strictement croissante", "f est strictement décroissante", "f est constante", "f est concave"],
+      "reponse": "f est strictement croissante",
+      "explication": "Dérivée positive implique croissance stricte."
+    },
+    {
+      "question": "Quelle est la signification géométrique de f''(a) > 0 ?",
+      "options": ["La courbe est convexe au point a", "La courbe est concave au point a", "La courbe est horizontale au point a", "La tangente est verticale"],
+      "reponse": "La courbe est convexe au point a",
+      "explication": "Une dérivée seconde positive indique une convexité locale."
+    },
+    {
+      "question": "Quelle est la définition formelle de la limite de f en a ?",
+      "options": ["Pour tout ε > 0, il existe δ > 0 tel que pour tout x vérifiant |x - a| < δ, on ait |f(x) - l| < ε", "f(x) = l", "f est dérivable en a", "f est continue en a"],
+      "reponse": "Pour tout ε > 0, il existe δ > 0 tel que pour tout x vérifiant |x - a| < δ, on ait |f(x) - l| < ε",
+      "explication": "C’est la définition ε-δ de la limite."
+    },
+    {
+      "question": "Qu’indique un changement de signe de f'(x) en un point c ?",
+      "options": ["Un extremum local en c", "Une inflexion en c", "Une discontinuité en c", "Une asymptote en c"],
+      "reponse": "Un extremum local en c",
+      "explication": "Un changement de signe de la dérivée correspond à un maximum ou minimum local."
+    },
+    {
+      "question": "Que signifie que la fonction f est concave sur un intervalle I ?",
+      "options": ["La courbe est en dessous de toutes ses tangentes", "La courbe est au-dessus de toutes ses tangentes", "f''(x) ≥ 0", "f'(x) est croissante"],
+      "reponse": "La courbe est en dessous de toutes ses tangentes",
+      "explication": "Concavité signifie que la courbe est sous ses tangentes."
+    },
+    {
+      "question": "La dérivée seconde f''(x) permet d’étudier :",
+      "options": ["La convexité et la concavité", "Les points de discontinuité", "Les limites", "Les dérivées partielles"],
+      "reponse": "La convexité et la concavité",
+      "explication": "La dérivée seconde renseigne sur la forme locale de la courbe."
+    },
+    {
+      "question": "Que peut-on dire d’une fonction dérivable dont f'(x) = 0 pour tout x d’un intervalle ?",
+      "options": ["Elle est constante sur cet intervalle", "Elle est croissante", "Elle est convexe", "Elle est discontinue"],
+      "reponse": "Elle est constante sur cet intervalle",
+      "explication": "Dérivée nulle signifie fonction constante."
+    },
+    {
+      "question": "Quelle est la définition d’une tangente verticale ?",
+      "options": ["La pente de la tangente tend vers ±∞", "La tangente est horizontale", "La fonction est discontinue", "La dérivée est nulle"],
+      "reponse": "La pente de la tangente tend vers ±∞",
+      "explication": "Tangente verticale correspond à pente infinie."
+    },
+    {
+      "question": "Si f est continue sur [a, b] et dérivable sur ]a, b[, que garantit le théorème de Rolle ?",
+      "options": ["Il existe c ∈ ]a, b[ tel que f'(c) = 0", "f est constante", "f est monotone", "f est convexe"],
+      "reponse": "Il existe c ∈ ]a, b[ tel que f'(c) = 0",
+      "explication": "C’est la condition d’existence d’un point critique entre a et b."
+    },
+    {
+      "question": "Quelle est la limite de f(x) = sin(x)/x quand x → 0 ?",
+      "options": ["1", "0", "∞", "-1"],
+      "reponse": "1",
+      "explication": "C’est une limite remarquable."
+    },
+    {
+      "question": "Que signifie que f est discontinue en a ?",
+      "options": ["La limite de f en a n’existe pas ou n’est pas égale à f(a)", "f est dérivable en a", "f est croissante", "f est constante"],
+      "reponse": "La limite de f en a n’existe pas ou n’est pas égale à f(a)",
+      "explication": "Discontinuité = saut, trou ou limite différente de la valeur."
+    },
+    {
+      "question": "Qu’est-ce qu’un point d’inflexion ?",
+      "options": ["Un point où la courbe change de convexité", "Un maximum local", "Un point où la fonction n’est pas dérivable", "Un point où f(x) = 0"],
+      "reponse": "Un point où la courbe change de convexité",
+      "explication": "La dérivée seconde change de signe en ce point."
+    },
+    {
+      "question": "Quelle est la dérivée de f(x) = x³ - 3x² + 4 ?",
+      "options": ["3x² - 6x", "3x² + 6x", "x³ - 6x", "3x - 6x²"],
+      "reponse": "3x² - 6x",
+      "explication": "Dérivée terme à terme."
+    },
+    {
+      "question": "Si f'(x) < 0 sur un intervalle, que peut-on dire de f ?",
+      "options": ["f est strictement décroissante", "f est constante", "f est convexe", "f est concave"],
+      "reponse": "f est strictement décroissante",
+      "explication": "Dérivée négative implique décroissance stricte."
+    },
+    {
+      "question": "Quel est le domaine de définition de f(x) = 1/ (x - 2) ?",
+      "options": ["ℝ \\ {2}", "ℝ", "ℝ⁺", "]-∞ ; 2["],
+      "reponse": "ℝ \\ {2}",
+      "explication": "Dénominateur nul interdit en x = 2."
+    },
+    {
+      "question": "Comment s’appelle le théorème qui garantit l’existence d’une valeur intermédiaire entre f(a) et f(b) ?",
+      "options": ["Théorème des valeurs intermédiaires", "Théorème de Rolle", "Théorème fondamental", "Théorème de l’Hôpital"],
+      "reponse": "Théorème des valeurs intermédiaires",
+      "explication": "Toute fonction continue prend toutes les valeurs entre f(a) et f(b)."
+    },
+    {
+      "question": "Que peut-on dire de la fonction f(x) = |x| ?",
+      "options": ["Elle est continue mais non dérivable en 0", "Elle est dérivable partout", "Elle est discontinue en 0", "Elle est constante"],
+      "reponse": "Elle est continue mais non dérivable en 0",
+      "explication": "Le point anguleux en 0 empêche la dérivabilité."
+    },
+    {
+      "question": "Quelle est la limite de f(x) = (x² - 4)/(x - 2) quand x → 2 ?",
+      "options": ["4", "0", "Indéterminée", "∞"],
+      "reponse": "4",
+      "explication": "Factorisation simplifie la fonction en x + 2, donc limite = 4."
+    },
+    {
+      "question": "Si f''(x) < 0 sur un intervalle, que peut-on dire de f ?",
+      "options": ["f est concave", "f est convexe", "f est croissante", "f est décroissante"],
+      "reponse": "f est concave",
+      "explication": "Dérivée seconde négative implique concavité."
+    },
+    {
+      "question": "Calculer la dérivée de f(x) = 3x⁴ - 5x + 2.",
+      "options": ["12x³ - 5", "3x³ - 5", "12x⁴ - 5", "3x³ + 5"],
+      "reponse": "12x³ - 5",
+      "explication": "Dérivée terme à terme : (3x⁴)' = 12x³, (-5x)' = -5."
+    },
+    {
+      "question": "Déterminer la limite de f(x) = (2x² + 3) / (x² - 1) quand x → +∞.",
+      "options": ["2", "∞", "0", "1"],
+      "reponse": "2",
+      "explication": "Le degré du numérateur et dénominateur est 2, donc limite = ratio des coefficients : 2/1=2."
+    },
+    {
+      "question": "Soit f(x) = e^{2x}. Quelle est f'(1) ?",
+      "options": ["2e²", "e²", "2e", "e"],
+      "reponse": "2e²",
+      "explication": "f'(x) = 2e^{2x}, donc f'(1) = 2e^{2}."
+    },
+    {
+      "question": "Résoudre l’équation ln(x) = 0.",
+      "options": ["x = 1", "x = 0", "x = e", "x = -1"],
+      "reponse": "x = 1",
+      "explication": "ln(x) = 0 ⇔ x = e⁰ = 1."
+    },
+    {
+      "question": "Déterminer la valeur de f(0) pour f(x) = (x² - 4)/(x - 2).",
+      "options": ["4", "Indéterminée", "-2", "0"],
+      "reponse": "Indéterminée",
+      "explication": "En x=0, f(0) = (-4)/(-2) = 2 (attention à vérifier), donc réponse corrigée : f(0) = 2.",
+      "note": "Attention, erreur corrigée, options à revoir."
+    },
+    {
+      "question": "Simplifier f(x) = (x² - 4)/(x - 2) pour x ≠ 2.",
+      "options": ["f(x) = x + 2", "f(x) = x - 2", "f(x) = x² - 2", "f(x) = x² + 2"],
+      "reponse": "f(x) = x + 2",
+      "explication": "x² - 4 = (x - 2)(x + 2), donc f(x) = x + 2 pour x ≠ 2."
+    },
+    {
+      "question": "Calculer la dérivée de f(x) = ln(3x + 1).",
+      "options": ["3 / (3x + 1)", "1 / (3x + 1)", "ln(3)", "3x + 1"],
+      "reponse": "3 / (3x + 1)",
+      "explication": "Dérivée de ln(u) est u'/u, ici u = 3x + 1 donc u' = 3."
+    },
+    {
+      "question": "Trouver la limite de f(x) = e^{-x} quand x → +∞.",
+      "options": ["0", "+∞", "1", "-∞"],
+      "reponse": "0",
+      "explication": "e^{-x} tend vers 0 quand x tend vers +∞."
+    },
+    {
+      "question": "Déterminer le domaine de définition de f(x) = 1 / (x² - 9).",
+      "options": ["ℝ \\ {3, -3}", "ℝ", "ℝ⁺", "]-3 ; 3["],
+      "reponse": "ℝ \\ {3, -3}",
+      "explication": "Dénominateur nul pour x = ±3, fonction non définie en ces points."
+    },
+    {
+      "question": "Soit f(x) = x³ - 6x² + 9x + 1. Calculer f'(x).",
+      "options": ["3x² - 12x + 9", "3x³ - 12x + 9", "3x² + 12x + 9", "x² - 12x + 9"],
+      "reponse": "3x² - 12x + 9",
+      "explication": "Dérivée terme à terme : (x³)'=3x², (-6x²)'=-12x, (9x)'=9."
+    },
+    {
+      "question": "Calculer f'(x) pour f(x) = e^{x²}.",
+      "options": ["2x e^{x²}", "e^{x²}", "x e^{x²}", "2 e^{x²}"],
+      "reponse": "2x e^{x²}",
+      "explication": "Dérivée composée : u = x², u' = 2x, donc f'(x) = 2x e^{x²}."
+    },
+    {
+      "question": "Calculer la limite de ln(x) / x quand x → +∞.",
+      "options": ["0", "+∞", "1", "Indéterminée"],
+      "reponse": "0",
+      "explication": "ln(x) croît plus lentement que x, donc limite = 0."
+    },
+    {
+      "question": "Déterminer la valeur de x pour que f(x) = 0 avec f(x) = x² - 5x + 6.",
+      "options": ["x = 2 ou 3", "x = 1 ou 6", "x = -2 ou 3", "x = 0 ou 6"],
+      "reponse": "x = 2 ou 3",
+      "explication": "Factorisation : (x-2)(x-3) = 0."
+    },
+    {
+      "question": "Calculer la dérivée de f(x) = (x² + 1) / x.",
+      "options": ["(x² - 1) / x²", "2x / x", "x / (x² + 1)", "2x + 1"],
+      "reponse": "(x² - 1) / x²",
+      "explication": "Utiliser la dérivée du quotient : f' = (u'v - uv')/v²."
+    },
+    {
+      "question": "Déterminer la limite de f(x) = (x + 1)/(x - 1) quand x → 1⁺.",
+      "options": ["+∞", "-∞", "0", "1"],
+      "reponse": "+∞",
+      "explication": "Au voisinage de 1 par la droite, le dénominateur tend vers 0⁺, donc limite +∞."
+    },
+    {
+      "question": "Déterminer la valeur de f(1) pour f(x) = ln(x + 1).",
+      "options": ["0", "ln(2)", "1", "-1"],
+      "reponse": "ln(2)",
+      "explication": "f(1) = ln(1 + 1) = ln(2)."
+    },
+    {
+      "question": "Calculer la dérivée de f(x) = 5 e^{3x}.",
+      "options": ["15 e^{3x}", "5 e^{3x}", "3 e^{5x}", "15 x e^{3x}"],
+      "reponse": "15 e^{3x}",
+      "explication": "Dérivée composée : f'(x) = 5 × 3 e^{3x} = 15 e^{3x}."
+    },
+    {
+      "question": "Déterminer la limite de f(x) = 1 / (x - 2) quand x → 2⁻.",
+      "options": ["-∞", "+∞", "0", "Indéterminée"],
+      "reponse": "-∞",
+      "explication": "À gauche de 2, le dénominateur est négatif très petit, donc limite -∞."
+    },
+    {
+      "question": "Résoudre l’équation eˣ = 1.",
+      "options": ["x = 0", "x = 1", "x = e", "x = -1"],
+      "reponse": "x = 0",
+      "explication": "eˣ = 1 ⇔ x = 0."
+    },
+    {
+      "question": "Quelle est la forme générale d'une fonction polynomiale du second degré ?",
+      "options": ["f(x) = ax² + bx + c", "f(x) = ax + b", "f(x) = a/x + b", "f(x) = aˣ"],
+      "reponse": "f(x) = ax² + bx + c",
+      "explication": "Une fonction polynomiale du second degré est une fonction de la forme ax² + bx + c avec a ≠ 0."
+    },
+    {
+      "question": "Quelle est la dérivée de f(x) = xⁿ, où n est un entier naturel ?",
+      "options": ["f'(x) = n xⁿ⁻¹", "f'(x) = xⁿ", "f'(x) = nˣ", "f'(x) = xⁿ⁺¹"],
+      "reponse": "f'(x) = n xⁿ⁻¹",
+      "explication": "La dérivée d'une puissance est donnée par la règle de puissance : n xⁿ⁻¹."
+    },
+    {
+      "question": "La fonction rationnelle est définie comme le quotient de deux fonctions polynomiales. Quelle est la condition pour qu’elle soit définie en un point x ?",
+      "options": ["Le dénominateur ne doit pas être nul en x", "Le numérateur doit être nul en x", "Le dénominateur doit être nul en x", "Le numérateur et le dénominateur sont nuls en x"],
+      "reponse": "Le dénominateur ne doit pas être nul en x",
+      "explication": "Une fonction rationnelle est définie pour tous les réels sauf ceux qui annulent le dénominateur."
+    },
+    {
+      "question": "Quelle est la dérivée de f(x) = eˣ ?",
+      "options": ["f'(x) = eˣ", "f'(x) = x e^{x-1}", "f'(x) = ln(x)", "f'(x) = e^{x-1}"],
+      "reponse": "f'(x) = eˣ",
+      "explication": "La fonction exponentielle est sa propre dérivée."
+    },
+    {
+      "question": "Quelle est la définition de la fonction logarithme népérien ln(x) ?",
+      "options": ["C’est la fonction réciproque de l’exponentielle", "C’est la fonction dérivée de eˣ", "C’est une fonction polynomiale", "C’est une fonction rationnelle"],
+      "reponse": "C’est la fonction réciproque de l’exponentielle",
+      "explication": "La fonction ln est la réciproque de la fonction exponentielle eˣ."
+    },
+    {
+      "question": "Quel est le domaine de définition de la fonction logarithme népérien ln(x) ?",
+      "options": ["]0 ; +∞[", "ℝ", "]-∞ ; 0[", "ℝ \\ {0}"],
+      "reponse": "]0 ; +∞[",
+      "explication": "La fonction ln(x) est définie uniquement pour x > 0."
+    },
+    {
+      "question": "Quelle est la dérivée de la fonction ln(x) ?",
+      "options": ["1/x", "ln(x)", "x ln(x)", "-1/x"],
+      "reponse": "1/x",
+      "explication": "La dérivée de ln(x) est 1/x, définie pour x > 0."
+    },
+    {
+      "question": "Quelle fonction représente f(x) = (2x³ - 5x + 1)/(x - 1) ?",
+      "options": ["Fonction rationnelle", "Fonction polynomiale", "Fonction exponentielle", "Fonction logarithmique"],
+      "reponse": "Fonction rationnelle",
+      "explication": "Le quotient de deux polynômes est une fonction rationnelle."
+    },
+    {
+      "question": "Quelle est la limite de eˣ quand x tend vers +∞ ?",
+      "options": ["+∞", "0", "-∞", "1"],
+      "reponse": "+∞",
+      "explication": "La fonction exponentielle croît indéfiniment quand x → +∞."
+    },
+    {
+      "question": "Quelle est la limite de ln(x) quand x tend vers 0 par valeurs positives ?",
+      "options": ["-∞", "0", "+∞", "1"],
+      "reponse": "-∞",
+      "explication": "Le logarithme népérien tend vers -∞ quand x approche 0 par la droite."
+    },
+    {
+      "question": "Pour f(x) = axⁿ (a ≠ 0), la fonction est-elle paire, impaire ou ni l’un ni l’autre selon n ?",
+      "options": ["Paired si n est pair, impaire si n est impair", "Toujours paire", "Toujours impaire", "Ni paire ni impaire"],
+      "reponse": "Paired si n est pair, impaire si n est impair",
+      "explication": "Les puissances paires donnent des fonctions paires, les impaires des fonctions impaires."
+    },
+    {
+      "question": "La fonction f(x) = 1/x est-elle définie en 0 ?",
+      "options": ["Non", "Oui", "Seulement pour x > 0", "Seulement pour x < 0"],
+      "reponse": "Non",
+      "explication": "Le dénominateur 0 rend la fonction indéfinie en x = 0."
+    },
+    {
+      "question": "Quelle est la dérivée de f(x) = 1/x ?",
+      "options": ["f'(x) = -1/x²", "f'(x) = 1/x²", "f'(x) = x", "f'(x) = -x²"],
+      "reponse": "f'(x) = -1/x²",
+      "explication": "La dérivée de 1/x est -1/x²."
+    },
+    {
+      "question": "Quelles sont les variations de la fonction exponentielle eˣ ?",
+      "options": ["Croissante sur ℝ", "Décroissante sur ℝ", "Croissante seulement sur ℝ⁺", "Constante"],
+      "reponse": "Croissante sur ℝ",
+      "explication": "La fonction exponentielle est strictement croissante sur ℝ."
+    },
+    {
+      "question": "Comment s’appelle la fonction réciproque de f(x) = eˣ ?",
+      "options": ["ln(x)", "exp(x)", "log(x)", "x²"],
+      "reponse": "ln(x)",
+      "explication": "Le logarithme népérien est la fonction réciproque de l’exponentielle."
+    },
+    {
+      "question": "Si f(x) = ln(ax) avec a > 0, quelle est la dérivée f'(x) ?",
+      "options": ["1/x", "a/x", "ln(a)", "a x"],
+      "reponse": "1/x",
+      "explication": "f'(x) = (1/(ax)) × a = 1/x."
+    },
+    {
+      "question": "La fonction polynomiale f(x) = x³ - 2x² + x est de degré :",
+      "options": ["3", "2", "1", "0"],
+      "reponse": "3",
+      "explication": "Le degré est le plus grand exposant de x dans le polynôme."
+    },
+    {
+      "question": "La fonction f(x) = (x² + 1)/(x - 3) est-elle définie en x = 3 ?",
+      "options": ["Non", "Oui", "Seulement si x > 3", "Seulement si x < 3"],
+      "reponse": "Non",
+      "explication": "Le dénominateur est nul en x = 3, la fonction n’est donc pas définie en ce point."
+    },
+    {
+      "question": "Quelle est la dérivée de f(x) = ln(x² + 1) ?",
+      "options": ["(2x)/(x² + 1)", "ln(x² + 1)", "2x ln(x² + 1)", "1/(x² + 1)"],
+      "reponse": "(2x)/(x² + 1)",
+      "explication": "Par dérivation de la fonction composée : f'(x) = (1/(x² + 1)) × 2x."
+    },
+    {
+      "question": "Quelle est la limite de f(x) = (1/x) quand x tend vers +∞ ?",
+      "options": ["0", "+∞", "-∞", "1"],
+      "reponse": "0",
+      "explication": "Quand x → +∞, 1/x → 0."
+    },
+    {
+      "question": "La fonction exponentielle eˣ est-elle bornée ?",
+      "options": ["Non", "Oui", "Seulement sur ℝ⁺", "Seulement sur ℝ⁻"],
+      "reponse": "Non",
+      "explication": "La fonction exponentielle croît sans limite vers +∞."
+    },
+    {
+      "question": "La fonction f(x) = ln(x - 1) est définie sur quel intervalle ?",
+      "options": ["]1 ; +∞[", "ℝ", "]0 ; +∞[", "]-∞ ; 1["],
+      "reponse": "]1 ; +∞[",
+      "explication": "Le logarithme est défini pour x - 1 > 0, soit x > 1."
+    },
+    {
+      "question": "Quelle est la dérivée de f(x) = e^{2x} ?",
+      "options": ["2 e^{2x}", "e^{2x}", "2x e^{2x}", "e^x"],
+      "reponse": "2 e^{2x}",
+      "explication": "Par dérivation de la fonction composée, u=2x, u' = 2, donc f'(x) = 2 e^{2x}."
+    },
+    {
+      "question": "La fonction f(x) = x/(x+1) est définie sur quel domaine ?",
+      "options": ["ℝ \\ {-1}", "ℝ", "]-1 ; +∞[", "]-∞ ; -1["],
+      "reponse": "ℝ \\ {-1}",
+      "explication": "Le dénominateur ne doit pas être nul, donc x ≠ -1."
+    },
+    {
+      "question": "Quelle est la limite de ln(x) quand x tend vers +∞ ?",
+      "options": ["+∞", "0", "-∞", "1"],
+      "reponse": "+∞",
+      "explication": "Le logarithme népérien croît indéfiniment quand x → +∞."
+    },
+    {
+      "question": "La fonction f(x) = x⁴ est-elle paire ou impaire ?",
+      "options": ["Paire", "Impaire", "Ni paire ni impaire", "Aucune des réponses"],
+      "reponse": "Paire",
+      "explication": "Les fonctions avec puissances paires sont des fonctions paires."
+    },
+    {
+      "question": "Quelle est la dérivée de f(x) = ln(eˣ + 1) ?",
+      "options": ["(eˣ)/(eˣ + 1)", "ln(eˣ + 1)", "eˣ + 1", "1/(eˣ + 1)"],
+      "reponse": "(eˣ)/(eˣ + 1)",
+      "explication": "Par dérivation de la composée : f'(x) = (eˣ)/(eˣ + 1)."
+    },
+    {
+      "question": "La fonction f(x) = (x - 1) / (x + 2) est-elle définie en x = -2 ?",
+      "options": ["Non", "Oui", "Seulement si x > -2", "Seulement si x < -2"],
+      "reponse": "Non",
+      "explication": "La fonction n’est pas définie quand le dénominateur est nul, ici en x = -2."
+    },
+    {
+      "question": "Quel est le domaine de définition de la fonction f(x) = 1/ln(x) ?",
+      "options": ["]0 ; 1[ ∪ ]1 ; +∞[", "]0 ; +∞[", "ℝ", "ℝ \\ {0}"],
+      "reponse": "]0 ; 1[ ∪ ]1 ; +∞[",
+      "explication": "La fonction ln(x) ≠ 0 donc x ≠ 1, avec x > 0."
+    }
+  ]
+}

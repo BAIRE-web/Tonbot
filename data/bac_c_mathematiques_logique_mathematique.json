@@ -1,0 +1,620 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la valeur de vérité de l’énoncé : \"Si 2 > 3 alors la lune est en fromage\" ?",
+      "options": ["Vrai", "Faux", "Inconnu", "Paradoxal"],
+      "reponse": "Vrai",
+      "explication": "Une implication est vraie si l’hypothèse est fausse (2 > 3 est faux)."
+    },
+    {
+      "question": "La négation de \"p et q\" est équivalente à :",
+      "options": ["Non p ou non q", "p ou q", "Non p et non q", "p et non q"],
+      "reponse": "Non p ou non q",
+      "explication": "¬(p ∧ q) ≡ (¬p ∨ ¬q) — loi de De Morgan."
+    },
+    {
+      "question": "Si p : \"Il pleut\", q : \"Je prends un parapluie\". L’implication \"p ⇒ q\" signifie :",
+      "options": ["S’il pleut alors je prends un parapluie", "Je prends un parapluie même s’il ne pleut pas", "Il ne pleut pas", "Il pleut si je prends un parapluie"],
+      "reponse": "S’il pleut alors je prends un parapluie",
+      "explication": "p ⇒ q exprime une condition suffisante de pluie."
+    },
+    {
+      "question": "Quelle est la table de vérité de l'implication p ⇒ q ?",
+      "options": [
+        "V V → V, V F → F, F V → V, F F → V",
+        "V V → V, V F → F, F V → F, F F → F",
+        "V V → V, V F → V, F V → F, F F → V",
+        "V V → F, V F → V, F V → V, F F → V"
+      ],
+      "reponse": "V V → V, V F → F, F V → V, F F → V",
+      "explication": "C’est la table classique de l’implication."
+    },
+    {
+      "question": "La proposition (p ∨ ¬p) est :",
+      "options": ["Toujours vraie", "Toujours fausse", "Parfois vraie", "Contingente"],
+      "reponse": "Toujours vraie",
+      "explication": "C’est un **tautologie** (principe du tiers exclu)."
+    },
+    {
+      "question": "La négation de \"p ⇒ q\" est :",
+      "options": ["p ∧ ¬q", "¬p ⇒ ¬q", "¬p ∧ q", "p ⇒ ¬q"],
+      "reponse": "p ∧ ¬q",
+      "explication": "¬(p ⇒ q) ≡ p ∧ ¬q"
+    },
+    {
+      "question": "Si p est vrai et q est faux, que vaut p ⇒ q ?",
+      "options": ["Faux", "Vrai", "Indéterminé", "Vrai si p ≠ q"],
+      "reponse": "Faux",
+      "explication": "Une implication est fausse seulement quand le premier est vrai et le second faux."
+    },
+    {
+      "question": "Une proposition équivalente à \"p ⇒ q\" est :",
+      "options": ["¬p ∨ q", "¬q ∧ p", "p ∧ ¬q", "¬p ∧ q"],
+      "reponse": "¬p ∨ q",
+      "explication": "p ⇒ q ≡ ¬p ∨ q"
+    },
+    {
+      "question": "Que signifie l'expression logique \"¬(p ∨ q)\" ?",
+      "options": ["¬p ∧ ¬q", "p ∧ q", "¬p ∨ q", "p ⇒ q"],
+      "reponse": "¬p ∧ ¬q",
+      "explication": "Deuxième loi de De Morgan."
+    },
+    {
+      "question": "La proposition \"p ⇔ q\" est appelée :",
+      "options": ["Équivalence logique", "Contraposée", "Tautologie", "Absorption"],
+      "reponse": "Équivalence logique",
+      "explication": "Elle est vraie si p et q ont la même valeur de vérité."
+    },
+    {
+      "question": "Si \"p ⇒ q\" est vraie et q est fausse, que peut-on déduire ?",
+      "options": ["p est fausse", "p est vraie", "q est vraie", "Impossible de conclure"],
+      "reponse": "p est fausse",
+      "explication": "Si q est fausse et p ⇒ q est vraie, p ne peut être vraie."
+    },
+    {
+      "question": "Quel connecteur correspond à l’expression \"p ou q\" ?",
+      "options": ["∨", "∧", "⇒", "¬"],
+      "reponse": "∨",
+      "explication": "Le connecteur « ou » logique est ∨"
+    },
+    {
+      "question": "Que signifie ¬(¬p) ?",
+      "options": ["p", "¬p", "p ∧ q", "q"],
+      "reponse": "p",
+      "explication": "Double négation : revient à p"
+    },
+    {
+      "question": "Quelle est la table de vérité de \"p ∧ q\" ?",
+      "options": [
+        "V V → V, V F → F, F V → F, F F → F",
+        "V V → F, V F → F, F V → V, F F → V",
+        "V V → V, V F → V, F V → V, F F → F",
+        "V V → V, V F → V, F V → F, F F → V"
+      ],
+      "reponse": "V V → V, V F → F, F V → F, F F → F",
+      "explication": "La conjonction est vraie seulement si les deux le sont."
+    },
+    {
+      "question": "Lequel est une tautologie ?",
+      "options": ["p ∨ ¬p", "p ∧ ¬p", "p ⇒ ¬p", "¬p ∨ ¬q"],
+      "reponse": "p ∨ ¬p",
+      "explication": "Tautologie = toujours vraie, ici selon le principe du tiers exclu."
+    },
+    {
+      "question": "Quel est l’équivalent logique de \"p ⇔ q\" ?",
+      "options": ["(p ⇒ q) ∧ (q ⇒ p)", "p ∨ q", "¬p ∧ q", "p ∧ q"],
+      "reponse": "(p ⇒ q) ∧ (q ⇒ p)",
+      "explication": "C’est la définition même de l’équivalence logique."
+    },
+    {
+      "question": "Si p est fausse, que vaut ¬p ?",
+      "options": ["Vrai", "Faux", "Inconnu", "Paradoxal"],
+      "reponse": "Vrai",
+      "explication": "La négation inverse la valeur de vérité."
+    },
+    {
+      "question": "Une contradiction est une formule :",
+      "options": ["Toujours fausse", "Toujours vraie", "Souvent vraie", "Parfois vraie"],
+      "reponse": "Toujours fausse",
+      "explication": "C’est l’opposé d’une tautologie."
+    },
+    {
+      "question": "Quelle est la négation correcte de : \"Tous les élèves ont réussi\" ?",
+      "options": ["Certains élèves n'ont pas réussi", "Aucun élève n’a échoué", "Tous ont échoué", "Au moins deux ont échoué"],
+      "reponse": "Certains élèves n'ont pas réussi",
+      "explication": "Négation de \"Tous\" = \"Au moins un… pas\""
+    },
+    {
+      "question": "Une implication est équivalente à :",
+      "options": ["¬p ∨ q", "p ∧ q", "p ∨ ¬q", "p ∧ ¬q"],
+      "reponse": "¬p ∨ q",
+      "explication": "Formule équivalente à l’implication."
+    },
+    {
+      "question": "La négation de \"p ∨ q\" est :",
+      "options": ["¬p ∧ ¬q", "¬p ∨ ¬q", "p ∧ q", "p ⇒ q"],
+      "reponse": "¬p ∧ ¬q",
+      "explication": "Deuxième loi de De Morgan."
+    },
+    {
+      "question": "Complétez : Une implication est fausse quand...",
+      "options": ["p est vraie et q est fausse", "p est fausse", "q est vraie", "p et q sont vraies"],
+      "reponse": "p est vraie et q est fausse",
+      "explication": "C’est le seul cas où elle est fausse."
+    },
+    {
+      "question": "La proposition \"Il pleut ou il ne pleut pas\" est :",
+      "options": ["Tautologie", "Contradiction", "Fausse", "Contingente"],
+      "reponse": "Tautologie",
+      "explication": "C’est toujours vrai, quelle que soit la situation."
+    },
+    {
+      "question": "Si ¬(p ∧ q) est vraie, alors :",
+      "options": ["Au moins l’une des deux est fausse", "p et q sont fausses", "p est vraie", "q est vraie"],
+      "reponse": "Au moins l’une des deux est fausse",
+      "explication": "¬(p ∧ q) signifie que p et q ne sont pas toutes deux vraies."
+    },
+    {
+      "question": "Quelle est la forme contraposée de p ⇒ q ?",
+      "options": ["¬q ⇒ ¬p", "q ⇒ p", "p ⇒ ¬q", "¬p ⇒ q"],
+      "reponse": "¬q ⇒ ¬p",
+      "explication": "C’est la forme logiquement équivalente à p ⇒ q."
+    },
+    {
+      "question": "Le connecteur \"non\" correspond à :",
+      "options": ["¬", "∨", "∧", "⇒"],
+      "reponse": "¬",
+      "explication": "¬ est la négation logique."
+    },
+    {
+      "question": "Complétez : Une équivalence est vraie si...",
+      "options": ["p et q ont la même valeur de vérité", "p est vraie", "q est fausse", "p est différente de q"],
+      "reponse": "p et q ont la même valeur de vérité",
+      "explication": "Elle est vraie si les deux sont vraies ou toutes deux fausses."
+    },
+    {
+      "question": "Que vaut la proposition \"p ∧ ¬p\" ?",
+      "options": ["Toujours fausse", "Toujours vraie", "Parfois vraie", "Impossible à déterminer"],
+      "reponse": "Toujours fausse",
+      "explication": "Contradiction logique : p ne peut être vraie et fausse en même temps."
+    },
+    {
+      "question": "La négation de \"Si p alors q\" est :",
+      "options": ["p ∧ ¬q", "¬p ⇒ q", "¬p ∧ q", "q ⇒ p"],
+      "reponse": "p ∧ ¬q",
+      "explication": "C’est la seule situation qui rend l’implication fausse."
+    },
+    {
+      "question": "Si p ⇔ q est vraie, alors :",
+      "options": ["p et q sont vraies ou toutes deux fausses", "p est vraie et q fausse", "q est vraie", "p est fausse uniquement"],
+      "reponse": "p et q sont vraies ou toutes deux fausses",
+      "explication": "Une équivalence logique lie deux propositions identiques."
+    },
+    {
+      "question": "On considère la proposition : \"Si x > 5 alors x² > 25\". Quelle est sa valeur de vérité pour x = 3 ?",
+      "options": ["Vraie", "Fausse", "Indéterminée", "Toujours vraie"],
+      "reponse": "Vraie",
+      "explication": "x > 5 est faux, donc l’implication est vraie."
+    },
+    {
+      "question": "La négation de \"Tout nombre impair est non divisible par 2\" est :",
+      "options": ["Il existe un nombre impair divisible par 2", "Aucun nombre impair n’est divisible par 2", "Tous les nombres impairs sont pairs", "Il existe un nombre pair impair"],
+      "reponse": "Il existe un nombre impair divisible par 2",
+      "explication": "La négation de \"Tout A est B\" est \"Il existe A non B\"."
+    },
+    {
+      "question": "Soit p : \"x est pair\", q : \"x est divisible par 2\". Laquelle est une équivalence ?",
+      "options": ["x est pair si et seulement si x est divisible par 2", "Si x est pair alors il est impair", "x divisible par 2 implique qu’il est impair", "x pair implique qu’il est un multiple de 3"],
+      "reponse": "x est pair si et seulement si x est divisible par 2",
+      "explication": "C’est une définition classique de l’équivalence logique."
+    },
+    {
+      "question": "Quelle est la contraposée de : \"Si un nombre est divisible par 4 alors il est pair\" ?",
+      "options": ["Si un nombre n’est pas pair alors il n’est pas divisible par 4", "Tout nombre pair est divisible par 4", "Si un nombre est impair alors il est divisible par 4", "Aucun nombre pair n’est divisible par 4"],
+      "reponse": "Si un nombre n’est pas pair alors il n’est pas divisible par 4",
+      "explication": "La contraposée est logiquement équivalente à l’originale."
+    },
+    {
+      "question": "Complétez la phrase : Si une implication est fausse, alors...",
+      "options": ["L’hypothèse est vraie et la conclusion fausse", "L’hypothèse est fausse et la conclusion vraie", "Les deux sont vraies", "La conclusion est fausse quelle que soit l’hypothèse"],
+      "reponse": "L’hypothèse est vraie et la conclusion fausse",
+      "explication": "C’est le seul cas où une implication est fausse."
+    },
+    {
+      "question": "Quel tableau de vérité donne toujours V sauf si p = V et q = F ?",
+      "options": ["p ⇒ q", "p ∧ q", "p ⇔ q", "p ∨ q"],
+      "reponse": "p ⇒ q",
+      "explication": "Une implication n’est fausse que dans ce seul cas."
+    },
+    {
+      "question": "Laquelle de ces expressions est une tautologie ?",
+      "options": ["p ∨ ¬p", "p ∧ ¬p", "¬p ∨ q", "p ⇒ p"],
+      "reponse": "p ∨ ¬p",
+      "explication": "C’est toujours vrai, quel que soit p."
+    },
+    {
+      "question": "Quelle est la valeur de vérité de (¬p ∧ p) ?",
+      "options": ["Fausse", "Vraie", "Indéterminée", "Contingente"],
+      "reponse": "Fausse",
+      "explication": "Une proposition ne peut pas être vraie et fausse en même temps."
+    },
+    {
+      "question": "Quelle est la négation correcte de : \"A ⇒ B\" ?",
+      "options": ["A ∧ ¬B", "¬A ⇒ ¬B", "¬A ∨ B", "¬B ⇒ A"],
+      "reponse": "A ∧ ¬B",
+      "explication": "C’est la seule situation qui rend l’implication fausse."
+    },
+    {
+      "question": "Si \"x est impair\" ⇔ \"x n’est pas divisible par 2\" est vraie, alors pour x = 7 ?",
+      "options": ["Vraie", "Fausse", "Dépend", "Impossible à dire"],
+      "reponse": "Vraie",
+      "explication": "7 est impair, donc pas divisible par 2."
+    },
+    {
+      "question": "Parmi les propositions suivantes, laquelle est une contradiction ?",
+      "options": ["p ∧ ¬p", "p ∨ ¬p", "p ⇒ p", "¬(p ∧ ¬p)"],
+      "reponse": "p ∧ ¬p",
+      "explication": "Elle est toujours fausse."
+    },
+    {
+      "question": "Quel est le résultat logique de : Si \"Tous les chats sont noirs\" est faux, alors ?",
+      "options": ["Il existe un chat qui n’est pas noir", "Tous les chats sont blancs", "Aucun chat n’est noir", "Tous les animaux sont noirs"],
+      "reponse": "Il existe un chat qui n’est pas noir",
+      "explication": "Négation de \"tous\" = \"il existe un… non\"."
+    },
+    {
+      "question": "Complétez : (p ⇒ q) ∧ (q ⇒ r) ⇒ (p ⇒ r) est...",
+      "options": ["Une tautologie", "Une contradiction", "Fausse", "Contingente"],
+      "reponse": "Une tautologie",
+      "explication": "C’est la transitivité de l’implication."
+    },
+    {
+      "question": "Si p ⇔ q est vraie et p est fausse, alors...",
+      "options": ["q est fausse", "q est vraie", "q est indéterminée", "Impossible à savoir"],
+      "reponse": "q est fausse",
+      "explication": "Pour que l'équivalence soit vraie, les deux doivent avoir la même valeur."
+    },
+    {
+      "question": "Quel est le bon équivalent logique de ¬(p ∨ q) ?",
+      "options": ["¬p ∧ ¬q", "¬p ∨ ¬q", "p ∧ q", "¬(¬p ∧ ¬q)"],
+      "reponse": "¬p ∧ ¬q",
+      "explication": "Loi de De Morgan."
+    },
+    {
+      "question": "Quelle est la forme contraposée de \"Si tu révises, tu réussiras\" ?",
+      "options": ["Si tu ne réussis pas, alors tu n’as pas révisé", "Si tu révises, alors tu ne réussiras pas", "Tu ne réviseras que si tu échoues", "Tu réussiras sans réviser"],
+      "reponse": "Si tu ne réussis pas, alors tu n’as pas révisé",
+      "explication": "Contraposée de p ⇒ q est ¬q ⇒ ¬p."
+    },
+    {
+      "question": "Une implication est-elle logiquement équivalente à sa contraposée ?",
+      "options": ["Oui", "Non", "Parfois", "Uniquement si p est vraie"],
+      "reponse": "Oui",
+      "explication": "Elles sont toujours logiquement équivalentes."
+    },
+    {
+      "question": "Soit p : \"3 est pair\". Quelle est la valeur de vérité de ¬p ?",
+      "options": ["Vraie", "Fausse", "Indéterminée", "Variable"],
+      "reponse": "Vraie",
+      "explication": "¬p signifie que 3 n’est pas pair, donc vrai."
+    },
+    {
+      "question": "Si (p ∨ q) est vraie et que q est fausse, que peut-on dire de p ?",
+      "options": ["p est vraie", "p est fausse", "p est équivalente à q", "Impossible à dire"],
+      "reponse": "p est vraie",
+      "explication": "p doit être vraie pour que l’alternative soit vraie."
+    },
+    {
+      "question": "Laquelle des affirmations suivantes est fausse ?",
+      "options": ["¬(p ∧ q) ≡ ¬p ∨ ¬q", "¬(p ∨ q) ≡ ¬p ∧ ¬q", "p ⇒ q ≡ ¬p ∨ q", "p ∧ q ≡ p ⇒ q"],
+      "reponse": "p ∧ q ≡ p ⇒ q",
+      "explication": "Cette dernière n’est pas une équivalence logique."
+    },
+    {
+      "question": "Laquelle de ces propositions est une tautologie ?",
+      "options": ["(p ⇒ q) ∨ (q ⇒ p)", "p ∧ ¬p", "p ⇔ q", "¬(p ∨ ¬p)"],
+      "reponse": "(p ⇒ q) ∨ (q ⇒ p)",
+      "explication": "C’est toujours vrai quels que soient p et q."
+    },
+    {
+      "question": "Que signifie la négation d’une proposition p, notée ¬p ?",
+      "options": ["Elle est vraie lorsque p est fausse", "Elle est toujours vraie", "Elle est équivalente à p", "Elle est fausse lorsque p est fausse"],
+      "reponse": "Elle est vraie lorsque p est fausse",
+      "explication": "La négation inverse la valeur de vérité d’une proposition."
+    },
+    {
+      "question": "Laquelle est la négation correcte de : \"Tous les élèves sont présents\" ?",
+      "options": ["Il existe au moins un élève absent", "Tous les élèves sont absents", "Aucun élève n’est présent", "Les élèves ne sont jamais présents"],
+      "reponse": "Il existe au moins un élève absent",
+      "explication": "La négation de \"tous\" est \"il existe au moins un… non\"."
+    },
+    {
+      "question": "Quelle est la négation correcte de \"p et q\" ?",
+      "options": ["¬p ou ¬q", "¬p et ¬q", "p ou q", "p implique q"],
+      "reponse": "¬p ou ¬q",
+      "explication": "D’après les lois de De Morgan : ¬(p ∧ q) ≡ ¬p ∨ ¬q."
+    },
+    {
+      "question": "Quelle est la négation correcte de \"p ou q\" ?",
+      "options": ["¬p et ¬q", "¬p ou ¬q", "p et q", "p implique q"],
+      "reponse": "¬p et ¬q",
+      "explication": "D’après De Morgan : ¬(p ∨ q) ≡ ¬p ∧ ¬q."
+    },
+    {
+      "question": "Quel est le symbole logique de l’implication ?",
+      "options": ["⇒", "∧", "∨", "⇔"],
+      "reponse": "⇒",
+      "explication": "L’implication logique est notée \"⇒\" (implique)."
+    },
+    {
+      "question": "Dans l’implication \"Si p alors q\", laquelle est l’hypothèse ?",
+      "options": ["p", "q", "¬p", "p ∨ q"],
+      "reponse": "p",
+      "explication": "Dans une implication p ⇒ q, p est l’hypothèse."
+    },
+    {
+      "question": "Dans \"Si p alors q\", que signifie la contraposée ?",
+      "options": ["¬q ⇒ ¬p", "p ⇒ ¬q", "¬p ⇒ q", "q ⇒ p"],
+      "reponse": "¬q ⇒ ¬p",
+      "explication": "La contraposée est logiquement équivalente à l’implication."
+    },
+    {
+      "question": "Laquelle est vraie pour une implication ?",
+      "options": ["Elle est fausse si p est vraie et q est fausse", "Elle est toujours vraie", "Elle est vraie si p est fausse et q est vraie", "Elle est fausse si p et q sont toutes les deux fausses"],
+      "reponse": "Elle est fausse si p est vraie et q est fausse",
+      "explication": "C’est le seul cas où l’implication est fausse."
+    },
+    {
+      "question": "Quel est l’équivalent logique de \"p ⇒ q\" ?",
+      "options": ["¬p ∨ q", "p ∨ q", "¬p ∧ q", "p ⇔ ¬q"],
+      "reponse": "¬p ∨ q",
+      "explication": "C’est une équivalence logique fondamentale."
+    },
+    {
+      "question": "Quelle est la définition d’une équivalence logique p ⇔ q ?",
+      "options": ["p et q ont toujours la même valeur de vérité", "p est toujours vraie", "q implique p uniquement", "p implique q mais pas l’inverse"],
+      "reponse": "p et q ont toujours la même valeur de vérité",
+      "explication": "Une équivalence est vraie lorsque p et q sont toutes les deux vraies ou fausses."
+    },
+    {
+      "question": "Lequel des énoncés suivants est une tautologie ?",
+      "options": ["p ∨ ¬p", "p ∧ ¬p", "¬(p ∨ q)", "p ⇒ ¬p"],
+      "reponse": "p ∨ ¬p",
+      "explication": "C’est toujours vrai, quel que soit p."
+    },
+    {
+      "question": "Quel est le seul cas où l’implication \"p ⇒ q\" est fausse ?",
+      "options": ["p vraie et q fausse", "p fausse et q fausse", "p fausse et q vraie", "p vraie et q vraie"],
+      "reponse": "p vraie et q fausse",
+      "explication": "C’est la condition d’invalidité d’une implication."
+    },
+    {
+      "question": "Quelle est la forme logique de la phrase : \"Avoir un code valide est une condition suffisante pour entrer\" ?",
+      "options": ["code valide ⇒ entrer", "entrer ⇒ code valide", "¬code ⇒ entrer", "entrer ∧ code valide"],
+      "reponse": "code valide ⇒ entrer",
+      "explication": "La condition suffisante correspond à l’antécédent d’une implication."
+    },
+    {
+      "question": "La négation de \"p ⇒ q\" est :",
+      "options": ["p ∧ ¬q", "¬p ∧ q", "¬p ∨ ¬q", "p ∨ q"],
+      "reponse": "p ∧ ¬q",
+      "explication": "C’est la seule situation qui rend \"p ⇒ q\" fausse."
+    },
+    {
+      "question": "Que signifie \"p ⇔ q\" est vraie ?",
+      "options": ["p et q ont la même valeur de vérité", "p est vraie, q est fausse", "p est fausse, q est vraie", "p ou q est vraie mais pas les deux"],
+      "reponse": "p et q ont la même valeur de vérité",
+      "explication": "Une équivalence est vraie uniquement si p et q sont égales."
+    },
+    {
+      "question": "Quel est l’équivalent logique de ¬(p ∧ q) ?",
+      "options": ["¬p ∨ ¬q", "¬p ∧ ¬q", "p ∨ q", "p ⇒ q"],
+      "reponse": "¬p ∨ ¬q",
+      "explication": "C’est la première loi de De Morgan."
+    },
+    {
+      "question": "Quel est l’équivalent logique de ¬(p ∨ q) ?",
+      "options": ["¬p ∧ ¬q", "¬p ∨ ¬q", "p ∧ q", "p ⇒ q"],
+      "reponse": "¬p ∧ ¬q",
+      "explication": "C’est la deuxième loi de De Morgan."
+    },
+    {
+      "question": "Complétez : \"Une proposition et sa négation sont toujours...\"",
+      "options": ["de valeurs de vérité opposées", "équivalentes", "simultanément vraies", "toujours fausses"],
+      "reponse": "de valeurs de vérité opposées",
+      "explication": "La négation inverse la vérité d’une proposition."
+    },
+    {
+      "question": "Le connecteur logique \"et\" se note :",
+      "options": ["∧", "∨", "⇒", "¬"],
+      "reponse": "∧",
+      "explication": "Il s’agit de la conjonction logique."
+    },
+    {
+      "question": "Le connecteur logique \"ou\" se note :",
+      "options": ["∨", "∧", "¬", "⇒"],
+      "reponse": "∨",
+      "explication": "C’est la disjonction logique."
+    },
+    {
+      "question": "La proposition \"p ∧ ¬p\" est toujours :",
+      "options": ["Fausse", "Vraie", "Contingente", "Équivalente à p"],
+      "reponse": "Fausse",
+      "explication": "Une contradiction est toujours fausse."
+    },
+    {
+      "question": "Dans une implication \"Si p alors q\", q est appelé :",
+      "options": ["Conséquent", "Antécédent", "Contraposé", "Conjugué"],
+      "reponse": "Conséquent",
+      "explication": "q est la conclusion de l’implication."
+    },
+    {
+      "question": "Que signifie : \"L'implication réciproque de p ⇒ q est\" ?",
+      "options": ["q ⇒ p", "¬p ⇒ q", "¬q ⇒ ¬p", "p ∧ q"],
+      "reponse": "q ⇒ p",
+      "explication": "C’est l’implication inverse."
+    },
+    {
+      "question": "Une tautologie est une proposition...",
+      "options": ["Toujours vraie", "Toujours fausse", "Parfois vraie", "Jamais testée"],
+      "reponse": "Toujours vraie",
+      "explication": "Elle est vraie quelles que soient les valeurs de vérité des composants."
+    },
+    {
+      "question": "Une contradiction est une proposition...",
+      "options": ["Toujours fausse", "Toujours vraie", "Parfois vraie", "Parfois fausse"],
+      "reponse": "Toujours fausse",
+      "explication": "C’est l’opposé d’une tautologie."
+    },
+    {
+      "question": "Que signifie : \"p ⇒ q\" est équivalent à ¬q ⇒ ¬p ?",
+      "options": ["C’est la contraposée", "C’est la réciproque", "C’est la conjonction", "C’est une négation"],
+      "reponse": "C’est la contraposée",
+      "explication": "La contraposée garde toujours la même valeur logique que l’implication."
+    },
+    {
+      "question": "Quel est l’équivalent logique de : \"Il n’est pas vrai que p implique q\" ?",
+      "options": ["p ∧ ¬q", "¬p ∧ q", "¬p ∨ q", "p ∨ q"],
+      "reponse": "p ∧ ¬q",
+      "explication": "C’est la négation d’une implication."
+    },
+    {
+      "question": "Laquelle de ces expressions est équivalente à (¬p ⇒ ¬q) ?",
+      "options": ["q ⇒ p", "¬q ⇒ ¬p", "p ⇒ q", "¬p ∧ ¬q"],
+      "reponse": "q ⇒ p",
+      "explication": "C’est l’équivalence contraposée inversée."
+    },
+    {
+      "question": "Quelle propriété traduit (p ⇒ q) ∧ (q ⇒ p) ?",
+      "options": ["p ⇔ q", "p ∧ q", "p ∨ q", "¬p ∧ q"],
+      "reponse": "p ⇔ q",
+      "explication": "Deux implications réciproques forment une équivalence."
+    },
+    {
+      "question": "Quelle phrase correspond à : \"¬(A ∧ B)\" ?",
+      "options": ["A n’est pas vraie ou B n’est pas vraie", "A est vraie et B aussi", "A et B sont toutes les deux fausses", "A est fausse donc B est vraie"],
+      "reponse": "A n’est pas vraie ou B n’est pas vraie",
+      "explication": "C’est la loi de De Morgan."
+    },
+    {
+      "question": "On considère l’implication : « Si x est pair alors x² est pair ». Quelle est sa valeur de vérité pour x = 4 ?",
+      "options": ["Vraie", "Fausse", "Indéterminée", "Impossible à dire"],
+      "reponse": "Vraie",
+      "explication": "4 est pair, et 4² = 16 est aussi pair, donc implication vraie."
+    },
+    {
+      "question": "Quelle est la contraposée de : « Si un triangle est équilatéral, alors ses angles sont égaux » ?",
+      "options": ["Si les angles ne sont pas égaux alors ce n’est pas un triangle équilatéral", "Si c’est un triangle équilatéral alors les angles ne sont pas égaux", "Tous les triangles ont des angles égaux", "Les triangles isocèles ont aussi des angles égaux"],
+      "reponse": "Si les angles ne sont pas égaux alors ce n’est pas un triangle équilatéral",
+      "explication": "Contraposée : ¬q ⇒ ¬p."
+    },
+    {
+      "question": "On considère p : « x est divisible par 3 » et q : « x est impair ». Pour x = 6, quelle est la valeur de ¬p ∨ q ?",
+      "options": ["Fausse", "Vraie", "Impossible à dire", "Toujours vraie"],
+      "reponse": "Fausse",
+      "explication": "x = 6 est divisible par 3 (p vrai), impair = faux (q faux), donc ¬p = faux, q = faux → ¬p ∨ q = faux."
+    },
+    {
+      "question": "La négation de : « Tous les entiers naturels sont positifs » est :",
+      "options": ["Il existe un entier naturel qui n’est pas positif", "Tous les entiers sont négatifs", "Aucun entier n’est naturel", "Les entiers positifs ne sont pas naturels"],
+      "reponse": "Il existe un entier naturel qui n’est pas positif",
+      "explication": "Négation d’un universel = il existe un contre-exemple."
+    },
+    {
+      "question": "Quelle est la valeur de vérité de (¬p ∧ p) si p est vraie ?",
+      "options": ["Fausse", "Vraie", "Contingente", "Toujours vraie"],
+      "reponse": "Fausse",
+      "explication": "¬p est fausse donc conjonction est fausse."
+    },
+    {
+      "question": "Complétez : Si « x est divisible par 2 » ⇒ « x est pair » est vraie, alors que vaut la contraposée ?",
+      "options": ["Si x n’est pas pair alors x n’est pas divisible par 2", "Si x est pair alors x n’est pas divisible par 2", "x est impair donc divisible par 2", "x pair implique x impair"],
+      "reponse": "Si x n’est pas pair alors x n’est pas divisible par 2",
+      "explication": "Contraposée logique de p ⇒ q est ¬q ⇒ ¬p."
+    },
+    {
+      "question": "Quelle est la valeur de vérité de p ⇒ q si p est fausse et q est vraie ?",
+      "options": ["Vraie", "Fausse", "Indéterminée", "Contradictoire"],
+      "reponse": "Vraie",
+      "explication": "Une implication est toujours vraie si l’hypothèse est fausse."
+    },
+    {
+      "question": "La proposition \"p ∧ (¬p ∨ q)\" est équivalente à :",
+      "options": ["p ∧ q", "p ∨ q", "¬p ∧ q", "p ∧ ¬p"],
+      "reponse": "p ∧ q",
+      "explication": "Distribution logique des connecteurs."
+    },
+    {
+      "question": "On affirme : \"Si un nombre est divisible par 6, alors il est divisible par 3\". Est-ce une implication vraie ?",
+      "options": ["Oui", "Non", "Parfois", "Uniquement pour les pairs"],
+      "reponse": "Oui",
+      "explication": "Tout multiple de 6 est un multiple de 3, donc implication vraie."
+    },
+    {
+      "question": "Soit p : \"7 est pair\". Quelle est la valeur de ¬p ?",
+      "options": ["Vraie", "Fausse", "Indéterminée", "Toujours vraie"],
+      "reponse": "Vraie",
+      "explication": "¬p = \"7 n’est pas pair\" est vraie."
+    },
+    {
+      "question": "Soit p : \"2 + 2 = 5\" et q : \"0 < -1\". Que vaut p ∨ q ?",
+      "options": ["Fausse", "Vraie", "Indéterminée", "Paradoxale"],
+      "reponse": "Fausse",
+      "explication": "Les deux propositions sont fausses donc leur disjonction est fausse."
+    },
+    {
+      "question": "Si p est fausse et q est fausse, quelle est la valeur de ¬p ⇒ q ?",
+      "options": ["Fausse", "Vraie", "Contingente", "Incohérente"],
+      "reponse": "Fausse",
+      "explication": "¬p est vraie, q est fausse, donc ¬p ⇒ q = faux."
+    },
+    {
+      "question": "On donne la proposition : \"Si un carré a 4 côtés alors il a 4 angles\". Sa réciproque est :",
+      "options": ["Si une figure a 4 angles alors c’est un carré", "Si un carré a 4 angles alors il a 4 côtés", "Si une figure a 4 côtés alors elle est carrée", "Si une figure a 4 angles alors elle a 4 côtés"],
+      "reponse": "Si une figure a 4 angles alors elle a 4 côtés",
+      "explication": "La réciproque inverse les rôles de p et q."
+    },
+    {
+      "question": "Quel est l’équivalent logique de (¬p ∨ q) ?",
+      "options": ["p ⇒ q", "q ⇒ p", "¬q ∨ p", "p ⇔ q"],
+      "reponse": "p ⇒ q",
+      "explication": "C’est une forme équivalente classique."
+    },
+    {
+      "question": "Parmi les cas suivants, lequel rend l’implication p ⇒ q fausse ?",
+      "options": ["p vraie et q fausse", "p fausse et q vraie", "p fausse et q fausse", "p vraie et q vraie"],
+      "reponse": "p vraie et q fausse",
+      "explication": "C’est la seule situation qui invalide une implication."
+    },
+    {
+      "question": "Une proposition p ⇒ q est vraie. Si q est fausse, que peut-on dire de p ?",
+      "options": ["p est fausse", "p est vraie", "p est indéterminée", "q est vraie aussi"],
+      "reponse": "p est fausse",
+      "explication": "Sinon, l’implication serait fausse."
+    },
+    {
+      "question": "Complétez la table de vérité de p ⇒ q. Quand est-elle fausse ?",
+      "options": ["Quand p est vraie et q est fausse", "Quand p est fausse et q est fausse", "Quand p est fausse et q est vraie", "Quand p est vraie et q est vraie"],
+      "reponse": "Quand p est vraie et q est fausse",
+      "explication": "Rappel de la définition logique."
+    },
+    {
+      "question": "Soit p vraie et q fausse. Quelle est la valeur de p ⇔ q ?",
+      "options": ["Fausse", "Vraie", "Indéterminée", "Variable"],
+      "reponse": "Fausse",
+      "explication": "L’équivalence est fausse si les valeurs sont différentes."
+    },
+    {
+      "question": "Quelle propriété est utilisée ici : (p ⇒ q) ∧ (q ⇒ p) ⇒ (p ⇔ q) ?",
+      "options": ["Équivalence logique", "Implication directe", "Négation double", "Disjonction"],
+      "reponse": "Équivalence logique",
+      "explication": "L’équivalence est la conjonction des deux implications."
+    },
+    {
+      "question": "Une tautologie est une formule qui est...",
+      "options": ["Toujours vraie", "Toujours fausse", "Parfois vraie", "Jamais utilisée"],
+      "reponse": "Toujours vraie",
+      "explication": "Elle est vérifiée dans toutes les situations logiques possibles."
+    }
+  ]
+}

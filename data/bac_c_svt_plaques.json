@@ -1,0 +1,286 @@
+{
+  "qcm": [
+    {
+      "question": "Qu'est-ce que la tectonique des plaques ?",
+      "options": ["Mouvement des grandes plaques rigides de la lithosphère", "Formation des roches sédimentaires", "Circulation atmosphérique", "Activité solaire"],
+      "reponse": "Mouvement des grandes plaques rigides de la lithosphère",
+      "explication": "La lithosphère est divisée en plaques qui se déplacent à la surface de la Terre."
+    },
+    {
+      "question": "Quelle est la principale cause des déplacements des plaques lithosphériques ?",
+      "options": ["Convection mantellique", "Mouvements des océans", "Forces gravitationnelles lunaires", "Activité volcanique"],
+      "reponse": "Convection mantellique",
+      "explication": "Les mouvements de convection dans l’asthénosphère entraînent les plaques rigides."
+    },
+    {
+      "question": "Dans une zone de divergence, les plaques :",
+      "options": ["S’éloignent l’une de l’autre", "Se rapprochent", "Glissent horizontalement", "Ne bougent pas"],
+      "reponse": "S’éloignent l’une de l’autre",
+      "explication": "Les zones de divergence sont des dorsales où le magma crée de la nouvelle croûte océanique."
+    },
+    {
+      "question": "Qu’est-ce qu’une zone de subduction ?",
+      "options": ["Une plaque océanique plonge sous une autre plaque", "Deux plaques s’éloignent", "Une plaque glisse latéralement", "Aucune interaction"],
+      "reponse": "Une plaque océanique plonge sous une autre plaque",
+      "explication": "La subduction provoque la formation de fosses océaniques et d’activité volcanique."
+    },
+    {
+      "question": "Quel type de limite de plaques est associé aux séismes très profonds ?",
+      "options": ["Zone de subduction", "Dorsale océanique", "Faille transformante", "Frontière passive"],
+      "reponse": "Zone de subduction",
+      "explication": "La plongée de la plaque provoque des séismes profonds le long du plan de Benioff."
+    },
+    {
+      "question": "Les volcans explosifs sont souvent associés à :",
+      "options": ["Zones de subduction", "Dorsales océaniques", "Plaques divergentes", "Zones de faille transformante"],
+      "reponse": "Zones de subduction",
+      "explication": "La fusion partielle de la plaque plongeante crée un magma riche en silice, très visqueux et explosif."
+    },
+    {
+      "question": "Les dorsales océaniques correspondent à :",
+      "options": ["Zones de création de nouvelle croûte océanique", "Zones d’enfoncement des plaques", "Zones calmes sans activité", "Frontières passives"],
+      "reponse": "Zones de création de nouvelle croûte océanique",
+      "explication": "Le magma remonte et forme de la croûte basaltique au niveau des dorsales."
+    },
+    {
+      "question": "Le volcanisme associé aux dorsales est généralement :",
+      "options": ["Effusif", "Explosif", "Inexistant", "Violent"],
+      "reponse": "Effusif",
+      "explication": "Le magma basaltique peu visqueux s’écoule tranquillement en formant des coulées de lave."
+    },
+    {
+      "question": "Quelle plaque plonge sous l’autre lors d’une subduction océan-continent ?",
+      "options": ["Plaque océanique sous la plaque continentale", "Plaque continentale sous la plaque océanique", "Deux plaques océaniques", "Deux plaques continentales"],
+      "reponse": "Plaque océanique sous la plaque continentale",
+      "explication": "La plaque océanique plus dense s’enfonce sous la plaque continentale plus légère."
+    },
+    {
+      "question": "Quel est le rôle des failles transformantes ?",
+      "options": ["Déplacer horizontalement deux plaques", "Créer de la nouvelle croûte", "Enfoncer une plaque", "Arrêter le mouvement des plaques"],
+      "reponse": "Déplacer horizontalement deux plaques",
+      "explication": "Elles permettent le glissement latéral entre plaques sans création ni destruction de croûte."
+    },
+    {
+      "question": "Qu’est-ce qu’un séisme ?",
+      "options": ["Libération soudaine d’énergie due au déplacement des plaques", "Éruption volcanique", "Formation d’une montagne", "Tsunami uniquement"],
+      "reponse": "Libération soudaine d’énergie due au déplacement des plaques",
+      "explication": "Les séismes résultent de ruptures brutales au niveau des failles."
+    },
+    {
+      "question": "Le plan de Benioff est :",
+      "options": ["Zone inclinée où se produisent les séismes de subduction", "Zone d’éruption volcanique", "Frontière de plaques divergentes", "Zone calme sans activité sismique"],
+      "reponse": "Zone inclinée où se produisent les séismes de subduction",
+      "explication": "Les séismes suivent la plaque plongeante en profondeur selon ce plan incliné."
+    },
+    {
+      "question": "Quel type de magma est associé aux volcans explosifs ?",
+      "options": ["Riche en silice, visqueux", "Basaltique, fluide", "Ultra-basique", "Carbonaté"],
+      "reponse": "Riche en silice, visqueux",
+      "explication": "La haute viscosité piège les gaz, provoquant des explosions violentes."
+    },
+    {
+      "question": "Quel phénomène explique la formation des arcs volcaniques ?",
+      "options": ["Fusion partielle du manteau au-dessus d’une plaque en subduction", "Extension de la croûte océanique", "Compression continentale", "Érosion des montagnes"],
+      "reponse": "Fusion partielle du manteau au-dessus d’une plaque en subduction",
+      "explication": "Le magma issu de cette fusion remonte et forme une chaîne volcanique en arc."
+    },
+    {
+      "question": "La dérive des continents est due à :",
+      "options": ["Déplacement des plaques lithosphériques", "Érosion des continents", "Mouvements atmosphériques", "Variation du champ magnétique"],
+      "reponse": "Déplacement des plaques lithosphériques",
+      "explication": "Les continents sont entraînés par les plaques sur lesquelles ils reposent."
+    },
+    {
+      "question": "Quel est le rôle de l’asthénosphère dans la tectonique des plaques ?",
+      "options": ["Zone ductile qui permet le glissement des plaques rigides", "Couche rigide", "Source d’énergie solaire", "Zone océanique"],
+      "reponse": "Zone ductile qui permet le glissement des plaques rigides",
+      "explication": "L’asthénosphère est partiellement fondue et permet le mouvement des plaques lithosphériques."
+    },
+    {
+      "question": "Quel phénomène peut résulter du glissement brutal entre deux plaques ?",
+      "options": ["Séisme", "Éruption volcanique", "Érosion", "Formation d’un lac"],
+      "reponse": "Séisme",
+      "explication": "La libération d’énergie provoque des vibrations qui secouent la surface terrestre."
+    },
+    {
+      "question": "Les fosses océaniques sont caractéristiques de :",
+      "options": ["Zones de subduction", "Zones de divergence", "Zones calmes", "Dorsales océaniques"],
+      "reponse": "Zones de subduction",
+      "explication": "Elles résultent de l’enfoncement d’une plaque océanique sous une autre plaque."
+    },
+    {
+      "question": "Quel type de limite de plaques correspond à la création d’une nouvelle croûte ?",
+      "options": ["Limite divergente", "Limite convergente", "Faille transformante", "Limite passive"],
+      "reponse": "Limite divergente",
+      "explication": "Au niveau des dorsales, le magma remonte et forme de la nouvelle croûte océanique."
+    },
+    {
+      "question": "Quelle est la relation entre la tectonique des plaques et le volcanisme ?",
+      "options": ["Le volcanisme est souvent localisé aux frontières de plaques", "Le volcanisme est indépendant des plaques", "Le volcanisme se produit uniquement en zone stable", "Le volcanisme se produit uniquement dans les continents"],
+      "reponse": "Le volcanisme est souvent localisé aux frontières de plaques",
+      "explication": "Les volcans se forment principalement dans les zones de subduction et aux dorsales océaniques."
+    },
+    {
+      "question": "Quelle caractéristique est commune aux zones de subduction et aux dorsales ?",
+      "options": ["Présence d’activité sismique", "Absence totale de volcans", "Croûte océanique immobile", "Absence de séismes"],
+      "reponse": "Présence d’activité sismique",
+      "explication": "Ces zones sont des sites majeurs de séismes liés aux mouvements des plaques."
+    },
+    {
+      "question": "Pourquoi les plaques continentales ne sont pas subductées facilement ?",
+      "options": ["Elles sont moins denses que les plaques océaniques", "Elles sont plus petites", "Elles sont plus chaudes", "Elles sont liquides"],
+      "reponse": "Elles sont moins denses que les plaques océaniques",
+      "explication": "La faible densité des plaques continentales empêche leur plongée dans le manteau."
+    },
+    {
+      "question": "Qu’est-ce qu’une faille transformante ?",
+      "options": ["Zone où deux plaques glissent horizontalement l’une contre l’autre", "Zone de subduction", "Dorsale océanique", "Zone sans activité tectonique"],
+      "reponse": "Zone où deux plaques glissent horizontalement l’une contre l’autre",
+      "explication": "Ces failles permettent un déplacement latéral sans création ni destruction de croûte."
+    },
+    {
+      "question": "Quel est l’effet principal des mouvements de plaques lithosphériques sur la surface terrestre ?",
+      "options": ["Formation de montagnes, séismes et volcans", "Modification du climat", "Création de l’atmosphère", "Formation des océans uniquement"],
+      "reponse": "Formation de montagnes, séismes et volcans",
+      "explication": "Les interactions entre plaques modifient la géologie de la surface."
+    },
+    {
+      "question": "Quel est le lien entre subduction et formation des chaînes volcaniques ?",
+      "options": ["Fusion partielle du manteau au-dessus de la plaque plongeante génère du magma", "Accumulation de sédiments forme les volcans", "Refroidissement de la croûte produit du magma", "Aucune relation"],
+      "reponse": "Fusion partielle du manteau au-dessus de la plaque plongeante génère du magma",
+      "explication": "Cette fusion entraîne la remontée du magma et la formation de volcans en arc."
+    },
+    {
+      "question": "Quel est le rôle des dorsales océaniques dans le renouvellement de la croûte terrestre ?",
+      "options": ["Elles créent de la nouvelle croûte océanique par refroidissement du magma", "Elles détruisent la croûte", "Elles provoquent la subduction", "Elles ferment les océans"],
+      "reponse": "Elles créent de la nouvelle croûte océanique par refroidissement du magma",
+      "explication": "Le magma qui remonte durcit pour former une nouvelle croûte océanique."
+    },
+    {
+      "question": "Les séismes les plus puissants sont généralement situés :",
+      "options": ["Au niveau des zones de subduction", "Au centre des plaques", "Aux dorsales océaniques", "Dans les zones calmes"],
+      "reponse": "Au niveau des zones de subduction",
+      "explication": "La subduction provoque des contraintes énormes et donc des séismes intenses."
+    },
+    {
+      "question": "Un océan s'agrandit lorsque :",
+      "options": ["Les plaques s’éloignent au niveau d’une dorsale", "Les plaques se rapprochent dans une zone de subduction", "Les plaques glissent horizontalement", "La croûte océanique s’enfonce"],
+      "reponse": "Les plaques s’éloignent au niveau d’une dorsale",
+      "explication": "La création de nouvelle croûte océanique à la dorsale augmente la surface océanique."
+    },
+    {
+      "question": "Lors d’une subduction, la plaque plongeante est :",
+      "options": ["Océanique et dense", "Continentale et légère", "Continentale et dense", "Océanique et légère"],
+      "reponse": "Océanique et dense",
+      "explication": "La plaque océanique plus dense plonge sous la plaque continentale."
+    },
+    {
+      "question": "Quel phénomène peut entraîner un tsunami ?",
+      "options": ["Séisme sous-marin avec déplacement brusque du fond océanique", "Éruption volcanique de faible intensité", "Glissement horizontal de plaque", "Formation d’une dorsale"],
+      "reponse": "Séisme sous-marin avec déplacement brusque du fond océanique",
+      "explication": "Ce déplacement massif d'eau génère une onde de tsunami.",
+    },
+    {
+      "question": "Quel type de volcan est typique d’une zone de subduction ?",
+      "options": ["Volcan explosif avec lave visqueuse", "Volcan effusif à lave fluide", "Volcan bouclier uniquement", "Volcan éteint"],
+      "reponse": "Volcan explosif avec lave visqueuse",
+      "explication": "Le magma riche en silice provoque des éruptions explosives dans ces zones."
+    },
+    {
+      "question": "La croûte océanique est principalement composée de :",
+      "options": ["Basalte", "Granite", "Calcaire", "Gneiss"],
+      "reponse": "Basalte",
+      "explication": "Le basalte est une roche volcanique dense formant la croûte océanique."
+    },
+    {
+      "question": "La zone où deux plaques coulissent horizontalement s’appelle :",
+      "options": ["Faille transformante", "Dorsale océanique", "Zone de subduction", "Fosse océanique"],
+      "reponse": "Faille transformante",
+      "explication": "Ce mouvement horizontal provoque souvent des séismes."
+    },
+    {
+      "question": "La profondeur maximale des séismes est observée :",
+      "options": ["Dans les zones de subduction", "Au niveau des dorsales", "Dans les zones de faille transformante", "Au centre des plaques continentales"],
+      "reponse": "Dans les zones de subduction",
+      "explication": "La plongée de la plaque plongeante engendre des séismes profonds."
+    },
+    {
+      "question": "Le déplacement des plaques lithosphériques est entraîné par :",
+      "options": ["Les courants de convection dans le manteau", "Les marées", "Le vent", "Les courants océaniques"],
+      "reponse": "Les courants de convection dans le manteau",
+      "explication": "Ces mouvements mantelliques provoquent le déplacement des plaques."
+    },
+    {
+      "question": "Lorsqu’une plaque océanique rencontre une plaque continentale, que se passe-t-il ?",
+      "options": ["La plaque océanique subducte sous la plaque continentale", "La plaque continentale subducte sous la plaque océanique", "Les plaques glissent horizontalement", "Les plaques s’éloignent"],
+      "reponse": "La plaque océanique subducte sous la plaque continentale",
+      "explication": "La plaque océanique plus dense plonge sous la plus légère continentale."
+    },
+    {
+      "question": "Les chaînes de montagnes formées par la collision de deux plaques continentales sont appelées :",
+      "options": ["Chaînes plissées", "Dorsales océaniques", "Fosses océaniques", "Dorsales continentales"],
+      "reponse": "Chaînes plissées",
+      "explication": "La collision provoque le plissement et l’épaississement de la croûte."
+    },
+    {
+      "question": "Un séisme de magnitude élevée est généralement associé à :",
+      "options": ["Une grande quantité d’énergie libérée lors du glissement", "Une faible énergie", "Une éruption volcanique faible", "Un déplacement lent des plaques"],
+      "reponse": "Une grande quantité d’énergie libérée lors du glissement",
+      "explication": "Plus la rupture est violente, plus la magnitude est élevée."
+    },
+    {
+      "question": "Les roches magmatiques formées aux dorsales océaniques sont principalement :",
+      "options": ["Basaltes", "Granites", "Schistes", "Calcaires"],
+      "reponse": "Basaltes",
+      "explication": "Le basalte est issu du refroidissement rapide du magma basaltique."
+    },
+    {
+      "question": "Quelle affirmation décrit le mieux une dorsale océanique ?",
+      "options": ["Zone où la croûte océanique s’amincit et se forme", "Zone de subduction", "Zone calme sans activité", "Faille transformante"],
+      "reponse": "Zone où la croûte océanique s’amincit et se forme",
+      "explication": "Le magma remonte et forme une nouvelle croûte au niveau de la dorsale."
+    },
+    {
+      "question": "Quel est l’effet principal de la convection mantellique ?",
+      "options": ["Déplacer les plaques lithosphériques", "Produire des séismes en surface", "Créer des montagnes directement", "Modifier le champ magnétique terrestre"],
+      "reponse": "Déplacer les plaques lithosphériques",
+      "explication": "Les courants de convection dans le manteau entraînent les plaques rigides."
+    },
+    {
+      "question": "Quel est l’ordre correct des couches terrestres de la surface vers le centre ?",
+      "options": ["Croûte, manteau, noyau externe, noyau interne", "Noyau, manteau, croûte", "Croûte, noyau, manteau", "Manteau, croûte, noyau"],
+      "reponse": "Croûte, manteau, noyau externe, noyau interne",
+      "explication": "La croûte est la couche la plus externe, suivie du manteau et du noyau en deux parties."
+    },
+    {
+      "question": "La fusion partielle dans la zone de subduction est causée par :",
+      "options": ["Libération d’eau et baisse du point de fusion du manteau", "Augmentation de la pression uniquement", "Diminution de la température", "Activité solaire"],
+      "reponse": "Libération d’eau et baisse du point de fusion du manteau",
+      "explication": "L’eau libérée par la plaque plongeante facilite la fusion partielle."
+    },
+    {
+      "question": "Le magma produit dans une zone de subduction remonte car :",
+      "options": ["Il est moins dense que les roches environnantes", "Il est plus dense", "Il est froid", "Il est solide"],
+      "reponse": "Il est moins dense que les roches environnantes",
+      "explication": "Sa faible densité favorise sa remontée vers la surface."
+    },
+    {
+      "question": "Quelle est la principale différence entre un volcan effusif et explosif ?",
+      "options": ["Viscosité du magma", "Taille du volcan", "Altitude du volcan", "Présence d’eau"],
+      "reponse": "Viscosité du magma",
+      "explication": "Le magma visqueux piège les gaz, provoquant des éruptions explosives."
+    },
+    {
+      "question": "Quel est l’effet principal d’un séisme sur la surface terrestre ?",
+      "options": ["Vibrations et déplacements brusques du sol", "Augmentation de la température", "Formation de roches", "Montée du niveau de la mer"],
+      "reponse": "Vibrations et déplacements brusques du sol",
+      "explication": "Le séisme libère de l’énergie sous forme d’ondes sismiques."
+    },
+    {
+      "question": "Quelle est la principale méthode pour localiser un épicentre de séisme ?",
+      "options": ["Triangulation à partir des temps d’arrivée des ondes sur plusieurs stations", "Observation visuelle directe", "Mesure de la température", "Analyse des roches"],
+      "reponse": "Triangulation à partir des temps d’arrivée des ondes sur plusieurs stations",
+      "explication": "La différence des temps d’arrivée permet de déterminer la position du foyer."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le rôle principal des testicules ?",
+      "options": ["Production de spermatozoïdes", "Production d’ovules", "Production d’œstrogènes", "Filtration du sang"],
+      "reponse": "Production de spermatozoïdes",
+      "explication": "Les testicules produisent les gamètes mâles appelés spermatozoïdes."
+    },
+    {
+      "question": "Quelle hormone est principalement responsable de la production de spermatozoïdes ?",
+      "options": ["Testostérone", "Œstrogène", "Progestérone", "Cortisol"],
+      "reponse": "Testostérone",
+      "explication": "La testostérone stimule la spermatogenèse dans les testicules."
+    },
+    {
+      "question": "Où se déroule la maturation finale des spermatozoïdes ?",
+      "options": ["Épididyme", "Vésicule séminale", "Canal déférent", "Prostate"],
+      "reponse": "Épididyme",
+      "explication": "Les spermatozoïdes acquièrent leur mobilité et maturité dans l’épididyme."
+    },
+    {
+      "question": "Quel est le rôle des vésicules séminales ?",
+      "options": ["Produire un liquide riche en fructose", "Stocker les spermatozoïdes", "Filtrer le sang", "Produire la testostérone"],
+      "reponse": "Produire un liquide riche en fructose",
+      "explication": "Ce liquide nourrit les spermatozoïdes et constitue une partie du sperme."
+    },
+    {
+      "question": "Quelle glande produit un liquide alcalin participant à la formation du sperme ?",
+      "options": ["Prostate", "Vésicule séminale", "Hypophyse", "Thymus"],
+      "reponse": "Prostate",
+      "explication": "Le liquide prostatique neutralise l’acidité du vagin."
+    },
+    {
+      "question": "Quel est le trajet des spermatozoïdes lors de l’éjaculation ?",
+      "options": ["Testicules → Épididyme → Canal déférent → Urètre", "Urètre → Canal déférent → Testicules → Épididyme", "Canal déférent → Prostate → Vésicule séminale → Épididyme", "Épididyme → Testicules → Urètre → Canal déférent"],
+      "reponse": "Testicules → Épididyme → Canal déférent → Urètre",
+      "explication": "Les spermatozoïdes quittent les testicules, maturent, puis sont expulsés par l’urètre."
+    },
+    {
+      "question": "Quelle hormone hypophysaire stimule la production de testostérone ?",
+      "options": ["LH (Hormone lutéinisante)", "FSH (Hormone folliculo-stimulante)", "Prolactine", "ACTH"],
+      "reponse": "LH (Hormone lutéinisante)",
+      "explication": "La LH stimule les cellules de Leydig à produire la testostérone."
+    },
+    {
+      "question": "Quelle hormone hypophysaire favorise la spermatogenèse ?",
+      "options": ["FSH (Hormone folliculo-stimulante)", "LH", "Prolactine", "Ocytocine"],
+      "reponse": "FSH (Hormone folliculo-stimulante)",
+      "explication": "La FSH agit sur les cellules de Sertoli pour soutenir la spermatogenèse."
+    },
+    {
+      "question": "Quel est le rôle des cellules de Sertoli ?",
+      "options": ["Soutenir et nourrir les spermatozoïdes en développement", "Produire la testostérone", "Produire le liquide séminal", "Produire l’adrénaline"],
+      "reponse": "Soutenir et nourrir les spermatozoïdes en développement",
+      "explication": "Ces cellules assurent un environnement favorable à la maturation des spermatozoïdes."
+    },
+    {
+      "question": "La production de testostérone est régulée par :",
+      "options": ["Une rétrocontrôle négatif sur l’hypophyse et l’hypothalamus", "Un rétrocontrôle positif uniquement", "La moelle épinière", "Les reins"],
+      "reponse": "Une rétrocontrôle négatif sur l’hypophyse et l’hypothalamus",
+      "explication": "Un taux élevé de testostérone inhibe la sécrétion de LH et FSH."
+    },
+    {
+      "question": "Quelle est la fonction principale de l’urètre chez l’homme ?",
+      "options": ["Conduire l’urine et le sperme à l’extérieur", "Produire les spermatozoïdes", "Stocker la testostérone", "Nourrir les spermatozoïdes"],
+      "reponse": "Conduire l’urine et le sperme à l’extérieur",
+      "explication": "L’urètre est le canal commun aux systèmes urinaire et reproducteur."
+    },
+    {
+      "question": "Le sperme est constitué :",
+      "options": ["De spermatozoïdes et de liquide séminal", "Uniquement de spermatozoïdes", "Uniquement de liquide prostatique", "De globules rouges"],
+      "reponse": "De spermatozoïdes et de liquide séminal",
+      "explication": "Le liquide séminal assure la nutrition et la mobilité des spermatozoïdes."
+    },
+    {
+      "question": "La spermatogenèse dure environ :",
+      "options": ["64 jours", "7 jours", "24 heures", "6 mois"],
+      "reponse": "64 jours",
+      "explication": "La formation complète des spermatozoïdes prend environ deux mois."
+    },
+    {
+      "question": "L’organe qui contrôle la température des testicules est :",
+      "options": ["Le scrotum", "La prostate", "L’épididyme", "Le canal déférent"],
+      "reponse": "Le scrotum",
+      "explication": "Il maintient une température légèrement inférieure à celle du corps pour la spermatogenèse."
+    },
+    {
+      "question": "Le principal androgène chez l’homme est :",
+      "options": ["La testostérone", "L’estradiol", "La progestérone", "Le cortisol"],
+      "reponse": "La testostérone",
+      "explication": "Elle est responsable des caractères sexuels secondaires masculins."
+    },
+    {
+      "question": "L’axe hypothalamo-hypophysaire contrôle la fonction testiculaire par :",
+      "options": ["La libération de GnRH, puis LH et FSH", "La production directe de testostérone", "La synthèse de progestérone", "La sécrétion d’adrénaline"],
+      "reponse": "La libération de GnRH, puis LH et FSH",
+      "explication": "GnRH stimule l’hypophyse à sécréter LH et FSH."
+    },
+    {
+      "question": "Quel type de glande sont les testicules ?",
+      "options": ["Glandes mixtes (exocrine et endocrine)", "Glandes exocrines uniquement", "Glandes endocrines uniquement", "Pas une glande"],
+      "reponse": "Glandes mixtes (exocrine et endocrine)",
+      "explication": "Ils produisent spermatozoïdes (exocrine) et testostérone (endocrine)."
+    },
+    {
+      "question": "Le liquide prostatique contient :",
+      "options": ["Des enzymes et un liquide alcalin", "Du glucose", "Des anticorps", "Des spermatozoïdes"],
+      "reponse": "Des enzymes et un liquide alcalin",
+      "explication": "Il neutralise l’acidité du milieu vaginal et active les spermatozoïdes."
+    },
+    {
+      "question": "Le liquide séminal des vésicules séminales est riche en :",
+      "options": ["Fructose", "Testostérone", "Protéines", "Globules blancs"],
+      "reponse": "Fructose",
+      "explication": "Le fructose fournit l’énergie nécessaire aux spermatozoïdes."
+    },
+    {
+      "question": "Le canal déférent transporte le sperme de :",
+      "options": ["L’épididyme à l’urètre", "La prostate aux testicules", "Les vésicules séminales à l’épididyme", "Les testicules à la prostate"],
+      "reponse": "L’épididyme à l’urètre",
+      "explication": "Il assure le transport des spermatozoïdes lors de l’éjaculation."
+    },
+    {
+      "question": "Quelle est la fonction principale de la LH chez l’homme ?",
+      "options": ["Stimuler la production de testostérone", "Stimuler la spermatogenèse directement", "Stimuler la production de progestérone", "Inhiber la production de spermatozoïdes"],
+      "reponse": "Stimuler la production de testostérone",
+      "explication": "La LH agit sur les cellules de Leydig pour produire la testostérone."
+    },
+    {
+      "question": "Quelle hormone agit sur les cellules de Sertoli ?",
+      "options": ["FSH", "LH", "GnRH", "Ocytocine"],
+      "reponse": "FSH",
+      "explication": "La FSH stimule les cellules de Sertoli pour soutenir la spermatogenèse."
+    },
+    {
+      "question": "Le testicule est entouré d’une membrane appelée :",
+      "options": ["Albuginée", "Périmètre", "Mésothélium", "Épiderme"],
+      "reponse": "Albuginée",
+      "explication": "Elle protège et maintient la structure du testicule."
+    },
+    {
+      "question": "La spermatogenèse commence à la puberté grâce à :",
+      "options": ["L’augmentation des taux de testostérone", "La chute des hormones sexuelles", "La production d’œstrogènes", "La diminution de FSH"],
+      "reponse": "L’augmentation des taux de testostérone",
+      "explication": "La testostérone déclenche et maintient la production de spermatozoïdes."
+    },
+    {
+      "question": "Les spermatozoïdes possèdent :",
+      "options": ["Une tête, un col, une pièce intermédiaire et une queue", "Une membrane rigide uniquement", "Deux noyaux", "Un cytoplasme abondant"],
+      "reponse": "Une tête, un col, une pièce intermédiaire et une queue",
+      "explication": "Cette structure permet la mobilité et la fécondation."
+    },
+    {
+      "question": "Quel est le site principal de production de la testostérone ?",
+      "options": ["Cellules de Leydig", "Cellules de Sertoli", "Épididyme", "Hypophyse"],
+      "reponse": "Cellules de Leydig",
+      "explication": "Ces cellules interstitielles produisent la testostérone."
+    },
+    {
+      "question": "Les hormones hypophysaires sont régulées par :",
+      "options": ["L’hypothalamus", "Les glandes surrénales", "La thyroïde", "Le pancréas"],
+      "reponse": "L’hypothalamus",
+      "explication": "Il contrôle l’hypophyse via la GnRH."
+    },
+    {
+      "question": "Une baisse prolongée de testostérone peut entraîner :",
+      "options": ["Diminution de la libido et de la spermatogenèse", "Augmentation des caractères sexuels secondaires", "Hyperactivité spermatique", "Développement d’ovaires"],
+      "reponse": "Diminution de la libido et de la spermatogenèse",
+      "explication": "La testostérone est essentielle pour ces fonctions."
+    }
+  ]
+}

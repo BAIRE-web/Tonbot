@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Les roches magmatiques se forment par :",
+      "options": ["Solidification du magma ou de la lave", "Accumulation de sédiments", "Transformation sous haute pression et température", "Érosion des roches existantes"],
+      "reponse": "Solidification du magma ou de la lave",
+      "explication": "Le refroidissement du magma ou de la lave forme les roches magmatiques."
+    },
+    {
+      "question": "Une roche sédimentaire est principalement formée par :",
+      "options": ["Accumulation et compaction de sédiments", "Cristallisation du magma", "Métamorphisme", "Refroidissement rapide de la lave"],
+      "reponse": "Accumulation et compaction de sédiments",
+      "explication": "Les particules issues de l’érosion s’accumulent et se compactent pour former ces roches."
+    },
+    {
+      "question": "Les roches métamorphiques résultent de :",
+      "options": ["Transformation de roches sous pression et température élevées", "Refroidissement de la lave", "Accumulation de sédiments", "Action de l’eau seulement"],
+      "reponse": "Transformation de roches sous pression et température élevées",
+      "explication": "Le métamorphisme modifie la structure des roches sans les faire fondre."
+    },
+    {
+      "question": "Quelle est la différence principale entre roche intrusive et extrusive ?",
+      "options": ["La roche intrusive cristallise lentement sous terre, extrusive à la surface rapidement", "La roche intrusive est sédimentaire", "La roche extrusive est métamorphique", "La roche intrusive se forme par érosion"],
+      "reponse": "La roche intrusive cristallise lentement sous terre, extrusive à la surface rapidement",
+      "explication": "Le temps de refroidissement influence la taille des cristaux."
+    },
+    {
+      "question": "Le granit est un exemple de roche :",
+      "options": ["Magmatique intrusive", "Sédimentaire", "Métamorphique", "Éruptive"],
+      "reponse": "Magmatique intrusive",
+      "explication": "Le granit se forme par refroidissement lent du magma sous la surface."
+    },
+    {
+      "question": "Le basalte est une roche :",
+      "options": ["Magmatique extrusive", "Sédimentaire", "Métamorphique", "Éruptive intrusive"],
+      "reponse": "Magmatique extrusive",
+      "explication": "Le basalte résulte du refroidissement rapide de la lave à la surface."
+    },
+    {
+      "question": "Un exemple de roche sédimentaire est :",
+      "options": ["Calcaire", "Granit", "Gneiss", "Basalte"],
+      "reponse": "Calcaire",
+      "explication": "Le calcaire est formé principalement de sédiments carbonatés."
+    },
+    {
+      "question": "Le schiste est une roche :",
+      "options": ["Métamorphique", "Magmatique", "Sédimentaire", "Ignée"],
+      "reponse": "Métamorphique",
+      "explication": "Le schiste résulte de la transformation de roches sédimentaires sous pression."
+    },
+    {
+      "question": "Le cycle des roches commence par :",
+      "options": ["L’érosion des roches existantes", "La formation du magma", "La métamorphose", "La cristallisation du basalte"],
+      "reponse": "L’érosion des roches existantes",
+      "explication": "L’érosion produit des sédiments à l’origine du cycle."
+    },
+    {
+      "question": "La compaction des sédiments conduit à :",
+      "options": ["La formation de roches sédimentaires", "La formation de roches métamorphiques", "La fusion des roches", "La formation de magma"],
+      "reponse": "La formation de roches sédimentaires",
+      "explication": "La pression sur les sédiments provoque leur cohésion."
+    },
+    {
+      "question": "Le métamorphisme peut être causé par :",
+      "options": ["La pression et la température", "Le refroidissement rapide", "La sédimentation", "L’érosion seulement"],
+      "reponse": "La pression et la température",
+      "explication": "Ces facteurs modifient la structure minérale sans fusion."
+    },
+    {
+      "question": "Les roches sédimentaires détritiques sont composées de :",
+      "options": ["Fragments de roches et minéraux", "Cristaux magmatiques", "Roches métamorphiques", "Roches volcaniques"],
+      "reponse": "Fragments de roches et minéraux",
+      "explication": "Ces roches résultent de l’accumulation mécanique de particules."
+    },
+    {
+      "question": "La différenciation entre roche magmatique et métamorphique est basée sur :",
+      "options": ["Le mode de formation", "La couleur uniquement", "La dureté seulement", "La densité uniquement"],
+      "reponse": "Le mode de formation",
+      "explication": "Les roches magmatiques cristallisent à partir du magma, les métamorphiques sont modifiées."
+    },
+    {
+      "question": "La lave est associée à la formation de roches :",
+      "options": ["Magmatiques extrusives", "Métamorphiques", "Sédimentaires", "Intrusives"],
+      "reponse": "Magmatiques extrusives",
+      "explication": "La lave refroidit rapidement en surface pour former ces roches."
+    },
+    {
+      "question": "Le marbre est une roche :",
+      "options": ["Métamorphique formée à partir du calcaire", "Sédimentaire", "Magmatique", "Éruptive"],
+      "reponse": "Métamorphique formée à partir du calcaire",
+      "explication": "La transformation du calcaire sous pression crée le marbre."
+    },
+    {
+      "question": "La cristallisation lente du magma donne des cristaux :",
+      "options": ["Grossiers", "Fins", "Absents", "Petits et fragiles"],
+      "reponse": "Grossiers",
+      "explication": "Un refroidissement lent permet aux cristaux de bien se former."
+    },
+    {
+      "question": "La roche grès est un exemple de roche :",
+      "options": ["Sédimentaire", "Métamorphique", "Magmatique", "Ignée"],
+      "reponse": "Sédimentaire",
+      "explication": "Le grès est formé par l’agglomération de grains de sable cimentés."
+    },
+    {
+      "question": "Les roches sédimentaires chimiques résultent de :",
+      "options": ["Précipitation de substances dissoutes", "Accumulation de débris organiques", "Fusion partielle", "Refroidissement du magma"],
+      "reponse": "Précipitation de substances dissoutes",
+      "explication": "Les minéraux précipitent directement à partir d’une solution."
+    },
+    {
+      "question": "Les fossiles sont généralement conservés dans des roches :",
+      "options": ["Sédimentaires", "Magmatiques", "Métamorphiques", "Ignées"],
+      "reponse": "Sédimentaires",
+      "explication": "Les conditions de formation des roches sédimentaires permettent la conservation des fossiles."
+    },
+    {
+      "question": "L’altération et l’érosion permettent de :",
+      "options": ["Produire des sédiments", "Former des roches magmatiques", "Créer du magma", "Former des roches métamorphiques"],
+      "reponse": "Produire des sédiments",
+      "explication": "La dégradation des roches génère les particules sédimentaires."
+    },
+    {
+      "question": "Une roche métamorphique peut provenir de :",
+      "options": ["Roche sédimentaire ou magmatique modifiée", "Roche uniquement magmatique", "Roche uniquement sédimentaire", "Roche fossile uniquement"],
+      "reponse": "Roche sédimentaire ou magmatique modifiée",
+      "explication": "Le métamorphisme transforme tous types de roches."
+    },
+    {
+      "question": "Le quartz est un minéral fréquemment présent dans :",
+      "options": ["Roches magmatiques et sédimentaires", "Uniquement métamorphiques", "Seulement dans le basalte", "Uniquement dans les fossiles"],
+      "reponse": "Roches magmatiques et sédimentaires",
+      "explication": "Le quartz est un minéral courant dans plusieurs types de roches."
+    },
+    {
+      "question": "Les roches magmatiques se divisent en :",
+      "options": ["Intrusives et extrusives", "Sédimentaires et métamorphiques", "Ignées et fossiles", "Volcaniques et sédimentaires"],
+      "reponse": "Intrusives et extrusives",
+      "explication": "Selon qu’elles se forment sous terre ou à la surface."
+    },
+    {
+      "question": "Quel est le rôle du cycle des roches ?",
+      "options": ["Transformer et recycler les roches dans le temps", "Former uniquement des montagnes", "Créer le magma", "Arrêter l’érosion"],
+      "reponse": "Transformer et recycler les roches dans le temps",
+      "explication": "Le cycle montre la dynamique de formation, transformation et destruction des roches."
+    },
+    {
+      "question": "Quelle étape suit directement l’érosion dans le cycle des roches ?",
+      "options": ["Transport et dépôt des sédiments", "Refroidissement du magma", "Fusion de roches", "Métamorphisme"],
+      "reponse": "Transport et dépôt des sédiments",
+      "explication": "Les sédiments sont transportés puis déposés avant de former des roches."
+    },
+    {
+      "question": "La roche gneiss est une roche :",
+      "options": ["Métamorphique", "Sédimentaire", "Magmatique", "Ignée"],
+      "reponse": "Métamorphique",
+      "explication": "Le gneiss provient de la transformation de roches magmatiques ou sédimentaires."
+    },
+    {
+      "question": "Les minéraux présents dans une roche déterminent :",
+      "options": ["Ses propriétés physiques et chimiques", "Sa couleur uniquement", "Sa forme uniquement", "Son âge uniquement"],
+      "reponse": "Ses propriétés physiques et chimiques",
+      "explication": "La composition minérale influence la dureté, densité, couleur, etc."
+    },
+    {
+      "question": "La formation d’un granite nécessite :",
+      "options": ["Un refroidissement lent du magma en profondeur", "Un refroidissement rapide en surface", "Une accumulation de sédiments", "Une forte érosion"],
+      "reponse": "Un refroidissement lent du magma en profondeur",
+      "explication": "Cela permet la formation de gros cristaux visibles."
+    },
+    {
+      "question": "Les roches sédimentaires organiques sont formées par :",
+      "options": ["Accumulation de restes d’organismes", "Refroidissement du magma", "Transformation sous pression", "Cristallisation rapide"],
+      "reponse": "Accumulation de restes d’organismes",
+      "explication": "Les restes biologiques s’accumulent et se fossilisent."
+    },
+    {
+      "question": "Le processus de lithification comprend :",
+      "options": ["Compaction et cimentation des sédiments", "Fusion des roches", "Refroidissement de la lave", "Altération chimique uniquement"],
+      "reponse": "Compaction et cimentation des sédiments",
+      "explication": "Ces étapes transforment les sédiments en roche solide."
+    },
+    {
+      "question": "Quelle roche résulte du refroidissement rapide de la lave en surface ?",
+      "options": ["Basalte", "Granit", "Calcaire", "Gneiss"],
+      "reponse": "Basalte",
+      "explication": "Le basalte est une roche magmatique extrusive formée par refroidissement rapide en surface."
+    },
+    {
+      "question": "Parmi ces roches, laquelle est métamorphique ?",
+      "options": ["Marbre", "Grès", "Basalte", "Calcaire"],
+      "reponse": "Marbre",
+      "explication": "Le marbre résulte de la transformation du calcaire sous haute pression et température."
+    },
+    {
+      "question": "Quelle est la principale cause du métamorphisme des roches ?",
+      "options": ["Pression et température élevées", "Refroidissement lent", "Érosion", "Sédimentation"],
+      "reponse": "Pression et température élevées",
+      "explication": "Le métamorphisme modifie la structure minérale sous ces conditions sans fusion."
+    },
+    {
+      "question": "Quel processus est à l’origine des roches sédimentaires ?",
+      "options": ["Accumulation et compaction de sédiments", "Refroidissement du magma", "Métamorphisme", "Fusion partielle"],
+      "reponse": "Accumulation et compaction de sédiments",
+      "explication": "Les sédiments issus de l’érosion se déposent et se compactent pour former ces roches."
+    },
+    {
+      "question": "Quelle est la différence entre roche intrusive et roche extrusive ?",
+      "options": ["Lieu et vitesse de cristallisation", "Composition chimique", "Couleur", "Âge"],
+      "reponse": "Lieu et vitesse de cristallisation",
+      "explication": "Les roches intrusives cristallisent lentement en profondeur, les extrusives rapidement en surface."
+    },
+    {
+      "question": "Le grès est une roche :",
+      "options": ["Sédimentaire", "Magmatique", "Métamorphique", "Ignée"],
+      "reponse": "Sédimentaire",
+      "explication": "Le grès est formé par la compaction de grains de sable cimentés."
+    },
+    {
+      "question": "Quel type de roche contient généralement des fossiles ?",
+      "options": ["Sédimentaire", "Magmatique", "Métamorphique", "Volcanique"],
+      "reponse": "Sédimentaire",
+      "explication": "Les fossiles sont conservés dans les roches formées par accumulation de sédiments."
+    },
+    {
+      "question": "Une roche métamorphique peut provenir :",
+      "options": ["D’une roche magmatique ou sédimentaire transformée", "Uniquement d’une roche magmatique", "Uniquement d’une roche sédimentaire", "D’une roche fossile"],
+      "reponse": "D’une roche magmatique ou sédimentaire transformée",
+      "explication": "Le métamorphisme modifie tous types de roches existantes."
+    },
+    {
+      "question": "Quel minéral est fréquent dans les roches magmatiques et sédimentaires ?",
+      "options": ["Quartz", "Diamant", "Calcite", "Graphite"],
+      "reponse": "Quartz",
+      "explication": "Le quartz est un minéral dur, fréquent dans plusieurs types de roches."
+    },
+    {
+      "question": "Le granite est une roche :",
+      "options": ["Magmatique intrusive", "Sédimentaire", "Métamorphique", "Extrusive"],
+      "reponse": "Magmatique intrusive",
+      "explication": "Le granite cristallise lentement sous la surface terrestre."
+    },
+    {
+      "question": "Quel processus forme les roches métamorphiques ?",
+      "options": ["Pression et température sans fusion", "Refroidissement rapide", "Accumulation de sédiments", "Érosion"],
+      "reponse": "Pression et température sans fusion",
+      "explication": "Le métamorphisme modifie la roche existante sans la faire fondre."
+    },
+    {
+      "question": "Quel est l’ordre correct dans le cycle des roches ?",
+      "options": ["Érosion → Sédimentation → Lithification → Métamorphisme", "Métamorphisme → Fusion → Refroidissement", "Refroidissement → Fusion → Sédimentation", "Sédimentation → Érosion → Métamorphisme"],
+      "reponse": "Érosion → Sédimentation → Lithification → Métamorphisme",
+      "explication": "Ce cycle décrit la transformation des matériaux rocheux."
+    },
+    {
+      "question": "Quelle roche est formée par la précipitation chimique ?",
+      "options": ["Calcaire", "Granit", "Basalte", "Gneiss"],
+      "reponse": "Calcaire",
+      "explication": "Le calcaire chimique résulte de la précipitation de carbonate de calcium."
+    },
+    {
+      "question": "Les cristaux grossiers dans une roche indiquent :",
+      "options": ["Refroidissement lent du magma", "Refroidissement rapide", "Transformation métamorphique", "Accumulation de sédiments"],
+      "reponse": "Refroidissement lent du magma",
+      "explication": "Un refroidissement lent permet la formation de gros cristaux visibles."
+    },
+    {
+      "question": "Le schiste est une roche :",
+      "options": ["Métamorphique", "Magmatique", "Sédimentaire", "Ignée"],
+      "reponse": "Métamorphique",
+      "explication": "Le schiste est formé par métamorphisme de roches sédimentaires argileuses."
+    },
+    {
+      "question": "La lithification comprend :",
+      "options": ["Compaction et cimentation des sédiments", "Refroidissement de magma", "Fusion partielle", "Érosion uniquement"],
+      "reponse": "Compaction et cimentation des sédiments",
+      "explication": "Ces processus transforment les sédiments en roche solide."
+    },
+    {
+      "question": "La roche basalte est associée à :",
+      "options": ["Lave refroidie rapidement", "Magma cristallisé lentement", "Accumulation de sédiments", "Transformation métamorphique"],
+      "reponse": "Lave refroidie rapidement",
+      "explication": "Le basalte est une roche volcanique extrusive."
+    },
+    {
+      "question": "Une roche formée par accumulation de restes d’organismes est :",
+      "options": ["Roche sédimentaire organique", "Roche magmatique", "Roche métamorphique", "Roche ignée"],
+      "reponse": "Roche sédimentaire organique",
+      "explication": "Les débris biologiques s’accumulent et se transforment en roche."
+    },
+    {
+      "question": "La principale différence entre roches sédimentaires détritiques et chimiques est :",
+      "options": ["Nature des matériaux formant la roche", "Couleur", "Origine métamorphique", "Dureté"],
+      "reponse": "Nature des matériaux formant la roche",
+      "explication": "Les détritiques sont faites de fragments, les chimiques de précipitations minérales."
+    },
+    {
+      "question": "Quel est l’effet de l’érosion dans le cycle des roches ?",
+      "options": ["Produire des sédiments", "Former du magma", "Créer des roches métamorphiques", "Augmenter la température terrestre"],
+      "reponse": "Produire des sédiments",
+      "explication": "L’érosion dégrade les roches, fournissant les matériaux pour les roches sédimentaires."
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "Un échantillon gazeux contient 2 mol d’un gaz parfait à 300 K et occupe un volume de 24,6 L. Quelle est la pression en Pa ? (R = 8,31 J·mol⁻¹·K⁻¹)",
+      "options": ["2024 Pa", "2020 Pa", "2030 Pa", "2045 Pa"],
+      "reponse": "2024 Pa",
+      "explication": "P = nRT/V = (2×8,31×300)/0,0246 ≈ 2024 Pa."
+    },
+    {
+      "question": "Lorsqu’on chauffe 1 mol de gaz de 20 °C à 100 °C à volume constant, que devient la pression ?",
+      "options": ["Elle augmente", "Elle diminue", "Elle reste constante", "Elle devient nulle"],
+      "reponse": "Elle augmente",
+      "explication": "À volume constant, P ∝ T en Kelvin. T passe de 293 K à 373 K → P augmente."
+    },
+    {
+      "question": "Quel volume occupe 3 mol de gaz parfait à 0 °C et 1 atm ?",
+      "options": ["67,2 L", "22,4 L", "33,6 L", "56,0 L"],
+      "reponse": "67,2 L",
+      "explication": "V = n × Vm = 3 × 22,4 = 67,2 L."
+    },
+    {
+      "question": "Un gaz occupe 10 L sous 2 atm. Quel volume occupera-t-il à 1 atm (T constante) ?",
+      "options": ["20 L", "5 L", "15 L", "10 L"],
+      "reponse": "20 L",
+      "explication": "Transformation isotherme : P₁V₁ = P₂V₂ → V₂ = 2×10 / 1 = 20 L."
+    },
+    {
+      "question": "À quelle température en Kelvin est un gaz parfait si P = 1 atm, V = 22,4 L, n = 1 mol ? (R = 0,082 atm·L·mol⁻¹·K⁻¹)",
+      "options": ["273 K", "298 K", "300 K", "250 K"],
+      "reponse": "273 K",
+      "explication": "T = PV / nR = 1×22,4 / 0,082 ≈ 273 K."
+    },
+    {
+      "question": "Dans un récipient rigide, on chauffe un gaz. Son volume ne change pas, mais sa pression passe de 1 atm à 1,5 atm. Que dire de sa température ?",
+      "options": ["Elle augmente", "Elle diminue", "Elle reste constante", "Elle devient nulle"],
+      "reponse": "Elle augmente",
+      "explication": "Volume constant → P ∝ T, donc la température augmente aussi."
+    },
+    {
+      "question": "Quelle est la masse de 2 mol de dioxygène (O₂) ? (M(O₂) = 32 g/mol)",
+      "options": ["64 g", "16 g", "32 g", "48 g"],
+      "reponse": "64 g",
+      "explication": "m = n × M = 2 × 32 = 64 g."
+    },
+    {
+      "question": "Quelle est la densité d’un gaz de masse volumique 2,9 g/L, si celle de l’air est 1,2 g/L ?",
+      "options": ["2,42", "3,1", "1,2", "0,8"],
+      "reponse": "2,42",
+      "explication": "d = ρ_gaz / ρ_air = 2,9 / 1,2 ≈ 2,42."
+    },
+    {
+      "question": "Un gaz occupe 5 L à 27 °C. Quel volume occupera-t-il à 127 °C à pression constante ?",
+      "options": ["6,7 L", "5,5 L", "4,2 L", "7,0 L"],
+      "reponse": "6,7 L",
+      "explication": "Transformation isobare : V₁/T₁ = V₂/T₂ → V₂ = V₁×T₂/T₁ = 5×400/300 = 6,67 L."
+    },
+    {
+      "question": "Combien de mol de gaz y a-t-il dans 11,2 L à CNTP ?",
+      "options": ["0,5 mol", "1 mol", "2 mol", "5 mol"],
+      "reponse": "0,5 mol",
+      "explication": "n = V / Vm = 11,2 / 22,4 = 0,5 mol."
+    },
+    {
+      "question": "Un gaz passe de 2 L à 1 L, sa température reste constante. Que devient la pression ?",
+      "options": ["Elle double", "Elle est divisée par 2", "Elle reste constante", "Elle est multipliée par 4"],
+      "reponse": "Elle double",
+      "explication": "P₁V₁ = P₂V₂ → P₂ = P₁×2."
+    },
+    {
+      "question": "Lors d’une solidification, l’énergie du système :",
+      "options": ["Diminue", "Augmente", "Reste constante", "Devient nulle"],
+      "reponse": "Diminue",
+      "explication": "Le système perd de l’énergie thermique sous forme de chaleur."
+    },
+    {
+      "question": "Un gaz a une pression de 2,5×10⁵ Pa et une surface de 0,2 m². Quelle est la force exercée ?",
+      "options": ["5×10⁴ N", "2×10⁵ N", "3×10⁵ N", "6×10⁴ N"],
+      "reponse": "5×10⁴ N",
+      "explication": "F = P × S = 2,5×10⁵ × 0,2 = 5×10⁴ N."
+    },
+    {
+      "question": "Lors de l’ébullition, la température du liquide :",
+      "options": ["Reste constante", "Augmente", "Diminue", "Dépend du récipient"],
+      "reponse": "Reste constante",
+      "explication": "Pendant le changement d’état, la température ne varie pas."
+    },
+    {
+      "question": "Quelle pression exerce 1 mol de gaz dans un récipient de 5 L à 273 K ? (R = 0,082 atm·L/mol·K)",
+      "options": ["4,48 atm", "3,55 atm", "1 atm", "2 atm"],
+      "reponse": "4,48 atm",
+      "explication": "P = nRT/V = 1×0,082×273 / 5 ≈ 4,48 atm."
+    },
+    {
+      "question": "À pression constante, le volume d’un gaz est multiplié par 2. Que devient sa température ?",
+      "options": ["Elle double", "Elle diminue", "Elle reste stable", "Elle est divisée par 2"],
+      "reponse": "Elle double",
+      "explication": "V ∝ T à pression constante."
+    },
+    {
+      "question": "Un gaz est refroidi de 300 K à 150 K à pression constante. Son volume initial est 4 L. Quel est le volume final ?",
+      "options": ["2 L", "3 L", "1 L", "4 L"],
+      "reponse": "2 L",
+      "explication": "V₂ = V₁ × T₂ / T₁ = 4 × 150 / 300 = 2 L."
+    },
+    {
+      "question": "Un gaz parfait a un volume de 1 L, une pression de 1 atm et une température de 273 K. Quelle est la quantité de matière n ? (R = 0,082 atm·L/mol·K)",
+      "options": ["0,044 mol", "0,1 mol", "0,5 mol", "1 mol"],
+      "reponse": "0,044 mol",
+      "explication": "n = PV/RT = 1×1 / (0,082×273) ≈ 0,044 mol."
+    },
+    {
+      "question": "Un gaz est chauffé à pression constante. Il se dilate. Ce phénomène est :",
+      "options": ["Expansif", "Compressif", "Condensé", "Stable"],
+      "reponse": "Expansif",
+      "explication": "La température augmente, le volume augmente si la pression reste constante."
+    },
+    {
+      "question": "Un gaz occupe 15 L à 300 K. Quelle sera sa température si son volume devient 10 L (pression constante) ?",
+      "options": ["200 K", "250 K", "300 K", "400 K"],
+      "reponse": "200 K",
+      "explication": "T₂ = T₁×V₂/V₁ = 300×10/15 = 200 K."
+    },
+    {
+      "question": "Quel est l’état de la matière caractérisé par un volume propre et une forme propre ?",
+      "options": ["Solide", "Liquide", "Gaz", "Plasma"],
+      "reponse": "Solide",
+      "explication": "Un solide conserve sa forme et son volume sans tenir compte du contenant."
+    },
+    {
+      "question": "Dans quel état les particules sont-elles les plus rapprochées ?",
+      "options": ["Solide", "Liquide", "Gaz", "Plasma"],
+      "reponse": "Solide",
+      "explication": "Les particules d’un solide sont très proches et fortement liées."
+    },
+    {
+      "question": "Quel est l’état qui n’a ni forme propre ni volume propre ?",
+      "options": ["Gaz", "Liquide", "Solide", "Condensat de Bose"],
+      "reponse": "Gaz",
+      "explication": "Les gaz occupent tout le volume disponible et prennent la forme du récipient."
+    },
+    {
+      "question": "Quelle est l’expression de la loi des gaz parfaits ?",
+      "options": ["PV = nRT", "P + V = RT", "P/V = nR", "PV² = RT"],
+      "reponse": "PV = nRT",
+      "explication": "Loi fondamentale des gaz parfaits reliant pression, volume, température et quantité de matière."
+    },
+    {
+      "question": "Quelle grandeur est constante dans une transformation isotherme ?",
+      "options": ["Température", "Pression", "Volume", "Quantité de chaleur"],
+      "reponse": "Température",
+      "explication": "Isotherme signifie à température constante."
+    },
+    {
+      "question": "Lors d’une transformation isobare, la pression est :",
+      "options": ["Constante", "Nulle", "Variable", "Maximale"],
+      "reponse": "Constante",
+      "explication": "Isobare → pression constante."
+    },
+    {
+      "question": "Lors d’une liquéfaction, l’état change de :",
+      "options": ["Gaz à liquide", "Solide à liquide", "Liquide à gaz", "Liquide à solide"],
+      "reponse": "Gaz à liquide",
+      "explication": "La liquéfaction est le passage de l’état gazeux à l’état liquide."
+    },
+    {
+      "question": "L’ébullition est une transformation :",
+      "options": ["Endothermique", "Exothermique", "Isobare", "Isotherme"],
+      "reponse": "Endothermique",
+      "explication": "Elle nécessite de l’énergie pour rompre les liaisons entre molécules."
+    },
+    {
+      "question": "Quelle est l’unité de la constante des gaz parfaits R dans le SI ?",
+      "options": ["J·mol⁻¹·K⁻¹", "Pa·m³·K", "mol·K·J", "K⁻¹·mol⁻¹·J⁻¹"],
+      "reponse": "J·mol⁻¹·K⁻¹",
+      "explication": "Dans PV = nRT, R s’exprime en joules par mole-kelvin."
+    },
+    {
+      "question": "Quelle relation donne la densité d’un gaz par rapport à l’air ?",
+      "options": ["d = ρ/ρₐᵢʳ", "d = V/Vₐᵢʳ", "d = P/Pₐᵢʳ", "d = T/Tₐᵢʳ"],
+      "reponse": "d = ρ/ρₐᵢʳ",
+      "explication": "La densité est le rapport entre la masse volumique du gaz et celle de l’air."
+    },
+    {
+      "question": "La sublimation est le passage de l’état :",
+      "options": ["Solide à gaz", "Gaz à liquide", "Liquide à solide", "Solide à liquide"],
+      "reponse": "Solide à gaz",
+      "explication": "La substance passe directement de l’état solide à l’état gazeux."
+    },
+    {
+      "question": "Quel phénomène est l’inverse de la fusion ?",
+      "options": ["Solidification", "Vaporisation", "Condensation", "Sublimation"],
+      "reponse": "Solidification",
+      "explication": "La fusion passe du solide au liquide, la solidification est l’inverse."
+    },
+    {
+      "question": "Dans une transformation isochore, quel paramètre reste constant ?",
+      "options": ["Volume", "Température", "Pression", "Quantité de matière"],
+      "reponse": "Volume",
+      "explication": "Isochore signifie que le volume est constant."
+    },
+    {
+      "question": "Si on augmente la température d’un gaz à volume constant, la pression :",
+      "options": ["Augmente", "Diminue", "Reste stable", "Devient nulle"],
+      "reponse": "Augmente",
+      "explication": "Selon la loi des gaz parfaits, P ∝ T si V et n constants."
+    },
+    {
+      "question": "La pression est définie comme :",
+      "options": ["Force par unité de surface", "Masse par volume", "Énergie par seconde", "Chaleur par mol"],
+      "reponse": "Force par unité de surface",
+      "explication": "P = F / S (N/m² ou Pa)."
+    },
+    {
+      "question": "À quoi correspond le point de fusion ?",
+      "options": ["Température à laquelle un solide devient liquide", "Température maximale d’un gaz", "Température de vaporisation", "Température minimale de congélation"],
+      "reponse": "Température à laquelle un solide devient liquide",
+      "explication": "Le point de fusion est spécifique à chaque solide pur."
+    },
+    {
+      "question": "Le volume molaire d’un gaz parfait à CNTP est :",
+      "options": ["22,4 L/mol", "1 mol/L", "24,0 L/mol", "18,0 L/mol"],
+      "reponse": "22,4 L/mol",
+      "explication": "À 0 °C et 1 atm, 1 mol occupe 22,4 litres selon la loi des gaz parfaits."
+    },
+    {
+      "question": "Dans un diagramme de changement d’état, que représente un palier ?",
+      "options": ["Un changement d’état", "Une réaction chimique", "Une décomposition", "Une variation de pression"],
+      "reponse": "Un changement d’état",
+      "explication": "La température reste constante pendant le changement d’état malgré l’apport de chaleur."
+    },
+    {
+      "question": "Quel état de la matière est le plus compressible ?",
+      "options": ["Gaz", "Liquide", "Solide", "Plasma"],
+      "reponse": "Gaz",
+      "explication": "Les particules des gaz sont très espacées, ce qui les rend très compressibles."
+    },
+    {
+      "question": "Quelle est la formule de la masse volumique ρ d’un gaz ?",
+      "options": ["ρ = m/V", "ρ = V/m", "ρ = nRT/P", "ρ = PV/n"],
+      "reponse": "ρ = m/V",
+      "explication": "La masse volumique est le rapport entre la masse et le volume."
+    }
+  ]
+}

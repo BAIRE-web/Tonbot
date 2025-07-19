@@ -37,8 +37,8 @@
       "titre": "Dosages chimiques"
     },
     {
-      "id": "acide_base",
-      "titre": "Acide-base"
+      "id": "courbe_titrage",
+      "titre": "Courbe de titrage"
     }
   ]
 }

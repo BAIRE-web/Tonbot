@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "Quel type de liaison existe entre deux atomes identiques (ex: H₂) ?",
+      "options": ["Covalente", "Ionique", "Métallique", "Hydrogène"],
+      "reponse": "Covalente",
+      "explication": "Deux atomes identiques partagent leurs électrons de valence → liaison covalente pure."
+    },
+    {
+      "question": "Quelle est la nature de la liaison dans NaCl ?",
+      "options": ["Ionique", "Covalente", "Métallique", "π"],
+      "reponse": "Ionique",
+      "explication": "Na donne un électron à Cl, formant des ions Na⁺ et Cl⁻ liés électrostatiquement."
+    },
+    {
+      "question": "Quel type de liaison relie les atomes dans un métal ?",
+      "options": ["Métallique", "Ionique", "Covalente", "Hydrogène"],
+      "reponse": "Métallique",
+      "explication": "Les cations métalliques baignent dans un nuage d’électrons délocalisés."
+    },
+    {
+      "question": "Combien de liaisons covalentes peut former un atome de carbone ?",
+      "options": ["4", "2", "3", "1"],
+      "reponse": "4",
+      "explication": "Le carbone a 4 électrons de valence, il peut former 4 liaisons simples."
+    },
+    {
+      "question": "Quelle est la configuration électronique de l’atome de fluor (Z = 9) ?",
+      "options": ["1s² 2s² 2p⁵", "1s² 2s² 2p⁶", "1s² 2s² 3p⁵", "1s² 2p⁵ 2s²"],
+      "reponse": "1s² 2s² 2p⁵",
+      "explication": "Le fluor a 9 électrons → 2 dans la couche K, 7 dans la couche L."
+    },
+    {
+      "question": "Quel atome est le plus électronégatif ?",
+      "options": ["Fluor", "Oxygène", "Chlore", "Azote"],
+      "reponse": "Fluor",
+      "explication": "Le fluor est l’élément le plus électronégatif du tableau périodique."
+    },
+    {
+      "question": "Une liaison covalente polaire se forme entre :",
+      "options": ["Deux atomes différents", "Deux métaux", "Deux ions", "Deux gaz nobles"],
+      "reponse": "Deux atomes différents",
+      "explication": "La différence d’électronégativité crée un partage inégal des électrons."
+    },
+    {
+      "question": "Quelle molécule est linéaire selon le modèle VSEPR ?",
+      "options": ["CO₂", "H₂O", "NH₃", "CH₄"],
+      "reponse": "CO₂",
+      "explication": "Le dioxyde de carbone a une géométrie AX₂ : linéaire à 180°."
+    },
+    {
+      "question": "Quel type de liaison existe dans le dihydrogène (H₂) ?",
+      "options": ["Covalente simple", "Double liaison", "Ionique", "Métallique"],
+      "reponse": "Covalente simple",
+      "explication": "Chaque atome d’hydrogène partage un électron pour former une liaison simple."
+    },
+    {
+      "question": "Quel composé contient une liaison ionique ?",
+      "options": ["CaCl₂", "CH₄", "HCl", "NH₃"],
+      "reponse": "CaCl₂",
+      "explication": "Ca²⁺ et 2 Cl⁻ forment des liaisons ioniques."
+    },
+    {
+      "question": "Quelle molécule présente une géométrie tétraédrique ?",
+      "options": ["CH₄", "NH₃", "H₂O", "CO₂"],
+      "reponse": "CH₄",
+      "explication": "CH₄ a 4 liaisons autour du C, donc géométrie AX₄ → tétraédrique."
+    },
+    {
+      "question": "Quelle est l’angle entre les liaisons d’une molécule tétraédrique ?",
+      "options": ["109,5°", "120°", "90°", "180°"],
+      "reponse": "109,5°",
+      "explication": "La disposition tétraédrique permet de minimiser la répulsion des doublets."
+    },
+    {
+      "question": "Que montre la formule de Lewis d’une molécule ?",
+      "options": ["Les doublets liants et non liants", "La masse molaire", "Le rayon ionique", "L’énergie de liaison"],
+      "reponse": "Les doublets liants et non liants",
+      "explication": "Le modèle de Lewis représente les électrons de valence."
+    },
+    {
+      "question": "Combien d’électrons possède une double liaison ?",
+      "options": ["4", "2", "1", "6"],
+      "reponse": "4",
+      "explication": "Une double liaison est constituée de deux paires d’électrons partagés."
+    },
+    {
+      "question": "La molécule d’eau H₂O est :",
+      "options": ["Coudée", "Linéaire", "Tétraédrique", "Trigonal plane"],
+      "reponse": "Coudée",
+      "explication": "La présence de doublets non liants provoque une géométrie coudée (AX₂E₂)."
+    },
+    {
+      "question": "Quelle est la forme de la molécule NH₃ ?",
+      "options": ["Pyramidale", "Linéaire", "Plane", "Coudée"],
+      "reponse": "Pyramidale",
+      "explication": "AX₃E : trois liaisons + un doublet → pyramide à base triangulaire."
+    },
+    {
+      "question": "Une liaison métallique est caractérisée par :",
+      "options": ["Des électrons délocalisés", "Un échange d’ions", "Des doublets non liants", "Un transfert d’électrons"],
+      "reponse": "Des électrons délocalisés",
+      "explication": "Les électrons libres assurent la conduction dans les métaux."
+    },
+    {
+      "question": "La liaison entre deux atomes d’oxygène dans O₂ est :",
+      "options": ["Double", "Simple", "Triple", "Ionique"],
+      "reponse": "Double",
+      "explication": "Chaque O partage deux électrons avec l’autre → 2 liaisons covalentes."
+    },
+    {
+      "question": "Un exemple de molécule polaire est :",
+      "options": ["H₂O", "CO₂", "CH₄", "CCl₄"],
+      "reponse": "H₂O",
+      "explication": "Sa forme coudée et ses dipôles créent un moment dipolaire global."
+    },
+    {
+      "question": "Que signifie AX₃E selon la VSEPR ?",
+      "options": ["3 atomes liés + 1 doublet libre", "3 liaisons doubles", "Structure linéaire", "Molécule apolaire"],
+      "reponse": "3 atomes liés + 1 doublet libre",
+      "explication": "La théorie VSEPR déduit la forme selon les liaisons et doublets libres."
+    },
+    {
+      "question": "Combien de doublets non liants possède l’atome d’oxygène dans une molécule d’eau H₂O ?",
+      "options": ["2", "1", "0", "3"],
+      "reponse": "2",
+      "explication": "L’oxygène a 6 électrons de valence. Il forme 2 liaisons avec H, donc il lui reste 2 doublets non liants."
+    },
+    {
+      "question": "Quelle est la géométrie de la molécule de BF₃ selon le modèle VSEPR ?",
+      "options": ["Plane trigonale", "Tétraédrique", "Coudée", "Linéaire"],
+      "reponse": "Plane trigonale",
+      "explication": "BF₃ a une structure AX₃ sans doublets non liants → géométrie plane à 120°."
+    },
+    {
+      "question": "Combien de liaisons sigma et pi comporte une triple liaison (comme dans N≡N) ?",
+      "options": ["1 sigma et 2 pi", "2 sigma et 1 pi", "3 sigma", "2 pi seulement"],
+      "reponse": "1 sigma et 2 pi",
+      "explication": "Toute liaison multiple contient 1 liaison σ et les autres sont π."
+    },
+    {
+      "question": "Combien d’électrons sont partagés dans une liaison covalente double ?",
+      "options": ["4", "2", "6", "8"],
+      "reponse": "4",
+      "explication": "Une liaison double = 2 paires partagées = 4 électrons."
+    },
+    {
+      "question": "Quelle molécule a une structure AX₂E₂ ?",
+      "options": ["H₂O", "CO₂", "CH₄", "BF₃"],
+      "reponse": "H₂O",
+      "explication": "Elle a deux doublets liants (H) et deux non liants → AX₂E₂, donc coudée."
+    },
+    {
+      "question": "Lequel de ces composés est polaire ?",
+      "options": ["HCl", "CCl₄", "CO₂", "CH₄"],
+      "reponse": "HCl",
+      "explication": "C’est une molécule linéaire avec une forte différence d’électronégativité."
+    },
+    {
+      "question": "Dans CH₄, combien y a-t-il de liaisons covalentes ?",
+      "options": ["4", "2", "1", "3"],
+      "reponse": "4",
+      "explication": "Chaque H forme une liaison covalente avec C → 4 liaisons simples."
+    },
+    {
+      "question": "Combien de liaisons pi sont présentes dans la molécule de CO₂ ?",
+      "options": ["2", "1", "0", "3"],
+      "reponse": "2",
+      "explication": "CO₂ a deux doubles liaisons, chacune contenant une liaison pi."
+    },
+    {
+      "question": "Quelle molécule est apolaire malgré la présence de liaisons polaires ?",
+      "options": ["CO₂", "NH₃", "H₂O", "HCl"],
+      "reponse": "CO₂",
+      "explication": "Les dipôles sont opposés et symétriques → annulation du moment dipolaire."
+    },
+    {
+      "question": "Dans NH₃, quel est l’angle approximatif entre les liaisons H–N–H ?",
+      "options": ["107°", "120°", "90°", "180°"],
+      "reponse": "107°",
+      "explication": "La forme pyramidale (AX₃E) donne un angle d’environ 107°."
+    },
+    {
+      "question": "Quel est le nombre total de doublets (liants et non liants) autour de l’azote dans NH₃ ?",
+      "options": ["4", "3", "2", "5"],
+      "reponse": "4",
+      "explication": "3 doublets liants (avec H) + 1 non liant = 4 doublets."
+    },
+    {
+      "question": "Combien d’électrons partagés contient le dioxygène O₂ ?",
+      "options": ["4", "2", "6", "8"],
+      "reponse": "4",
+      "explication": "Chaque atome partage deux électrons → liaison double."
+    },
+    {
+      "question": "Quelle molécule a une géométrie linéaire mais polaire ?",
+      "options": ["HCl", "CH₄", "CO₂", "NH₃"],
+      "reponse": "HCl",
+      "explication": "Elle est linéaire (2 atomes) et polaire car H et Cl ont une forte différence d’électronégativité."
+    },
+    {
+      "question": "Quel composé forme un réseau cristallin métallique ?",
+      "options": ["Fe", "NaCl", "CH₄", "H₂O"],
+      "reponse": "Fe",
+      "explication": "Le fer est un métal → structure métallique à électrons libres."
+    },
+    {
+      "question": "Combien d’électrons de valence possède un atome de soufre (Z = 16) ?",
+      "options": ["6", "2", "4", "8"],
+      "reponse": "6",
+      "explication": "Sa configuration électronique termine par 3s² 3p⁴ → 6 électrons de valence."
+    },
+    {
+      "question": "Quelle molécule présente une liaison triple ?",
+      "options": ["N₂", "O₂", "CO₂", "CH₄"],
+      "reponse": "N₂",
+      "explication": "Les deux atomes d’azote forment une triple liaison (1 σ + 2 π)."
+    },
+    {
+      "question": "Quelle molécule a une forme plane trigonale ?",
+      "options": ["BF₃", "NH₃", "H₂O", "CH₄"],
+      "reponse": "BF₃",
+      "explication": "3 liaisons sans doublets libres → AX₃ → 120°, géométrie plane trigonale."
+    },
+    {
+      "question": "Quelle est la polarité de la molécule CCl₄ ?",
+      "options": ["Apolaires", "Polaire", "Ionique", "Métallique"],
+      "reponse": "Apolaires",
+      "explication": "Les dipôles sont orientés symétriquement autour du C → annulés."
+    },
+    {
+      "question": "Combien de paires d’électrons forme une liaison covalente ?",
+      "options": ["1", "2", "4", "6"],
+      "reponse": "1",
+      "explication": "Une liaison covalente simple implique le partage d’1 paire d’électrons."
+    },
+    {
+      "question": "Quelle est la géométrie de l’ion carbonate CO₃²⁻ ?",
+      "options": ["Plane trigonale", "Tétraédrique", "Coudée", "Linéaire"],
+      "reponse": "Plane trigonale",
+      "explication": "Trois oxygènes autour du carbone, sans doublets sur le C → géométrie plane à 120°."
+    }
+  ]
+}

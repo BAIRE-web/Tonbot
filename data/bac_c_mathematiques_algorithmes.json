@@ -1,0 +1,604 @@
+{
+  "qcm": [
+    {
+      "question": "Dans un algorithme, que permet une variable ?",
+      "options": ["Stocker une valeur", "Créer une boucle", "Afficher du texte", "Arrêter le programme"],
+      "reponse": "Stocker une valeur",
+      "explication": "Une variable sert à enregistrer et manipuler des données."
+    },
+    {
+      "question": "Quelle instruction initialise une variable nommée x à 5 ?",
+      "options": ["x ← 5", "5 ← x", "init x", "x = 5 <=="],
+      "reponse": "x ← 5",
+      "explication": "On utilise la flèche ← en pseudo-code pour l’affectation."
+    },
+    {
+      "question": "Quel est le rôle d’une instruction conditionnelle ?",
+      "options": ["Exécuter un bloc selon une condition", "Créer une fonction", "Faire une addition", "Compter les lignes"],
+      "reponse": "Exécuter un bloc selon une condition",
+      "explication": "Les instructions conditionnelles permettent les choix (si... alors...)."
+    },
+    {
+      "question": "Quelle est la syntaxe correcte d’une condition simple ?",
+      "options": ["Si x > 0 alors", "Alors si x > 0", "Si > x alors", "x > 0 alors si"],
+      "reponse": "Si x > 0 alors",
+      "explication": "Syntaxe classique en pseudo-code."
+    },
+    {
+      "question": "Que signifie une boucle ?",
+      "options": ["Une répétition d’instructions", "Une condition vraie", "Une variable globale", "Une fonction"],
+      "reponse": "Une répétition d’instructions",
+      "explication": "Les boucles répètent un bloc d’instructions jusqu’à un arrêt."
+    },
+    {
+      "question": "Que fait la boucle : Pour i allant de 1 à 5 faire afficher i ?",
+      "options": ["Affiche 1 2 3 4 5", "Affiche 0 1 2 3 4", "Affiche 5", "Affiche i 5 fois"],
+      "reponse": "Affiche 1 2 3 4 5",
+      "explication": "i prend successivement les valeurs de 1 à 5 inclus."
+    },
+    {
+      "question": "Quelle est la valeur finale de x après l’exécution suivante : x ← 0 ; Pour i de 1 à 3 faire x ← x + i ?",
+      "options": ["6", "3", "0", "9"],
+      "reponse": "6",
+      "explication": "x = 0 + 1 + 2 + 3 = 6."
+    },
+    {
+      "question": "Que signifie l’instruction Tant que x < 5 faire x ← x + 1 ?",
+      "options": ["Incrémente x jusqu’à ce qu’il vaille 5", "Affiche x", "Réinitialise x", "Multiplie x par 5"],
+      "reponse": "Incrémente x jusqu’à ce qu’il vaille 5",
+      "explication": "La boucle s’exécute tant que la condition est vraie."
+    },
+    {
+      "question": "Quelle est la sortie de l’algorithme suivant : x ← 2 ; Si x > 0 alors afficher 'Positif' ?",
+      "options": ["Positif", "Négatif", "Erreur", "0"],
+      "reponse": "Positif",
+      "explication": "La condition x > 0 est vraie."
+    },
+    {
+      "question": "Quel est le rôle de l’instruction 'Sinon' dans un algorithme ?",
+      "options": ["Exécuter un bloc alternatif", "Terminer une boucle", "Créer une variable", "Afficher un message"],
+      "reponse": "Exécuter un bloc alternatif",
+      "explication": "Sinon est exécuté si la condition précédente est fausse."
+    },
+    {
+      "question": "Combien de fois la boucle s’exécute : Pour i de 1 à 4 faire ... ?",
+      "options": ["4", "3", "5", "1"],
+      "reponse": "4",
+      "explication": "De 1 à 4 inclus = 4 valeurs."
+    },
+    {
+      "question": "Dans l’algorithme : x ← 1 ; Tant que x ≤ 3 faire x ← x + 1, quelle est la valeur finale de x ?",
+      "options": ["4", "3", "1", "0"],
+      "reponse": "4",
+      "explication": "x passe à 2, puis 3, puis 4 → la boucle s’arrête."
+    },
+    {
+      "question": "Quel est l’intérêt des boucles imbriquées ?",
+      "options": ["Faire des tableaux ou matrices", "Créer une variable", "Effacer la mémoire", "Cacher des erreurs"],
+      "reponse": "Faire des tableaux ou matrices",
+      "explication": "Utile pour parcourir des structures en 2D."
+    },
+    {
+      "question": "Que fait l’instruction 'Afficher x' ?",
+      "options": ["Affiche la valeur de x à l’écran", "Supprime x", "Multiplie x par 2", "Fait une boucle sur x"],
+      "reponse": "Affiche la valeur de x à l’écran",
+      "explication": "Commande classique d’affichage."
+    },
+    {
+      "question": "Dans un test : Si x = 0 alors afficher A sinon afficher B, que se passe-t-il si x ← 0 ?",
+      "options": ["A est affiché", "B est affiché", "Erreur", "0 est affiché"],
+      "reponse": "A est affiché",
+      "explication": "La condition x = 0 est vraie."
+    },
+    {
+      "question": "Quelle est la bonne syntaxe pour répéter une action n fois ?",
+      "options": ["Pour i de 1 à n faire", "Tant que i = n faire", "Si i = n faire", "Répète n fois"],
+      "reponse": "Pour i de 1 à n faire",
+      "explication": "C’est la boucle comptée classique."
+    },
+    {
+      "question": "Dans : x ← 0 ; Pour i de 1 à 5 faire x ← x + 2. Quelle est la valeur finale de x ?",
+      "options": ["10", "5", "2", "1"],
+      "reponse": "10",
+      "explication": "Ajout de 2 à chaque tour → 2 × 5 = 10."
+    },
+    {
+      "question": "Quel est le type de la variable x si elle contient vrai ou faux ?",
+      "options": ["Booléen", "Entier", "Caractère", "Réel"],
+      "reponse": "Booléen",
+      "explication": "Ce type contient deux valeurs : vrai ou faux."
+    },
+    {
+      "question": "Que fait l’instruction : x ← x + 1 ?",
+      "options": ["Incrémente x de 1", "Multiplie x", "Réinitialise x", "Supprime x"],
+      "reponse": "Incrémente x de 1",
+      "explication": "C’est l’instruction d’incrémentation classique."
+    },
+    {
+      "question": "Dans un algorithme, une variable doit toujours être :",
+      "options": ["Initialisée avant utilisation", "Imprimée", "Multiplée", "Colorée"],
+      "reponse": "Initialisée avant utilisation",
+      "explication": "Une variable non initialisée peut causer des erreurs."
+    },
+    {
+      "question": "Dans un pseudo-code, que signifie 'Fin Si' ?",
+      "options": ["Fin de la condition", "Fin de la boucle", "Début du test", "Fin du programme"],
+      "reponse": "Fin de la condition",
+      "explication": "Elle marque la fin du bloc conditionnel."
+    },
+    {
+      "question": "Dans un algorithme, que fait : x ← x × 2 si x vaut 3 au départ ?",
+      "options": ["x = 6", "x = 3", "x = 2", "x = 1"],
+      "reponse": "x = 6",
+      "explication": "On double la valeur de x : 3 × 2."
+    },
+    {
+      "question": "Quel algorithme permet de calculer la somme des entiers de 1 à 10 ?",
+      "options": ["x ← 0 ; Pour i de 1 à 10 faire x ← x + i", "x ← 10 ; Tant que i < 10 faire x ← x + i", "x ← 1 + 10", "x ← 10 × i"],
+      "reponse": "x ← 0 ; Pour i de 1 à 10 faire x ← x + i",
+      "explication": "Addition de tous les i successifs."
+    },
+    {
+      "question": "Quel test détecte si un nombre x est pair ?",
+      "options": ["Si x mod 2 = 0", "Si x ÷ 2 = 0", "Si x = 2", "Si x = pair"],
+      "reponse": "Si x mod 2 = 0",
+      "explication": "x mod 2 = 0 signifie que x est divisible par 2."
+    },
+    {
+      "question": "Que renvoie l’algorithme suivant : x ← 3 ; x ← x − 1 ; afficher x ?",
+      "options": ["2", "3", "1", "0"],
+      "reponse": "2",
+      "explication": "x passe de 3 à 2 puis est affiché."
+    },
+    {
+      "question": "À quoi sert un compteur dans une boucle ?",
+      "options": ["Compter les itérations", "Afficher un message", "Arrêter le programme", "Effacer la mémoire"],
+      "reponse": "Compter les itérations",
+      "explication": "Il sert à savoir combien de fois on boucle."
+    },
+    {
+      "question": "Quelle variable est incrémentée dans : Pour j de 1 à 4 faire ... ?",
+      "options": ["j", "i", "x", "z"],
+      "reponse": "j",
+      "explication": "C’est la variable d’itération de la boucle."
+    },
+    {
+      "question": "Un algorithme qui teste si un nombre est négatif utilise quelle condition ?",
+      "options": ["Si x < 0", "Si x > 0", "Si x = 0", "Si x ≥ 0"],
+      "reponse": "Si x < 0",
+      "explication": "x < 0 teste la négativité."
+    },
+    {
+      "question": "Une boucle sans fin est appelée :",
+      "options": ["Boucle infinie", "Boucle flottante", "Erreur syntaxique", "Instruction manquante"],
+      "reponse": "Boucle infinie",
+      "explication": "Elle ne s’arrête jamais si la condition reste vraie."
+    },
+    {
+      "question": "Si on écrit : Si x = 5 alors x ← x + 1 ; x vaut ?",
+      "options": ["6", "5", "0", "10"],
+      "reponse": "6",
+      "explication": "x est incrémenté de 1 si x = 5."
+    },
+    {
+      "question": "Que retourne cet algorithme ?\n\nx ← 2\nx ← x + 3\nAfficher x",
+      "options": ["5", "3", "2", "6"],
+      "reponse": "5",
+      "explication": "2 + 3 = 5 → affichage final."
+    },
+    {
+      "question": "Quelle est la sortie de l’algorithme ?\n\nx ← 4\nSi x > 2 alors x ← x × 2\nAfficher x",
+      "options": ["8", "4", "2", "0"],
+      "reponse": "8",
+      "explication": "Condition vraie → 4 × 2 = 8 affiché."
+    },
+    {
+      "question": "Combien de fois 'Bonjour' sera affiché ?\n\nPour i de 1 à 5 faire Afficher 'Bonjour'",
+      "options": ["5", "4", "6", "1"],
+      "reponse": "5",
+      "explication": "La boucle s’exécute 5 fois (i = 1 à 5 inclus)."
+    },
+    {
+      "question": "Quel est le résultat ?\n\ny ← 1\nPour i de 1 à 3 faire y ← y × i\nAfficher y",
+      "options": ["6", "3", "1", "0"],
+      "reponse": "6",
+      "explication": "1 × 1 × 2 × 3 = 6 (factorielle)."
+    },
+    {
+      "question": "Quelle valeur est affichée ?\n\nx ← 10\nTant que x > 7 faire x ← x − 1\nAfficher x",
+      "options": ["7", "8", "10", "6"],
+      "reponse": "7",
+      "explication": "Boucle : 10 → 9 → 8 → 7. Puis affichage."
+    },
+    {
+      "question": "Combien vaut la variable somme ?\n\nsomme ← 0\nPour i de 1 à 4 faire somme ← somme + i\nAfficher somme",
+      "options": ["10", "4", "6", "8"],
+      "reponse": "10",
+      "explication": "1 + 2 + 3 + 4 = 10."
+    },
+    {
+      "question": "Quel est le rôle de cet algorithme ?\n\nx ← 3\nSi x mod 2 = 0 alors afficher 'Pair' sinon afficher 'Impair'",
+      "options": ["Teste la parité", "Multiplie x", "Fait une boucle", "Divise x"],
+      "reponse": "Teste la parité",
+      "explication": "On teste si x est divisible par 2."
+    },
+    {
+      "question": "Quelle est la dernière valeur affichée ?\n\nPour i de 1 à 3 faire afficher i × 2",
+      "options": ["6", "2", "3", "4"],
+      "reponse": "6",
+      "explication": "Dernier i = 3 → 3 × 2 = 6."
+    },
+    {
+      "question": "Quel est le résultat ?\n\nx ← 1\nTant que x < 4 faire x ← x + 1\nAfficher x",
+      "options": ["4", "3", "2", "5"],
+      "reponse": "4",
+      "explication": "x : 1 → 2 → 3 → 4 (boucle stoppe à 4)."
+    },
+    {
+      "question": "Que fait cet algorithme ?\n\nx ← 0\nPour i de 1 à 5 faire x ← x + 2\nAfficher x",
+      "options": ["10", "5", "2", "0"],
+      "reponse": "10",
+      "explication": "Ajoute 2 cinq fois → 5 × 2 = 10."
+    },
+    {
+      "question": "Quelle valeur a x après :\n\nx ← 2\nSi x > 5 alors x ← 1 sinon x ← x + 4\nAfficher x",
+      "options": ["6", "2", "1", "5"],
+      "reponse": "6",
+      "explication": "x = 2 < 5 → x ← 2 + 4 = 6."
+    },
+    {
+      "question": "Quel message est affiché ?\n\nx ← −2\nSi x ≥ 0 alors afficher 'Positif' sinon afficher 'Négatif'",
+      "options": ["Négatif", "Positif", "Erreur", "0"],
+      "reponse": "Négatif",
+      "explication": "x est négatif → affiche 'Négatif'."
+    },
+    {
+      "question": "Combien vaut le produit ?\n\nprod ← 1\nPour i de 1 à 4 faire prod ← prod × i\nAfficher prod",
+      "options": ["24", "4", "10", "8"],
+      "reponse": "24",
+      "explication": "1 × 2 × 3 × 4 = 24."
+    },
+    {
+      "question": "Qu’affiche cet algorithme ?\n\nx ← 2\ny ← 5\nSi y > x alors afficher y − x",
+      "options": ["3", "2", "5", "7"],
+      "reponse": "3",
+      "explication": "5 − 2 = 3."
+    },
+    {
+      "question": "Quelle est la valeur de y ?\n\ny ← 0\nPour i de 1 à 3 faire y ← y + i²\nAfficher y",
+      "options": ["14", "9", "6", "12"],
+      "reponse": "14",
+      "explication": "1² + 2² + 3² = 1 + 4 + 9 = 14."
+    },
+    {
+      "question": "À quoi sert le compteur i ici ?\n\nPour i de 1 à 3 faire afficher i",
+      "options": ["Contrôler le nombre d’itérations", "Stocker un message", "Incrémenter x", "Tester une condition"],
+      "reponse": "Contrôler le nombre d’itérations",
+      "explication": "i indique combien de fois on répète."
+    },
+    {
+      "question": "Quel est le résultat ?\n\nx ← 3\nx ← x × x\nAfficher x",
+      "options": ["9", "6", "3", "0"],
+      "reponse": "9",
+      "explication": "x ← 3 × 3 = 9."
+    },
+    {
+      "question": "Quelle est la valeur finale ?\n\nx ← 5\nTant que x ≠ 0 faire x ← x − 1\nAfficher x",
+      "options": ["0", "1", "5", "−1"],
+      "reponse": "0",
+      "explication": "x décrémente jusqu’à 0."
+    },
+    {
+      "question": "Quel est le rôle de la condition ?\n\nSi x mod 3 = 0 alors afficher 'OK'",
+      "options": ["Teste si x est multiple de 3", "Additionne 3", "Divise x", "Affiche x"],
+      "reponse": "Teste si x est multiple de 3",
+      "explication": "mod 3 = 0 → x divisible par 3."
+    },
+    {
+      "question": "Combien de fois la boucle s’exécute ?\n\nx ← 0\nTant que x < 3 faire x ← x + 1",
+      "options": ["3", "2", "4", "∞"],
+      "reponse": "3",
+      "explication": "x = 0 → 1 → 2 → 3, arrêt à 3."
+    },
+    {
+      "question": "Quelle suite est définie par l’algorithme suivant ?\n\nu ← 1\nPour i de 1 à n faire u ← u + 2",
+      "options": ["uₙ = 2n + 1", "uₙ = n + 2", "uₙ = 3n", "uₙ = 2ⁿ"],
+      "reponse": "uₙ = 2n + 1",
+      "explication": "À chaque itération on ajoute 2 → suite arithmétique de raison 2 et premier terme 1."
+    },
+    {
+      "question": "Quel est le rôle de la boucle suivante ?\n\nu ← 1\nPour i de 1 à n faire u ← u × 3",
+      "options": ["Calcul de 3ⁿ", "Addition successive", "Somme géométrique", "Division répétée"],
+      "reponse": "Calcul de 3ⁿ",
+      "explication": "On multiplie u par 3 à chaque étape : u = 3ⁿ."
+    },
+    {
+      "question": "Que fait cet algorithme ?\n\nx ← 0\nPour i de 1 à n faire x ← x + i²",
+      "options": ["Calcule la somme des carrés", "Calcule la moyenne", "Fait une factorielle", "Affiche i²"],
+      "reponse": "Calcule la somme des carrés",
+      "explication": "On additionne successivement i² pour i de 1 à n."
+    },
+    {
+      "question": "Quel est l’objectif du code suivant ?\n\nS ← 0\nPour i de 0 à n − 1 faire S ← S + f(a + i × h)\nh ← (b − a) / n",
+      "options": ["Calcul d’une somme approchée", "Calcul de f(a)", "Déterminant", "Suite arithmétique"],
+      "reponse": "Calcul d’une somme approchée",
+      "explication": "C’est une méthode de rectangles pour approcher une intégrale."
+    },
+    {
+      "question": "Dans une intégration numérique, à quoi correspond : h ← (b − a)/n ?",
+      "options": ["Largeur des sous-intervalles", "Hauteur", "Nombre de points", "Longueur totale"],
+      "reponse": "Largeur des sous-intervalles",
+      "explication": "On découpe [a, b] en n sous-intervalles de largeur h."
+    },
+    {
+      "question": "Que fait le code suivant ?\n\nu ← 1\nPour i de 1 à 4 faire u ← u × i\nAfficher u",
+      "options": ["24", "4", "10", "16"],
+      "reponse": "24",
+      "explication": "u = 1 × 2 × 3 × 4 = 24 (factorielle de 4)."
+    },
+    {
+      "question": "Dans un algorithme d’intégration par rectangles, que représente f(a + i × h) ?",
+      "options": ["Hauteur du iᵉ rectangle", "Largeur", "Aire totale", "Tangente"],
+      "reponse": "Hauteur du iᵉ rectangle",
+      "explication": "C’est la valeur de la fonction au point a + i·h."
+    },
+    {
+      "question": "Quel est le résultat de l’algorithme ?\n\nx ← 2\nPour i de 1 à 3 faire x ← x²\nAfficher x",
+      "options": ["256", "8", "16", "36"],
+      "reponse": "256",
+      "explication": "x = 2 → 4 → 16 → 256"
+    },
+    {
+      "question": "Quel est le rôle de l’algorithme ?\n\nS ← 0\nPour i de 1 à n faire S ← S + 1 / i",
+      "options": ["Somme des inverses", "Suite géométrique", "Multiplication", "Carrés inversés"],
+      "reponse": "Somme des inverses",
+      "explication": "On calcule S = 1 + 1/2 + 1/3 + … + 1/n."
+    },
+    {
+      "question": "Quel est l’objectif du code suivant ?\n\nu ← a\nPour i de 1 à n faire u ← f(u)",
+      "options": ["Itération d’une fonction", "Calcul d’une intégrale", "Suite arithmétique", "Boucle infinie"],
+      "reponse": "Itération d’une fonction",
+      "explication": "u prend successivement les valeurs : u, f(u), f(f(u))…"
+    },
+    {
+      "question": "Quel algorithme donne une approximation de ∫ₐᵇ f(x) dx ?",
+      "options": ["Méthode des rectangles", "Méthode de Newton", "Suite arithmétique", "Méthode des limites"],
+      "reponse": "Méthode des rectangles",
+      "explication": "C’est l’approche classique en algorithmique pour approximer une intégrale."
+    },
+    {
+      "question": "Si u₀ = 2 et uₙ₊₁ = uₙ², quelle est la valeur de u₃ ?",
+      "options": ["256", "16", "4", "8"],
+      "reponse": "256",
+      "explication": "u₁ = 4, u₂ = 16, u₃ = 256"
+    },
+    {
+      "question": "Quel rôle joue le pas h dans un algorithme d’intégration ?",
+      "options": ["Contrôle la précision", "Définit la hauteur", "Crée une suite", "Donne le maximum"],
+      "reponse": "Contrôle la précision",
+      "explication": "Plus h est petit, plus l’approximation est fine."
+    },
+    {
+      "question": "Que fait ce code ?\n\nx ← a\nPour i de 1 à n faire x ← x + h ; S ← S + f(x)",
+      "options": ["Somme d’intégrale par points", "Suite géométrique", "Valeur absolue", "Dérivation"],
+      "reponse": "Somme d’intégrale par points",
+      "explication": "C’est une intégration discrète."
+    },
+    {
+      "question": "Si f(x) = x², quelle est la somme approchée de ∫₀² f(x) dx avec n = 2 (méthode des rectangles à gauche) ?",
+      "options": ["2", "4", "6", "8"],
+      "reponse": "2",
+      "explication": "h = 1, f(0) = 0, f(1) = 1 → S = 1 × (0 + 1) = 1"
+    },
+    {
+      "question": "Que fait cet algorithme ?\n\nu ← a\nPour i de 1 à n faire u ← u + r\nAfficher u",
+      "options": ["uₙ d’une suite arithmétique", "Moyenne", "Dérivée", "Produit scalaire"],
+      "reponse": "uₙ d’une suite arithmétique",
+      "explication": "Ajout de r à chaque itération."
+    },
+    {
+      "question": "Que permet cet algorithme ?\n\nPour i de 1 à n faire Si f(i) > 0 alors S ← S + f(i)",
+      "options": ["Additionne les f(i) positifs", "Test de primalité", "Produit des positifs", "Valeur moyenne"],
+      "reponse": "Additionne les f(i) positifs",
+      "explication": "Conditionnelle avec ajout."
+    },
+    {
+      "question": "À quoi sert l’instruction u ← u / 2 dans une suite ?",
+      "options": ["Suite géométrique de raison 1/2", "Suite arithmétique", "Doublement", "Addition croissante"],
+      "reponse": "Suite géométrique de raison 1/2",
+      "explication": "Chaque terme est divisé par 2 → r = 0.5"
+    },
+    {
+      "question": "Quel est l’intérêt de simuler f(x) dans un intervalle [a, b] ?",
+      "options": ["Approcher une intégrale", "Trouver f(0)", "Créer un système", "Dériver f"],
+      "reponse": "Approcher une intégrale",
+      "explication": "On utilise la discrétisation pour évaluer des aires."
+    },
+    {
+      "question": "Que fait cet algorithme ?\n\nPour i de 1 à n faire Si i mod 2 = 0 alors afficher i",
+      "options": ["Affiche les i pairs", "Affiche les i impairs", "Affiche i²", "Affiche f(i)"],
+      "reponse": "Affiche les i pairs",
+      "explication": "Condition pour les entiers pairs (mod 2 = 0)."
+    },
+    {
+      "question": "Quel est l’objectif du code suivant ?\n\nu ← a\nPour i de 1 à n faire u ← √u",
+      "options": ["Suite par racines successives", "Suite géométrique", "Calcul de ln(u)", "Itération divergente"],
+      "reponse": "Suite par racines successives",
+      "explication": "u prend successivement √u à chaque étape."
+    },
+    {
+      "question": "Quel est le résultat de l’algorithme ?\n\nx ← 0\nPour i de 1 à 3 faire x ← x + i × i\nAfficher x",
+      "options": ["14", "9", "6", "12"],
+      "reponse": "14",
+      "explication": "1² + 2² + 3² = 14"
+    },
+    {
+      "question": "Dans la méthode des trapèzes, quelle est la formule utilisée ?",
+      "options": ["S ≈ h/2 × (f(a) + 2Σf(xᵢ) + f(b))", "S = b − a", "S = ∫ₐᵇ f'(x)", "S = Σ xᵢ"],
+      "reponse": "S ≈ h/2 × (f(a) + 2Σf(xᵢ) + f(b))",
+      "explication": "C’est la formule de l’intégrale approchée par trapèzes."
+    },
+    {
+      "question": "Quelle est la finalité d’un tel algorithme ?\n\nPour i de 1 à n faire u ← f(u), stocker u dans T[i]",
+      "options": ["Créer un tableau de termes d’une suite", "Afficher u", "Tracer une tangente", "Évaluer f(1)"],
+      "reponse": "Créer un tableau de termes d’une suite",
+      "explication": "On mémorise chaque valeur uᵢ."
+    },
+    {
+      "question": "Que fait le code suivant ?\n\nx ← a\nPour i de 1 à n faire afficher f(x)\nx ← x + h",
+      "options": ["Affiche f(x) à n points", "Affiche x²", "Affiche l’intégrale", "Trace la tangente"],
+      "reponse": "Affiche f(x) à n points",
+      "explication": "x évolue de a vers b par pas h, et f(x) est affiché à chaque étape."
+    },
+    {
+      "question": "Quel est le rôle de l’algorithme ?\n\nu ← a\nPour i de 1 à n faire afficher u ; u ← f(u)",
+      "options": ["Affiche les termes de la suite uₙ₊₁ = f(uₙ)", "Affiche u", "Trace un graphe", "Calcule une intégrale"],
+      "reponse": "Affiche les termes de la suite uₙ₊₁ = f(uₙ)",
+      "explication": "On parcourt et affiche la suite obtenue par récurrence."
+    },
+    {
+      "question": "Que permet de faire un algorithme intégrant une boucle sur [a, b] ?",
+      "options": ["Approcher l’aire sous une courbe", "Tracer un polynôme", "Résoudre une équation", "Trouver une primitive"],
+      "reponse": "Approcher l’aire sous une courbe",
+      "explication": "C’est le principe des méthodes numériques d’intégration."
+    },
+    {
+      "question": "Que représente le tableau T[i] dans l’algorithme suivant ?\n\nPour i de 1 à n faire T[i] ← u\nu ← f(u)",
+      "options": ["Les termes de la suite", "La dérivée", "Le maximum", "Un vecteur unitaire"],
+      "reponse": "Les termes de la suite",
+      "explication": "On stocke les valeurs successives dans un tableau."
+    },
+    {
+      "question": "Quel est le rôle de f(u) dans un algorithme de récurrence ?",
+      "options": ["Définit l’évolution de la suite", "Additionne les indices", "Multiplie les carrés", "Fait une moyenne"],
+      "reponse": "Définit l’évolution de la suite",
+      "explication": "C’est la fonction de transition."
+    },
+    {
+      "question": "Pourquoi utiliser une méthode par pas pour ∫ₐᵇ f(x) dx ?",
+      "options": ["Approcher numériquement l’aire", "Tracer un point", "Calculer une tangente", "Créer une suite finie"],
+      "reponse": "Approcher numériquement l’aire",
+      "explication": "Quand f(x) est complexe ou sans primitive connue."
+    },
+    {
+      "question": "On considère l’algorithme suivant :\n\nu ← 2\nPour i de 1 à 3 faire u ← u²\nAfficher u\n\nQuelle est la valeur finale de u ?",
+      "options": ["256", "16", "8", "64"],
+      "reponse": "256",
+      "explication": "u = 2 → 4 → 16 → 256 après trois élévations au carré."
+    },
+    {
+      "question": "Quel est le résultat de cet algorithme ?\n\nx ← 0\nPour i de 1 à 4 faire x ← x + i × 2\nAfficher x",
+      "options": ["20", "10", "16", "8"],
+      "reponse": "20",
+      "explication": "2 + 4 + 6 + 8 = 20"
+    },
+    {
+      "question": "L’algorithme suivant est exécuté :\n\nu ← 1\nPour i de 1 à 5 faire u ← u + i²\nAfficher u\n\nQuelle est la sortie ?",
+      "options": ["56", "55", "15", "11"],
+      "reponse": "56",
+      "explication": "1 + (1² + 2² + 3² + 4² + 5²) = 56"
+    },
+    {
+      "question": "Quelle est la valeur de la somme approchée ?\n\nf(x) = x², a = 0, b = 2, n = 2\nS ← 0\nh ← (b − a)/n\nPour i de 0 à n − 1 faire S ← S + f(a + i × h)\nAfficher h × S",
+      "options": ["2", "4", "6", "8"],
+      "reponse": "2",
+      "explication": "f(0) = 0, f(1) = 1 → S = 1 × (0 + 1) = 1, h = 1 → 1 × 1 = 1"
+    },
+    {
+      "question": "Un algorithme donne :\n\nu ← 3\nPour i de 1 à 4 faire u ← u − 1\nAfficher u\n\nQuel est le résultat affiché ?",
+      "options": ["−1", "2", "0", "−2"],
+      "reponse": "−1",
+      "explication": "3 − 1 − 1 − 1 − 1 = −1"
+    },
+    {
+      "question": "Quel est le rôle de cet algorithme ?\n\nS ← 0\nPour i de 1 à 10 faire Si i mod 3 = 0 alors S ← S + i\nAfficher S",
+      "options": ["Additionne les multiples de 3 jusqu’à 10", "Additionne tous les i", "Produit des pairs", "Affiche les i impairs"],
+      "reponse": "Additionne les multiples de 3 jusqu’à 10",
+      "explication": "3 + 6 + 9 = 18"
+    },
+    {
+      "question": "Quelle suite est simulée ici ?\n\nu ← 1\nPour i de 1 à n faire u ← 2 × u + 1\nAfficher u",
+      "options": ["Suite récurrente croissante", "Suite géométrique", "Suite décroissante", "Suite constante"],
+      "reponse": "Suite récurrente croissante",
+      "explication": "Chaque terme dépend du précédent avec doublement + 1."
+    },
+    {
+      "question": "Que calcule cet algorithme ?\n\nx ← 0\nPour i de 1 à n faire x ← x + i × i\nAfficher x",
+      "options": ["Somme des carrés", "Moyenne", "Produit", "Exponentielle"],
+      "reponse": "Somme des carrés",
+      "explication": "x = Σ i² de 1 à n"
+    },
+    {
+      "question": "Que représente ce programme ?\n\nx ← a\nPour i de 1 à n faire x ← x + h ; S ← S + f(x)\nAfficher S × h",
+      "options": ["Aire approchée sous la courbe", "Tangente", "Moyenne des valeurs", "Valeur maximale"],
+      "reponse": "Aire approchée sous la courbe",
+      "explication": "Méthode d’intégration discrète"
+    },
+    {
+      "question": "Quelle est la valeur de u après :\n\nu ← 4\nPour i de 1 à 2 faire u ← √u\nAfficher u",
+      "options": ["~1.41", "~2", "4", "~2.38"],
+      "reponse": "~1.41",
+      "explication": "u = √4 = 2 → √2 ≈ 1.41"
+    },
+    {
+      "question": "Quel est l’effet de l’algorithme ?\n\nx ← 5\nTant que x > 0 faire x ← x − 1\nAfficher x",
+      "options": ["Affiche 0", "Affiche 1", "Boucle infinie", "Affiche 5"],
+      "reponse": "Affiche 0",
+      "explication": "x diminue jusqu’à 0"
+    },
+    {
+      "question": "L’algorithme suivant est exécuté :\n\nx ← 0\nPour i de 1 à 3 faire x ← x + 3 × i\nAfficher x\n\nQue vaut x ?",
+      "options": ["18", "15", "9", "12"],
+      "reponse": "18",
+      "explication": "3 + 6 + 9 = 18"
+    },
+    {
+      "question": "Quelle suite est modélisée ?\n\nu ← 5\nPour i de 1 à n faire u ← u − i\nAfficher u",
+      "options": ["Suite décroissante", "Croissante", "Constante", "Exponentielle"],
+      "reponse": "Suite décroissante",
+      "explication": "On enlève i à chaque itération"
+    },
+    {
+      "question": "À quoi sert cet algorithme ?\n\nx ← 0\nPour i de 1 à n faire Si f(i) > 0 alors x ← x + 1\nAfficher x",
+      "options": ["Compter les valeurs positives", "Somme des négatifs", "Produit des positifs", "Valeur maximale"],
+      "reponse": "Compter les valeurs positives",
+      "explication": "Chaque f(i) > 0 augmente le compteur"
+    },
+    {
+      "question": "Quel est le résultat final ?\n\nx ← 1\nPour i de 1 à 3 faire x ← x × i\nAfficher x",
+      "options": ["6", "9", "3", "1"],
+      "reponse": "6",
+      "explication": "1 × 1 × 2 × 3 = 6"
+    },
+    {
+      "question": "Quelle est l’erreur ici ?\n\nx ← 0\nPour i de 1 à 3 faire x ← x + x\nAfficher x",
+      "options": ["Toujours nul", "Erreur de syntaxe", "Valeur maximale", "Valeur non bornée"],
+      "reponse": "Toujours nul",
+      "explication": "x commence à 0, et 0 + 0 = 0"
+    },
+    {
+      "question": "Que fait le code ?\n\nS ← 0\nPour i de 1 à 5 faire S ← S + i × i\nAfficher S",
+      "options": ["55", "25", "15", "30"],
+      "reponse": "55",
+      "explication": "1² + 2² + 3² + 4² + 5² = 55"
+    },
+    {
+      "question": "Quel est le rôle de :\n\nTant que u > 0 faire u ← u − r\n\nsi r > 0 et u ∈ ℕ",
+      "options": ["Décrémenter jusqu’à 0", "Boucle infinie", "Augmenter u", "Créer une suite géométrique"],
+      "reponse": "Décrémenter jusqu’à 0",
+      "explication": "On soustrait r tant que u est positif"
+    },
+    {
+      "question": "Que retourne le code ?\n\nu ← 2\nPour i de 1 à 3 faire u ← u × 2\nAfficher u",
+      "options": ["16", "8", "12", "6"],
+      "reponse": "16",
+      "explication": "2 × 2 × 2 × 2 = 16"
+    },
+    {
+      "question": "Quel est le but de l’algorithme suivant ?\n\nu ← a\nPour i de 1 à n faire u ← f(u) ; afficher u",
+      "options": ["Calcul des itérés successifs", "Produit des fonctions", "Somme de u", "Affichage de a"],
+      "reponse": "Calcul des itérés successifs",
+      "explication": "C’est une suite de récurrence numérique"
+    }
+  ]
+}

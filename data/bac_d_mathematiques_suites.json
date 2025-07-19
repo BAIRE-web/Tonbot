@@ -1,0 +1,556 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’une suite arithmétique ?",
+      "options": ["Une suite où chaque terme est obtenu en ajoutant une constante au terme précédent", "Une suite où chaque terme est le produit du terme précédent par une constante", "Une suite définie uniquement par récurrence", "Une suite dont la somme est constante"],
+      "reponse": "Une suite où chaque terme est obtenu en ajoutant une constante au terme précédent",
+      "explication": "Dans une suite arithmétique, la différence entre deux termes consécutifs est constante."
+    },
+    {
+      "question": "Quelle est la formule explicite d’une suite arithmétique de premier terme u₀ et raison r ?",
+      "options": ["uₙ = u₀ + n × r", "uₙ = u₀ × r^n", "uₙ = r × n", "uₙ = u₀ × n + r"],
+      "reponse": "uₙ = u₀ + n × r",
+      "explication": "La formule donne directement le n-ième terme à partir du premier terme et de la raison."
+    },
+    {
+      "question": "Qu’est-ce qu’une suite géométrique ?",
+      "options": ["Une suite où chaque terme est le produit du terme précédent par une constante", "Une suite où chaque terme est obtenu en ajoutant une constante", "Une suite définie par la somme de termes précédents", "Une suite dont la différence entre termes est constante"],
+      "reponse": "Une suite où chaque terme est le produit du terme précédent par une constante",
+      "explication": "Dans une suite géométrique, la raison est constante et on multiplie chaque terme par cette raison."
+    },
+    {
+      "question": "Quelle est la formule explicite d’une suite géométrique de premier terme u₀ et raison q ?",
+      "options": ["uₙ = u₀ × qⁿ", "uₙ = u₀ + n × q", "uₙ = q × n", "uₙ = u₀ / qⁿ"],
+      "reponse": "uₙ = u₀ × qⁿ",
+      "explication": "Cette formule permet de calculer directement le terme de rang n."
+    },
+    {
+      "question": "Quelle est la somme des n premiers termes d’une suite arithmétique ?",
+      "options": ["Sₙ = (n + 1)(u₀ + uₙ)/2", "Sₙ = u₀ × n", "Sₙ = u₀ × qⁿ", "Sₙ = (u₀ + uₙ) / n"],
+      "reponse": "Sₙ = (n + 1)(u₀ + uₙ)/2",
+      "explication": "La somme est la moyenne des premiers et derniers termes multipliée par le nombre de termes."
+    },
+    {
+      "question": "Quelle est la somme des n premiers termes d’une suite géométrique de raison q ≠ 1 ?",
+      "options": ["Sₙ = u₀ × (1 - q^{n+1})/(1 - q)", "Sₙ = n × u₀", "Sₙ = (u₀ + uₙ)/2", "Sₙ = u₀ × q^n"],
+      "reponse": "Sₙ = u₀ × (1 - q^{n+1})/(1 - q)",
+      "explication": "Cette formule calcule la somme des termes jusqu’au rang n."
+    },
+    {
+      "question": "Quelle est la relation de récurrence d’une suite arithmétique ?",
+      "options": ["u_{n+1} = u_n + r", "u_{n+1} = u_n × q", "u_{n+1} = u_n - r", "u_{n+1} = r × n"],
+      "reponse": "u_{n+1} = u_n + r",
+      "explication": "Chaque terme s’obtient en ajoutant la raison r au terme précédent."
+    },
+    {
+      "question": "Quelle est la relation de récurrence d’une suite géométrique ?",
+      "options": ["u_{n+1} = u_n × q", "u_{n+1} = u_n + r", "u_{n+1} = u_n / q", "u_{n+1} = q + n"],
+      "reponse": "u_{n+1} = u_n × q",
+      "explication": "Chaque terme s’obtient en multipliant le terme précédent par la raison q."
+    },
+    {
+      "question": "Que signifie qu’une suite est définie par récurrence ?",
+      "options": ["Chaque terme est défini à partir du terme précédent", "Chaque terme est défini indépendamment", "La suite est géométrique", "La suite est arithmétique"],
+      "reponse": "Chaque terme est défini à partir du terme précédent",
+      "explication": "La définition par récurrence exprime u_{n+1} en fonction de u_n."
+    },
+    {
+      "question": "Si une suite (u_n) est définie par u_0 = 3 et u_{n+1} = 2u_n + 1, comment s’appelle cette suite ?",
+      "options": ["Suite définie par récurrence", "Suite arithmétique", "Suite géométrique", "Suite constante"],
+      "reponse": "Suite définie par récurrence",
+      "explication": "La suite est définie par une relation de récurrence non arithmétique ni géométrique."
+    },
+    {
+      "question": "Comment peut-on trouver une formule explicite à partir d’une suite définie par récurrence linéaire du type u_{n+1} = au_n + b ?",
+      "options": ["En résolvant l’équation de récurrence", "En sommant les termes", "En dérivant la suite", "En calculant la limite"],
+      "reponse": "En résolvant l’équation de récurrence",
+      "explication": "On peut résoudre l’équation pour obtenir u_n en fonction de n."
+    },
+    {
+      "question": "Quel est le comportement d’une suite géométrique si |q| < 1 ?",
+      "options": ["La suite tend vers 0", "La suite tend vers +∞", "La suite est constante", "La suite diverge"],
+      "reponse": "La suite tend vers 0",
+      "explication": "Quand la raison est entre -1 et 1, la suite tend vers zéro."
+    },
+    {
+      "question": "Quel est le comportement d’une suite arithmétique de raison positive ?",
+      "options": ["La suite tend vers +∞", "La suite est décroissante", "La suite est constante", "La suite tend vers 0"],
+      "reponse": "La suite tend vers +∞",
+      "explication": "Addition constante positive induit croissance illimitée."
+    },
+    {
+      "question": "Quelle est la somme des termes d’une suite arithmétique si u₀ = 2, r = 3, n = 4 ?",
+      "options": ["40", "20", "30", "35"],
+      "reponse": "40",
+      "explication": "u_4 = u₀ + 4r = 2 + 12 = 14; S_4 = (5)(2 + 14)/2 = 40."
+    },
+    {
+      "question": "Quelle est la somme des termes d’une suite géométrique si u₀ = 1, q = 2, n = 3 ?",
+      "options": ["15", "7", "8", "16"],
+      "reponse": "15",
+      "explication": "S_3 = 1 × (1 - 2^4)/(1 - 2) = (1 - 16)/(-1) = 15."
+    },
+    {
+      "question": "Si une suite est définie par u_0 = 1 et u_{n+1} = 3u_n, quelle est sa nature ?",
+      "options": ["Suite géométrique", "Suite arithmétique", "Suite constante", "Suite divergente"],
+      "reponse": "Suite géométrique",
+      "explication": "La relation est multiplicative avec raison 3."
+    },
+    {
+      "question": "Pour la suite définie par u_0 = 5 et u_{n+1} = u_n - 2, que vaut u_3 ?",
+      "options": ["−1", "11", "1", "5"],
+      "reponse": "−1",
+      "explication": "u_1=3, u_2=1, u_3=−1."
+    },
+    {
+      "question": "Que signifie que la raison d’une suite géométrique est q = 1 ?",
+      "options": ["La suite est constante", "La suite est croissante", "La suite est décroissante", "La suite diverge"],
+      "reponse": "La suite est constante",
+      "explication": "Multiplier par 1 laisse chaque terme identique au précédent."
+    },
+    {
+      "question": "Quelle suite a pour relation de récurrence : u_{n+1} = u_n + 5 ?",
+      "options": ["Suite arithmétique de raison 5", "Suite géométrique de raison 5", "Suite constante", "Suite définie par une fonction"],
+      "reponse": "Suite arithmétique de raison 5",
+      "explication": "Relation d’addition constante caractéristique des suites arithmétiques."
+    },
+    {
+      "question": "Quelle suite a pour relation de récurrence : u_{n+1} = 2u_n ?",
+      "options": ["Suite géométrique de raison 2", "Suite arithmétique de raison 2", "Suite constante", "Suite croissante"],
+      "reponse": "Suite géométrique de raison 2",
+      "explication": "Relation multiplicative caractéristique des suites géométriques."
+    },
+    {
+      "question": "Quelle est la somme des 5 premiers termes de la suite géométrique u_n = 3 × 2^n ?",
+      "options": ["93", "60", "96", "31"],
+      "reponse": "93",
+      "explication": "S_4 = 3 × (1 - 2^5)/(1 - 2) = 3 × (1 - 32)/(-1) = 93."
+    },
+    {
+      "question": "Comment calculer la somme des termes d’une suite arithmétique sans calculer tous les termes ?",
+      "options": ["Utiliser la formule de la somme", "Additionner un par un", "Multiplier le premier terme par le nombre de termes", "Utiliser la dérivée"],
+      "reponse": "Utiliser la formule de la somme",
+      "explication": "Formule S_n = (n + 1)(u₀ + uₙ)/2 permet un calcul rapide."
+    },
+    {
+      "question": "Quel est le premier terme d’une suite géométrique si u_3 = 16 et q = 2 ?",
+      "options": ["2", "4", "8", "1"],
+      "reponse": "2",
+      "explication": "u_3 = u_0 × 2^3 = u_0 × 8; donc u_0 = 16/8 = 2."
+    },
+    {
+      "question": "Une suite arithmétique a un premier terme 7 et une raison −3. Quel est son 5e terme ?",
+      "options": ["−5", "7", "−8", "−2"],
+      "reponse": "−5",
+      "explication": "u_4 = 7 + 4×(−3) = 7 − 12 = −5."
+    },
+    {
+      "question": "Que vaut u_0 pour une suite géométrique si u_4 = 81 et q = 3 ?",
+      "options": ["1", "3", "9", "27"],
+      "reponse": "1",
+      "explication": "u_4 = u_0 × 3^4 = u_0 × 81; donc u_0 = 81/81 = 1."
+    },
+    {
+      "question": "Laquelle des suites suivantes est géométrique ?",
+      "options": ["2, 6, 18, 54", "1, 3, 6, 10", "5, 8, 11, 14", "3, 7, 12, 18"],
+      "reponse": "2, 6, 18, 54",
+      "explication": "Chaque terme est obtenu en multipliant par 3 le précédent."
+    },
+    {
+      "question": "Laquelle des suites suivantes est arithmétique ?",
+      "options": ["5, 8, 11, 14", "2, 4, 8, 16", "1, 2, 4, 8", "3, 9, 27, 81"],
+      "reponse": "5, 8, 11, 14",
+      "explication": "La différence entre termes consécutifs est constante égale à 3."
+    },
+    {
+      "question": "Soit une suite arithmétique de premier terme u₀ = 5 et raison r = 3. Quel est u₄ ?",
+      "options": ["17", "20", "12", "11"],
+      "reponse": "17",
+      "explication": "u₄ = u₀ + 4 × r = 5 + 12 = 17."
+    },
+    {
+      "question": "Soit une suite géométrique de premier terme u₀ = 2 et raison q = 3. Quel est u₃ ?",
+      "options": ["54", "18", "27", "24"],
+      "reponse": "54",
+      "explication": "u₃ = u₀ × q³ = 2 × 27 = 54."
+    },
+    {
+      "question": "Calculer la somme des 5 premiers termes d’une suite arithmétique avec u₀ = 4 et r = 2.",
+      "options": ["40", "30", "50", "35"],
+      "reponse": "40",
+      "explication": "u₄ = 4 + 4 × 2 = 12; S₄ = (5)(4 + 12)/2 = 40."
+    },
+    {
+      "question": "Calculer la somme des 4 premiers termes d’une suite géométrique avec u₀ = 1 et q = 2.",
+      "options": ["15", "7", "16", "14"],
+      "reponse": "15",
+      "explication": "S₃ = 1 × (1 - 2⁴)/(1 - 2) = (1 - 16)/(-1) = 15."
+    },
+    {
+      "question": "Une suite est définie par u₀ = 3, u_{n+1} = u_n + 5. Quel est u₅ ?",
+      "options": ["28", "30", "25", "27"],
+      "reponse": "28",
+      "explication": "u₅ = 3 + 5 × 5 = 28."
+    },
+    {
+      "question": "Une suite est définie par u₀ = 2, u_{n+1} = 3u_n. Quel est u₃ ?",
+      "options": ["54", "18", "27", "36"],
+      "reponse": "54",
+      "explication": "u₃ = 2 × 3³ = 2 × 27 = 54."
+    },
+    {
+      "question": "Soit une suite arithmétique u₀ = 10, r = -2. Quel est u₄ ?",
+      "options": ["2", "4", "6", "8"],
+      "reponse": "2",
+      "explication": "u₄ = 10 + 4 × (-2) = 10 - 8 = 2."
+    },
+    {
+      "question": "Soit une suite géométrique u₀ = 5, q = 0,5. Quel est u₂ ?",
+      "options": ["1,25", "2,5", "5", "10"],
+      "reponse": "1,25",
+      "explication": "u₂ = 5 × (0,5)² = 5 × 0,25 = 1,25."
+    },
+    {
+      "question": "Pour une suite définie par u₀ = 1, u_{n+1} = u_n + 2n, quel est u₁ ?",
+      "options": ["1", "3", "2", "0"],
+      "reponse": "1",
+      "explication": "u₁ = u₀ + 2×0 = 1 + 0 = 1."
+    },
+    {
+      "question": "Pour la même suite, quel est u₂ ?",
+      "options": ["3", "5", "7", "4"],
+      "reponse": "3",
+      "explication": "u₂ = u₁ + 2×1 = 1 + 2 = 3."
+    },
+    {
+      "question": "Une suite géométrique a u₃ = 81 et q = 3. Quel est u₀ ?",
+      "options": ["1", "3", "9", "27"],
+      "reponse": "1",
+      "explication": "u₃ = u₀ × 3³ = u₀ × 27; donc u₀ = 81 / 27 = 3."
+    },
+    {
+      "question": "Soit une suite arithmétique de raison 4 et u₀ = 7. Quel est u₅ ?",
+      "options": ["27", "26", "28", "25"],
+      "reponse": "27",
+      "explication": "u₅ = 7 + 5 × 4 = 7 + 20 = 27."
+    },
+    {
+      "question": "Calculer la somme des 6 premiers termes d’une suite arithmétique u₀ = 3, r = 1.",
+      "options": ["48", "27", "33", "21"],
+      "reponse": "48",
+      "explication": "u₅ = 3 + 5 × 1 = 8; S₅ = (6)(3 + 8)/2 = 48."
+    },
+    {
+      "question": "Calculer la somme des 3 premiers termes d’une suite géométrique u₀ = 2, q = 4.",
+      "options": ["42", "30", "26", "24"],
+      "reponse": "42",
+      "explication": "S₂ = 2 × (1 - 4³)/(1 - 4) = 2 × (1 - 64)/(-3) = 42."
+    },
+    {
+      "question": "Une suite est définie par u₀ = 4 et u_{n+1} = 2u_n + 1. Quel est u₁ ?",
+      "options": ["9", "8", "5", "7"],
+      "reponse": "9",
+      "explication": "u₁ = 2 × 4 + 1 = 9."
+    },
+    {
+      "question": "Pour la même suite, quel est u₂ ?",
+      "options": ["19", "17", "20", "18"],
+      "reponse": "19",
+      "explication": "u₂ = 2 × 9 + 1 = 19."
+    },
+    {
+      "question": "Une suite géométrique a u₀ = 1, q = -2. Quel est u₃ ?",
+      "options": ["-8", "8", "-6", "6"],
+      "reponse": "-8",
+      "explication": "u₃ = 1 × (-2)³ = -8."
+    },
+    {
+      "question": "Soit une suite arithmétique de raison −1 et u₀ = 5. Quel est u₄ ?",
+      "options": ["1", "0", "2", "3"],
+      "reponse": "1",
+      "explication": "u₄ = 5 + 4 × (-1) = 1."
+    },
+    {
+      "question": "Pour la suite u_n = 3 × 2^n, quelle est la somme des 4 premiers termes ?",
+      "options": ["45", "42", "39", "48"],
+      "reponse": "45",
+      "explication": "S₃ = 3 × (1 - 2^4)/(1 - 2) = 3 × (1 - 16)/(-1) = 45."
+    },
+    {
+      "question": "Si u₀ = 7 et u_{n+1} = u_n + 0, que vaut u₁ ?",
+      "options": ["7", "0", "1", "14"],
+      "reponse": "7",
+      "explication": "La suite est constante avec raison 0."
+    },
+    {
+      "question": "Que signifie dire qu’une suite (uₙ) converge vers ℓ ?",
+      "options": ["Pour tout ε > 0, il existe N tel que ∀ n ≥ N, |uₙ - ℓ| < ε", "uₙ est toujours égal à ℓ", "uₙ est une suite constante", "uₙ diverge vers l’infini"],
+      "reponse": "Pour tout ε > 0, il existe N tel que ∀ n ≥ N, |uₙ - ℓ| < ε",
+      "explication": "La définition rigoureuse de la convergence signifie que les termes deviennent arbitrairement proches de ℓ."
+    },
+    {
+      "question": "Que signifie qu’une suite est monotone croissante ?",
+      "options": ["∀ n, u_{n+1} ≥ u_n", "∀ n, u_{n+1} ≤ u_n", "u_n est constante", "u_n diverge"],
+      "reponse": "∀ n, u_{n+1} ≥ u_n",
+      "explication": "Chaque terme est supérieur ou égal au précédent."
+    },
+    {
+      "question": "Qu’est-ce qu’une suite monotone décroissante ?",
+      "options": ["∀ n, u_{n+1} ≤ u_n", "∀ n, u_{n+1} ≥ u_n", "u_n est constante", "u_n diverge"],
+      "reponse": "∀ n, u_{n+1} ≤ u_n",
+      "explication": "Chaque terme est inférieur ou égal au précédent."
+    },
+    {
+      "question": "Une suite bornée est-elle toujours convergente ?",
+      "options": ["Non, mais une suite monotone bornée est convergente", "Oui", "Non, jamais", "Oui si elle est monotone croissante uniquement"],
+      "reponse": "Non, mais une suite monotone bornée est convergente",
+      "explication": "La convergence est assurée seulement pour une suite monotone bornée."
+    },
+    {
+      "question": "Quelle est la limite de la suite u_n = 1/n ?",
+      "options": ["0", "1", "∞", "−∞"],
+      "reponse": "0",
+      "explication": "Quand n tend vers l’infini, 1/n tend vers 0."
+    },
+    {
+      "question": "Quelle est la limite de la suite u_n = (−1)^n ?",
+      "options": ["La suite ne converge pas", "0", "1", "−1"],
+      "reponse": "La suite ne converge pas",
+      "explication": "La suite alterne entre 1 et −1, elle n’a pas de limite."
+    },
+    {
+      "question": "Que signifie qu’une suite diverge vers +∞ ?",
+      "options": ["Pour tout M, il existe N tel que ∀ n ≥ N, u_n > M", "La suite tend vers 0", "La suite est constante", "La suite est monotone décroissante"],
+      "reponse": "Pour tout M, il existe N tel que ∀ n ≥ N, u_n > M",
+      "explication": "Les termes deviennent arbitrairement grands positivement."
+    },
+    {
+      "question": "Quelle est la limite de la suite u_n = n ?",
+      "options": ["+∞", "0", "1", "−∞"],
+      "reponse": "+∞",
+      "explication": "La suite tend vers l’infini positif."
+    },
+    {
+      "question": "Si une suite est monotone croissante et non bornée, que vaut sa limite ?",
+      "options": ["+∞", "Une valeur finie", "0", "−∞"],
+      "reponse": "+∞",
+      "explication": "Une suite croissante qui n’a pas de borne supérieure tend vers +∞."
+    },
+    {
+      "question": "Si une suite est monotone décroissante et non bornée inférieurement, que vaut sa limite ?",
+      "options": ["−∞", "Une valeur finie", "0", "+∞"],
+      "reponse": "−∞",
+      "explication": "Une suite décroissante sans borne inférieure tend vers −∞."
+    },
+    {
+      "question": "Qu’est-ce qu’une suite bornée ?",
+      "options": ["Il existe M > 0 tel que ∀ n, |u_n| ≤ M", "Tous les termes sont positifs", "La suite est monotone", "La suite converge vers 0"],
+      "reponse": "Il existe M > 0 tel que ∀ n, |u_n| ≤ M",
+      "explication": "Tous les termes restent dans un intervalle fini."
+    },
+    {
+      "question": "Quelle est la limite de la suite u_n = (2n + 1)/(n + 3) ?",
+      "options": ["2", "0", "1", "+∞"],
+      "reponse": "2",
+      "explication": "Diviser numérateur et dénominateur par n donne 2."
+    },
+    {
+      "question": "Quelle est la limite de la suite u_n = (3n^2 + 1)/(2n^2 + 5) ?",
+      "options": ["3/2", "0", "1", "+∞"],
+      "reponse": "3/2",
+      "explication": "Les termes de plus haut degré dominent dans le calcul de la limite."
+    },
+    {
+      "question": "Une suite converge-t-elle toujours vers une seule limite ?",
+      "options": ["Oui", "Non", "Parfois", "Seulement si elle est monotone"],
+      "reponse": "Oui",
+      "explication": "Une suite ne peut pas avoir deux limites différentes."
+    },
+    {
+      "question": "Quelle est la limite de la suite u_n = (−1)^n/n ?",
+      "options": ["0", "1", "−1", "La suite ne converge pas"],
+      "reponse": "0",
+      "explication": "Les termes tendent vers 0 malgré l’alternance de signe."
+    },
+    {
+      "question": "Quelle propriété caractérise une suite convergente ?",
+      "options": ["Elle est toujours bornée", "Elle est toujours monotone", "Elle est toujours croissante", "Elle est toujours décroissante"],
+      "reponse": "Elle est toujours bornée",
+      "explication": "Toute suite convergente est nécessairement bornée."
+    },
+    {
+      "question": "Si une suite u_n est telle que lim u_n = ℓ, que vaut lim (u_{n+1}) ?",
+      "options": ["ℓ", "0", "+∞", "−∞"],
+      "reponse": "ℓ",
+      "explication": "Les suites convergentes ont la même limite pour les termes suivants."
+    },
+    {
+      "question": "Une suite monotone et bornée est-elle toujours convergente ?",
+      "options": ["Oui", "Non", "Seulement si elle est croissante", "Seulement si elle est décroissante"],
+      "reponse": "Oui",
+      "explication": "Le théorème de convergence des suites monotones le garantit."
+    },
+    {
+      "question": "Que signifie dire qu’une suite est strictement croissante ?",
+      "options": ["∀ n, u_{n+1} > u_n", "∀ n, u_{n+1} ≥ u_n", "∀ n, u_{n+1} < u_n", "∀ n, u_{n+1} ≤ u_n"],
+      "reponse": "∀ n, u_{n+1} > u_n",
+      "explication": "Chaque terme est strictement plus grand que le précédent."
+    },
+    {
+      "question": "Que signifie dire qu’une suite est strictement décroissante ?",
+      "options": ["∀ n, u_{n+1} < u_n", "∀ n, u_{n+1} ≤ u_n", "∀ n, u_{n+1} > u_n", "∀ n, u_{n+1} ≥ u_n"],
+      "reponse": "∀ n, u_{n+1} < u_n",
+      "explication": "Chaque terme est strictement plus petit que le précédent."
+    },
+    {
+      "question": "Si une suite converge vers ℓ, que peut-on dire de ses termes u_n ?",
+      "options": ["Ils deviennent arbitrairement proches de ℓ", "Ils deviennent très grands", "Ils oscillent", "Ils restent constants"],
+      "reponse": "Ils deviennent arbitrairement proches de ℓ",
+      "explication": "Par définition de la convergence."
+    },
+    {
+      "question": "Que signifie qu’une suite est divergente ?",
+      "options": ["Elle ne converge pas vers une limite finie", "Elle est constante", "Elle est monotone", "Elle est bornée"],
+      "reponse": "Elle ne converge pas vers une limite finie",
+      "explication": "La suite n’a pas de limite réelle."
+    },
+    {
+      "question": "Quelle est la limite de la suite u_n = n/(n + 1) ?",
+      "options": ["1", "0", "+∞", "−∞"],
+      "reponse": "1",
+      "explication": "Diviser numérateur et dénominateur par n donne 1."
+    },
+    {
+      "question": "Quelle est la limite de la suite u_n = (5n + 3)/(2n + 7) ?",
+      "options": ["5/2", "0", "1", "+∞"],
+      "reponse": "5/2",
+      "explication": "La limite est le rapport des coefficients des termes de plus haut degré."
+    },
+    {
+      "question": "Si une suite est croissante et bornée supérieurement, que vaut sa limite ?",
+      "options": ["Sa borne supérieure", "0", "+∞", "−∞"],
+      "reponse": "Sa borne supérieure",
+      "explication": "Le théorème des suites monotones garantit que la limite est la borne."
+    },
+    {
+      "question": "Soit uₙ = 3 - 2/n. Quelle est la limite de uₙ quand n → +∞ ?",
+      "options": ["3", "0", "−∞", "+∞"],
+      "reponse": "3",
+      "explication": "Quand n tend vers l'infini, 2/n tend vers 0, donc uₙ → 3."
+    },
+    {
+      "question": "La suite uₙ = (−1)^n est-elle convergente ?",
+      "options": ["Non", "Oui, vers 1", "Oui, vers 0", "Oui, vers −1"],
+      "reponse": "Non",
+      "explication": "La suite alterne entre 1 et −1 sans se stabiliser."
+    },
+    {
+      "question": "Soit uₙ = n/(n+1). Que vaut lim uₙ ?",
+      "options": ["1", "0", "+∞", "−∞"],
+      "reponse": "1",
+      "explication": "Diviser numérateur et dénominateur par n donne 1."
+    },
+    {
+      "question": "La suite uₙ = 5 + (−1)^n/n est-elle monotone ?",
+      "options": ["Non", "Oui, croissante", "Oui, décroissante", "Constante"],
+      "reponse": "Non",
+      "explication": "Les signes alternent, donc elle n’est pas monotone."
+    },
+    {
+      "question": "Si uₙ = 1 + 1/n, que vaut u_{n+1} − u_n ?",
+      "options": ["Négatif", "Positif", "0", "Impossible à déterminer"],
+      "reponse": "Négatif",
+      "explication": "1/(n+1) < 1/n, donc u_{n+1} < u_n, suite décroissante."
+    },
+    {
+      "question": "Soit uₙ = 2^n. Quelle est la limite de uₙ ?",
+      "options": ["+∞", "0", "1", "−∞"],
+      "reponse": "+∞",
+      "explication": "La puissance de 2 croît sans limite."
+    },
+    {
+      "question": "Soit uₙ = 1/n^2. Quelle est sa limite ?",
+      "options": ["0", "1", "+∞", "−∞"],
+      "reponse": "0",
+      "explication": "1/n^2 tend vers 0 quand n tend vers +∞."
+    },
+    {
+      "question": "Soit uₙ = (3n + 2)/(2n − 1). Quelle est sa limite ?",
+      "options": ["3/2", "2/3", "1", "+∞"],
+      "reponse": "3/2",
+      "explication": "Le ratio des coefficients dominants détermine la limite."
+    },
+    {
+      "question": "La suite uₙ = n est-elle bornée ?",
+      "options": ["Non", "Oui", "Seulement pour n ≤ 10", "Elle est constante"],
+      "reponse": "Non",
+      "explication": "Les termes deviennent arbitrairement grands."
+    },
+    {
+      "question": "Soit uₙ = 5 − n. Que vaut lim uₙ ?",
+      "options": ["−∞", "5", "+∞", "0"],
+      "reponse": "−∞",
+      "explication": "La suite décroît sans borne inférieure."
+    },
+    {
+      "question": "Soit uₙ = 1 − 1/n. La suite est-elle croissante ?",
+      "options": ["Oui", "Non", "Constante", "Non déterminé"],
+      "reponse": "Oui",
+      "explication": "1 − 1/(n+1) > 1 − 1/n, donc suite croissante."
+    },
+    {
+      "question": "Soit uₙ = (−1)^n/n. Vers quelle valeur converge-t-elle ?",
+      "options": ["0", "1", "−1", "La suite ne converge pas"],
+      "reponse": "0",
+      "explication": "Les termes tendent vers 0 malgré l’alternance."
+    },
+    {
+      "question": "Soit uₙ défini par u_0 = 1 et u_{n+1} = u_n/2. Quelle est la limite ?",
+      "options": ["0", "1", "+∞", "La suite diverge"],
+      "reponse": "0",
+      "explication": "Chaque terme est la moitié du précédent, tend vers 0."
+    },
+    {
+      "question": "La suite uₙ = 7 est-elle monotone ?",
+      "options": ["Oui", "Non", "Croissante uniquement", "Décroissante uniquement"],
+      "reponse": "Oui",
+      "explication": "La suite constante est à la fois croissante et décroissante."
+    },
+    {
+      "question": "Soit uₙ = 1 + (−1)^n. Convergence ?",
+      "options": ["Non", "Oui, vers 1", "Oui, vers 0", "Oui, vers 2"],
+      "reponse": "Non",
+      "explication": "Alterne entre 0 et 2, donc ne converge pas."
+    },
+    {
+      "question": "Soit uₙ = (2n + 3)/(n + 1). Limite ?",
+      "options": ["2", "3", "1", "+∞"],
+      "reponse": "2",
+      "explication": "Ratio des coefficients dominants."
+    },
+    {
+      "question": "Soit uₙ = 1/n + 1/(n+1). Limite ?",
+      "options": ["0", "1", "+∞", "2"],
+      "reponse": "0",
+      "explication": "Chaque terme tend vers 0, donc somme aussi."
+    },
+    {
+      "question": "Si uₙ est croissante et bornée, alors uₙ est :",
+      "options": ["Convergente", "Divergente", "Constante", "Non monotone"],
+      "reponse": "Convergente",
+      "explication": "Théorème des suites monotones bornées."
+    },
+    {
+      "question": "Soit uₙ = 3 + (−1)^n/n^2. La suite est-elle convergente ?",
+      "options": ["Oui, vers 3", "Non", "Oui, vers 0", "Oui, vers 1"],
+      "reponse": "Oui, vers 3",
+      "explication": "Les termes oscillent de moins en moins autour de 3."
+    },
+    {
+      "question": "Quelle est la limite de uₙ = (5n^3 + 1)/(2n^3 + 4) ?",
+      "options": ["5/2", "2/5", "1", "+∞"],
+      "reponse": "5/2",
+      "explication": "Dominance des termes de degré 3."
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "L’ADN est constitué de :",
+      "options": ["Deux brins complémentaires en double hélice", "Un seul brin simple", "Une molécule linéaire", "Un polysaccharide"],
+      "reponse": "Deux brins complémentaires en double hélice",
+      "explication": "L’ADN est formé de deux brins complémentaires enroulés en double hélice."
+    },
+    {
+      "question": "Les bases azotées de l’ADN sont :",
+      "options": ["Adénine, Thymine, Cytosine, Guanine", "Uracile, Cytosine, Guanine, Adénine", "Thymine, Uracile, Cytosine, Guanine", "Adénine, Uracile, Cytosine, Guanine"],
+      "reponse": "Adénine, Thymine, Cytosine, Guanine",
+      "explication": "L’ADN contient A, T, C, G, tandis que l’ARN remplace la thymine par l’uracile."
+    },
+    {
+      "question": "La complémentarité des bases signifie que :",
+      "options": ["A s’apparie avec T, C avec G", "A s’apparie avec C, T avec G", "A s’apparie avec G, T avec C", "A s’apparie avec U, C avec G"],
+      "reponse": "A s’apparie avec T, C avec G",
+      "explication": "L’adénine forme deux liaisons avec la thymine, la cytosine trois avec la guanine."
+    },
+    {
+      "question": "La transcription consiste à :",
+      "options": ["Synthétiser un ARN à partir d’un brin d’ADN", "Synthétiser une protéine", "Répliquer l’ADN", "Dégrader l’ARN"],
+      "reponse": "Synthétiser un ARN à partir d’un brin d’ADN",
+      "explication": "L’ARN est produit à partir du brin matrice d’ADN."
+    },
+    {
+      "question": "L’enzyme principale responsable de la transcription est :",
+      "options": ["ARN polymérase", "ADN polymérase", "Ligase", "Hélicase"],
+      "reponse": "ARN polymérase",
+      "explication": "L’ARN polymérase synthétise l’ARN messager."
+    },
+    {
+      "question": "Le brin d’ADN qui sert de modèle pour la transcription est appelé :",
+      "options": ["Brin matrice", "Brin codant", "Brin simple", "Brin complémentaire"],
+      "reponse": "Brin matrice",
+      "explication": "Le brin matrice est lu par l’ARN polymérase pour fabriquer l’ARN."
+    },
+    {
+      "question": "L’ARN messager (ARNm) :",
+      "options": ["Contient l’information génétique pour la synthèse des protéines", "Est une copie d’ADN", "Est une protéine", "Ne quitte jamais le noyau"],
+      "reponse": "Contient l’information génétique pour la synthèse des protéines",
+      "explication": "L’ARNm transporte l’information du noyau vers le cytoplasme."
+    },
+    {
+      "question": "La traduction est le processus par lequel :",
+      "options": ["L’ARNm est converti en chaîne polypeptidique", "L’ADN est copié", "L’ARNm est dégradé", "L’ARNr est synthétisé"],
+      "reponse": "L’ARNm est converti en chaîne polypeptidique",
+      "explication": "La traduction permet de synthétiser une protéine à partir de l’ARNm."
+    },
+    {
+      "question": "Le code génétique est :",
+      "options": ["Un code à triplets de nucléotides", "Un code à double brin", "Une séquence d’acides aminés", "Une molécule d’ARN"],
+      "reponse": "Un code à triplets de nucléotides",
+      "explication": "Chaque triplet de nucléotides (codon) code pour un acide aminé."
+    },
+    {
+      "question": "Le codon start (initiation) est :",
+      "options": ["AUG", "UAA", "UAG", "UGA"],
+      "reponse": "AUG",
+      "explication": "AUG code pour la méthionine et signale le début de la traduction."
+    },
+    {
+      "question": "Les codons stop servent à :",
+      "options": ["Terminer la traduction", "Initier la transcription", "Lier l’ARNt", "Former l’ARNr"],
+      "reponse": "Terminer la traduction",
+      "explication": "UAA, UAG, UGA signalent la fin de la synthèse protéique."
+    },
+    {
+      "question": "L’ARN de transfert (ARNt) :",
+      "options": ["Apporte les acides aminés lors de la traduction", "Copie l’ADN", "Forme le ribosome", "Transporte l’ARNm"],
+      "reponse": "Apporte les acides aminés lors de la traduction",
+      "explication": "L’ARNt apporte les acides aminés correspondants au codon lu."
+    },
+    {
+      "question": "Les ribosomes sont :",
+      "options": ["Les sites de synthèse des protéines", "Les enzymes de transcription", "Les molécules d’ARNm", "Les enzymes de réplication"],
+      "reponse": "Les sites de synthèse des protéines",
+      "explication": "Les ribosomes assemblent les acides aminés en protéines."
+    },
+    {
+      "question": "Pendant la transcription, la thymine est remplacée par :",
+      "options": ["Uracile", "Adénine", "Guanine", "Cytosine"],
+      "reponse": "Uracile",
+      "explication": "Dans l’ARN, l’uracile remplace la thymine de l’ADN."
+    },
+    {
+      "question": "Le brin d’ADN codant est :",
+      "options": ["Identique à l’ARNm sauf que T remplace U", "Complémentaire de l’ARNm", "Transcrit en protéine directement", "Jamais utilisé"],
+      "reponse": "Identique à l’ARNm sauf que T remplace U",
+      "explication": "Le brin codant a la même séquence que l’ARNm (avec T à la place d’U)."
+    },
+    {
+      "question": "La synthèse protéique a lieu :",
+      "options": ["Dans le cytoplasme", "Dans le noyau", "Dans la membrane plasmique", "Dans la mitochondrie"],
+      "reponse": "Dans le cytoplasme",
+      "explication": "La traduction a lieu sur les ribosomes cytoplasmiques."
+    },
+    {
+      "question": "Le phénomène d’épissage de l’ARN consiste à :",
+      "options": ["Retirer les introns et assembler les exons", "Dupliquer l’ARN", "Répliquer l’ADN", "Lier les acides aminés"],
+      "reponse": "Retirer les introns et assembler les exons",
+      "explication": "L’épissage élimine les séquences non codantes avant la traduction."
+    },
+    {
+      "question": "Le codon AAA code pour l’acide aminé :",
+      "options": ["Lysine", "Alanine", "Méthionine", "Sérine"],
+      "reponse": "Lysine",
+      "explication": "AAA est le codon codant pour la lysine."
+    },
+    {
+      "question": "La réplication de l’ADN est :",
+      "options": ["Semi-conservative", "Conservative", "Dispersive", "Non fidèle"],
+      "reponse": "Semi-conservative",
+      "explication": "Chaque molécule fille contient un brin original et un brin nouveau."
+    },
+    {
+      "question": "La synthèse des protéines est appelée aussi :",
+      "options": ["Expression génétique", "Réplique génétique", "Transcription", "Mutation"],
+      "reponse": "Expression génétique",
+      "explication": "L’expression génétique comprend transcription et traduction."
+    },
+    {
+      "question": "L’ADN polymérase est l’enzyme responsable de :",
+      "options": ["La réplication de l’ADN", "La transcription de l’ARN", "La traduction", "La réparation des protéines"],
+      "reponse": "La réplication de l’ADN",
+      "explication": "Elle synthétise le brin d’ADN complémentaire lors de la réplication."
+    },
+    {
+      "question": "L’ARN polymérase se fixe sur :",
+      "options": ["Le promoteur", "L’exon", "L’intron", "Le codon stop"],
+      "reponse": "Le promoteur",
+      "explication": "Le promoteur est la séquence où commence la transcription."
+    },
+    {
+      "question": "La synthèse protéique commence toujours par :",
+      "options": ["Un codon start", "Un codon stop", "Une séquence d’exons", "Un intron"],
+      "reponse": "Un codon start",
+      "explication": "Le codon start (AUG) marque le début de la traduction."
+    },
+    {
+      "question": "Les mutations dans la séquence d’ADN peuvent entraîner :",
+      "options": ["Des modifications dans la protéine synthétisée", "La disparition de l’ARN", "L’arrêt de la réplication", "La fusion des chromosomes"],
+      "reponse": "Des modifications dans la protéine synthétisée",
+      "explication": "Les mutations modifient la séquence codante, affectant la protéine."
+    },
+    {
+      "question": "La molécule d’ARNm est synthétisée dans le sens :",
+      "options": ["5’ → 3’", "3’ → 5’", "N’importe quel sens", "Sens inversé"],
+      "reponse": "5’ → 3’",
+      "explication": "L’ARN polymérase synthétise l’ARNm de 5’ vers 3’."
+    },
+    {
+      "question": "Un anticodon est porté par :",
+      "options": ["L’ARNt", "L’ARNm", "L’ADN", "Le ribosome"],
+      "reponse": "L’ARNt",
+      "explication": "L’anticodon permet la reconnaissance du codon sur l’ARNm."
+    },
+    {
+      "question": "La synthèse des protéines peut être affectée par :",
+      "options": ["Les mutations génétiques", "La température uniquement", "La lumière", "Le pH uniquement"],
+      "reponse": "Les mutations génétiques",
+      "explication": "Les mutations peuvent changer les acides aminés et la fonction des protéines."
+    },
+    {
+      "question": "L’ADN se trouve principalement :",
+      "options": ["Dans le noyau des cellules eucaryotes", "Dans le cytoplasme", "Dans la membrane cellulaire", "Dans les mitochondries uniquement"],
+      "reponse": "Dans le noyau des cellules eucaryotes",
+      "explication": "L’ADN nucléaire contient la majorité du matériel génétique."
+    },
+    {
+      "question": "La traduction se déroule sur :",
+      "options": ["Les ribosomes", "Le noyau", "L’ARNm", "Les mitochondries"],
+      "reponse": "Les ribosomes",
+      "explication": "Les ribosomes lisent l’ARNm et assemblent les acides aminés."
+    },
+    {
+      "question": "Lors de la transcription, si la séquence d’ADN est 5’-ATG CGT TAA-3’, quelle est la séquence d’ARNm correspondante ?",
+      "options": ["5’-AUG CGU UAA-3’", "5’-TAC GCA ATT-3’", "5’-UAC GCA AUU-3’", "5’-AUG CGU UGA-3’"],
+      "reponse": "5’-AUG CGU UAA-3’",
+      "explication": "L’ARNm est complémentaire au brin matrice et remplace T par U."
+    },
+    {
+      "question": "Quel acide aminé est codé par le codon AUG ?",
+      "options": ["Méthionine", "Leucine", "Sérine", "Valine"],
+      "reponse": "Méthionine",
+      "explication": "AUG est le codon start qui code pour la méthionine."
+    },
+    {
+      "question": "Si un codon ARN est UUU, quel est l’acide aminé correspondant ?",
+      "options": ["Phénylalanine", "Tyrosine", "Tryptophane", "Glycine"],
+      "reponse": "Phénylalanine",
+      "explication": "UUU code pour la phénylalanine selon le code génétique."
+    },
+    {
+      "question": "Quel rôle joue l’ARNt dans la synthèse des protéines ?",
+      "options": ["Apporter les acides aminés au ribosome", "Synthétiser l’ARNm", "Synthétiser l’ADN", "Dégrader les protéines"],
+      "reponse": "Apporter les acides aminés au ribosome",
+      "explication": "L’ARNt transporte les acides aminés pour les assembler."
+    },
+    {
+      "question": "Une mutation ponctuelle change un codon AAA en AGA. Quel peut être l’impact ?",
+      "options": ["Changement d’un acide aminé dans la protéine", "Arrêt immédiat de la synthèse", "Pas de changement", "Destruction de l’ADN"],
+      "reponse": "Changement d’un acide aminé dans la protéine",
+      "explication": "Un changement de codon peut modifier l’acide aminé codé."
+    },
+    {
+      "question": "Le brin codant d’ADN est 5’-ATG CGA TTA-3’. Quel est le brin matrice ?",
+      "options": ["3’-TAC GCT AAT-5’", "5’-TAC GCT AAT-3’", "3’-ATG CGA TTA-5’", "5’-UAC GCU AAU-3’"],
+      "reponse": "3’-TAC GCT AAT-5’",
+      "explication": "Le brin matrice est complémentaire et antiparallèle au brin codant."
+    },
+    {
+      "question": "Lors de la traduction, quelle séquence est reconnue par un anticodon d’ARNt ?",
+      "options": ["Le codon sur l’ARNm", "Le promoteur", "Le codon stop", "L’exon"],
+      "reponse": "Le codon sur l’ARNm",
+      "explication": "L’anticodon est complémentaire au codon de l’ARNm."
+    },
+    {
+      "question": "Quel type de mutation n’affecte pas la séquence d’acides aminés ?",
+      "options": ["Mutation silencieuse", "Mutation faux-sens", "Mutation non-sens", "Insertion"],
+      "reponse": "Mutation silencieuse",
+      "explication": "Une mutation silencieuse change un codon sans modifier l’acide aminé."
+    },
+    {
+      "question": "Le promoteur est :",
+      "options": ["La séquence d’ADN où l’ARN polymérase se fixe", "Une partie de la protéine", "Un type d’ARNt", "Une enzyme de traduction"],
+      "reponse": "La séquence d’ADN où l’ARN polymérase se fixe",
+      "explication": "Le promoteur initie la transcription."
+    },
+    {
+      "question": "Quel est le sens de synthèse de l’ARNm ?",
+      "options": ["5’ vers 3’", "3’ vers 5’", "N’importe quel sens", "Inverse de l’ADN"],
+      "reponse": "5’ vers 3’",
+      "explication": "L’ARN polymérase synthétise l’ARN dans le sens 5’→3’."
+    },
+    {
+      "question": "La différence principale entre ADN et ARN est :",
+      "options": ["Le sucre et les bases azotées", "Le nombre de brins", "Le lieu de synthèse", "Toutes les réponses sont vraies"],
+      "reponse": "Toutes les réponses sont vraies",
+      "explication": "ADN a désoxyribose, thymine, double brin, ARN a ribose, uracile, simple brin."
+    },
+    {
+      "question": "Qu’est-ce qu’un intron ?",
+      "options": ["Une séquence non codante éliminée de l’ARN", "Une protéine", "Une enzyme", "Un type d’ARNt"],
+      "reponse": "Une séquence non codante éliminée de l’ARN",
+      "explication": "Les introns sont retirés lors de l’épissage."
+    },
+    {
+      "question": "Quelle est la fonction des ribosomes ?",
+      "options": ["Assembler les acides aminés en protéines", "Synthétiser l’ARN", "Répliquer l’ADN", "Dégrader les protéines"],
+      "reponse": "Assembler les acides aminés en protéines",
+      "explication": "Les ribosomes traduisent l’ARNm en protéines."
+    },
+    {
+      "question": "Quelle molécule transporte l’information génétique du noyau au cytoplasme ?",
+      "options": ["ARN messager", "ARNt", "ADN", "Ribosome"],
+      "reponse": "ARN messager",
+      "explication": "L’ARNm transmet l’information génétique."
+    },
+    {
+      "question": "Dans la réplication, quel brin est synthétisé en fragments d’Okazaki ?",
+      "options": ["Brin discontinu", "Brin continu", "Brin codant", "Brin matrice"],
+      "reponse": "Brin discontinu",
+      "explication": "Le brin discontinu est synthétisé par fragments."
+    },
+    {
+      "question": "Quel est le rôle de la méthionine lors de la traduction ?",
+      "options": ["Démarrer la synthèse protéique", "Terminer la traduction", "Transporter les acides aminés", "Fixer l’ARN polymérase"],
+      "reponse": "Démarrer la synthèse protéique",
+      "explication": "Méthionine est l’acide aminé initiateur."
+    },
+    {
+      "question": "Le code génétique est dit dégénéré car :",
+      "options": ["Plusieurs codons codent pour un même acide aminé", "Un codon code pour plusieurs acides aminés", "Il y a plus d’acides aminés que de codons", "Il est universel"],
+      "reponse": "Plusieurs codons codent pour un même acide aminé",
+      "explication": "Cela protège contre certaines mutations."
+    },
+    {
+      "question": "Quelle est la conséquence d’une mutation non-sens ?",
+      "options": ["Formation prématurée d’un codon stop", "Aucun changement", "Remplacement d’un acide aminé", "Duplication du gène"],
+      "reponse": "Formation prématurée d’un codon stop",
+      "explication": "Elle conduit à une protéine tronquée."
+    },
+    {
+      "question": "Quel est le rôle de l’hélicase dans la réplication ?",
+      "options": ["Dénaturer l’ADN en séparant les brins", "Synthétiser l’ARNm", "Assembler les acides aminés", "Fixer l’ARNt"],
+      "reponse": "Dénaturer l’ADN en séparant les brins",
+      "explication": "Elle ouvre la double hélice d’ADN."
+    },
+    {
+      "question": "Quel acide aminé est codé par le codon UGG ?",
+      "options": ["Tryptophane", "Tyrosine", "Alanine", "Histidine"],
+      "reponse": "Tryptophane",
+      "explication": "UGG est le seul codon codant pour le tryptophane."
+    }
+  ]
+}

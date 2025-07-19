@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "Lors d’un titrage pH-métrique, le point d’équivalence correspond à :",
+      "options": ["Un saut brutal du pH", "La fin du titrage", "Un maximum de volume", "Un changement de couleur"],
+      "reponse": "Un saut brutal du pH",
+      "explication": "Le point d’équivalence est repéré par la brusque variation de pH observée sur la courbe."
+    },
+    {
+      "question": "Pour un titrage acide-base suivi par pH-métrie, la courbe tracée est :",
+      "options": ["pH en fonction du volume de titrant", "Volume en fonction du pH", "Absorbance en fonction du temps", "Température en fonction du volume"],
+      "reponse": "pH en fonction du volume de titrant",
+      "explication": "On suit l'évolution du pH au fur et à mesure de l'ajout du titrant."
+    },
+    {
+      "question": "Le point d’inflexion de la courbe de titrage correspond à :",
+      "options": ["Le point d’équivalence", "Le début du titrage", "Le volume de départ", "La fin du dosage"],
+      "reponse": "Le point d’équivalence",
+      "explication": "C’est au point d’inflexion que les quantités de réactifs sont en proportions stœchiométriques."
+    },
+    {
+      "question": "Sur une courbe conductimétrique, l’équivalence est repérée par :",
+      "options": ["Un changement de pente", "Un maximum de conductivité", "Un minimum de pH", "Une courbe plate"],
+      "reponse": "Un changement de pente",
+      "explication": "La conductivité évolue différemment avant et après l’équivalence, d'où un changement de pente net."
+    },
+    {
+      "question": "Une courbe de titrage conductimétrique présente :",
+      "options": ["Deux droites de pente différente", "Une courbe en cloche", "Une courbe exponentielle", "Une droite constante"],
+      "reponse": "Deux droites de pente différente",
+      "explication": "Ces droites se croisent au point d’équivalence."
+    },
+    {
+      "question": "Lors d’un titrage acide faible par base forte, la courbe pH = f(V) :",
+      "options": ["Monte progressivement puis brusquement", "Monte en ligne droite", "Est constante", "Diminue régulièrement"],
+      "reponse": "Monte progressivement puis brusquement",
+      "explication": "Le pH augmente lentement au début, puis rapidement à l’approche de l’équivalence."
+    },
+    {
+      "question": "Quel appareil permet de tracer la courbe de pH lors d’un titrage ?",
+      "options": ["pH-mètre", "Conductimètre", "Spectrophotomètre", "Thermomètre"],
+      "reponse": "pH-mètre",
+      "explication": "Il mesure le pH avec précision tout au long du titrage."
+    },
+    {
+      "question": "À quoi sert la dérivée de la courbe pH = f(V) ?",
+      "options": ["Déterminer le volume à l’équivalence", "Calculer la concentration", "Mesurer la température", "Tracer une droite"],
+      "reponse": "Déterminer le volume à l’équivalence",
+      "explication": "Le maximum de la dérivée correspond au saut de pH maximal, donc à l’équivalence."
+    },
+    {
+      "question": "Dans un titrage acide-base suivi par conductimétrie, on observe une rupture de pente car :",
+      "options": ["Les ions changent de nature", "L’acide se colore", "La température augmente", "La solution devient visqueuse"],
+      "reponse": "Les ions changent de nature",
+      "explication": "Les ions présents avant et après l’équivalence n’ont pas la même conductivité."
+    },
+    {
+      "question": "Quel paramètre reste constant pendant un titrage pH-métrique ?",
+      "options": ["La température (si contrôlée)", "Le pH", "Le volume total", "La couleur de la solution"],
+      "reponse": "La température (si contrôlée)",
+      "explication": "On maintient la température constante pour ne pas fausser les mesures de pH."
+    },
+    {
+      "question": "Dans un titrage acide fort/base forte, le saut de pH à l’équivalence est :",
+      "options": ["Très net (environ 7 unités)", "Absent", "Lent", "Inobservable"],
+      "reponse": "Très net (environ 7 unités)",
+      "explication": "Le pH passe brutalement d’environ 3 à 10, facilitant la détection du point d’équivalence."
+    },
+    {
+      "question": "Pourquoi utilise-t-on parfois un indicateur coloré en plus de la courbe ?",
+      "options": ["Pour confirmer visuellement l’équivalence", "Pour colorer la solution", "Par tradition", "Pour changer le pH"],
+      "reponse": "Pour confirmer visuellement l’équivalence",
+      "explication": "Un indicateur permet une détection approximative, en complément des mesures."
+    },
+    {
+      "question": "Dans une courbe pH-métrique, plus la pente est raide au point d’équivalence :",
+      "options": ["Plus le titrage est précis", "Plus la concentration est faible", "Plus le volume est grand", "Moins il y a d’ions"],
+      "reponse": "Plus le titrage est précis",
+      "explication": "Une rupture nette améliore la lecture du volume à l’équivalence."
+    },
+    {
+      "question": "Sur une courbe pH = f(V), la zone tampon se trouve :",
+      "options": ["Avant l’équivalence", "Après l’équivalence", "Au point d’équivalence", "Sur l’axe horizontal"],
+      "reponse": "Avant l’équivalence",
+      "explication": "La solution résiste aux variations de pH dans cette zone tampon, avant l'équivalence."
+    },
+    {
+      "question": "La courbe de titrage d’un acide faible par une base forte est :",
+      "options": ["Asymétrique avec un saut plus progressif", "Parfaitement droite", "Inversée", "Plate"],
+      "reponse": "Asymétrique avec un saut plus progressif",
+      "explication": "Le pH évolue plus lentement au début que pour un acide fort."
+    },
+    {
+      "question": "Quel paramètre varie au cours d’un titrage conductimétrique ?",
+      "options": ["Conductivité", "Absorbance", "Masse volumique", "Rayonnement UV"],
+      "reponse": "Conductivité",
+      "explication": "On suit les variations de conductivité liées aux ions en solution."
+    },
+    {
+      "question": "Dans un titrage pH-métrique, l’ajout du titrant est effectué :",
+      "options": ["Goutte à goutte", "Tout d’un coup", "Avant la préparation", "Par évaporation"],
+      "reponse": "Goutte à goutte",
+      "explication": "Cela permet de repérer précisément le volume où se produit la rupture de pH."
+    },
+    {
+      "question": "Une erreur dans la lecture du point d’équivalence affecte :",
+      "options": ["Le calcul de la concentration", "La masse molaire", "La vitesse de réaction", "La température"],
+      "reponse": "Le calcul de la concentration",
+      "explication": "Une mauvaise estimation du volume équivalent entraîne une erreur de concentration."
+    },
+    {
+      "question": "Le volume équivalent peut aussi être repéré par :",
+      "options": ["La méthode des tangentes", "Une règle de trois", "Un graphique horizontal", "Un spectre d’absorption"],
+      "reponse": "La méthode des tangentes",
+      "explication": "Les tangentes avant et après l’équivalence permettent de repérer leur point d’intersection."
+    },
+    {
+      "question": "Une courbe en V dans un titrage conductimétrique indique :",
+      "options": ["Un changement net de conductivité", "Un pH très acide", "Une erreur de manipulation", "Un excès de température"],
+      "reponse": "Un changement net de conductivité",
+      "explication": "Les ions changent autour de l’équivalence, créant une cassure en forme de V sur la courbe."
+    },
+    {
+      "question": "Lors d’un titrage pH-métrique, la courbe présente un saut de pH entre 4,8 et 9,2. Quelle est l’estimation du volume à l’équivalence ?",
+      "options": ["18,0 mL", "21,5 mL", "24,0 mL", "27,0 mL"],
+      "reponse": "21,5 mL",
+      "explication": "Le volume équivalent correspond au milieu du saut de pH. Donc, (18,0 + 25,0)/2 = 21,5 mL."
+    },
+    {
+      "question": "Une courbe de titrage conductimétrique montre une conductivité décroissante jusqu’à 15 mL, puis croissante. Le volume équivalent est :",
+      "options": ["12 mL", "15 mL", "18 mL", "20 mL"],
+      "reponse": "15 mL",
+      "explication": "Le changement de pente se produit à 15 mL, ce qui correspond à l’équivalence."
+    },
+    {
+      "question": "Une solution d’acide nitrique est titrée par de la soude. La courbe pH = f(V) présente un saut à 25 mL. Quelle relation écrire pour déterminer la concentration de l’acide ?",
+      "options": ["Cₐ × Vₐ = C_b × V_eq", "Cₐ + C_b = V_eq", "C_b × Vₐ = V_eq", "Cₐ = C_b × V_eq²"],
+      "reponse": "Cₐ × Vₐ = C_b × V_eq",
+      "explication": "C’est la relation de l’équivalence : les quantités de matière sont égales à l’équivalence."
+    },
+    {
+      "question": "Lors d’un titrage, la courbe pH = f(V) est plate avant 10 mL, puis monte rapidement. Cela indique que :",
+      "options": ["Le titrant est une base forte", "Le titré est une base", "La solution est saturée", "Il y a une erreur de mesure"],
+      "reponse": "Le titrant est une base forte",
+      "explication": "Une courbe avec faible pH initial et saut rapide est caractéristique d’un acide titré par une base forte."
+    },
+    {
+      "question": "Sur un titrage conductimétrique, la première partie de la courbe a une pente négative car :",
+      "options": ["Les ions H⁺ sont remplacés par des ions Na⁺", "La température diminue", "L’eau est ajoutée", "La solution se dilue"],
+      "reponse": "Les ions H⁺ sont remplacés par des ions Na⁺",
+      "explication": "Les ions H⁺ sont plus conducteurs que les ions Na⁺, donc la conductivité baisse."
+    },
+    {
+      "question": "Une solution de HCl (20,0 mL) est titrée par NaOH (0,10 mol/L). L’équivalence est à 25,0 mL. Quelle est la concentration de HCl ?",
+      "options": ["0,125 mol/L", "0,100 mol/L", "0,050 mol/L", "0,250 mol/L"],
+      "reponse": "0,125 mol/L",
+      "explication": "n(NaOH) = 0,10 × 0,025 = 0,0025 mol → C_HCl = 0,0025 / 0,020 = 0,125 mol/L."
+    },
+    {
+      "question": "Sur une courbe de titrage, on lit un saut de pH de 3,5 à 10. Cela indique :",
+      "options": ["Un titrage acide fort / base forte", "Un acide faible", "Une erreur", "Un dosage indirect"],
+      "reponse": "Un titrage acide fort / base forte",
+      "explication": "Les pH extrêmes et le saut net indiquent un acide fort neutralisé par une base forte."
+    },
+    {
+      "question": "Dans un titrage, l’allure de la courbe en V indique que :",
+      "options": ["Le titrage est suivi par conductimétrie", "Le pH est constant", "Il y a un indicateur", "La solution est homogène"],
+      "reponse": "Le titrage est suivi par conductimétrie",
+      "explication": "La courbe en V est typique d’un titrage suivi par mesure de conductivité."
+    },
+    {
+      "question": "Le volume équivalent d’un titrage est déterminé graphiquement par :",
+      "options": ["Le point d’intersection des deux droites", "Le maximum de la courbe", "L’aire sous la courbe", "Le minimum du pH"],
+      "reponse": "Le point d’intersection des deux droites",
+      "explication": "La méthode des tangentes donne le point d’équivalence par intersection."
+    },
+    {
+      "question": "Une courbe de titrage présente un saut de conductivité à 30 mL. Cela signifie que :",
+      "options": ["L’équivalence est à 30 mL", "Le pH est 30", "Le titrant est à 30%", "La masse molaire est 30 g/mol"],
+      "reponse": "L’équivalence est à 30 mL",
+      "explication": "Le saut indique le volume à l’équivalence."
+    },
+    {
+      "question": "Dans un titrage suivi par pH-métrie, une erreur de lecture du pH peut entraîner :",
+      "options": ["Une mauvaise détermination du volume équivalent", "Un changement de réactif", "Une dilution de la solution", "Une réaction incomplète"],
+      "reponse": "Une mauvaise détermination du volume équivalent",
+      "explication": "Le point d’équivalence est détecté par le saut de pH, donc sa lecture est cruciale."
+    },
+    {
+      "question": "Une courbe conductimétrique montre une pente négative puis positive. Cela signifie que :",
+      "options": ["Les ions présents ont changé", "Le pH est neutre", "La température a chuté", "La réaction est catalysée"],
+      "reponse": "Les ions présents ont changé",
+      "explication": "Avant l’équivalence, les ions du titré dominent, après ce sont ceux du titrant."
+    },
+    {
+      "question": "Si on dépasse l’équivalence lors du titrage, cela peut entraîner :",
+      "options": ["Une surestimation de la concentration", "Un saut de température", "Une dissolution de gaz", "Une décomposition chimique"],
+      "reponse": "Une surestimation de la concentration",
+      "explication": "Un excès de titrant fausse le volume équivalent estimé."
+    },
+    {
+      "question": "La pente la plus raide d’une courbe pH = f(V) permet de :",
+      "options": ["Repérer l’équivalence", "Déterminer le pKa", "Calculer la masse", "Obtenir la température"],
+      "reponse": "Repérer l’équivalence",
+      "explication": "Le point d’inflexion (changement rapide de pH) marque l’équivalence."
+    },
+    {
+      "question": "Lors d’un titrage de CH₃COOH par NaOH, on observe un saut de pH moins net car :",
+      "options": ["CH₃COOH est un acide faible", "NaOH est faible", "L’eau est basique", "L’acide est absent"],
+      "reponse": "CH₃COOH est un acide faible",
+      "explication": "Les acides faibles réagissent progressivement, ce qui rend le saut de pH moins marqué."
+    },
+    {
+      "question": "La dérivée de la courbe pH = f(V) est utilisée pour :",
+      "options": ["Trouver précisément le point d’équivalence", "Tracer la tangente", "Calculer le rendement", "Mesurer la température"],
+      "reponse": "Trouver précisément le point d’équivalence",
+      "explication": "Le maximum de la dérivée correspond au changement le plus rapide de pH."
+    },
+    {
+      "question": "Une valeur de conductivité nulle indique :",
+      "options": ["Absence d’ions", "Équivalence exacte", "Excès de base", "Présence d’acide fort"],
+      "reponse": "Absence d’ions",
+      "explication": "La conductivité dépend des ions ; si elle est nulle, il n’y a aucun ion mobile."
+    },
+    {
+      "question": "Le pH à l’équivalence d’un titrage acide faible/base forte est :",
+      "options": ["Supérieur à 7", "Égal à 7", "Inférieur à 7", "Toujours 5"],
+      "reponse": "Supérieur à 7",
+      "explication": "Le sel formé est basique, donc le pH à l’équivalence est > 7."
+    },
+    {
+      "question": "Dans une courbe pH = f(V), l’équivalence est atteinte lorsque :",
+      "options": ["Le pH augmente brutalement", "Le pH diminue", "Le volume est constant", "La solution devient rouge"],
+      "reponse": "Le pH augmente brutalement",
+      "explication": "Le saut de pH signale l’équivalence."
+    },
+    {
+      "question": "La concentration d’une solution peut être obtenue à partir :",
+      "options": ["Du volume à l’équivalence", "De la couleur de la solution", "Du titre massique", "De la masse molaire du solvant"],
+      "reponse": "Du volume à l’équivalence",
+      "explication": "Avec le volume équivalent et la concentration du titrant, on applique Cₐ × Vₐ = C_b × V_eq."
+    }
+  ]
+}

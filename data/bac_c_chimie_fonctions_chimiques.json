@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Donnez la formule semi-développée de l’acide butanoïque.",
+      "options": ["CH₃—CH₂—CH₂—COOH", "CH₃—CH₂—COOH", "CH₃—COOH", "CH₄"],
+      "reponse": "CH₃—CH₂—CH₂—COOH",
+      "explication": "L’acide butanoïque contient 4 carbones avec le groupe carboxyle terminal."
+    },
+    {
+      "question": "Quelle molécule correspond à un alcool primaire ?",
+      "options": ["CH₃—CH₂—OH", "CH₃—CHO", "CH₃—CO—CH₃", "CH₃—COOH"],
+      "reponse": "CH₃—CH₂—OH",
+      "explication": "Un alcool primaire a le groupe —OH sur un carbone lié à un seul autre carbone."
+    },
+    {
+      "question": "Quel est le produit principal de la réaction entre un acide carboxylique et un alcool ?",
+      "options": ["Un ester", "Un alcane", "Une cétone", "Un aldéhyde"],
+      "reponse": "Un ester",
+      "explication": "L’estérification forme un ester et de l’eau."
+    },
+    {
+      "question": "Quel groupe fonctionnel est présent dans l’éthanal ?",
+      "options": ["Aldéhyde", "Alcool", "Acide carboxylique", "Ester"],
+      "reponse": "Aldéhyde",
+      "explication": "L’éthanal est un aldéhyde à 2 carbones."
+    },
+    {
+      "question": "Quelle est la formule brute de l’éthanol ?",
+      "options": ["C₂H₆O", "C₂H₄O", "C₂H₅OH", "C₃H₈O"],
+      "reponse": "C₂H₆O",
+      "explication": "L’éthanol a pour formule brute C₂H₆O."
+    },
+    {
+      "question": "Un cétone contient le groupe fonctionnel :",
+      "options": ["—CO—", "—COOH", "—OH", "—CHO"],
+      "reponse": "—CO—",
+      "explication": "Le groupe carbonyle interne caractérise la cétone."
+    },
+    {
+      "question": "La formule brute de l’acide éthanoïque est :",
+      "options": ["C₂H₄O₂", "C₂H₆O", "C₃H₆O", "C₃H₈O"],
+      "reponse": "C₂H₄O₂",
+      "explication": "L’acide acétique est C₂H₄O₂."
+    },
+    {
+      "question": "Quelle molécule est un alcène ?",
+      "options": ["CH₂=CH₂", "CH₄", "CH₃—OH", "CH₃—COOH"],
+      "reponse": "CH₂=CH₂",
+      "explication": "L’éthylène a une double liaison C=C."
+    },
+    {
+      "question": "Quel est le groupe caractéristique d’un ester ?",
+      "options": ["—COO—", "—OH", "—COOH", "—CHO"],
+      "reponse": "—COO—",
+      "explication": "Les esters ont le groupe ester —COO—."
+    },
+    {
+      "question": "Quelle est la réaction chimique qui forme un ester ?",
+      "options": ["Estérification", "Hydrolyse", "Oxydation", "Réduction"],
+      "reponse": "Estérification",
+      "explication": "La réaction entre un acide et un alcool produit un ester."
+    },
+    {
+      "question": "Quelle est la fonction de la molécule CH₃—CH₂—OH ?",
+      "options": ["Alcool", "Alcane", "Aldéhyde", "Acide carboxylique"],
+      "reponse": "Alcool",
+      "explication": "Cette molécule est l’éthanol, un alcool."
+    },
+    {
+      "question": "La formule semi-développée du propanone est :",
+      "options": ["CH₃—CO—CH₃", "CH₃—CH₂—CHO", "CH₃—CH₂—OH", "CH₃—COOH"],
+      "reponse": "CH₃—CO—CH₃",
+      "explication": "Le propanone est une cétone à 3 carbones."
+    },
+    {
+      "question": "Le groupe fonctionnel —COOH est appelé :",
+      "options": ["Carboxyle", "Hydroxyle", "Carbonyle", "Formyle"],
+      "reponse": "Carboxyle",
+      "explication": "Le groupe —COOH caractérise la fonction acide carboxylique."
+    },
+    {
+      "question": "Quel est le produit d’une hydrolyse d’un ester en milieu acide ?",
+      "options": ["Acide carboxylique et alcool", "Alcool et cétone", "Alcane et alcool", "Aldéhyde et alcool"],
+      "reponse": "Acide carboxylique et alcool",
+      "explication": "L’hydrolyse d’un ester donne un acide et un alcool."
+    },
+    {
+      "question": "Quel composé est un acide carboxylique ?",
+      "options": ["CH₃—COOH", "CH₃—OH", "CH₃—CHO", "CH₃—CO—CH₃"],
+      "reponse": "CH₃—COOH",
+      "explication": "Le groupe —COOH désigne un acide carboxylique."
+    },
+    {
+      "question": "Quelle molécule est un alcane ?",
+      "options": ["CH₄", "CH₂=CH₂", "CH₃—OH", "CH₃—COOH"],
+      "reponse": "CH₄",
+      "explication": "Le méthane CH₄ est un alcane saturé."
+    },
+    {
+      "question": "Un alcène possède une formule générale :",
+      "options": ["CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂", "CₙHₙ"],
+      "reponse": "CₙH₂ₙ",
+      "explication": "Les alcènes contiennent une double liaison."
+    },
+    {
+      "question": "Le nom IUPAC de CH₃—CH₂—COOH est :",
+      "options": ["Acide propanoïque", "Acide éthanoïque", "Acide méthanoïque", "Acide butanoïque"],
+      "reponse": "Acide propanoïque",
+      "explication": "Cette molécule est un acide carboxylique à 3 carbones."
+    },
+    {
+      "question": "La fonction cétone est caractérisée par :",
+      "options": ["Un groupe carbonyle entre deux carbones", "Un groupe hydroxyle", "Un groupe carboxyle", "Un groupe formyle"],
+      "reponse": "Un groupe carbonyle entre deux carbones",
+      "explication": "Le groupe C=O lié à deux carbones définit la cétone."
+    },
+    {
+      "question": "Quel est le produit d’une réaction d’oxydation d’un alcool primaire ?",
+      "options": ["Aldéhyde", "Cétone", "Acide carboxylique", "Alcane"],
+      "reponse": "Aldéhyde",
+      "explication": "L’oxydation d’un alcool primaire donne un aldéhyde."
+    },
+    {
+      "question": "Quelle fonction chimique correspond au groupe —OH ?",
+      "options": ["Alcool", "Acide carboxylique", "Ester", "Alcane"],
+      "reponse": "Alcool",
+      "explication": "Le groupe —OH caractérise la fonction alcool."
+    },
+    {
+      "question": "Quelle est la formule brute générale des alcanes ?",
+      "options": ["CₙH₂ₙ₊₂", "CₙH₂ₙ", "CₙH₂ₙ₋₂", "CₙH₂ₙO"],
+      "reponse": "CₙH₂ₙ₊₂",
+      "explication": "Les alcanes sont des hydrocarbures saturés de formule CₙH₂ₙ₊₂."
+    },
+    {
+      "question": "Quelle fonction contient le groupe carboxyle —COOH ?",
+      "options": ["Acide carboxylique", "Alcool", "Ester", "Cétone"],
+      "reponse": "Acide carboxylique",
+      "explication": "La fonction acide carboxylique contient le groupe —COOH."
+    },
+    {
+      "question": "Quel est le nom IUPAC de CH₃—CH=CH₂ ?",
+      "options": ["Propène", "Propane", "Propanol", "Propanal"],
+      "reponse": "Propène",
+      "explication": "CH₃—CH=CH₂ est un alcène nommé propène."
+    },
+    {
+      "question": "Quelle fonction chimique a la formule générale R—CO—R' ?",
+      "options": ["Cétone", "Aldéhyde", "Ester", "Alcool"],
+      "reponse": "Cétone",
+      "explication": "Le groupe carbonyle (C=O) lié à deux carbones définit la cétone."
+    },
+    {
+      "question": "Quelle est la fonction d’un aldéhyde ?",
+      "options": ["R—CHO", "R—COOH", "R—CO—R'", "R—OH"],
+      "reponse": "R—CHO",
+      "explication": "L’aldéhyde contient le groupe formyle R—CHO."
+    },
+    {
+      "question": "Un ester est formé par la réaction entre :",
+      "options": ["Un acide carboxylique et un alcool", "Un alcane et un alcool", "Un aldéhyde et un cétone", "Un alcène et un acide"],
+      "reponse": "Un acide carboxylique et un alcool",
+      "explication": "L’estérification réunit un acide carboxylique et un alcool."
+    },
+    {
+      "question": "Quelle est la fonction caractéristique d’un ester ?",
+      "options": ["—COO—", "—OH", "—COOH", "—CHO"],
+      "reponse": "—COO—",
+      "explication": "Le groupe ester contient une liaison —COO—."
+    },
+    {
+      "question": "Le nom IUPAC du méthanol est :",
+      "options": ["Méthanol", "Éthanol", "Propanol", "Butanol"],
+      "reponse": "Méthanol",
+      "explication": "Le plus simple alcool est le méthanol (CH₃—OH)."
+    },
+    {
+      "question": "Quel composé a pour formule semi-développée CH₃—CH₂—COOH ?",
+      "options": ["Acide propanoïque", "Acide acétique", "Éthanol", "Propanone"],
+      "reponse": "Acide propanoïque",
+      "explication": "C’est un acide carboxylique à 3 carbones : acide propanoïque."
+    },
+    {
+      "question": "Quelle est la différence principale entre alcane et alcène ?",
+      "options": ["Alcènes ont une double liaison C=C", "Alcanes ont une double liaison C=C", "Alcènes ont un groupe —OH", "Alcanes ont un groupe —OH"],
+      "reponse": "Alcènes ont une double liaison C=C",
+      "explication": "Les alcènes contiennent au moins une double liaison carbone-carbone."
+    },
+    {
+      "question": "Comment nomme-t-on un alcane à 4 carbones ?",
+      "options": ["Butane", "Propane", "Pentane", "Éthane"],
+      "reponse": "Butane",
+      "explication": "Le butane a 4 atomes de carbone."
+    },
+    {
+      "question": "Quelle est la formule brute du propanol ?",
+      "options": ["C₃H₈O", "C₃H₆O", "C₃H₆", "C₂H₆O"],
+      "reponse": "C₃H₈O",
+      "explication": "Le propanol est un alcool à 3 carbones, formule C₃H₈O."
+    },
+    {
+      "question": "Quelle fonction contient un groupe carbonyle lié à un hydrogène ?",
+      "options": ["Aldéhyde", "Cétone", "Ester", "Alcool"],
+      "reponse": "Aldéhyde",
+      "explication": "Le groupe formyle R—CHO caractérise l’aldéhyde."
+    },
+    {
+      "question": "Quel groupe fonctionnel est caractéristique d’un alcool ?",
+      "options": ["—OH", "—COOH", "—CHO", "—CO—"],
+      "reponse": "—OH",
+      "explication": "Le groupe hydroxyle —OH caractérise les alcools."
+    },
+    {
+      "question": "Quelle molécule est un alcène ?",
+      "options": ["CH₂=CH₂", "CH₄", "CH₃—CH₂—OH", "CH₃—CO—CH₃"],
+      "reponse": "CH₂=CH₂",
+      "explication": "L’éthylène CH₂=CH₂ est un alcène avec une double liaison."
+    },
+    {
+      "question": "Lequel de ces composés est un ester ?",
+      "options": ["CH₃—COO—CH₃", "CH₃—OH", "CH₃—COOH", "CH₃—CHO"],
+      "reponse": "CH₃—COO—CH₃",
+      "explication": "La liaison —COO— caractérise un ester."
+    },
+    {
+      "question": "Comment nomme-t-on un acide carboxylique à 2 carbones ?",
+      "options": ["Acide éthanoïque", "Acide propanoïque", "Acide méthanoïque", "Acide butanoïque"],
+      "reponse": "Acide éthanoïque",
+      "explication": "L’acide acétique est l’acide éthanoïque."
+    },
+    {
+      "question": "Quelle molécule est un alcane ?",
+      "options": ["CH₄", "CH₂=CH₂", "CH₃—OH", "CH₃—COOH"],
+      "reponse": "CH₄",
+      "explication": "Le méthane CH₄ est un alcane saturé."
+    },
+    {
+      "question": "Un cétone a toujours un groupe carbonyle situé :",
+      "options": ["À l’intérieur de la chaîne carbonée", "À l’extrémité de la chaîne", "Dans un cycle aromatique", "Sur un carbone terminal lié à un hydrogène"],
+      "reponse": "À l’intérieur de la chaîne carbonée",
+      "explication": "Le groupe carbonyle des cétones est lié à deux carbones internes."
+    },
+    {
+      "question": "Quelle est la formule semi-développée d’un aldéhyde à 3 carbones ?",
+      "options": ["CH₃—CH₂—CHO", "CH₃—CH₂—COOH", "CH₃—CH=CH₂", "CH₃—CO—CH₃"],
+      "reponse": "CH₃—CH₂—CHO",
+      "explication": "L’aldéhyde à 3 carbones est le propanal."
+    },
+    {
+      "question": "La nomenclature IUPAC d’un alcool suit :",
+      "options": ["Suffixe -ol", "Préfixe hydroxy-", "Suffixe -one", "Suffixe -al"],
+      "reponse": "Suffixe -ol",
+      "explication": "Les alcools ont pour suffixe -ol."
+    },
+    {
+      "question": "Un alcène possède la formule générale :",
+      "options": ["CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂", "CₙH₂ₙO"],
+      "reponse": "CₙH₂ₙ",
+      "explication": "Les alcènes ont une double liaison et suivent la formule CₙH₂ₙ."
+    },
+    {
+      "question": "Quel groupe fonctionnel donne l’odeur caractéristique des esters ?",
+      "options": ["—COO—", "—OH", "—CHO", "—CO—"],
+      "reponse": "—COO—",
+      "explication": "Les esters ont des odeurs fruitées dues au groupe —COO—."
+    },
+    {
+      "question": "La formule brute du butanal est :",
+      "options": ["C₄H₈O", "C₄H₁₀O", "C₃H₆O", "C₅H₁₀O"],
+      "reponse": "C₄H₈O",
+      "explication": "L’aldéhyde à 4 carbones est le butanal, formule C₄H₈O."
+    },
+    {
+      "question": "Quelle propriété est typique d’un acide carboxylique ?",
+      "options": ["Acidité", "Basicité", "Neutralité", "Hydrophobicité"],
+      "reponse": "Acidité",
+      "explication": "La fonction —COOH confère des propriétés acides."
+    },
+    {
+      "question": "La réaction d’estérification produit un ester et :",
+      "options": ["De l’eau", "Du dioxyde de carbone", "De l’alcool", "Du méthane"],
+      "reponse": "De l’eau",
+      "explication": "L’estérification est une condensation avec élimination d’eau."
+    },
+    {
+      "question": "Un alcane cyclique est nommé :",
+      "options": ["Cycloalcane", "Alcène", "Alcool", "Cétone"],
+      "reponse": "Cycloalcane",
+      "explication": "Un alcane formant un cycle est un cycloalcane."
+    },
+    {
+      "question": "La formule brute du cyclohexane est :",
+      "options": ["C₆H₁₂", "C₆H₆", "C₆H₁₄", "C₅H₁₂"],
+      "reponse": "C₆H₁₂",
+      "explication": "Cyclohexane : 6 carbones en cycle saturé, C₆H₁₂."
+    },
+    {
+      "question": "Quel est le suffixe des cétones en nomenclature IUPAC ?",
+      "options": ["-one", "-al", "-ol", "-oïque"],
+      "reponse": "-one",
+      "explication": "Les cétones se terminent par le suffixe -one."
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "qcm": [
+    {
+      "question": "La probabilité d’un événement est toujours comprise entre :",
+      "options": ["0 et 1", "-1 et 1", "0 et 100", "-∞ et +∞"],
+      "reponse": "0 et 1",
+      "explication": "Une probabilité est un nombre entre 0 (impossible) et 1 (certain)."
+    },
+    {
+      "question": "La probabilité d’un événement certain est :",
+      "options": ["1", "0", "0.5", "∞"],
+      "reponse": "1",
+      "explication": "Un événement certain a une probabilité égale à 1."
+    },
+    {
+      "question": "La probabilité d’un événement impossible est :",
+      "options": ["0", "1", "0.5", "−1"],
+      "reponse": "0",
+      "explication": "Un événement impossible a une probabilité égale à 0."
+    },
+    {
+      "question": "La somme des probabilités de tous les événements d’un univers est :",
+      "options": ["1", "0", "Variable", "Indéfinie"],
+      "reponse": "1",
+      "explication": "La somme des probabilités de tous les événements élémentaires est toujours égale à 1."
+    },
+    {
+      "question": "Si A est un événement, la probabilité de son événement contraire (non A) est :",
+      "options": ["1 − P(A)", "P(A)", "0", "1"],
+      "reponse": "1 − P(A)",
+      "explication": "La probabilité du complémentaire est 1 moins la probabilité de l’événement."
+    },
+    {
+      "question": "Deux événements A et B sont incompatibles si :",
+      "options": ["Ils ne peuvent pas se produire en même temps", "Ils sont indépendants", "Ils ont la même probabilité", "Ils sont complémentaires"],
+      "reponse": "Ils ne peuvent pas se produire en même temps",
+      "explication": "Incompatibles signifie que A ∩ B = ∅."
+    },
+    {
+      "question": "La probabilité que l’un ou l’autre de deux événements incompatibles A ou B se produise est :",
+      "options": ["P(A) + P(B)", "P(A) × P(B)", "P(A) − P(B)", "P(A) / P(B)"],
+      "reponse": "P(A) + P(B)",
+      "explication": "Pour événements incompatibles, P(A ∪ B) = P(A) + P(B)."
+    },
+    {
+      "question": "La probabilité que les événements A et B se produisent simultanément est :",
+      "options": ["P(A ∩ B)", "P(A) + P(B)", "P(A) − P(B)", "P(A) / P(B)"],
+      "reponse": "P(A ∩ B)",
+      "explication": "La probabilité de l’intersection correspond aux deux événements ensemble."
+    },
+    {
+      "question": "Si A et B sont indépendants, alors :",
+      "options": ["P(A ∩ B) = P(A) × P(B)", "P(A ∪ B) = P(A) + P(B)", "P(A) = P(B)", "P(A ∩ B) = 0"],
+      "reponse": "P(A ∩ B) = P(A) × P(B)",
+      "explication": "Indépendants signifie que la survenue de l’un n’influence pas l’autre."
+    },
+    {
+      "question": "Un exemple d’événement certain est :",
+      "options": ["Obtenir un nombre inférieur ou égal à 6 en lançant un dé à 6 faces", "Obtenir un 7 en lançant un dé à 6 faces", "Obtenir un nombre pair supérieur à 6", "Obtenir un 0 au dé"],
+      "reponse": "Obtenir un nombre inférieur ou égal à 6 en lançant un dé à 6 faces",
+      "explication": "Un dé à 6 faces ne peut donner qu’un nombre de 1 à 6."
+    },
+    {
+      "question": "La probabilité d’obtenir pile lors d’un lancer de pièce équilibrée est :",
+      "options": ["0.5", "0.25", "1", "0"],
+      "reponse": "0.5",
+      "explication": "Il y a deux issues équiprobables : pile ou face."
+    },
+    {
+      "question": "Si P(A) = 0.3, quelle est la probabilité de l’événement contraire de A ?",
+      "options": ["0.7", "0.3", "1", "0"],
+      "reponse": "0.7",
+      "explication": "P(non A) = 1 − 0.3 = 0.7."
+    },
+    {
+      "question": "Si un événement A est impossible, alors P(A) = :",
+      "options": ["0", "1", "0.5", "−1"],
+      "reponse": "0",
+      "explication": "Un événement impossible a probabilité nulle."
+    },
+    {
+      "question": "Si P(A) = 0.6 et P(B) = 0.3, que vaut P(A ∪ B) si A et B sont incompatibles ?",
+      "options": ["0.9", "0.18", "0.3", "0.6"],
+      "reponse": "0.9",
+      "explication": "P(A ∪ B) = P(A) + P(B) = 0.6 + 0.3 = 0.9."
+    },
+    {
+      "question": "Si A et B sont incompatibles, P(A ∩ B) = :",
+      "options": ["0", "P(A) × P(B)", "P(A) + P(B)", "1"],
+      "reponse": "0",
+      "explication": "Les événements incompatibles ne peuvent pas arriver en même temps."
+    },
+    {
+      "question": "Pour deux événements indépendants A et B, P(A ∪ B) = :",
+      "options": ["P(A) + P(B) − P(A) × P(B)", "P(A) + P(B)", "P(A) × P(B)", "P(A) − P(B)"],
+      "reponse": "P(A) + P(B) − P(A) × P(B)",
+      "explication": "Formule d’addition pour événements indépendants."
+    },
+    {
+      "question": "Un événement aléatoire est :",
+      "options": ["Un événement dont l’issue est incertaine", "Un événement certain", "Un événement impossible", "Un événement toujours vrai"],
+      "reponse": "Un événement dont l’issue est incertaine",
+      "explication": "Un événement aléatoire peut ou non se produire."
+    },
+    {
+      "question": "La somme des probabilités des événements élémentaires d’un univers est :",
+      "options": ["1", "0", "Variable", "Indéfinie"],
+      "reponse": "1",
+      "explication": "Par définition de la loi de probabilité."
+    },
+    {
+      "question": "Quelle est la probabilité d’obtenir un nombre pair lors d’un lancer de dé à 6 faces ?",
+      "options": ["0.5", "1/3", "1/6", "0.25"],
+      "reponse": "0.5",
+      "explication": "Nombres pairs : 2,4,6 soit 3 issues sur 6."
+    },
+    {
+      "question": "Quelle est la probabilité d’obtenir un multiple de 3 avec un dé à 6 faces ?",
+      "options": ["1/3", "1/6", "1/2", "2/3"],
+      "reponse": "1/3",
+      "explication": "Multiples de 3 : 3,6 soit 2 issues sur 6."
+    },
+    {
+      "question": "Dans un tirage d’une carte dans un jeu de 52 cartes, la probabilité de tirer un As est :",
+      "options": ["1/13", "1/4", "1/52", "4/52"],
+      "reponse": "1/13",
+      "explication": "Il y a 4 As dans 52 cartes."
+    },
+    {
+      "question": "La probabilité d’un événement certain est toujours :",
+      "options": ["1", "0", "0.5", "Variable"],
+      "reponse": "1",
+      "explication": "Un événement certain se produit toujours."
+    },
+    {
+      "question": "La probabilité d’un événement impossible est toujours :",
+      "options": ["0", "1", "0.5", "Variable"],
+      "reponse": "0",
+      "explication": "Un événement impossible ne peut jamais se produire."
+    },
+    {
+      "question": "Deux événements sont incompatibles si :",
+      "options": ["Ils ne peuvent pas se produire simultanément", "Ils sont indépendants", "Ils ont la même probabilité", "Ils sont complémentaires"],
+      "reponse": "Ils ne peuvent pas se produire simultanément",
+      "explication": "Par définition, incompatibles signifie intersection vide."
+    },
+    {
+      "question": "La formule de la probabilité d’union de deux événements A et B est :",
+      "options": ["P(A ∪ B) = P(A) + P(B) − P(A ∩ B)", "P(A ∪ B) = P(A) × P(B)", "P(A ∪ B) = P(A) − P(B)", "P(A ∪ B) = P(A) + P(B)"],
+      "reponse": "P(A ∪ B) = P(A) + P(B) − P(A ∩ B)",
+      "explication": "Formule générale d’addition des probabilités."
+    },
+    {
+      "question": "Un dé équilibré est lancé une fois. Quelle est la probabilité d’obtenir un nombre pair ?",
+      "options": ["1/2", "1/3", "1/6", "1/4"],
+      "reponse": "1/2",
+      "explication": "Nombres pairs possibles : 2, 4, 6. Donc 3 résultats sur 6, soit 1/2."
+    },
+    {
+      "question": "Une pièce équilibrée est lancée deux fois. Quelle est la probabilité d’obtenir deux faces pile ?",
+      "options": ["1/4", "1/2", "1/3", "1/8"],
+      "reponse": "1/4",
+      "explication": "Probabilité pile au 1er lancer = 1/2, au 2e aussi = 1/2. Donc 1/2 × 1/2 = 1/4."
+    },
+    {
+      "question": "Dans un sac, il y a 3 boules rouges et 2 boules vertes. On tire une boule au hasard. Quelle est la probabilité d’obtenir une boule rouge ?",
+      "options": ["3/5", "2/5", "1/5", "1/3"],
+      "reponse": "3/5",
+      "explication": "3 boules rouges sur 5 au total."
+    },
+    {
+      "question": "On lance un dé à 6 faces. Quelle est la probabilité d’obtenir un nombre supérieur à 4 ?",
+      "options": ["1/3", "1/2", "1/6", "2/3"],
+      "reponse": "1/3",
+      "explication": "Nombres supérieurs à 4 : 5 et 6, soit 2 résultats sur 6."
+    },
+    {
+      "question": "Deux événements incompatibles A et B ont respectivement les probabilités 0.3 et 0.5. Quelle est la probabilité que A ou B se produise ?",
+      "options": ["0.8", "0.15", "0.3", "0.5"],
+      "reponse": "0.8",
+      "explication": "P(A ∪ B) = P(A) + P(B) = 0.3 + 0.5 = 0.8."
+    },
+    {
+      "question": "Si P(A) = 0.4, quelle est la probabilité de l’événement contraire de A ?",
+      "options": ["0.6", "0.4", "1", "0"],
+      "reponse": "0.6",
+      "explication": "P(non A) = 1 − P(A) = 1 − 0.4 = 0.6."
+    },
+    {
+      "question": "On tire une carte dans un jeu de 52 cartes. Quelle est la probabilité d’obtenir un roi ?",
+      "options": ["4/52", "1/52", "13/52", "1/4"],
+      "reponse": "4/52",
+      "explication": "Il y a 4 rois dans un jeu complet."
+    },
+    {
+      "question": "Si P(A) = 0.7 et P(B) = 0.2, et que A et B sont incompatibles, quelle est la probabilité que ni A ni B ne se produise ?",
+      "options": ["0.1", "0.9", "0.5", "1.0"],
+      "reponse": "0.1",
+      "explication": "P(neither A nor B) = 1 − (P(A) + P(B)) = 1 − 0.9 = 0.1."
+    },
+    {
+      "question": "Dans un tirage avec remise, la probabilité d’obtenir deux fois de suite un 5 avec un dé est :",
+      "options": ["1/36", "1/12", "1/6", "1/18"],
+      "reponse": "1/36",
+      "explication": "Probabilité = (1/6) × (1/6) = 1/36."
+    },
+    {
+      "question": "Une urne contient 5 boules blanches et 7 boules noires. On tire une boule au hasard. Quelle est la probabilité d’obtenir une boule noire ?",
+      "options": ["7/12", "5/12", "1/2", "7/5"],
+      "reponse": "7/12",
+      "explication": "Total de 12 boules, 7 sont noires."
+    },
+    {
+      "question": "La probabilité qu’un événement certain se produise est :",
+      "options": ["1", "0", "0.5", "Variable"],
+      "reponse": "1",
+      "explication": "Un événement certain a une probabilité égale à 1."
+    },
+    {
+      "question": "Si un événement A a une probabilité P(A) = 0.25, quelle est la probabilité que A ne se produise pas ?",
+      "options": ["0.75", "0.25", "0.5", "1"],
+      "reponse": "0.75",
+      "explication": "P(non A) = 1 − 0.25 = 0.75."
+    },
+    {
+      "question": "Lors d’un tirage, la probabilité d’obtenir une carte rouge est :",
+      "options": ["1/2", "1/4", "1/3", "1/6"],
+      "reponse": "1/2",
+      "explication": "Il y a 26 cartes rouges sur 52."
+    },
+    {
+      "question": "Si P(A) = 0.6 et P(B) = 0.5, et que A et B sont indépendants, quelle est la probabilité que A et B se produisent ensemble ?",
+      "options": ["0.3", "1.1", "0.5", "0.6"],
+      "reponse": "0.3",
+      "explication": "P(A ∩ B) = P(A) × P(B) = 0.6 × 0.5 = 0.3."
+    },
+    {
+      "question": "La probabilité d’obtenir un nombre impair en lançant un dé est :",
+      "options": ["1/2", "1/3", "1/6", "2/3"],
+      "reponse": "1/2",
+      "explication": "Nombres impairs : 1, 3, 5 (3 sur 6)."
+    },
+    {
+      "question": "Si A et B sont incompatibles, P(A ∩ B) = :",
+      "options": ["0", "P(A) × P(B)", "P(A) + P(B)", "1"],
+      "reponse": "0",
+      "explication": "Incompatibles signifient qu'ils ne peuvent pas arriver en même temps."
+    },
+    {
+      "question": "La probabilité d’obtenir pile au moins une fois lors de deux lancers d’une pièce est :",
+      "options": ["3/4", "1/4", "1/2", "1"],
+      "reponse": "3/4",
+      "explication": "P(au moins un pile) = 1 − P(pas de pile) = 1 − (1/2 × 1/2) = 1 − 1/4 = 3/4."
+    },
+    {
+      "question": "Une urne contient 4 boules rouges et 6 boules bleues. On tire deux boules sans remise. Quelle est la probabilité que les deux soient rouges ?",
+      "options": ["2/15", "4/10", "1/15", "4/9"],
+      "reponse": "2/15",
+      "explication": "P = (4/10) × (3/9) = 12/90 = 2/15."
+    },
+    {
+      "question": "Si P(A) = 0.2 et P(B) = 0.3, quelle est la probabilité que A ou B se produise si A et B sont incompatibles ?",
+      "options": ["0.5", "0.6", "0.1", "0.3"],
+      "reponse": "0.5",
+      "explication": "P(A ∪ B) = P(A) + P(B) = 0.2 + 0.3 = 0.5."
+    },
+    {
+      "question": "Lors d’un lancer de dé, la probabilité d’obtenir un multiple de 2 ou 3 est :",
+      "options": ["2/3", "1/2", "1/3", "1/6"],
+      "reponse": "2/3",
+      "explication": "Multiples de 2 : 2,4,6; multiples de 3 : 3,6. Leur union compte les numéros 2,3,4,6 → 4/6 = 2/3."
+    }
+  ]
+}

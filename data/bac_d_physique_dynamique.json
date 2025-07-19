@@ -1,0 +1,604 @@
+{
+  "qcm": [
+    {
+      "question": "Que stipule la 1ʳᵉ loi de Newton (principe d'inertie) ?",
+      "options": ["Un corps persévère dans son état de repos ou de mouvement rectiligne uniforme si aucune force ne s’exerce sur lui", "Toute force produit une accélération", "Les forces s’annulent toujours", "L’énergie est conservée"],
+      "reponse": "Un corps persévère dans son état de repos ou de mouvement rectiligne uniforme si aucune force ne s’exerce sur lui",
+      "explication": "C’est le principe d’inertie (1ʳᵉ loi)."
+    },
+    {
+      "question": "La 2ᵉ loi de Newton s'écrit :",
+      "options": ["F = m × a", "F = m × v", "P = m × g", "a = F / v"],
+      "reponse": "F = m × a",
+      "explication": "Force résultante = masse × accélération (2ᵉ loi)."
+    },
+    {
+      "question": "La 3ᵉ loi de Newton (principe des actions réciproques) stipule que :",
+      "options": ["Toute action engendre une réaction opposée et de même intensité", "Un corps accélère toujours", "Les masses sont équivalentes", "L’énergie est conservée"],
+      "reponse": "Toute action engendre une réaction opposée et de même intensité",
+      "explication": "Action ↔ Réaction, même direction, sens opposé, même intensité."
+    },
+    {
+      "question": "Si la somme des forces est nulle, le corps :",
+      "options": ["Est au repos ou en mouvement rectiligne uniforme", "Accélère", "Décélère", "Tourne"],
+      "reponse": "Est au repos ou en mouvement rectiligne uniforme",
+      "explication": "1ʳᵉ loi : pas de force résultante = pas de changement de vitesse."
+    },
+    {
+      "question": "Un objet en chute libre est soumis uniquement à :",
+      "options": ["Son poids", "Une force normale", "Une tension", "Une poussée"],
+      "reponse": "Son poids",
+      "explication": "Seule la force de gravité agit (P = m × g)."
+    },
+    {
+      "question": "Que représente m dans F = m × a ?",
+      "options": ["La masse de l’objet", "La vitesse", "Le poids", "Le volume"],
+      "reponse": "La masse de l’objet",
+      "explication": "m = masse en kg, a = accélération en m/s²."
+    },
+    {
+      "question": "Si un objet subit une force nette non nulle, il :",
+      "options": ["Subit une accélération", "Est immobile", "Ralentit forcément", "A une masse nulle"],
+      "reponse": "Subit une accélération",
+      "explication": "2ᵉ loi : une force nette produit une accélération."
+    },
+    {
+      "question": "Dans la 3ᵉ loi, les forces d’action et de réaction :",
+      "options": ["S’appliquent sur des corps différents", "S’annulent", "Ont même sens", "Ont même point d’application"],
+      "reponse": "S’appliquent sur des corps différents",
+      "explication": "Elles ne s’exercent pas sur le même objet."
+    },
+    {
+      "question": "Un objet repose sur une table. La force que la table exerce est appelée :",
+      "options": ["Réaction normale", "Poids", "Tension", "Force d’inertie"],
+      "reponse": "Réaction normale",
+      "explication": "Force perpendiculaire au support (3ᵉ loi)."
+    },
+    {
+      "question": "Dans un ascenseur en montée avec a = 2 m/s², le poids apparent est :",
+      "options": ["Supérieur au poids réel", "Inférieur", "Égal", "Nul"],
+      "reponse": "Supérieur au poids réel",
+      "explication": "P’ = m × (g + a) si l’ascenseur monte."
+    },
+    {
+      "question": "Un objet accélère vers la droite. Quelle est la direction de la force nette ?",
+      "options": ["Vers la droite", "Vers la gauche", "Nulle", "Perpendiculaire"],
+      "reponse": "Vers la droite",
+      "explication": "F et a sont toujours de même direction (2ᵉ loi)."
+    },
+    {
+      "question": "Un objet de 5 kg subit une accélération de 3 m/s². Quelle est la force ?",
+      "options": ["15 N", "8 N", "3 N", "0.6 N"],
+      "reponse": "15 N",
+      "explication": "F = m × a = 5 × 3 = 15 N."
+    },
+    {
+      "question": "Un objet est lancé sans frottement. Que se passe-t-il ?",
+      "options": ["Il garde sa vitesse constante", "Il ralentit", "Il accélère", "Il s’arrête"],
+      "reponse": "Il garde sa vitesse constante",
+      "explication": "1ʳᵉ loi : pas de force → mouvement rectiligne uniforme."
+    },
+    {
+      "question": "Les frottements sont des forces :",
+      "options": ["Opposées au mouvement", "Qui accélèrent", "Perpendiculaires", "Attractives"],
+      "reponse": "Opposées au mouvement",
+      "explication": "Elles s’opposent au déplacement."
+    },
+    {
+      "question": "Lors d’une collision, les forces que se font les objets sont :",
+      "options": ["Égales et opposées", "Négligeables", "Différentes", "Parallèles"],
+      "reponse": "Égales et opposées",
+      "explication": "Action ↔ réaction (3ᵉ loi)."
+    },
+    {
+      "question": "Sur une pente sans frottement, un objet accélère car :",
+      "options": ["Le poids a une composante parallèle", "Il est poussé", "La masse augmente", "La pression agit"],
+      "reponse": "Le poids a une composante parallèle",
+      "explication": "Pente → P × sin(θ) produit une force non nulle."
+    },
+    {
+      "question": "Le poids est une force :",
+      "options": ["Dirigée vers le centre de la Terre", "Perpendiculaire au support", "Horizontale", "Vers le haut"],
+      "reponse": "Dirigée vers le centre de la Terre",
+      "explication": "P = m × g toujours vertical et vers le bas."
+    },
+    {
+      "question": "Une force de 10 N appliquée à une masse de 2 kg produit une accélération de :",
+      "options": ["5 m/s²", "20 m/s²", "0.2 m/s²", "8 m/s²"],
+      "reponse": "5 m/s²",
+      "explication": "a = F / m = 10 / 2 = 5 m/s²."
+    },
+    {
+      "question": "Lorsqu'un objet tombe en chute libre, sa seule force est :",
+      "options": ["Le poids", "La poussée", "La tension", "La force normale"],
+      "reponse": "Le poids",
+      "explication": "Il n’est soumis qu’à la gravité (g)."
+    },
+    {
+      "question": "Une réaction normale est due à :",
+      "options": ["La 3ᵉ loi de Newton", "La gravité", "La masse", "La pression"],
+      "reponse": "La 3ᵉ loi de Newton",
+      "explication": "Elle est la réaction au poids exercé sur le support."
+    },
+    {
+      "question": "La masse est une grandeur :",
+      "options": ["Invariante", "Variable selon l’altitude", "Égale au poids", "Mesurée en newton"],
+      "reponse": "Invariante",
+      "explication": "La masse ne dépend pas du lieu, contrairement au poids."
+    },
+    {
+      "question": "Un skieur glisse à vitesse constante. Quelle est la résultante des forces ?",
+      "options": ["Nulle", "Vers le haut", "Vers le bas", "Vers l’arrière"],
+      "reponse": "Nulle",
+      "explication": "Pas de variation de vitesse → Fᵣ = 0 (1ʳᵉ loi)."
+    },
+    {
+      "question": "Un satellite en orbite est soumis à :",
+      "options": ["Une seule force : la gravité", "Aucune force", "Deux forces égales", "La force centripète uniquement"],
+      "reponse": "Une seule force : la gravité",
+      "explication": "Il est en chute libre constante autour de la Terre."
+    },
+    {
+      "question": "Un objet en chute libre voit sa vitesse :",
+      "options": ["Augmenter", "Rester constante", "Diminuer", "S’annuler"],
+      "reponse": "Augmenter",
+      "explication": "Il est constamment accéléré par g."
+    },
+    {
+      "question": "Si la vitesse augmente, cela signifie que :",
+      "options": ["La force résultante est non nulle", "Le poids est nul", "Il y a équilibre", "L’énergie est perdue"],
+      "reponse": "La force résultante est non nulle",
+      "explication": "Variation de vitesse → a ≠ 0 → F ≠ 0."
+    },
+    {
+      "question": "Sur la Lune, le poids d’un objet :",
+      "options": ["Est plus faible qu’à la surface terrestre", "Est plus élevé", "Ne change pas", "Dépend de sa masse"],
+      "reponse": "Est plus faible qu’à la surface terrestre",
+      "explication": "g sur la Lune ≈ 1.6 m/s² < g Terre (9.8)."
+    },
+    {
+      "question": "Un objet en équilibre est :",
+      "options": ["Soumis à des forces qui se compensent", "Toujours au repos", "Sans masse", "Accéléré"],
+      "reponse": "Soumis à des forces qui se compensent",
+      "explication": "Fᵣ = 0 → équilibre mécanique."
+    },
+    {
+      "question": "Si a = 0, alors :",
+      "options": ["La force nette est nulle", "La masse est nulle", "Le poids est nul", "L’objet chute"],
+      "reponse": "La force nette est nulle",
+      "explication": "F = m × a = 0 → équilibre."
+    },
+    {
+      "question": "Un homme pousse une voiture. La voiture exerce :",
+      "options": ["Une force égale et opposée", "Aucune force", "Une force plus grande", "Une force vers le bas"],
+      "reponse": "Une force égale et opposée",
+      "explication": "3ᵉ loi de Newton : action ↔ réaction."
+    },
+    {
+      "question": "Un objet soumis à deux forces égales opposées :",
+      "options": ["Est en équilibre", "Accélère", "Tourne", "Oscille"],
+      "reponse": "Est en équilibre",
+      "explication": "Résultante = 0 → pas d’accélération."
+    },
+    {
+      "question": "Un objet de masse 2 kg est soumis à une force de 8 N. Quelle est son accélération ?",
+      "options": ["4 m/s²", "2 m/s²", "8 m/s²", "6 m/s²"],
+      "reponse": "4 m/s²",
+      "explication": "a = F / m = 8 / 2 = 4 m/s²"
+    },
+    {
+      "question": "Un objet glisse sans frottement sur un plan horizontal à vitesse constante. La résultante des forces est :",
+      "options": ["Nulle", "Vers l’avant", "Vers l’arrière", "Verticale"],
+      "reponse": "Nulle",
+      "explication": "Pas de variation de vitesse → Fᵣ = 0 (1ʳᵉ loi)"
+    },
+    {
+      "question": "Un objet de 3 kg chute en chute libre. Quelle est la valeur de son poids ? (g = 10 m/s²)",
+      "options": ["30 N", "3 N", "10 N", "13 N"],
+      "reponse": "30 N",
+      "explication": "P = m × g = 3 × 10 = 30 N"
+    },
+    {
+      "question": "Une force de 15 N accélère un objet à 5 m/s². Quelle est sa masse ?",
+      "options": ["3 kg", "5 kg", "15 kg", "75 kg"],
+      "reponse": "3 kg",
+      "explication": "m = F / a = 15 / 5 = 3 kg"
+    },
+    {
+      "question": "Un objet est tiré avec une force de 12 N. Il rencontre un frottement de 4 N. Quelle est la force résultante ?",
+      "options": ["8 N", "4 N", "16 N", "0 N"],
+      "reponse": "8 N",
+      "explication": "Fᵣ = F - frottement = 12 - 4 = 8 N"
+    },
+    {
+      "question": "Un homme de 70 kg est dans un ascenseur qui accélère vers le haut à 2 m/s². Poids apparent ? (g = 10 m/s²)",
+      "options": ["840 N", "700 N", "680 N", "600 N"],
+      "reponse": "840 N",
+      "explication": "P’ = m(g + a) = 70(10 + 2) = 840 N"
+    },
+    {
+      "question": "Un corps de masse m = 10 kg subit une accélération a = 0. Quelle est la force nette ?",
+      "options": ["0 N", "10 N", "100 N", "1 N"],
+      "reponse": "0 N",
+      "explication": "F = m × a = 10 × 0 = 0 N"
+    },
+    {
+      "question": "Deux patineurs se repoussent. L’un a 60 kg, l’autre 40 kg. Lequel subira la plus grande accélération ?",
+      "options": ["Celui de 40 kg", "Celui de 60 kg", "Les deux pareil", "Aucun des deux"],
+      "reponse": "Celui de 40 kg",
+      "explication": "F = même, donc a = F/m plus grande si masse plus faible"
+    },
+    {
+      "question": "Un objet suspendu reste immobile. Que vaut la tension du fil ?",
+      "options": ["Égale au poids", "Supérieure au poids", "Nulle", "Deux fois le poids"],
+      "reponse": "Égale au poids",
+      "explication": "Équilibre vertical : Tension = Poids"
+    },
+    {
+      "question": "Un objet est poussé sur une surface avec F = 20 N, mais ne bouge pas. Pourquoi ?",
+      "options": ["Force de frottement statique égale à 20 N", "Il est trop lourd", "Le sol est incliné", "Il n’a pas de masse"],
+      "reponse": "Force de frottement statique égale à 20 N",
+      "explication": "Pas de mouvement → Fᵣ = 0 → frottement = F"
+    },
+    {
+      "question": "Un objet de 2 kg subit Fᵣ = 0. Que peut-on dire de son mouvement ?",
+      "options": ["Repose ou MRU", "Il accélère", "Il tombe", "Il saute"],
+      "reponse": "Repose ou MRU",
+      "explication": "Fᵣ = 0 → pas de variation de vitesse"
+    },
+    {
+      "question": "Un avion vole en ligne droite à vitesse constante. Résultat des forces ?",
+      "options": ["Nulle", "Vers le haut", "Vers l’arrière", "Vers l’avant"],
+      "reponse": "Nulle",
+      "explication": "Vitesse constante → équilibre dynamique"
+    },
+    {
+      "question": "Un skieur de 70 kg descend une pente avec g = 10 m/s². Quelle est la composante de son poids sur la pente (30°) ?",
+      "options": ["350 N", "700 N", "603 N", "35 N"],
+      "reponse": "350 N",
+      "explication": "P_parallel = m × g × sin(30°) = 70 × 10 × 0.5 = 350 N"
+    },
+    {
+      "question": "Un objet de 4 kg est en chute avec une accélération de 9 m/s². Force nette ?",
+      "options": ["36 N", "40 N", "9 N", "4 N"],
+      "reponse": "36 N",
+      "explication": "F = m × a = 4 × 9 = 36 N"
+    },
+    {
+      "question": "Un élève pousse un carton avec F = 25 N, mais il y a 10 N de frottement. Masse du carton : 5 kg. Quelle est l’accélération ?",
+      "options": ["3 m/s²", "2 m/s²", "5 m/s²", "7 m/s²"],
+      "reponse": "3 m/s²",
+      "explication": "Fᵣ = 25 - 10 = 15 N → a = 15 / 5 = 3 m/s²"
+    },
+    {
+      "question": "Si l’on double la masse et la force appliquée, l’accélération devient :",
+      "options": ["La même", "Double", "Triple", "Nulle"],
+      "reponse": "La même",
+      "explication": "F = m × a → (2F)/(2m) = a"
+    },
+    {
+      "question": "Un parachutiste atteint sa vitesse limite. Cela signifie que :",
+      "options": ["Fᵣ = 0", "Il accélère", "Il s’arrête", "Il tombe plus vite"],
+      "reponse": "Fᵣ = 0",
+      "explication": "Poids = résistance de l’air → plus d’accélération"
+    },
+    {
+      "question": "Une balle est lancée vers le haut. Quelle est la direction de la force pendant la montée ?",
+      "options": ["Vers le bas", "Vers le haut", "Horizontale", "Nulle"],
+      "reponse": "Vers le bas",
+      "explication": "Seule la gravité agit (P vers le bas)"
+    },
+    {
+      "question": "Deux objets A et B exercent une force mutuelle de 10 N. Lequel réagit plus ? (mA = 2 kg, mB = 5 kg)",
+      "options": ["A", "B", "Également", "Aucun"],
+      "reponse": "A",
+      "explication": "a = F / m, donc aA = 10/2 = 5 m/s² > aB"
+    },
+    {
+      "question": "Un chariot de 50 kg reçoit une force horizontale constante de 100 N. Ignorant les frottements, quelle est son accélération ?",
+      "options": ["2 m/s²", "0.5 m/s²", "5 m/s²", "50 m/s²"],
+      "reponse": "2 m/s²",
+      "explication": "a = F / m = 100 / 50 = 2 m/s²"
+    },
+    {
+      "question": "Quelle grandeur mesure l’intensité d’une interaction entre deux objets ?",
+      "options": ["La force", "La vitesse", "La masse", "La densité"],
+      "reponse": "La force",
+      "explication": "Une force est la manifestation d’une interaction entre deux corps."
+    },
+    {
+      "question": "Le poids est une force :",
+      "options": ["Verticale dirigée vers le bas", "Horizontale", "Centripète", "Nulle"],
+      "reponse": "Verticale dirigée vers le bas",
+      "explication": "Le poids est une force gravitationnelle exercée par la Terre."
+    },
+    {
+      "question": "L’unité de la force dans le S.I est :",
+      "options": ["Le newton", "Le joule", "Le kg", "Le watt"],
+      "reponse": "Le newton",
+      "explication": "1 N = 1 kg·m/s²"
+    },
+    {
+      "question": "La relation du poids est :",
+      "options": ["P = m × g", "P = m / g", "P = g / m", "P = m × a"],
+      "reponse": "P = m × g",
+      "explication": "P = masse × intensité de la pesanteur (g ≈ 9,8 m/s²)."
+    },
+    {
+      "question": "La tension d’un fil est une force :",
+      "options": ["Dirigée le long du fil", "Verticale", "Horizontale", "Nulle"],
+      "reponse": "Dirigée le long du fil",
+      "explication": "Elle agit suivant l’axe du fil tendu."
+    },
+    {
+      "question": "Une interaction de contact implique :",
+      "options": ["Un contact direct entre deux objets", "Une distance", "Un champ", "Un courant électrique"],
+      "reponse": "Un contact direct entre deux objets",
+      "explication": "Exemples : réaction normale, frottement…"
+    },
+    {
+      "question": "Une interaction à distance s’exerce :",
+      "options": ["Sans contact", "Avec collision", "Via frottement", "Sur une surface"],
+      "reponse": "Sans contact",
+      "explication": "Comme la gravitation ou le magnétisme."
+    },
+    {
+      "question": "Lors d'une chute libre, la seule force appliquée est :",
+      "options": ["Le poids", "La poussée d’Archimède", "La tension", "La réaction du sol"],
+      "reponse": "Le poids",
+      "explication": "L’objet est en interaction uniquement avec la Terre."
+    },
+    {
+      "question": "La réaction normale est perpendiculaire :",
+      "options": ["Au support", "À la masse", "Au poids", "Au sol horizontal"],
+      "reponse": "Au support",
+      "explication": "Elle compense la composante normale du poids."
+    },
+    {
+      "question": "Dans un système de poulies idéales, la tension dans le fil est :",
+      "options": ["La même partout", "Nulle", "Variable", "Proportionnelle à la vitesse"],
+      "reponse": "La même partout",
+      "explication": "Sans frottement, tension constante dans tout le fil."
+    },
+    {
+      "question": "Le vecteur force possède :",
+      "options": ["Une direction, un sens, une intensité", "Seulement une intensité", "Une masse", "Un volume"],
+      "reponse": "Une direction, un sens, une intensité",
+      "explication": "C’est une grandeur vectorielle."
+    },
+    {
+      "question": "Un objet en chute avec frottement atteint :",
+      "options": ["Une vitesse limite", "Une vitesse infinie", "Un repos", "Un rebond"],
+      "reponse": "Une vitesse limite",
+      "explication": "Force de frottement = poids → accélération nulle."
+    },
+    {
+      "question": "Plus la surface est rugueuse, plus le frottement est :",
+      "options": ["Important", "Nul", "Réduit", "Vertical"],
+      "reponse": "Important",
+      "explication": "Frottement proportionnel au contact réel."
+    },
+    {
+      "question": "Dans un plan incliné, le poids se décompose en :",
+      "options": ["Composante parallèle et normale", "Verticale et horizontale", "Centripète", "Radiale"],
+      "reponse": "Composante parallèle et normale",
+      "explication": "Utilisation des sin(θ) et cos(θ)."
+    },
+    {
+      "question": "La composante parallèle du poids s'écrit :",
+      "options": ["P × sin(θ)", "P × cos(θ)", "P / sin(θ)", "m / cos(θ)"],
+      "reponse": "P × sin(θ)",
+      "explication": "P_∥ = m × g × sin(θ)"
+    },
+    {
+      "question": "Dans un mouvement rectiligne uniforme, la somme des forces est :",
+      "options": ["Nulle", "Égale au poids", "Centripète", "Radiale"],
+      "reponse": "Nulle",
+      "explication": "Fᵣ = 0 si pas d’accélération (1ʳᵉ loi Newton)."
+    },
+    {
+      "question": "Les frottements dynamiques sont dirigés :",
+      "options": ["Opposés au mouvement", "Dans le sens du mouvement", "Verticalement", "Vers le haut"],
+      "reponse": "Opposés au mouvement",
+      "explication": "Ils s’opposent à la glissade ou translation."
+    },
+    {
+      "question": "Une force équilibrée signifie :",
+      "options": ["Somme vectorielle des forces = 0", "Pas de masse", "Pas de gravité", "Accélération infinie"],
+      "reponse": "Somme vectorielle des forces = 0",
+      "explication": "Système en équilibre statique ou dynamique."
+    },
+    {
+      "question": "Dans un système isolé sans frottement :",
+      "options": ["L’énergie mécanique se conserve", "Les forces augmentent", "La masse varie", "Le poids est nul"],
+      "reponse": "L’énergie mécanique se conserve",
+      "explication": "Conservation d’Ec + Ep si aucune dissipation."
+    },
+    {
+      "question": "Dans une chute avec frottement, la force de frottement dépend de :",
+      "options": ["La vitesse", "La masse", "Le volume", "La hauteur"],
+      "reponse": "La vitesse",
+      "explication": "Plus l’objet va vite, plus les frottements augmentent."
+    },
+    {
+      "question": "La force de frottement fluide s’écrit souvent :",
+      "options": ["F = k × v", "F = m × g", "F = k × t", "F = m × a"],
+      "reponse": "F = k × v",
+      "explication": "k dépend du fluide et de la forme de l’objet."
+    },
+    {
+      "question": "Dans un repère, la somme des forces horizontales s’écrit :",
+      "options": ["ΣFₓ = m × aₓ", "ΣFₓ = 0", "ΣFₓ = m × g", "ΣFₓ = m × v"],
+      "reponse": "ΣFₓ = m × aₓ",
+      "explication": "Application de la 2ᵉ loi de Newton selon x."
+    },
+    {
+      "question": "Dans une situation d’équilibre vertical (fil tendu), Tension T =",
+      "options": ["T = m × g", "T = m / g", "T = 0", "T = g / m"],
+      "reponse": "T = m × g",
+      "explication": "T compense exactement le poids."
+    },
+    {
+      "question": "Une corde sans masse transmet la même force si :",
+      "options": ["Pas d’accélération ni de frottement", "Elle est élastique", "Il y a variation de longueur", "Elle est mouillée"],
+      "reponse": "Pas d’accélération ni de frottement",
+      "explication": "Tension constante si pas de dissipation."
+    },
+    {
+      "question": "Un objet lancé horizontalement est soumis :",
+      "options": ["Au poids uniquement", "À deux forces opposées", "À une poussée constante", "À aucune force"],
+      "reponse": "Au poids uniquement",
+      "explication": "Frottements négligés → seule force : poids."
+    },
+    {
+      "question": "Une force de tension s’applique sur :",
+      "options": ["Un fil ou une corde tendue", "Une surface", "Un liquide", "Une onde"],
+      "reponse": "Un fil ou une corde tendue",
+      "explication": "C’est une force de traction répartie."
+    },
+    {
+      "question": "Dans un système avec deux masses reliées, les tensions :",
+      "options": ["Sont égales si le fil est idéal", "Diffèrent toujours", "Sont nulles", "Ne dépendent pas des masses"],
+      "reponse": "Sont égales si le fil est idéal",
+      "explication": "Pas de masse ni frottement → T constante."
+    },
+    {
+      "question": "Lors d’une chute avec frottement, l’objet atteint une vitesse limite quand :",
+      "options": ["Fᵣ = 0", "a = 0", "v = 0", "Tension = Poids"],
+      "reponse": "a = 0",
+      "explication": "Frottements équilibrent le poids → plus d’accélération."
+    },
+    {
+      "question": "Un objet est lancé verticalement vers le haut. Pendant sa montée, la force qui s’exerce est :",
+      "options": ["Le poids", "Une poussée", "Une tension", "Nulle"],
+      "reponse": "Le poids",
+      "explication": "Toujours soumis à P = m × g vers le bas."
+    },
+    {
+      "question": "Une force de 60 N agit sur un objet. Si la masse = 12 kg, quelle est l’accélération ?",
+      "options": ["5 m/s²", "72 m/s²", "2 m/s²", "7.2 m/s²"],
+      "reponse": "5 m/s²",
+      "explication": "a = F / m = 60 / 12 = 5 m/s²."
+    },
+    {
+      "question": "Un objet de 5 kg tombe en chute libre. Quelle est l’intensité de son poids ? (g = 10 m/s²)",
+      "options": ["50 N", "5 N", "500 N", "25 N"],
+      "reponse": "50 N",
+      "explication": "P = m × g = 5 × 10 = 50 N"
+    },
+    {
+      "question": "Une caisse de 10 kg est posée sur un sol horizontal. Quelle est la réaction normale du sol ?",
+      "options": ["100 N", "10 N", "0 N", "50 N"],
+      "reponse": "100 N",
+      "explication": "R = P = m × g = 10 × 10 = 100 N (équilibre vertical)"
+    },
+    {
+      "question": "Une force de frottement de 20 N s’oppose à une force motrice de 30 N. Quelle est la force résultante ?",
+      "options": ["10 N", "50 N", "0 N", "30 N"],
+      "reponse": "10 N",
+      "explication": "Fᵣ = 30 − 20 = 10 N"
+    },
+    {
+      "question": "Un objet de 4 kg est suspendu à un fil. Quelle est la tension du fil à l’équilibre ?",
+      "options": ["40 N", "4 N", "400 N", "14 N"],
+      "reponse": "40 N",
+      "explication": "Tension = poids = 4 × 10 = 40 N"
+    },
+    {
+      "question": "Un corps de 2 kg glisse sans frottement. Il est tiré par une force de 6 N. Son accélération est :",
+      "options": ["3 m/s²", "6 m/s²", "12 m/s²", "1 m/s²"],
+      "reponse": "3 m/s²",
+      "explication": "a = F / m = 6 / 2 = 3 m/s²"
+    },
+    {
+      "question": "Deux masses m₁ = 3 kg et m₂ = 5 kg sont reliées par un fil sur une poulie idéale. Quelle est l'accélération ? (g = 10 m/s²)",
+      "options": ["2.5 m/s²", "1 m/s²", "4 m/s²", "5 m/s²"],
+      "reponse": "2.5 m/s²",
+      "explication": "a = (m₂ − m₁)g / (m₁ + m₂) = (5−3)×10 / (3+5) = 2.5 m/s²"
+    },
+    {
+      "question": "Dans l’exercice précédent, quelle est la tension du fil ?",
+      "options": ["36.25 N", "40 N", "50 N", "60 N"],
+      "reponse": "36.25 N",
+      "explication": "T = m₁(g + a) = 3(10 + 2.5) = 36.25 N"
+    },
+    {
+      "question": "Un objet tombe avec frottement. À la vitesse limite, la force de frottement vaut :",
+      "options": ["Le poids", "La moitié du poids", "Zéro", "Le double du poids"],
+      "reponse": "Le poids",
+      "explication": "À la vitesse limite, F_frottement = P → a = 0"
+    },
+    {
+      "question": "Un objet de 10 kg glisse avec frottement sur une surface. Fᵣ = 20 N, f_frottement = 10 N. Quelle est l’accélération ?",
+      "options": ["1 m/s²", "2 m/s²", "3 m/s²", "5 m/s²"],
+      "reponse": "1 m/s²",
+      "explication": "F_net = 20 − 10 = 10 N → a = 10 / 10 = 1 m/s²"
+    },
+    {
+      "question": "Un fil tendu sans masse supporte une masse de 6 kg. Quelle est la tension si l’objet monte avec a = 2 m/s² ?",
+      "options": ["72 N", "60 N", "50 N", "80 N"],
+      "reponse": "72 N",
+      "explication": "T = m(g + a) = 6(10 + 2) = 72 N"
+    },
+    {
+      "question": "Un objet est lancé verticalement. Quelle est l’accélération en montée ?",
+      "options": ["−g", "g", "0", "dépend de la vitesse"],
+      "reponse": "−g",
+      "explication": "Seule force = poids vers le bas → a = −g"
+    },
+    {
+      "question": "Un objet est lancé vers le bas avec vitesse initiale. Accélération ?",
+      "options": ["g", "0", "−g", "2g"],
+      "reponse": "g",
+      "explication": "La force reste le poids → a = g"
+    },
+    {
+      "question": "Un mobile de 15 kg est en équilibre sur une table. Quelle est la force verticale totale ?",
+      "options": ["0 N", "150 N", "15 N", "300 N"],
+      "reponse": "0 N",
+      "explication": "Poids et réaction normale se compensent → Fᵣ = 0"
+    },
+    {
+      "question": "Une caisse de 12 kg est poussée horizontalement avec 30 N. Frottement = 6 N. Accélération ?",
+      "options": ["2 m/s²", "1.5 m/s²", "3 m/s²", "0.5 m/s²"],
+      "reponse": "2 m/s²",
+      "explication": "Fᵣ = 30 − 6 = 24 N → a = 24 / 12 = 2 m/s²"
+    },
+    {
+      "question": "Un objet reste immobile suspendu à deux fils identiques. Chaque fil supporte :",
+      "options": ["La moitié du poids", "Le poids total", "Le double", "Rien"],
+      "reponse": "La moitié du poids",
+      "explication": "Les deux fils partagent la charge également."
+    },
+    {
+      "question": "Un objet de masse m glisse sans frottement sur un plan incliné. L’accélération est :",
+      "options": ["g × sin(θ)", "g × cos(θ)", "g", "0"],
+      "reponse": "g × sin(θ)",
+      "explication": "a = P_∥ / m = g × sin(θ)"
+    },
+    {
+      "question": "Deux objets sont reliés par une corde sur une table horizontale sans frottement. Quelle force accélère le système ?",
+      "options": ["Force extérieure appliquée", "Le poids", "La tension", "La masse"],
+      "reponse": "Force extérieure appliquée",
+      "explication": "La force appliquée met tout le système en mouvement."
+    },
+    {
+      "question": "Un objet accélère vers le haut suspendu à une corde. Tension par rapport au poids :",
+      "options": ["Supérieure", "Égale", "Nulle", "Inférieure"],
+      "reponse": "Supérieure",
+      "explication": "T = m(g + a) → T > P"
+    },
+    {
+      "question": "Si un objet suspendu descend avec accélération, la tension est :",
+      "options": ["Inférieure au poids", "Égale", "Supérieure", "Nulle"],
+      "reponse": "Inférieure au poids",
+      "explication": "T = m(g − a) → T < P"
+    },
+    {
+      "question": "Un système est en équilibre : m₁ = 4 kg suspendu, m₂ = 4 kg sur une table sans frottement. Que vaut l’accélération ?",
+      "options": ["0 m/s²", "1 m/s²", "g", "8 m/s²"],
+      "reponse": "0 m/s²",
+      "explication": "Pas de déséquilibre → Fᵣ = 0 → a = 0"
+    }
+  ]
+}

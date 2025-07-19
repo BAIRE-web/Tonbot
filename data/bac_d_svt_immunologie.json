@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "La défense immunitaire innée est caractérisée par :",
+      "options": ["Une réaction rapide et non spécifique", "Une réaction lente et spécifique", "La production d’anticorps", "La mémoire immunitaire"],
+      "reponse": "Une réaction rapide et non spécifique",
+      "explication": "L’immunité innée agit dès l’entrée du pathogène sans distinction précise."
+    },
+    {
+      "question": "Les barrières physiques telles que la peau appartiennent à :",
+      "options": ["L’immunité innée", "L’immunité acquise", "La réponse spécifique", "La production d’anticorps"],
+      "reponse": "L’immunité innée",
+      "explication": "La peau empêche l’entrée des agents infectieux."
+    },
+    {
+      "question": "Les macrophages jouent un rôle dans :",
+      "options": ["La phagocytose des agents pathogènes", "La production d’anticorps", "La fabrication de vaccins", "La transmission du message nerveux"],
+      "reponse": "La phagocytose des agents pathogènes",
+      "explication": "Ils ingèrent et détruisent les microbes."
+    },
+    {
+      "question": "La réponse immunitaire acquise est caractérisée par :",
+      "options": ["La spécificité et la mémoire immunitaire", "La rapidité d’action", "L’absence d’anticorps", "L’action uniquement sur les bactéries"],
+      "reponse": "La spécificité et la mémoire immunitaire",
+      "explication": "Elle cible précisément l’agent pathogène et mémorise la rencontre."
+    },
+    {
+      "question": "Les lymphocytes B produisent :",
+      "options": ["Des anticorps", "Des macrophages", "Des antigènes", "Des cytokines uniquement"],
+      "reponse": "Des anticorps",
+      "explication": "Les lymphocytes B synthétisent des anticorps spécifiques au pathogène."
+    },
+    {
+      "question": "Les lymphocytes T cytotoxiques :",
+      "options": ["Détruisent les cellules infectées", "Produisent des anticorps", "Phagocytent les bactéries", "Fabriquent des vaccins"],
+      "reponse": "Détruisent les cellules infectées",
+      "explication": "Ils reconnaissent et éliminent les cellules anormales."
+    },
+    {
+      "question": "Un antigène est :",
+      "options": ["Une molécule étrangère reconnue par le système immunitaire", "Une cellule du corps", "Un type de globule rouge", "Une hormone"],
+      "reponse": "Une molécule étrangère reconnue par le système immunitaire",
+      "explication": "L’antigène déclenche la réponse immunitaire spécifique."
+    },
+    {
+      "question": "La phase de reconnaissance dans la réponse immunitaire spécifique correspond à :",
+      "options": ["La détection de l’antigène par un lymphocyte", "La destruction des agents pathogènes", "La fabrication des anticorps", "La phagocytose"],
+      "reponse": "La détection de l’antigène par un lymphocyte",
+      "explication": "Les lymphocytes reconnaissent spécifiquement l’antigène."
+    },
+    {
+      "question": "La mémoire immunitaire permet :",
+      "options": ["Une réponse plus rapide et efficace lors d’une nouvelle infection", "La production de cellules souches", "L’activation des macrophages", "La réparation des tissus"],
+      "reponse": "Une réponse plus rapide et efficace lors d’une nouvelle infection",
+      "explication": "Les lymphocytes mémoire se souviennent de l’antigène."
+    },
+    {
+      "question": "Le principe du vaccin est :",
+      "options": ["D’introduire un antigène inactivé ou atténué pour stimuler l’immunité", "D’injecter des anticorps directement", "De détruire les lymphocytes", "De bloquer la phagocytose"],
+      "reponse": "D’introduire un antigène inactivé ou atténué pour stimuler l’immunité",
+      "explication": "Le vaccin prépare le système immunitaire sans provoquer la maladie."
+    },
+    {
+      "question": "Les anticorps sont produits par :",
+      "options": ["Les plasmocytes issus des lymphocytes B", "Les lymphocytes T", "Les macrophages", "Les globules rouges"],
+      "reponse": "Les plasmocytes issus des lymphocytes B",
+      "explication": "Les plasmocytes sont des lymphocytes B différenciés qui sécrètent les anticorps."
+    },
+    {
+      "question": "Une réponse immunitaire primaire est :",
+      "options": ["La première réaction à un antigène inconnu", "Une réponse rapide due à la mémoire", "L’action des vaccins", "La phagocytose uniquement"],
+      "reponse": "La première réaction à un antigène inconnu",
+      "explication": "Elle est plus lente que la réponse secondaire."
+    },
+    {
+      "question": "La réponse immunitaire secondaire est plus rapide car :",
+      "options": ["Les lymphocytes mémoire reconnaissent l’antigène", "La peau est renforcée", "Les macrophages sont absents", "Les anticorps sont détruits"],
+      "reponse": "Les lymphocytes mémoire reconnaissent l’antigène",
+      "explication": "Ces cellules assurent une défense plus rapide et efficace."
+    },
+    {
+      "question": "Un anticorps peut neutraliser un antigène en :",
+      "options": ["Se liant spécifiquement à lui", "Le détruisant directement", "Phagocytant", "Bloquant les lymphocytes"],
+      "reponse": "Se liant spécifiquement à lui",
+      "explication": "Cette liaison empêche le pathogène d’agir."
+    },
+    {
+      "question": "Les cytokines sont :",
+      "options": ["Des molécules de communication entre cellules immunitaires", "Des anticorps", "Des antigènes", "Des cellules tueuses"],
+      "reponse": "Des molécules de communication entre cellules immunitaires",
+      "explication": "Elles coordonnent la réponse immunitaire."
+    },
+    {
+      "question": "La vaccination permet :",
+      "options": ["De prévenir une maladie infectieuse", "De guérir une maladie existante", "De détruire les virus", "D’empêcher la production d’anticorps"],
+      "reponse": "De prévenir une maladie infectieuse",
+      "explication": "Elle prépare le système immunitaire à reconnaître le pathogène."
+    },
+    {
+      "question": "L’immunité acquise peut être :",
+      "options": ["Active ou passive", "Innate ou adaptative", "Humorale uniquement", "Cellulaire uniquement"],
+      "reponse": "Active ou passive",
+      "explication": "Active par vaccination, passive par anticorps transmis."
+    },
+    {
+      "question": "L’immunité passive naturelle est :",
+      "options": ["La transmission d’anticorps maternels au bébé", "La vaccination", "La phagocytose", "La production d’anticorps par le bébé"],
+      "reponse": "La transmission d’anticorps maternels au bébé",
+      "explication": "Elle protège temporairement le nourrisson."
+    },
+    {
+      "question": "Les lymphocytes T auxiliaires :",
+      "options": ["Stimulent l’activation des lymphocytes B", "Produisent des anticorps", "Phagocytent les bactéries", "Détruisent les virus directement"],
+      "reponse": "Stimulent l’activation des lymphocytes B",
+      "explication": "Ils coordonnent la réponse immunitaire spécifique."
+    },
+    {
+      "question": "Une immunité croisée est :",
+      "options": ["Une protection contre des agents similaires", "Une réaction allergique", "Une infection active", "Une immunité innée"],
+      "reponse": "Une protection contre des agents similaires",
+      "explication": "Les anticorps reconnus peuvent cibler plusieurs agents proches."
+    },
+    {
+      "question": "Le sérum antivenimeux est un exemple d’immunité :",
+      "options": ["Passive artificielle", "Active naturelle", "Innate", "Cellulaire"],
+      "reponse": "Passive artificielle",
+      "explication": "Injection d’anticorps préformés pour neutraliser un poison."
+    },
+    {
+      "question": "La différence entre lymphocytes B et T réside dans :",
+      "options": ["Le mode d’action et la nature des cibles", "La taille des cellules", "La présence d’anticorps", "La capacité à phagocyter"],
+      "reponse": "Le mode d’action et la nature des cibles",
+      "explication": "Les B produisent anticorps, les T détruisent cellules infectées."
+    },
+    {
+      "question": "Le terme 'immunogène' désigne :",
+      "options": ["Une substance capable de déclencher une réponse immunitaire", "Une cellule immunitaire", "Un anticorps", "Un vaccin"],
+      "reponse": "Une substance capable de déclencher une réponse immunitaire",
+      "explication": "C’est souvent un antigène reconnu comme étranger."
+    },
+    {
+      "question": "Quel est le rôle principal des cellules dendritiques ?",
+      "options": ["Présenter l’antigène aux lymphocytes T", "Produire des anticorps", "Détruire les microbes", "Synthétiser des cytokines uniquement"],
+      "reponse": "Présenter l’antigène aux lymphocytes T",
+      "explication": "Elles initient la réponse spécifique."
+    },
+    {
+      "question": "La phase effectrice de la réponse immunitaire correspond à :",
+      "options": ["Destruction des agents pathogènes", "Reconnaissance de l’antigène", "Production de cellules souches", "Phase de latence"],
+      "reponse": "Destruction des agents pathogènes",
+      "explication": "Les effecteurs éliminent le pathogène."
+    },
+    {
+      "question": "Une allergie est :",
+      "options": ["Une réponse immunitaire excessive à un antigène non dangereux", "Une infection bactérienne", "Une absence de réponse immunitaire", "Une immunité innée"],
+      "reponse": "Une réponse immunitaire excessive à un antigène non dangereux",
+      "explication": "Elle provoque des symptômes inadaptés."
+    },
+    {
+      "question": "Le lymphocyte B mémoire :",
+      "options": ["Assure une réponse rapide en cas de nouvelle infection", "Produit les cytokines", "Détruit les cellules infectées", "Est une cellule phagocytaire"],
+      "reponse": "Assure une réponse rapide en cas de nouvelle infection",
+      "explication": "Il persiste longtemps pour protéger l’organisme."
+    },
+    {
+      "question": "Quel est le rôle principal de l’anticorps IgE ?",
+      "options": ["Médiateur des réactions allergiques", "Neutralisation des virus", "Activation de la phagocytose", "Réponse contre les bactéries uniquement"],
+      "reponse": "Médiateur des réactions allergiques",
+      "explication": "Il déclenche la libération d’histamine par les mastocytes."
+    },
+    {
+      "question": "La tolérance immunitaire correspond à :",
+      "options": ["Le non-recours du système immunitaire aux antigènes du soi", "La destruction des agents pathogènes", "La production d’anticorps", "L’activation des macrophages"],
+      "reponse": "Le non-recours du système immunitaire aux antigènes du soi",
+      "explication": "Elle évite les réactions auto-immunes."
+    },
+    {
+      "question": "Un individu vacciné contre la rougeole développe une immunité :",
+      "options": ["Active artificielle", "Passive naturelle", "Active naturelle", "Passive artificielle"],
+      "reponse": "Active artificielle",
+      "explication": "La vaccination stimule le système immunitaire sans infection réelle."
+    },
+    {
+      "question": "Quelle cellule reconnaît directement un antigène présenté par une cellule dendritique ?",
+      "options": ["Lymphocyte T", "Macrophage", "Lymphocyte B", "Plasmocyte"],
+      "reponse": "Lymphocyte T",
+      "explication": "Les cellules dendritiques présentent l’antigène aux lymphocytes T."
+    },
+    {
+      "question": "Quel est l’effet principal d’un anticorps neutralisant ?",
+      "options": ["Empêcher le pathogène d’entrer dans la cellule", "Détruire la cellule infectée", "Phagocyter les bactéries", "Activer les lymphocytes T"],
+      "reponse": "Empêcher le pathogène d’entrer dans la cellule",
+      "explication": "L’anticorps neutralise l’antigène en bloquant son action."
+    },
+    {
+      "question": "La phagocytose est principalement réalisée par :",
+      "options": ["Macrophages", "Lymphocytes B", "Plasmocytes", "Lymphocytes T"],
+      "reponse": "Macrophages",
+      "explication": "Ils ingèrent et digèrent les agents pathogènes."
+    },
+    {
+      "question": "Lors d’une réponse secondaire, le temps de latence est :",
+      "options": ["Plus court que lors de la réponse primaire", "Plus long que lors de la réponse primaire", "Identique", "Inexistant"],
+      "reponse": "Plus court que lors de la réponse primaire",
+      "explication": "Les lymphocytes mémoire accélèrent la réponse."
+    },
+    {
+      "question": "Les vaccins à virus atténué contiennent :",
+      "options": ["Des virus vivants mais affaiblis", "Des fragments d’ADN uniquement", "Des anticorps", "Des toxines uniquement"],
+      "reponse": "Des virus vivants mais affaiblis",
+      "explication": "Ils provoquent une immunité forte et durable."
+    },
+    {
+      "question": "Une réaction allergique est due à :",
+      "options": ["Une hypersensibilité du système immunitaire", "Une absence d’anticorps", "Une infection bactérienne", "Une carence en lymphocytes"],
+      "reponse": "Une hypersensibilité du système immunitaire",
+      "explication": "Le système réagit exagérément à un antigène inoffensif."
+    },
+    {
+      "question": "Le rôle principal des lymphocytes T auxiliaires est de :",
+      "options": ["Stimuler les lymphocytes B", "Produire des anticorps", "Phagocyter les microbes", "Neutraliser les toxines"],
+      "reponse": "Stimuler les lymphocytes B",
+      "explication": "Ils coordonnent la réponse immunitaire spécifique."
+    },
+    {
+      "question": "L’immunité passive peut être obtenue par :",
+      "options": ["Injection d’anticorps", "Vaccination", "Infection naturelle", "Production d’anticorps par plasmocytes"],
+      "reponse": "Injection d’anticorps",
+      "explication": "Elle confère une protection temporaire immédiate."
+    },
+    {
+      "question": "Quel type de lymphocyte est responsable de la destruction des cellules infectées ?",
+      "options": ["Lymphocyte T cytotoxique", "Lymphocyte B", "Plasmocyte", "Macrophage"],
+      "reponse": "Lymphocyte T cytotoxique",
+      "explication": "Il élimine les cellules présentant des antigènes étrangers."
+    },
+    {
+      "question": "Les plasmocytes dérivent de :",
+      "options": ["Lymphocytes B activés", "Lymphocytes T", "Macrophages", "Cellules dendritiques"],
+      "reponse": "Lymphocytes B activés",
+      "explication": "Ils sécrètent les anticorps spécifiques."
+    },
+    {
+      "question": "L’immunité innée ne comprend pas :",
+      "options": ["La mémoire immunitaire", "La phagocytose", "Les barrières physiques", "La réaction inflammatoire"],
+      "reponse": "La mémoire immunitaire",
+      "explication": "La mémoire est propre à l’immunité acquise."
+    },
+    {
+      "question": "Le principe du principe de Le Chatelier appliqué à l’immunité ne concerne pas :",
+      "options": ["Les réactions chimiques", "La réponse immunitaire", "La variation de concentration", "La neutralisation d’anticorps"],
+      "reponse": "La réponse immunitaire",
+      "explication": "Ce principe s’applique aux équilibres chimiques, pas directement à l’immunité."
+    },
+    {
+      "question": "La principale fonction des anticorps IgG est :",
+      "options": ["Neutralisation des agents pathogènes", "Déclencher une réaction allergique", "Activation des macrophages", "Phagocytose"],
+      "reponse": "Neutralisation des agents pathogènes",
+      "explication": "Ils jouent un rôle majeur dans la défense humorale."
+    },
+    {
+      "question": "Lorsqu’un anticorps se lie à un antigène, il forme :",
+      "options": ["Un complexe immun", "Une cellule tueuse", "Une cellule mémoire", "Une cellule dendritique"],
+      "reponse": "Un complexe immun",
+      "explication": "Ce complexe est ensuite éliminé par phagocytose."
+    },
+    {
+      "question": "La réaction d’hypersensibilité immédiate est médiée par :",
+      "options": ["IgE", "IgG", "Lymphocytes T", "Macrophages"],
+      "reponse": "IgE",
+      "explication": "Les IgE déclenchent la libération d’histamine par les mastocytes."
+    },
+    {
+      "question": "Quel est le rôle principal des cellules dendritiques ?",
+      "options": ["Présenter l’antigène aux lymphocytes T", "Produire des anticorps", "Détruire les pathogènes", "Phagocyter uniquement"],
+      "reponse": "Présenter l’antigène aux lymphocytes T",
+      "explication": "Elles initient la réponse immunitaire spécifique."
+    },
+    {
+      "question": "Une personne qui reçoit un sérum antitétanique bénéficie d’une immunité :",
+      "options": ["Passive artificielle", "Active naturelle", "Active artificielle", "Passive naturelle"],
+      "reponse": "Passive artificielle",
+      "explication": "Le sérum contient des anticorps prêts à agir."
+    },
+    {
+      "question": "Le vaccin protège car il :",
+      "options": ["Stimule la production de lymphocytes mémoire", "Détruit immédiatement les virus", "Neutralise les toxines", "Inhibe la phagocytose"],
+      "reponse": "Stimule la production de lymphocytes mémoire",
+      "explication": "La mémoire immunitaire protège à long terme."
+    },
+    {
+      "question": "Quel est le rôle des lymphocytes T régulateurs ?",
+      "options": ["Empêcher les réactions auto-immunes", "Produire des anticorps", "Phagocyter les bactéries", "Neutraliser les toxines"],
+      "reponse": "Empêcher les réactions auto-immunes",
+      "explication": "Ils maintiennent la tolérance au soi."
+    },
+    {
+      "question": "La durée de protection conférée par l’immunité passive est généralement :",
+      "options": ["Courte (quelques semaines à mois)", "Longue (plusieurs années)", "Permanente", "Inexistante"],
+      "reponse": "Courte (quelques semaines à mois)",
+      "explication": "Les anticorps injectés sont dégradés progressivement."
+    }
+  ]
+}
