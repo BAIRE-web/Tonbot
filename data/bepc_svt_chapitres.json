@@ -1,0 +1,44 @@
+{
+  "chapitres": [
+    {
+      "id": "appareil_respiratoire",
+      "titre": "Appareil respiratoire"
+    },
+    {
+      "id": "appareil_circulatoire",
+      "titre": "Appareil circulatoire"
+    },
+    {
+      "id": "appareil_digestif",
+      "titre": "Appareil digestif"
+    },
+    {
+      "id": "appareil_urinaire",
+      "titre": "Appareil urinaire"
+    },
+    {
+      "id": "appareil_reproducteur",
+      "titre": "Appareil reproducteur"
+    },
+    {
+      "id": "reproduction",
+      "titre": "Reproduction"
+    },
+    {
+      "id": "hygiene_sexuelle",
+      "titre": "Hygiène sexuelle"
+    },
+    {
+      "id": "ecosystemes",
+      "titre": "Écosystèmes"
+    },
+    {
+      "id": "reproduction_sexuee_asexuee",
+      "titre": "Reproduction sexuée et asexuée"
+    },
+    {
+      "id": "selection_naturelle",
+      "titre": "Sélection naturelle"
+    }
+  ]
+}

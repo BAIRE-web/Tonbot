@@ -1,0 +1,52 @@
+{
+  "chapitres": [
+    {
+      "id": "milieu_burkina",
+      "titre": "Milieu du Burkina"
+    },
+    {
+      "id": "population_burkina",
+      "titre": "La population du Burkina Faso"
+    },
+    {
+      "id": "activites_economiques_burkina",
+      "titre": "Les activités économiques au Burkina Faso"
+    },
+    {
+      "id": "amenagement",
+      "titre": "L'aménagement"
+    },
+    {
+      "id": "milieu_africain",
+      "titre": "Milieu africain"
+    },
+    {
+      "id": "population_africaine",
+      "titre": "La population africaine"
+    },
+    {
+      "id": "activites_africaines",
+      "titre": "Activités africaines"
+    },
+    {
+      "id": "developpement_afrique",
+      "titre": "Développement en Afrique"
+    },
+    {
+      "id": "geographie_monde",
+      "titre": "Géographie du monde"
+    },
+    {
+      "id": "grandes_puissances",
+      "titre": "Les grandes puissances"
+    },
+    {
+      "id": "echanges_internationaux",
+      "titre": "Échanges internationaux"
+    },
+    {
+      "id": "problemes_monde_contemporain",
+      "titre": "Problèmes du monde contemporain"
+    }
+  ]
+}

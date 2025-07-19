@@ -1,0 +1,72 @@
+{
+  "chapitres": [
+    {
+      "id": "electricite",
+      "titre": "Électricité"
+    },
+    {
+      "id": "circuits",
+      "titre": "Les circuits"
+    },
+    {
+      "id": "intensite",
+      "titre": "L’intensité"
+    },
+    {
+      "id": "tension_electrique",
+      "titre": "La tension électrique"
+    },
+    {
+      "id": "resistance_electrique",
+      "titre": "La résistance électrique"
+    },
+    {
+      "id": "dipoles",
+      "titre": "Les dipôles"
+    },
+    {
+      "id": "effet_electrique",
+      "titre": "Effet électrique"
+    },
+    {
+      "id": "forces",
+      "titre": "Les forces"
+    },
+    {
+      "id": "gravite",
+      "titre": "Gravité"
+    },
+    {
+      "id": "mouvements",
+      "titre": "Les mouvements"
+    },
+    {
+      "id": "lumiere",
+      "titre": "Lumière"
+    },
+    {
+      "id": "miroirs_plans",
+      "titre": "Miroirs plans"
+    },
+    {
+      "id": "lentilles_prisme",
+      "titre": "Lentilles et prisme"
+    },
+    {
+      "id": "matiere",
+      "titre": "Matière"
+    },
+    {
+      "id": "corps",
+      "titre": "Corps"
+    },
+    {
+      "id": "transformations_chimiques",
+      "titre": "Les transformations chimiques"
+    },
+    {
+      "id": "ph",
+      "titre": "pH"
+    }
+  ]
+}

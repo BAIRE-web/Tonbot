@@ -1,0 +1,36 @@
+{
+  "chapitres": [
+    {
+      "id": "cinematique",
+      "titre": "Cinématique"
+    },
+    {
+      "id": "dynamique",
+      "titre": "Dynamique"
+    },
+    {
+      "id": "energie_mecanique",
+      "titre": "Énergie mécanique"
+    },
+    {
+      "id": "condensateur",
+      "titre": "Condensateur"
+    },
+    {
+      "id": "bobine",
+      "titre": "Bobine"
+    },
+    {
+      "id": "oscillation",
+      "titre": "Oscillation"
+    },
+    {
+      "id": "noyau_atomique",
+      "titre": "Noyau atomique"
+    },
+    {
+      "id": "reaction_nucleaire",
+      "titre": "Réaction nucléaire"
+    }
+  ]
+}

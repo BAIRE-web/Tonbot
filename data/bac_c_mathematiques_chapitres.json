@@ -1,0 +1,76 @@
+{
+  "chapitres": [
+    {
+      "id": "fonctions_numeriques",
+      "titre": "Fonctions numériques"
+    },
+    {
+      "id": "suites",
+      "titre": "Suites"
+    },
+    {
+      "id": "integral",
+      "titre": "Intégral"
+    },
+    {
+      "id": "equation",
+      "titre": "Équation"
+    },
+    {
+      "id": "inequations",
+      "titre": "Inéquations"
+    },
+    {
+      "id": "trigonometrie",
+      "titre": "Trigonométrie"
+    },
+    {
+      "id": "nombres_complexes",
+      "titre": "Nombres complexes"
+    },
+    {
+      "id": "matrices_systemes",
+      "titre": "Matrices systèmes"
+    },
+    {
+      "id": "geometrie_analytique",
+      "titre": "Géométrie analytique"
+    },
+    {
+      "id": "statistiques",
+      "titre": "Statistiques"
+    },
+    {
+      "id": "probabilites",
+      "titre": "Probabilités"
+    },
+    {
+      "id": "algorithmes",
+      "titre": "Algorithmes"
+    },
+    {
+      "id": "logique_mathematique",
+      "titre": "Logique mathématique"
+    },
+    {
+      "id": "logarithme",
+      "titre": "Logarithme"
+    },
+    {
+      "id": "exponentielle",
+      "titre": "Exponentielle"
+    },
+    {
+      "id": "equations_differentielles",
+      "titre": "Équations différentielles"
+    },
+    {
+      "id": "courbes_parametrees",
+      "titre": "Courbes paramétrées"
+    },
+    {
+      "id": "espace_geometrique",
+      "titre": "Espace géométrique"
+    }
+  ]
+}

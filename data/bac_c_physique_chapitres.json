@@ -1,0 +1,60 @@
+{
+  "chapitres": [
+    {
+      "id": "cinematique",
+      "titre": "Cinématique"
+    },
+    {
+      "id": "dynamique",
+      "titre": "Dynamique"
+    },
+    {
+      "id": "energie_mecanique",
+      "titre": "Énergie mécanique"
+    },
+    {
+      "id": "courant_continu",
+      "titre": "Courant continu"
+    },
+    {
+      "id": "condensateurs",
+      "titre": "Condensateurs"
+    },
+    {
+      "id": "courant",
+      "titre": "Courant"
+    },
+    {
+      "id": "lentilles",
+      "titre": "Lentilles"
+    },
+    {
+      "id": "ondes_mecaniques",
+      "titre": "Ondes mécaniques"
+    },
+    {
+      "id": "ondes_electromagnetiques",
+      "titre": "Ondes électromagnétiques"
+    },
+    {
+      "id": "radioactivite",
+      "titre": "Radioactivité"
+    },
+    {
+      "id": "physique_nucleaire",
+      "titre": "Physique nucléaire"
+    },
+    {
+      "id": "bobine",
+      "titre": "Bobine"
+    },
+    {
+      "id": "oscillation",
+      "titre": "Oscillation"
+    },
+    {
+      "id": "noyau_atomique",
+      "titre": "Noyau atomique"
+    }
+  ]
+}

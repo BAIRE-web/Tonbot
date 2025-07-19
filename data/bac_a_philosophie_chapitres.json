@@ -1,0 +1,32 @@
+{
+  "chapitres": [
+    {
+      "id": "la_connaissance",
+      "titre": "La connaissance"
+    },
+    {
+      "id": "la_verite",
+      "titre": "La vérité"
+    },
+    {
+      "id": "la_liberte",
+      "titre": "La liberté"
+    },
+    {
+      "id": "la_justice",
+      "titre": "La justice"
+    },
+    {
+      "id": "la_societe",
+      "titre": "La société"
+    },
+    {
+      "id": "commentaire",
+      "titre": "Commentaire"
+    },
+    {
+      "id": "dissertation",
+      "titre": "Dissertation"
+    }
+  ]
+}

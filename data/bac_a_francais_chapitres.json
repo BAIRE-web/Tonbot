@@ -1,0 +1,52 @@
+{
+  "chapitres": [
+    {
+      "id": "le_roman",
+      "titre": "Le Roman"
+    },
+    {
+      "id": "le_theatre",
+      "titre": "Le Théâtre"
+    },
+    {
+      "id": "la_poesie",
+      "titre": "La Poésie"
+    },
+    {
+      "id": "essai_litteraire",
+      "titre": "Essai littéraire"
+    },
+    {
+      "id": "argumentation",
+      "titre": "Argumentation"
+    },
+    {
+      "id": "redaction",
+      "titre": "Rédaction"
+    },
+    {
+      "id": "grammaire",
+      "titre": "Grammaire"
+    },
+    {
+      "id": "figures_de_style",
+      "titre": "Figures de style"
+    },
+    {
+      "id": "orthographe",
+      "titre": "Orthographe"
+    },
+    {
+      "id": "dissertation",
+      "titre": "Dissertation"
+    },
+    {
+      "id": "commentaire_compose",
+      "titre": "Commentaire composé"
+    },
+    {
+      "id": "contraction",
+      "titre": "Contraction"
+    }
+  ]
+}

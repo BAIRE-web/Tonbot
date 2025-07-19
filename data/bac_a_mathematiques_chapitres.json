@@ -1,0 +1,44 @@
+{
+  "chapitres": [
+    {
+      "id": "fonctions",
+      "titre": "Fonctions"
+    },
+    {
+      "id": "etude_graphique",
+      "titre": "Étude graphique"
+    },
+    {
+      "id": "equations",
+      "titre": "Équations"
+    },
+    {
+      "id": "inequations",
+      "titre": "Inéquations"
+    },
+    {
+      "id": "geometrie",
+      "titre": "Géométrie"
+    },
+    {
+      "id": "trigonometrie",
+      "titre": "Trigonométrie"
+    },
+    {
+      "id": "statistiques",
+      "titre": "Statistiques"
+    },
+    {
+      "id": "probabilites",
+      "titre": "Probabilités"
+    },
+    {
+      "id": "calcul_litteral",
+      "titre": "Calcul littéral"
+    },
+    {
+      "id": "suites",
+      "titre": "Suites"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapitres": [
+    {
+      "id": "premiere_guerre_mondiale",
+      "titre": "Première Guerre mondiale"
+    },
+    {
+      "id": "entre_deux_guerres",
+      "titre": "Entre-deux-guerres"
+    },
+    {
+      "id": "seconde_guerre_mondiale",
+      "titre": "Seconde Guerre mondiale"
+    },
+    {
+      "id": "guerre_froide",
+      "titre": "Guerre froide"
+    },
+    {
+      "id": "colonisation",
+      "titre": "Colonisation"
+    },
+    {
+      "id": "mouvements_nationalistes",
+      "titre": "Mouvements nationalistes"
+    },
+    {
+      "id": "decolonisation",
+      "titre": "Décolonisation"
+    },
+    {
+      "id": "histoire_precoloniale",
+      "titre": "Histoire précoloniale"
+    },
+    {
+      "id": "colonisation_francaise",
+      "titre": "Colonisation française"
+    },
+    {
+      "id": "independance",
+      "titre": "Indépendance"
+    },
+    {
+      "id": "onu",
+      "titre": "ONU"
+    },
+    {
+      "id": "non_alignement",
+      "titre": "Non alignement"
+    },
+    {
+      "id": "civilisation_negro_africaine",
+      "titre": "Civilisation négro-africaine"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "chapitres": [
+    {
+      "id": "atome",
+      "titre": "Atome"
+    },
+    {
+      "id": "liaisons_chimiques",
+      "titre": "Liaisons chimiques"
+    },
+    {
+      "id": "la_matiere",
+      "titre": "La matière"
+    },
+    {
+      "id": "reactions_chimiques",
+      "titre": "Réactions chimiques"
+    },
+    {
+      "id": "equilibres_chimiques",
+      "titre": "Équilibres chimiques"
+    },
+    {
+      "id": "solutions_aqueuses",
+      "titre": "Solutions aqueuses"
+    },
+    {
+      "id": "fonctions_chimiques",
+      "titre": "Fonctions chimiques"
+    },
+    {
+      "id": "reactions_organiques",
+      "titre": "Réactions organiques"
+    },
+    {
+      "id": "dosages_chimiques",
+      "titre": "Dosages chimiques"
+    },
+    {
+      "id": "acide_base",
+      "titre": "Acide-base"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "chapitres": [
+    {
+      "id": "milieu_naturel",
+      "titre": "Milieu naturel"
+    },
+    {
+      "id": "population",
+      "titre": "Population"
+    },
+    {
+      "id": "activites",
+      "titre": "Activités"
+    },
+    {
+      "id": "amenagement",
+      "titre": "Aménagement"
+    },
+    {
+      "id": "milieu_naturel_africain",
+      "titre": "Milieu naturel africain"
+    },
+    {
+      "id": "population_africaine",
+      "titre": "Population africaine"
+    },
+    {
+      "id": "activites_economiques",
+      "titre": "Activités économiques"
+    },
+    {
+      "id": "grands_ensembles_mondiaux",
+      "titre": "Grands ensembles mondiaux"
+    },
+    {
+      "id": "grandes_puissances",
+      "titre": "Grandes puissances"
+    },
+    {
+      "id": "echanges_internationaux",
+      "titre": "Échanges internationaux"
+    },
+    {
+      "id": "grands_problemes",
+      "titre": "Grands problèmes"
+    },
+    {
+      "id": "migrations",
+      "titre": "Migrations"
+    },
+    {
+      "id": "secteur_primaire",
+      "titre": "Secteur primaire"
+    },
+    {
+      "id": "secteur_secondaire",
+      "titre": "Secteur secondaire"
+    },
+    {
+      "id": "secteur_tertiaire_afrique_du_sud",
+      "titre": "Secteur tertiaire Afrique du Sud"
+    },
+    {
+      "id": "nigeria",
+      "titre": "Nigeria"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "chapitres": [
+    {
+      "id": "genetique",
+      "titre": "Génétique"
+    },
+    {
+      "id": "adn",
+      "titre": "ADN"
+    },
+    {
+      "id": "mutations",
+      "titre": "Mutations"
+    },
+    {
+      "id": "immunologie",
+      "titre": "Immunologie"
+    },
+    {
+      "id": "reproduction_homme",
+      "titre": "Reproduction homme"
+    },
+    {
+      "id": "reproduction_femme",
+      "titre": "Reproduction femme"
+    },
+    {
+      "id": "systeme_nerveux",
+      "titre": "Système nerveux"
+    },
+    {
+      "id": "cellule",
+      "titre": "Cellule"
+    },
+    {
+      "id": "activites_cardiaques",
+      "titre": "Activités cardiaques"
+    },
+    {
+      "id": "relation_humorale",
+      "titre": "Relation humorale"
+    },
+    {
+      "id": "milieu_interieur",
+      "titre": "Milieu intérieur"
+    }
+  ]
+}
