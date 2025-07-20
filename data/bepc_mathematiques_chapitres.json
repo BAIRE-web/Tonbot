@@ -1,0 +1,44 @@
+{
+  "chapitres": [
+    {
+      "id": "racine_carree",
+      "titre": "racine carrée"
+    },
+    {
+      "id": "equations",
+      "titre": "équations"
+    },
+    {
+      "id": "inequations",
+      "titre": "inéquations"
+    },
+    {
+      "id": "polynome",
+      "titre": "polynôme"
+    },
+    {
+      "id": "fonction",
+      "titre": "fonction"
+    },
+    {
+      "id": "fractions",
+      "titre": "fractions"
+    },
+    {
+      "id": "vecteurs",
+      "titre": "vecteurs"
+    },
+    {
+      "id": "coordonnees",
+      "titre": "coordonnées"
+    },
+    {
+      "id": "pythagore",
+      "titre": "Pythagore"
+    },
+    {
+      "id": "thales",
+      "titre": "Thalès"
+    }
+  ]
+}
