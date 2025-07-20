@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le verbe allemand qui signifie 'manger' ?",
+      "options": ["essen", "trinken", "laufen", "schlafen"],
+      "reponse": "essen",
+      "explication": "Le verbe 'essen' signifie 'manger' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'boire' ?",
+      "options": ["trinken", "sehen", "singen", "fahren"],
+      "reponse": "trinken",
+      "explication": "Le verbe 'trinken' signifie 'boire' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'aller' ?",
+      "options": ["gehen", "kommen", "bleiben", "liegen"],
+      "reponse": "gehen",
+      "explication": "Le verbe 'gehen' signifie 'aller' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'venir' ?",
+      "options": ["kommen", "gehen", "stehen", "laufen"],
+      "reponse": "kommen",
+      "explication": "Le verbe 'kommen' signifie 'venir' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'lire' ?",
+      "options": ["lesen", "schreiben", "sprechen", "hören"],
+      "reponse": "lesen",
+      "explication": "Le verbe 'lesen' signifie 'lire' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'écrire' ?",
+      "options": ["schreiben", "lesen", "denken", "lernen"],
+      "reponse": "schreiben",
+      "explication": "Le verbe 'schreiben' signifie 'écrire' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'parler' ?",
+      "options": ["sprechen", "hören", "sagen", "fragen"],
+      "reponse": "sprechen",
+      "explication": "Le verbe 'sprechen' signifie 'parler' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'écouter' ?",
+      "options": ["hören", "sehen", "laufen", "denken"],
+      "reponse": "hören",
+      "explication": "Le verbe 'hören' signifie 'écouter' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'regarder' ?",
+      "options": ["sehen", "hören", "laufen", "singen"],
+      "reponse": "sehen",
+      "explication": "Le verbe 'sehen' signifie 'regarder' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'chanter' ?",
+      "options": ["singen", "tanzen", "laufen", "spielen"],
+      "reponse": "singen",
+      "explication": "Le verbe 'singen' signifie 'chanter' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'danser' ?",
+      "options": ["tanzen", "singen", "laufen", "spielen"],
+      "reponse": "tanzen",
+      "explication": "Le verbe 'tanzen' signifie 'danser' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'jouer' ?",
+      "options": ["spielen", "arbeiten", "schlafen", "fahren"],
+      "reponse": "spielen",
+      "explication": "Le verbe 'spielen' signifie 'jouer' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'travailler' ?",
+      "options": ["arbeiten", "spielen", "lernen", "sitzen"],
+      "reponse": "arbeiten",
+      "explication": "Le verbe 'arbeiten' signifie 'travailler' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'apprendre' ?",
+      "options": ["lernen", "arbeiten", "sitzen", "stehen"],
+      "reponse": "lernen",
+      "explication": "Le verbe 'lernen' signifie 'apprendre' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'penser' ?",
+      "options": ["denken", "wissen", "sehen", "hören"],
+      "reponse": "denken",
+      "explication": "Le verbe 'denken' signifie 'penser' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'savoir' ?",
+      "options": ["wissen", "denken", "verstehen", "kennen"],
+      "reponse": "wissen",
+      "explication": "Le verbe 'wissen' signifie 'savoir' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'comprendre' ?",
+      "options": ["verstehen", "wissen", "denken", "lernen"],
+      "reponse": "verstehen",
+      "explication": "Le verbe 'verstehen' signifie 'comprendre' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'connaître' ?",
+      "options": ["kennen", "wissen", "denken", "lernen"],
+      "reponse": "kennen",
+      "explication": "Le verbe 'kennen' signifie 'connaître' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'se lever' ?",
+      "options": ["aufstehen", "setzen", "liegen", "stehen"],
+      "reponse": "aufstehen",
+      "explication": "Le verbe 'aufstehen' signifie 'se lever' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 's’asseoir' ?",
+      "options": ["setzen", "stehen", "liegen", "gehen"],
+      "reponse": "setzen",
+      "explication": "Le verbe 'setzen' signifie 's’asseoir' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'être debout' ?",
+      "options": ["stehen", "sitzen", "liegen", "gehen"],
+      "reponse": "stehen",
+      "explication": "Le verbe 'stehen' signifie 'être debout' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'être couché' ?",
+      "options": ["liegen", "stehen", "sitzen", "gehen"],
+      "reponse": "liegen",
+      "explication": "Le verbe 'liegen' signifie 'être couché' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'marcher' ?",
+      "options": ["laufen", "gehen", "fahren", "kommen"],
+      "reponse": "laufen",
+      "explication": "Le verbe 'laufen' signifie 'marcher' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'conduire' ou 'aller en véhicule' ?",
+      "options": ["fahren", "laufen", "gehen", "kommen"],
+      "reponse": "fahren",
+      "explication": "Le verbe 'fahren' signifie 'conduire' ou 'aller en véhicule' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'regarder la télévision' ?",
+      "options": ["fernsehen", "sehen", "hören", "lesen"],
+      "reponse": "fernsehen",
+      "explication": "Le verbe 'fernsehen' signifie 'regarder la télévision' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'acheter' ?",
+      "options": ["kaufen", "verkaufen", "zahlen", "nehmen"],
+      "reponse": "kaufen",
+      "explication": "Le verbe 'kaufen' signifie 'acheter' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'vendre' ?",
+      "options": ["verkaufen", "kaufen", "zahlen", "geben"],
+      "reponse": "verkaufen",
+      "explication": "Le verbe 'verkaufen' signifie 'vendre' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'donner' ?",
+      "options": ["geben", "nehmen", "bekommen", "nehmen"],
+      "reponse": "geben",
+      "explication": "Le verbe 'geben' signifie 'donner' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'prendre' ?",
+      "options": ["nehmen", "geben", "bekommen", "geben"],
+      "reponse": "nehmen",
+      "explication": "Le verbe 'nehmen' signifie 'prendre' en français."
+    },
+    {
+      "question": "Quel est le verbe allemand qui signifie 'recevoir' ?",
+      "options": ["bekommen", "nehmen", "geben", "senden"],
+      "reponse": "bekommen",
+      "explication": "Le verbe 'bekommen' signifie 'recevoir' en français."
+    }
+  ]
+}

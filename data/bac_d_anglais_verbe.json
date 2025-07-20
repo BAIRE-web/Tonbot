@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "What is the past simple form of 'begin'?",
+      "options": ["begun", "began", "begin", "beginning"],
+      "reponse": "began",
+      "explication": "'Began' is the past simple form of the irregular verb 'begin'."
+    },
+    {
+      "question": "What is the past participle of 'choose'?",
+      "options": ["choose", "chose", "chosen", "choosing"],
+      "reponse": "chosen",
+      "explication": "'Chosen' is the past participle of the verb 'choose'."
+    },
+    {
+      "question": "Select the correct past simple form of 'drink'.",
+      "options": ["drank", "drunk", "drinked", "drinking"],
+      "reponse": "drank",
+      "explication": "'Drank' is the past simple, 'drunk' is the past participle."
+    },
+    {
+      "question": "What is the past participle of 'eat'?",
+      "options": ["ate", "eated", "eaten", "eating"],
+      "reponse": "eaten",
+      "explication": "'Eaten' is the past participle of the verb 'eat'."
+    },
+    {
+      "question": "What is the past simple form of 'fall'?",
+      "options": ["fall", "fell", "fallen", "falling"],
+      "reponse": "fell",
+      "explication": "'Fell' is the past simple of 'fall'."
+    },
+    {
+      "question": "Choose the past participle form of 'fly'.",
+      "options": ["flew", "flown", "flyed", "flying"],
+      "reponse": "flown",
+      "explication": "'Flown' is the past participle of 'fly'."
+    },
+    {
+      "question": "What is the past simple form of 'forget'?",
+      "options": ["forgot", "forget", "forgotten", "forgetting"],
+      "reponse": "forgot",
+      "explication": "'Forgot' is the past simple; 'forgotten' is the past participle."
+    },
+    {
+      "question": "Select the past participle of 'get'.",
+      "options": ["got", "gotten", "getted", "getting"],
+      "reponse": "gotten",
+      "explication": "'Gotten' is commonly used as the past participle in American English."
+    },
+    {
+      "question": "What is the past simple form of 'give'?",
+      "options": ["gave", "given", "give", "giving"],
+      "reponse": "gave",
+      "explication": "'Gave' is the past simple of 'give'."
+    },
+    {
+      "question": "Choose the past participle of 'go'.",
+      "options": ["went", "gone", "goed", "going"],
+      "reponse": "gone",
+      "explication": "'Gone' is the past participle; 'went' is the past simple."
+    },
+    {
+      "question": "What is the past simple form of 'know'?",
+      "options": ["know", "knew", "known", "knowing"],
+      "reponse": "knew",
+      "explication": "'Knew' is the past simple of 'know'."
+    },
+    {
+      "question": "Select the past participle of 'leave'.",
+      "options": ["left", "leaved", "leave", "leaving"],
+      "reponse": "left",
+      "explication": "'Left' is both past simple and past participle of 'leave'."
+    },
+    {
+      "question": "What is the past simple form of 'ride'?",
+      "options": ["rode", "ridden", "ride", "riding"],
+      "reponse": "rode",
+      "explication": "'Rode' is the past simple; 'ridden' is the past participle."
+    },
+    {
+      "question": "Choose the past participle of 'see'.",
+      "options": ["seen", "saw", "seed", "seeing"],
+      "reponse": "seen",
+      "explication": "'Seen' is the past participle; 'saw' is the past simple."
+    },
+    {
+      "question": "What is the past simple form of 'sell'?",
+      "options": ["sell", "sold", "selled", "selling"],
+      "reponse": "sold",
+      "explication": "'Sold' is both past simple and past participle of 'sell'."
+    },
+    {
+      "question": "Select the past participle of 'send'.",
+      "options": ["send", "sent", "sended", "sending"],
+      "reponse": "sent",
+      "explication": "'Sent' is both past simple and past participle of 'send'."
+    },
+    {
+      "question": "What is the past simple form of 'sing'?",
+      "options": ["sang", "singed", "sung", "singing"],
+      "reponse": "sang",
+      "explication": "'Sang' is the past simple; 'sung' is the past participle."
+    },
+    {
+      "question": "Choose the past participle of 'sit'.",
+      "options": ["sit", "sat", "sitted", "sitting"],
+      "reponse": "sat",
+      "explication": "'Sat' is both past simple and past participle of 'sit'."
+    },
+    {
+      "question": "What is the past simple form of 'speak'?",
+      "options": ["spoke", "spoken", "speaked", "speaking"],
+      "reponse": "spoke",
+      "explication": "'Spoke' is the past simple; 'spoken' is the past participle."
+    },
+    {
+      "question": "Select the past participle of 'stand'.",
+      "options": ["stand", "stood", "standed", "standing"],
+      "reponse": "stood",
+      "explication": "'Stood' is both past simple and past participle of 'stand'."
+    },
+    {
+      "question": "What is the past simple form of 'take'?",
+      "options": ["take", "took", "taken", "taking"],
+      "reponse": "took",
+      "explication": "'Took' is the past simple; 'taken' is the past participle."
+    },
+    {
+      "question": "Choose the past participle of 'teach'.",
+      "options": ["taught", "teached", "teach", "teaching"],
+      "reponse": "taught",
+      "explication": "'Taught' is both past simple and past participle of 'teach'."
+    },
+    {
+      "question": "What is the past simple form of 'think'?",
+      "options": ["thinked", "thought", "think", "thinking"],
+      "reponse": "thought",
+      "explication": "'Thought' is both past simple and past participle of 'think'."
+    },
+    {
+      "question": "Select the past participle of 'throw'.",
+      "options": ["throwed", "threw", "thrown", "throwing"],
+      "reponse": "thrown",
+      "explication": "'Thrown' is the past participle; 'threw' is the past simple."
+    },
+    {
+      "question": "What is the past simple form of 'understand'?",
+      "options": ["understood", "understand", "understanded", "understanding"],
+      "reponse": "understood",
+      "explication": "'Understood' is both past simple and past participle of 'understand'."
+    },
+    {
+      "question": "Choose the past participle of 'wake'.",
+      "options": ["waked", "woken", "woke", "waking"],
+      "reponse": "woken",
+      "explication": "'Woken' is the past participle; 'woke' is the past simple."
+    },
+    {
+      "question": "What is the past simple form of 'write'?",
+      "options": ["writed", "wrote", "written", "writing"],
+      "reponse": "wrote",
+      "explication": "'Wrote' is the past simple; 'written' is the past participle."
+    },
+    {
+      "question": "Select the past participle of 'break'.",
+      "options": ["broke", "broken", "breaked", "breaking"],
+      "reponse": "broken",
+      "explication": "'Broken' is the past participle; 'broke' is the past simple."
+    },
+    {
+      "question": "What is the past simple form of 'bring'?",
+      "options": ["bringed", "brought", "brang", "bringing"],
+      "reponse": "brought",
+      "explication": "'Brought' is both past simple and past participle of 'bring'."
+    },
+    {
+      "question": "Choose the past participle of 'build'.",
+      "options": ["builded", "built", "buit", "building"],
+      "reponse": "built",
+      "explication": "'Built' is both past simple and past participle of 'build'."
+    },
+    {
+      "question": "What is the past simple form of 'walk'?",
+      "options": ["walked", "walk", "walking", "walks"],
+      "reponse": "walked",
+      "explication": "'Walked' is the past simple form of the regular verb 'walk', formed by adding -ed."
+    },
+    {
+      "question": "Choose the correct past participle of 'play'.",
+      "options": ["played", "play", "playing", "plays"],
+      "reponse": "played",
+      "explication": "The past participle of 'play' is 'played', formed regularly with -ed."
+    },
+    {
+      "question": "What is the past simple form of 'cook'?",
+      "options": ["cook", "cooked", "cooking", "cooks"],
+      "reponse": "cooked",
+      "explication": "'Cooked' is the past simple form of 'cook', regular verb ending with -ed."
+    },
+    {
+      "question": "Select the past participle of 'help'.",
+      "options": ["help", "helped", "helping", "helps"],
+      "reponse": "helped",
+      "explication": "'Helped' is the past participle and past simple of the regular verb 'help'."
+    },
+    {
+      "question": "What is the past simple of 'clean'?",
+      "options": ["clean", "cleaned", "cleaning", "cleans"],
+      "reponse": "cleaned",
+      "explication": "'Cleaned' is the past simple, formed regularly by adding -ed."
+    },
+    {
+      "question": "Choose the past participle of 'talk'.",
+      "options": ["talk", "talked", "talking", "talks"],
+      "reponse": "talked",
+      "explication": "'Talked' is the past participle and past simple form of 'talk'."
+    },
+    {
+      "question": "What is the past simple of 'work'?",
+      "options": ["worked", "work", "working", "works"],
+      "reponse": "worked",
+      "explication": "'Worked' is the past simple of the regular verb 'work'."
+    },
+    {
+      "question": "Select the past participle of 'watch'.",
+      "options": ["watched", "watch", "watching", "watches"],
+      "reponse": "watched",
+      "explication": "'Watched' is the past participle and past simple form of 'watch'."
+    },
+    {
+      "question": "What is the past simple form of 'jump'?",
+      "options": ["jump", "jumped", "jumping", "jumps"],
+      "reponse": "jumped",
+      "explication": "'Jumped' is the past simple form of 'jump', regular verb with -ed."
+    },
+    {
+      "question": "Choose the past participle of 'love'.",
+      "options": ["love", "loved", "loving", "loves"],
+      "reponse": "loved",
+      "explication": "'Loved' is the past participle and past simple form of 'love'."
+    },
+    {
+      "question": "What is the past simple of 'open'?",
+      "options": ["opened", "open", "opening", "opens"],
+      "reponse": "opened",
+      "explication": "'Opened' is the past simple, formed by adding -ed."
+    },
+    {
+      "question": "Select the past participle of 'call'.",
+      "options": ["call", "called", "calling", "calls"],
+      "reponse": "called",
+      "explication": "'Called' is the past participle and past simple form of 'call'."
+    },
+    {
+      "question": "What is the past simple of 'start'?",
+      "options": ["started", "start", "starting", "starts"],
+      "reponse": "started",
+      "explication": "'Started' is the past simple form of 'start', regular verb."
+    },
+    {
+      "question": "Choose the past participle of 'plan'.",
+      "options": ["planned", "planed", "plan", "planning"],
+      "reponse": "planned",
+      "explication": "'Planned' is the past participle and past simple form of 'plan'. Note the double consonant due to stress."
+    },
+    {
+      "question": "What is the past simple of 'clean'?",
+      "options": ["cleaned", "clean", "cleaning", "cleans"],
+      "reponse": "cleaned",
+      "explication": "'Cleaned' is the past simple and past participle of 'clean'."
+    },
+    {
+      "question": "Select the past participle of 'help'.",
+      "options": ["helped", "help", "helping", "helps"],
+      "reponse": "helped",
+      "explication": "'Helped' is the past participle and past simple form of 'help'."
+    },
+    {
+      "question": "What is the past simple of 'visit'?",
+      "options": ["visited", "visit", "visiting", "visits"],
+      "reponse": "visited",
+      "explication": "'Visited' is the past simple and past participle form of 'visit'."
+    },
+    {
+      "question": "Choose the past participle of 'plan'.",
+      "options": ["planned", "planed", "plan", "planning"],
+      "reponse": "planned",
+      "explication": "'Planned' is the past participle and past simple form of 'plan'."
+    },
+    {
+      "question": "What is the past simple of 'listen'?",
+      "options": ["listened", "listen", "listening", "listens"],
+      "reponse": "listened",
+      "explication": "'Listened' is the past simple and past participle of 'listen'."
+    },
+    {
+      "question": "Select the past participle of 'travel'.",
+      "options": ["traveled", "travelled", "travel", "traveling"],
+      "reponse": "traveled",
+      "explication": "'Traveled' is the past simple and past participle in American English; 'travelled' in British English."
+    }
+  ]
+}

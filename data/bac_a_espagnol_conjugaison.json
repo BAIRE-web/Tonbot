@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Comment se conjugue 'hablar' avec 'yo' au présent ?",
+      "options": ["hablo", "hablas", "habla", "hablé"],
+      "reponse": "hablo",
+      "explication": "'Hablar' est un verbe régulier : 'yo hablo' signifie 'je parle'."
+    },
+    {
+      "question": "Comment se dit 'tu manges' en espagnol ?",
+      "options": ["comes", "comas", "coma", "comiste"],
+      "reponse": "comes",
+      "explication": "'Comer' avec 'tú' donne 'comes'."
+    },
+    {
+      "question": "Quelle est la bonne conjugaison de 'vivir' avec 'él' ?",
+      "options": ["vive", "vivo", "viven", "vivía"],
+      "reponse": "vive",
+      "explication": "'Él vive' signifie 'il vit'."
+    },
+    {
+      "question": "Quelle terminaison prend un verbe en -ar avec 'nosotros' au présent ?",
+      "options": ["-amos", "-emos", "-imos", "-an"],
+      "reponse": "-amos",
+      "explication": "Ex. : 'nosotros hablamos' → -amos pour les verbes en -ar."
+    },
+    {
+      "question": "Quelle est la conjugaison correcte de 'tener' avec 'yo' ?",
+      "options": ["tengo", "tienes", "tiene", "teno"],
+      "reponse": "tengo",
+      "explication": "'Yo tengo' est irrégulier mais courant."
+    },
+    {
+      "question": "Comment conjuguer 'ser' avec 'tú' ?",
+      "options": ["eres", "es", "soy", "somos"],
+      "reponse": "eres",
+      "explication": "'Tú eres' signifie 'tu es'."
+    },
+    {
+      "question": "Comment se dit 'ils vont' en espagnol ?",
+      "options": ["van", "vienen", "iban", "fueron"],
+      "reponse": "van",
+      "explication": "'Ellos van' est la forme au présent de 'ir'."
+    },
+    {
+      "question": "Quelle est la forme correcte de 'hacer' avec 'ella' ?",
+      "options": ["hace", "haces", "hago", "hacen"],
+      "reponse": "hace",
+      "explication": "'Ella hace' signifie 'elle fait'."
+    },
+    {
+      "question": "Quel est le passé composé de 'comer' avec 'yo' ?",
+      "options": ["he comido", "ha comido", "comí", "comía"],
+      "reponse": "he comido",
+      "explication": "Passé composé : 'haber' + participe → 'yo he comido'."
+    },
+    {
+      "question": "Comment se dit 'nous avons parlé' ?",
+      "options": ["hemos hablado", "hablamos", "hablábamos", "hablaron"],
+      "reponse": "hemos hablado",
+      "explication": "Passé composé avec 'haber' : 'nosotros hemos hablado'."
+    },
+    {
+      "question": "Quelle est la forme correcte de 'leer' avec 'tú' ?",
+      "options": ["lees", "leo", "lea", "leí"],
+      "reponse": "lees",
+      "explication": "'Tú lees' signifie 'tu lis'."
+    },
+    {
+      "question": "Comment conjuguer 'vivir' au passé composé avec 'ellos' ?",
+      "options": ["han vivido", "vivieron", "vivían", "vivimos"],
+      "reponse": "han vivido",
+      "explication": "'Ellos han vivido' = passé composé."
+    },
+    {
+      "question": "Quelle est la terminaison des verbes en -er pour 'yo' ?",
+      "options": ["-o", "-e", "-a", "-í"],
+      "reponse": "-o",
+      "explication": "Exemple : 'yo como'."
+    },
+    {
+      "question": "Forme correcte de 'ser' au présent avec 'nosotros' ?",
+      "options": ["somos", "estamos", "son", "seremos"],
+      "reponse": "somos",
+      "explication": "'Nosotros somos' = nous sommes."
+    },
+    {
+      "question": "Comment se conjugue 'ir' avec 'yo' ?",
+      "options": ["voy", "va", "fui", "iba"],
+      "reponse": "voy",
+      "explication": "'Yo voy' est le présent de 'ir'."
+    },
+    {
+      "question": "Quel est le participe passé de 'hablar' ?",
+      "options": ["hablado", "hablido", "hablato", "hablado"],
+      "reponse": "hablado",
+      "explication": "Règle : -ar → -ado : 'hablado'."
+    },
+    {
+      "question": "Quelle est la forme du verbe 'leer' au passé composé avec 'ella' ?",
+      "options": ["ha leído", "lee", "leió", "leyó"],
+      "reponse": "ha leído",
+      "explication": "'Ella ha leído' = passé composé."
+    },
+    {
+      "question": "Comment se dit 'ils ont fait' ?",
+      "options": ["han hecho", "hicieron", "hacían", "haceron"],
+      "reponse": "han hecho",
+      "explication": "Passé composé de 'hacer' : 'ellos han hecho'."
+    },
+    {
+      "question": "Quelle est la terminaison des verbes en -ir avec 'tú' ?",
+      "options": ["-es", "-as", "-os", "-ís"],
+      "reponse": "-es",
+      "explication": "Ex. : 'tú vives'."
+    },
+    {
+      "question": "Quel verbe est irrégulier ?",
+      "options": ["ser", "hablar", "vivir", "comer"],
+      "reponse": "ser",
+      "explication": "'Ser' est irrégulier à presque tous les temps."
+    },
+    {
+      "question": "Quelle est la conjugaison de 'trabajar' avec 'vosotros' ?",
+      "options": ["trabajáis", "trabajáis", "trabajan", "trabajamos"],
+      "reponse": "trabajáis",
+      "explication": "Verbe en -ar avec 'vosotros' → -áis."
+    },
+    {
+      "question": "Comment conjuguer 'tener' au passé composé avec 'yo' ?",
+      "options": ["he tenido", "tení", "tuvo", "tuve"],
+      "reponse": "he tenido",
+      "explication": "Passé composé : 'yo he tenido'."
+    },
+    {
+      "question": "Comment se conjugue 'ver' avec 'ella' au présent ?",
+      "options": ["ve", "vio", "veía", "ves"],
+      "reponse": "ve",
+      "explication": "'Ella ve' = elle voit."
+    },
+    {
+      "question": "Quelle est la bonne forme de 'poner' avec 'yo' ?",
+      "options": ["pongo", "pone", "pones", "pono"],
+      "reponse": "pongo",
+      "explication": "Forme irrégulière : 'yo pongo'."
+    },
+    {
+      "question": "Quelle est la bonne conjugaison de 'decir' avec 'tú' ?",
+      "options": ["dices", "digo", "dice", "decís"],
+      "reponse": "dices",
+      "explication": "'Tú dices' = tu dis."
+    },
+    {
+      "question": "Comment se dit 'nous avons lu' ?",
+      "options": ["hemos leído", "leemos", "leíamos", "leímos"],
+      "reponse": "hemos leído",
+      "explication": "Passé composé : 'nosotros hemos leído'."
+    },
+    {
+      "question": "Quel est le participe passé de 'ver' ?",
+      "options": ["visto", "vado", "vido", "verido"],
+      "reponse": "visto",
+      "explication": "'Ver' a un participe irrégulier : 'visto'."
+    },
+    {
+      "question": "Comment se conjugue 'escribir' au passé composé avec 'yo' ?",
+      "options": ["he escrito", "he escribido", "escribí", "escribía"],
+      "reponse": "he escrito",
+      "explication": "Participe passé irrégulier : 'escrito'."
+    },
+    {
+      "question": "Quelle est la forme correcte de 'salir' avec 'nosotros' ?",
+      "options": ["salimos", "salemos", "salemosos", "salíamos"],
+      "reponse": "salimos",
+      "explication": "'Nosotros salimos' signifie 'nous sortons'."
+    },
+    {
+      "question": "Comment conjuguer 'estar' avec 'vosotros' ?",
+      "options": ["estáis", "estás", "están", "estamos"],
+      "reponse": "estáis",
+      "explication": "'Vosotros estáis' signifie 'vous êtes'."
+    }
+  ]
+}

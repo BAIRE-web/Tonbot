@@ -1,0 +1,310 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la forme correcte du pronom objet pour 'I' ?",
+      "options": ["Me", "I", "My", "Mine"],
+      "reponse": "Me",
+      "explication": "'Me' est le pronom objet correspondant à 'I'."
+    },
+    {
+      "question": "Quel est le bon auxiliaire pour une phrase négative au présent simple avec 'they' ?",
+      "options": ["Do not", "Does not", "Did not", "Is not"],
+      "reponse": "Do not",
+      "explication": "'Do not' est utilisé avec les sujets pluriels pour la négation au présent simple."
+    },
+    {
+      "question": "Quelle est la forme correcte du comparatif de 'bad' ?",
+      "options": ["Worse", "Badder", "More bad", "Worst"],
+      "reponse": "Worse",
+      "explication": "'Worse' est la forme comparative irrégulière de 'bad'."
+    },
+    {
+      "question": "Quel mot est une préposition de lieu ?",
+      "options": ["Under", "Quickly", "Beautiful", "And"],
+      "reponse": "Under",
+      "explication": "'Under' indique la position sous quelque chose."
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "options": ["She can swim well.", "She can swims well.", "She can swimming well.", "She can swam well."],
+      "reponse": "She can swim well.",
+      "explication": "Après 'can', on utilise la base verbale sans 's' ni autre modification."
+    },
+    {
+      "question": "Quel temps utilise-t-on pour parler d’une action passée terminée ?",
+      "options": ["Passé simple", "Présent simple", "Futur simple", "Présent continu"],
+      "reponse": "Passé simple",
+      "explication": "Le passé simple (ou prétérit) sert à exprimer une action terminée dans le passé."
+    },
+    {
+      "question": "Quelle est la forme négative correcte de 'They are happy' ?",
+      "options": ["They are not happy.", "They not are happy.", "They isn’t happy.", "They don’t happy."],
+      "reponse": "They are not happy.",
+      "explication": "La négation avec 'to be' s’obtient avec 'are not' après le sujet."
+    },
+    {
+      "question": "Quel adverbe complète correctement cette phrase : 'She speaks ___ English.' ?",
+      "options": ["Fluently", "Fluent", "Fluency", "Fluentness"],
+      "reponse": "Fluently",
+      "explication": "Les adverbes en -ly modifient le verbe."
+    },
+    {
+      "question": "Quelle est la forme correcte de l’article indéfini devant 'hour' ?",
+      "options": ["An", "A", "The", "Some"],
+      "reponse": "An",
+      "explication": "'Hour' commence par un son voyelle, donc on utilise 'an'."
+    },
+    {
+      "question": "Dans la phrase 'I have lived here ___ five years', quel mot complète correctement ?",
+      "options": ["For", "Since", "At", "In"],
+      "reponse": "For",
+      "explication": "'For' s’emploie pour une durée indéfinie."
+    },
+    {
+      "question": "Quel est le pronom relatif qui remplace un objet ?",
+      "options": ["Which", "Who", "Whom", "That"],
+      "reponse": "Whom",
+      "explication": "'Whom' est utilisé pour remplacer un objet dans une proposition relative."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe dans 'She ___ a book every day.' ?",
+      "options": ["Reads", "Read", "Reading", "Readed"],
+      "reponse": "Reads",
+      "explication": "Au présent simple, on ajoute un 's' à la 3e personne du singulier."
+    },
+    {
+      "question": "Quelle est la bonne utilisation de 'much' ?",
+      "options": ["Pour les noms non dénombrables", "Pour les noms dénombrables", "Pour les noms pluriels", "Jamais"],
+      "reponse": "Pour les noms non dénombrables",
+      "explication": "'Much' s’utilise avec les noms non comptables."
+    },
+    {
+      "question": "Quelle phrase utilise correctement le pronom personnel sujet ?",
+      "options": ["They are going to school.", "Them are going to school.", "Their are going to school.", "Theirs are going to school."],
+      "reponse": "They are going to school.",
+      "explication": "'They' est le pronom sujet pluriel correct."
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "options": ["I don’t have any money.", "I don’t has any money.", "I doesn’t have any money.", "I not have any money."],
+      "reponse": "I don’t have any money.",
+      "explication": "La négation avec 'do' utilise la base verbale sans 's'."
+    },
+    {
+      "question": "Quel pronom remplace un objet direct masculin singulier ?",
+      "options": ["Him", "He", "His", "Her"],
+      "reponse": "Him",
+      "explication": "'Him' est pronom objet pour une personne masculine singulière."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe 'to be' au passé simple pour 'we' ?",
+      "options": ["Were", "Was", "Is", "Be"],
+      "reponse": "Were",
+      "explication": "'Were' est la forme du verbe 'to be' au passé pour 'we'."
+    },
+    {
+      "question": "Quel adverbe complète la phrase: 'He runs ___ fast.' ?",
+      "options": ["Very", "Much", "Many", "A lot"],
+      "reponse": "Very",
+      "explication": "'Very' est utilisé pour renforcer un adjectif ou un adverbe."
+    },
+    {
+      "question": "Quelle est la bonne conjugaison de 'to have' au présent simple, 3e personne du singulier ?",
+      "options": ["Has", "Have", "Had", "Haves"],
+      "reponse": "Has",
+      "explication": "On ajoute un 's' à la 3e personne du singulier au présent simple."
+    },
+    {
+      "question": "Quelle est la forme correcte dans la phrase : 'They ___ not come to the party.' ?",
+      "options": ["Did", "Did not", "Does", "Do"],
+      "reponse": "Did not",
+      "explication": "La négation au passé simple utilise 'did not' + base verbale."
+    },
+    {
+      "question": "Quel est le pronom sujet pour 'he' en anglais ?",
+      "options": ["He", "Him", "His", "They"],
+      "reponse": "He",
+      "explication": "'He' est le pronom sujet utilisé pour une personne de genre masculin."
+    },
+    {
+      "question": "Quel est l'article défini en anglais ?",
+      "options": ["The", "A", "An", "Some"],
+      "reponse": "The",
+      "explication": "'The' est l'article défini utilisé pour désigner quelque chose de précis."
+    },
+    {
+      "question": "Quand utilise-t-on 'a' au lieu de 'an' ?",
+      "options": ["Avant un mot commençant par une consonne", "Avant un mot commençant par une voyelle", "Toujours", "Jamais"],
+      "reponse": "Avant un mot commençant par une consonne",
+      "explication": "'A' est utilisé avant un mot commençant par un son consonne, 'an' avant un son voyelle."
+    },
+    {
+      "question": "Comment forme-t-on le pluriel des noms réguliers ?",
+      "options": ["En ajoutant -s", "En changeant le mot", "En ajoutant -ed", "En enlevant une lettre"],
+      "reponse": "En ajoutant -s",
+      "explication": "La plupart des noms forment leur pluriel en ajoutant simplement un -s."
+    },
+    {
+      "question": "Quel temps est utilisé pour parler d'actions habituelles ?",
+      "options": ["Présent simple", "Présent continu", "Passé simple", "Futur simple"],
+      "reponse": "Présent simple",
+      "explication": "Le présent simple est utilisé pour les actions habituelles ou les vérités générales."
+    },
+    {
+      "question": "Quelle est la forme négative du présent simple pour 'he plays' ?",
+      "options": ["He does not play", "He no play", "He don't play", "He not plays"],
+      "reponse": "He does not play",
+      "explication": "En présent simple, la négation se forme avec 'does not' + base verbale."
+    },
+    {
+      "question": "Quel auxiliaire est utilisé pour poser une question au présent simple avec 'she' ?",
+      "options": ["Does", "Do", "Did", "Is"],
+      "reponse": "Does",
+      "explication": "On utilise 'Does' pour les questions au présent simple à la 3e personne du singulier."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe au présent continu ?",
+      "options": ["He is playing", "He plays", "He played", "He play"],
+      "reponse": "He is playing",
+      "explication": "Le présent continu se forme avec 'be' conjugué + verbe en -ing."
+    },
+    {
+      "question": "Quand utilise-t-on le présent continu ?",
+      "options": ["Pour parler d’une action en cours", "Pour une habitude", "Pour une vérité générale", "Pour le futur certain"],
+      "reponse": "Pour parler d’une action en cours",
+      "explication": "Le présent continu décrit une action qui se déroule au moment où l'on parle."
+    },
+    {
+      "question": "Quel est le pronom possessif de 'I' ?",
+      "options": ["Mine", "My", "Me", "I"],
+      "reponse": "Mine",
+      "explication": "'Mine' est le pronom possessif, 'My' est l’adjectif possessif."
+    },
+    {
+      "question": "Comment forme-t-on une question avec le verbe 'to be' au présent ?",
+      "options": ["Invertir sujet et verbe", "Ajouter 'do'", "Ajouter 'does'", "Ajouter 'did'"],
+      "reponse": "Invertir sujet et verbe",
+      "explication": "Avec 'to be', on forme la question en inversant simplement le sujet et le verbe."
+    },
+    {
+      "question": "Quelle préposition utilise-t-on pour indiquer un lieu 'dans' ?",
+      "options": ["In", "On", "At", "By"],
+      "reponse": "In",
+      "explication": "'In' est utilisé pour indiquer qu’on est à l’intérieur d’un lieu."
+    },
+    {
+      "question": "Quel est le superlatif de 'good' ?",
+      "options": ["Best", "Goodest", "More good", "Most good"],
+      "reponse": "Best",
+      "explication": "'Best' est la forme superlative irrégulière de 'good'."
+    },
+    {
+      "question": "Quel est le comparatif de 'happy' ?",
+      "options": ["Happier", "More happy", "Most happy", "Happyest"],
+      "reponse": "Happier",
+      "explication": "On forme le comparatif pour les adjectifs courts en ajoutant -er."
+    },
+    {
+      "question": "Quand utilise-t-on 'some' ?",
+      "options": ["Pour une quantité indéfinie en phrases affirmatives", "Pour des questions", "Pour des négations", "Jamais"],
+      "reponse": "Pour une quantité indéfinie en phrases affirmatives",
+      "explication": "'Some' s'utilise dans les affirmations pour une quantité non précisée."
+    },
+    {
+      "question": "Quel pronom relatif complète la phrase: 'The book ___ I read was great.' ?",
+      "options": ["That", "Who", "Where", "When"],
+      "reponse": "That",
+      "explication": "'That' est utilisé pour relier une proposition relative avec un objet."
+    },
+    {
+      "question": "Quelle forme verbale suit généralement 'will' pour le futur simple ?",
+      "options": ["Base verbale", "Verbe en -ing", "Participe passé", "Infinitif avec to"],
+      "reponse": "Base verbale",
+      "explication": "Après 'will', on utilise toujours la base du verbe sans 'to'."
+    },
+    {
+      "question": "Quel est le pronom objet pour 'they' ?",
+      "options": ["Them", "They", "Their", "Theirs"],
+      "reponse": "Them",
+      "explication": "'Them' est le pronom objet correspondant à 'they'."
+    },
+    {
+      "question": "Quelle forme est correcte ? 'She ___ to the market yesterday.'",
+      "options": ["Went", "Go", "Going", "Gone"],
+      "reponse": "Went",
+      "explication": "'Went' est le passé du verbe 'go'."
+    },
+    {
+      "question": "Quel auxiliaire utilise-t-on pour former une question au passé simple ?",
+      "options": ["Did", "Do", "Does", "Is"],
+      "reponse": "Did",
+      "explication": "Au passé simple, on utilise 'Did' pour poser des questions."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe pour 'He ___ playing football now.' ?",
+      "options": ["Is", "Are", "Am", "Be"],
+      "reponse": "Is",
+      "explication": "Avec le sujet 'He', le verbe être au présent est 'is'."
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "options": ["I have seen that movie.", "I has seen that movie.", "I have saw that movie.", "I has saw that movie."],
+      "reponse": "I have seen that movie.",
+      "explication": "Le présent perfect se forme avec 'have' + participe passé (seen)."
+    },
+    {
+      "question": "Quel mot est un adverbe de fréquence ?",
+      "options": ["Always", "Happy", "Quick", "Dog"],
+      "reponse": "Always",
+      "explication": "'Always' est un adverbe indiquant la fréquence d'une action."
+    },
+    {
+      "question": "Quel pronom possessif complète la phrase: 'This book is ___.' ?",
+      "options": ["Mine", "My", "Me", "I"],
+      "reponse": "Mine",
+      "explication": "'Mine' est un pronom possessif, utilisé seul."
+    },
+    {
+      "question": "Lequel de ces mots est une conjonction ?",
+      "options": ["And", "Quickly", "Beautiful", "House"],
+      "reponse": "And",
+      "explication": "'And' est une conjonction qui relie deux éléments."
+    },
+    {
+      "question": "Quelle est la bonne forme de l’adjectif dans : 'She is ___ than her sister.' ?",
+      "options": ["Taller", "More tall", "Tallest", "Most tall"],
+      "reponse": "Taller",
+      "explication": "Le comparatif s'obtient généralement avec -er pour les adjectifs courts."
+    },
+    {
+      "question": "Dans la phrase 'I am going to study', quel temps est utilisé ?",
+      "options": ["Futur proche", "Présent simple", "Passé simple", "Présent continu"],
+      "reponse": "Futur proche",
+      "explication": "'Be going to' suivi d'un verbe exprime une intention ou un futur proche."
+    },
+    {
+      "question": "Quel mot complète la phrase: 'She ___ not like coffee.' ?",
+      "options": ["Does", "Do", "Did", "Is"],
+      "reponse": "Does",
+      "explication": "La négation au présent simple à la 3e personne utilise 'does not'."
+    },
+    {
+      "question": "Quel pronom est sujet dans cette phrase : 'They are happy.' ?",
+      "options": ["They", "Them", "Their", "Theirs"],
+      "reponse": "They",
+      "explication": "'They' est le pronom sujet."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe dans 'He ___ been to London.' ?",
+      "options": ["Has", "Have", "Had", "Haves"],
+      "reponse": "Has",
+      "explication": "Avec 'he', on utilise 'has' pour le présent perfect."
+    },
+    {
+      "question": "Quel est le bon ordre des mots dans une phrase affirmative anglaise ?",
+      "options": ["Sujet + verbe + complément", "Verbe + sujet + complément", "Complément + sujet + verbe", "Sujet + complément + verbe"],
+      "reponse": "Sujet + verbe + complément",
+      "explication": "L'ordre standard est sujet + verbe + complément."
+    }
+  ]
+}

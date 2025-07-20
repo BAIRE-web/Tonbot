@@ -1,0 +1,20 @@
+{
+  "chapitres": [
+    {
+      "id": "corps",
+      "titre": "Corps"
+    },
+    {
+      "id": "ph",
+      "titre": "PH"
+    },
+    {
+      "id": "matiere",
+      "titre": "Matière"
+    },
+    {
+      "id": "transformation_chimique",
+      "titre": "Transformation chimique"
+    }
+  ]
+}

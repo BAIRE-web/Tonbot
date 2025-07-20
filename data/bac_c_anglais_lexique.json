@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Que signifie l’expression 'to look after' ?",
+      "options": ["Prendre soin de", "Regarder après", "Chercher", "Ignorer"],
+      "reponse": "Prendre soin de",
+      "explication": "'To look after' signifie s’occuper de quelqu’un ou quelque chose."
+    },
+    {
+      "question": "Que veut dire 'to give up' ?",
+      "options": ["Abandonner", "Donner", "Se lever", "Continuer"],
+      "reponse": "Abandonner",
+      "explication": "'To give up' signifie arrêter de faire quelque chose ou abandonner."
+    },
+    {
+      "question": "Que veut dire 'to break down' ?",
+      "options": ["Tomber en panne", "Casser", "Rompre une relation", "Démolir"],
+      "reponse": "Tomber en panne",
+      "explication": "'To break down' est souvent utilisé pour une machine qui cesse de fonctionner."
+    },
+    {
+      "question": "Que signifie 'to come up with' ?",
+      "options": ["Trouver une idée", "Venir avec", "S’élever", "Donner un coup"],
+      "reponse": "Trouver une idée",
+      "explication": "'To come up with' signifie inventer ou proposer une idée ou solution."
+    },
+    {
+      "question": "Que veut dire 'to run out of' ?",
+      "options": ["Manquer de", "Courir hors de", "Fuir", "Entrer dans"],
+      "reponse": "Manquer de",
+      "explication": "'To run out of' signifie ne plus avoir de quelque chose."
+    },
+    {
+      "question": "Que signifie 'to get along with' ?",
+      "options": ["S’entendre avec", "Avancer avec", "Passer", "Regarder"],
+      "reponse": "S’entendre avec",
+      "explication": "'To get along with' signifie avoir une bonne relation avec quelqu’un."
+    },
+    {
+      "question": "Que veut dire 'to put off' ?",
+      "options": ["Reporter", "Mettre hors", "Retirer", "Allumer"],
+      "reponse": "Reporter",
+      "explication": "'To put off' signifie remettre à plus tard."
+    },
+    {
+      "question": "Que signifie 'to take over' ?",
+      "options": ["Prendre le contrôle", "Prendre la relève", "Prendre une photo", "Attraper"],
+      "reponse": "Prendre le contrôle",
+      "explication": "'To take over' signifie s’emparer du contrôle ou de la responsabilité."
+    },
+    {
+      "question": "Que veut dire 'to set up' ?",
+      "options": ["Installer", "Définir", "S’énerver", "Se lever"],
+      "reponse": "Installer",
+      "explication": "'To set up' signifie organiser ou installer quelque chose."
+    },
+    {
+      "question": "Que signifie 'to look forward to' ?",
+      "options": ["Attendre avec impatience", "Regarder en avant", "Chercher", "Ignorer"],
+      "reponse": "Attendre avec impatience",
+      "explication": "'To look forward to' exprime l’attente positive de quelque chose."
+    },
+    {
+      "question": "Que veut dire 'to carry on' ?",
+      "options": ["Continuer", "Porter", "Faire du bruit", "Quitter"],
+      "reponse": "Continuer",
+      "explication": "'To carry on' signifie continuer une action."
+    },
+    {
+      "question": "Que signifie 'to call off' ?",
+      "options": ["Annuler", "Appeler", "Rappeler", "Répondre"],
+      "reponse": "Annuler",
+      "explication": "'To call off' signifie annuler un événement."
+    },
+    {
+      "question": "Que veut dire 'to figure out' ?",
+      "options": ["Comprendre", "Dessiner", "Inventer", "Ignorer"],
+      "reponse": "Comprendre",
+      "explication": "'To figure out' signifie résoudre ou comprendre quelque chose."
+    },
+    {
+      "question": "Que signifie 'to give in' ?",
+      "options": ["Céder", "Donner", "Arrêter", "S’engager"],
+      "reponse": "Céder",
+      "explication": "'To give in' signifie abandonner ou céder à une pression."
+    },
+    {
+      "question": "Que veut dire 'to take off' ?",
+      "options": ["Décoller", "Enlever", "Prendre", "Arriver"],
+      "reponse": "Décoller",
+      "explication": "'To take off' signifie qu’un avion décolle, mais aussi 'enlever' (vêtement)."
+    },
+    {
+      "question": "Que signifie 'to turn down' ?",
+      "options": ["Refuser", "Tourner", "Augmenter", "Baisser"],
+      "reponse": "Refuser",
+      "explication": "'To turn down' signifie refuser une offre ou une proposition."
+    },
+    {
+      "question": "Que veut dire 'to turn up' ?",
+      "options": ["Apparaître", "Tourner", "Monter", "Descendre"],
+      "reponse": "Apparaître",
+      "explication": "'To turn up' signifie arriver ou apparaître."
+    },
+    {
+      "question": "Que signifie 'to get over' ?",
+      "options": ["Se remettre de", "Passer par-dessus", "Attraper", "Tomber"],
+      "reponse": "Se remettre de",
+      "explication": "'To get over' signifie récupérer après une difficulté."
+    },
+    {
+      "question": "Que veut dire 'to back up' ?",
+      "options": ["Faire une sauvegarde", "Reculer", "Soutenir", "Ignorer"],
+      "reponse": "Faire une sauvegarde",
+      "explication": "'To back up' signifie sauvegarder des données, mais aussi soutenir quelqu’un."
+    },
+    {
+      "question": "Que signifie 'to break up' ?",
+      "options": ["Rompre", "Casser", "Briser", "Se réunir"],
+      "reponse": "Rompre",
+      "explication": "'To break up' signifie mettre fin à une relation."
+    },
+    {
+      "question": "Que veut dire 'to hold on' ?",
+      "options": ["Attendre", "Tenir", "S’accrocher", "Quitter"],
+      "reponse": "Attendre",
+      "explication": "'To hold on' est souvent utilisé au téléphone pour demander d’attendre."
+    },
+    {
+      "question": "Que signifie 'to let down' ?",
+      "options": ["Décevoir", "Laisser tomber", "Abaisser", "Ignorer"],
+      "reponse": "Décevoir",
+      "explication": "'To let down' signifie décevoir quelqu’un."
+    },
+    {
+      "question": "Que veut dire 'to make up' ?",
+      "options": ["Se réconcilier", "Fabriquer", "Inventer", "Tout cela"],
+      "reponse": "Tout cela",
+      "explication": "'To make up' peut signifier se réconcilier, inventer une histoire ou fabriquer quelque chose."
+    },
+    {
+      "question": "Que signifie 'to put up with' ?",
+      "options": ["Supporter", "Mettre en place", "Se lever", "Jeter"],
+      "reponse": "Supporter",
+      "explication": "'To put up with' signifie tolérer quelque chose ou quelqu’un."
+    },
+    {
+      "question": "Que veut dire 'to run into' ?",
+      "options": ["Rencontrer par hasard", "Courir dans", "Entrer dans", "Échapper à"],
+      "reponse": "Rencontrer par hasard",
+      "explication": "'To run into' signifie rencontrer quelqu’un accidentellement."
+    },
+    {
+      "question": "Que signifie 'to take after' ?",
+      "options": ["Ressembler à", "Prendre après", "Suivre", "Attraper"],
+      "reponse": "Ressembler à",
+      "explication": "'To take after' signifie ressembler à un parent."
+    },
+    {
+      "question": "Que veut dire 'to work out' ?",
+      "options": ["Faire de l’exercice", "Résoudre", "Fonctionner", "Tout cela"],
+      "reponse": "Tout cela",
+      "explication": "'To work out' peut signifier faire du sport, résoudre un problème ou réussir."
+    },
+    {
+      "question": "Que signifie 'to call back' ?",
+      "options": ["Rappeler", "Appeler à nouveau", "Renvoyer", "Ignorer"],
+      "reponse": "Appeler à nouveau",
+      "explication": "'To call back' signifie téléphoner de nouveau à quelqu’un."
+    },
+    {
+      "question": "Que veut dire 'to show up' ?",
+      "options": ["Se présenter", "Montrer", "Cacher", "Quitter"],
+      "reponse": "Se présenter",
+      "explication": "'To show up' signifie arriver ou se présenter à un endroit."
+    },
+    {
+      "question": "Que signifie l’expression 'to blow up' ?",
+      "options": ["Exploser", "Gonfler", "Ignorer", "Allumer"],
+      "reponse": "Exploser",
+      "explication": "'To blow up' signifie faire exploser ou éclater."
+    },
+    {
+      "question": "Que veut dire 'to check out' ?",
+      "options": ["Vérifier", "Sortir de l’hôtel", "Regarder", "Acheter"],
+      "reponse": "Vérifier",
+      "explication": "'To check out' peut signifier vérifier quelque chose ou quitter un hôtel."
+    },
+    {
+      "question": "Que signifie 'to come across' ?",
+      "options": ["Rencontrer par hasard", "Traverser", "Venir vers", "Conduire"],
+      "reponse": "Rencontrer par hasard",
+      "explication": "'To come across' signifie tomber sur quelqu’un ou quelque chose par hasard."
+    },
+    {
+      "question": "Que veut dire 'to cut down' ?",
+      "options": ["Réduire", "Couper", "Tomber", "Dépenser"],
+      "reponse": "Réduire",
+      "explication": "'To cut down' signifie diminuer ou réduire la quantité de quelque chose."
+    },
+    {
+      "question": "Que signifie 'to drop out' ?",
+      "options": ["Abandonner", "Tomber", "Jeter", "Quitter"],
+      "reponse": "Abandonner",
+      "explication": "'To drop out' signifie quitter une école ou un cours avant la fin."
+    },
+    {
+      "question": "Que veut dire 'to fill out' ?",
+      "options": ["Remplir un formulaire", "Gonfler", "Se sentir bien", "S’asseoir"],
+      "reponse": "Remplir un formulaire",
+      "explication": "'To fill out' signifie compléter un document ou un formulaire."
+    },
+    {
+      "question": "Que signifie 'to get back' ?",
+      "options": ["Revenir", "Retourner", "Se venger", "Prendre"],
+      "reponse": "Revenir",
+      "explication": "'To get back' signifie retourner à un endroit ou récupérer quelque chose."
+    },
+    {
+      "question": "Que veut dire 'to go on' ?",
+      "options": ["Continuer", "Partir", "Arriver", "Tomber"],
+      "reponse": "Continuer",
+      "explication": "'To go on' signifie poursuivre une action ou un événement."
+    },
+    {
+      "question": "Que signifie 'to hold up' ?",
+      "options": ["Retarder", "Soulever", "Tenir", "Arrêter"],
+      "reponse": "Retarder",
+      "explication": "'To hold up' signifie causer un retard ou un obstacle."
+    },
+    {
+      "question": "Que veut dire 'to keep up' ?",
+      "options": ["Maintenir", "Suivre", "Arrêter", "Perdre"],
+      "reponse": "Maintenir",
+      "explication": "'To keep up' signifie continuer au même rythme ou niveau."
+    },
+    {
+      "question": "Que signifie 'to let in' ?",
+      "options": ["Laisser entrer", "Permettre", "Oublier", "Quitter"],
+      "reponse": "Laisser entrer",
+      "explication": "'To let in' signifie permettre à quelqu’un d’entrer."
+    },
+    {
+      "question": "Que veut dire 'to pass out' ?",
+      "options": ["S’évanouir", "Distribuer", "Passer", "Aller"],
+      "reponse": "S’évanouir",
+      "explication": "'To pass out' signifie perdre connaissance ou distribuer quelque chose."
+    },
+    {
+      "question": "Que signifie 'to pick up' ?",
+      "options": ["Ramasser", "Apprendre", "Accueillir", "Toutes ces réponses"],
+      "reponse": "Toutes ces réponses",
+      "explication": "'To pick up' peut signifier ramasser, apprendre quelque chose ou aller chercher quelqu’un."
+    },
+    {
+      "question": "Que veut dire 'to put down' ?",
+      "options": ["Poser", "Critiquer", "Écrire", "Toutes ces réponses"],
+      "reponse": "Toutes ces réponses",
+      "explication": "'To put down' peut signifier poser quelque chose, critiquer ou noter par écrit."
+    },
+    {
+      "question": "Que signifie 'to show off' ?",
+      "options": ["Se vanter", "Montrer", "Cacher", "Révéler"],
+      "reponse": "Se vanter",
+      "explication": "'To show off' signifie exhiber ou se vanter de quelque chose."
+    },
+    {
+      "question": "Que veut dire 'to take back' ?",
+      "options": ["Reprendre", "Retourner", "Annuler", "Prendre"],
+      "reponse": "Reprendre",
+      "explication": "'To take back' signifie retirer ce qu’on a dit ou reprendre un objet."
+    },
+    {
+      "question": "Que signifie 'to try on' ?",
+      "options": ["Essayer un vêtement", "Essayer", "Tester", "Chercher"],
+      "reponse": "Essayer un vêtement",
+      "explication": "'To try on' signifie mettre un vêtement pour voir s’il convient."
+    },
+    {
+      "question": "Que veut dire 'to turn off' ?",
+      "options": ["Éteindre", "Tourner", "Allumer", "Fermer"],
+      "reponse": "Éteindre",
+      "explication": "'To turn off' signifie couper un appareil ou faire cesser quelque chose."
+    },
+    {
+      "question": "Que signifie 'to watch out' ?",
+      "options": ["Faire attention", "Regarder", "Quitter", "Courir"],
+      "reponse": "Faire attention",
+      "explication": "'To watch out' signifie être vigilant ou faire attention."
+    },
+    {
+      "question": "Que veut dire 'to write down' ?",
+      "options": ["Noter", "Écrire", "Dessiner", "Effacer"],
+      "reponse": "Noter",
+      "explication": "'To write down' signifie écrire quelque chose pour s’en souvenir."
+    }
+  ]
+}

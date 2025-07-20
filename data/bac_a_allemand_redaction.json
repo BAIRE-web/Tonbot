@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Quel mot de liaison allemand correspond à 'd'abord' en introduction ?",
+      "options": ["Zuerst", "Schließlich", "Obwohl", "Deshalb"],
+      "reponse": "Zuerst",
+      "explication": "'Zuerst' signifie 'd'abord', utilisé pour commencer une idée ou un paragraphe."
+    },
+    {
+      "question": "Comment dit-on 'en conclusion' pour conclure un texte ?",
+      "options": ["Abschließend", "Allerdings", "Trotzdem", "Zuerst"],
+      "reponse": "Abschließend",
+      "explication": "'Abschließend' est une expression courante pour introduire la conclusion."
+    },
+    {
+      "question": "Quelle phrase est la meilleure pour exprimer une opinion personnelle ?",
+      "options": ["Meiner Meinung nach", "Trotzdem", "Allerdings", "Deshalb"],
+      "reponse": "Meiner Meinung nach",
+      "explication": "'Meiner Meinung nach' signifie 'à mon avis' et sert à exprimer une opinion."
+    },
+    {
+      "question": "Quel mot exprime la cause ou la raison ?",
+      "options": ["Weil", "Aber", "Obwohl", "Dann"],
+      "reponse": "Weil",
+      "explication": "'Weil' signifie 'parce que', utilisé pour introduire une cause."
+    },
+    {
+      "question": "Comment dit-on 'par exemple' en allemand ?",
+      "options": ["Zum Beispiel", "Deshalb", "Obwohl", "Jedoch"],
+      "reponse": "Zum Beispiel",
+      "explication": "'Zum Beispiel' signifie 'par exemple' et sert à introduire un exemple."
+    },
+    {
+      "question": "Quelle expression est correcte pour marquer une concession ?",
+      "options": ["Obwohl", "Deswegen", "Deshalb", "Und"],
+      "reponse": "Obwohl",
+      "explication": "'Obwohl' signifie 'bien que', pour introduire une concession."
+    },
+    {
+      "question": "Quel mot de liaison sert à ajouter une idée ?",
+      "options": ["Außerdem", "Aber", "Deshalb", "Trotzdem"],
+      "reponse": "Außerdem",
+      "explication": "'Außerdem' signifie 'en plus' ou 'de plus', pour ajouter une idée."
+    },
+    {
+      "question": "Quelle phrase introduit un argument ?",
+      "options": ["Ein weiteres Argument ist", "Zum Beispiel", "Obwohl", "Deshalb"],
+      "reponse": "Ein weiteres Argument ist",
+      "explication": "Cette expression sert à introduire un nouvel argument dans un texte."
+    },
+    {
+      "question": "Quel est le meilleur mot pour conclure une argumentation ?",
+      "options": ["Zusammenfassend", "Außerdem", "Jedoch", "Obwohl"],
+      "reponse": "Zusammenfassend",
+      "explication": "'Zusammenfassend' signifie 'en résumé' ou 'pour conclure'."
+    },
+    {
+      "question": "Quel mot relie deux idées opposées ?",
+      "options": ["Aber", "Und", "Oder", "Denn"],
+      "reponse": "Aber",
+      "explication": "'Aber' signifie 'mais', utilisé pour opposer deux idées."
+    },
+    {
+      "question": "Quelle expression est utilisée pour renforcer un point ?",
+      "options": ["Tatsächlich", "Jedoch", "Obwohl", "Deswegen"],
+      "reponse": "Tatsächlich",
+      "explication": "'Tatsächlich' signifie 'en effet' ou 'réellement', pour insister."
+    },
+    {
+      "question": "Comment exprimer une conséquence en allemand ?",
+      "options": ["Deshalb", "Obwohl", "Trotzdem", "Aber"],
+      "reponse": "Deshalb",
+      "explication": "'Deshalb' signifie 'c’est pourquoi' ou 'donc'."
+    },
+    {
+      "question": "Quelle expression introduit une alternative ?",
+      "options": ["Oder", "Denn", "Aber", "Und"],
+      "reponse": "Oder",
+      "explication": "'Oder' signifie 'ou', pour proposer une alternative."
+    },
+    {
+      "question": "Quelle phrase convient pour commencer une introduction ?",
+      "options": ["In diesem Aufsatz werde ich...", "Zum Schluss", "Obwohl", "Denn"],
+      "reponse": "In diesem Aufsatz werde ich...",
+      "explication": "Expression classique pour débuter un texte en exposant le sujet."
+    },
+    {
+      "question": "Quel mot permet de montrer une comparaison ?",
+      "options": ["Wie", "Denn", "Aber", "Oder"],
+      "reponse": "Wie",
+      "explication": "'Wie' signifie 'comme', utilisé pour comparer."
+    },
+    {
+      "question": "Quel est le mot pour dire 'ensuite' ou 'puis' ?",
+      "options": ["Dann", "Denn", "Oder", "Aber"],
+      "reponse": "Dann",
+      "explication": "'Dann' signifie 'ensuite' ou 'puis', pour suivre une chronologie."
+    },
+    {
+      "question": "Comment exprimer un but ou une finalité ?",
+      "options": ["Damit", "Weil", "Obwohl", "Aber"],
+      "reponse": "Damit",
+      "explication": "'Damit' signifie 'afin que' ou 'pour que', exprimant un but."
+    },
+    {
+      "question": "Quel mot est utilisé pour marquer une addition dans un texte ?",
+      "options": ["Zusätzlich", "Obwohl", "Jedoch", "Dennoch"],
+      "reponse": "Zusätzlich",
+      "explication": "'Zusätzlich' signifie 'en plus' ou 'de plus'."
+    },
+    {
+      "question": "Quelle phrase est utilisée pour introduire un résumé ?",
+      "options": ["Zusammenfassend lässt sich sagen", "Zum Beispiel", "Obwohl", "Trotzdem"],
+      "reponse": "Zusammenfassend lässt sich sagen",
+      "explication": "Expression courante pour résumer ou conclure."
+    },
+    {
+      "question": "Comment dire 'd'une part ... d'autre part' ?",
+      "options": ["Einerseits ... andererseits", "Sowohl ... als auch", "Nicht nur ... sondern auch", "Weder ... noch"],
+      "reponse": "Einerseits ... andererseits",
+      "explication": "Expression pour présenter deux aspects ou arguments contrastés."
+    },
+    {
+      "question": "Quel mot exprime une cause ?",
+      "options": ["Denn", "Aber", "Oder", "Und"],
+      "reponse": "Denn",
+      "explication": "'Denn' signifie 'car' ou 'parce que', pour exprimer la cause."
+    },
+    {
+      "question": "Quelle phrase introduit un exemple concret ?",
+      "options": ["Ein Beispiel hierfür ist", "Obwohl", "Jedoch", "Denn"],
+      "reponse": "Ein Beispiel hierfür ist",
+      "explication": "Expression pour introduire un exemple précis."
+    },
+    {
+      "question": "Quel mot utilise-t-on pour exprimer une concession ?",
+      "options": ["Trotzdem", "Denn", "Deshalb", "Und"],
+      "reponse": "Trotzdem",
+      "explication": "'Trotzdem' signifie 'malgré cela' ou 'cependant'."
+    },
+    {
+      "question": "Quel mot signifie 'non seulement ... mais aussi' ?",
+      "options": ["Nicht nur ... sondern auch", "Sowohl ... als auch", "Einerseits ... andererseits", "Weder ... noch"],
+      "reponse": "Nicht nur ... sondern auch",
+      "explication": "Expression pour renforcer une idée par deux éléments."
+    },
+    {
+      "question": "Quel mot est correct pour commencer une lettre formelle ?",
+      "options": ["Sehr geehrte Damen und Herren", "Hallo", "Lieber Freund", "Hey Leute"],
+      "reponse": "Sehr geehrte Damen und Herren",
+      "explication": "Formule de politesse formelle pour débuter une lettre ou un mail."
+    },
+    {
+      "question": "Quel mot signifie 'par conséquent' ?",
+      "options": ["Folglich", "Obwohl", "Jedoch", "Trotzdem"],
+      "reponse": "Folglich",
+      "explication": "'Folglich' signifie 'par conséquent' ou 'donc'."
+    },
+    {
+      "question": "Quelle phrase est utilisée pour annoncer la structure d’un texte ?",
+      "options": ["Zuerst werde ich ..., dann ...", "Obwohl", "Trotzdem", "Deshalb"],
+      "reponse": "Zuerst werde ich ..., dann ...",
+      "explication": "Expression pour annoncer l’ordre des idées ou parties."
+    },
+    {
+      "question": "Comment dire 'en résumé' en allemand ?",
+      "options": ["Kurz gesagt", "Obwohl", "Trotzdem", "Deshalb"],
+      "reponse": "Kurz gesagt",
+      "explication": "'Kurz gesagt' est utilisé pour résumer ou conclure brièvement."
+    },
+    {
+      "question": "Quel mot relie deux idées semblables ?",
+      "options": ["Und", "Aber", "Oder", "Denn"],
+      "reponse": "Und",
+      "explication": "'Und' signifie 'et', pour relier des idées similaires."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le prétérit du verbe 'gehen' (aller) à la 3e personne du singulier ?",
+      "options": ["ging", "geht", "gegangen", "ginge"],
+      "reponse": "ging",
+      "explication": "Le prétérit de 'gehen' est 'ging' à la 3e personne du singulier."
+    },
+    {
+      "question": "Comment conjugue-t-on le verbe 'haben' (avoir) au présent à la 1ère personne du pluriel ?",
+      "options": ["haben", "habt", "hat", "habe"],
+      "reponse": "haben",
+      "explication": "Au présent, 'haben' se conjugue 'haben' à la 1ère personne du pluriel."
+    },
+    {
+      "question": "Quel est le participe passé du verbe 'machen' (faire) ?",
+      "options": ["gemacht", "machte", "machen", "gemachen"],
+      "reponse": "gemacht",
+      "explication": "Le participe passé de 'machen' est 'gemacht'."
+    },
+    {
+      "question": "Quel auxiliaire utilise-t-on pour former le passé composé avec le verbe 'fahren' (conduire) ?",
+      "options": ["sein", "haben", "werden", "bleiben"],
+      "reponse": "sein",
+      "explication": "'Fahren' utilise l’auxiliaire 'sein' au passé composé."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe 'sein' (être) à la 2e personne du singulier au présent ?",
+      "options": ["bist", "seid", "ist", "bin"],
+      "reponse": "bist",
+      "explication": "'Sein' se conjugue 'bist' à la 2e personne du singulier."
+    },
+    {
+      "question": "Quel temps exprime généralement une action achevée dans le passé en allemand ?",
+      "options": ["Perfekt", "Präsens", "Futur", "Präteritum"],
+      "reponse": "Perfekt",
+      "explication": "Le 'Perfekt' exprime souvent une action achevée dans le passé en allemand parlé."
+    },
+    {
+      "question": "Comment conjugue-t-on le verbe modal 'können' (pouvoir) à la 3e personne du pluriel au présent ?",
+      "options": ["können", "könnt", "kann", "konnte"],
+      "reponse": "können",
+      "explication": "'Können' se conjugue 'können' à la 3e personne du pluriel."
+    },
+    {
+      "question": "Quelle est la forme du prétérit du verbe 'machen' (faire) à la 1ère personne du singulier ?",
+      "options": ["machte", "gemacht", "macht", "mache"],
+      "reponse": "machte",
+      "explication": "Le prétérit de 'machen' est 'machte'."
+    },
+    {
+      "question": "Quel est le prétérit du verbe fort 'sehen' (voir) à la 2e personne du singulier ?",
+      "options": ["sahst", "siehst", "gesehen", "sah"],
+      "reponse": "sahst",
+      "explication": "Le prétérit de 'sehen' à la 2e personne du singulier est 'sahst'."
+    },
+    {
+      "question": "Quelle forme du verbe 'werden' (devenir) utilise-t-on au futur simple à la 1ère personne du singulier ?",
+      "options": ["werde", "wird", "werden", "wurde"],
+      "reponse": "werde",
+      "explication": "Au futur, 'werden' se conjugue 'werde' à la 1ère personne du singulier."
+    },
+    {
+      "question": "Quel auxiliaire utilise-t-on avec les verbes de mouvement pour former le passé composé ?",
+      "options": ["sein", "haben", "werden", "können"],
+      "reponse": "sein",
+      "explication": "Les verbes de mouvement utilisent généralement l’auxiliaire 'sein'."
+    },
+    {
+      "question": "Comment conjugue-t-on le verbe 'lesen' (lire) au présent, 3e personne du singulier ?",
+      "options": ["liest", "lesst", "lesen", "las"],
+      "reponse": "liest",
+      "explication": "'Lesen' se conjugue 'liest' à la 3e personne du singulier au présent."
+    },
+    {
+      "question": "Quel est le participe passé du verbe 'finden' (trouver) ?",
+      "options": ["gefunden", "fand", "findet", "finden"],
+      "reponse": "gefunden",
+      "explication": "Le participe passé de 'finden' est 'gefunden'."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe 'essen' (manger) au prétérit, 1ère personne du singulier ?",
+      "options": ["aß", "isst", "gegessen", "essen"],
+      "reponse": "aß",
+      "explication": "'Essen' au prétérit est 'aß' à la 1ère personne du singulier."
+    },
+    {
+      "question": "Comment forme-t-on le plus-que-parfait en allemand ?",
+      "options": ["Prétérit + Participe passé", "Auxiliaire au prétérit + participe passé", "Présent + infinitif", "Futur + participe passé"],
+      "reponse": "Auxiliaire au prétérit + participe passé",
+      "explication": "Le plus-que-parfait se forme avec l’auxiliaire ('haben' ou 'sein') au prétérit suivi du participe passé."
+    },
+    {
+      "question": "Quel est le prétérit du verbe 'nehmen' (prendre) à la 3e personne du pluriel ?",
+      "options": ["nahmen", "nehmen", "genommen", "nimmt"],
+      "reponse": "nahmen",
+      "explication": "Le prétérit de 'nehmen' est 'nahmen' à la 3e personne du pluriel."
+    },
+    {
+      "question": "Comment conjugue-t-on le verbe 'sein' (être) au plus-que-parfait, 1ère personne du singulier ?",
+      "options": ["war gewesen", "bin gewesen", "wäre gewesen", "sei gewesen"],
+      "reponse": "war gewesen",
+      "explication": "Au plus-que-parfait, on utilise 'war' (prétérit de sein) + 'gewesen'."
+    },
+    {
+      "question": "Quel est l’infinitif du verbe conjugué 'schlief' ?",
+      "options": ["schlafen", "schliefen", "schläft", "schlafen"],
+      "reponse": "schlafen",
+      "explication": "'Schlief' est le prétérit du verbe 'schlafen'."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe modal 'dürfen' (avoir la permission) à la 2e personne du singulier au présent ?",
+      "options": ["darfst", "dürft", "darf", "dürfen"],
+      "reponse": "darfst",
+      "explication": "Au présent, 'dürfen' se conjugue 'darfst' à la 2e personne du singulier."
+    },
+    {
+      "question": "Comment conjugue-t-on le verbe 'sagen' (dire) au passé composé, 3e personne du singulier ?",
+      "options": ["hat gesagt", "hat sag", "hat sagte", "hat gesagtet"],
+      "reponse": "hat gesagt",
+      "explication": "Le passé composé de 'sagen' est 'hat gesagt'."
+    },
+    {
+      "question": "Quel est le prétérit du verbe fort 'fahren' (conduire) à la 1ère personne du singulier ?",
+      "options": ["fuhr", "fährt", "gefahren", "fahrte"],
+      "reponse": "fuhr",
+      "explication": "Le prétérit de 'fahren' est 'fuhr' à la 1ère personne du singulier."
+    },
+    {
+      "question": "Quel auxiliaire est utilisé pour former le passé composé du verbe 'bleiben' (rester) ?",
+      "options": ["sein", "haben", "werden", "können"],
+      "reponse": "sein",
+      "explication": "'Bleiben' utilise l’auxiliaire 'sein' au passé composé."
+    },
+    {
+      "question": "Quel est le participe passé du verbe 'kommen' (venir) ?",
+      "options": ["gekommen", "kam", "kommt", "kommen"],
+      "reponse": "gekommen",
+      "explication": "Le participe passé de 'kommen' est 'gekommen'."
+    },
+    {
+      "question": "Quelle est la forme correcte de 'lesen' (lire) au prétérit, 1ère personne du pluriel ?",
+      "options": ["lasen", "lesen", "gelesen", "liest"],
+      "reponse": "lasen",
+      "explication": "Le prétérit de 'lesen' à la 1ère personne du pluriel est 'lasen'."
+    },
+    {
+      "question": "Comment conjugue-t-on 'werden' au passé composé, 3e personne du singulier ?",
+      "options": ["ist geworden", "hat geworden", "wurde", "ist wird"],
+      "reponse": "ist geworden",
+      "explication": "'Werden' se conjugue 'ist geworden' au passé composé."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe 'sein' (être) à l’imparfait (prétérit), 3e personne du pluriel ?",
+      "options": ["waren", "sind", "seid", "war"],
+      "reponse": "waren",
+      "explication": "'Sein' au prétérit 3e pers pluriel est 'waren'."
+    },
+    {
+      "question": "Quel est le participe passé du verbe 'schreiben' (écrire) ?",
+      "options": ["geschrieben", "schrieb", "schreibt", "geschriebt"],
+      "reponse": "geschrieben",
+      "explication": "Le participe passé de 'schreiben' est 'geschrieben'."
+    },
+    {
+      "question": "Comment conjugue-t-on le verbe 'trinken' (boire) au prétérit, 2e personne du singulier ?",
+      "options": ["trankst", "trinkt", "getrunken", "trank"],
+      "reponse": "trankst",
+      "explication": "Le prétérit de 'trinken' à la 2e personne du singulier est 'trankst'."
+    },
+    {
+      "question": "Choisissez la forme correcte du verbe dans cette phrase : « Gestern ___ ich ins Kino gegangen. »",
+      "options": ["bin", "habe", "war", "hat"],
+      "reponse": "bin",
+      "explication": "Le verbe 'gehen' utilise l'auxiliaire 'sein' au passé composé. Ici, 'bin' est la bonne forme."
+    },
+    {
+      "question": "Complétez avec la forme correcte de 'sehen' au présent : « Er ___ jeden Tag fern. »",
+      "options": ["sieht", "sah", "gesehen", "seht"],
+      "reponse": "sieht",
+      "explication": "Au présent, la 3e personne du singulier de 'sehen' est 'sieht'."
+    },
+    {
+      "question": "Quelle est la forme correcte au prétérit dans cette phrase : « Wir ___ gestern viel Spaß gehabt. »",
+      "options": ["haben", "hatten", "waren", "sein"],
+      "reponse": "hatten",
+      "explication": "'Haben' au prétérit, 1ère personne du pluriel est 'hatten'."
+    },
+    {
+      "question": "Choisissez la bonne conjugaison du verbe modal dans la phrase : « Du ___ nicht so spät kommen. »",
+      "options": ["kannst", "musst", "sollst", "darfst"],
+      "reponse": "musst",
+      "explication": "'Musst' est correct ici, exprimant une obligation."
+    },
+    {
+      "question": "Identifiez la forme correcte du verbe 'machen' au futur dans cette phrase : « Morgen ___ wir einen Ausflug. »",
+      "options": ["machen", "werden machen", "machen werden", "werden"],
+      "reponse": "werden machen",
+      "explication": "Le futur se forme avec 'werden' + infinitif, ici 'werden machen'."
+    },
+    {
+      "question": "Complétez : « Wenn er Zeit hat, ___ er uns besuchen. » (verbe 'werden' au conditionnel)",
+      "options": ["würde", "wird", "war", "wäre"],
+      "reponse": "würde",
+      "explication": "Le conditionnel de 'werden' est 'würde'."
+    },
+    {
+      "question": "Choisissez la forme correcte de négation dans cette phrase : « Ich habe ___ Zeit. »",
+      "options": ["kein", "nicht", "keine", "keinen"],
+      "reponse": "keine",
+      "explication": "'Zeit' est un nom féminin, donc négation correcte est 'keine'."
+    },
+    {
+      "question": "Quel est l’adverbe correct pour indiquer la fréquence dans cette phrase : « Er kommt ___ zur Arbeit. »",
+      "options": ["immer", "gestern", "bald", "schon"],
+      "reponse": "immer",
+      "explication": "'Immer' signifie 'toujours' et convient pour la fréquence."
+    },
+    {
+      "question": "Complétez la phrase avec la forme correcte de 'sein' au plus-que-parfait : « Wir ___ schon gegangen, als du ankamst. »",
+      "options": ["waren", "sein", "waren gewesen", "sind gewesen"],
+      "reponse": "waren gewesen",
+      "explication": "Le plus-que-parfait se forme avec l’auxiliaire au prétérit + participe passé."
+    },
+    {
+      "question": "Choisissez la forme correcte du verbe 'lesen' au subjonctif II dans cette phrase : « Ich wünschte, ich ___ das Buch. »",
+      "options": ["läse", "las", "lesen", "gelesen"],
+      "reponse": "läse",
+      "explication": "Le subjonctif II de 'lesen' est 'läse', utilisé ici pour exprimer un souhait."
+    }
+  ]
+}

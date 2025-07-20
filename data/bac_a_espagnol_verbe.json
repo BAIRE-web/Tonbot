@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'manger' ?",
+      "options": ["comer", "beber", "correr", "dormir"],
+      "reponse": "comer",
+      "explication": "Le verbe 'comer' signifie 'manger' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'boire' ?",
+      "options": ["beber", "comer", "vivir", "hablar"],
+      "reponse": "beber",
+      "explication": "Le verbe 'beber' signifie 'boire' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'aller' ?",
+      "options": ["ir", "venir", "estar", "ser"],
+      "reponse": "ir",
+      "explication": "Le verbe 'ir' signifie 'aller' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'venir' ?",
+      "options": ["venir", "ir", "hacer", "tener"],
+      "reponse": "venir",
+      "explication": "Le verbe 'venir' signifie 'venir' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'lire' ?",
+      "options": ["leer", "escribir", "decir", "escuchar"],
+      "reponse": "leer",
+      "explication": "Le verbe 'leer' signifie 'lire' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'écrire' ?",
+      "options": ["escribir", "leer", "pensar", "aprender"],
+      "reponse": "escribir",
+      "explication": "Le verbe 'escribir' signifie 'écrire' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'parler' ?",
+      "options": ["hablar", "escuchar", "decir", "preguntar"],
+      "reponse": "hablar",
+      "explication": "Le verbe 'hablar' signifie 'parler' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'écouter' ?",
+      "options": ["escuchar", "ver", "cantar", "pensar"],
+      "reponse": "escuchar",
+      "explication": "Le verbe 'escuchar' signifie 'écouter' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'regarder' ?",
+      "options": ["ver", "escuchar", "correr", "cantar"],
+      "reponse": "ver",
+      "explication": "Le verbe 'ver' signifie 'regarder' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'chanter' ?",
+      "options": ["cantar", "bailar", "correr", "jugar"],
+      "reponse": "cantar",
+      "explication": "Le verbe 'cantar' signifie 'chanter' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'danser' ?",
+      "options": ["bailar", "cantar", "correr", "jugar"],
+      "reponse": "bailar",
+      "explication": "Le verbe 'bailar' signifie 'danser' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'jouer' ?",
+      "options": ["jugar", "trabajar", "dormir", "conducir"],
+      "reponse": "jugar",
+      "explication": "Le verbe 'jugar' signifie 'jouer' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'travailler' ?",
+      "options": ["trabajar", "jugar", "aprender", "sentar"],
+      "reponse": "trabajar",
+      "explication": "Le verbe 'trabajar' signifie 'travailler' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'apprendre' ?",
+      "options": ["aprender", "trabajar", "sentar", "estar"],
+      "reponse": "aprender",
+      "explication": "Le verbe 'aprender' signifie 'apprendre' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'penser' ?",
+      "options": ["pensar", "saber", "ver", "escuchar"],
+      "reponse": "pensar",
+      "explication": "Le verbe 'pensar' signifie 'penser' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'savoir' ?",
+      "options": ["saber", "pensar", "entender", "conocer"],
+      "reponse": "saber",
+      "explication": "Le verbe 'saber' signifie 'savoir' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'comprendre' ?",
+      "options": ["entender", "saber", "pensar", "aprender"],
+      "reponse": "entender",
+      "explication": "Le verbe 'entender' signifie 'comprendre' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'connaître' ?",
+      "options": ["conocer", "saber", "pensar", "aprender"],
+      "reponse": "conocer",
+      "explication": "Le verbe 'conocer' signifie 'connaître' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'se lever' ?",
+      "options": ["levantarse", "sentarse", "acostarse", "estar"],
+      "reponse": "levantarse",
+      "explication": "Le verbe 'levantarse' signifie 'se lever' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 's’asseoir' ?",
+      "options": ["sentarse", "estar", "acostarse", "ir"],
+      "reponse": "sentarse",
+      "explication": "Le verbe 'sentarse' signifie 's’asseoir' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'être couché' ?",
+      "options": ["acostarse", "levantarse", "sentarse", "caminar"],
+      "reponse": "acostarse",
+      "explication": "Le verbe 'acostarse' signifie 'être couché' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'marcher' ?",
+      "options": ["caminar", "correr", "conducir", "ir"],
+      "reponse": "caminar",
+      "explication": "Le verbe 'caminar' signifie 'marcher' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'courir' ?",
+      "options": ["correr", "caminar", "conducir", "ir"],
+      "reponse": "correr",
+      "explication": "Le verbe 'correr' signifie 'courir' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'conduire' ?",
+      "options": ["conducir", "caminar", "correr", "ir"],
+      "reponse": "conducir",
+      "explication": "Le verbe 'conducir' signifie 'conduire' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'regarder la télévision' ?",
+      "options": ["ver la televisión", "ver", "escuchar", "leer"],
+      "reponse": "ver la televisión",
+      "explication": "L'expression 'ver la televisión' signifie 'regarder la télévision'."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'acheter' ?",
+      "options": ["comprar", "vender", "pagar", "tomar"],
+      "reponse": "comprar",
+      "explication": "Le verbe 'comprar' signifie 'acheter' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'vendre' ?",
+      "options": ["vender", "comprar", "pagar", "dar"],
+      "reponse": "vender",
+      "explication": "Le verbe 'vender' signifie 'vendre' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'donner' ?",
+      "options": ["dar", "tomar", "recibir", "dar"],
+      "reponse": "dar",
+      "explication": "Le verbe 'dar' signifie 'donner' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'prendre' ?",
+      "options": ["tomar", "dar", "recibir", "dar"],
+      "reponse": "tomar",
+      "explication": "Le verbe 'tomar' signifie 'prendre' en français."
+    },
+    {
+      "question": "Quel est le verbe espagnol qui signifie 'recevoir' ?",
+      "options": ["recibir", "tomar", "dar", "enviar"],
+      "reponse": "recibir",
+      "explication": "Le verbe 'recibir' signifie 'recevoir' en français."
+    }
+  ]
+}

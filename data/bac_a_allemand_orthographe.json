@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Comment écrit-on le pluriel de 'Buch' ?",
+      "options": ["Bücher", "Buchs", "Buches", "Buches"],
+      "reponse": "Bücher",
+      "explication": "Le pluriel de 'Buch' est 'Bücher', avec un Umlaut sur le 'u'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du verbe à la 1re personne du singulier au présent : 'ich ___'? (parler - sprechen)",
+      "options": ["spreche", "spricht", "sprechen", "sprach"],
+      "reponse": "spreche",
+      "explication": "'Ich' prend la terminaison '-e' au présent : 'ich spreche'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe de l’adjectif avant un nom masculin au nominatif, sans article ? (rouge = rot)",
+      "options": ["roter", "rote", "rot", "rotes"],
+      "reponse": "roter",
+      "explication": "Sans article, l’adjectif prend une terminaison forte, ici '-er' au masculin nominatif."
+    },
+    {
+      "question": "Comment écrit-on le comparatif de 'gut' (bon) ?",
+      "options": ["besser", "gutern", "guter", "gutte"],
+      "reponse": "besser",
+      "explication": "'Gut' a un comparatif irrégulier : 'besser'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du participe passé de 'gehen' ?",
+      "options": ["gegangen", "gegegangen", "gegagen", "gangen"],
+      "reponse": "gegangen",
+      "explication": "Le participe passé de 'gehen' est 'gegangen'."
+    },
+    {
+      "question": "Comment écrit-on le pluriel de 'Auto' ?",
+      "options": ["Autos", "Auten", "Autose", "Autö"],
+      "reponse": "Autos",
+      "explication": "Le pluriel de 'Auto' est formé en ajoutant '-s'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe : « Er ___ ein Buch. » (lire - lesen) à la 3e personne du singulier ?",
+      "options": ["liest", "lesen", "lese", "las"],
+      "reponse": "liest",
+      "explication": "À la 3e personne du singulier, le verbe 'lesen' s’écrit 'liest'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du superlatif de 'schnell' (vite) ?",
+      "options": ["am schnellsten", "am schnelligsten", "am schnellst", "am schnellt"],
+      "reponse": "am schnellsten",
+      "explication": "Le superlatif se forme avec 'am' + adjectif + '-sten'."
+    },
+    {
+      "question": "Quelle lettre est toujours en majuscule en allemand ?",
+      "options": ["Le nom", "Le verbe", "L’adjectif", "Le pronom"],
+      "reponse": "Le nom",
+      "explication": "En allemand, tous les noms communs sont toujours en majuscule."
+    },
+    {
+      "question": "Comment écrit-on correctement le verbe 'avoir' au prétérit, 1re personne du singulier ?",
+      "options": ["hatte", "hatt", "hat", "haben"],
+      "reponse": "hatte",
+      "explication": "Le prétérit de 'haben' pour 'ich' est 'hatte'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe : « Er ___ heute nicht zur Schule. » (venir - kommen) 3e personne singulier au présent ?",
+      "options": ["kommt", "komme", "kommen", "kam"],
+      "reponse": "kommt",
+      "explication": "À la 3e personne du singulier, on écrit 'kommt'."
+    },
+    {
+      "question": "Comment écrit-on correctement l’article défini masculin au datif singulier ?",
+      "options": ["dem", "den", "der", "des"],
+      "reponse": "dem",
+      "explication": "Au datif masculin singulier, l’article défini est 'dem'."
+    },
+    {
+      "question": "Comment écrit-on le pluriel de 'Kind' ?",
+      "options": ["Kinder", "Kinds", "Kindes", "Kinden"],
+      "reponse": "Kinder",
+      "explication": "Le pluriel de 'Kind' est 'Kinder'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du verbe 'sein' à la 2e personne du singulier au présent ?",
+      "options": ["bist", "ist", "sind", "seid"],
+      "reponse": "bist",
+      "explication": "'Du bist' est la conjugaison correcte."
+    },
+    {
+      "question": "Comment écrit-on la négation de 'ein' au pluriel ?",
+      "options": ["keine", "kein", "keinen", "keinem"],
+      "reponse": "keine",
+      "explication": "'Ein' n’existe pas au pluriel, on utilise 'keine'."
+    },
+    {
+      "question": "Comment écrit-on correctement le pronom personnel sujet à la 1re personne du pluriel ?",
+      "options": ["wir", "uns", "ihr", "sie"],
+      "reponse": "wir",
+      "explication": "'Wir' est le pronom sujet pour 'nous'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe : « Sie ___ eine schöne Blume. » (avoir - haben) 3e personne pluriel ?",
+      "options": ["haben", "hat", "hast", "habt"],
+      "reponse": "haben",
+      "explication": "3e personne du pluriel prend 'haben'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe de l’adjectif 'neu' au nominatif neutre singulier avec l’article défini ?",
+      "options": ["neue", "neuer", "neues", "neu"],
+      "reponse": "neue",
+      "explication": "Avec l’article défini, l’adjectif prend la terminaison '-e' au nominatif neutre."
+    },
+    {
+      "question": "Comment écrit-on le participe passé de 'machen' ?",
+      "options": ["gemacht", "gemachet", "gemach", "gemachten"],
+      "reponse": "gemacht",
+      "explication": "Le participe passé régulier de 'machen' est 'gemacht'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe de 'du' à la forme polie ?",
+      "options": ["Sie", "Du", "Ihr", "Es"],
+      "reponse": "Sie",
+      "explication": "'Sie' avec majuscule est la forme polie."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du pluriel de 'Haus' ?",
+      "options": ["Häuser", "Hausen", "Hause", "Hausen"],
+      "reponse": "Häuser",
+      "explication": "Le pluriel de 'Haus' prend un Umlaut : 'Häuser'."
+    },
+    {
+      "question": "Comment écrit-on correctement le datif pluriel de 'die Frau' ?",
+      "options": ["den Frauen", "den Fraus", "der Frauen", "den Frau"],
+      "reponse": "den Frauen",
+      "explication": "Au datif pluriel, on ajoute 'n' aux noms qui ne la possèdent pas."
+    },
+    {
+      "question": "Quelle est la bonne orthographe de la négation de 'viel' au pluriel ?",
+      "options": ["wenige", "keine", "nicht", "viel"],
+      "reponse": "wenige",
+      "explication": "'Wenige' signifie 'peu(s)' en négation partielle."
+    },
+    {
+      "question": "Comment écrit-on la négation de 'kein' au masculin nominatif ?",
+      "options": ["kein", "keine", "keinen", "keinem"],
+      "reponse": "kein",
+      "explication": "'Kein' est utilisé au masculin nominatif singulier."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du verbe 'fahren' à la 3e personne du pluriel au présent ?",
+      "options": ["fahren", "fährt", "fahret", "fuhr"],
+      "reponse": "fahren",
+      "explication": "À la 3e personne du pluriel, le verbe reste à la forme de base."
+    },
+    {
+      "question": "Comment écrit-on l’adjectif 'alt' au génitif masculin singulier avec article défini ?",
+      "options": ["alten", "alten", "alten", "alten"],
+      "reponse": "alten",
+      "explication": "L’adjectif prend la terminaison '-en' au génitif masculin singulier."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du superlatif de 'groß' ?",
+      "options": ["am größten", "am großten", "am großesten", "am großsten"],
+      "reponse": "am größten",
+      "explication": "Le superlatif de 'groß' s’écrit 'am größten' avec un Umlaut."
+    },
+    {
+      "question": "Comment écrit-on le prétérit de 'kommen' à la 1re personne du singulier ?",
+      "options": ["kam", "kammt", "kommen", "kamte"],
+      "reponse": "kam",
+      "explication": "Le prétérit de 'kommen' à la 1re personne du singulier est 'kam'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe de la négation dans : « Ich habe ___ Zeit. » ?",
+      "options": ["keine", "nicht", "kein", "nichts"],
+      "reponse": "keine",
+      "explication": "'Zeit' est un nom féminin singulier, donc négation 'keine'."
+    }
+  ]
+}

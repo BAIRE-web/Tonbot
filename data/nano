@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Which sentence is correct in the Present Simple?",
+      "options": ["She go to school.", "She goes to school.", "She going to school.", "She gone to school."],
+      "reponse": "She goes to school.",
+      "explication": "In the Present Simple, we add -s to the verb for he/she/it."
+    },
+    {
+      "question": "Which adverb is often used with the Present Perfect?",
+      "options": ["Yesterday", "Already", "Last year", "Then"],
+      "reponse": "Already",
+      "explication": "'Already' is frequently used with the Present Perfect to describe completed actions."
+    },
+    {
+      "question": "What is the past form of the verb 'run'?",
+      "options": ["Runned", "Ran", "Running", "Runs"],
+      "reponse": "Ran",
+      "explication": "'Run' is an irregular verb. Its simple past is 'ran'."
+    },
+    {
+      "question": "Choose the correct sentence in Future Simple.",
+      "options": ["I go tomorrow.", "I going tomorrow.", "I will go tomorrow.", "I goes tomorrow."],
+      "reponse": "I will go tomorrow.",
+      "explication": "Future Simple is formed with 'will' + base verb."
+    },
+    {
+      "question": "Which adverb matches with the Present Continuous?",
+      "options": ["Now", "Yesterday", "Last year", "Once"],
+      "reponse": "Now",
+      "explication": "The Present Continuous is typically used with 'now' to describe actions happening at the moment."
+    },
+    {
+      "question": "What is the correct form for: 'He ____ to the gym every day'?",
+      "options": ["go", "goes", "going", "gone"],
+      "reponse": "goes",
+      "explication": "In the third person singular (he/she/it), verbs take -s in Present Simple."
+    },
+    {
+      "question": "Which tense is used for a finished action in the past?",
+      "options": ["Present Perfect", "Past Simple", "Future Perfect", "Present Simple"],
+      "reponse": "Past Simple",
+      "explication": "Past Simple is used for completed actions at a definite time in the past."
+    },
+    {
+      "question": "Choose the correct verb tense: 'By 2025, she ____ in London for ten years.'",
+      "options": ["lives", "will live", "will have lived", "has lived"],
+      "reponse": "will have lived",
+      "explication": "This is Future Perfect: 'will have' + past participle."
+    },
+    {
+      "question": "Which is the correct negative form in Present Simple?",
+      "options": ["He don't like apples.", "He doesn't likes apples.", "He doesn't like apples.", "He don't likes apples."],
+      "reponse": "He doesn't like apples.",
+      "explication": "In negative Present Simple, we use 'doesn't' + base form of the verb."
+    },
+    {
+      "question": "Which tense expresses habits or routines?",
+      "options": ["Present Continuous", "Present Perfect", "Present Simple", "Past Continuous"],
+      "reponse": "Present Simple",
+      "explication": "Present Simple is used for regular habits and routines."
+    },
+    {
+      "question": "What is the auxiliary verb in Present Perfect?",
+      "options": ["do", "did", "have/has", "was"],
+      "reponse": "have/has",
+      "explication": "Present Perfect is formed with 'have/has' + past participle."
+    },
+    {
+      "question": "Which adverb is NOT usually used with Present Perfect?",
+      "options": ["Just", "Ever", "Last week", "Yet"],
+      "reponse": "Last week",
+      "explication": "'Last week' refers to a specific past time, used with Past Simple."
+    },
+    {
+      "question": "Choose the correct passive form: 'The cake ____ by Anna.'",
+      "options": ["was made", "made", "is making", "makes"],
+      "reponse": "was made",
+      "explication": "Passive Past Simple: 'was' + past participle."
+    },
+    {
+      "question": "Which form fits: 'If I ____ enough money, I would buy a car.'",
+      "options": ["have", "had", "has", "will have"],
+      "reponse": "had",
+      "explication": "This is the second conditional: if + past simple, would + base verb."
+    },
+    {
+      "question": "Which sentence is in Past Continuous?",
+      "options": ["I read a book.", "I was reading a book.", "I have read a book.", "I had read a book."],
+      "reponse": "I was reading a book.",
+      "explication": "Past Continuous: 'was/were' + verb + -ing."
+    },
+    {
+      "question": "Choose the sentence in Present Perfect Continuous.",
+      "options": ["She has been working all day.", "She works all day.", "She worked all day.", "She is working all day."],
+      "reponse": "She has been working all day.",
+      "explication": "Present Perfect Continuous is formed with 'has/have been' + verb-ing."
+    },
+    {
+      "question": "What is the past participle of 'write'?",
+      "options": ["Wrote", "Written", "Writed", "Writ"],
+      "reponse": "Written",
+      "explication": "'Write' – wrote – written: 'written' is the past participle."
+    },
+    {
+      "question": "Complete: 'They ____ to the party before I arrived.'",
+      "options": ["have gone", "went", "had gone", "go"],
+      "reponse": "had gone",
+      "explication": "Past Perfect is used for the action completed before another past action."
+    },
+    {
+      "question": "Choose the correct form: 'It ____ raining since morning.'",
+      "options": ["has been", "is", "was", "have been"],
+      "reponse": "has been",
+      "explication": "Present Perfect Continuous for third person singular: 'has been' + verb-ing."
+    },
+    {
+      "question": "Which sentence is correct?",
+      "options": ["He don’t like school.", "He doesn’t like school.", "He not like school.", "He isn’t like school."],
+      "reponse": "He doesn’t like school.",
+      "explication": "'Doesn't' is used with 'he' in the negative Present Simple."
+    },
+    {
+      "question": "What tense is used: 'She will be working at 10 a.m.'?",
+      "options": ["Future Perfect", "Future Continuous", "Present Continuous", "Past Continuous"],
+      "reponse": "Future Continuous",
+      "explication": "Future Continuous = will be + verb-ing."
+    },
+    {
+      "question": "Which is the correct structure for Present Continuous?",
+      "options": ["is + verb", "is + verb-ing", "verb + ing", "was + verb-ing"],
+      "reponse": "is + verb-ing",
+      "explication": "Present Continuous = am/is/are + verb-ing."
+    },
+    {
+      "question": "Which word suggests using Past Simple?",
+      "options": ["Already", "Just", "Last night", "Yet"],
+      "reponse": "Last night",
+      "explication": "'Last night' is a specific past time, used with Past Simple."
+    },
+    {
+      "question": "Choose the correct verb form: 'She ____ never been abroad.'",
+      "options": ["has", "is", "was", "have"],
+      "reponse": "has",
+      "explication": "'She' takes 'has' in Present Perfect."
+    },
+    {
+      "question": "What tense: 'They have finished their homework.'?",
+      "options": ["Past Simple", "Present Simple", "Present Perfect", "Future Perfect"],
+      "reponse": "Present Perfect",
+      "explication": "Have/has + past participle = Present Perfect."
+    },
+    {
+      "question": "Complete: 'By the time you arrive, we ____ dinner.'",
+      "options": ["will have finished", "will finish", "finished", "are finishing"],
+      "reponse": "will have finished",
+      "explication": "Future Perfect: used for actions completed before a future moment."
+    },
+    {
+      "question": "Which is the correct conditional form: 'If I had studied, I ____ passed.'",
+      "options": ["will have", "would have", "would", "will"],
+      "reponse": "would have",
+      "explication": "Third conditional: If + past perfect, would have + past participle."
+    },
+    {
+      "question": "What is the correct form: 'He ____ not go to the gym on Sundays.'",
+      "options": ["do", "did", "does", "does not"],
+      "reponse": "does not",
+      "explication": "In Present Simple negative for he/she/it, use 'does not' or 'doesn’t'."
+    },
+    {
+      "question": "Choose the correct structure for a question in Present Perfect.",
+      "options": ["Do you eaten?", "Have you eaten?", "Did you eat?", "You have eaten?"],
+      "reponse": "Have you eaten?",
+      "explication": "Present Perfect questions use 'Have/Has' + subject + past participle."
+    },
+    {
+      "question": "What is the past form of 'begin'?",
+      "options": ["Beginned", "Began", "Begun", "Begins"],
+      "reponse": "Began",
+      "explication": "Irregular verb: begin – began – begun."
+    }
+  ]
+}

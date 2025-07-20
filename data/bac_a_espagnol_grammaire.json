@@ -1,0 +1,125 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est l’article défini masculin singulier en espagnol ?",
+      "options": ["El", "La", "Los", "Las"],
+      "reponse": "El",
+      "explication": "« El » est l’article défini masculin singulier, utilisé avant un nom masculin singulier."
+    },
+    {
+      "question": "Comment se conjugue le verbe 'hablar' à la première personne du singulier au présent ?",
+      "options": ["Hablo", "Hablas", "Habla", "Hablamos"],
+      "reponse": "Hablo",
+      "explication": "Le verbe régulier 'hablar' se conjugue en 'hablo' à la première personne du singulier."
+    },
+    {
+      "question": "Quel est le pronom personnel pour 'nous' en espagnol ?",
+      "options": ["Nosotros", "Vosotros", "Ellos", "Ustedes"],
+      "reponse": "Nosotros",
+      "explication": "'Nosotros' est le pronom pour dire 'nous' au masculin ou mixte."
+    },
+    {
+      "question": "Quel mot est un adjectif possessif en espagnol ?",
+      "options": ["Mi", "De", "Con", "Por"],
+      "reponse": "Mi",
+      "explication": "'Mi' signifie 'mon/ma' et est un adjectif possessif."
+    },
+    {
+      "question": "Quel est le féminin de 'alto' (grand) ?",
+      "options": ["Alta", "Alte", "Altae", "Altas"],
+      "reponse": "Alta",
+      "explication": "Pour accorder au féminin, 'alto' devient 'alta'."
+    },
+    {
+      "question": "Comment dit-on 'ils parlent' en espagnol ?",
+      "options": ["Ellos hablan", "Ellos hablo", "Ellas habla", "Nosotros hablas"],
+      "reponse": "Ellos hablan",
+      "explication": "'Ellos hablan' est la conjugaison correcte de 'hablar' à la 3e personne du pluriel."
+    },
+    {
+      "question": "Quelle est la terminaison des verbes réguliers en -ER au présent, 2e personne du singulier ?",
+      "options": ["-es", "-as", "-is", "-os"],
+      "reponse": "-es",
+      "explication": "Les verbes en -ER prennent '-es' à la 2e personne du singulier au présent."
+    },
+    {
+      "question": "Comment traduit-on 'nous mangeons' ?",
+      "options": ["Nosotros comemos", "Nosotros coméis", "Nosotros comen", "Nosotros como"],
+      "reponse": "Nosotros comemos",
+      "explication": "'Comemos' est la forme conjuguée de 'comer' à 'nosotros'."
+    },
+    {
+      "question": "Quel est le pluriel de 'el libro' ?",
+      "options": ["Los libros", "Las libros", "Los libro", "El libros"],
+      "reponse": "Los libros",
+      "explication": "Le pluriel de 'el libro' est 'los libros'."
+    },
+    {
+      "question": "Comment s'accorde un adjectif avec un nom féminin pluriel ?",
+      "options": ["Féminin pluriel", "Masculin singulier", "Masculin pluriel", "Neutre"],
+      "reponse": "Féminin pluriel",
+      "explication": "Les adjectifs s'accordent en genre et en nombre avec le nom qu'ils qualifient."
+    },
+    
+    {
+      "question": "Comment dit-on 'tu es' en espagnol (verbe ser) ?",
+      "options": ["Tú eres", "Tú estás", "Tú es", "Tú ser"],
+      "reponse": "Tú eres",
+      "explication": "'Eres' est la 2e personne du singulier du verbe 'ser'."
+    },
+    {
+      "question": "Quelle est la bonne conjugaison du verbe 'vivir' avec 'yo' ?",
+      "options": ["Vivo", "Vives", "Vive", "Vivimos"],
+      "reponse": "Vivo",
+      "explication": "'Yo vivo' est la conjugaison correcte du verbe 'vivir'."
+    },
+    {
+      "question": "Quel pronom est utilisé pour s'adresser formellement à une seule personne ?",
+      "options": ["Usted", "Tú", "Vosotros", "Ello"],
+      "reponse": "Usted",
+      "explication": "'Usted' est le pronom de politesse au singulier."
+    },
+    {
+      "question": "Comment dit-on 'ma maison' en espagnol ?",
+      "options": ["Mi casa", "Su casa", "Nuestra casa", "La casa"],
+      "reponse": "Mi casa",
+      "explication": "'Mi' est l’adjectif possessif pour 'mon/ma'."
+    },
+    {
+      "question": "Quelle préposition signifie 'avec' ?",
+      "options": ["Con", "Por", "De", "A"],
+      "reponse": "Con",
+      "explication": "'Con' signifie 'avec' en espagnol."
+    },
+    {
+      "question": "Quel verbe est irrégulier au présent ?",
+      "options": ["Ir", "Hablar", "Comer", "Vivir"],
+      "reponse": "Ir",
+      "explication": "'Ir' (aller) est totalement irrégulier au présent."
+    },
+    {
+      "question": "Quelle est la conjugaison correcte du verbe 'tener' avec 'ellos' ?",
+      "options": ["Tienen", "Tiene", "Teneis", "Tengo"],
+      "reponse": "Tienen",
+      "explication": "'Ellos tienen' signifie 'ils ont'."
+    },
+    {
+      "question": "Quel est le verbe auxiliaire utilisé pour le passé composé (pretérito perfecto) ?",
+      "options": ["Haber", "Tener", "Estar", "Ser"],
+      "reponse": "Haber",
+      "explication": "Le verbe 'haber' sert d’auxiliaire pour former le passé composé."
+    },
+    {
+      "question": "Quel mot est un adverbe ?",
+      "options": ["Rápidamente", "Rápido", "Rápida", "Rapidez"],
+      "reponse": "Rápidamente",
+      "explication": "'Rápidamente' est un adverbe (se termine souvent par -mente)."
+    },
+    {
+      "question": "Comment forme-t-on le féminin d’un adjectif en -o ?",
+      "options": ["On remplace -o par -a", "On ajoute -e", "On garde -o", "On met -os"],
+      "reponse": "On remplace -o par -a",
+      "explication": "Exemple : 'bonito' devient 'bonita'."
+    }
+  ]
+}

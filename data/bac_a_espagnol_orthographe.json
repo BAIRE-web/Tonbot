@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Comment écrit-on le pluriel de 'luz' ?",
+      "options": ["luces", "luzes", "luzs", "luceses"],
+      "reponse": "luces",
+      "explication": "Le pluriel des noms terminés par 'z' se forme en remplaçant 'z' par 'c' puis en ajoutant 'es'."
+    },
+    {
+      "question": "Quel accent porte le mot 'teléfono' ?",
+      "options": ["Sur la première syllabe", "Sur la deuxième syllabe", "Sur la troisième syllabe", "Pas d’accent"],
+      "reponse": "Sur la troisième syllabe",
+      "explication": "'Teléfono' est un mot oxytone avec accent sur l'avant-dernière syllabe, donc il porte un accent écrit sur la troisième syllabe."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["huevo", "uevo", "guevo", "huveo"],
+      "reponse": "huevo",
+      "explication": "Le mot correct est 'huevo' qui signifie 'œuf' en espagnol."
+    },
+    {
+      "question": "Comment écrit-on correctement le verbe 'être' au présent (yo)?",
+      "options": ["soy", "soi", "sóy", "soyé"],
+      "reponse": "soy",
+      "explication": "Le verbe 'ser' à la première personne du singulier est 'soy' sans accent."
+    },
+    {
+      "question": "Lequel de ces mots est mal orthographié ?",
+      "options": ["calle", "callejón", "callejo", "calles"],
+      "reponse": "callejo",
+      "explication": "'Callejo' est incorrect, le mot correct est 'callejón' qui signifie 'ruelle'."
+    },
+    {
+      "question": "Quel est l’accent correct pour 'papá' ?",
+      "options": ["Sur la première syllabe", "Sur la deuxième syllabe", "Pas d’accent", "Sur la troisième syllabe"],
+      "reponse": "Sur la deuxième syllabe",
+      "explication": "'Papá' a un accent sur la deuxième syllabe, indiquant la prononciation correcte."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["carácter", "caracter", "carácteré", "carácteer"],
+      "reponse": "carácter",
+      "explication": "Le mot 'carácter' porte un accent sur la première 'a'."
+    },
+    {
+      "question": "Comment écrit-on le féminin de 'amigo' ?",
+      "options": ["amiga", "amigoa", "amigá", "amigó"],
+      "reponse": "amiga",
+      "explication": "Le féminin de 'amigo' est 'amiga', en changeant la terminaison -o en -a."
+    },
+    {
+      "question": "Quel est le pluriel correct de 'lápiz' ?",
+      "options": ["lápices", "lapizes", "lápizs", "lapices"],
+      "reponse": "lápices",
+      "explication": "Le pluriel de 'lápiz' se forme en remplaçant 'z' par 'c' et en ajoutant 'es'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["exámen", "examen", "exámenes", "examenes"],
+      "reponse": "examen",
+      "explication": "'Examen' ne prend pas d’accent car c’est un mot grave terminé par 'n'."
+    },
+    {
+      "question": "Quel mot est correctement écrit ?",
+      "options": ["guitarra", "guitara", "guitrára", "guitarraa"],
+      "reponse": "guitarra",
+      "explication": "'Guitarra' est correctement écrit, signifiant 'guitare'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du verbe 'faire' au présent (él/ella)?",
+      "options": ["hace", "haze", "ace", "haceé"],
+      "reponse": "hace",
+      "explication": "'Hace' est la conjugaison correcte du verbe 'hacer' pour 'il/elle fait'."
+    },
+    {
+      "question": "Comment écrit-on le pluriel de 'pez' ?",
+      "options": ["peces", "pezes", "peces", "pecés"],
+      "reponse": "peces",
+      "explication": "Le pluriel de 'pez' est 'peces' en remplaçant le 'z' par 'c' et ajoutant 'es'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["está", "esta", "estáa", "estáá"],
+      "reponse": "está",
+      "explication": "'Está' porte un accent car c’est une forme du verbe 'estar' au présent."
+    },
+    {
+      "question": "Quel mot est bien orthographié ?",
+      "options": ["árbol", "arbol", "arbolé", "arbolá"],
+      "reponse": "árbol",
+      "explication": "'Árbol' prend un accent sur la première syllabe."
+    },
+    {
+      "question": "Quel est le féminin de 'actor' ?",
+      "options": ["actriz", "actora", "actor", "actríz"],
+      "reponse": "actriz",
+      "explication": "Le féminin de 'actor' est 'actriz'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["camión", "camion", "camió", "camioné"],
+      "reponse": "camión",
+      "explication": "'Camión' porte un accent sur la dernière syllabe."
+    },
+    {
+      "question": "Comment écrit-on le pluriel de 'mujer' ?",
+      "options": ["mujeres", "mujers", "mujereses", "mujéres"],
+      "reponse": "mujeres",
+      "explication": "Le pluriel de 'mujer' est 'mujeres' en ajoutant 'es'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["canción", "cancion", "canciónes", "canciones"],
+      "reponse": "canción",
+      "explication": "'Canción' prend un accent sur la dernière syllabe."
+    },
+    {
+      "question": "Quel mot est correctement orthographié ?",
+      "options": ["difícil", "dificil", "dificíl", "difícilé"],
+      "reponse": "difícil",
+      "explication": "'Difícil' porte un accent sur la première 'i'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["revisión", "revision", "revisíon", "revisióne"],
+      "reponse": "revisión",
+      "explication": "'Revisión' prend un accent sur la dernière syllabe."
+    },
+    {
+      "question": "Comment écrit-on le féminin de 'español' ?",
+      "options": ["española", "españolo", "españolé", "españolá"],
+      "reponse": "española",
+      "explication": "Le féminin de 'español' est 'española'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["bebé", "bebe", "bebéé", "bebée"],
+      "reponse": "bebé",
+      "explication": "'Bebé' porte un accent sur la dernière syllabe."
+    },
+    {
+      "question": "Quel mot est bien orthographié ?",
+      "options": ["jardín", "jardin", "jardíné", "jardiná"],
+      "reponse": "jardín",
+      "explication": "'Jardín' prend un accent sur la dernière syllabe."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["teléfono", "telefono", "telefonó", "telefoné"],
+      "reponse": "teléfono",
+      "explication": "'Teléfono' porte un accent sur la troisième syllabe."
+    },
+    {
+      "question": "Comment écrit-on le pluriel de 'pez' ?",
+      "options": ["peces", "pezes", "peces", "pecés"],
+      "reponse": "peces",
+      "explication": "Le pluriel de 'pez' se forme en remplaçant 'z' par 'c' puis en ajoutant 'es'."
+    },
+    {
+      "question": "Quel est l'accent correct de 'fácil' ?",
+      "options": ["Sur la première syllabe", "Sur la deuxième syllabe", "Pas d'accent", "Sur la troisième syllabe"],
+      "reponse": "Sur la première syllabe",
+      "explication": "'Fácil' porte un accent sur la première syllabe."
+    },
+    {
+      "question": "Quel mot est mal orthographié ?",
+      "options": ["esdrújula", "esdrujula", "esdrújula", "esdrújúla"],
+      "reponse": "esdrujula",
+      "explication": "Le mot correct est 'esdrújula' avec un accent sur la première 'u'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["estación", "estacion", "estacíon", "estaciónes"],
+      "reponse": "estación",
+      "explication": "'Estación' prend un accent sur la dernière syllabe."
+    }
+  ]
+}

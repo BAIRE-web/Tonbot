@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Quel mot de liaison est utilisé pour introduire une cause ?",
+      "options": ["Because", "However", "Although", "Therefore"],
+      "reponse": "Because",
+      "explication": "'Because' est utilisé pour exprimer la cause."
+    },
+    {
+      "question": "Quel mot relie deux idées opposées ?",
+      "options": ["However", "And", "Also", "Therefore"],
+      "reponse": "However",
+      "explication": "'However' introduit une opposition."
+    },
+    {
+      "question": "Quelle expression est correcte pour introduire un exemple ?",
+      "options": ["For example", "In addition", "Despite", "Although"],
+      "reponse": "For example",
+      "explication": "'For example' sert à introduire un exemple."
+    },
+    {
+      "question": "Quel mot convient pour exprimer la conséquence ?",
+      "options": ["Therefore", "But", "Because", "Although"],
+      "reponse": "Therefore",
+      "explication": "'Therefore' indique une conséquence logique."
+    },
+    {
+      "question": "Comment commence-t-on une introduction ?",
+      "options": ["Firstly", "In conclusion", "To sum up", "For example"],
+      "reponse": "Firstly",
+      "explication": "'Firstly' est utilisé pour commencer un argument ou une liste."
+    },
+    {
+      "question": "Quel mot de liaison exprime l’ajout d’information ?",
+      "options": ["Moreover", "However", "Nevertheless", "But"],
+      "reponse": "Moreover",
+      "explication": "'Moreover' ajoute une idée supplémentaire."
+    },
+    {
+      "question": "Quelle phrase exprime un accord ?",
+      "options": ["I agree with this idea", "I disagree", "I doubt it", "I refuse"],
+      "reponse": "I agree with this idea",
+      "explication": "Pour exprimer son accord on dit 'I agree with this idea'."
+    },
+    {
+      "question": "Quel mot est un synonyme de 'important' ?",
+      "options": ["Significant", "Small", "Weak", "Simple"],
+      "reponse": "Significant",
+      "explication": "'Significant' signifie 'important'."
+    },
+    {
+      "question": "Quel est un mot de transition pour conclure un texte ?",
+      "options": ["In conclusion", "For example", "Because", "Although"],
+      "reponse": "In conclusion",
+      "explication": "'In conclusion' est utilisé pour introduire la conclusion."
+    },
+    {
+      "question": "Quelle expression est correcte pour exprimer une concession ?",
+      "options": ["Although", "Because", "Therefore", "Moreover"],
+      "reponse": "Although",
+      "explication": "'Although' est utilisé pour exprimer une concession."
+    },
+    {
+      "question": "Quel mot exprime une opposition faible ?",
+      "options": ["However", "But", "And", "So"],
+      "reponse": "But",
+      "explication": "'But' exprime une opposition plus simple que 'However'."
+    },
+    {
+      "question": "Quel mot de liaison peut remplacer 'and' dans un texte formel ?",
+      "options": ["Furthermore", "But", "Although", "Because"],
+      "reponse": "Furthermore",
+      "explication": "'Furthermore' ajoute une idée et est plus formel que 'and'."
+    },
+    {
+      "question": "Quelle expression est utilisée pour renforcer un argument ?",
+      "options": ["Indeed", "However", "Although", "Because"],
+      "reponse": "Indeed",
+      "explication": "'Indeed' sert à insister ou renforcer une idée."
+    },
+    {
+      "question": "Quel mot utilise-t-on pour présenter un point de vue contraire ?",
+      "options": ["On the other hand", "Therefore", "Moreover", "In addition"],
+      "reponse": "On the other hand",
+      "explication": "'On the other hand' présente une idée opposée."
+    },
+    {
+      "question": "Quel est un adjectif pour qualifier une idée claire ?",
+      "options": ["Clear", "Vague", "Confusing", "Uncertain"],
+      "reponse": "Clear",
+      "explication": "'Clear' signifie 'clair' et 'facile à comprendre'."
+    },
+    {
+      "question": "Quelle expression utilise-t-on pour donner une raison ?",
+      "options": ["Because of", "Therefore", "In addition", "But"],
+      "reponse": "Because of",
+      "explication": "'Because of' introduit une cause ou raison."
+    },
+    {
+      "question": "Quel mot relie deux idées similaires ?",
+      "options": ["Similarly", "However", "Therefore", "Although"],
+      "reponse": "Similarly",
+      "explication": "'Similarly' montre une idée semblable ou un parallèle."
+    },
+    {
+      "question": "Quel mot est un synonyme de 'very important' ?",
+      "options": ["Crucial", "Trivial", "Unimportant", "Simple"],
+      "reponse": "Crucial",
+      "explication": "'Crucial' signifie 'très important'."
+    },
+    {
+      "question": "Quelle expression est correcte pour commencer un paragraphe ?",
+      "options": ["To begin with", "Finally", "Therefore", "Despite"],
+      "reponse": "To begin with",
+      "explication": "'To begin with' est souvent utilisé pour commencer un paragraphe."
+    },
+    {
+      "question": "Quel mot de liaison exprime une conséquence négative ?",
+      "options": ["As a result", "However", "Although", "Because"],
+      "reponse": "As a result",
+      "explication": "'As a result' introduit une conséquence."
+    },
+    {
+      "question": "Quelle expression est utilisée pour résumer ?",
+      "options": ["To sum up", "Because", "However", "Although"],
+      "reponse": "To sum up",
+      "explication": "'To sum up' sert à faire un résumé."
+    },
+    {
+      "question": "Quel mot est un adjectif pour une idée confuse ?",
+      "options": ["Confusing", "Clear", "Simple", "Obvious"],
+      "reponse": "Confusing",
+      "explication": "'Confusing' signifie 'difficile à comprendre'."
+    },
+    {
+      "question": "Quelle expression introduit un contraste fort ?",
+      "options": ["On the contrary", "And", "Therefore", "Because"],
+      "reponse": "On the contrary",
+      "explication": "'On the contrary' introduit un contraste fort."
+    },
+    {
+      "question": "Quel mot signifie 'facile à comprendre' ?",
+      "options": ["Understandable", "Unclear", "Confusing", "Difficult"],
+      "reponse": "Understandable",
+      "explication": "'Understandable' signifie 'facile à comprendre'."
+    },
+    {
+      "question": "Quel mot exprime une cause probable ?",
+      "options": ["Probably", "However", "Because", "Therefore"],
+      "reponse": "Probably",
+      "explication": "'Probably' exprime une probabilité."
+    },
+    {
+      "question": "Quel mot relie deux idées en ajoutant une précision ?",
+      "options": ["In fact", "However", "Because", "Therefore"],
+      "reponse": "In fact",
+      "explication": "'In fact' sert à ajouter une précision."
+    },
+    {
+      "question": "Quel mot signifie 'néanmoins' ?",
+      "options": ["Nevertheless", "Because", "And", "Therefore"],
+      "reponse": "Nevertheless",
+      "explication": "'Nevertheless' signifie 'néanmoins' ou 'malgré cela'."
+    },
+    {
+      "question": "Quelle expression introduit une condition ?",
+      "options": ["If", "Because", "Although", "However"],
+      "reponse": "If",
+      "explication": "'If' introduit une condition."
+    },
+    {
+      "question": "Quel mot signifie 'par conséquent' ?",
+      "options": ["Consequently", "However", "Although", "Because"],
+      "reponse": "Consequently",
+      "explication": "'Consequently' signifie 'par conséquent'."
+    },
+    {
+      "question": "Quel mot exprime une opposition douce ?",
+      "options": ["Although", "But", "And", "Because"],
+      "reponse": "Although",
+      "explication": "'Although' exprime une opposition douce."
+    }
+  ]
+}

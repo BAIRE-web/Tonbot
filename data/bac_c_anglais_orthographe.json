@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le pluriel correct du mot 'child' ?",
+      "options": ["Children", "Childs", "Childes", "Childrens"],
+      "reponse": "Children",
+      "explication": "'Child' est un nom irrégulier dont le pluriel est 'children'."
+    },
+    {
+      "question": "Quel mot est correctement orthographié ?",
+      "options": ["Receive", "Recieve", "Receeve", "Receve"],
+      "reponse": "Receive",
+      "explication": "Le mot 'receive' suit la règle 'i before e except after c'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["Accommodation", "Acommodation", "Accomodation", "Acomodation"],
+      "reponse": "Accommodation",
+      "explication": "Le mot comporte deux doubles consonnes 'cc' et 'mm'."
+    },
+    {
+      "question": "Lequel de ces mots est un adjectif ?",
+      "options": ["Beautiful", "Beauty", "Beautify", "Beautician"],
+      "reponse": "Beautiful",
+      "explication": "'Beautiful' est un adjectif dérivé du nom 'beauty'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du verbe signifiant 'détruire' ?",
+      "options": ["Destroy", "Destry", "Distroi", "Destro"],
+      "reponse": "Destroy",
+      "explication": "Le verbe s’écrit 'destroy'."
+    },
+    {
+      "question": "Lequel est correctement orthographié ?",
+      "options": ["Definitely", "Definately", "Definitly", "Definetly"],
+      "reponse": "Definitely",
+      "explication": "'Definitely' est souvent mal orthographié, mais c’est la bonne forme."
+    },
+    {
+      "question": "Quelle est la forme correcte du comparatif de 'happy' ?",
+      "options": ["Happier", "Happyer", "Happiest", "Hapier"],
+      "reponse": "Happier",
+      "explication": "Pour les adjectifs se terminant par 'y', on remplace par 'ier' pour le comparatif."
+    },
+    {
+      "question": "Quel mot est un nom ?",
+      "options": ["Freedom", "Free", "Freely", "Freed"],
+      "reponse": "Freedom",
+      "explication": "'Freedom' est un nom, les autres formes sont adjectif, adverbe et participe passé."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["Occasion", "Ocassion", "Occassion", "Ocasian"],
+      "reponse": "Occasion",
+      "explication": "Le mot comporte une seule double consonne 'cc'."
+    },
+    {
+      "question": "Comment écrit-on le mot qui signifie 'vérité' ?",
+      "options": ["Truth", "Trueth", "Trooth", "Trueht"],
+      "reponse": "Truth",
+      "explication": "'Truth' est l’orthographe correcte."
+    },
+    {
+      "question": "Quel est le participe passé du verbe 'write' ?",
+      "options": ["Written", "Writed", "Write", "Writen"],
+      "reponse": "Written",
+      "explication": "'Written' est la forme correcte du participe passé."
+    },
+    {
+      "question": "Quel mot est correctement orthographié ?",
+      "options": ["Separate", "Seperate", "Seprate", "Seperete"],
+      "reponse": "Separate",
+      "explication": "Le mot 'separate' s’écrit avec 'a' après le 'p'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe de la couleur ?",
+      "options": ["Purple", "Purpel", "Purpal", "Purpl"],
+      "reponse": "Purple",
+      "explication": "Le mot 'purple' est correct."
+    },
+    {
+      "question": "Quel mot est un adjectif ?",
+      "options": ["Happy", "Happiness", "Happily", "Unhappy"],
+      "reponse": "Happy",
+      "explication": "'Happy' est un adjectif, 'happiness' un nom, 'happily' un adverbe."
+    },
+    {
+      "question": "Quel est le bon pluriel de 'fox' ?",
+      "options": ["Foxes", "Foxs", "Foxies", "Foxes"],
+      "reponse": "Foxes",
+      "explication": "Les noms finissant par 'x' prennent 'es' au pluriel."
+    },
+    {
+      "question": "Quelle est la forme correcte ?",
+      "options": ["Government", "Gouvernment", "Goverment", "Govermnent"],
+      "reponse": "Government",
+      "explication": "'Government' s’écrit sans 'u' après le 'o'."
+    },
+    {
+      "question": "Quel mot est un verbe ?",
+      "options": ["Run", "Runner", "Running", "Runned"],
+      "reponse": "Run",
+      "explication": "'Run' est la forme de base du verbe."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["Library", "Libary", "Liberry", "Libarry"],
+      "reponse": "Library",
+      "explication": "Le mot contient deux 'r' : library."
+    },
+    {
+      "question": "Quel mot signifie 'chance' ?",
+      "options": ["Opportunity", "Oppertunity", "Opportiunity", "Opprtunite"],
+      "reponse": "Opportunity",
+      "explication": "'Opportunity' est l’orthographe correcte."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["Experience", "Experiance", "Experence", "Experiense"],
+      "reponse": "Experience",
+      "explication": "'Experience' comporte un 'i' après le 'r'."
+    },
+    {
+      "question": "Quel est le participe passé de 'go' ?",
+      "options": ["Gone", "Goed", "Go", "Going"],
+      "reponse": "Gone",
+      "explication": "'Gone' est la forme correcte du participe passé."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["Necessary", "Necesary", "Neccessary", "Necassary"],
+      "reponse": "Necessary",
+      "explication": "'Necessary' comporte deux 's' et un seul 'c'."
+    },
+    {
+      "question": "Quel est le pluriel correct de 'mouse' ?",
+      "options": ["Mice", "Mouses", "Mices", "Mouse"],
+      "reponse": "Mice",
+      "explication": "'Mouse' est un nom irrégulier dont le pluriel est 'mice'."
+    },
+    {
+      "question": "Quelle est la forme correcte ?",
+      "options": ["Restaurant", "Restaurent", "Restauraunt", "Restaurent"],
+      "reponse": "Restaurant",
+      "explication": "'Restaurant' s’écrit avec 'au'."
+    },
+    {
+      "question": "Quel mot est correctement orthographié ?",
+      "options": ["Friend", "Freind", "Frend", "Friand"],
+      "reponse": "Friend",
+      "explication": "'Friend' est l’orthographe correcte."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["Success", "Sucess", "Sucses", "Sucesss"],
+      "reponse": "Success",
+      "explication": "'Success' contient deux 'c' et deux 's'."
+    },
+    {
+      "question": "Quel est le participe passé de 'take' ?",
+      "options": ["Taken", "Taked", "Take", "Taking"],
+      "reponse": "Taken",
+      "explication": "'Taken' est le participe passé correct."
+    },
+    {
+      "question": "Quel mot est un nom ?",
+      "options": ["Knowledge", "Know", "Known", "Knowing"],
+      "reponse": "Knowledge",
+      "explication": "'Knowledge' est un nom."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["February", "Febuary", "Februry", "Februery"],
+      "reponse": "February",
+      "explication": "'February' comporte un 'r' après le 'b'."
+    },
+    {
+      "question": "Quel est le pluriel correct de 'knife' ?",
+      "options": ["Knives", "Knifes", "Knifes", "Knive"],
+      "reponse": "Knives",
+      "explication": "Les noms terminés par 'fe' changent en 'ves' au pluriel."
+    }
+  ]
+}

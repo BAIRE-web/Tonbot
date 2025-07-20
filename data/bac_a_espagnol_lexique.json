@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Que signifie le mot « casa » ?",
+      "options": ["Maison", "Voiture", "École", "Chien"],
+      "reponse": "Maison",
+      "explication": "« Casa » signifie « maison » en espagnol."
+    },
+    {
+      "question": "Que veut dire « amigo » ?",
+      "options": ["Ami", "Ennemi", "Professeur", "Voisin"],
+      "reponse": "Ami",
+      "explication": "« Amigo » signifie « ami » en espagnol."
+    },
+    {
+      "question": "Que signifie le mot « libro » ?",
+      "options": ["Livre", "Stylo", "Table", "Chaise"],
+      "reponse": "Livre",
+      "explication": "« Libro » veut dire « livre » en espagnol."
+    },
+    {
+      "question": "Que veut dire « comida » ?",
+      "options": ["Nourriture", "Boisson", "Maison", "Chien"],
+      "reponse": "Nourriture",
+      "explication": "« Comida » signifie « nourriture » ou « repas » en espagnol."
+    },
+    {
+      "question": "Que signifie « escuela » ?",
+      "options": ["École", "Église", "Parc", "Maison"],
+      "reponse": "École",
+      "explication": "« Escuela » signifie « école » en espagnol."
+    },
+    {
+      "question": "Que veut dire « perro » ?",
+      "options": ["Chien", "Chat", "Oiseau", "Poisson"],
+      "reponse": "Chien",
+      "explication": "« Perro » signifie « chien » en espagnol."
+    },
+    {
+      "question": "Que signifie « agua » ?",
+      "options": ["Eau", "Feu", "Air", "Terre"],
+      "reponse": "Eau",
+      "explication": "« Agua » signifie « eau » en espagnol."
+    },
+    {
+      "question": "Que veut dire « feliz » ?",
+      "options": ["Heureux", "Triste", "Fatigué", "Fâché"],
+      "reponse": "Heureux",
+      "explication": "« Feliz » signifie « heureux » en espagnol."
+    },
+    {
+      "question": "Que signifie « tiempo » ?",
+      "options": ["Temps", "Argent", "Travail", "Voiture"],
+      "reponse": "Temps",
+      "explication": "« Tiempo » signifie « temps » en espagnol."
+    },
+    {
+      "question": "Que veut dire « trabajo » ?",
+      "options": ["Travail", "Jeu", "Sport", "Repos"],
+      "reponse": "Travail",
+      "explication": "« Trabajo » signifie « travail » en espagnol."
+    },
+    {
+      "question": "Que signifie « ciudad » ?",
+      "options": ["Ville", "Village", "Maison", "Campagne"],
+      "reponse": "Ville",
+      "explication": "« Ciudad » signifie « ville » en espagnol."
+    },
+    {
+      "question": "Que veut dire « familia » ?",
+      "options": ["Famille", "Amis", "Voisins", "Collègues"],
+      "reponse": "Famille",
+      "explication": "« Familia » signifie « famille » en espagnol."
+    },
+    {
+      "question": "Que signifie « amigo » ?",
+      "options": ["Ami", "Étranger", "Parent", "Professeur"],
+      "reponse": "Ami",
+      "explication": "« Amigo » signifie « ami » en espagnol."
+    },
+    {
+      "question": "Que veut dire « ventana » ?",
+      "options": ["Fenêtre", "Porte", "Mur", "Toit"],
+      "reponse": "Fenêtre",
+      "explication": "« Ventana » signifie « fenêtre » en espagnol."
+    },
+    {
+      "question": "Que signifie « silla » ?",
+      "options": ["Chaise", "Table", "Lit", "Canapé"],
+      "reponse": "Chaise",
+      "explication": "« Silla » signifie « chaise » en espagnol."
+    },
+    {
+      "question": "Que veut dire « coche » ?",
+      "options": ["Voiture", "Bateau", "Avion", "Train"],
+      "reponse": "Voiture",
+      "explication": "« Coche » signifie « voiture » en espagnol."
+    },
+    {
+      "question": "Que signifie « niño » ?",
+      "options": ["Garçon", "Fille", "Adulte", "Vieillard"],
+      "reponse": "Garçon",
+      "explication": "« Niño » signifie « garçon » en espagnol."
+    },
+    {
+      "question": "Que veut dire « mujer » ?",
+      "options": ["Femme", "Homme", "Enfant", "Voisin"],
+      "reponse": "Femme",
+      "explication": "« Mujer » signifie « femme » en espagnol."
+    },
+    {
+      "question": "Que signifie « cielo » ?",
+      "options": ["Ciel", "Mer", "Montagne", "Forêt"],
+      "reponse": "Ciel",
+      "explication": "« Cielo » signifie « ciel » en espagnol."
+    },
+    {
+      "question": "Que veut dire « sol » ?",
+      "options": ["Soleil", "Lune", "Étoile", "Nuage"],
+      "reponse": "Soleil",
+      "explication": "« Sol » signifie « soleil » en espagnol."
+    },
+    {
+      "question": "Que signifie « mar » ?",
+      "options": ["Mer", "Rivière", "Lac", "Montagne"],
+      "reponse": "Mer",
+      "explication": "« Mar » signifie « mer » en espagnol."
+    },
+    {
+      "question": "Que veut dire « libro » ?",
+      "options": ["Livre", "Stylo", "Cahier", "Papier"],
+      "reponse": "Livre",
+      "explication": "« Libro » signifie « livre » en espagnol."
+    },
+    {
+      "question": "Que signifie « playa » ?",
+      "options": ["Plage", "Montagne", "Forêt", "Désert"],
+      "reponse": "Plage",
+      "explication": "« Playa » signifie « plage » en espagnol."
+    },
+    {
+      "question": "Que veut dire « trabajo » ?",
+      "options": ["Travail", "École", "Vacances", "Jeu"],
+      "reponse": "Travail",
+      "explication": "« Trabajo » signifie « travail » en espagnol."
+    },
+    {
+      "question": "Que signifie « calle » ?",
+      "options": ["Rue", "Place", "Parc", "Bâtiment"],
+      "reponse": "Rue",
+      "explication": "« Calle » signifie « rue » en espagnol."
+    },
+    {
+      "question": "Que veut dire « comida » ?",
+      "options": ["Nourriture", "Boisson", "Dessert", "Entrée"],
+      "reponse": "Nourriture",
+      "explication": "« Comida » signifie « nourriture » en espagnol."
+    },
+    {
+      "question": "Que signifie « árbol » ?",
+      "options": ["Arbre", "Fleur", "Herbe", "Buisson"],
+      "reponse": "Arbre",
+      "explication": "« Árbol » signifie « arbre » en espagnol."
+    },
+    {
+      "question": "Que veut dire « noche » ?",
+      "options": ["Nuit", "Jour", "Matin", "Après-midi"],
+      "reponse": "Nuit",
+      "explication": "« Noche » signifie « nuit » en espagnol."
+    },
+    {
+      "question": "Que signifie « ventana » ?",
+      "options": ["Fenêtre", "Porte", "Mur", "Toit"],
+      "reponse": "Fenêtre",
+      "explication": "« Ventana » signifie « fenêtre » en espagnol."
+    },
+    {
+      "question": "Que veut dire « flor » ?",
+      "options": ["Fleur", "Arbre", "Herbe", "Feuille"],
+      "reponse": "Fleur",
+      "explication": "« Flor » signifie « fleur » en espagnol."
+    },
+    {
+      "question": "Que signifie « puerta » ?",
+      "options": ["Porte", "Fenêtre", "Toit", "Mur"],
+      "reponse": "Porte",
+      "explication": "« Puerta » signifie « porte » en espagnol."
+    },
+    {
+      "question": "Que veut dire « cielo » ?",
+      "options": ["Ciel", "Terre", "Mer", "Montagne"],
+      "reponse": "Ciel",
+      "explication": "« Cielo » signifie « ciel » en espagnol."
+    },
+    {
+      "question": "Que signifie « mano » ?",
+      "options": ["Main", "Pied", "Tête", "Bras"],
+      "reponse": "Main",
+      "explication": "« Mano » signifie « main » en espagnol."
+    },
+    {
+      "question": "Que veut dire « agua » ?",
+      "options": ["Eau", "Feu", "Air", "Terre"],
+      "reponse": "Eau",
+      "explication": "« Agua » signifie « eau » en espagnol."
+    },
+    {
+      "question": "Que signifie « mesa » ?",
+      "options": ["Table", "Chaise", "Lit", "Canapé"],
+      "reponse": "Table",
+      "explication": "« Mesa » signifie « table » en espagnol."
+    },
+    {
+      "question": "Que veut dire « coche » ?",
+      "options": ["Voiture", "Bateau", "Avion", "Train"],
+      "reponse": "Voiture",
+      "explication": "« Coche » signifie « voiture » en espagnol."
+    },
+    {
+      "question": "Que signifie « playa » ?",
+      "options": ["Plage", "Montagne", "Forêt", "Désert"],
+      "reponse": "Plage",
+      "explication": "« Playa » signifie « plage » en espagnol."
+    },
+    {
+      "question": "Que veut dire « amigo » ?",
+      "options": ["Ami", "Ennemi", "Voisin", "Professeur"],
+      "reponse": "Ami",
+      "explication": "« Amigo » signifie « ami » en espagnol."
+    },
+    {
+      "question": "Que signifie « hermano » ?",
+      "options": ["Frère", "Sœur", "Père", "Mère"],
+      "reponse": "Frère",
+      "explication": "« Hermano » signifie « frère » en espagnol."
+    },
+    {
+      "question": "Que veut dire « madre » ?",
+      "options": ["Mère", "Père", "Fils", "Fille"],
+      "reponse": "Mère",
+      "explication": "« Madre » signifie « mère » en espagnol."
+    },
+    {
+      "question": "Que signifie « padre » ?",
+      "options": ["Père", "Mère", "Oncle", "Tante"],
+      "reponse": "Père",
+      "explication": "« Padre » signifie « père » en espagnol."
+    },
+    {
+      "question": "Que veut dire « noche » ?",
+      "options": ["Nuit", "Jour", "Matin", "Après-midi"],
+      "reponse": "Nuit",
+      "explication": "« Noche » signifie « nuit » en espagnol."
+    },
+    {
+      "question": "Que signifie « sol » ?",
+      "options": ["Soleil", "Lune", "Étoile", "Nuage"],
+      "reponse": "Soleil",
+      "explication": "« Sol » signifie « soleil » en espagnol."
+    },
+    {
+      "question": "Que veut dire « libro » ?",
+      "options": ["Livre", "Stylo", "Cahier", "Papier"],
+      "reponse": "Livre",
+      "explication": "« Libro » signifie « livre » en espagnol."
+    },
+    {
+      "question": "Que signifie « amigo » ?",
+      "options": ["Ami", "Étranger", "Parent", "Professeur"],
+      "reponse": "Ami",
+      "explication": "« Amigo » signifie « ami » en espagnol."
+    },
+    {
+      "question": "Que veut dire « ventana » ?",
+      "options": ["Fenêtre", "Porte", "Mur", "Toit"],
+      "reponse": "Fenêtre",
+      "explication": "« Ventana » signifie « fenêtre » en espagnol."
+    },
+    {
+      "question": "Que signifie « gato » ?",
+      "options": ["Chat", "Chien", "Oiseau", "Poisson"],
+      "reponse": "Chat",
+      "explication": "« Gato » signifie « chat » en espagnol."
+    },
+    {
+      "question": "Que veut dire « ciudad » ?",
+      "options": ["Ville", "Village", "Campagne", "Maison"],
+      "reponse": "Ville",
+      "explication": "« Ciudad » signifie « ville » en espagnol."
+    },
+    {
+      "question": "Que signifie « campo » ?",
+      "options": ["Campagne", "Ville", "Forêt", "Montagne"],
+      "reponse": "Campagne",
+      "explication": "« Campo » signifie « campagne » en espagnol."
+    }
+  ]
+}

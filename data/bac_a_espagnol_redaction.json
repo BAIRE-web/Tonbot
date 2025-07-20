@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Quel mot est un bon connecteur pour commencer un argument ?",
+      "options": ["Primero", "Sin embargo", "Aunque", "Por eso"],
+      "reponse": "Primero",
+      "explication": "'Primero' est utilisé pour introduire le premier argument dans un texte."
+    },
+    {
+      "question": "Quel mot exprime une conséquence ?",
+      "options": ["Por lo tanto", "A pesar de", "Sin embargo", "Aunque"],
+      "reponse": "Por lo tanto",
+      "explication": "'Por lo tanto' introduit une conclusion ou une conséquence logique."
+    },
+    {
+      "question": "Quelle expression est correcte pour donner un exemple ?",
+      "options": ["Por ejemplo", "Sin embargo", "Aunque", "Por eso"],
+      "reponse": "Por ejemplo",
+      "explication": "'Por ejemplo' sert à introduire un exemple."
+    },
+    {
+      "question": "Quelle phrase est la meilleure pour conclure un texte ?",
+      "options": ["En conclusión", "Primero", "Sin embargo", "Aunque"],
+      "reponse": "En conclusión",
+      "explication": "'En conclusión' est une phrase utilisée pour résumer ou conclure."
+    },
+    {
+      "question": "Quel mot relie deux idées contrastées ?",
+      "options": ["Sin embargo", "Además", "Porque", "Por eso"],
+      "reponse": "Sin embargo",
+      "explication": "'Sin embargo' sert à introduire une opposition ou un contraste."
+    },
+    {
+      "question": "Quelle expression introduit une addition ?",
+      "options": ["Además", "Aunque", "Por lo tanto", "Sin embargo"],
+      "reponse": "Además",
+      "explication": "'Además' ajoute une idée à ce qui a été dit avant."
+    },
+    {
+      "question": "Quel mot signifie 'parce que' ?",
+      "options": ["Porque", "Sin embargo", "Aunque", "Además"],
+      "reponse": "Porque",
+      "explication": "'Porque' exprime la cause ou la raison."
+    },
+    {
+      "question": "Quelle expression est utilisée pour montrer une concession ?",
+      "options": ["Aunque", "Por eso", "Por ejemplo", "Además"],
+      "reponse": "Aunque",
+      "explication": "'Aunque' introduit une idée qui pourrait contredire ce qui est dit."
+    },
+    {
+      "question": "Quel mot est un synonyme de 'en plus' ?",
+      "options": ["Además", "Sin embargo", "Porque", "Por eso"],
+      "reponse": "Además",
+      "explication": "'Además' signifie 'en plus' ou 'de plus'."
+    },
+    {
+      "question": "Quel mot introduit une cause ?",
+      "options": ["Porque", "Aunque", "Por eso", "Sin embargo"],
+      "reponse": "Porque",
+      "explication": "'Porque' explique la raison d’une action ou d’une idée."
+    },
+    {
+      "question": "Quelle expression peut remplacer 'en résumé' ?",
+      "options": ["En resumen", "Por ejemplo", "Sin embargo", "Además"],
+      "reponse": "En resumen",
+      "explication": "'En resumen' sert à synthétiser ou conclure une idée."
+    },
+    {
+      "question": "Quelle phrase est correcte pour exprimer une conséquence ?",
+      "options": ["Por eso", "Aunque", "Sin embargo", "Porque"],
+      "reponse": "Por eso",
+      "explication": "'Por eso' introduit une conséquence ou un résultat."
+    },
+    {
+      "question": "Quel mot signifie 'malgré' ?",
+      "options": ["Aunque", "Por eso", "Además", "Porque"],
+      "reponse": "Aunque",
+      "explication": "'Aunque' exprime une concession, équivalent de 'malgré'."
+    },
+    {
+      "question": "Quel mot introduit une opposition ?",
+      "options": ["Pero", "Y", "Porque", "Entonces"],
+      "reponse": "Pero",
+      "explication": "'Pero' sert à opposer deux idées."
+    },
+    {
+      "question": "Quelle expression est correcte pour organiser les idées ?",
+      "options": ["En primer lugar", "Sin embargo", "Por eso", "Aunque"],
+      "reponse": "En primer lugar",
+      "explication": "'En primer lugar' sert à introduire la première idée ou argument."
+    },
+    {
+      "question": "Quel mot relie deux idées similaires ?",
+      "options": ["Y", "Pero", "Aunque", "Por eso"],
+      "reponse": "Y",
+      "explication": "'Y' relie deux idées ou éléments similaires."
+    },
+    {
+      "question": "Quelle expression est utilisée pour insister ?",
+      "options": ["De hecho", "Aunque", "Por eso", "Porque"],
+      "reponse": "De hecho",
+      "explication": "'De hecho' sert à renforcer ou insister sur une idée."
+    },
+    {
+      "question": "Quel mot signifie 'alors' ou 'donc' ?",
+      "options": ["Entonces", "Aunque", "Pero", "Y"],
+      "reponse": "Entonces",
+      "explication": "'Entonces' exprime une conséquence temporelle ou logique."
+    },
+    {
+      "question": "Quelle phrase est correcte pour introduire une idée contraire ?",
+      "options": ["Sin embargo", "Porque", "Además", "Por eso"],
+      "reponse": "Sin embargo",
+      "explication": "'Sin embargo' sert à introduire une idée opposée ou une concession."
+    },
+    {
+      "question": "Quel mot sert à conclure un texte ?",
+      "options": ["Finalmente", "Porque", "Aunque", "Además"],
+      "reponse": "Finalmente",
+      "explication": "'Finalmente' est utilisé pour terminer ou conclure un texte."
+    },
+    {
+      "question": "Quelle expression est utilisée pour clarifier ou reformuler ?",
+      "options": ["Es decir", "Por ejemplo", "Aunque", "Por eso"],
+      "reponse": "Es decir",
+      "explication": "'Es decir' sert à expliquer ou reformuler une idée."
+    },
+    {
+      "question": "Quel mot introduit un ajout d’idée ?",
+      "options": ["Además", "Pero", "Porque", "Entonces"],
+      "reponse": "Además",
+      "explication": "'Además' ajoute une idée supplémentaire."
+    },
+    {
+      "question": "Quelle expression indique un ordre chronologique ?",
+      "options": ["Luego", "Sin embargo", "Porque", "Pero"],
+      "reponse": "Luego",
+      "explication": "'Luego' est utilisé pour indiquer une action qui suit dans le temps."
+    },
+    {
+      "question": "Quel mot introduit une cause ?",
+      "options": ["Debido a", "Sin embargo", "Por eso", "Además"],
+      "reponse": "Debido a",
+      "explication": "'Debido a' signifie 'à cause de' et introduit une cause."
+    },
+    {
+      "question": "Quel mot signifie 'pour cette raison' ?",
+      "options": ["Por eso", "Aunque", "Porque", "Sin embargo"],
+      "reponse": "Por eso",
+      "explication": "'Por eso' introduit une conséquence ou une justification."
+    },
+    {
+      "question": "Quelle expression peut remplacer 'en outre' ?",
+      "options": ["Además", "Aunque", "Sin embargo", "Por eso"],
+      "reponse": "Además",
+      "explication": "'Además' est un synonyme de 'en outre' ou 'de plus'."
+    },
+    {
+      "question": "Quel mot signifie 'en résumé' ?",
+      "options": ["En resumen", "Por ejemplo", "Aunque", "Sin embargo"],
+      "reponse": "En resumen",
+      "explication": "'En resumen' sert à synthétiser ou conclure une idée."
+    },
+    {
+      "question": "Quelle phrase sert à introduire une opposition ?",
+      "options": ["Pero", "Y", "Porque", "Entonces"],
+      "reponse": "Pero",
+      "explication": "'Pero' est utilisé pour marquer une opposition."
+    },
+    {
+      "question": "Quel mot est utilisé pour insister sur une idée ?",
+      "options": ["De hecho", "Por eso", "Porque", "Aunque"],
+      "reponse": "De hecho",
+      "explication": "'De hecho' sert à insister ou renforcer un propos."
+    }
+  ]
+}

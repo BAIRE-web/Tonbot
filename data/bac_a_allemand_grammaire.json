@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Quel article défini correspond au mot 'Mädchen' (fille) au nominatif ?",
+      "options": ["das", "der", "die", "den"],
+      "reponse": "das",
+      "explication": "'Mädchen' est un nom neutre, donc l'article défini au nominatif est 'das'."
+    },
+    {
+      "question": "Complétez : « Ich gehe ___ Schule. » (choisissez la préposition correcte)",
+      "options": ["zu", "in", "an", "auf"],
+      "reponse": "zur",
+      "explication": "La bonne préposition ici est 'zu der' contractée en 'zur'."
+    },
+    {
+      "question": "Quelle est la terminaison correcte pour un adjectif au nominatif masculin singulier après l’article défini ?",
+      "options": ["-er", "-e", "-es", "-en"],
+      "reponse": "-e",
+      "explication": "Après un article défini, l’adjectif au nominatif masculin singulier prend la terminaison '-e'."
+    },
+    {
+      "question": "Quelle forme pronominale complète la phrase : « Ich freue mich ___ das Buch. »",
+      "options": ["auf", "über", "für", "an"],
+      "reponse": "auf",
+      "explication": "Le verbe 'sich freuen' se construit avec la préposition 'auf' pour exprimer une attente."
+    },
+    {
+      "question": "Choisissez la forme correcte du prétérit du verbe 'haben' pour 'wir' :",
+      "options": ["hatten", "hätten", "haben", "habt"],
+      "reponse": "hatten",
+      "explication": "'Wir hatten' est la forme correcte au prétérit."
+    },
+    {
+      "question": "Quelle est la fonction grammaticale du mot en italique : « Das ist das Buch, *das* ich lese. »",
+      "options": ["Relatif", "Déterminant", "Interrogatif", "Possessif"],
+      "reponse": "Relatif",
+      "explication": "'Das' ici est un pronom relatif qui introduit une subordonnée."
+    },
+    {
+      "question": "Choisissez la bonne forme négative dans cette phrase : « Ich habe ___ Zeit. »",
+      "options": ["kein", "nicht", "keine", "keinen"],
+      "reponse": "keine",
+      "explication": "Comme 'Zeit' est féminin singulier, la négation correcte est 'keine'."
+    },
+    {
+      "question": "Complétez avec le bon pronom personnel réfléchi : « Er erinnert ___ an den Termin. »",
+      "options": ["sich", "mich", "dich", "uns"],
+      "reponse": "sich",
+      "explication": "Le pronom réfléchi pour 'er' est 'sich'."
+    },
+    {
+      "question": "Quel cas suit la préposition 'mit' ?",
+      "options": ["Datif", "Accusatif", "Génitif", "Nominatif"],
+      "reponse": "Datif",
+      "explication": "'Mit' exige toujours le datif."
+    },
+    {
+      "question": "Quelle est la bonne terminaison de l’adjectif dans : « ein ___ Auto » (rouge, neutre, nominatif) ?",
+      "options": ["roter", "rote", "rotes", "rot"],
+      "reponse": "rotes",
+      "explication": "Avec l’article indéfini neutre au nominatif, l’adjectif prend la terminaison '-es'."
+    },
+    {
+      "question": "Choisissez la bonne conjonction pour la phrase subordonnée : « Ich glaube, ___ er kommt. »",
+      "options": ["dass", "weil", "ob", "wenn"],
+      "reponse": "dass",
+      "explication": "'Dass' introduit une subordonnée complétive."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe à la 3e personne du singulier au présent : « Er ___ gern Kaffee. » (trinken)",
+      "options": ["trinkt", "trinke", "trinkst", "trinken"],
+      "reponse": "trinkt",
+      "explication": "La terminaison de la 3e personne singulier au présent est '-t'."
+    },
+    {
+      "question": "Quel pronom interrogatif complète cette question : « ___ kommst du? »",
+      "options": ["Wo", "Wann", "Wie", "Was"],
+      "reponse": "Wo",
+      "explication": "'Wo' signifie 'où' et demande un lieu."
+    },
+    {
+      "question": "Complétez avec la bonne forme du verbe modal : « Ich ___ heute nicht kommen. »",
+      "options": ["kann", "muss", "soll", "will"],
+      "reponse": "kann",
+      "explication": "'Kann' exprime la capacité ou possibilité."
+    },
+    {
+      "question": "Quelle préposition exige l’accusatif ?",
+      "options": ["für", "mit", "aus", "seit"],
+      "reponse": "für",
+      "explication": "'Für' est toujours suivi de l’accusatif."
+    },
+    {
+      "question": "Quelle est la terminaison de l’adjectif au datif pluriel après l’article défini ?",
+      "options": ["-en", "-e", "-em", "-er"],
+      "reponse": "-en",
+      "explication": "Après un article défini au datif pluriel, l’adjectif prend '-en'."
+    },
+    {
+      "question": "Complétez : « Ich habe ___ Buch gelesen. » (article indéfini, accusatif neutre)",
+      "options": ["ein", "eine", "einen", "einem"],
+      "reponse": "ein",
+      "explication": "Le neutre accusatif de l’article indéfini est 'ein'."
+    },
+    {
+      "question": "Quel temps est utilisé pour exprimer une habitude passée :",
+      "options": ["Prétérit", "Présent", "Plus-que-parfait", "Futur"],
+      "reponse": "Prétérit",
+      "explication": "Le prétérit exprime souvent des habitudes dans le passé."
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "options": ["Ich bin gegangen.", "Ich habe gegangen.", "Ich war gegangen.", "Ich habe gegangen."],
+      "reponse": "Ich bin gegangen.",
+      "explication": "Le verbe de mouvement 'gehen' se conjugue au passé avec 'sein'."
+    },
+    {
+      "question": "Quel cas suit la préposition 'wegen' ?",
+      "options": ["Génitif", "Datif", "Accusatif", "Nominatif"],
+      "reponse": "Génitif",
+      "explication": "'Wegen' exige le génitif."
+    },
+    {
+      "question": "Complétez avec la forme correcte du pronom possessif : « Das ist ___ Buch. » (ich)",
+      "options": ["mein", "meine", "meins", "meinem"],
+      "reponse": "mein",
+      "explication": "Pour un nom neutre au nominatif, on utilise 'mein'."
+    },
+    {
+      "question": "Quel auxiliaire est utilisé avec les verbes de mouvement au parfait ?",
+      "options": ["sein", "haben", "werden", "sein/haben selon le verbe"],
+      "reponse": "sein",
+      "explication": "Les verbes de mouvement se conjuguent au parfait avec 'sein'."
+    },
+    {
+      "question": "Quelle forme verbale complète la phrase : « Ich hoffe, dass du ___ kommst. »",
+      "options": ["bald", "belle", "balde", "ball"],
+      "reponse": "bald",
+      "explication": "'Bald' signifie 'bientôt' et est adverbe de temps."
+    },
+    {
+      "question": "Quelle est la terminaison du pronom personnel à la 2e personne du pluriel ?",
+      "options": ["ihr", "du", "Sie", "wir"],
+      "reponse": "ihr",
+      "explication": "'Ihr' est le pronom pour 'vous' au pluriel familier."
+    },
+    {
+      "question": "Choisissez la bonne forme négative dans la phrase : « Ich habe ___ nichts gesagt. »",
+      "options": ["schon", "noch", "nie", "nicht"],
+      "reponse": "noch",
+      "explication": "'Noch nichts' signifie 'encore rien'."
+    },
+    {
+      "question": "Complétez avec la forme correcte de l’adjectif possessif : « ___ Mutter ist nett. » (du)",
+      "options": ["Deine", "Dein", "Deins", "Deinem"],
+      "reponse": "Deine",
+      "explication": "'Mutter' est féminin, nominatif singulier, donc 'deine'."
+    },
+    {
+      "question": "Quelle est la bonne forme du verbe au subjonctif II pour 'sein' ?",
+      "options": ["wäre", "war", "bin", "sei"],
+      "reponse": "wäre",
+      "explication": "Le subjonctif II de 'sein' est 'wäre'."
+    },
+    {
+      "question": "Quel temps est utilisé pour exprimer une action qui se passe actuellement ?",
+      "options": ["Présent", "Passé composé", "Imparfait", "Futur"],
+      "reponse": "Présent",
+      "explication": "Le présent exprime une action en cours."
+    },
+    {
+      "question": "Complétez la phrase : « Er ___ gern Fußball. » (aimer au présent)",
+      "options": ["spielt", "mag", "liebt", "macht"],
+      "reponse": "mag",
+      "explication": "'Mag' est le verbe 'mögen' qui signifie aimer."
+    },
+    {
+      "question": "Choisissez la bonne conjonction pour exprimer la cause :",
+      "options": ["weil", "aber", "dass", "obwohl"],
+      "reponse": "weil",
+      "explication": "'Weil' introduit une cause."
+    },
+    {
+      "question": "Transformez la phrase suivante au passif : « Der Lehrer erklärt den Schülern die Grammatik. » Quel est le sujet au passif ?",
+      "options": ["Die Grammatik", "Der Lehrer", "Die Schüler", "Erklärung"],
+      "reponse": "Die Grammatik",
+      "explication": "Au passif, l'objet direct 'die Grammatik' devient sujet."
+    },
+    {
+      "question": "Choisissez la bonne déclinaison pour l’adjectif dans : « Ich sehe einen ___ Film. » (intéressant, accusatif masculin)",
+      "options": ["interessanter", "interessanten", "interessantes", "interessante"],
+      "reponse": "interessanten",
+      "explication": "Après l’article indéfini au masculin accusatif, l’adjectif prend la terminaison '-en'."
+    },
+    {
+      "question": "Complétez avec le bon pronom relatif au datif : « Der Mann, ___ ich geholfen habe, ist freundlich. »",
+      "options": ["dem", "den", "der", "das"],
+      "reponse": "dem",
+      "explication": "Au datif masculin singulier, le pronom relatif est 'dem'."
+    },
+    {
+      "question": "Identifiez la fonction grammaticale de « schnell » dans la phrase : « Er läuft schnell. »",
+      "options": ["Adverbe", "Adjectif", "Nom", "Pronom"],
+      "reponse": "Adverbe",
+      "explication": "'Schnell' modifie le verbe 'läuft', donc c’est un adverbe."
+    },
+    {
+      "question": "Choisissez la forme correcte au futur I : « Wir ___ morgen ins Kino gehen. »",
+      "options": ["werden", "wird", "werdet", "würden"],
+      "reponse": "werden",
+      "explication": "Au futur I, 'werden' est conjugué au présent selon le sujet."
+    },
+    {
+      "question": "Complétez avec la préposition appropriée : « Er wartet ___ den Bus. »",
+      "options": ["auf", "an", "in", "über"],
+      "reponse": "auf",
+      "explication": "'Warten' se construit avec la préposition 'auf' + accusatif."
+    },
+    {
+      "question": "Complétez avec le pronom personnel sujet correct : « ___ macht die Hausaufgaben? » (die Lehrerin)",
+      "options": ["Sie", "Er", "Es", "Wir"],
+      "reponse": "Sie",
+      "explication": "'Die Lehrerin' est féminin singulier, donc pronom sujet 'Sie'."
+    },
+    {
+      "question": "Quelle est la bonne terminaison de l’adjectif possessif : « ___ Vater ist Arzt. » (du)",
+      "options": ["Dein", "Deine", "Deins", "Deinem"],
+      "reponse": "Dein",
+      "explication": "'Vater' est masculin nominatif singulier, donc 'dein'."
+    },
+    {
+      "question": "Complétez la phrase au prétérit : « Gestern ___ ich nach Hause gegangen. »",
+      "options": ["bin", "war", "habe", "hatte"],
+      "reponse": "bin",
+      "explication": "Le verbe de mouvement 'gehen' se conjugue au parfait avec l’auxiliaire 'sein'."
+    },
+    {
+      "question": "Dans la phrase subordonnée, quelle est la position correcte du verbe ? « Ich weiß, dass er ___ kommt. »",
+      "options": ["kommt", "kommt nicht", "nicht kommt", "nicht"],
+      "reponse": "kommt",
+      "explication": "Dans une subordonnée, le verbe conjugué est placé en fin de phrase."
+    },
+    {
+      "question": "Complétez avec la forme négative correcte : « Ich habe ___ Freunde. »",
+      "options": ["kein", "nicht", "keine", "keinen"],
+      "reponse": "keine",
+      "explication": "'Freunde' est pluriel, accusatif, donc négation 'keine'."
+    },
+    {
+      "question": "Quel est le bon cas après la préposition 'ohne' ?",
+      "options": ["Accusatif", "Datif", "Génitif", "Nominatif"],
+      "reponse": "Accusatif",
+      "explication": "'Ohne' est toujours suivi de l’accusatif."
+    },
+    {
+      "question": "Complétez : « Er hat das Buch ___ Tisch gelegt. » (sur)",
+      "options": ["auf den", "auf dem", "über den", "unter dem"],
+      "reponse": "auf den",
+      "explication": "Mouvement sur la table = accusatif après 'auf'."
+    },
+    {
+      "question": "Quel pronom interrogatif utiliser pour demander la cause ?",
+      "options": ["Warum", "Wo", "Wann", "Wie"],
+      "reponse": "Warum",
+      "explication": "'Warum' signifie 'pourquoi', demande une cause."
+    },
+    {
+      "question": "Choisissez la bonne forme du participe passé du verbe 'sehen' :",
+      "options": ["gesehen", "gesieht", "gesah", "gesieht"],
+      "reponse": "gesehen",
+      "explication": "Le participe passé de 'sehen' est 'gesehen'."
+    },
+    {
+      "question": "Quel est le bon pronom réfléchi dans : « Du musst ___ beeilen. »",
+      "options": ["dich", "mir", "sich", "uns"],
+      "reponse": "dich",
+      "explication": "Pour la 2e personne du singulier, le pronom réfléchi est 'dich'."
+    },
+    {
+      "question": "Complétez la phrase au subjonctif II : « Wenn ich Zeit hätte, ___ ich kommen. »",
+      "options": ["würde", "werde", "wäre", "habe"],
+      "reponse": "würde",
+      "explication": "Le subjonctif II s’exprime souvent avec 'würde' + infinitif."
+    },
+    {
+      "question": "Quelle forme est correcte au génitif masculin singulier ?",
+      "options": ["des Mannes", "dem Mann", "den Mann", "der Mann"],
+      "reponse": "des Mannes",
+      "explication": "Le génitif masculin singulier se forme avec 'des' + '-es' à la fin."
+    }
+  ]
+}

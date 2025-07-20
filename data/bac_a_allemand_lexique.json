@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Que signifie le mot allemand 'Haus' ?",
+      "options": ["Maison", "Voiture", "Jardin", "École"],
+      "reponse": "Maison",
+      "explication": "'Haus' veut dire 'maison' en français."
+    },
+    {
+      "question": "Que signifie le mot 'Freund' en allemand ?",
+      "options": ["Ami", "Fleur", "Livre", "Chien"],
+      "reponse": "Ami",
+      "explication": "'Freund' signifie 'ami' en français."
+    },
+    {
+      "question": "Que veut dire 'Buch' en allemand ?",
+      "options": ["Livre", "Stylo", "Table", "Chaise"],
+      "reponse": "Livre",
+      "explication": "'Buch' veut dire 'livre'."
+    },
+    {
+      "question": "Que signifie le mot 'Wasser' ?",
+      "options": ["Eau", "Feu", "Air", "Terre"],
+      "reponse": "Eau",
+      "explication": "'Wasser' est le mot allemand pour 'eau'."
+    },
+    {
+      "question": "Que veut dire 'Schule' en allemand ?",
+      "options": ["École", "Hôpital", "Parc", "Magasin"],
+      "reponse": "École",
+      "explication": "'Schule' signifie 'école'."
+    },
+    {
+      "question": "Que signifie 'Zeit' ?",
+      "options": ["Temps", "Argent", "Jour", "Nuit"],
+      "reponse": "Temps",
+      "explication": "'Zeit' est le mot allemand pour 'temps'."
+    },
+    {
+      "question": "Que veut dire 'Tag' en allemand ?",
+      "options": ["Jour", "Semaine", "Mois", "Année"],
+      "reponse": "Jour",
+      "explication": "'Tag' signifie 'jour'."
+    },
+    {
+      "question": "Que signifie 'Auto' ?",
+      "options": ["Voiture", "Bateau", "Avion", "Train"],
+      "reponse": "Voiture",
+      "explication": "'Auto' veut dire 'voiture'."
+    },
+    {
+      "question": "Que signifie le mot 'Mädchen' ?",
+      "options": ["Fille", "Garçon", "Femme", "Homme"],
+      "reponse": "Fille",
+      "explication": "'Mädchen' signifie 'fille'."
+    },
+    {
+      "question": "Que veut dire 'Stadt' en allemand ?",
+      "options": ["Ville", "Village", "Campagne", "Quartier"],
+      "reponse": "Ville",
+      "explication": "'Stadt' signifie 'ville'."
+    },
+    {
+      "question": "Que signifie 'essen' ?",
+      "options": ["Manger", "Boire", "Parler", "Courir"],
+      "reponse": "Manger",
+      "explication": "'Essen' veut dire 'manger'."
+    },
+    {
+      "question": "Que veut dire 'trinken' ?",
+      "options": ["Boire", "Manger", "Dormir", "Écrire"],
+      "reponse": "Boire",
+      "explication": "'Trinken' signifie 'boire'."
+    },
+    {
+      "question": "Que signifie le mot 'Hausaufgabe' ?",
+      "options": ["Devoirs", "Examen", "Pause", "Cours"],
+      "reponse": "Devoirs",
+      "explication": "'Hausaufgabe' veut dire 'devoirs'."
+    },
+    {
+      "question": "Que veut dire 'Lehrer' en allemand ?",
+      "options": ["Professeur", "Élève", "Directeur", "Secrétaire"],
+      "reponse": "Professeur",
+      "explication": "'Lehrer' signifie 'professeur'."
+    },
+    {
+      "question": "Que signifie 'lernen' ?",
+      "options": ["Apprendre", "Enseigner", "Écrire", "Lire"],
+      "reponse": "Apprendre",
+      "explication": "'Lernen' veut dire 'apprendre'."
+    },
+    {
+      "question": "Que veut dire 'Schreiben' en allemand ?",
+      "options": ["Écrire", "Lire", "Compter", "Dessiner"],
+      "reponse": "Écrire",
+      "explication": "'Schreiben' signifie 'écrire'."
+    },
+    {
+      "question": "Que signifie le mot 'Freizeit' ?",
+      "options": ["Temps libre", "Travail", "École", "Vacances"],
+      "reponse": "Temps libre",
+      "explication": "'Freizeit' est le mot pour 'temps libre'."
+    },
+    {
+      "question": "Que veut dire 'Familie' ?",
+      "options": ["Famille", "Amis", "Collègues", "Voisins"],
+      "reponse": "Famille",
+      "explication": "'Familie' signifie 'famille'."
+    },
+    {
+      "question": "Que signifie 'Freude' ?",
+      "options": ["Joie", "Tristesse", "Colère", "Peur"],
+      "reponse": "Joie",
+      "explication": "'Freude' veut dire 'joie'."
+    },
+    {
+      "question": "Que veut dire 'Arbeit' en allemand ?",
+      "options": ["Travail", "Repos", "École", "Jeu"],
+      "reponse": "Travail",
+      "explication": "'Arbeit' signifie 'travail'."
+    },
+    {
+      "question": "Que signifie le mot 'Freundschaft' ?",
+      "options": ["Amitié", "Amour", "Famille", "Collaboration"],
+      "reponse": "Amitié",
+      "explication": "'Freundschaft' veut dire 'amitié'."
+    },
+    {
+      "question": "Que veut dire 'Kleider' ?",
+      "options": ["Vêtements", "Chaussures", "Accessoires", "Bijoux"],
+      "reponse": "Vêtements",
+      "explication": "'Kleider' signifie 'vêtements'."
+    },
+    {
+      "question": "Que signifie le mot 'Gesundheit' ?",
+      "options": ["Santé", "Maladie", "Force", "Faiblesse"],
+      "reponse": "Santé",
+      "explication": "'Gesundheit' veut dire 'santé'."
+    },
+    {
+      "question": "Que veut dire 'Wetter' en allemand ?",
+      "options": ["Temps (météo)", "Saison", "Climat", "Température"],
+      "reponse": "Temps (météo)",
+      "explication": "'Wetter' signifie 'temps' au sens météorologique."
+    },
+    {
+      "question": "Que signifie 'Reise' ?",
+      "options": ["Voyage", "Maison", "Voiture", "Ville"],
+      "reponse": "Voyage",
+      "explication": "'Reise' veut dire 'voyage'."
+    },
+    {
+      "question": "Que veut dire 'Stuhl' en allemand ?",
+      "options": ["Chaise", "Table", "Lit", "Canapé"],
+      "reponse": "Chaise",
+      "explication": "'Stuhl' signifie 'chaise'."
+    },
+    {
+      "question": "Que signifie le mot 'Brot' ?",
+      "options": ["Pain", "Fromage", "Viande", "Légumes"],
+      "reponse": "Pain",
+      "explication": "'Brot' veut dire 'pain'."
+    },
+    {
+      "question": "Que veut dire 'Apfel' ?",
+      "options": ["Pomme", "Orange", "Banane", "Raisin"],
+      "reponse": "Pomme",
+      "explication": "'Apfel' signifie 'pomme'."
+    },
+    {
+      "question": "Que signifie le mot 'Musik' ?",
+      "options": ["Musique", "Chanson", "Danse", "Instrument"],
+      "reponse": "Musique",
+      "explication": "'Musik' veut dire 'musique'."
+    },
+    {
+      "question": "Que veut dire 'Licht' ?",
+      "options": ["Lumière", "Ombre", "Chaleur", "Froid"],
+      "reponse": "Lumière",
+      "explication": "'Licht' signifie 'lumière'."
+    }
+  ]
+}
