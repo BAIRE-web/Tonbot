@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Quel était le rôle des chefs de famille dans les royaumes mossi ?",
+      "options": ["Gérer les affaires domestiques et représenter la famille", "Diriger l’armée", "Organiser les marchés", "Ignorer la famille"],
+      "reponse": "Gérer les affaires domestiques et représenter la famille",
+      "explication": "Les chefs de famille avaient une autorité locale importante et assuraient la cohésion familiale."
+    },
+    {
+      "question": "Quelles étaient les principales activités économiques des peuples Lobi ?",
+      "options": ["Agriculture, élevage et artisanat", "Commerce maritime", "Industrie lourde", "Exploitation minière"],
+      "reponse": "Agriculture, élevage et artisanat",
+      "explication": "Les Lobi pratiquaient une économie basée sur ces activités traditionnelles."
+    },
+    {
+      "question": "Quel est le principal matériau utilisé pour les constructions traditionnelles mossi ?",
+      "options": ["Banco (terre battue)", "Pierre", "Brique rouge", "Bois uniquement"],
+      "reponse": "Banco (terre battue)",
+      "explication": "Le banco est un matériau naturel largement utilisé dans l’architecture traditionnelle."
+    },
+    {
+      "question": "Quel est le rôle des danses traditionnelles dans les royaumes ?",
+      "options": ["Célébrer les événements et renforcer les liens sociaux", "Divertissement exclusif", "Pratiques interdites", "Aucune fonction sociale"],
+      "reponse": "Célébrer les événements et renforcer les liens sociaux",
+      "explication": "La danse accompagne les rites, fêtes et rassemblements communautaires."
+    },
+    {
+      "question": "Quelle est la place des contes dans la culture précoloniale ?",
+      "options": ["Éducation morale et transmission des valeurs", "Simple divertissement", "Ignorés", "Réservés aux étrangers"],
+      "reponse": "Éducation morale et transmission des valeurs",
+      "explication": "Les contes transmettent les enseignements et la sagesse des anciens."
+    },
+    {
+      "question": "Quels étaient les moyens de déplacement traditionnels ?",
+      "options": ["À pied, à cheval et en charrette", "Voitures", "Trains", "Bateaux à moteur"],
+      "reponse": "À pied, à cheval et en charrette",
+      "explication": "Ces moyens étaient adaptés aux conditions géographiques et économiques."
+    },
+    {
+      "question": "Quelles étaient les relations entre les différents royaumes traditionnels ?",
+      "options": ["Alliances, guerres et échanges commerciaux", "Aucune interaction", "Union politique totale", "Colonisation interne"],
+      "reponse": "Alliances, guerres et échanges commerciaux",
+      "explication": "Les royaumes avaient des relations complexes mêlant coopération et rivalités."
+    },
+    {
+      "question": "Quel est le rôle des forgerons dans les sociétés traditionnelles ?",
+      "options": ["Fabriquer outils et armes", "Guider les chefs", "Agriculteurs", "Commerçants uniquement"],
+      "reponse": "Fabriquer outils et armes",
+      "explication": "Les forgerons étaient essentiels pour l’économie et la défense."
+    },
+    {
+      "question": "Quelle est la place du sacrifice dans les cultes traditionnels ?",
+      "options": ["Moyen de communication avec les esprits", "Pratique interdite", "Simple spectacle", "Non pratiquée"],
+      "reponse": "Moyen de communication avec les esprits",
+      "explication": "Les sacrifices visaient à apaiser les forces spirituelles."
+    },
+    {
+      "question": "Quel est le rôle des anciens dans les villages traditionnels ?",
+      "options": ["Conseiller et résoudre les conflits", "Diriger la guerre", "Ignorer la communauté", "Exclure les jeunes"],
+      "reponse": "Conseiller et résoudre les conflits",
+      "explication": "Les anciens détiennent la sagesse et l’autorité morale."
+    },
+    {
+      "question": "Quels étaient les matériaux utilisés pour les instruments de musique traditionnels ?",
+      "options": ["Bois, peau d’animaux et calebasse", "Métal uniquement", "Plastique", "Pierre"],
+      "reponse": "Bois, peau d’animaux et calebasse",
+      "explication": "Ces matériaux naturels servaient à fabriquer les instruments de musique."
+    },
+    {
+      "question": "Quelles étaient les pratiques funéraires traditionnelles ?",
+      "options": ["Rites de passage et hommage aux ancêtres", "Enterrement sans cérémonie", "Crémation uniquement", "Aucune pratique spécifique"],
+      "reponse": "Rites de passage et hommage aux ancêtres",
+      "explication": "Les funérailles étaient des moments importants dans la vie communautaire."
+    },
+    {
+      "question": "Quel est le rôle des artisans dans la société traditionnelle ?",
+      "options": ["Produire des biens utiles comme poteries et textiles", "Agriculteurs", "Guerriers", "Paysans uniquement"],
+      "reponse": "Produire des biens utiles comme poteries et textiles",
+      "explication": "Les artisans participaient activement à l’économie locale."
+    },
+    {
+      "question": "Quelle était la place des esprits dans la vie quotidienne ?",
+      "options": ["Présents et influents dans toutes les activités", "Ignorés", "Craints uniquement", "Inexistants"],
+      "reponse": "Présents et influents dans toutes les activités",
+      "explication": "Les esprits guidaient et protégeaient la communauté."
+    },
+    {
+      "question": "Quelles étaient les techniques agricoles traditionnelles ?",
+      "options": ["Jachère et culture sur brûlis", "Agriculture industrielle", "Irrigation moderne", "Agriculture hydroponique"],
+      "reponse": "Jachère et culture sur brûlis",
+      "explication": "Ces techniques permettaient la régénération des sols."
+    },
+    {
+      "question": "Quel est le rôle des rites initiatiques dans les sociétés traditionnelles ?",
+      "options": ["Marquer le passage à l’âge adulte", "Divertissement", "Ignorés", "Pratiques étrangères"],
+      "reponse": "Marquer le passage à l’âge adulte",
+      "explication": "Les rites renforcent l’identité et l’appartenance communautaire."
+    },
+    {
+      "question": "Quels animaux étaient élevés dans les royaumes traditionnels ?",
+      "options": ["Bovins, ovins et caprins", "Éléphants", "Tigres", "Lions uniquement"],
+      "reponse": "Bovins, ovins et caprins",
+      "explication": "Ces animaux étaient essentiels pour l’économie et la société."
+    },
+    {
+      "question": "Quelles étaient les principales céréales cultivées ?",
+      "options": ["Mil, sorgho et maïs", "Blé et riz uniquement", "Pommes de terre", "Quinoa"],
+      "reponse": "Mil, sorgho et maïs",
+      "explication": "Ces céréales constituaient la base de l’alimentation."
+    },
+    {
+      "question": "Quelle est la place des festivals dans les royaumes traditionnels ?",
+      "options": ["Moments de célébration et renforcement social", "Interdits", "Occasions de guerre", "Non pratiqués"],
+      "reponse": "Moments de célébration et renforcement social",
+      "explication": "Les festivals sont essentiels pour la cohésion et la culture."
+    },
+    {
+      "question": "Quel est le lien entre les royaumes mossi et les caravanes commerciales ?",
+      "options": ["Ils échangeaient avec les caravanes transsahariennes", "Aucun lien", "Commerce maritime uniquement", "Commerce local restreint"],
+      "reponse": "Ils échangeaient avec les caravanes transsahariennes",
+      "explication": "Les royaumes étaient intégrés aux réseaux commerciaux du Sahara."
+    },
+    {
+      "question": "Quel est le royaume traditionnel le plus ancien du Burkina Faso ?",
+      "options": ["Le Royaume de Ouagadougou", "Le Royaume Mossi", "Le Royaume de Bobo-Dioulasso", "Le Royaume Lobi"],
+      "reponse": "Le Royaume Mossi",
+      "explication": "Le Royaume Mossi, fondé au 11e siècle, est l’un des plus anciens et influents royaumes du Burkina Faso."
+    },
+    {
+      "question": "Quel peuple est majoritairement associé aux royaumes traditionnels du Burkina Faso ?",
+      "options": ["Les Mossi", "Les Bobo", "Les Lobi", "Les Gourmantché"],
+      "reponse": "Les Mossi",
+      "explication": "Les Mossi sont la majorité ethnique et les fondateurs des principaux royaumes du Burkina Faso."
+    },
+    {
+      "question": "Qui était le fondateur légendaire du royaume de Ouagadougou ?",
+      "options": ["Naba Koom II", "Naba Sigiri", "Naba Zomb Wobgo", "Naba Baongo"],
+      "reponse": "Naba Sigiri",
+      "explication": "Naba Sigiri est considéré comme le fondateur du royaume de Ouagadougou au 15e siècle."
+    },
+    {
+      "question": "Quelle était la capitale traditionnelle du royaume mossi ?",
+      "options": ["Ouagadougou", "Bobo-Dioulasso", "Fada N’Gourma", "Tenkodogo"],
+      "reponse": "Ouagadougou",
+      "explication": "Ouagadougou est la capitale historique et culturelle des Mossi."
+    },
+    {
+      "question": "Quel était le rôle principal du 'Naba' dans les royaumes mossi ?",
+      "options": ["Chef suprême et roi", "Chef religieux", "Chef militaire uniquement", "Chef des artisans"],
+      "reponse": "Chef suprême et roi",
+      "explication": "Le Naba était à la fois le roi et le chef politique du royaume."
+    },
+    {
+      "question": "Comment étaient organisés les royaumes mossi ?",
+      "options": ["En chefferies hiérarchisées sous l’autorité du Naba", "En clans indépendants", "Sans organisation politique", "En républiques démocratiques"],
+      "reponse": "En chefferies hiérarchisées sous l’autorité du Naba",
+      "explication": "Les royaumes étaient structurés autour d’un pouvoir centralisé avec des chefs locaux."
+    },
+    {
+      "question": "Quelle fonction avait le « tondaba » dans la société mossi ?",
+      "options": ["Chef d’une province ou région", "Chef religieux", "Guerrier", "Artisan"],
+      "reponse": "Chef d’une province ou région",
+      "explication": "Le tondaba administrait une province sous l’autorité du Naba."
+    },
+    {
+      "question": "Quel rôle jouaient les guerriers dans les royaumes mossi ?",
+      "options": ["Protection du royaume et expansion territoriale", "Agriculture", "Artisanat", "Commerce uniquement"],
+      "reponse": "Protection du royaume et expansion territoriale",
+      "explication": "Les guerriers assuraient la défense et la conquête des territoires."
+    },
+    {
+      "question": "Quel est l’instrument de communication traditionnel des royaumes mossi ?",
+      "options": ["Le tambour", "La trompette", "Le xylophone", "Le balafon"],
+      "reponse": "Le tambour",
+      "explication": "Le tambour servait à transmettre des messages à distance dans la société mossi."
+    },
+    {
+      "question": "Quelle était la principale religion pratiquée dans les royaumes mossi avant la colonisation ?",
+      "options": ["Animisme et cultes traditionnels", "Islam", "Christianisme", "Bouddhisme"],
+      "reponse": "Animisme et cultes traditionnels",
+      "explication": "Les croyances animistes et les cultes des ancêtres étaient prédominants."
+    },
+    {
+      "question": "Quel est le rôle des griots dans la société traditionnelle burkinabè ?",
+      "options": ["Conteurs, historiens et gardiens de la mémoire orale", "Guerriers", "Agriculteurs", "Artisans"],
+      "reponse": "Conteurs, historiens et gardiens de la mémoire orale",
+      "explication": "Les griots transmettaient l’histoire et les traditions oralement."
+    },
+    {
+      "question": "Quelle est la langue principale des Mossi ?",
+      "options": ["Le mooré", "Le dioula", "Le français", "Le gourmanchéma"],
+      "reponse": "Le mooré",
+      "explication": "Le mooré est la langue majoritaire des Mossi."
+    },
+    {
+      "question": "Quelle était l’économie principale des royaumes mossi ?",
+      "options": ["Agriculture et élevage", "Industrie", "Commerce maritime", "Mines d’or uniquement"],
+      "reponse": "Agriculture et élevage",
+      "explication": "Les Mossi pratiquaient l’agriculture céréalière et l’élevage."
+    },
+    {
+      "question": "Quel produit était très important dans le commerce traditionnel mossi ?",
+      "options": ["Le sel", "Le cacao", "Le café", "Le coton"],
+      "reponse": "Le sel",
+      "explication": "Le sel était une marchandise précieuse échangée dans la région."
+    },
+    {
+      "question": "Quelle est la fonction du Yam naaba dans le royaume mossi ?",
+      "options": ["Chef de la chasse", "Chef religieux", "Chef militaire", "Chef des artisans"],
+      "reponse": "Chef de la chasse",
+      "explication": "Le Yam naaba était responsable des activités de chasse et de la protection."
+    },
+    {
+      "question": "Comment les royaumes mossi géraient-ils les conflits internes ?",
+      "options": ["Par la médiation du Naba et des chefs traditionnels", "Par la guerre civile systématique", "Par l’exil", "Sans aucune organisation"],
+      "reponse": "Par la médiation du Naba et des chefs traditionnels",
+      "explication": "Le roi et ses chefs jouaient un rôle dans le règlement des conflits."
+    },
+    {
+      "question": "Quel est le rôle des femmes dans les royaumes mossi ?",
+      "options": ["Participer aux activités agricoles et cérémonies traditionnelles", "Être exclues totalement", "Gouverner les royaumes", "Ne pas participer à la société"],
+      "reponse": "Participer aux activités agricoles et cérémonies traditionnelles",
+      "explication": "Les femmes avaient un rôle important dans la vie économique et sociale."
+    },
+    {
+      "question": "Quel est l’importance des ancêtres dans la culture traditionnelle mossi ?",
+      "options": ["Ils sont vénérés et consultés dans les rituels", "Ils sont oubliés", "Ils sont considérés comme des ennemis", "Ils n’ont aucun rôle"],
+      "reponse": "Ils sont vénérés et consultés dans les rituels",
+      "explication": "Les ancêtres sont essentiels dans la spiritualité et la cohésion sociale."
+    },
+    {
+      "question": "Quelle était la fonction des fétiches dans les royaumes mossi ?",
+      "options": ["Objets de protection et de pouvoir spirituel", "Objets décoratifs", "Armes", "Instruments de musique"],
+      "reponse": "Objets de protection et de pouvoir spirituel",
+      "explication": "Les fétiches étaient utilisés dans les pratiques religieuses pour protéger le royaume."
+    },
+    {
+      "question": "Quelle forme de gouvernement caractérise les royaumes mossi ?",
+      "options": ["Monarchie absolue", "République démocratique", "Dictature militaire", "Théocratie"],
+      "reponse": "Monarchie absolue",
+      "explication": "Le Naba avait un pouvoir centralisé et absolu sur son royaume."
+    },
+    {
+      "question": "Quels étaient les moyens de défense des royaumes mossi ?",
+      "options": ["Fortifications et armée organisée", "Aucune défense", "Milices tribales", "Diplomatie uniquement"],
+      "reponse": "Fortifications et armée organisée",
+      "explication": "Les royaumes possédaient des murailles et une armée pour protéger leurs territoires."
+    },
+    {
+      "question": "Quelle est la place des marchés dans les royaumes traditionnels ?",
+      "options": ["Centres d’échanges commerciaux et sociaux", "Interdits", "Réservés aux étrangers", "Simple loisir"],
+      "reponse": "Centres d’échanges commerciaux et sociaux",
+      "explication": "Les marchés étaient essentiels pour le commerce et la vie sociale."
+    },
+    {
+      "question": "Quels étaient les objets échangés dans les marchés traditionnels ?",
+      "options": ["Sel, tissu, bétail, outils", "Technologie électronique", "Produits manufacturés européens uniquement", "Or et argent uniquement"],
+      "reponse": "Sel, tissu, bétail, outils",
+      "explication": "Ces produits étaient couramment échangés dans les marchés locaux."
+    },
+    {
+      "question": "Quel rôle jouait la musique dans les royaumes mossi ?",
+      "options": ["Rituels, célébrations et transmission orale", "Divertissement uniquement", "Pas de musique", "Musique importée seulement"],
+      "reponse": "Rituels, célébrations et transmission orale",
+      "explication": "La musique accompagnait les événements religieux et sociaux."
+    },
+    {
+      "question": "Quel est le lien entre les royaumes mossi et le commerce transsaharien ?",
+      "options": ["Participation active au commerce de l’or et du sel", "Aucun lien", "Commerce uniquement local", "Commerce maritime"],
+      "reponse": "Participation active au commerce de l’or et du sel",
+      "explication": "Les royaumes mossi étaient connectés aux routes commerciales du Sahara."
+    },
+    {
+      "question": "Quelle est la fonction du 'Gando' dans la société mossi ?",
+      "options": ["Sorcier ou devin", "Chef militaire", "Artisan", "Guerrier"],
+      "reponse": "Sorcier ou devin",
+      "explication": "Le Gando était un conseiller spirituel important."
+    },
+    {
+      "question": "Quels sont les symboles du pouvoir royal mossi ?",
+      "options": ["Couronne, sceptre et costume royal", "Armes à feu", "Drapeau national", "Aucun symbole"],
+      "reponse": "Couronne, sceptre et costume royal",
+      "explication": "Ces objets symbolisent l’autorité et la légitimité du Naba."
+    },
+    {
+      "question": "Quel fut l’impact de la colonisation sur les royaumes traditionnels ?",
+      "options": ["Affaiblissement mais maintien partiel du pouvoir traditionnel", "Disparition totale", "Renforcement", "Aucune influence"],
+      "reponse": "Affaiblissement mais maintien partiel du pouvoir traditionnel",
+      "explication": "Les colons ont souvent réduit le pouvoir des chefs tout en les utilisant comme intermédiaires."
+    },
+    {
+      "question": "Quelle est l’importance de la tradition orale dans l’histoire précoloniale ?",
+      "options": ["Transmettre l’histoire et les coutumes sans écriture", "Ignorée", "Écrite systématiquement", "Remplacée par les livres"],
+      "reponse": "Transmettre l’histoire et les coutumes sans écriture",
+      "explication": "La tradition orale est la principale source d’histoire avant l’arrivée des colonisateurs."
+    }
+  ]
+}

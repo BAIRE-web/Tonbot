@@ -1,0 +1,358 @@
+{
+  "qcm": [
+    {
+      "question": "Le vent soufflait fort ce jour-là, ce qui fit tomber plusieurs branches d’arbres, mais personne ne fut blessé. Quelle idée principale doit être conservée dans la contraction ?",
+      "options": ["Il y avait un vent fort.", "Les branches sont tombées.", "Personne ne fut blessé.", "Le vent soufflait doucement."],
+      "reponse": "Il y avait un vent fort.",
+      "explication": "L'idée centrale est la présence d'un vent fort, cause des événements décrits."
+    },
+    {
+      "question": "La révolution industrielle a transformé la société en introduisant de nouvelles machines qui ont augmenté la production. Quel est le point essentiel à garder dans la contraction ?",
+      "options": ["Les machines nouvelles.", "La transformation de la société.", "La production a baissé.", "Les ouvriers sont partis."],
+      "reponse": "La transformation de la société.",
+      "explication": "La contraction doit refléter l'impact global sur la société."
+    },
+    {
+      "question": "La biodiversité, qui désigne la variété des espèces vivantes, est essentielle à l’équilibre des écosystèmes. Quelle phrase est la meilleure contraction ?",
+      "options": ["La biodiversité est essentielle à l’équilibre.", "La variété des espèces est grande.", "Les écosystèmes sont variés.", "La biodiversité désigne les espèces."],
+      "reponse": "La biodiversité est essentielle à l’équilibre.",
+      "explication": "Phrase simple qui conserve le sens principal."
+    },
+    {
+      "question": "Il a fait très froid hier soir, ce qui a surpris tout le monde. Que faut-il garder dans une contraction ?",
+      "options": ["L'idée du froid.", "L'idée de la surprise.", "Supprimer toute la phrase.", "Garder seulement 'hier soir'."],
+      "reponse": "L'idée du froid.",
+      "explication": "L'idée principale à retenir est le froid, car c'est le fait important."
+    },
+    {
+      "question": "L’auteur explique en détail les causes du changement climatique. Quelle formulation est la meilleure contraction ?",
+      "options": ["L’auteur explique les causes du changement climatique.", "L’auteur parle de la pluie.", "Le changement climatique est expliqué.", "Les causes sont détaillées."],
+      "reponse": "L’auteur explique les causes du changement climatique.",
+      "explication": "Phrase simple qui garde le sens complet."
+    },
+    {
+      "question": "Le rapport, daté du 15 mars 2023, présente des conclusions importantes. Que peut-on supprimer dans la contraction ?",
+      "options": ["La date.", "Le rapport.", "Les conclusions.", "Rien."],
+      "reponse": "La date.",
+      "explication": "Les détails comme la date peuvent être omis pour alléger le texte."
+    },
+    {
+      "question": "Il est indéniable que la pollution atmosphérique affecte gravement la santé humaine. Comment simplifier cette phrase ?",
+      "options": ["La pollution atmosphérique nuit à la santé.", "La santé est parfaite.", "La pollution est belle.", "La pollution est indéniable."],
+      "reponse": "La pollution atmosphérique nuit à la santé.",
+      "explication": "Phrase simple qui conserve le sens principal."
+    },
+    {
+      "question": "Les enfants aiment jouer au parc, courir, sauter et s’amuser. Quelle phrase est la meilleure contraction ?",
+      "options": ["Les enfants jouent et s’amusent.", "Les enfants jouent au parc.", "Les enfants courent au parc.", "Les enfants aiment le parc et les jeux."],
+      "reponse": "Les enfants jouent et s’amusent.",
+      "explication": "Concision tout en conservant l’idée principale."
+    },
+    {
+      "question": "Il fait chaud, très chaud aujourd’hui. Que faire de cette répétition dans une contraction ?",
+      "options": ["Supprimer 'très chaud'.", "Garder toute la phrase.", "Ajouter un autre adjectif.", "Transformer en question."],
+      "reponse": "Supprimer 'très chaud'.",
+      "explication": "Éviter les répétitions inutiles pour alléger le texte."
+    },
+    {
+      "question": "Dans une contraction, quelle est la longueur idéale par rapport au texte original ?",
+      "options": ["Environ un tiers.", "La moitié.", "Le texte complet.", "Un quart."],
+      "reponse": "Environ un tiers.",
+      "explication": "La contraction réduit significativement le texte tout en gardant son sens."
+    },
+    {
+      "question": "Dans une contraction de texte, que doit-on absolument conserver ?",
+      "options": ["Les idées principales et le sens du texte", "Les détails et exemples", "Les répétitions", "Les anecdotes"],
+      "reponse": "Les idées principales et le sens du texte",
+      "explication": "La contraction doit refléter fidèlement le contenu essentiel du texte original."
+    },
+    {
+      "question": "Peut-on supprimer des exemples dans la contraction ?",
+      "options": ["Oui, si ce ne sont pas des exemples essentiels", "Non, tous les exemples doivent rester", "Seulement les exemples en début de texte", "Seulement les exemples en fin de texte"],
+      "reponse": "Oui, si ce ne sont pas des exemples essentiels",
+      "explication": "On conserve uniquement les exemples qui illustrent clairement une idée importante."
+    },
+    {
+      "question": "Faut-il garder les citations exactes dans la contraction ?",
+      "options": ["Pas forcément, on peut les reformuler", "Oui, toujours", "Jamais", "Seulement dans l’introduction"],
+      "reponse": "Pas forcément, on peut les reformuler",
+      "explication": "La contraction privilégie la synthèse, donc paraphraser est souvent préférable."
+    },
+    {
+      "question": "Peut-on changer l’ordre des idées dans une contraction ?",
+      "options": ["Non, il faut respecter l’ordre original", "Oui, librement", "Seulement si c’est logique", "Seulement dans la conclusion"],
+      "reponse": "Non, il faut respecter l’ordre original",
+      "explication": "Respecter l’ordre garantit la cohérence du texte condensé."
+    },
+    {
+      "question": "Que peut-on supprimer pour condenser un texte ?",
+      "options": ["Les répétitions, détails secondaires, exemples non essentiels", "Les idées principales", "Les connecteurs logiques", "Les noms propres"],
+      "reponse": "Les répétitions, détails secondaires, exemples non essentiels",
+      "explication": "Cela permet d’alléger le texte sans perdre son sens."
+    },
+    {
+      "question": "Peut-on utiliser des synonymes dans la contraction ?",
+      "options": ["Oui, pour éviter les répétitions et alléger", "Non, il faut garder les mots exacts", "Seulement pour les adjectifs", "Seulement dans la conclusion"],
+      "reponse": "Oui, pour éviter les répétitions et alléger",
+      "explication": "Les synonymes aident à condenser tout en gardant le sens."
+    },
+    {
+      "question": "Faut-il respecter la ponctuation originale ?",
+      "options": ["Non, on peut adapter pour plus de clarté", "Oui, toujours", "Seulement dans les citations", "Seulement dans l’introduction"],
+      "reponse": "Non, on peut adapter pour plus de clarté",
+      "explication": "La ponctuation peut être modifiée pour faciliter la lecture."
+    },
+    {
+      "question": "Que doit être le style dans une contraction ?",
+      "options": ["Claire, concise et neutre", "Familier et expressif", "Poétique", "Très technique"],
+      "reponse": "Claire, concise et neutre",
+      "explication": "Le style doit rester simple et objectif pour bien transmettre les idées."
+    },
+    {
+      "question": "Peut-on ajouter des opinions personnelles dans la contraction ?",
+      "options": ["Non, la contraction doit rester fidèle au texte", "Oui, pour enrichir le contenu", "Oui, dans la conclusion", "Seulement si c’est demandé"],
+      "reponse": "Non, la contraction doit rester fidèle au texte",
+      "explication": "On ne doit pas déformer ou interpréter le texte original."
+    },
+    {
+      "question": "La contraction doit-elle être rédigée à la première personne ?",
+      "options": ["Non, elle doit rester à la troisième personne", "Oui, toujours", "Parfois", "Seulement dans l’introduction"],
+      "reponse": "Non, elle doit rester à la troisième personne",
+      "explication": "Le texte condensé doit rester impersonnel et objectif."
+    },
+    {
+      "question": "Quelle est la longueur idéale d’une contraction par rapport au texte original ?",
+      "options": ["Environ un tiers", "La moitié", "Le texte original", "Un quart"],
+      "reponse": "Environ un tiers",
+      "explication": "La contraction réduit significativement le texte tout en gardant son sens."
+    },
+    {
+      "question": "Que doit contenir la phrase finale d’une contraction ?",
+      "options": ["Une synthèse claire des idées principales", "Une nouvelle idée", "Une citation", "Une question"],
+      "reponse": "Une synthèse claire des idées principales",
+      "explication": "La fin doit conclure proprement le texte condensé."
+    },
+    {
+      "question": "Que faut-il faire avant de commencer la contraction ?",
+      "options": ["Lire attentivement le texte plusieurs fois", "Commencer à écrire tout de suite", "Chercher des synonymes", "Faire un résumé oral"],
+      "reponse": "Lire attentivement le texte plusieurs fois",
+      "explication": "Comprendre parfaitement le texte est crucial pour bien condenser."
+    },
+    {
+      "question": "Faut-il conserver tous les connecteurs logiques ?",
+      "options": ["Oui, ils assurent la cohérence du texte", "Non, on peut tous les supprimer", "Seulement certains", "Seulement en début de texte"],
+      "reponse": "Oui, ils assurent la cohérence du texte",
+      "explication": "Les connecteurs facilitent la compréhension et la fluidité."
+    },
+    {
+      "question": "Dans une contraction, comment doit-on traiter les phrases longues ?",
+      "options": ["Les simplifier sans déformer le sens", "Les supprimer", "Les laisser telles quelles", "Les transformer en questions"],
+      "reponse": "Les simplifier sans déformer le sens",
+      "explication": "La simplification aide à la clarté et la concision."
+    },
+    {
+      "question": "Peut-on inventer des phrases dans une contraction ?",
+      "options": ["Non, il faut rester fidèle au texte", "Oui, pour raccourcir", "Oui, pour mieux expliquer", "Parfois"],
+      "reponse": "Non, il faut rester fidèle au texte",
+      "explication": "La contraction ne doit pas déformer le message original."
+    },
+    {
+      "question": "Quel temps verbal privilégier dans une contraction ?",
+      "options": ["Présent de l’indicatif", "Passé simple", "Futur simple", "Conditionnel"],
+      "reponse": "Présent de l’indicatif",
+      "explication": "Le présent donne un ton universel et dynamique au texte."
+    },
+    {
+      "question": "Doit-on relire sa contraction avant de la rendre ?",
+      "options": ["Oui, pour vérifier la fidélité et corriger les erreurs", "Non, ce n’est pas nécessaire", "Seulement si on a le temps", "Seulement après la correction"],
+      "reponse": "Oui, pour vérifier la fidélité et corriger les erreurs",
+      "explication": "La relecture garantit la qualité et la rigueur du travail."
+    },
+    {
+      "question": "Le travail final de la contraction doit-il :",
+      "options": ["Être clair, concis, fidèle au texte, et cohérent", "Être très long", "Contenir beaucoup d’opinions", "Être un simple résumé sans structure"],
+      "reponse": "Être clair, concis, fidèle au texte, et cohérent",
+      "explication": "Ce sont les critères essentiels d’une bonne contraction."
+    },
+    {
+      "question": "Faut-il indiquer dans la contraction les passages supprimés ?",
+      "options": ["Non, la contraction est un texte continu", "Oui, avec des points de suspension", "Oui, avec des crochets", "Seulement pour les citations"],
+      "reponse": "Non, la contraction est un texte continu",
+      "explication": "La contraction doit être un texte fluide et synthétique."
+    },
+    {
+      "question": "Quel est l’objectif principal d’une contraction de texte ?",
+      "options": ["Résumer le texte en conservant l’essentiel", "Donner son opinion", "Copier le texte", "Modifier le sens du texte"],
+      "reponse": "Résumer le texte en conservant l’essentiel",
+      "explication": "La contraction doit garder les idées principales en étant concise."
+    },
+    {
+      "question": "Que faut-il éviter dans une contraction de texte ?",
+      "options": ["Les détails superflus et les exemples", "Les idées principales", "Les connecteurs logiques", "La syntaxe correcte"],
+      "reponse": "Les détails superflus et les exemples",
+      "explication": "On supprime ce qui n’est pas indispensable à la compréhension."
+    },
+    {
+      "question": "Doit-on respecter l’ordre des idées dans la contraction ?",
+      "options": ["Oui, pour garder la cohérence du texte", "Non, on peut tout changer", "Seulement parfois", "On doit inverser les idées"],
+      "reponse": "Oui, pour garder la cohérence du texte",
+      "explication": "L’ordre des idées est important pour le sens global."
+    },
+    {
+      "question": "Peut-on utiliser des synonymes dans la contraction ?",
+      "options": ["Oui, pour éviter les répétitions", "Non, il faut toujours garder les mots exacts", "Seulement dans l’introduction", "Jamais"],
+      "reponse": "Oui, pour éviter les répétitions",
+      "explication": "Les synonymes permettent de condenser sans perdre le sens."
+    },
+    {
+      "question": "Quelle longueur doit avoir une contraction de texte pour un BAC ?",
+      "options": ["Environ un tiers du texte original", "Le même nombre de mots", "La moitié du texte", "Un quart du texte"],
+      "reponse": "Environ un tiers du texte original",
+      "explication": "Il faut réduire significativement sans perdre le sens."
+    },
+    {
+      "question": "Que faut-il faire avec les phrases complexes ?",
+      "options": ["Les simplifier sans déformer le sens", "Les supprimer", "Les copier telles quelles", "Les transformer en questions"],
+      "reponse": "Les simplifier sans déformer le sens",
+      "explication": "On clarifie pour condenser tout en respectant le message."
+    },
+    {
+      "question": "Quel temps verbal privilégier dans la contraction ?",
+      "options": ["Le présent de l’indicatif", "Le passé simple", "Le futur antérieur", "Le conditionnel passé"],
+      "reponse": "Le présent de l’indicatif",
+      "explication": "Le présent rend la lecture plus dynamique et générale."
+    },
+    {
+      "question": "Faut-il citer des exemples dans la contraction ?",
+      "options": ["Non, sauf s’ils sont essentiels", "Oui, toujours", "Jamais", "Seulement dans la conclusion"],
+      "reponse": "Non, sauf s’ils sont essentiels",
+      "explication": "On ne garde que les exemples indispensables à la compréhension."
+    },
+    {
+      "question": "Qu’est-ce qu’un connecteur logique ?",
+      "options": ["Un mot qui lie les idées", "Un synonyme", "Un adjectif", "Un verbe"],
+      "reponse": "Un mot qui lie les idées",
+      "explication": "Les connecteurs assurent la cohérence du texte."
+    },
+    {
+      "question": "Faut-il respecter la ponctuation originale ?",
+      "options": ["Non, on adapte pour la clarté", "Oui, toujours", "Seulement dans l’introduction", "Jamais"],
+      "reponse": "Non, on adapte pour la clarté",
+      "explication": "La ponctuation peut être ajustée pour mieux structurer la contraction."
+    },
+    {
+      "question": "Comment vérifier que la contraction est réussie ?",
+      "options": ["En comparant avec le texte original pour s’assurer du sens", "En comptant les mots", "En ajoutant des opinions", "En changeant l’ordre des idées"],
+      "reponse": "En comparant avec le texte original pour s’assurer du sens",
+      "explication": "La contraction doit rester fidèle au texte source."
+    },
+    {
+      "question": "Que faire avec les répétitions dans le texte original ?",
+      "options": ["Les éliminer dans la contraction", "Les conserver", "Les remplacer par des synonymes", "Les mettre en italique"],
+      "reponse": "Les éliminer dans la contraction",
+      "explication": "La contraction doit être concise et éviter les répétitions inutiles."
+    },
+    {
+      "question": "Peut-on changer le point de vue dans la contraction ?",
+      "options": ["Non, il faut respecter le point de vue original", "Oui, si cela améliore le texte", "Oui, toujours", "Parfois"],
+      "reponse": "Non, il faut respecter le point de vue original",
+      "explication": "Changer le point de vue dénature le texte source."
+    },
+    {
+      "question": "Quel est le rôle des titres et sous-titres dans une contraction ?",
+      "options": ["Ils sont généralement supprimés", "Ils doivent être conservés", "Ils doivent être développés", "Ils doivent être remplacés"],
+      "reponse": "Ils sont généralement supprimés",
+      "explication": "Les titres sont souvent retirés pour fluidifier la lecture."
+    },
+    {
+      "question": "Comment traiter les citations dans une contraction ?",
+      "options": ["Elles peuvent être reformulées ou supprimées", "Elles doivent être conservées telles quelles", "Elles doivent être mises en italique", "Elles sont interdites"],
+      "reponse": "Elles peuvent être reformulées ou supprimées",
+      "explication": "La contraction vise à synthétiser, donc on peut paraphraser."
+    },
+    {
+      "question": "Faut-il utiliser la voix passive ou active dans la contraction ?",
+      "options": ["Préférer la voix active", "Toujours la voix passive", "Alterner sans raison", "Utiliser la voix passive uniquement dans l’intro"],
+      "reponse": "Préférer la voix active",
+      "explication": "La voix active est plus claire et directe."
+    },
+    {
+      "question": "Comment gérer les adjectifs dans une contraction ?",
+      "options": ["Supprimer ceux qui ne sont pas essentiels", "Conserver tous les adjectifs", "Remplacer par des adverbes", "Transformer en noms"],
+      "reponse": "Supprimer ceux qui ne sont pas essentiels",
+      "explication": "On garde uniquement les adjectifs qui participent au sens."
+    },
+    {
+      "question": "Peut-on inventer des phrases dans une contraction ?",
+      "options": ["Non, il faut rester fidèle au texte", "Oui, librement", "Oui, pour raccourcir", "Parfois"],
+      "reponse": "Non, il faut rester fidèle au texte",
+      "explication": "La contraction ne doit pas déformer le contenu original."
+    },
+    {
+      "question": "Que faut-il faire avant de commencer la contraction ?",
+      "options": ["Lire attentivement le texte plusieurs fois", "Commencer à écrire directement", "Chercher des synonymes", "Faire un résumé oral"],
+      "reponse": "Lire attentivement le texte plusieurs fois",
+      "explication": "Bien comprendre le texte est la clé d’une bonne contraction."
+    },
+    {
+      "question": "Quel type de vocabulaire privilégier ?",
+      "options": ["Un vocabulaire simple et clair", "Un vocabulaire très technique", "Un vocabulaire familier", "Un vocabulaire poétique"],
+      "reponse": "Un vocabulaire simple et clair",
+      "explication": "La clarté facilite la compréhension et la concision."
+    },
+    {
+      "question": "Que faire si le texte contient des exemples nombreux ?",
+      "options": ["Ne garder que les exemples essentiels", "Conserver tous les exemples", "Remplacer par des anecdotes", "Ignorer les exemples"],
+      "reponse": "Ne garder que les exemples essentiels",
+      "explication": "On allège en conservant seulement ce qui est nécessaire."
+    },
+    {
+      "question": "Peut-on modifier la ponctuation originale ?",
+      "options": ["Oui, pour mieux structurer la contraction", "Non, jamais", "Seulement dans les dialogues", "Seulement dans l’introduction"],
+      "reponse": "Oui, pour mieux structurer la contraction",
+      "explication": "Adapter la ponctuation aide à la clarté et à la fluidité."
+    },
+    {
+      "question": "Doit-on garder les connecteurs logiques ?",
+      "options": ["Oui, pour maintenir la cohérence", "Non, ils sont inutiles", "Seulement certains", "Seulement à la fin"],
+      "reponse": "Oui, pour maintenir la cohérence",
+      "explication": "Les connecteurs assurent le lien entre les idées."
+    },
+    {
+      "question": "Faut-il respecter le style de l’auteur ?",
+      "options": ["Oui, dans la mesure du possible", "Non, on peut changer le style", "Seulement dans l’introduction", "Jamais"],
+      "reponse": "Oui, dans la mesure du possible",
+      "explication": "Respecter le style aide à garder l’esprit du texte."
+    },
+    {
+      "question": "Quel est le rôle de la phrase finale dans une contraction ?",
+      "options": ["Clore la synthèse en rappelant l’idée principale", "Introduire une nouvelle idée", "Poser une question", "Donner un exemple"],
+      "reponse": "Clore la synthèse en rappelant l’idée principale",
+      "explication": "La dernière phrase doit résumer clairement le texte."
+    },
+    {
+      "question": "Quelle est la différence entre résumé et contraction ?",
+      "options": ["La contraction est plus courte et synthétique", "Le résumé est plus court", "Ils sont identiques", "Le résumé contient plus d’opinion"],
+      "reponse": "La contraction est plus courte et synthétique",
+      "explication": "La contraction va à l’essentiel, sans détails inutiles."
+    },
+    {
+      "question": "Peut-on utiliser des abréviations dans une contraction ?",
+      "options": ["Non, il faut écrire en toutes lettres", "Oui, toujours", "Seulement pour les noms propres", "Seulement dans les notes"],
+      "reponse": "Non, il faut écrire en toutes lettres",
+      "explication": "Les abréviations nuisent à la clarté et à la formalité."
+    },
+    {
+      "question": "Faut-il relire sa contraction ?",
+      "options": ["Oui, pour corriger erreurs et vérifier fidélité", "Non, ce n’est pas nécessaire", "Seulement si le temps le permet", "Seulement après la correction"],
+      "reponse": "Oui, pour corriger erreurs et vérifier fidélité",
+      "explication": "La relecture garantit un travail de qualité."
+    },
+    {
+      "question": "Quel est le temps le plus utilisé dans la contraction ?",
+      "options": ["Présent de l’indicatif", "Passé simple", "Futur simple", "Imparfait"],
+      "reponse": "Présent de l’indicatif",
+      "explication": "Il rend le texte vivant et universel."
+    }
+  ]
+}

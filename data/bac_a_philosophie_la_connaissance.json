@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que le savoir au sens philosophique ?",
+      "options": ["Une opinion justifiée", "Une croyance partagée", "Une connaissance fondée sur des preuves", "Une idée populaire"],
+      "reponse": "Une connaissance fondée sur des preuves",
+      "explication": "Le savoir se distingue de l’opinion par son fondement rationnel, logique et vérifiable."
+    },
+    {
+      "question": "Quelle différence principale oppose l’opinion au savoir ?",
+      "options": ["L’opinion est incertaine, le savoir est démontré", "Le savoir est personnel, l’opinion est universelle", "L’opinion est scientifique, le savoir est instinctif", "L’opinion se base sur des chiffres"],
+      "reponse": "L’opinion est incertaine, le savoir est démontré",
+      "explication": "L’opinion est souvent fondée sur des impressions ; le savoir repose sur des preuves rationnelles ou empiriques."
+    },
+    {
+      "question": "Qui a dit : « L’opinion est la forme la plus basse de la connaissance » ?",
+      "options": ["Platon", "Descartes", "Nietzsche", "Sartre"],
+      "reponse": "Platon",
+      "explication": "Platon distingue l’opinion (doxa) du savoir vrai (épistémè), qui s’appuie sur la raison."
+    },
+    {
+      "question": "Quelle discipline incarne le mieux le savoir selon Aristote ?",
+      "options": ["La science", "L’art", "La politique", "La poésie"],
+      "reponse": "La science",
+      "explication": "Pour Aristote, la science recherche des vérités universelles, contrairement à l’opinion variable."
+    },
+    {
+      "question": "Quel philosophe associe savoir et pouvoir ?",
+      "options": ["Francis Bacon", "Kant", "Hume", "Marx"],
+      "reponse": "Francis Bacon",
+      "explication": "Selon Bacon, « le savoir est pouvoir » car il permet de maîtriser la nature et d’agir sur le monde."
+    },
+    {
+      "question": "Quelle est la démarche du doute méthodique de Descartes ?",
+      "options": ["Refuser toutes les connaissances incertaines pour reconstruire sur des bases sûres", "Accepter toutes les traditions", "Faire confiance aux sens", "Ignorer la logique"],
+      "reponse": "Refuser toutes les connaissances incertaines pour reconstruire sur des bases sûres",
+      "explication": "Descartes cherche à fonder le savoir sur des vérités indubitables comme « Je pense donc je suis »."
+    },
+    {
+      "question": "Quelle citation illustre l’esprit critique ?",
+      "options": ["Ce n’est pas parce qu’une idée est partagée qu’elle est vraie", "Toute vérité est évidente", "Les majorités ont toujours raison", "Il faut croire ce qu’on voit"],
+      "reponse": "Ce n’est pas parce qu’une idée est partagée qu’elle est vraie",
+      "explication": "C’est un principe cartésien qui nous invite à douter des évidences sociales ou collectives."
+    },
+    {
+      "question": "Comment Kant définit-il l’opinion ?",
+      "options": ["Un jugement subjectif sans fondement suffisant", "Une vérité absolue", "Une loi morale", "Un fait scientifique"],
+      "reponse": "Un jugement subjectif sans fondement suffisant",
+      "explication": "Kant classe les jugements en opinion (incertain), croyance (conviction morale) et savoir (preuve)."
+    },
+    {
+      "question": "Quel est le danger d’un monde guidé uniquement par les opinions ?",
+      "options": ["La manipulation et l’ignorance", "La vérité absolue", "La paix universelle", "Le progrès scientifique"],
+      "reponse": "La manipulation et l’ignorance",
+      "explication": "Un monde fondé sur les opinions facilite les préjugés, les fake news et les idéologies aveugles."
+    },
+    {
+      "question": "Pourquoi la science est-elle considérée comme fiable ?",
+      "options": ["Elle repose sur la méthode, la preuve et la reproductibilité", "Elle se fonde sur l’intuition", "Elle suit les traditions anciennes", "Elle ne change jamais"],
+      "reponse": "Elle repose sur la méthode, la preuve et la reproductibilité",
+      "explication": "La science suit une démarche rigoureuse : hypothèse, observation, expérimentation et conclusion."
+    },
+    {
+      "question": "Qu’est-ce que l’empirisme ?",
+      "options": ["Théorie selon laquelle toute connaissance vient de l’expérience", "Rejet de toute connaissance", "Croyance religieuse", "Système d’opinions"],
+      "reponse": "Théorie selon laquelle toute connaissance vient de l’expérience",
+      "explication": "Représenté par Locke ou Hume, l’empirisme s’oppose au rationalisme pur."
+    },
+    {
+      "question": "Qu’est-ce que le rationalisme ?",
+      "options": ["Théorie selon laquelle la raison est la source première de connaissance", "Rejet de la logique", "Foi dans les traditions", "Croyance sensorielle"],
+      "reponse": "Théorie selon laquelle la raison est la source première de connaissance",
+      "explication": "Descartes, Spinoza ou Leibniz considèrent que la vérité vient de la raison plus que de l’expérience."
+    },
+    {
+      "question": "Quel rôle joue le doute en philosophie ?",
+      "options": ["Il purifie la pensée et prépare au savoir", "Il empêche de réfléchir", "Il remplace la vérité", "Il supprime la connaissance"],
+      "reponse": "Il purifie la pensée et prépare au savoir",
+      "explication": "Le doute méthodique de Descartes est un outil pour rejeter l’erreur et atteindre des certitudes."
+    },
+    {
+      "question": "Que permet la logique dans l’acquisition du savoir ?",
+      "options": ["Organiser le raisonnement de façon cohérente", "Deviner les vérités", "Suivre ses intuitions", "Croire aux superstitions"],
+      "reponse": "Organiser le raisonnement de façon cohérente",
+      "explication": "La logique est l’outil fondamental du raisonnement rigoureux et critique."
+    },
+    {
+      "question": "Pourquoi la connaissance est-elle une conquête difficile ?",
+      "options": ["Elle demande de lutter contre les illusions, les opinions et les préjugés", "Elle se reçoit automatiquement", "Elle est basée sur l’émotion", "Elle est évidente"],
+      "reponse": "Elle demande de lutter contre les illusions, les opinions et les préjugés",
+      "explication": "Savoir, c’est sortir de la paresse intellectuelle et de l’ignorance pour construire un jugement éclairé."
+    },
+    {
+      "question": "Qui affirme : « Le savoir est pouvoir » ?",
+      "options": ["Francis Bacon", "Platon", "Socrate", "Aristote"],
+      "reponse": "Francis Bacon",
+      "explication": "Francis Bacon montre que maîtriser la connaissance permet de transformer et dominer la nature : « Savoir, c’est pouvoir »."
+    },
+    {
+      "question": "Quel philosophe insiste sur l'ignorance de ceux qui croient savoir ?",
+      "options": ["Socrate", "Hobbes", "Kant", "Nietzsche"],
+      "reponse": "Socrate",
+      "explication": "Socrate disait : « Tout ce que je sais, c’est que je ne sais rien. » Il valorisait l’humilité intellectuelle face au savoir."
+    },
+    {
+      "question": "Comment Platon oppose-t-il l'opinion et le savoir ?",
+      "options": ["Par la métaphore de la caverne", "Par le mythe de Sisyphe", "Par la théorie du contrat social", "Par l’anneau de Gygès"],
+      "reponse": "Par la métaphore de la caverne",
+      "explication": "Dans l’allégorie de la caverne, Platon montre que l’opinion est une illusion et que le savoir est une élévation vers la vérité."
+    },
+    {
+      "question": "Qu’est-ce que la doxa selon Platon ?",
+      "options": ["L’opinion commune", "La vérité scientifique", "La foi religieuse", "La logique pure"],
+      "reponse": "L’opinion commune",
+      "explication": "La doxa désigne les croyances partagées par la majorité, mais sans fondement rationnel."
+    },
+    {
+      "question": "Que permet le doute selon Descartes ?",
+      "options": ["Éliminer l’erreur et reconstruire le savoir sur des bases certaines", "Tomber dans le relativisme", "Accepter les dogmes", "Renoncer à la vérité"],
+      "reponse": "Éliminer l’erreur et reconstruire le savoir sur des bases certaines",
+      "explication": "Descartes : « Je pense, donc je suis » — fondement d’un savoir indubitable."
+    },
+    {
+      "question": "Pourquoi Hume critique-t-il l’idée de cause ?",
+      "options": ["Parce qu’elle repose sur l’habitude, non sur la raison", "Parce qu’elle est mathématique", "Parce qu’elle est religieuse", "Parce qu’elle est nécessaire"],
+      "reponse": "Parce qu’elle repose sur l’habitude, non sur la raison",
+      "explication": "David Hume affirme que nous croyons au lien de cause à effet sans preuve réelle, par habitude."
+    },
+    {
+      "question": "Que pense Kant du savoir scientifique ?",
+      "options": ["Il doit être universel, nécessaire et fondé sur l’expérience et la raison", "Il repose sur la foi", "Il varie selon les opinions", "Il est toujours absolu"],
+      "reponse": "Il doit être universel, nécessaire et fondé sur l’expérience et la raison",
+      "explication": "Pour Kant, le savoir scientifique combine le donné empirique (expérience) et les formes a priori de l’entendement."
+    },
+    {
+      "question": "Que montre l'exemple de Galilée dans la conquête du savoir ?",
+      "options": ["Le savoir peut aller contre l’opinion et les traditions", "La Terre est plate", "Il faut croire ce que dit l’Église", "L’intuition suffit à connaître"],
+      "reponse": "Le savoir peut aller contre l’opinion et les traditions",
+      "explication": "Galilée a défendu l’héliocentrisme malgré la condamnation de l’Église. Il incarne le courage de la vérité scientifique."
+    },
+    {
+      "question": "Qu’est-ce que la vérité pour Aristote ?",
+      "options": ["Dire de ce qui est qu’il est, et de ce qui n’est pas qu’il n’est pas", "Croire ce que tout le monde pense", "Suivre les apparences", "Admettre ce qui me plaît"],
+      "reponse": "Dire de ce qui est qu’il est, et de ce qui n’est pas qu’il n’est pas",
+      "explication": "C’est une définition réaliste : la vérité correspond au réel. C’est l’adéquation entre pensée et réalité."
+    },
+    {
+      "question": "Quel est le but de la philosophie selon Platon ?",
+      "options": ["Accéder au monde des idées, c’est-à-dire au vrai savoir", "Vivre selon ses désirs", "Contester toute vérité", "Accumuler des opinions"],
+      "reponse": "Accéder au monde des idées, c’est-à-dire au vrai savoir",
+      "explication": "Platon oppose le monde sensible (illusion) au monde intelligible (idées, savoir)."
+    },
+    {
+      "question": "Que signifie « croire savoir » ?",
+      "options": ["Avoir une opinion prise à tort pour un savoir", "Avoir un diplôme", "Savoir beaucoup de choses", "Être rationnel"],
+      "reponse": "Avoir une opinion prise à tort pour un savoir",
+      "explication": "C’est l’illusion dénoncée par Socrate dans ses dialogues : croire savoir empêche de vraiment chercher."
+    },
+    {
+      "question": "Quel rôle joue l’éducation dans l’accès au savoir selon Platon ?",
+      "options": ["Elle permet à l’âme de se tourner vers la lumière de la vérité", "Elle impose des opinions", "Elle endort l’esprit", "Elle favorise la doxa"],
+      "reponse": "Elle permet à l’âme de se tourner vers la lumière de la vérité",
+      "explication": "Dans l’allégorie de la caverne, l’éducation libère l’âme en l’orientant vers la vérité."
+    },
+    {
+      "question": "Pourquoi Descartes refuse-t-il les opinions reçues dans son enfance ?",
+      "options": ["Elles ne sont pas toujours fondées en raison", "Elles sont toujours fausses", "Elles viennent de sa famille", "Elles sont religieuses"],
+      "reponse": "Elles ne sont pas toujours fondées en raison",
+      "explication": "Descartes choisit de douter de tout pour ne garder que ce qui résiste à l’épreuve du doute."
+    },
+    {
+      "question": "Qu’est-ce que la méthode scientifique permet d’éviter ?",
+      "options": ["Les erreurs liées aux impressions subjectives", "La logique", "L’usage des mathématiques", "La pensée rationnelle"],
+      "reponse": "Les erreurs liées aux impressions subjectives",
+      "explication": "La méthode (hypothèse, expérience, vérification) garantit l’objectivité du savoir."
+    },
+    {
+      "question": "Quel est l’objectif fondamental du philosophe face à la connaissance ?",
+      "options": ["Distinguer le vrai du faux, le savoir de l’opinion", "Suivre les croyances collectives", "Refuser la science", "Admirer les illusions"],
+      "reponse": "Distinguer le vrai du faux, le savoir de l’opinion",
+      "explication": "La philosophie développe l’esprit critique, la rigueur et la recherche du vrai."
+    },
+    {
+      "question": "Socrate disait : « Tout ce que je sais, c’est que je ne sais rien. » Que veut-il montrer ?",
+      "options": ["Le vrai savoir commence par la conscience de son ignorance", "L’ignorance est une vertu en soi", "Il est inutile de chercher à savoir", "La connaissance est impossible"],
+      "reponse": "Le vrai savoir commence par la conscience de son ignorance",
+      "explication": "Socrate insiste sur l'humilité intellectuelle : reconnaître qu'on ignore, c'est s'ouvrir à l'apprentissage authentique. Cette attitude critique est le fondement de la philosophie."
+    },
+    {
+      "question": "Dans l’allégorie de la caverne, Platon illustre :",
+      "options": ["Le passage de l’opinion à la connaissance vraie", "L’importance des ombres dans la pensée", "Le bonheur de vivre dans l’ignorance", "Le rejet de toute vérité"],
+      "reponse": "Le passage de l’opinion à la connaissance vraie",
+      "explication": "Platon montre que la majorité vit dans l’illusion (la caverne). Seule l’éducation philosophique peut guider l’âme vers la lumière de la vérité (le soleil)."
+    },
+    {
+      "question": "Un élève croit qu’un médicament est efficace car sa grand-mère l’a utilisé. Cela illustre :",
+      "options": ["Une opinion fondée sur l’expérience personnelle", "Une preuve scientifique", "Une démarche rationnelle", "Une vérité universelle"],
+      "reponse": "Une opinion fondée sur l’expérience personnelle",
+      "explication": "L’élève ne fonde pas son jugement sur une étude scientifique mais sur un cas isolé. Cela relève de l’opinion, pas du savoir démontré."
+    },
+    {
+      "question": "Descartes affirme que la seule certitude au départ est :",
+      "options": ["Je pense donc je suis", "Dieu existe", "Je ressens donc je vis", "Le monde est réel"],
+      "reponse": "Je pense donc je suis",
+      "explication": "Descartes fonde le savoir sur une évidence indubitable : le fait de penser prouve au moins que je suis. C’est la première vérité du savoir certain."
+    },
+    {
+      "question": "Un individu affirme une information sans preuve et la défend car « tout le monde le dit ». Il s'agit :",
+      "options": ["D'une opinion collective non fondée", "D’un savoir scientifique", "D’une thèse démontrée", "D’un raisonnement logique"],
+      "reponse": "D'une opinion collective non fondée",
+      "explication": "Dire que « tout le monde le dit » n’est pas une preuve. C’est ce que la philosophie appelle la doxa, l’opinion commune non examinée."
+    },
+    {
+      "question": "Pour Kant, un jugement devient savoir quand :",
+      "options": ["Il est universel, nécessaire et démontré", "Il est personnel et sincère", "Il vient de la majorité", "Il est ancien et traditionnel"],
+      "reponse": "Il est universel, nécessaire et démontré",
+      "explication": "Kant distingue l’opinion (incertaine), la croyance (conviction morale) et le savoir (fondé sur preuve et universalité rationnelle)."
+    },
+    {
+      "question": "Quand Galilée défend l’héliocentrisme contre l’Église, il montre que :",
+      "options": ["La vérité scientifique peut contredire l’opinion dominante", "Il faut suivre la religion", "L’opinion est supérieure au savoir", "Les savants ne se trompent jamais"],
+      "reponse": "La vérité scientifique peut contredire l’opinion dominante",
+      "explication": "Galilée montre que le progrès du savoir exige parfois de s’opposer aux croyances ou autorités sociales, même si elles sont très puissantes."
+    },
+    {
+      "question": "Selon Hume, la croyance en la causalité est :",
+      "options": ["Le fruit de l’habitude, non d’une preuve logique", "Une vérité absolue", "Une révélation divine", "Un principe scientifique prouvé"],
+      "reponse": "Le fruit de l’habitude, non d’une preuve logique",
+      "explication": "Hume critique la causalité en disant que nous l’attendons parce que les événements ont toujours été liés dans notre expérience, sans preuve certaine."
+    },
+    {
+      "question": "Qu’est-ce que l’empirisme ?",
+      "options": ["La théorie que toute connaissance vient de l’expérience", "Le rejet de la science", "Une croyance religieuse", "Une forme d’opinion"],
+      "reponse": "La théorie que toute connaissance vient de l’expérience",
+      "explication": "L’empirisme, défendu par Locke et Hume, soutient que la connaissance dérive principalement des sensations et expériences."
+    },
+    {
+      "question": "Quelle est la méthode principale du savoir scientifique ?",
+      "options": ["Hypothèse, expérimentation et vérification", "Acceptation des traditions", "Confiance dans l’intuition", "Croyance sans preuve"],
+      "reponse": "Hypothèse, expérimentation et vérification",
+      "explication": "Le savoir scientifique repose sur une méthode rigoureuse permettant de tester et confirmer les hypothèses de façon objective."
+    }
+  ]
+}

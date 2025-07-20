@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le principal défi lié à la gestion des ressources en eau au Burkina Faso ?",
+      "options": ["La rareté et la mauvaise répartition", "Les inondations fréquentes", "L’abondance excessive", "La pollution industrielle uniquement"],
+      "reponse": "La rareté et la mauvaise répartition",
+      "explication": "Le Burkina Faso connaît une rareté des ressources en eau, surtout en saison sèche."
+    },
+    {
+      "question": "Quelle est la principale source d’énergie utilisée traditionnellement au Burkina Faso ?",
+      "options": ["Bois de chauffe", "Pétrole", "Électricité", "Charbon de terre"],
+      "reponse": "Bois de chauffe",
+      "explication": "La majorité des populations utilise le bois de chauffe pour cuisiner et se chauffer."
+    },
+    {
+      "question": "Quelle région du Burkina Faso est la plus touchée par la désertification ?",
+      "options": ["Le nord", "Le sud", "L’est", "L’ouest"],
+      "reponse": "Le nord",
+      "explication": "Le nord, en zone sahélienne, est plus exposé à la désertification."
+    },
+    {
+      "question": "Quelles sont les principales cultures vivrières du Burkina Faso ?",
+      "options": ["Mil, sorgho, maïs", "Blé, riz, pommes de terre", "Café, cacao, banane", "Coton, tabac, canne à sucre"],
+      "reponse": "Mil, sorgho, maïs",
+      "explication": "Ces cultures sont adaptées au climat tropical et à la saison des pluies."
+    },
+    {
+      "question": "Quel est le rôle des zones humides dans le milieu naturel burkinabè ?",
+      "options": ["Maintien de la biodiversité et ressources en eau", "Zones urbaines", "Sites miniers", "Zones désertiques"],
+      "reponse": "Maintien de la biodiversité et ressources en eau",
+      "explication": "Les zones humides sont cruciales pour l’écosystème local."
+    },
+    {
+      "question": "Quel est l’impact du changement climatique sur le Burkina Faso ?",
+      "options": ["Augmentation des sécheresses et irrégularité des pluies", "Climat stable", "Baisse des températures", "Augmentation des inondations seulement"],
+      "reponse": "Augmentation des sécheresses et irrégularité des pluies",
+      "explication": "Le changement climatique accentue les défis liés à l’eau et à l’agriculture."
+    },
+    {
+      "question": "Quel type de ressources minérales a été récemment découvert au Burkina Faso ?",
+      "options": ["Pétrole", "Or", "Diamants", "Gaz naturel"],
+      "reponse": "Pétrole",
+      "explication": "Des gisements pétroliers ont été découverts, bien que l’or reste la principale ressource.",
+    },
+    {
+      "question": "Quelle est la saison sèche typique au Burkina Faso ?",
+      "options": ["De novembre à avril", "De mai à septembre", "Toute l’année", "De juin à août"],
+      "reponse": "De novembre à avril",
+      "explication": "La saison sèche est longue et caractérisée par peu ou pas de pluie."
+    },
+    {
+      "question": "Quel est le principal danger lié à la déforestation au Burkina Faso ?",
+      "options": ["Érosion des sols", "Augmentation des pluies", "Diminution des températures", "Amélioration de la biodiversité"],
+      "reponse": "Érosion des sols",
+      "explication": "La perte de couverture végétale expose les sols à l’érosion."
+    },
+    {
+      "question": "Quelle est la principale activité économique liée aux ressources naturelles au Burkina Faso ?",
+      "options": ["Agriculture", "Industrie pétrolière", "Tourisme balnéaire", "Pêche commerciale"],
+      "reponse": "Agriculture",
+      "explication": "L’agriculture reste la base de l’économie burkinabè."
+    },
+    {
+      "question": "Quelle est la principale ressource énergétique renouvelable au Burkina Faso ?",
+      "options": ["Solaire", "Hydraulique", "Éolienne", "Géothermique"],
+      "reponse": "Solaire",
+      "explication": "Le pays bénéficie d’un fort ensoleillement favorable au solaire."
+    },
+    {
+      "question": "Quel est l’effet de la surexploitation des terres agricoles ?",
+      "options": ["Appauvrissement des sols", "Augmentation de la fertilité", "Reforestation naturelle", "Amélioration de la biodiversité"],
+      "reponse": "Appauvrissement des sols",
+      "explication": "Une agriculture intensive sans repos des sols entraîne leur dégradation."
+    },
+    {
+      "question": "Quel est le rôle des barrages dans le milieu naturel burkinabè ?",
+      "options": ["Stockage de l’eau pour l’irrigation et la consommation", "Production de charbon", "Zones de pêche intensive", "Zones protégées uniquement"],
+      "reponse": "Stockage de l’eau pour l’irrigation et la consommation",
+      "explication": "Les barrages aident à gérer l’eau surtout durant la saison sèche."
+    },
+    {
+      "question": "Quelle est la principale menace pour la biodiversité au Burkina Faso ?",
+      "options": ["Destruction des habitats naturels", "Prolifération des forêts", "Augmentation des espèces", "Régénération naturelle"],
+      "reponse": "Destruction des habitats naturels",
+      "explication": "La déforestation et l’expansion humaine détruisent les habitats fauniques."
+    },
+    {
+      "question": "Quel est le principal facteur naturel qui limite l’agriculture dans le nord du Burkina Faso ?",
+      "options": ["La sécheresse", "L’abondance d’eau", "Les inondations", "Les sols volcaniques"],
+      "reponse": "La sécheresse",
+      "explication": "Le climat aride du nord limite fortement la production agricole."
+    },
+    {
+      "question": "Quelle est la particularité de la végétation dans la région soudanienne ?",
+      "options": ["Savanes denses avec arbres feuillus", "Forêts tropicales humides", "Déserts de sable", "Toundra"],
+      "reponse": "Savanes denses avec arbres feuillus",
+      "explication": "La région soudanienne présente une végétation riche adaptée au climat tropical.",
+    },
+    {
+      "question": "Quels sont les effets positifs de la saison des pluies au Burkina Faso ?",
+      "options": ["Rechargement des nappes phréatiques et croissance des cultures", "Sécheresse accrue", "Inondations catastrophiques tous les ans", "Période de gel"],
+      "reponse": "Rechargement des nappes phréatiques et croissance des cultures",
+      "explication": "La saison des pluies est vitale pour l’agriculture et l’approvisionnement en eau.",
+    },
+    {
+      "question": "Quel est le rôle des terroirs agricoles traditionnels au Burkina Faso ?",
+      "options": ["Soutenir la sécurité alimentaire locale", "Zone industrielle", "Zone urbaine", "Zones désertiques"],
+      "reponse": "Soutenir la sécurité alimentaire locale",
+      "explication": "Ces terroirs sont essentiels pour la production vivrière des communautés.",
+    },
+    {
+      "question": "Quel est l’impact des feux de brousse sur le milieu naturel ?",
+      "options": ["Destruction de la végétation et appauvrissement des sols", "Amélioration des sols", "Réduction des risques d’incendie", "Augmentation de la biodiversité"],
+      "reponse": "Destruction de la végétation et appauvrissement des sols",
+      "explication": "Les feux de brousse non contrôlés détériorent le milieu naturel.",
+    },
+    {
+      "question": "Quelle est la principale cause naturelle des inondations au Burkina Faso ?",
+      "options": ["Pluies torrentielles durant la saison des pluies", "Fonte des neiges", "Montées des océans", "Tsunamis"],
+      "reponse": "Pluies torrentielles durant la saison des pluies",
+      "explication": "Les fortes précipitations peuvent provoquer des crues soudaines.",
+    },
+    {
+      "question": "Quelle est l’importance des zones de pâturage dans le milieu naturel burkinabè ?",
+      "options": ["Alimentation du bétail et activité pastorale", "Zones industrielles", "Zones urbaines", "Zones protégées uniquement"],
+      "reponse": "Alimentation du bétail et activité pastorale",
+      "explication": "Ces zones sont vitales pour les éleveurs traditionnels.",
+    },
+    {
+      "question": "Quel est le relief dominant au Burkina Faso ?",
+      "options": ["Plateaux et savanes", "Montagnes élevées", "Plaines côtières", "Déserts sableux"],
+      "reponse": "Plateaux et savanes",
+      "explication": "Le Burkina Faso est principalement constitué de plateaux avec des savanes."
+    },
+    {
+      "question": "Quel est le climat prédominant au Burkina Faso ?",
+      "options": ["Tropical soudanien", "Climat méditerranéen", "Climat océanique", "Climat polaire"],
+      "reponse": "Tropical soudanien",
+      "explication": "Le pays bénéficie d’un climat tropical avec une saison sèche et une saison des pluies."
+    },
+    {
+      "question": "Quelle est la saison des pluies au Burkina Faso ?",
+      "options": ["De mai à septembre", "De novembre à février", "Toute l’année", "De mars à avril"],
+      "reponse": "De mai à septembre",
+      "explication": "La saison des pluies s’étend généralement de mai à septembre."
+    },
+    {
+      "question": "Quels types de sols dominent au Burkina Faso ?",
+      "options": ["Sols ferrugineux tropicaux", "Sols volcaniques", "Sols alluviaux", "Sols désertiques"],
+      "reponse": "Sols ferrugineux tropicaux",
+      "explication": "Les sols ferrugineux sont fréquents et adaptés à la végétation de savane."
+    },
+    {
+      "question": "Quelle est la ressource minière la plus exploitée au Burkina Faso ?",
+      "options": ["L’or", "Le pétrole", "Le charbon", "Le cuivre"],
+      "reponse": "L’or",
+      "explication": "Le Burkina Faso est un important producteur d’or en Afrique de l’Ouest."
+    },
+    {
+      "question": "Quelle végétation naturelle couvre la majeure partie du pays ?",
+      "options": ["La savane arborée", "La forêt dense", "Le désert", "La toundra"],
+      "reponse": "La savane arborée",
+      "explication": "La savane est la végétation naturelle dominante au Burkina Faso."
+    },
+    {
+      "question": "Quel est le principal fleuve traversant le Burkina Faso ?",
+      "options": ["La Volta", "Le Niger", "Le Sénégal", "Le Nil"],
+      "reponse": "La Volta",
+      "explication": "La Volta, avec ses affluents, est le principal système fluvial du pays."
+    },
+    {
+      "question": "Quel facteur influence fortement le climat du Burkina Faso ?",
+      "options": ["Les vents harmattan", "Les cyclones", "Les courants océaniques", "Les moussons"],
+      "reponse": "Les vents harmattan",
+      "explication": "L’harmattan est un vent sec et poussiéreux qui souffle en saison sèche."
+    },
+    {
+      "question": "Quel est le principal problème environnemental lié au climat ?",
+      "options": ["La désertification", "Les inondations fréquentes", "Les tempêtes de neige", "Les glissements de terrain"],
+      "reponse": "La désertification",
+      "explication": "La désertification menace les terres cultivables dans le nord du pays."
+    },
+    {
+      "question": "Quel type de climat trouve-t-on dans la région sud du Burkina Faso ?",
+      "options": ["Climat soudano-guinéen plus humide", "Climat désertique", "Climat polaire", "Climat tempéré"],
+      "reponse": "Climat soudano-guinéen plus humide",
+      "explication": "Le sud bénéficie d’un climat plus humide que le nord."
+    },
+    {
+      "question": "Quelle est la principale ressource agricole du Burkina Faso ?",
+      "options": ["Mil", "Blé", "Riz", "Pommes de terre"],
+      "reponse": "Mil",
+      "explication": "Le mil est la culture vivrière la plus importante du pays."
+    },
+    {
+      "question": "Quel est l’impact de la saison sèche sur l’agriculture ?",
+      "options": ["Arrêt de la croissance des plantes", "Croissance accélérée", "Récolte abondante", "Inondations"],
+      "reponse": "Arrêt de la croissance des plantes",
+      "explication": "La saison sèche limite la disponibilité en eau, arrêtant la croissance végétale."
+    },
+    {
+      "question": "Quels sont les types de sols les moins présents au Burkina Faso ?",
+      "options": ["Sols volcaniques", "Sols ferrugineux", "Sols sableux", "Sols argileux"],
+      "reponse": "Sols volcaniques",
+      "explication": "Les sols volcaniques sont très rares au Burkina Faso."
+    },
+    {
+      "question": "Quel est le rôle des forêts classées au Burkina Faso ?",
+      "options": ["Conservation de la biodiversité", "Exploitation minière", "Urbanisation", "Déforestation"],
+      "reponse": "Conservation de la biodiversité",
+      "explication": "Les forêts classées protègent les espèces animales et végétales locales."
+    },
+    {
+      "question": "Quelle ressource naturelle est exploitée dans la région de Gaoua ?",
+      "options": ["Or", "Pétrole", "Charbon", "Diamants"],
+      "reponse": "Or",
+      "explication": "Gaoua est une zone importante pour l’exploitation aurifère."
+    },
+    {
+      "question": "Quel est le principal défi environnemental du Burkina Faso ?",
+      "options": ["Déforestation et érosion des sols", "Pollution industrielle", "Montée des eaux", "Avalanches"],
+      "reponse": "Déforestation et érosion des sols",
+      "explication": "Ces phénomènes affectent la qualité des terres agricoles."
+    },
+    {
+      "question": "Quel est le phénomène caractéristique de la saison sèche ?",
+      "options": ["Vents chauds et poussiéreux (harmattan)", "Pluies abondantes", "Températures basses", "Neige"],
+      "reponse": "Vents chauds et poussiéreux (harmattan)",
+      "explication": "L’harmattan assèche l’air et transporte la poussière du désert."
+    },
+    {
+      "question": "Quelle est la particularité du climat sahélien que l’on trouve dans le nord du Burkina Faso ?",
+      "options": ["Faibles précipitations et sécheresse prolongée", "Fortes pluies", "Neige fréquente", "Humidité élevée"],
+      "reponse": "Faibles précipitations et sécheresse prolongée",
+      "explication": "Le nord connaît un climat plus aride avec peu de pluie."
+    },
+    {
+      "question": "Quelle est la richesse minière secondaire du Burkina Faso ?",
+      "options": ["Manganèse", "Or", "Pétrole", "Charbon"],
+      "reponse": "Manganèse",
+      "explication": "Après l’or, le manganèse est une ressource minérale importante."
+    },
+    {
+      "question": "Quels sont les deux grands bassins versants au Burkina Faso ?",
+      "options": ["Volta et Niger", "Nil et Congo", "Sénégal et Gambie", "Zambèze et Orange"],
+      "reponse": "Volta et Niger",
+      "explication": "Le pays est partagé entre ces deux bassins hydrographiques majeurs."
+    },
+    {
+      "question": "Quelle est la conséquence directe de la déforestation au Burkina Faso ?",
+      "options": ["Dégradation des sols et perte de biodiversité", "Augmentation des précipitations", "Croissance économique rapide", "Réduction des températures"],
+      "reponse": "Dégradation des sols et perte de biodiversité",
+      "explication": "La déforestation favorise l’érosion et la diminution des habitats naturels."
+    },
+    {
+      "question": "Quelle est la principale cause de la désertification au Burkina Faso ?",
+      "options": ["Surexploitation des terres et changement climatique", "Reforestation massive", "Activités minières durables", "Urbanisation contrôlée"],
+      "reponse": "Surexploitation des terres et changement climatique",
+      "explication": "Les pratiques agricoles non durables et le réchauffement aggravent la désertification."
+    },
+    {
+      "question": "Quel type de végétation trouve-t-on dans la zone sahélienne du Burkina Faso ?",
+      "options": ["Steppe herbeuse clairsemée", "Forêt dense", "Mangroves", "Prairies humides"],
+      "reponse": "Steppe herbeuse clairsemée",
+      "explication": "Le nord sahélien est caractérisé par une végétation clairsemée adaptée à la sécheresse."
+    },
+    {
+      "question": "Quels sont les principaux facteurs naturels qui influencent le milieu naturel du Burkina Faso ?",
+      "options": ["Relief, climat et ressources naturelles", "Urbanisation, industrie et commerce", "Politique, économie et culture", "Transport, communication et tourisme"],
+      "reponse": "Relief, climat et ressources naturelles",
+      "explication": "Ces facteurs déterminent les caractéristiques physiques du pays."
+    },
+    {
+      "question": "Quel est l’effet des vents harmattan sur la santé humaine ?",
+      "options": ["Irritation des voies respiratoires", "Amélioration de la respiration", "Effet neutre", "Renforcement du système immunitaire"],
+      "reponse": "Irritation des voies respiratoires",
+      "explication": "L’air sec et poussiéreux peut causer des problèmes respiratoires."
+    },
+    {
+      "question": "Quel est le rôle de la Volta noire dans le Burkina Faso ?",
+      "options": ["Principal cours d’eau pour l’irrigation", "Désert naturel", "Zone minière", "Réserve forestière"],
+      "reponse": "Principal cours d’eau pour l’irrigation",
+      "explication": "La Volta noire est essentielle pour l’agriculture et l’approvisionnement en eau."
+    },
+    {
+      "question": "Quelle est la saison la plus courte au Burkina Faso ?",
+      "options": ["Saison des pluies", "Saison sèche", "Hiver", "Printemps"],
+      "reponse": "Saison des pluies",
+      "explication": "La saison des pluies est courte, généralement de mai à septembre."
+    },
+    {
+      "question": "Quel est l’impact du relief sur le climat local ?",
+      "options": ["Influence modérée avec peu de montagnes élevées", "Montagnes hautes provoquant un climat alpin", "Plaines côtières avec climat marin", "Déserts sans effet"],
+      "reponse": "Influence modérée avec peu de montagnes élevées",
+      "explication": "Le relief modéré du Burkina Faso a une influence limitée sur le climat."
+    }
+  ]
+}

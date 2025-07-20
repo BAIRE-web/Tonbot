@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que le krach boursier de 1929 a provoqué dans le monde ?",
+      "options": ["Une crise économique mondiale", "Une période de paix", "Une croissance économique rapide", "Une révolution"],
+      "reponse": "Une crise économique mondiale",
+      "explication": "Le krach a entraîné une dépression économique mondiale avec chômage et pauvreté."
+    },
+    {
+      "question": "Qui était à la tête de l’URSS après la mort de Lénine ?",
+      "options": ["Staline", "Trotsky", "Lenine", "Khroutchev"],
+      "reponse": "Staline",
+      "explication": "Staline a pris le pouvoir et instauré un régime totalitaire."
+    },
+    {
+      "question": "Quelle est la caractéristique principale du fascisme ?",
+      "options": ["Régime autoritaire et nationaliste", "Démocratie parlementaire", "Régime communiste", "Liberté politique"],
+      "reponse": "Régime autoritaire et nationaliste",
+      "explication": "Le fascisme privilégie le pouvoir d’un chef fort et le nationalisme."
+    },
+    {
+      "question": "Quelle est la doctrine politique du parti nazi ?",
+      "options": ["Nazisme", "Communisme", "Libéralisme", "Socialisme"],
+      "reponse": "Nazisme",
+      "explication": "Le nazisme est une idéologie raciste et totalitaire portée par Hitler."
+    },
+    {
+      "question": "Quel événement marque la fin de la guerre civile espagnole ?",
+      "options": ["Victoire de Franco", "Début de la guerre civile", "Révolution communiste", "Occupation allemande"],
+      "reponse": "Victoire de Franco",
+      "explication": "Francisco Franco prend le pouvoir en Espagne après la guerre civile."
+    },
+    {
+      "question": "Quelles mesures économiques faisait partie du New Deal ?",
+      "options": ["Programmes de travaux publics", "Libéralisation totale", "Privatisation", "Réduction des dépenses publiques"],
+      "reponse": "Programmes de travaux publics",
+      "explication": "Le New Deal comprenait des investissements publics pour relancer l’économie."
+    },
+    {
+      "question": "Quelle est la période chronologique de l’entre-deux-guerres ?",
+      "options": ["1918-1939", "1914-1918", "1939-1945", "1929-1945"],
+      "reponse": "1918-1939",
+      "explication": "Cette période commence après la Première Guerre mondiale et se termine avant la Seconde."
+    },
+    {
+      "question": "Quelle organisation internationale tente de maintenir la paix ?",
+      "options": ["Société des Nations", "ONU", "OTAN", "Union européenne"],
+      "reponse": "Société des Nations",
+      "explication": "La SDN est créée après la Première Guerre mondiale pour éviter un nouveau conflit."
+    },
+    {
+      "question": "Quel est le rôle des jeunesses fascistes et nazies ?",
+      "options": ["Endoctriner les jeunes au régime", "Opposer la dictature", "Organiser des manifestations démocratiques", "Promouvoir la liberté d’expression"],
+      "reponse": "Endoctriner les jeunes au régime",
+      "explication": "Ces mouvements préparaient les jeunes à servir et soutenir le régime totalitaire."
+    },
+    {
+      "question": "Quel est le but principal des purges staliniennes ?",
+      "options": ["Éliminer les opposants politiques", "Réformer l’agriculture", "Promouvoir la liberté", "Développer l’industrie"],
+      "reponse": "Éliminer les opposants politiques",
+      "explication": "Les purges ont pour but d’éliminer toute opposition à Staline."
+    },
+    {
+      "question": "Quelle est la capitale de l’URSS durant l’entre-deux-guerres ?",
+      "options": ["Moscou", "Saint-Pétersbourg", "Kiev", "Varsovie"],
+      "reponse": "Moscou",
+      "explication": "Moscou est la capitale politique et administrative de l’Union soviétique."
+    },
+    {
+      "question": "Quelle est la conséquence de la crise économique sur la politique en Europe ?",
+      "options": ["Montée des régimes autoritaires", "Renforcement des démocraties", "Paix durable", "Décolonisation"],
+      "reponse": "Montée des régimes autoritaires",
+      "explication": "La crise affaiblit les démocraties et favorise les dictatures."
+    },
+    {
+      "question": "Quel parti nazi dirige l’Allemagne ?",
+      "options": ["NSDAP", "PCF", "PS", "Fascistes"],
+      "reponse": "NSDAP",
+      "explication": "Le NSDAP est le Parti national-socialiste dirigé par Hitler."
+    },
+    {
+      "question": "Quelle loi de 1935 exclut les Juifs de la citoyenneté allemande ?",
+      "options": ["Lois de Nuremberg", "Loi Salique", "Loi sur la presse", "Loi de liberté"],
+      "reponse": "Lois de Nuremberg",
+      "explication": "Ces lois raciales privent les Juifs de leurs droits civiques en Allemagne."
+    },
+    {
+      "question": "Quelle est la particularité du régime franquiste ?",
+      "options": ["Dictature militaire en Espagne", "Démocratie parlementaire", "Régime communiste", "République socialiste"],
+      "reponse": "Dictature militaire en Espagne",
+      "explication": "Franco instaure un régime autoritaire après la guerre civile."
+    },
+    {
+      "question": "Quel est le but des plans quinquennaux soviétiques ?",
+      "options": ["Industrialiser rapidement l’URSS", "Augmenter la liberté individuelle", "Démanteler l’armée", "Réduire la production agricole"],
+      "reponse": "Industrialiser rapidement l’URSS",
+      "explication": "Ces plans fixent des objectifs pour moderniser l’économie soviétique."
+    },
+    {
+      "question": "Quel est le rôle de la propagande dans les régimes totalitaires ?",
+      "options": ["Contrôler l’opinion publique", "Encourager la démocratie", "Promouvoir la liberté", "Réduire l’influence du régime"],
+      "reponse": "Contrôler l’opinion publique",
+      "explication": "La propagande diffuse l’idéologie officielle et élimine les critiques."
+    },
+    {
+      "question": "Quelle est la date du début de la Seconde Guerre mondiale ?",
+      "options": ["1er septembre 1939", "28 juillet 1914", "11 novembre 1918", "3 septembre 1939"],
+      "reponse": "1er septembre 1939",
+      "explication": "L’invasion de la Pologne par l’Allemagne déclenche la guerre."
+    },
+    {
+      "question": "Quel est le principal outil de répression utilisé par Staline ?",
+      "options": ["NKVD", "Gestapo", "CIA", "KGB"],
+      "reponse": "NKVD",
+      "explication": "Le NKVD est la police politique soviétique qui mène les purges et la répression."
+    },
+    {
+      "question": "Quelle idéologie défend le parti communiste ?",
+      "options": ["Communisme", "Nazisme", "Fascisme", "Libéralisme"],
+      "reponse": "Communisme",
+      "explication": "Le communisme prône la propriété collective des moyens de production."
+    },
+    {
+      "question": "Quelle date marque le début de la crise économique mondiale appelée la Grande Dépression ?",
+      "options": ["1929", "1918", "1939", "1923"],
+      "reponse": "1929",
+      "explication": "Le krach boursier de Wall Street en octobre 1929 marque le début de la Grande Dépression."
+    },
+    {
+      "question": "Quel événement déclenche le krach boursier de 1929 ?",
+      "options": ["Jeudi noir", "Lundi noir", "Mardi sanglant", "Vendredi noir"],
+      "reponse": "Jeudi noir",
+      "explication": "Le jeudi 24 octobre 1929, la Bourse de New York s’effondre brutalement, déclenchant la crise."
+    },
+    {
+      "question": "Quelles furent les conséquences principales de la Grande Dépression ?",
+      "options": ["Chômage massif, pauvreté, baisse de la production", "Période de prospérité", "Hausse des salaires", "Croissance industrielle"],
+      "reponse": "Chômage massif, pauvreté, baisse de la production",
+      "explication": "La crise provoque un effondrement économique avec des millions de chômeurs."
+    },
+    {
+      "question": "Quel président américain met en place le New Deal ?",
+      "options": ["Franklin D. Roosevelt", "Herbert Hoover", "Woodrow Wilson", "Theodore Roosevelt"],
+      "reponse": "Franklin D. Roosevelt",
+      "explication": "Le New Deal est une série de mesures pour relancer l’économie américaine dans les années 1930."
+    },
+    {
+      "question": "Quel régime totalitaire est dirigé par Benito Mussolini ?",
+      "options": ["Fascisme italien", "Nazisme", "Stalinisme", "Franquisme"],
+      "reponse": "Fascisme italien",
+      "explication": "Mussolini instaure un régime fasciste en Italie à partir de 1922."
+    },
+    {
+      "question": "Quelle idéologie est portée par Adolf Hitler en Allemagne ?",
+      "options": ["Nazisme", "Communisme", "Fascisme", "Libéralisme"],
+      "reponse": "Nazisme",
+      "explication": "Le nazisme est un mouvement nationaliste, raciste et totalitaire porté par Hitler."
+    },
+    {
+      "question": "Quel dictateur soviétique est à la tête de l’URSS durant l’entre-deux-guerres ?",
+      "options": ["Joseph Staline", "Lénine", "Trotsky", "Khroutchev"],
+      "reponse": "Joseph Staline",
+      "explication": "Staline dirige l’URSS avec un régime totalitaire après la mort de Lénine."
+    },
+    {
+      "question": "Quelle caractéristique définit un régime totalitaire ?",
+      "options": ["Contrôle absolu de la société, culte du chef", "Démocratie parlementaire", "Liberté de la presse", "Pluralisme politique"],
+      "reponse": "Contrôle absolu de la société, culte du chef",
+      "explication": "Un régime totalitaire impose un contrôle total et élimine toute opposition."
+    },
+    {
+      "question": "Quel parti politique Hitler dirige-t-il ?",
+      "options": ["NSDAP (Parti nazi)", "Parti communiste", "Parti fasciste", "Parti socialiste"],
+      "reponse": "NSDAP (Parti nazi)",
+      "explication": "Le NSDAP est le parti national-socialiste dirigé par Hitler."
+    },
+    {
+      "question": "Quel traité est rejeté par l'Allemagne nazie ?",
+      "options": ["Traité de Versailles", "Traité de Trianon", "Traité de Saint-Germain", "Traité de Brest-Litovsk"],
+      "reponse": "Traité de Versailles",
+      "explication": "L'Allemagne considère le traité de Versailles comme humiliant et cherche à le renverser."
+    },
+    {
+      "question": "Quelle crise économique affecte particulièrement l’Allemagne en 1929 ?",
+      "options": ["Grande Dépression", "Krach de 1923", "Crise pétrolière", "Krach de 1933"],
+      "reponse": "Grande Dépression",
+      "explication": "L’Allemagne est durement touchée par la crise mondiale qui accentue le chômage et la pauvreté."
+    },
+    {
+      "question": "Quelle organisation est créée en 1919 pour maintenir la paix ?",
+      "options": ["Société des Nations", "ONU", "OTAN", "Organisation mondiale du commerce"],
+      "reponse": "Société des Nations",
+      "explication": "La SDN est créée après la Première Guerre mondiale pour prévenir les conflits futurs."
+    },
+    {
+      "question": "Quelle dictature se développe en Espagne dans les années 1930 ?",
+      "options": ["Franquisme", "Fascisme italien", "Nazisme", "Communisme soviétique"],
+      "reponse": "Franquisme",
+      "explication": "Francisco Franco instaure une dictature après la guerre civile espagnole."
+    },
+    {
+      "question": "Quelle est la politique économique mise en place par Staline pour moderniser l’URSS ?",
+      "options": ["Plans quinquennaux", "New Deal", "Libéralisation", "Capitalisme"],
+      "reponse": "Plans quinquennaux",
+      "explication": "Les plans quinquennaux fixent des objectifs de production industrielle et agricole."
+    },
+    {
+      "question": "Quelle est la doctrine économique de l’entre-deux-guerres caractérisée par un fort interventionnisme de l’État ?",
+      "options": ["État providence", "Libéralisme économique", "Capitalisme sauvage", "Socialisme démocratique"],
+      "reponse": "État providence",
+      "explication": "L’État providence intervient pour réguler l’économie et protéger les citoyens."
+    },
+    {
+      "question": "Quel mouvement politique prône la suprématie de la race aryenne ?",
+      "options": ["Nazisme", "Fascisme", "Communisme", "Libéralisme"],
+      "reponse": "Nazisme",
+      "explication": "Le nazisme base son idéologie sur le racisme et l'antisémitisme."
+    },
+    {
+      "question": "Quelle loi en Allemagne exclut les Juifs de la citoyenneté allemande ?",
+      "options": ["Lois de Nuremberg", "Code Napoléon", "Loi Salique", "Loi sur la liberté"],
+      "reponse": "Lois de Nuremberg",
+      "explication": "Ces lois raciales adoptées en 1935 privent les Juifs de leurs droits civiques."
+    },
+    {
+      "question": "Quelle crise provoque une montée des régimes autoritaires en Europe ?",
+      "options": ["Grande Dépression", "Première Guerre mondiale", "Seconde Guerre mondiale", "Révolution russe"],
+      "reponse": "Grande Dépression",
+      "explication": "La crise économique favorise le rejet des démocraties et la montée des dictatures."
+    },
+    {
+      "question": "Quelle est la particularité du fascisme par rapport au nazisme ?",
+      "options": ["Pas d’idéologie raciste explicite", "Culte du chef absent", "Basé sur le communisme", "Liberté politique"],
+      "reponse": "Pas d’idéologie raciste explicite",
+      "explication": "Le fascisme italien est avant tout nationaliste et autoritaire, sans racisme aussi marqué que le nazisme."
+    },
+    {
+      "question": "Qu’est-ce que la propagande dans un régime totalitaire ?",
+      "options": ["Moyen de contrôler et influencer l’opinion publique", "Expression libre", "Manifestations démocratiques", "Critique de l’État"],
+      "reponse": "Moyen de contrôler et influencer l’opinion publique",
+      "explication": "La propagande sert à diffuser l’idéologie officielle et supprimer les opposants."
+    },
+    {
+      "question": "Quel est le rôle des jeunesses dans les régimes totalitaires ?",
+      "options": ["Endoctrinement et préparation à la loyauté au régime", "Rébellion", "Neutralité", "Opposition politique"],
+      "reponse": "Endoctrinement et préparation à la loyauté au régime",
+      "explication": "Les jeunesses totalitaires encadrent les jeunes pour qu’ils adhèrent au régime."
+    },
+    {
+      "question": "Quel est le principal objectif des purges staliniennes ?",
+      "options": ["Éliminer les opposants au régime", "Réformer l’économie", "Construire des écoles", "Favoriser la liberté d’expression"],
+      "reponse": "Éliminer les opposants au régime",
+      "explication": "Staline organise des purges pour se débarrasser de ses ennemis politiques."
+    },
+    {
+      "question": "Quel événement met fin à l’Entre-deux-guerres ?",
+      "options": ["Début de la Seconde Guerre mondiale", "Krach de 1929", "Traité de Versailles", "Révolution russe"],
+      "reponse": "Début de la Seconde Guerre mondiale",
+      "explication": "La Seconde Guerre mondiale débute en 1939, marquant la fin de la période entre les deux guerres."
+    },
+    {
+      "question": "Quel pays est envahi en premier par l’Allemagne nazie en 1939 ?",
+      "options": ["Pologne", "France", "Belgique", "Tchécoslovaquie"],
+      "reponse": "Pologne",
+      "explication": "L’invasion de la Pologne par l’Allemagne le 1er septembre 1939 déclenche la guerre."
+    },
+    {
+      "question": "Quel est le nom du parti fasciste italien ?",
+      "options": ["Parti national fasciste", "Parti nazi", "Parti communiste", "Parti socialiste"],
+      "reponse": "Parti national fasciste",
+      "explication": "Fondé par Mussolini, ce parti dirige l’Italie fasciste."
+    },
+    {
+      "question": "Quelle est la capitale de l’URSS durant l’Entre-deux-guerres ?",
+      "options": ["Moscou", "Leningrad", "Saint-Pétersbourg", "Kiev"],
+      "reponse": "Moscou",
+      "explication": "Moscou devient la capitale politique et administrative de l’Union soviétique."
+    },
+    {
+      "question": "Quelle méthode est utilisée par Staline pour contrôler la société soviétique ?",
+      "options": ["Terreur d’État", "Élections libres", "Liberté de la presse", "Pluralisme politique"],
+      "reponse": "Terreur d’État",
+      "explication": "Staline utilise la répression, la censure et les purges pour contrôler la population."
+    },
+    {
+      "question": "Quel est l’objectif principal des plans quinquennaux ?",
+      "options": ["Accélérer l’industrialisation", "Réduire la population", "Développer l’agriculture uniquement", "Promouvoir la démocratie"],
+      "reponse": "Accélérer l’industrialisation",
+      "explication": "Les plans quinquennaux visent à moderniser l’économie soviétique rapidement."
+    }
+  ]
+}

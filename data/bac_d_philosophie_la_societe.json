@@ -1,0 +1,256 @@
+{
+  "qcm": [
+    {
+      "question": "La société se définit comme :",
+      "options": ["Un ensemble d’individus organisés selon des règles communes", "Un groupe d’individus isolés", "Une collection d’animaux", "Une association informelle"],
+      "reponse": "Un ensemble d’individus organisés selon des règles communes",
+      "explication": "La société repose sur des relations et des normes partagées entre individus."
+    },
+    {
+      "question": "L’individu dans la société est :",
+      "options": ["Un être social qui vit en relation avec les autres", "Un être isolé", "Un animal sauvage", "Une entité indépendante de tout groupe"],
+      "reponse": "Un être social qui vit en relation avec les autres",
+      "explication": "L’homme est naturellement porté à vivre en société et à interagir avec d’autres."
+    },
+    {
+      "question": "Le groupe social est :",
+      "options": ["Un ensemble d’individus partageant des normes et des valeurs", "Une simple addition d’individus", "Un groupe informel sans règles", "Un groupe uniquement familial"],
+      "reponse": "Un ensemble d’individus partageant des normes et des valeurs",
+      "explication": "Le groupe se caractérise par des interactions structurées et des normes communes."
+    },
+    {
+      "question": "La culture est :",
+      "options": ["L’ensemble des valeurs, normes et savoirs transmis dans une société", "Une simple tradition", "Une invention récente", "Un phénomène naturel"],
+      "reponse": "L’ensemble des valeurs, normes et savoirs transmis dans une société",
+      "explication": "La culture façonne les comportements et les croyances des membres d’une société."
+    },
+    {
+      "question": "La morale désigne :",
+      "options": ["Un ensemble de règles qui guident le comportement humain", "Une loi écrite", "Une pratique religieuse", "Une simple coutume"],
+      "reponse": "Un ensemble de règles qui guident le comportement humain",
+      "explication": "La morale concerne ce qui est considéré comme bien ou mal dans une société."
+    },
+    {
+      "question": "Selon Durkheim, la société exerce sur l’individu :",
+      "options": ["Une contrainte sociale qui façonne les comportements", "Aucune influence", "Une domination absolue", "Un rejet systématique"],
+      "reponse": "Une contrainte sociale qui façonne les comportements",
+      "explication": "Durkheim insiste sur le rôle des faits sociaux qui contraignent les individus."
+    },
+    {
+      "question": "L’appartenance à un groupe social :",
+      "options": ["Influence l’identité et les comportements de l’individu", "N’a aucun effet", "Est toujours négative", "Empêche l’autonomie"],
+      "reponse": "Influence l’identité et les comportements de l’individu",
+      "explication": "Le groupe social contribue à la construction de l’identité sociale."
+    },
+    {
+      "question": "La socialisation est :",
+      "options": ["Le processus d’apprentissage des normes et valeurs sociales", "Une forme d’oppression", "Une maladie sociale", "Une pratique politique"],
+      "reponse": "Le processus d’apprentissage des normes et valeurs sociales",
+      "explication": "La socialisation permet à l’individu d’intégrer la culture et les règles de la société."
+    },
+    {
+      "question": "La culture est transmise principalement par :",
+      "options": ["La famille, l’école et les médias", "Le hasard", "La génétique", "La nature uniquement"],
+      "reponse": "La famille, l’école et les médias",
+      "explication": "Ces institutions jouent un rôle clé dans la transmission culturelle."
+    },
+    {
+      "question": "La morale se distingue de la loi car :",
+      "options": ["Elle est souvent non écrite et concerne la conscience individuelle", "Elle est toujours écrite", "Elle ne concerne que la société", "Elle est imposée par l’État"],
+      "reponse": "Elle est souvent non écrite et concerne la conscience individuelle",
+      "explication": "La morale est une règle interne qui guide les choix personnels."
+    },
+    {
+      "question": "Le rôle de la culture dans la société est de :",
+      "options": ["Fournir un cadre commun de références et d’interprétation", "Limiter la liberté", "Diviser les individus", "Supprimer les différences"],
+      "reponse": "Fournir un cadre commun de références et d’interprétation",
+      "explication": "La culture crée un sens partagé et une cohésion sociale."
+    },
+    {
+      "question": "Selon Marx, la société est structurée par :",
+      "options": ["Les rapports de production et les classes sociales", "La morale individuelle", "La culture uniquement", "Les croyances religieuses"],
+      "reponse": "Les rapports de production et les classes sociales",
+      "explication": "Marx analyse la société en termes de luttes de classes liées à la production."
+    },
+    {
+      "question": "L’individu est à la fois :",
+      "options": ["Un être singulier et un être social", "Un simple produit de la société", "Une entité complètement isolée", "Un animal naturel sans culture"],
+      "reponse": "Un être singulier et un être social",
+      "explication": "L’individu possède une identité propre tout en étant influencé par la société."
+    },
+    {
+      "question": "La morale est souvent fondée sur :",
+      "options": ["Des valeurs partagées et des convictions profondes", "Des lois écrites uniquement", "Des règles arbitraires", "Des décisions politiques"],
+      "reponse": "Des valeurs partagées et des convictions profondes",
+      "explication": "La morale s’appuie sur ce que la société considère comme juste ou injuste."
+    },
+    {
+      "question": "La culture influence :",
+      "options": ["Les comportements, les croyances et les modes de vie", "Uniquement les croyances religieuses", "Uniquement les lois", "Rien du tout"],
+      "reponse": "Les comportements, les croyances et les modes de vie",
+      "explication": "La culture façonne tous les aspects de la vie sociale."
+    },
+    {
+      "question": "La socialisation primaire se fait principalement :",
+      "options": ["Dans la famille", "À l’université", "Au travail", "Dans les médias"],
+      "reponse": "Dans la famille",
+      "explication": "La famille est le premier lieu d’apprentissage des normes sociales."
+    },
+    {
+      "question": "La socialisation secondaire a lieu :",
+      "options": ["Dans des institutions comme l’école et le travail", "Dans la famille uniquement", "Dans la rue seulement", "Nulle part"],
+      "reponse": "Dans des institutions comme l’école et le travail",
+      "explication": "Elle permet d’intégrer de nouveaux rôles sociaux à l’âge adulte."
+    },
+    {
+      "question": "L’individu peut parfois entrer en conflit avec la société lorsqu’il :",
+      "options": ["Refuse certaines normes ou valeurs", "Accepte tout sans question", "Ignore la morale", "Est isolé"],
+      "reponse": "Refuse certaines normes ou valeurs",
+      "explication": "La tension entre l’individu et la société peut conduire à des conflits ou changements sociaux."
+    },
+    {
+      "question": "La culture est :",
+      "options": ["Dynamique et en constante évolution", "Fixe et immuable", "Simplement biologique", "Une illusion"],
+      "reponse": "Dynamique et en constante évolution",
+      "explication": "Elle s’adapte aux changements sociaux et historiques."
+    },
+    {
+      "question": "La morale collective est :",
+      "options": ["L’ensemble des règles et valeurs partagées par une société", "Une opinion individuelle", "Une loi politique", "Une mode passagère"],
+      "reponse": "L’ensemble des règles et valeurs partagées par une société",
+      "explication": "Elle définit ce qui est considéré comme acceptable socialement."
+    },
+    {
+      "question": "Le rôle des normes sociales est de :",
+      "options": ["Réguler les comportements au sein d’une société", "Permettre l’anarchie", "Supprimer la diversité", "Ignorer les individus"],
+      "reponse": "Réguler les comportements au sein d’une société",
+      "explication": "Les normes favorisent la cohésion sociale en fixant des règles communes."
+    },
+    {
+      "question": "Un groupe d’appartenance est :",
+      "options": ["Un groupe auquel un individu se sent lié", "Un groupe dont on est exclu", "Un groupe virtuel", "Un groupe animalier"],
+      "reponse": "Un groupe auquel un individu se sent lié",
+      "explication": "L’appartenance sociale influence l’identité et les comportements."
+    },
+    {
+      "question": "La culture comprend :",
+      "options": ["Les langues, les traditions, les arts et les croyances", "Uniquement la religion", "Uniquement les lois", "Uniquement la politique"],
+      "reponse": "Les langues, les traditions, les arts et les croyances",
+      "explication": "Elle englobe tous les aspects symboliques d’une société."
+    },
+    {
+      "question": "L’individu est influencé par la société grâce à :",
+      "options": ["La socialisation", "La génétique", "Le hasard", "La nature uniquement"],
+      "reponse": "La socialisation",
+      "explication": "C’est par ce processus que les normes et valeurs sont transmises."
+    },
+    {
+      "question": "La morale joue un rôle dans :",
+      "options": ["La formation du jugement personnel", "La législation uniquement", "La politique extérieure", "La science"],
+      "reponse": "La formation du jugement personnel",
+      "explication": "Elle guide l’individu dans ses choix éthiques."
+    },
+    {
+      "question": "Les normes sociales peuvent être :",
+      "options": ["Formelles (lois) ou informelles (coutumes)", "Uniquement écrites", "Toujours contraignantes", "Absentes dans les sociétés modernes"],
+      "reponse": "Formelles (lois) ou informelles (coutumes)",
+      "explication": "Elles existent sous différentes formes pour réguler la vie sociale."
+    },
+    {
+      "question": "La société est un lieu où :",
+      "options": ["Les individus vivent en interaction et partagent une culture", "Chacun vit isolé", "Il n’y a pas de règles", "La nature domine"],
+      "reponse": "Les individus vivent en interaction et partagent une culture",
+      "explication": "La société repose sur la coopération et la transmission culturelle."
+    },
+    {
+      "question": "L’appartenance à un groupe social peut :",
+      "options": ["Renforcer le sentiment d’identité", "Toujours isoler l’individu", "Être sans effet", "Réduire les différences culturelles"],
+      "reponse": "Renforcer le sentiment d’identité",
+      "explication": "Elle participe à la construction du moi social."
+    },
+    {
+      "question": "La culture façonne :",
+      "options": ["Les perceptions et comportements des individus", "Uniquement les lois", "Uniquement les croyances religieuses", "Rien"],
+      "reponse": "Les perceptions et comportements des individus",
+      "explication": "Elle influence la manière dont les individus comprennent et agissent dans le monde."
+    },
+    {
+      "question": "La socialisation permet :",
+      "options": ["L’intégration à la société et l’apprentissage des normes", "L’isolement social", "L’oubli des traditions", "L’anarchie"],
+      "reponse": "L’intégration à la société et l’apprentissage des normes",
+      "explication": "Elle est essentielle pour la cohésion sociale et l’identité individuelle."
+    },
+    {
+      "question": "La morale collective est :",
+      "options": ["Un ensemble de valeurs partagées qui guident le comportement social", "Une invention politique", "Une loi imposée", "Un mythe"],
+      "reponse": "Un ensemble de valeurs partagées qui guident le comportement social",
+      "explication": "Elle structure la vie en société en définissant le bien et le mal."
+    },
+    {
+      "question": "La culture est essentielle car elle :",
+      "options": ["Permet la communication et la compréhension entre les membres", "Est une source de conflits", "Est un frein au progrès", "Est uniquement artistique"],
+      "reponse": "Permet la communication et la compréhension entre les membres",
+      "explication": "Elle crée un langage et des symboles communs."
+    },
+    {
+      "question": "Quel processus permet à l’individu d’intégrer les normes sociales ?",
+      "options": ["Socialisation", "Révolution", "Isolation", "Mutation"],
+      "reponse": "Socialisation",
+      "explication": "La socialisation est le mécanisme par lequel l’individu apprend et adopte les normes et valeurs de la société."
+    },
+    {
+      "question": "La culture influence principalement :",
+      "options": ["Les comportements et les croyances", "La génétique", "Le climat", "La technologie"],
+      "reponse": "Les comportements et les croyances",
+      "explication": "La culture façonne la manière dont les individus perçoivent le monde et interagissent entre eux."
+    },
+    {
+      "question": "Un groupe social est caractérisé par :",
+      "options": ["Des interactions et des normes communes", "Une simple réunion d’individus", "L’absence de règles", "L’isolement"],
+      "reponse": "Des interactions et des normes communes",
+      "explication": "Les groupes sociaux partagent des valeurs et établissent des relations entre leurs membres."
+    },
+    {
+      "question": "La morale se différencie de la loi par :",
+      "options": ["Être une règle non écrite guidant la conscience", "Être imposée par l’État", "Être toujours écrite", "Être universelle"],
+      "reponse": "Être une règle non écrite guidant la conscience",
+      "explication": "La morale dépend de la conscience individuelle et sociale, souvent en dehors des lois formelles."
+    },
+    {
+      "question": "La socialisation primaire se déroule principalement :",
+      "options": ["Dans la famille", "Au travail", "Dans la rue", "Dans les médias"],
+      "reponse": "Dans la famille",
+      "explication": "La famille est le premier cadre où l’individu apprend les normes et valeurs sociales."
+    },
+    {
+      "question": "La culture est :",
+      "options": ["Dynamique et transmise par la socialisation", "Fixe et immuable", "Strictement biologique", "Indépendante de la société"],
+      "reponse": "Dynamique et transmise par la socialisation",
+      "explication": "La culture évolue avec le temps et se transmet entre générations par l’éducation et l’interaction sociale."
+    },
+    {
+      "question": "L’appartenance à un groupe social influence :",
+      "options": ["L’identité et les comportements", "Uniquement le statut économique", "La génétique", "Les lois de la nature"],
+      "reponse": "L’identité et les comportements",
+      "explication": "Le groupe social façonne la manière dont l’individu se perçoit et agit."
+    },
+    {
+      "question": "Selon Durkheim, les faits sociaux :",
+      "options": ["Contraignent les individus", "N’ont pas d’effet sur la société", "Sont uniquement des idées", "Sont biologiques"],
+      "reponse": "Contraignent les individus",
+      "explication": "Les faits sociaux exercent une pression normative sur les comportements des individus."
+    },
+    {
+      "question": "La morale collective est constituée :",
+      "options": ["De valeurs et normes partagées", "D’opinions personnelles", "De lois écrites uniquement", "De règles imposées arbitrairement"],
+      "reponse": "De valeurs et normes partagées",
+      "explication": "Elle reflète ce qu’une société considère comme juste ou injuste."
+    },
+    {
+      "question": "La socialisation secondaire permet :",
+      "options": ["D’intégrer de nouveaux rôles sociaux à l’âge adulte", "De rejeter la culture", "D’oublier la famille", "D’isoler l’individu"],
+      "reponse": "D’intégrer de nouveaux rôles sociaux à l’âge adulte",
+      "explication": "Elle se fait dans des institutions comme l’école ou le travail et complète la socialisation primaire."
+    }
+  ]
+}

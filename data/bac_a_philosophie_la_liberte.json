@@ -1,0 +1,184 @@
+{
+  "exercices": [
+    {
+      "question": "Selon Rousseau, « L’homme est né libre, et partout il est dans les fers ». Cette phrase exprime :",
+      "options": ["Le conflit entre liberté naturelle et contraintes sociales", "L’absence totale de liberté", "La liberté sans limite", "L’anarchie"],
+      "reponse": "Le conflit entre liberté naturelle et contraintes sociales",
+      "explication": "Rousseau souligne la tension entre la liberté innée et les règles imposées par la société (« Du contrat social »)."
+    },
+    {
+      "question": "Isaiah Berlin définit la liberté négative comme :",
+      "options": ["L’absence d’obstacles extérieurs à l’action", "La capacité à se réaliser pleinement", "La liberté politique", "L’obéissance à la loi morale"],
+      "reponse": "L’absence d’obstacles extérieurs à l’action",
+      "explication": "Berlin distingue la liberté négative (absence d’entraves) de la liberté positive (maîtrise de soi)."
+    },
+    {
+      "question": "Kant affirme que la liberté véritable est :",
+      "options": ["Agir selon la raison et l’impératif catégorique", "Faire tout ce que l’on veut", "Ignorer la morale", "Se libérer des lois sociales"],
+      "reponse": "Agir selon la raison et l’impératif catégorique",
+      "explication": "Pour Kant, la liberté morale consiste à suivre une loi que l’on se donne rationnellement (« Fondements de la métaphysique des mœurs »)."
+    },
+    {
+      "question": "John Stuart Mill soutient que la liberté individuelle doit être limitée quand :",
+      "options": ["Elle nuit à autrui", "Elle dérange la majorité", "Elle va à l’encontre des traditions", "Elle contredit la religion"],
+      "reponse": "Elle nuit à autrui",
+      "explication": "Mill défend la liberté tant qu’elle ne cause pas de tort à autrui (« De la liberté »)."
+    },
+    {
+      "question": "Spinoza considère la liberté comme :",
+      "options": ["Comprendre la nécessité des choses et agir en conséquence", "Faire ce que l’on veut", "Refuser toute contrainte", "Être indépendant de la nature"],
+      "reponse": "Comprendre la nécessité des choses et agir en conséquence",
+      "explication": "Pour Spinoza, être libre c’est agir selon la connaissance des lois naturelles (« Éthique »)."
+    },
+    {
+      "question": "Une liberté illimitée qui ne respecte pas les droits d’autrui s’appelle :",
+      "options": ["La licence", "La liberté positive", "La liberté négative", "La liberté politique"],
+      "reponse": "La licence",
+      "explication": "La licence est une liberté sans limites, souvent au détriment des autres."
+    },
+    {
+      "question": "Selon Hobbes, pour garantir la liberté, il faut :",
+      "options": ["Un pouvoir souverain fort", "L’anarchie", "La liberté totale", "L’absence de lois"],
+      "reponse": "Un pouvoir souverain fort",
+      "explication": "Dans « Léviathan », Hobbes affirme que la sécurité passe par un État puissant qui impose l’ordre."
+    },
+    {
+      "question": "La liberté d’expression est une liberté qui :",
+      "options": ["Permet de dire ce que l’on pense dans le cadre des lois", "Autorise tous les propos sans limite", "Est illimitée", "Est absente dans les démocraties"],
+      "reponse": "Permet de dire ce que l’on pense dans le cadre des lois",
+      "explication": "Cette liberté est fondamentale mais encadrée pour éviter les abus."
+    },
+    {
+      "question": "Sartre affirme que l’homme est « condamné à être libre » parce que :",
+      "options": ["Il est responsable de ses choix", "Il n’a pas de liberté", "Il est déterminé par la société", "Il suit une nature fixe"],
+      "reponse": "Il est responsable de ses choix",
+      "explication": "Pour Sartre, la liberté implique une responsabilité totale (« L’existentialisme est un humanisme »)."
+    },
+    {
+      "question": "Les contraintes sociales sont nécessaires parce que :",
+      "options": ["Elles garantissent la coexistence pacifique", "Elles limitent toujours la liberté", "Elles oppriment les individus", "Elles sont inutiles"],
+      "reponse": "Elles garantissent la coexistence pacifique",
+      "explication": "Les règles sociales protègent les libertés de chacun en fixant des limites."
+    },
+    {
+      "question": "La liberté peut être définie comme :",
+      "options": ["La capacité d’agir selon sa volonté", "L’absence totale de règles", "Le fait de ne jamais être responsable", "Un état de nature sans contraintes"],
+      "reponse": "La capacité d’agir selon sa volonté",
+      "explication": "La liberté désigne la faculté d’agir ou de ne pas agir selon sa propre volonté, en tenant compte des limites."
+    },
+    {
+      "question": "Selon Jean-Jacques Rousseau, la liberté consiste à :",
+      "options": ["Obéir à la loi qu’on s’est prescrite", "Faire tout ce que l’on veut", "Ignorer les lois sociales", "Vivre sans contraintes"],
+      "reponse": "Obéir à la loi qu’on s’est prescrite",
+      "explication": "Dans « Du contrat social », Rousseau définit la liberté comme l’obéissance à une loi qu’on se donne soi-même."
+    },
+    {
+      "question": "La liberté individuelle peut être limitée par :",
+      "options": ["Les contraintes sociales et les lois", "Le désir personnel", "L’opinion publique", "Le hasard"],
+      "reponse": "Les contraintes sociales et les lois",
+      "explication": "La liberté n’est pas absolue, elle est encadrée par des règles pour garantir la coexistence pacifique."
+    },
+    {
+      "question": "Qu’est-ce que la liberté négative selon Isaiah Berlin ?",
+      "options": ["L’absence d’entraves extérieures à l’action", "La liberté de choisir ses valeurs", "La liberté politique", "La liberté intérieure"],
+      "reponse": "L’absence d’entraves extérieures à l’action",
+      "explication": "La liberté négative signifie ne pas être empêché par autrui d’agir comme on le souhaite."
+    },
+    {
+      "question": "Qu’est-ce que la liberté positive selon Isaiah Berlin ?",
+      "options": ["La capacité à être maître de soi-même", "L’absence de contraintes", "La liberté d’opinion", "La liberté politique"],
+      "reponse": "La capacité à être maître de soi-même",
+      "explication": "La liberté positive désigne la maîtrise de sa propre vie et la réalisation de ses buts."
+    },
+    {
+      "question": "Selon Kant, la liberté est :",
+      "options": ["La capacité d’agir selon la raison et la loi morale", "Faire tout ce que l’on veut", "Un droit naturel illimité", "Une illusion"],
+      "reponse": "La capacité d’agir selon la raison et la loi morale",
+      "explication": "Pour Kant, être libre c’est agir conformément à la raison et à l’impératif catégorique."
+    },
+    {
+      "question": "La liberté d’expression est un exemple de :",
+      "options": ["Liberté individuelle", "Contrainte sociale", "Autorité politique", "Injustice"],
+      "reponse": "Liberté individuelle",
+      "explication": "La liberté d’expression permet à chacun de dire ce qu’il pense, dans le cadre des lois."
+    },
+    {
+      "question": "Les contraintes sociales servent à :",
+      "options": ["Garantir la coexistence pacifique", "Limiter la liberté de façon arbitraire", "Imposer des croyances", "Oppresser les individus"],
+      "reponse": "Garantir la coexistence pacifique",
+      "explication": "Les règles sociales encadrent les libertés pour éviter le chaos et les conflits."
+    },
+    {
+      "question": "Selon Spinoza, la liberté consiste à :",
+      "options": ["Comprendre la nécessité des choses et agir en conséquence", "Faire ce que l’on veut", "Ignorer les lois", "S’opposer à la nature"],
+      "reponse": "Comprendre la nécessité des choses et agir en conséquence",
+      "explication": "Spinoza voit la liberté comme la connaissance et l’acceptation des lois de la nature."
+    },
+    {
+      "question": "La liberté politique se manifeste par :",
+      "options": ["La participation aux décisions collectives", "Le non-respect des lois", "L’anarchie", "La domination d’un seul"],
+      "reponse": "La participation aux décisions collectives",
+      "explication": "La liberté politique implique le droit de vote et la liberté d’association."
+    },
+    {
+      "question": "La liberté absolue, sans aucune contrainte, conduit souvent à :",
+      "options": ["L’anarchie", "La justice", "La paix sociale", "La démocratie"],
+      "reponse": "L’anarchie",
+      "explication": "Sans règles ni limites, la liberté peut engendrer le désordre et la violence."
+    },
+    {
+      "question": "Selon Hobbes, pour garantir la liberté, il faut :",
+      "options": ["Un pouvoir souverain fort", "Une liberté illimitée", "L’absence d’État", "La guerre permanente"],
+      "reponse": "Un pouvoir souverain fort",
+      "explication": "Dans « Léviathan », Hobbes affirme que la sécurité et la liberté passent par un État puissant."
+    },
+    {
+      "question": "La liberté est-elle compatible avec des règles ?",
+      "options": ["Oui, les règles définissent les limites nécessaires à la liberté", "Non, les règles limitent la liberté", "Oui, mais seulement dans les dictatures", "Non, la liberté est toujours absolue"],
+      "reponse": "Oui, les règles définissent les limites nécessaires à la liberté",
+      "explication": "La liberté n’est pas l’absence de règles, mais l’existence de règles justes qui protègent tous les individus."
+    },
+    {
+      "question": "La liberté d’aller et venir est un droit fondamental, mais elle peut être limitée par :",
+      "options": ["L’état d’urgence ou des raisons de sécurité", "Le simple désir d’une autorité", "La mauvaise humeur d’un citoyen", "La météo"],
+      "reponse": "L’état d’urgence ou des raisons de sécurité",
+      "explication": "Les autorités peuvent restreindre temporairement certaines libertés pour protéger la société."
+    },
+    {
+      "question": "Qu’est-ce qui distingue la liberté individuelle de la licence ?",
+      "options": ["La liberté respecte les droits d’autrui, la licence ne les respecte pas", "La licence est un droit légal", "La liberté est anarchique", "Il n’y a pas de différence"],
+      "reponse": "La liberté respecte les droits d’autrui, la licence ne les respecte pas",
+      "explication": "La licence est une liberté sans limites, souvent au détriment des autres."
+    },
+    {
+      "question": "La socialisation a pour effet :",
+      "options": ["D’inculquer des normes et limites à la liberté individuelle", "De supprimer toute liberté", "De renforcer l’anarchie", "D’imposer des règles arbitraires sans justification"],
+      "reponse": "D’inculquer des normes et limites à la liberté individuelle",
+      "explication": "La socialisation prépare les individus à vivre en société en respectant des règles."
+    },
+    {
+      "question": "Pour Sartre, la liberté humaine est :",
+      "options": ["Radicale et inconditionnelle", "Limitée par la nature", "Un mythe", "Conditionnée par la société"],
+      "reponse": "Radicale et inconditionnelle",
+      "explication": "Sartre affirme que l’homme est « condamné à être libre », responsable de ses choix."
+    },
+    {
+      "question": "Une contrainte sociale légitime est celle qui :",
+      "options": ["Protège les libertés de chacun", "Opprime les minorités", "Ignore les droits fondamentaux", "Est imposée arbitrairement"],
+      "reponse": "Protège les libertés de chacun",
+      "explication": "Une contrainte juste limite la liberté pour garantir l’égalité et la sécurité."
+    },
+    {
+      "question": "Selon John Stuart Mill, la liberté individuelle doit être limitée seulement si :",
+      "options": ["Elle cause du tort à autrui", "Elle dérange l’ordre social", "Elle est contraire à la tradition", "Elle est contraire à la religion"],
+      "reponse": "Elle cause du tort à autrui",
+      "explication": "Mill défend la liberté tant qu’elle ne nuit pas aux autres."
+    },
+    {
+      "question": "La liberté d’association permet :",
+      "options": ["De se regrouper librement pour défendre des idées", "D’imposer ses idées aux autres", "D’agir sans aucune règle", "D’ignorer la loi"],
+      "reponse": "De se regrouper librement pour défendre des idées",
+      "explication": "Cette liberté est essentielle à la démocratie et à la pluralité des opinions."
+    }
+  ]
+}

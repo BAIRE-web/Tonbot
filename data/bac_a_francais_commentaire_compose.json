@@ -1,0 +1,305 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le tout premier réflexe face à un sujet de commentaire ?",
+      "options": ["Lire le texte attentivement", "Chercher le plan", "Écrire l'introduction", "Lire les questions"],
+      "reponse": "Lire le texte attentivement",
+      "explication": "Il faut d’abord lire plusieurs fois le texte pour bien le comprendre et repérer ses caractéristiques."
+    },
+    {
+      "question": "Quel est le but principal du commentaire de texte ?",
+      "options": ["Analyser le texte", "Donner son avis", "Raconter l’histoire", "Résumer le texte"],
+      "reponse": "Analyser le texte",
+      "explication": "Le commentaire consiste à expliquer comment le texte fonctionne et produit du sens."
+    },
+    {
+      "question": "Comment s'appelle l'idée principale autour de laquelle s'organise un commentaire ?",
+      "options": ["La problématique", "La conclusion", "L’introduction", "La citation"],
+      "reponse": "La problématique",
+      "explication": "La problématique guide tout le commentaire, elle oriente l’analyse."
+    },
+    {
+      "question": "Combien de parties comprend généralement le développement d’un commentaire ?",
+      "options": ["Deux ou trois", "Quatre", "Une", "Autant que possible"],
+      "reponse": "Deux ou trois",
+      "explication": "Un bon commentaire a une structure claire avec deux ou trois axes d’analyse."
+    },
+    {
+      "question": "Quel type de plan est le plus utilisé dans un commentaire ?",
+      "options": ["Thématique", "Narratif", "Chronologique", "Comparatif"],
+      "reponse": "Thématique",
+      "explication": "Le plan thématique permet de regrouper les analyses selon des idées fortes."
+    },
+    {
+      "question": "Quel élément ne fait pas partie de l’introduction d’un commentaire ?",
+      "options": ["La thèse de l’auteur", "La présentation du texte", "La problématique", "L’annonce du plan"],
+      "reponse": "La thèse de l’auteur",
+      "explication": "Dans un commentaire, on n’analyse pas une thèse, mais un texte littéraire."
+    },
+    {
+      "question": "Que faut-il éviter dans un commentaire ?",
+      "options": ["Donner un avis personnel", "Analyser les procédés", "Citer le texte", "Suivre un plan clair"],
+      "reponse": "Donner un avis personnel",
+      "explication": "Il ne s’agit pas d’un jugement personnel, mais d’une analyse objective du texte."
+    },
+    {
+      "question": "Quel est le rôle des citations dans un commentaire ?",
+      "options": ["Appuyer les analyses", "Alléger le texte", "Raconter l’histoire", "Allonger le devoir"],
+      "reponse": "Appuyer les analyses",
+      "explication": "Chaque idée doit être illustrée par une citation du texte étudié."
+    },
+    {
+      "question": "Quel outil est essentiel pour analyser un poème ?",
+      "options": ["Le lexique des figures de style", "Un dictionnaire des synonymes", "Un résumé du texte", "Une biographie de l’auteur"],
+      "reponse": "Le lexique des figures de style",
+      "explication": "Les figures de style sont indispensables dans l’analyse poétique."
+    },
+    {
+      "question": "Le style indirect libre est une…",
+      "options": ["Figure de narration", "Forme d’ironie", "Faute grammaticale", "Forme poétique"],
+      "reponse": "Figure de narration",
+      "explication": "C’est un procédé narratif qui mêle les pensées du personnage et la voix du narrateur."
+    },
+
+    {
+      "question": "Quelle figure de style consiste à exagérer ?",
+      "options": ["Hyperbole", "Litote", "Comparaison", "Périphrase"],
+      "reponse": "Hyperbole",
+      "explication": "L’hyperbole amplifie une idée pour produire un effet fort."
+    },
+    {
+      "question": "Quelle phrase peut introduire un axe dans un commentaire ?",
+      "options": ["Nous allons montrer que…", "Je pense que…", "Cela me touche car…", "On voit bien que l’auteur…"],
+      "reponse": "Nous allons montrer que…",
+      "explication": "La formulation doit rester objective et claire."
+    },
+    {
+      "question": "Dans un texte théâtral, que faut-il aussi analyser ?",
+      "options": ["Les didascalies", "Les images", "La mise en page", "Le paratexte"],
+      "reponse": "Les didascalies",
+      "explication": "Les didascalies sont des indications scéniques à ne pas négliger."
+    },
+    {
+      "question": "Quel registre exprime la souffrance et la plainte ?",
+      "options": ["Pathétique", "Comique", "Épique", "Lyrique"],
+      "reponse": "Pathétique",
+      "explication": "Le pathétique vise à émouvoir en montrant la douleur d’un personnage."
+    },
+    {
+      "question": "Quel est le bon ordre d’une introduction ?",
+      "options": ["Accroche – Présentation – Problématique – Annonce du plan", "Plan – Accroche – Conclusion", "Citation – Analyse – Résumé – Plan", "Thèse – Démonstration – Conclusion"],
+      "reponse": "Accroche – Présentation – Problématique – Annonce du plan",
+      "explication": "C’est la structure classique attendue dans un commentaire."
+    },
+    {
+      "question": "Que faut-il éviter dans la conclusion d’un commentaire ?",
+      "options": ["Introduire un nouveau thème", "Résumer les axes", "Répondre à la problématique", "Faire une ouverture"],
+      "reponse": "Introduire un nouveau thème",
+      "explication": "La conclusion doit synthétiser sans ajouter de nouvelle idée."
+    },
+    {
+      "question": "Quelle figure rapproche deux réalités avec un outil de comparaison ?",
+      "options": ["Comparaison", "Métaphore", "Allégorie", "Métonymie"],
+      "reponse": "Comparaison",
+      "explication": "La comparaison utilise « comme », « tel », etc."
+    },
+    {
+      "question": "Quel type de texte demande un commentaire ?",
+      "options": ["Texte littéraire", "Texte scientifique", "Texte journalistique", "Fiche technique"],
+      "reponse": "Texte littéraire",
+      "explication": "L’épreuve porte uniquement sur des textes littéraires (roman, théâtre, poésie, etc.)."
+    },
+    {
+      "question": "Quel est le registre dominant dans un texte qui cherche à convaincre ?",
+      "options": ["Didactique", "Comique", "Épique", "Lyrique"],
+      "reponse": "Didactique",
+      "explication": "Le registre didactique cherche à transmettre un savoir ou une idée."
+    },
+    {
+      "question": "Quel outil grammatical faut-il analyser dans un dialogue ?",
+      "options": ["Pronoms personnels", "Verbes au conditionnel", "Prépositions", "Subjonctif imparfait"],
+      "reponse": "Pronoms personnels",
+      "explication": "Ils permettent d’analyser les relations entre les personnages."
+    },
+    {
+      "question": "Combien de syllabes y a-t-il dans un alexandrin ?",
+      "options": ["12", "10", "14", "8"],
+      "reponse": "12",
+      "explication": "L’alexandrin est un vers classique de 12 syllabes."
+    },
+    {
+      "question": "Quel terme désigne une pause à l’intérieur d’un vers ?",
+      "options": ["Une césure", "Un rejet", "Une enjambement", "Une rime"],
+      "reponse": "Une césure",
+      "explication": "La césure divise un vers en deux hémistiches."
+    },
+    {
+      "question": "Qu’est-ce qu’un enjambement ?",
+      "options": ["Le rejet d’un mot au vers suivant", "La répétition d’un son", "Une rime croisée", "Une pause forte"],
+      "reponse": "Le rejet d’un mot au vers suivant",
+      "explication": "L’enjambement consiste à faire commencer une phrase dans un vers et à la continuer dans le suivant."
+    },
+    {
+      "question": "Dans la lecture d’un poème, comment prononce-t-on généralement le « e » muet en fin de vers ?",
+      "options": ["Il est souvent prononcé", "Il est toujours prononcé", "Il n’est jamais prononcé", "Il est parfois prononcé selon le contexte"],
+      "reponse": "Il est parfois prononcé selon le contexte",
+      "explication": "Le « e » muet est souvent prononcé en début de vers mais élidé en fin selon le rythme."
+    },
+    {
+      "question": "Quelles sont les rimes dites ‘plates’ ?",
+      "options": ["A A B B", "A B A B", "A B B A", "A B C B"],
+      "reponse": "A A B B",
+      "explication": "Les rimes plates se suivent deux par deux."
+    },
+    {
+      "question": "Qu’appelle-t-on ‘une strophe’ ?",
+      "options": ["Un groupe de vers", "Une figure de style", "Un type de rime", "Une pause dans la lecture"],
+      "reponse": "Un groupe de vers",
+      "explication": "La strophe est un paragraphe poétique, un ensemble de vers formant un bloc."
+    },
+    {
+      "question": "Comment s’appelle la répétition d’un même son au début de plusieurs mots ?",
+      "options": ["Allitération", "Assonance", "Métaphore", "Oxymore"],
+      "reponse": "Allitération",
+      "explication": "L’allitération est la répétition de consonnes initiales."
+    },
+    {
+      "question": "Qu’est-ce que l’assonance ?",
+      "options": ["Répétition de voyelles", "Répétition de consonnes", "Une comparaison", "Un type de rime"],
+      "reponse": "Répétition de voyelles",
+      "explication": "L’assonance est la répétition d’un son vocalique."
+    },
+    {
+      "question": "Dans un poème, que signifie ‘le rythme’ ?",
+      "options": ["La cadence et l’alternance des sons", "Le nombre de mots", "Le sens du texte", "La longueur des phrases"],
+      "reponse": "La cadence et l’alternance des sons",
+      "explication": "Le rythme est créé par la répétition des sons, la longueur des vers et les pauses."
+    },
+    {
+      "question": "Quel effet produit une rime riche ?",
+      "options": ["Elle renforce la musicalité et le sens", "Elle rend le poème difficile", "Elle allonge les vers", "Elle supprime la césure"],
+      "reponse": "Elle renforce la musicalité et le sens",
+      "explication": "La rime riche utilise plusieurs sons identiques, créant un effet d’harmonie."
+    },
+    {
+      "question": "Comment appelle-t-on un vers qui continue sans pause jusqu’au vers suivant ?",
+      "options": ["Enjambement", "Rejet", "Césure", "Rime"],
+      "reponse": "Enjambement",
+      "explication": "L’enjambement fait passer le sens d’un vers au suivant sans pause."
+    },
+    {
+      "question": "Quelle est la fonction d’une césure dans un vers ?",
+      "options": ["Créer une pause rythmique", "Introduire une rime", "Faire une comparaison", "Répéter un son"],
+      "reponse": "Créer une pause rythmique",
+      "explication": "La césure segmente le vers en deux parties équilibrées."
+    },
+    {
+      "question": "Quelle est la différence entre allitération et assonance ?",
+      "options": ["Allitération = consonnes, assonance = voyelles", "Les deux sont identiques", "Allitération = voyelles, assonance = consonnes", "Allitération = rimes, assonance = rythme"],
+      "reponse": "Allitération = consonnes, assonance = voyelles",
+      "explication": "L’allitération répète des consonnes, l’assonance des voyelles."
+    },
+    {
+      "question": "Comment compter les syllabes d’un vers ?",
+      "options": ["En prononçant le vers à voix haute", "En comptant les mots", "En comptant les lettres", "En regardant le nombre de rimes"],
+      "reponse": "En prononçant le vers à voix haute",
+      "explication": "Le comptage des syllabes se fait à l’oral, en tenant compte des élisions."
+    },
+    {
+      "question": "Quelle est la particularité du vers libre ?",
+      "options": ["Il ne respecte pas de longueur ni de rimes fixes", "Il a toujours 12 syllabes", "Il a des rimes plates", "Il est toujours rimé"],
+      "reponse": "Il ne respecte pas de longueur ni de rimes fixes",
+      "explication": "Le vers libre libère le poète des contraintes classiques."
+    },
+    {
+      "question": "Quel est l’effet d’un rejet dans un poème ?",
+      "options": ["Mettre en valeur un mot ou groupe au début du vers suivant", "Créer une rime", "Introduire une métaphore", "Casser le rythme"],
+      "reponse": "Mettre en valeur un mot ou groupe au début du vers suivant",
+      "explication": "Le rejet consiste à isoler un mot au vers suivant pour l’accentuer."
+    },
+    {
+      "question": "Comment analyser le rythme dans un texte narratif ?",
+      "options": ["En étudiant la longueur des phrases et la ponctuation", "En comptant les rimes", "En cherchant les figures de style", "En observant les personnages"],
+      "reponse": "En étudiant la longueur des phrases et la ponctuation",
+      "explication": "Le rythme en prose dépend des phrases et des pauses."
+    },
+    {
+      "question": "Quel effet produit la répétition dans un poème ?",
+      "options": ["Accentuer une idée ou un sentiment", "Ralentir la lecture", "Changer le sens", "Créer un contraste"],
+      "reponse": "Accentuer une idée ou un sentiment",
+      "explication": "La répétition met en lumière un mot ou une idée importante."
+    },
+    {
+      "question": "Quelle figure consiste à dire le contraire de ce que l’on pense pour faire comprendre une idée ?",
+      "options": ["Ironie", "Hyperbole", "Litote", "Allégorie"],
+      "reponse": "Ironie",
+      "explication": "L’ironie fait entendre un sens contraire pour critiquer ou faire sourire."
+    },
+    {
+      "question": "Dans la lecture à voix haute, pourquoi est-il important de respecter la ponctuation ?",
+      "options": ["Pour marquer le rythme et faciliter la compréhension", "Pour impressionner l’auditoire", "Pour accélérer la lecture", "Pour éviter de faire des erreurs de prononciation"],
+      "reponse": "Pour marquer le rythme et faciliter la compréhension",
+      "explication": "La ponctuation guide le rythme et les pauses, essentielles à la bonne lecture."
+    },
+    {
+      "question": "Combien de syllabes comporte ce vers ?\n« Je marche seul dans la forêt profonde »",
+      "options": ["12", "10", "8", "14"],
+      "reponse": "10",
+      "explication": "En prononçant à voix haute, ce vers compte 10 syllabes."
+    },
+    {
+      "question": "Dans ce vers, où se situe la césure ?\n« Sous le ciel gris, le vent souffle fort »",
+      "options": ["Après la 6e syllabe", "Après la 4e syllabe", "Après la 8e syllabe", "Il n'y a pas de césure"],
+      "reponse": "Après la 6e syllabe",
+      "explication": "Dans un alexandrin classique, la césure divise le vers en deux hémistiches de 6 syllabes."
+    },
+    {
+      "question": "Quel procédé est utilisé dans ces deux vers ?\n« Le vent s'en va, emportant mes pensées\nAu-delà des mers et des vallées »",
+      "options": ["Enjambement", "Rejet", "Césure", "Rime plate"],
+      "reponse": "Enjambement",
+      "explication": "La phrase commence dans un vers et continue dans le suivant sans pause."
+    },
+    {
+      "question": "Dans ce vers, le « e » final de « pensée » est-il prononcé ?\n« Le vent s'en va, emportant mes pensées »",
+      "options": ["Oui, car il est suivi d'une consonne", "Non, car il est en fin de vers", "Oui, car c’est un mot important", "Non, car c’est un e muet toujours muet"],
+      "reponse": "Non, car il est en fin de vers",
+      "explication": "En fin de vers, le « e » muet n’est généralement pas prononcé."
+    },
+    {
+      "question": "Quelle est la rime dans ces vers ?\n« Dans le ciel bleu, l’oiseau s’élance\nLibre il danse, en cadence »",
+      "options": ["Rime plate (A A)", "Rime croisée (A B A B)", "Rime embrassée (A B B A)", "Rime pauvre"],
+      "reponse": "Rime plate (A A)",
+      "explication": "Les vers riment deux à deux (élance/cadence)."
+    },
+    {
+      "question": "Quelle figure de style est ici ?\n« Les feuilles dansent au vent léger »",
+      "options": ["Personnification", "Métaphore", "Allitération", "Hyperbole"],
+      "reponse": "Personnification",
+      "explication": "On attribue à la nature un comportement humain (danser)."
+    },
+    {
+      "question": "Compte le nombre de syllabes dans ce vers :\n« Douce est la nuit qui caresse mon front »",
+      "options": ["12", "10", "8", "14"],
+      "reponse": "12",
+      "explication": "Ce vers est un alexandrin classique de 12 syllabes."
+    },
+    {
+      "question": "Quel est l’effet d’un rejet dans la poésie ?",
+      "options": ["Isoler un mot au début du vers suivant pour l’accentuer", "Créer une rime riche", "Marquer une césure", "Allonger le vers"],
+      "reponse": "Isoler un mot au début du vers suivant pour l’accentuer",
+      "explication": "Le rejet sert à mettre en valeur un élément du poème."
+    },
+    {
+      "question": "Dans ce vers, quelle est la nature de la rime ?\n« L'eau claire scintille sous le soleil\nEt dans le bois s'éveille le merle »",
+      "options": ["Rime croisée", "Rime plate", "Rime embrassée", "Rime riche"],
+      "reponse": "Rime croisée",
+      "explication": "Le schéma est ABAB : soleil (A) / merle (B)."
+    },
+    {
+      "question": "Dans la lecture d’un poème, que faut-il faire avant de commencer ?",
+      "options": ["Compter les syllabes, repérer la ponctuation et les rimes", "Écrire un résumé", "Chercher la biographie de l’auteur", "Noter ses impressions"],
+      "reponse": "Compter les syllabes, repérer la ponctuation et les rimes",
+      "explication": "Cela aide à comprendre la structure et le rythme du poème."
+    }
+  ]
+}

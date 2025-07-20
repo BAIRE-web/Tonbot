@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle organisation a été créée en 1949 pour s’opposer à l’expansion soviétique ?",
+      "options": ["OTAN", "Pacte de Varsovie", "ONU", "SEATO"],
+      "reponse": "OTAN",
+      "explication": "L’OTAN est une alliance militaire des pays occidentaux créée pour contenir le communisme."
+    },
+    {
+      "question": "Quel événement de 1948 a montré la division de Berlin entre les Alliés et l’URSS ?",
+      "options": ["Blocus de Berlin", "Crise de Cuba", "Construction du Mur de Berlin", "Invasion de Berlin"],
+      "reponse": "Blocus de Berlin",
+      "explication": "L’URSS bloque les accès terrestres à Berlin-Ouest pour isoler la partie occidentale."
+    },
+    {
+      "question": "Quelle guerre en Asie a été un conflit direct entre le Nord communiste et le Sud soutenu par l’Occident ?",
+      "options": ["Guerre de Corée", "Guerre du Vietnam", "Guerre d’Indochine", "Guerre sino-japonaise"],
+      "reponse": "Guerre de Corée",
+      "explication": "La Corée du Nord soutenue par l’URSS et la Chine combat la Corée du Sud soutenue par les USA."
+    },
+    {
+      "question": "Quelle est la signification du terme 'détente' durant la Guerre froide ?",
+      "options": ["Réduction des tensions entre USA et URSS", "Augmentation des tensions", "Début d’une guerre nucléaire", "Formation d’une alliance"],
+      "reponse": "Réduction des tensions entre USA et URSS",
+      "explication": "La détente est une période de dialogue et de négociations dans les années 1970."
+    },
+    {
+      "question": "Quel pays d’Europe centrale a connu un soulèvement contre le régime soviétique en 1956 ?",
+      "options": ["Hongrie", "Pologne", "Tchécoslovaquie", "Allemagne de l’Est"],
+      "reponse": "Hongrie",
+      "explication": "Le soulèvement de Budapest a été violemment réprimé par l’armée soviétique."
+    },
+    {
+      "question": "Quel est le nom de la doctrine qui justifie l’intervention américaine en Amérique latine contre le communisme ?",
+      "options": ["Doctrine Monroe", "Doctrine Truman", "Doctrine Eisenhower", "Doctrine Reagan"],
+      "reponse": "Doctrine Monroe",
+      "explication": "Cette doctrine vise à empêcher l’influence européenne et communiste en Amérique."
+    },
+    {
+      "question": "Quel pays d’Amérique latine a connu une révolution communiste en 1959 ?",
+      "options": ["Cuba", "Mexique", "Brésil", "Argentine"],
+      "reponse": "Cuba",
+      "explication": "Fidèle Castro renverse le régime de Batista et instaure un régime communiste."
+    },
+    {
+      "question": "Quelle est la capitale de la République fédérale d’Allemagne (Allemagne de l’Ouest) durant la Guerre froide ?",
+      "options": ["Bonn", "Berlin", "Munich", "Francfort"],
+      "reponse": "Bonn",
+      "explication": "Bonn fut la capitale provisoire de l’Allemagne de l’Ouest de 1949 à 1990."
+    },
+    {
+      "question": "Quel président américain a lancé le programme spatial Apollo ?",
+      "options": ["John F. Kennedy", "Richard Nixon", "Lyndon B. Johnson", "Dwight Eisenhower"],
+      "reponse": "John F. Kennedy",
+      "explication": "Kennedy s’est engagé à envoyer un homme sur la Lune avant la fin des années 1960."
+    },
+    {
+      "question": "Quel est le nom de la politique soviétique d’ouverture et de transparence initiée par Gorbatchev ?",
+      "options": ["Glasnost", "Perestroïka", "Détente", "Containment"],
+      "reponse": "Glasnost",
+      "explication": "Glasnost signifie ouverture et encourage la liberté d’expression en URSS."
+    },
+    {
+      "question": "Quelle crise a opposé l’URSS et l’Occident à propos de la possession de Berlin en 1948-1949 ?",
+      "options": ["Blocus de Berlin", "Crise des missiles de Cuba", "Crise de Berlin", "Guerre de Corée"],
+      "reponse": "Blocus de Berlin",
+      "explication": "L’URSS tente d’isoler Berlin-Ouest en coupant les routes d’approvisionnement."
+    },
+    {
+      "question": "Quel est le nom du pacte militaire créé par les pays communistes d’Europe de l’Est en 1955 ?",
+      "options": ["Pacte de Varsovie", "OTAN", "SEATO", "COMECON"],
+      "reponse": "Pacte de Varsovie",
+      "explication": "Le Pacte de Varsovie est la réponse soviétique à l’OTAN pour unir les pays communistes."
+    },
+    {
+      "question": "Quel pays a été le théâtre du Printemps de Prague en 1968 ?",
+      "options": ["Tchécoslovaquie", "Pologne", "Hongrie", "Allemagne de l’Est"],
+      "reponse": "Tchécoslovaquie",
+      "explication": "Ce mouvement réformiste a été écrasé par une intervention militaire soviétique."
+    },
+    {
+      "question": "Quel est le terme désignant la rivalité politique et militaire entre USA et URSS sans affrontement direct ?",
+      "options": ["Guerre froide", "Guerre chaude", "Guerre nucléaire", "Guerre mondiale"],
+      "reponse": "Guerre froide",
+      "explication": "La Guerre froide oppose idéologiquement et militairement les deux superpuissances sans conflit direct."
+    },
+    {
+      "question": "Quel président américain a prononcé la célèbre phrase 'Mr. Gorbachev, tear down this wall!' ?",
+      "options": ["Ronald Reagan", "Jimmy Carter", "George Bush", "Bill Clinton"],
+      "reponse": "Ronald Reagan",
+      "explication": "Discours de Reagan en 1987 demandant la chute du mur de Berlin."
+    },
+    {
+      "question": "Quel est le nom du programme américain visant à contenir le communisme dans le monde ?",
+      "options": ["Containment", "Marshall Plan", "New Deal", "Lend-Lease"],
+      "reponse": "Containment",
+      "explication": "Stratégie américaine pour empêcher l’expansion du communisme à travers le monde."
+    },
+    {
+      "question": "Quelle est la capitale de la République démocratique allemande (Allemagne de l’Est) ?",
+      "options": ["Berlin-Est", "Bonn", "Munich", "Hambourg"],
+      "reponse": "Berlin-Est",
+      "explication": "Berlin-Est était la capitale de la RDA, séparée par le Mur de Berlin."
+    },
+    {
+      "question": "Quel événement marque la fin symbolique de la Guerre froide ?",
+      "options": ["Chute du Mur de Berlin", "Fin de la Guerre du Vietnam", "Traité de Versailles", "Blocus de Berlin"],
+      "reponse": "Chute du Mur de Berlin",
+      "explication": "La chute en 1989 symbolise la fin de la division Est-Ouest et de la Guerre froide."
+    },
+    {
+      "question": "Quel est le nom de la réforme économique initiée par Gorbatchev ?",
+      "options": ["Perestroïka", "Glasnost", "Détente", "Plan Marshall"],
+      "reponse": "Perestroïka",
+      "explication": "Perestroïka signifie restructuration et vise à réformer l’économie soviétique."
+    },
+    {
+      "question": "Quel est le nom de la crise diplomatique autour de missiles nucléaires soviétiques à Cuba ?",
+      "options": ["Crise des missiles de Cuba", "Blocus de Berlin", "Guerre de Corée", "Guerre du Vietnam"],
+      "reponse": "Crise des missiles de Cuba",
+      "explication": "Cette crise de 1962 a failli provoquer une guerre nucléaire entre USA et URSS."
+    },
+    {
+      "question": "Quelles sont les deux superpuissances principales durant la Guerre froide ?",
+      "options": ["États-Unis et URSS", "Allemagne et Japon", "France et Royaume-Uni", "Chine et Inde"],
+      "reponse": "États-Unis et URSS",
+      "explication": "Les États-Unis et l'Union soviétique s'affrontent idéologiquement et politiquement après 1945."
+    },
+    {
+      "question": "Qu’est-ce que la doctrine Truman ?",
+      "options": ["Politique américaine de containment du communisme", "Alliance militaire entre URSS et Chine", "Plan économique européen", "Programme spatial américain"],
+      "reponse": "Politique américaine de containment du communisme",
+      "explication": "Annoncée en 1947, cette doctrine vise à empêcher la propagation du communisme."
+    },
+    {
+      "question": "Quel mur symbolise la division entre l’Est communiste et l’Ouest capitaliste ?",
+      "options": ["Mur de Berlin", "Grande Muraille de Chine", "Mur d’Hadrien", "Mur des Lamentations"],
+      "reponse": "Mur de Berlin",
+      "explication": "Construit en 1961, il sépare Berlin Est (communiste) et Berlin Ouest (capitaliste)."
+    },
+    {
+      "question": "Quelle organisation militaire regroupe les pays de l’Ouest pendant la Guerre froide ?",
+      "options": ["OTAN", "Pacte de Varsovie", "ONU", "Commonwealth"],
+      "reponse": "OTAN",
+      "explication": "L’Organisation du Traité de l’Atlantique Nord est une alliance militaire occidentale créée en 1949."
+    },
+    {
+      "question": "Quel est le pacte militaire créé par l’URSS et ses alliés ?",
+      "options": ["Pacte de Varsovie", "OTAN", "Warsaw Pact", "Nations Unies"],
+      "reponse": "Pacte de Varsovie",
+      "explication": "Fondé en 1955, ce pacte est la réponse soviétique à l’OTAN."
+    },
+    {
+      "question": "Quelle crise de 1962 a failli provoquer une guerre nucléaire ?",
+      "options": ["Crise des missiles de Cuba", "Crise de Berlin", "Guerre de Corée", "Guerre du Vietnam"],
+      "reponse": "Crise des missiles de Cuba",
+      "explication": "Les États-Unis découvrent des missiles soviétiques à Cuba, déclenchant une grave tension."
+    },
+    {
+      "question": "Quel pays a été divisé en deux après la Seconde Guerre mondiale ?",
+      "options": ["Allemagne", "France", "Italie", "Japon"],
+      "reponse": "Allemagne",
+      "explication": "L’Allemagne est divisée en République fédérale (Ouest) et République démocratique (Est)."
+    },
+    {
+      "question": "Quelle guerre a été un conflit indirect entre les États-Unis et l’URSS ?",
+      "options": ["Guerre de Corée", "Première Guerre mondiale", "Guerre d’Algérie", "Guerre du Golfe"],
+      "reponse": "Guerre de Corée",
+      "explication": "La guerre oppose la Corée du Nord (soutenue par l’URSS) et la Corée du Sud (soutenue par les États-Unis)."
+    },
+    {
+      "question": "Quel président américain a lancé la politique de la détente ?",
+      "options": ["Richard Nixon", "John F. Kennedy", "Dwight Eisenhower", "Ronald Reagan"],
+      "reponse": "Richard Nixon",
+      "explication": "Il a amorcé une période de réduction des tensions avec l’URSS dans les années 1970."
+    },
+    {
+      "question": "Quelle doctrine américaine visait à soutenir les pays menacés par le communisme ?",
+      "options": ["Doctrine Truman", "Doctrine Monroe", "Doctrine Bush", "Doctrine Carter"],
+      "reponse": "Doctrine Truman",
+      "explication": "Cette doctrine propose un soutien militaire et économique pour freiner l’expansion communiste."
+    },
+    {
+      "question": "Qu’est-ce que le plan Marshall ?",
+      "options": ["Aide économique américaine à l’Europe", "Programme spatial soviétique", "Traité militaire OTAN", "Alliance économique asiatique"],
+      "reponse": "Aide économique américaine à l’Europe",
+      "explication": "Le plan Marshall (1947) aide la reconstruction et empêche l’influence communiste en Europe."
+    },
+    {
+      "question": "Quelle est la capitale de l’Allemagne de l’Est durant la Guerre froide ?",
+      "options": ["Berlin-Est", "Munich", "Francfort", "Hambourg"],
+      "reponse": "Berlin-Est",
+      "explication": "Berlin-Est était la capitale de la République démocratique allemande (RDA)."
+    },
+    {
+      "question": "Quelle guerre a opposé les États-Unis au Vietnam communiste ?",
+      "options": ["Guerre du Vietnam", "Guerre de Corée", "Guerre d’Algérie", "Guerre d’Irak"],
+      "reponse": "Guerre du Vietnam",
+      "explication": "Conflit majeur de la Guerre froide, avec une intervention américaine pour stopper le communisme."
+    },
+    {
+      "question": "Quel est le symbole de la coexistence de deux blocs idéologiques ?",
+      "options": ["Rideau de fer", "Mur de Berlin", "Mur des Lamentations", "Grande Muraille de Chine"],
+      "reponse": "Rideau de fer",
+      "explication": "Expression désignant la frontière idéologique entre l’Est communiste et l’Ouest capitaliste."
+    },
+    {
+      "question": "Quel président américain a prononcé le discours sur le 'rideau de fer' ?",
+      "options": ["Winston Churchill", "Harry Truman", "John F. Kennedy", "Dwight Eisenhower"],
+      "reponse": "Winston Churchill",
+      "explication": "En 1946, Churchill dénonce la division de l’Europe et l’expansion soviétique."
+    },
+    {
+      "question": "Quel conflit a vu l’usage de la guerre nucléaire ?",
+      "options": ["Aucun conflit direct entre superpuissances", "Guerre de Corée", "Guerre du Vietnam", "Crise de Cuba"],
+      "reponse": "Aucun conflit direct entre superpuissances",
+      "explication": "La Guerre froide est marquée par la dissuasion nucléaire, évitant un conflit direct."
+    },
+    {
+      "question": "Quelle organisation a été créée en 1945 pour maintenir la paix mondiale ?",
+      "options": ["ONU", "OTAN", "Pacte de Varsovie", "Union européenne"],
+      "reponse": "ONU",
+      "explication": "Organisation des Nations unies vise à prévenir les conflits mondiaux après la Seconde Guerre mondiale."
+    },
+    {
+      "question": "Quel est le nom du conflit armé indirect entre l’URSS et les États-Unis en Afghanistan ?",
+      "options": ["Invasion soviétique de l’Afghanistan", "Guerre de Corée", "Guerre du Vietnam", "Crise de Cuba"],
+      "reponse": "Invasion soviétique de l’Afghanistan",
+      "explication": "L’URSS intervient en Afghanistan en 1979, provoquant une guerre prolongée."
+    },
+    {
+      "question": "Quelle politique a initié Mikhaïl Gorbatchev pour réformer l’URSS ?",
+      "options": ["Perestroïka", "Glasnost", "Détente", "Containment"],
+      "reponse": "Perestroïka",
+      "explication": "Réforme économique et politique visant à moderniser l’URSS dans les années 1980."
+    },
+    {
+      "question": "Qu’est-ce que la Glasnost ?",
+      "options": ["Politique de transparence et ouverture en URSS", "Alliance militaire", "Plan économique", "Nom d’un traité"],
+      "reponse": "Politique de transparence et ouverture en URSS",
+      "explication": "Glasnost vise à encourager la liberté d’expression et la transparence gouvernementale."
+    },
+    {
+      "question": "Quel événement symbolise la fin de la Guerre froide ?",
+      "options": ["Chute du mur de Berlin en 1989", "Début de la guerre du Vietnam", "Crise de Cuba", "Entrée en guerre des États-Unis en 1941"],
+      "reponse": "Chute du mur de Berlin en 1989",
+      "explication": "Cet événement marque la fin de la division de l’Europe et l’effondrement du bloc soviétique."
+    },
+    {
+      "question": "Quel président américain est connu pour sa politique de 'paix par la force' contre l’URSS ?",
+      "options": ["Ronald Reagan", "Jimmy Carter", "Richard Nixon", "John F. Kennedy"],
+      "reponse": "Ronald Reagan",
+      "explication": "Reagan adopte une politique ferme face à l’URSS dans les années 1980."
+    },
+    {
+      "question": "Quelle crise de 1956 montre la difficulté de l’URSS à contrôler ses satellites ?",
+      "options": ["Révolte de Budapest", "Crise de Cuba", "Guerre de Corée", "Printemps de Prague"],
+      "reponse": "Révolte de Budapest",
+      "explication": "La révolte hongroise est violemment réprimée par l’armée soviétique."
+    },
+    {
+      "question": "Quel est le nom du conflit en Tchécoslovaquie en 1968 ?",
+      "options": ["Printemps de Prague", "Révolution hongroise", "Révolution française", "Crise des missiles"],
+      "reponse": "Printemps de Prague",
+      "explication": "Mouvement réformiste réprimé par les troupes du Pacte de Varsovie."
+    },
+    {
+      "question": "Quel pays asiatique est divisé en deux pendant la Guerre froide ?",
+      "options": ["Corée", "Vietnam", "Japon", "Chine"],
+      "reponse": "Corée",
+      "explication": "La Corée du Nord communiste et la Corée du Sud capitaliste sont séparées depuis 1945."
+    },
+    {
+      "question": "Quel pays a connu une révolution communiste en 1949 ?",
+      "options": ["Chine", "Vietnam", "Cuba", "Corée du Nord"],
+      "reponse": "Chine",
+      "explication": "Le Parti communiste chinois prend le pouvoir après une longue guerre civile."
+    },
+    {
+      "question": "Quel est le nom de la course aux armements nucléaires entre les superpuissances ?",
+      "options": ["Course aux missiles", "Course spatiale", "Guerre froide", "Course à l’espace"],
+      "reponse": "Course aux missiles",
+      "explication": "Les États-Unis et l’URSS développent des arsenaux nucléaires pour dissuader l’autre."
+    },
+    {
+      "question": "Quel programme spatial américain visait à envoyer un homme sur la Lune ?",
+      "options": ["Apollo", "Mercury", "Gemini", "Sputnik"],
+      "reponse": "Apollo",
+      "explication": "Le programme Apollo réussit à poser un homme sur la Lune en 1969."
+    }
+  ]
+}

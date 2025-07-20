@@ -1,0 +1,250 @@
+{
+  "qcm": [
+    {
+      "question": "La justice peut se définir comme :",
+      "options": ["Le respect des droits et l’équité dans la distribution", "La punition sans raison", "La recherche du profit", "L’arbitraire"],
+      "reponse": "Le respect des droits et l’équité dans la distribution",
+      "explication": "La justice vise à respecter les droits et à distribuer équitablement les biens et responsabilités."
+    },
+    {
+      "question": "Aristote distingue deux formes de justice :",
+      "options": ["Justice distributive et corrective", "Justice sociale et politique", "Justice morale et religieuse", "Justice économique et politique"],
+      "reponse": "Justice distributive et corrective",
+      "explication": "La justice distributive concerne la répartition, la corrective la réparation des torts (« Éthique à Nicomaque »)."
+    },
+    {
+      "question": "L’équité se définit comme :",
+      "options": ["L’ajustement de la justice aux cas particuliers", "La même chose pour tous", "L’injustice légalisée", "La loi stricte"],
+      "reponse": "L’ajustement de la justice aux cas particuliers",
+      "explication": "L’équité complète la justice en tenant compte des circonstances spécifiques."
+    },
+    {
+      "question": "La justice sociale vise principalement à :",
+      "options": ["Réduire les inégalités et garantir l’égalité des chances", "Favoriser les riches", "Ignorer les différences sociales", "Réprimer les pauvres"],
+      "reponse": "Réduire les inégalités et garantir l’égalité des chances",
+      "explication": "La justice sociale cherche une société plus juste par la redistribution et la solidarité."
+    },
+    {
+      "question": "Selon Rawls, la justice repose sur :",
+      "options": ["Le principe de différence et le voile d’ignorance", "La loi du plus fort", "Le mérite seul", "L’ordre naturel"],
+      "reponse": "Le principe de différence et le voile d’ignorance",
+      "explication": "Rawls propose de concevoir la justice comme équité derrière un voile d’ignorance pour garantir l’impartialité."
+    },
+    {
+      "question": "La justice morale se rapporte à :",
+      "options": ["La conformité aux valeurs éthiques", "La loi civile", "Les règles économiques", "La politique"],
+      "reponse": "La conformité aux valeurs éthiques",
+      "explication": "La justice morale est liée à la notion de bien et de mal dans les comportements individuels."
+    },
+    {
+      "question": "La justice commutative concerne :",
+      "options": ["Les échanges entre individus", "La répartition des ressources", "La loi pénale", "L’organisation politique"],
+      "reponse": "Les échanges entre individus",
+      "explication": "Elle traite des relations contractuelles et de la réparation des torts."
+    },
+    {
+      "question": "La notion de justice naturelle suppose que :",
+      "options": ["Certaines règles sont universelles et valables en tout temps", "La loi varie selon les sociétés", "La justice est relative", "Il n’y a pas de justice universelle"],
+      "reponse": "Certaines règles sont universelles et valables en tout temps",
+      "explication": "La justice naturelle s’appuie sur des principes immuables, indépendants des lois humaines."
+    },
+    {
+      "question": "La justice procédurale concerne :",
+      "options": ["Le respect des règles dans le déroulement des procédures", "La distribution des biens", "La morale individuelle", "La politique extérieure"],
+      "reponse": "Le respect des règles dans le déroulement des procédures",
+      "explication": "Elle garantit que les décisions sont prises de manière équitable et transparente."
+    },
+    {
+      "question": "La notion d’équité est particulièrement importante quand :",
+      "options": ["La loi est trop rigide ou injuste dans un cas particulier", "La loi est parfaite", "La justice n’existe pas", "La morale est absente"],
+      "reponse": "La loi est trop rigide ou injuste dans un cas particulier",
+      "explication": "L’équité permet d’adapter la justice à la singularité des situations."
+    },
+    {
+      "question": "Selon Montesquieu, la justice est :",
+      "options": ["La volonté constante et perpétuelle de rendre à chacun ce qui lui est dû", "Un concept flou", "Un privilège des puissants", "Une illusion sociale"],
+      "reponse": "La volonté constante et perpétuelle de rendre à chacun ce qui lui est dû",
+      "explication": "Montesquieu définit la justice comme un devoir fondamental de l’État."
+    },
+    {
+      "question": "La justice distributive concerne :",
+      "options": ["La répartition des biens et charges dans la société", "Les conflits personnels", "Les crimes et délits", "Les relations internationales"],
+      "reponse": "La répartition des biens et charges dans la société",
+      "explication": "Elle vise à assurer une distribution équitable selon des critères justes."
+    },
+    {
+      "question": "Une justice sociale juste doit :",
+      "options": ["Garantir l’égalité des chances et réduire les inégalités excessives", "Favoriser une classe sociale", "Ignorer les différences économiques", "Réprimer les plus faibles"],
+      "reponse": "Garantir l’égalité des chances et réduire les inégalités excessives",
+      "explication": "Elle cherche à créer une société plus équitable et solidaire."
+    },
+    {
+      "question": "La justice commutative vise à :",
+      "options": ["Restaurer l’équilibre entre parties lors d’un échange", "Redistribuer la richesse", "Appliquer la loi pénale", "Organiser la société"],
+      "reponse": "Restaurer l’équilibre entre parties lors d’un échange",
+      "explication": "Elle traite des transactions et contrats entre individus."
+    },
+    {
+      "question": "Le principe du \"voile d’ignorance\" chez Rawls signifie :",
+      "options": ["Décider des règles sans connaître sa position sociale", "Choisir selon ses intérêts", "Favoriser les riches", "Ignorer les droits des minorités"],
+      "reponse": "Décider des règles sans connaître sa position sociale",
+      "explication": "Cela garantit l’impartialité dans la conception de la justice."
+    },
+    {
+      "question": "La justice sociale repose sur l’idée que :",
+      "options": ["La société doit corriger les inégalités injustes", "La loi est toujours juste", "Les individus sont seuls responsables", "La liberté prime sur tout"],
+      "reponse": "La société doit corriger les inégalités injustes",
+      "explication": "Elle implique une intervention pour protéger les plus vulnérables."
+    },
+    {
+      "question": "La justice morale se réfère à :",
+      "options": ["La conscience individuelle du bien et du mal", "Les lois écrites", "Les décisions politiques", "Les règles économiques"],
+      "reponse": "La conscience individuelle du bien et du mal",
+      "explication": "Elle concerne l’éthique personnelle et les choix moraux."
+    },
+    {
+      "question": "L’équité s’oppose souvent à :",
+      "options": ["La rigidité de la loi", "La morale", "La justice", "La vérité"],
+      "reponse": "La rigidité de la loi",
+      "explication": "Elle adoucit ou adapte la loi en fonction des cas particuliers."
+    },
+    {
+      "question": "La justice distributive doit prendre en compte :",
+      "options": ["Les besoins, mérites et contributions des individus", "La richesse uniquement", "La force physique", "L’origine ethnique"],
+      "reponse": "Les besoins, mérites et contributions des individus",
+      "explication": "Une juste distribution ne peut être uniforme mais proportionnée."
+    },
+    {
+      "question": "La notion de justice naturelle est associée à :",
+      "options": ["Des droits inaliénables et universels", "Des lois variables", "Des décisions arbitraires", "Des croyances locales"],
+      "reponse": "Des droits inaliénables et universels",
+      "explication": "Elle repose sur l’idée que certains principes de justice sont valables partout et toujours."
+    },
+    {
+      "question": "La justice sociale vise à :",
+      "options": ["Assurer la solidarité et la protection des plus faibles", "Favoriser les riches", "Réprimer les protestations", "Ignorer les inégalités"],
+      "reponse": "Assurer la solidarité et la protection des plus faibles",
+      "explication": "Elle cherche à construire une société équitable pour tous."
+    },
+    {
+      "question": "Le rôle de la justice corrective est de :",
+      "options": ["Réparer un tort ou un préjudice", "Distribuer les richesses", "Établir des lois", "Organiser des élections"],
+      "reponse": "Réparer un tort ou un préjudice",
+      "explication": "Elle intervient dans les conflits entre individus pour rétablir l’équilibre."
+    },
+    {
+      "question": "La justice procède par :",
+      "options": ["Des règles impartiales et égales pour tous", "Des décisions arbitraires", "La volonté du plus fort", "Le favoritisme"],
+      "reponse": "Des règles impartiales et égales pour tous",
+      "explication": "La justice vise à traiter tous les individus avec égalité et impartialité."
+    },
+    {
+      "question": "Selon Montesquieu, la justice est :",
+      "options": ["Une vertu essentielle à l’État de droit", "Un concept flou", "Une invention politique", "Un privilège"],
+      "reponse": "Une vertu essentielle à l’État de droit",
+      "explication": "La justice garantit la paix sociale et le respect des droits."
+    },
+    {
+      "question": "La justice distributive est souvent associée à :",
+      "options": ["La répartition des biens et services", "Les conflits individuels", "La politique étrangère", "Les droits pénaux"],
+      "reponse": "La répartition des biens et services",
+      "explication": "Elle concerne la manière dont les ressources sont partagées dans la société."
+    },
+    {
+      "question": "L’équité est importante dans la justice car elle permet de :",
+      "options": ["Tenir compte des circonstances spécifiques", "Appliquer strictement la loi", "Ignorer les cas particuliers", "Favoriser certains groupes"],
+      "reponse": "Tenir compte des circonstances spécifiques",
+      "explication": "Elle adapte la justice à chaque situation pour plus de fairness."
+    },
+    {
+      "question": "La justice sociale cherche à promouvoir :",
+      "options": ["L’égalité réelle entre tous les membres de la société", "La compétition sans règles", "La hiérarchie sociale", "L’individualisme absolu"],
+      "reponse": "L’égalité réelle entre tous les membres de la société",
+      "explication": "Elle vise à corriger les déséquilibres sociaux par des mesures justes."
+    },
+    {
+      "question": "La notion de justice naturelle est souvent associée à :",
+      "options": ["Les droits de l’homme", "Les lois positives", "La politique partisane", "La loi du plus fort"],
+      "reponse": "Les droits de l’homme",
+      "explication": "Elle fonde les principes universels des droits humains."
+    },
+    {
+      "question": "La justice morale repose sur :",
+      "options": ["Les valeurs éthiques individuelles", "La législation", "Les décisions politiques", "La richesse"],
+      "reponse": "Les valeurs éthiques individuelles",
+      "explication": "Elle concerne le jugement personnel du bien et du mal."
+    },
+    {
+      "question": "La justice procède essentiellement par :",
+      "options": ["L’équité et l’impartialité", "L’arbitraire", "La volonté du chef", "La tradition"],
+      "reponse": "L’équité et l’impartialité",
+      "explication": "La justice exige que chacun soit traité de manière juste et égale."
+    },
+    {
+      "question": "Le concept d’équité complète souvent la justice parce que :",
+      "options": ["Il corrige la rigidité des lois en fonction des situations", "Il remplace la loi", "Il ignore les règles", "Il favorise certains individus"],
+      "reponse": "Il corrige la rigidité des lois en fonction des situations",
+      "explication": "L’équité permet une application plus humaine de la justice."
+    },
+    {
+      "question": "Le principe de justice corrective vise à :",
+      "options": ["Réparer un préjudice ou un tort", "Distribuer les richesses", "Établir les lois", "Maintenir l’ordre politique"],
+      "reponse": "Réparer un préjudice ou un tort",
+      "explication": "La justice corrective intervient pour restaurer l’équilibre entre les parties lors d’un litige."
+    },
+    {
+      "question": "Selon Rawls, le \"voile d’ignorance\" permet de :",
+      "options": ["Élaborer des règles justes sans connaître sa position sociale", "Favoriser les plus riches", "Ignorer les droits des minorités", "Appliquer la loi strictement"],
+      "reponse": "Élaborer des règles justes sans connaître sa position sociale",
+      "explication": "Ce concept garantit impartialité et équité dans la conception de la justice sociale."
+    },
+    {
+      "question": "La justice sociale vise à :",
+      "options": ["Réduire les inégalités injustes dans la société", "Maintenir le statu quo", "Favoriser une classe sociale", "Ignorer les besoins des plus faibles"],
+      "reponse": "Réduire les inégalités injustes dans la société",
+      "explication": "Elle cherche à assurer une meilleure répartition des ressources et des chances."
+    },
+    {
+      "question": "Montesquieu définit la justice comme :",
+      "options": ["La volonté constante de rendre à chacun ce qui lui est dû", "Un concept vague", "Une illusion politique", "Un privilège réservé aux puissants"],
+      "reponse": "La volonté constante de rendre à chacun ce qui lui est dû",
+      "explication": "La justice est un devoir fondamental pour garantir l’ordre social."
+    },
+    {
+      "question": "La justice procédurale garantit que :",
+      "options": ["Les décisions sont prises selon des règles équitables et transparentes", "La loi est toujours appliquée sans exception", "Le pouvoir est arbitraire", "Les intérêts des puissants sont prioritaires"],
+      "reponse": "Les décisions sont prises selon des règles équitables et transparentes",
+      "explication": "Elle assure un traitement juste dans les processus judiciaires et administratifs."
+    },
+    {
+      "question": "L’équité est particulièrement utile lorsque :",
+      "options": ["La loi est trop rigide pour un cas spécifique", "La loi est parfaite", "La justice est inutile", "La morale est absente"],
+      "reponse": "La loi est trop rigide pour un cas spécifique",
+      "explication": "Elle adapte la justice aux particularités pour éviter l’injustice."
+    },
+    {
+      "question": "La justice naturelle repose sur :",
+      "options": ["Des principes universels et immuables", "Les lois nationales", "Les coutumes locales", "Les décisions politiques"],
+      "reponse": "Des principes universels et immuables",
+      "explication": "Elle suppose l’existence de droits fondamentaux valables en tout temps et lieu."
+    },
+    {
+      "question": "La justice morale se rapporte à :",
+      "options": ["La conscience individuelle du bien et du mal", "La loi écrite", "La politique économique", "La diplomatie"],
+      "reponse": "La conscience individuelle du bien et du mal",
+      "explication": "Elle guide les choix éthiques personnels au-delà des lois."
+    },
+    {
+      "question": "La justice distributive prend en compte :",
+      "options": ["Les besoins et mérites des individus", "La richesse uniquement", "La force physique", "L’origine ethnique"],
+      "reponse": "Les besoins et mérites des individus",
+      "explication": "Elle cherche une répartition équitable en fonction de plusieurs critères."
+    },
+    {
+      "question": "La justice commutative concerne :",
+      "options": ["Les échanges et contrats entre individus", "La redistribution des richesses", "La législation politique", "La justice pénale"],
+      "reponse": "Les échanges et contrats entre individus",
+      "explication": "Elle veille à l’équité dans les relations contractuelles et réparations."
+    }
+  ]
+}

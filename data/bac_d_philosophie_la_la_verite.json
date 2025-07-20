@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "Selon Aristote, quelle est la définition classique de la vérité ?",
+      "options": ["Dire de ce qui est qu’il est, et de ce qui n’est pas qu’il n’est pas", "Ce que tout le monde pense", "Ce qui est utile à croire", "Une construction sociale"],
+      "reponse": "Dire de ce qui est qu’il est, et de ce qui n’est pas qu’il n’est pas",
+      "explication": "Aristote définit la vérité comme l’adéquation entre la pensée et la réalité. Il écrit dans « Métaphysique » : « Dire de ce qui est qu’il est, et de ce qui n’est pas qu’il n’est pas, c’est la vérité »."
+    },
+    {
+      "question": "Qu’est-ce que le critère de la correspondance dans la vérité ?",
+      "options": ["L’adéquation entre les idées et les faits", "La popularité d’une idée", "La cohérence d’un discours", "La croyance collective"],
+      "reponse": "L’adéquation entre les idées et les faits",
+      "explication": "Ce critère affirme qu’une proposition est vraie si elle correspond aux faits réels, selon la tradition réaliste."
+    },
+    {
+      "question": "Qu’est-ce que la vérité de cohérence ?",
+      "options": ["Une proposition est vraie si elle est logiquement compatible avec un ensemble de propositions", "Une vérité partagée par tous", "Une vérité imposée par la loi", "Une vérité religieuse"],
+      "reponse": "Une proposition est vraie si elle est logiquement compatible avec un ensemble de propositions",
+      "explication": "La vérité peut aussi être conçue comme la cohérence interne d’un système de pensée, notamment dans la logique formelle."
+    },
+    {
+      "question": "Quelle conception de la vérité est défendue par les pragmatistes ?",
+      "options": ["La vérité est ce qui fonctionne dans la pratique", "La vérité est éternelle et immuable", "La vérité est imposée par la société", "La vérité n’existe pas"],
+      "reponse": "La vérité est ce qui fonctionne dans la pratique",
+      "explication": "William James, pragmatiste, affirme que « la vérité est ce qui s’avère utile dans la pratique »."
+    },
+    {
+      "question": "Qu’est-ce que le relativisme ?",
+      "options": ["La thèse selon laquelle la vérité dépend des points de vue", "La recherche d’une vérité absolue", "L’idée que la vérité est universelle", "La science expérimentale"],
+      "reponse": "La thèse selon laquelle la vérité dépend des points de vue",
+      "explication": "Le relativisme soutient que la vérité varie selon les cultures, les époques ou les individus, remettant en question l’universalité."
+    },
+    {
+      "question": "Qu’est-ce que le scepticisme en philosophie ?",
+      "options": ["La mise en doute de la possibilité d’atteindre la vérité certaine", "L’affirmation de vérités absolues", "La croyance religieuse", "La confiance aveugle dans la science"],
+      "reponse": "La mise en doute de la possibilité d’atteindre la vérité certaine",
+      "explication": "Pyrrhon d’Élis, fondateur du scepticisme, prônait la suspension du jugement (épochè) face à l’incertitude."
+    },
+    {
+      "question": "Quelle est la différence entre vérité et opinion selon Platon ?",
+      "options": ["La vérité est éternelle, l’opinion est changeante", "La vérité est personnelle, l’opinion est collective", "La vérité est subjective, l’opinion est objective", "La vérité est basée sur les émotions"],
+      "reponse": "La vérité est éternelle, l’opinion est changeante",
+      "explication": "Platon dans « La République » oppose le monde sensible (opinion) au monde intelligible (vérité immuable)."
+    },
+    {
+      "question": "Qu’est-ce que la recherche de la vérité selon Descartes ?",
+      "options": ["Un effort méthodique de doute et de réflexion", "Une acceptation des traditions", "Un don naturel", "Une croyance religieuse"],
+      "reponse": "Un effort méthodique de doute et de réflexion",
+      "explication": "Descartes, dans le « Discours de la méthode », écrit : « Il faut, autant qu’il se peut, se défaire de toutes les opinions que l’on avait auparavant, afin de bâtir un savoir solide et durable »."
+    },
+    {
+      "question": "Qu’est-ce que le critère de vérité dans le positivisme ?",
+      "options": ["Ce qui est vérifiable empiriquement", "Ce qui est intuitif", "Ce qui est traditionnel", "Ce qui est religieux"],
+      "reponse": "Ce qui est vérifiable empiriquement",
+      "explication": "Auguste Comte affirme que seuls les faits observables constituent une connaissance vraie."
+    },
+    {
+      "question": "Que signifie « vérité » dans la perspective existentialiste ?",
+      "options": ["Une vérité subjective liée à l’existence individuelle", "Une vérité universelle", "Une vérité imposée par la société", "Une vérité scientifique"],
+      "reponse": "Une vérité subjective liée à l’existence individuelle",
+      "explication": "Sartre affirme que « l’existence précède l’essence », soulignant l’importance de la vérité vécue personnellement."
+    },
+    {
+      "question": "Pourquoi la vérité peut-elle être difficile à atteindre ?",
+      "options": ["À cause des illusions, préjugés et limites de la perception", "Parce qu’elle est toujours cachée", "Parce que personne ne la cherche", "Parce qu’elle est inutile"],
+      "reponse": "À cause des illusions, préjugés et limites de la perception",
+      "explication": "Nos sens et notre raison peuvent être trompés, comme le montre Descartes dans ses Méditations."
+    },
+    {
+      "question": "Qu’est-ce qu’une vérité relative ?",
+      "options": ["Une vérité qui dépend du contexte ou du point de vue", "Une vérité absolue", "Une vérité scientifique", "Une vérité universelle"],
+      "reponse": "Une vérité qui dépend du contexte ou du point de vue",
+      "explication": "Par exemple, les normes morales peuvent varier selon les cultures."
+    },
+    {
+      "question": "Qu’est-ce qu’une vérité absolue ?",
+      "options": ["Une vérité indépendante de tout point de vue", "Une vérité partagée par certains", "Une opinion populaire", "Une croyance locale"],
+      "reponse": "Une vérité indépendante de tout point de vue",
+      "explication": "Le concept de vérité absolue implique l’universalité et l’intemporalité."
+    },
+    {
+      "question": "Quelle critique Nietzsche fait-il à la vérité ?",
+      "options": ["La vérité est une construction liée aux puissants", "La vérité est sacrée", "La vérité est immuable", "La vérité est un don des dieux"],
+      "reponse": "La vérité est une construction liée aux puissants",
+      "explication": "Nietzsche dans « Par-delà le bien et le mal » dénonce les vérités comme des « interprétations » au service du pouvoir."
+    },
+    {
+      "question": "Qu’est-ce que l’objectivité ?",
+      "options": ["La capacité à considérer les faits indépendamment des opinions personnelles", "La croyance dans une idée", "Le jugement personnel", "La foi religieuse"],
+      "reponse": "La capacité à considérer les faits indépendamment des opinions personnelles",
+      "explication": "L’objectivité cherche à éliminer les biais pour approcher la vérité."
+    },
+    {
+      "question": "Qu’est-ce que la subjectivité ?",
+      "options": ["L’influence des opinions, émotions et expériences personnelles", "Une vérité universelle", "Un savoir scientifique", "Un fait objectif"],
+      "reponse": "L’influence des opinions, émotions et expériences personnelles",
+      "explication": "La subjectivité colore la perception et le jugement, pouvant influencer l’accès à la vérité."
+    },
+    {
+      "question": "Quelle est la différence entre vérité et certitude ?",
+      "options": ["La vérité correspond au réel, la certitude est un sentiment de conviction", "La certitude est toujours vraie", "La vérité est une croyance", "La certitude est objective"],
+      "reponse": "La vérité correspond au réel, la certitude est un sentiment de conviction",
+      "explication": "On peut être certain sans que ce soit vrai, ou découvrir une vérité sans s’en rendre compte immédiatement."
+    },
+    {
+      "question": "Qu’est-ce que la dialectique ?",
+      "options": ["Une méthode de recherche de la vérité par confrontation des opinions", "Un dogme", "Une opinion", "Une croyance religieuse"],
+      "reponse": "Une méthode de recherche de la vérité par confrontation des opinions",
+      "explication": "Platon et Hegel utilisent la dialectique pour approcher la vérité par la synthèse des thèses opposées."
+    },
+    {
+      "question": "Selon Popper, une théorie scientifique est vraie si :",
+      "options": ["Elle est falsifiable", "Elle est acceptée par tous", "Elle est simple", "Elle est vieille"],
+      "reponse": "Elle est falsifiable",
+      "explication": "Popper affirme que la scientificité d’une théorie repose sur sa capacité à être testée et potentiellement réfutée."
+    },
+    {
+      "question": "Quelle est la nature de la vérité dans la tradition kantienne ?",
+      "options": ["Une construction de l’esprit humain combinant expérience et raison", "Une réalité indépendante", "Une croyance populaire", "Une révélation divine"],
+      "reponse": "Une construction de l’esprit humain combinant expérience et raison",
+      "explication": "Kant, dans la « Critique de la raison pure », montre que notre connaissance résulte d’une synthèse entre l’expérience et les catégories de l’entendement."
+    },
+    {
+      "question": "Qu’est-ce que le relativisme culturel ?",
+      "options": ["L’idée que la vérité dépend des cultures", "Une vérité universelle", "Une vérité scientifique", "Une vérité mathématique"],
+      "reponse": "L’idée que la vérité dépend des cultures",
+      "explication": "Les normes morales et sociales varient selon les cultures, influençant la notion de vérité."
+    },
+    {
+      "question": "Quelle est la fonction de la vérité dans la société selon Habermas ?",
+      "options": ["Faciliter la communication et la compréhension mutuelle", "Imposer une idéologie", "Limiter la liberté", "Créer des conflits"],
+      "reponse": "Faciliter la communication et la compréhension mutuelle",
+      "explication": "Habermas conçoit la vérité comme un idéal dans le cadre de la communication rationnelle et démocratique."
+    },
+    {
+      "question": "Qu’est-ce que le dogmatisme ?",
+      "options": ["L’adhésion rigide à une vérité sans examen critique", "La recherche constante de la vérité", "Le scepticisme", "L’ouverture d’esprit"],
+      "reponse": "L’adhésion rigide à une vérité sans examen critique",
+      "explication": "Le dogmatisme empêche la remise en question et limite la connaissance réelle."
+    },
+    {
+      "question": "Quelle est la place de la vérité dans le scepticisme ?",
+      "options": ["La vérité certaine est inaccessible", "La vérité est évidente", "La vérité est imposée", "La vérité est donnée par la tradition"],
+      "reponse": "La vérité certaine est inaccessible",
+      "explication": "Le scepticisme remet en cause la possibilité d’atteindre une vérité absolue et certaine."
+    },
+    {
+      "question": "Selon Hegel, comment évolue la vérité ?",
+      "options": ["Par un processus dialectique de thèse, antithèse et synthèse", "Elle est fixe et immuable", "Elle est subjective", "Elle est relative"],
+      "reponse": "Par un processus dialectique de thèse, antithèse et synthèse",
+      "explication": "Hegel voit la vérité comme un mouvement dynamique où les contradictions se dépassent pour créer un savoir supérieur."
+    },
+    {
+      "question": "Qu’est-ce que la vérité dans la perspective phénoménologique ?",
+      "options": ["La vérité est ce qui se donne dans l’expérience vécue", "La vérité est un construit social", "La vérité est une hypothèse scientifique", "La vérité est une règle morale"],
+      "reponse": "La vérité est ce qui se donne dans l’expérience vécue",
+      "explication": "Husserl insiste sur la perception immédiate et consciente comme accès à la vérité."
+    },
+    {
+      "question": "Qu’est-ce que la vérité d’autorité ?",
+      "options": ["Une vérité acceptée parce qu’elle provient d’une source reconnue", "Une vérité vérifiée par expérience", "Une vérité universelle", "Une vérité logique"],
+      "reponse": "Une vérité acceptée parce qu’elle provient d’une source reconnue",
+      "explication": "Elle dépend de la confiance accordée à une personne ou une institution, mais n’est pas forcément vérifiable."
+    },
+    {
+      "question": "Qu’est-ce que le constructivisme épistémologique ?",
+      "options": ["La vérité est construite par les sujets connaissants", "La vérité est objective et indépendante", "La vérité est donnée par la nature", "La vérité est une croyance collective"],
+      "reponse": "La vérité est construite par les sujets connaissants",
+      "explication": "Selon Piaget et Vygotski, la connaissance est un construit actif de l’esprit humain."
+    },
+    {
+      "question": "Qu’est-ce que l’intersubjectivité ?",
+      "options": ["La vérité partagée par plusieurs sujets dans un échange communicatif", "La vérité individuelle", "Une vérité imposée", "Une croyance populaire"],
+      "reponse": "La vérité partagée par plusieurs sujets dans un échange communicatif",
+      "explication": "Habermas insiste sur l’importance de l’accord intersubjectif pour valider la vérité."
+    },
+    {
+      "question": "Quelle citation illustre bien la quête de vérité selon René Descartes ?",
+      "options": ["« Je pense, donc je suis »", "« Connais-toi toi-même »", "« L’homme est la mesure de toutes choses »", "« Dieu est mort »"],
+      "reponse": "« Je pense, donc je suis »",
+      "explication": "Cette phrase illustre la certitude indubitable comme fondement de la connaissance vraie."
+    },
+    {
+      "question": "Si une personne affirme \"Ce que je crois est vrai pour moi mais pas forcément pour les autres\", elle exprime une vision :",
+      "options": ["Relativiste", "Absolutiste", "Dogmatique", "Sceptique"],
+      "reponse": "Relativiste",
+      "explication": "Le relativisme soutient que la vérité dépend du point de vue ou du contexte de chacun."
+    },
+    {
+      "question": "Si une théorie scientifique est testable et peut être réfutée, selon Popper, elle est :",
+      "options": ["Falsifiable", "Vraie", "Subjective", "Dogmatique"],
+      "reponse": "Falsifiable",
+      "explication": "Popper considère la falsifiabilité comme le critère de démarcation entre science et non-science."
+    },
+    {
+      "question": "Quand on doute systématiquement de tout ce qu’on croit savoir, on adopte une attitude :",
+      "options": ["Sceptique", "Dogmatique", "Pragmatique", "Relativiste"],
+      "reponse": "Sceptique",
+      "explication": "Le scepticisme consiste à suspendre son jugement face à l’incertitude."
+    },
+    {
+      "question": "« Dire de ce qui est qu’il est, et de ce qui n’est pas qu’il n’est pas » est la définition de la vérité donnée par :",
+      "options": ["Aristote", "Platon", "Nietzsche", "Descartes"],
+      "reponse": "Aristote",
+      "explication": "Cette définition classique souligne l’adéquation entre pensée et réalité."
+    },
+    {
+      "question": "La vérité qui dépend de la cohérence interne d’un système de pensée est appelée vérité :",
+      "options": ["De cohérence", "De correspondance", "Pragmatique", "Relative"],
+      "reponse": "De cohérence",
+      "explication": "Une proposition est vraie si elle est compatible avec l’ensemble des propositions du système."
+    },
+    {
+      "question": "Selon la perspective pragmatique, une idée est vraie si :",
+      "options": ["Elle fonctionne dans la pratique", "Elle est acceptée par tous", "Elle est logique", "Elle est ancienne"],
+      "reponse": "Elle fonctionne dans la pratique",
+      "explication": "Le pragmatisme évalue la vérité en fonction de ses conséquences pratiques utiles."
+    },
+    {
+      "question": "Le dogmatisme se caractérise par :",
+      "options": ["Une adhésion rigide à une vérité sans examen critique", "Une remise en question constante", "Une ouverture d’esprit", "Un doute systématique"],
+      "reponse": "Une adhésion rigide à une vérité sans examen critique",
+      "explication": "Le dogmatique refuse de questionner ses croyances."
+    },
+    {
+      "question": "Selon Kant, la connaissance vraie est le fruit de :",
+      "options": ["L’expérience et de la raison combinées", "La seule expérience", "La seule raison", "La tradition"],
+      "reponse": "L’expérience et de la raison combinées",
+      "explication": "Kant montre que l’esprit structure l’expérience via des catégories pour produire la connaissance."
+    },
+    {
+      "question": "Dans l’approche phénoménologique, la vérité est avant tout :",
+      "options": ["Ce qui se donne dans l’expérience vécue", "Une construction sociale", "Une hypothèse scientifique", "Un dogme religieux"],
+      "reponse": "Ce qui se donne dans l’expérience vécue",
+      "explication": "La phénoménologie étudie la vérité à partir de la conscience immédiate."
+    },
+    {
+      "question": "Selon Nietzsche, les vérités sont souvent :",
+      "options": ["Des interprétations liées au pouvoir", "Des réalités immuables", "Des faits objectifs", "Des lois naturelles"],
+      "reponse": "Des interprétations liées au pouvoir",
+      "explication": "Nietzsche critique la prétendue objectivité des vérités comme des constructions au service de certains intérêts."
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la principale activité économique au Burkina Faso ?",
+      "options": ["Agriculture", "Industrie", "Services", "Tourisme"],
+      "reponse": "Agriculture",
+      "explication": "L’agriculture est la base de l’économie burkinabè, employant la majorité de la population."
+    },
+    {
+      "question": "Quel est le principal produit agricole d’exportation du Burkina Faso ?",
+      "options": ["Coton", "Mil", "Riz", "Maïs"],
+      "reponse": "Coton",
+      "explication": "Le coton est la première culture d’exportation du pays."
+    },
+    {
+      "question": "Quelle est la part approximative de la population active travaillant dans l’agriculture ?",
+      "options": ["Plus de 70 %", "Moins de 10 %", "Environ 40 %", "Environ 20 %"],
+      "reponse": "Plus de 70 %",
+      "explication": "La majorité des travailleurs burkinabè sont engagés dans l’agriculture."
+    },
+    {
+      "question": "Quel type d’agriculture est le plus pratiqué au Burkina Faso ?",
+      "options": ["Agriculture de subsistance", "Agriculture industrielle", "Agriculture intensive", "Agriculture hydroponique"],
+      "reponse": "Agriculture de subsistance",
+      "explication": "La plupart des agriculteurs pratiquent une agriculture traditionnelle pour leur propre consommation."
+    },
+    {
+      "question": "Quel est le rôle de l’artisanat dans l’économie burkinabè ?",
+      "options": ["Source importante de revenus et d’emplois", "Activité négligeable", "Industrie lourde", "Secteur gouvernemental uniquement"],
+      "reponse": "Source importante de revenus et d’emplois",
+      "explication": "L’artisanat est un secteur clé dans la création d’emplois et la préservation des traditions.",
+    },
+    {
+      "question": "Quelle industrie est en développement au Burkina Faso ?",
+      "options": ["Transformation agroalimentaire", "Industrie automobile", "Industrie spatiale", "Industrie pétrolière uniquement"],
+      "reponse": "Transformation agroalimentaire",
+      "explication": "Le pays développe la transformation locale des produits agricoles.",
+    },
+    {
+      "question": "Quel est le principal problème rencontré par les agriculteurs burkinabè ?",
+      "options": ["Manque d’eau et de moyens techniques", "Surabondance d’infrastructures", "Suralimentation", "Absence de marché"],
+      "reponse": "Manque d’eau et de moyens techniques",
+      "explication": "Le manque d’irrigation et d’équipements freine la productivité.",
+    },
+    {
+      "question": "Quelle est la place de l’élevage dans les activités économiques ?",
+      "options": ["Complémentaire à l’agriculture", "Absente", "Industrie dominante", "Activité urbaine uniquement"],
+      "reponse": "Complémentaire à l’agriculture",
+      "explication": "L’élevage est une activité importante, souvent pratiquée avec l’agriculture.",
+    },
+    {
+      "question": "Quel est le principal secteur industriel au Burkina Faso ?",
+      "options": ["Agroalimentaire", "Textile", "Automobile", "Technologies de l’information"],
+      "reponse": "Agroalimentaire",
+      "explication": "L’industrie agroalimentaire est le secteur industriel le plus développé.",
+    },
+    {
+      "question": "Quel est l’impact des activités artisanales sur la culture burkinabè ?",
+      "options": ["Préservation des savoir-faire traditionnels", "Destruction des traditions", "Uniformisation culturelle", "Secteur marginal"],
+      "reponse": "Préservation des savoir-faire traditionnels",
+      "explication": "L’artisanat contribue à la transmission des pratiques culturelles.",
+    },
+    {
+      "question": "Quelle est la principale culture vivrière au Burkina Faso ?",
+      "options": ["Mil", "Coton", "Café", "Thé"],
+      "reponse": "Mil",
+      "explication": "Le mil est la culture vivrière la plus importante au Burkina Faso.",
+    },
+    {
+      "question": "Quel est le rôle des femmes dans l’agriculture burkinabè ?",
+      "options": ["Participation majoritaire dans les travaux agricoles", "Absence dans l’agriculture", "Seulement dans le commerce", "Exclusivement dans l’industrie"],
+      "reponse": "Participation majoritaire dans les travaux agricoles",
+      "explication": "Les femmes jouent un rôle essentiel dans la production agricole.",
+    },
+    {
+      "question": "Quelle est la principale ressource minérale exploitée au Burkina Faso ?",
+      "options": ["Or", "Charbon", "Pétrole", "Diamant"],
+      "reponse": "Or",
+      "explication": "Le Burkina Faso est un des principaux producteurs d’or en Afrique de l’Ouest.",
+    },
+    {
+      "question": "Quel est le principal mode de commercialisation des produits agricoles ?",
+      "options": ["Marchés locaux et commerçants", "Exportation directe uniquement", "Internet uniquement", "Production pour autoconsommation uniquement"],
+      "reponse": "Marchés locaux et commerçants",
+      "explication": "La majorité des produits agricoles est vendue sur les marchés locaux.",
+    },
+    {
+      "question": "Quel est l’impact de l’industrialisation sur l’emploi au Burkina Faso ?",
+      "options": ["Création d’emplois mais limitée", "Suppression totale d’emplois", "Automatisation complète", "Aucun impact"],
+      "reponse": "Création d’emplois mais limitée",
+      "explication": "L’industrialisation crée des emplois, mais reste modeste.",
+    },
+    {
+      "question": "Quelle est la part de l’artisanat dans le PIB national ?",
+      "options": ["Importante mais sous-évaluée", "Nulle", "Dominante", "Minime et insignifiante"],
+      "reponse": "Importante mais sous-évaluée",
+      "explication": "L’artisanat contribue significativement à l’économie, bien que difficile à quantifier.",
+    },
+    {
+      "question": "Quel est le rôle des coopératives agricoles ?",
+      "options": ["Soutenir les producteurs et améliorer la commercialisation", "Activité commerciale exclusive", "Gestion urbaine", "Secteur industriel"],
+      "reponse": "Soutenir les producteurs et améliorer la commercialisation",
+      "explication": "Les coopératives aident à organiser les agriculteurs et à valoriser leurs produits.",
+    },
+    {
+      "question": "Quel est le principal obstacle au développement industriel ?",
+      "options": ["Manque d’infrastructures et d’investissements", "Surabondance de capitaux", "Soutien gouvernemental excessif", "Surproduction"],
+      "reponse": "Manque d’infrastructures et d’investissements",
+      "explication": "Le pays manque encore d’infrastructures adaptées pour un développement industriel soutenu.",
+    },
+    {
+      "question": "Quel est le principal artisanat traditionnel au Burkina Faso ?",
+      "options": ["Tissage et poterie", "Industrie chimique", "Technologie informatique", "Construction automobile"],
+      "reponse": "Tissage et poterie",
+      "explication": "Ces activités artisanales sont emblématiques des savoir-faire locaux.",
+    },
+    {
+      "question": "Quel est l’impact de l’agriculture sur l’environnement ?",
+      "options": ["Déforestation et érosion des sols", "Amélioration de la biodiversité", "Aucun impact", "Reforestation"],
+      "reponse": "Déforestation et érosion des sols",
+      "explication": "La pratique agricole non durable peut dégrader l’environnement.",
+    },
+    {
+      "question": "Quelle est la place de l’artisanat dans les exportations ?",
+      "options": ["Modeste mais en croissance", "Dominante", "Nulle", "Principale activité d’exportation"],
+      "reponse": "Modeste mais en croissance",
+      "explication": "L’artisanat commence à gagner des marchés à l’exportation.",
+    },
+    {
+      "question": "Quel est le rôle de la mécanisation dans l’agriculture burkinabè ?",
+      "options": ["Améliorer la productivité", "Remplacer totalement la main-d’œuvre", "Aucun rôle", "Diminuer la production"],
+      "reponse": "Améliorer la productivité",
+      "explication": "La mécanisation est un levier pour augmenter les rendements agricoles.",
+    },
+    {
+      "question": "Quelle est la place de l’industrie extractive dans l’économie ?",
+      "options": ["Croissante avec l’exploitation minière", "Nulle", "Dominante", "Réservée au secteur agricole"],
+      "reponse": "Croissante avec l’exploitation minière",
+      "explication": "L’extraction de minerais, notamment l’or, est un secteur en expansion.",
+    },
+    {
+      "question": "Quel est le principal marché extérieur pour les produits agricoles burkinabè ?",
+      "options": ["Union européenne", "États-Unis", "Asie", "Amérique latine"],
+      "reponse": "Union européenne",
+      "explication": "L’Union européenne est un partenaire commercial majeur pour le Burkina Faso.",
+    },
+    {
+      "question": "Quel est le rôle de l’État dans le développement économique ?",
+      "options": ["Mettre en place des politiques de soutien et régulation", "Absence totale", "Contrôle absolu", "Aucune intervention"],
+      "reponse": "Mettre en place des politiques de soutien et régulation",
+      "explication": "L’État joue un rôle dans la promotion des secteurs économiques clés.",
+    },
+    {
+      "question": "Quel est l’impact de la sécheresse sur l’économie ?",
+      "options": ["Baisse de la production agricole", "Augmentation de la production", "Aucun impact", "Amélioration des récoltes"],
+      "reponse": "Baisse de la production agricole",
+      "explication": "Les sécheresses répétées affectent négativement les récoltes et l’économie.",
+    },
+    {
+      "question": "Quel est le principal défi pour l’artisanat au Burkina Faso ?",
+      "options": ["Accès limité aux marchés et financement", "Surabondance de capitaux", "Surproduction", "Manque de talents"],
+      "reponse": "Accès limité aux marchés et financement",
+      "explication": "Les artisans rencontrent des difficultés à vendre leurs produits à grande échelle.",
+    },
+    {
+      "question": "Quel est le principal défi de l’agriculture au Burkina Faso ?",
+      "options": ["Insuffisance d’irrigation et dépendance aux pluies", "Surproduction", "Excès de technologie", "Manque de terres"],
+      "reponse": "Insuffisance d’irrigation et dépendance aux pluies",
+      "explication": "L’agriculture dépend largement des précipitations, ce qui rend la production vulnérable."
+    },
+    {
+      "question": "Quelle est la contribution de l’agriculture au PIB burkinabè ?",
+      "options": ["Environ 30 %", "Moins de 5 %", "Plus de 80 %", "Nulle"],
+      "reponse": "Environ 30 %",
+      "explication": "L’agriculture représente une part significative du PIB national."
+    },
+    {
+      "question": "Quel secteur emploie le plus de femmes au Burkina Faso ?",
+      "options": ["Agriculture", "Industrie", "Technologie", "Services financiers"],
+      "reponse": "Agriculture",
+      "explication": "La majorité des femmes travaille dans l’agriculture."
+    },
+    {
+      "question": "Quelle est la principale culture industrielle au Burkina Faso ?",
+      "options": ["Coton", "Maïs", "Mil", "Riz"],
+      "reponse": "Coton",
+      "explication": "Le coton est cultivé principalement pour l’exportation et l’industrie textile."
+    },
+    {
+      "question": "Quel est le principal problème rencontré par les artisans ?",
+      "options": ["Manque d’accès aux marchés", "Surabondance de ressources", "Saturation du marché", "Manque de créativité"],
+      "reponse": "Manque d’accès aux marchés",
+      "explication": "Les artisans peinent souvent à commercialiser leurs produits à grande échelle."
+    },
+    {
+      "question": "Quel est le rôle des petites et moyennes entreprises (PME) dans l’économie ?",
+      "options": ["Création d’emplois et dynamisation économique", "Absence", "Monopole étatique", "Secteur négligeable"],
+      "reponse": "Création d’emplois et dynamisation économique",
+      "explication": "Les PME sont des acteurs clés dans le développement économique local."
+    },
+    {
+      "question": "Quelle est l’importance du secteur informel dans l’économie burkinabè ?",
+      "options": ["Très important et employant une grande partie de la population", "Inexistant", "Minime", "Dominant uniquement dans l’agriculture"],
+      "reponse": "Très important et employant une grande partie de la population",
+      "explication": "Le secteur informel regroupe de nombreuses activités économiques non réglementées."
+    },
+    {
+      "question": "Quel est le rôle du gouvernement dans le développement industriel ?",
+      "options": ["Promouvoir l’investissement et soutenir les industries", "Aucune intervention", "Contrôle total", "Refus de développement"],
+      "reponse": "Promouvoir l’investissement et soutenir les industries",
+      "explication": "L’État met en place des politiques pour encourager l’industrialisation."
+    },
+    {
+      "question": "Quelle est la place de l’artisanat dans l’emploi au Burkina Faso ?",
+      "options": ["Importante, notamment dans les zones rurales", "Nulle", "Confinée aux villes uniquement", "Exclusivement féminine"],
+      "reponse": "Importante, notamment dans les zones rurales",
+      "explication": "L’artisanat est une source importante d’emplois en zones rurales et urbaines."
+    },
+    {
+      "question": "Quel est l’impact des fluctuations des prix du coton sur l’économie ?",
+      "options": ["Impact majeur sur les revenus agricoles et l’économie nationale", "Aucun impact", "Effet positif constant", "Effet négligeable"],
+      "reponse": "Impact majeur sur les revenus agricoles et l’économie nationale",
+      "explication": "Les variations des prix du coton affectent fortement les producteurs et l’économie.",
+    },
+    {
+      "question": "Quel est le rôle des coopératives artisanales ?",
+      "options": ["Faciliter l’accès aux marchés et au financement", "Compétition destructrice", "Isolement des artisans", "Activité politique"],
+      "reponse": "Faciliter l’accès aux marchés et au financement",
+      "explication": "Les coopératives aident les artisans à mieux vendre leurs produits.",
+    },
+    {
+      "question": "Quel est le principal défi pour le développement industriel ?",
+      "options": ["Manque d’énergie et infrastructures", "Surabondance de capitaux", "Soutien excessif", "Manque de main-d’œuvre"],
+      "reponse": "Manque d’énergie et infrastructures",
+      "explication": "L’insuffisance d’électricité et d’infrastructures freine la croissance industrielle.",
+    },
+    {
+      "question": "Quel est le rôle des exportations dans l’économie ?",
+      "options": ["Source majeure de devises étrangères", "Peu important", "Inexistant", "Négatif"],
+      "reponse": "Source majeure de devises étrangères",
+      "explication": "Les exportations, notamment agricoles et minières, financent l’économie du pays.",
+    },
+    {
+      "question": "Quel est l’impact des conditions climatiques sur l’économie ?",
+      "options": ["Influence importante sur la production agricole", "Aucun impact", "Effet positif constant", "Conditions toujours stables"],
+      "reponse": "Influence importante sur la production agricole",
+      "explication": "Les variations climatiques affectent fortement les récoltes.",
+    },
+    {
+      "question": "Quel est le rôle des banques dans le secteur économique ?",
+      "options": ["Financer les activités économiques et soutenir les entrepreneurs", "Ignorer le secteur privé", "Contrôler toute l’économie", "Exclure les PME"],
+      "reponse": "Financer les activités économiques et soutenir les entrepreneurs",
+      "explication": "Les banques jouent un rôle crucial dans le développement économique.",
+    },
+    {
+      "question": "Quel est l’impact de la pauvreté sur les activités économiques ?",
+      "options": ["Limite la capacité d’investissement et la croissance", "Favorise la croissance", "Aucun impact", "Réduit la main-d’œuvre"],
+      "reponse": "Limite la capacité d’investissement et la croissance",
+      "explication": "La pauvreté freine le développement économique et la diversification.",
+    },
+    {
+      "question": "Quelle est la principale source d’énergie pour l’industrie ?",
+      "options": ["Électricité et biomasse", "Pétrole uniquement", "Gaz naturel", "Charbon uniquement"],
+      "reponse": "Électricité et biomasse",
+      "explication": "L’industrie utilise principalement l’électricité et la biomasse comme sources d’énergie.",
+    },
+    {
+      "question": "Quel est le rôle du tourisme dans l’économie ?",
+      "options": ["Secteur en développement mais encore modeste", "Dominant", "Inexistant", "Principal secteur économique"],
+      "reponse": "Secteur en développement mais encore modeste",
+      "explication": "Le tourisme commence à se développer mais reste limité comparé à d’autres secteurs.",
+    },
+    {
+      "question": "Quel est le rôle des institutions internationales dans le développement économique ?",
+      "options": ["Financer des projets et soutenir les politiques économiques", "Intervention militaire", "Contrôle politique total", "Ignorance du pays"],
+      "reponse": "Financer des projets et soutenir les politiques économiques",
+      "explication": "Les institutions apportent un soutien financier et technique important.",
+    },
+    {
+      "question": "Quel est l’impact de la mondialisation sur l’économie burkinabè ?",
+      "options": ["Ouverture des marchés et défis de la concurrence", "Isolement économique", "Protectionnisme total", "Fermeture des frontières"],
+      "reponse": "Ouverture des marchés et défis de la concurrence",
+      "explication": "La mondialisation offre des opportunités mais impose aussi une forte concurrence.",
+    }
+  ]
+}

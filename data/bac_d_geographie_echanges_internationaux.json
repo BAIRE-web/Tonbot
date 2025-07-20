@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que le commerce international ?",
+      "options": ["Échanges de biens et services entre pays", "Achat local de produits", "Vente entre particuliers", "Échange entre régions d’un même pays"],
+      "reponse": "Échanges de biens et services entre pays",
+      "explication": "Le commerce international implique l’importation et l’exportation de produits entre nations."
+    },
+    {
+      "question": "Comment appelle-t-on les produits achetés à l’étranger ?",
+      "options": ["Importations", "Exportations", "Consommations", "Productions"],
+      "reponse": "Importations",
+      "explication": "Les importations sont les biens ou services achetés à d’autres pays."
+    },
+    {
+      "question": "Quel terme désigne les produits vendus à l’étranger ?",
+      "options": ["Exportations", "Importations", "Stockage", "Réserve"],
+      "reponse": "Exportations",
+      "explication": "Les exportations sont les produits vendus à l’étranger par un pays."
+    },
+    {
+      "question": "Qu’est-ce qu’une balance commerciale ?",
+      "options": ["Différence entre exportations et importations", "Taux de change", "Nombre de produits vendus localement", "Prix d’un bien"],
+      "reponse": "Différence entre exportations et importations",
+      "explication": "Elle peut être excédentaire (plus d’exportations) ou déficitaire (plus d’importations)."
+    },
+    {
+      "question": "Quelle organisation mondiale régule le commerce international ?",
+      "options": ["OMC", "ONU", "FMI", "OIT"],
+      "reponse": "OMC",
+      "explication": "L’Organisation mondiale du commerce supervise les règles du commerce entre pays."
+    },
+    {
+      "question": "Pourquoi les pays échangent-ils ?",
+      "options": ["Pour accéder à des ressources qu’ils ne possèdent pas", "Pour réduire leur population", "Pour fermer leurs frontières", "Pour éviter l’emploi local"],
+      "reponse": "Pour accéder à des ressources qu’ils ne possèdent pas",
+      "explication": "Le commerce permet aux pays d’obtenir ce qu’ils ne produisent pas eux-mêmes."
+    },
+    {
+      "question": "Qu’est-ce qu’un produit manufacturé ?",
+      "options": ["Produit transformé en usine", "Produit brut naturel", "Produit agricole", "Service bancaire"],
+      "reponse": "Produit transformé en usine",
+      "explication": "C’est un produit qui a subi une transformation industrielle, comme les vêtements ou les voitures."
+    },
+    {
+      "question": "Quel est l’effet de la mondialisation sur le commerce ?",
+      "options": ["Augmentation des échanges entre pays", "Fermeture des marchés", "Retour à l’économie locale", "Interdiction des importations"],
+      "reponse": "Augmentation des échanges entre pays",
+      "explication": "La mondialisation renforce les flux commerciaux et l’interdépendance entre économies."
+    },
+    {
+      "question": "Quel continent exporte le plus de matières premières ?",
+      "options": ["Afrique", "Europe", "Asie", "Océanie"],
+      "reponse": "Afrique",
+      "explication": "L’Afrique est riche en ressources naturelles, souvent exportées vers les pays industrialisés."
+    },
+    {
+      "question": "Comment appelle-t-on le mouvement des populations d’un pays à un autre ?",
+      "options": ["Migration", "Exportation humaine", "Colonisation", "Voyage"],
+      "reponse": "Migration",
+      "explication": "La migration désigne le déplacement durable de personnes entre deux zones géographiques."
+    },
+    {
+      "question": "Quel est un facteur majeur de migration économique ?",
+      "options": ["Recherche d’emploi", "Tourisme", "Climat", "Religion"],
+      "reponse": "Recherche d’emploi",
+      "explication": "Les migrations économiques sont souvent causées par le besoin de trouver de meilleures conditions de travail."
+    },
+    {
+      "question": "Comment appelle-t-on une personne qui quitte son pays pour s’installer ailleurs ?",
+      "options": ["Émigrant", "Touriste", "Explorateur", "Résident"],
+      "reponse": "Émigrant",
+      "explication": "L’émigrant quitte son pays d’origine ; il devient immigrant dans le pays d’accueil."
+    },
+    {
+      "question": "Quel est le premier partenaire commercial de l’Afrique ?",
+      "options": ["Chine", "États-Unis", "France", "Brésil"],
+      "reponse": "Chine",
+      "explication": "La Chine investit massivement en Afrique et est un client important des matières premières."
+    },
+    {
+      "question": "Que signifie le terme 'libre-échange' ?",
+      "options": ["Suppression des barrières douanières entre pays", "Augmentation des taxes", "Fermeture des frontières", "Subvention des produits locaux"],
+      "reponse": "Suppression des barrières douanières entre pays",
+      "explication": "Le libre-échange facilite la circulation des biens sans restrictions fiscales."
+    },
+    {
+      "question": "Qu’est-ce qu’un flux migratoire ?",
+      "options": ["Déplacement massif de populations", "Flux de marchandises", "Taux de fécondité", "Variation des prix"],
+      "reponse": "Déplacement massif de populations",
+      "explication": "Il s’agit de mouvements collectifs de personnes quittant ou rejoignant un territoire."
+    },
+    {
+      "question": "Quel est un risque des échanges internationaux pour les pays pauvres ?",
+      "options": ["Dépendance économique", "Autonomie accrue", "Souveraineté renforcée", "Industrialisation rapide"],
+      "reponse": "Dépendance économique",
+      "explication": "Les pays pauvres peuvent devenir dépendants des importations ou de l’exportation d’un seul produit."
+    },
+    {
+      "question": "Pourquoi les migrants envoient-ils de l’argent dans leur pays d’origine ?",
+      "options": ["Pour soutenir leurs familles restées au pays", "Pour épargner", "Pour éviter les taxes", "Pour acheter des devises"],
+      "reponse": "Pour soutenir leurs familles restées au pays",
+      "explication": "Les transferts d’argent des migrants constituent une ressource économique importante pour les pays d’origine."
+    },
+    {
+      "question": "Quel type de migration est provoqué par les conflits armés ?",
+      "options": ["Migration forcée", "Migration de luxe", "Migration touristique", "Migration agricole"],
+      "reponse": "Migration forcée",
+      "explication": "Les personnes fuient leur pays à cause des violences ou guerres."
+    },
+    {
+      "question": "Que favorise la construction d’infrastructures de transport entre pays ?",
+      "options": ["Les échanges commerciaux", "La fermeture des frontières", "La pollution", "L’isolement"],
+      "reponse": "Les échanges commerciaux",
+      "explication": "Les routes, ports et aéroports facilitent l’importation et l’exportation de marchandises."
+    },
+    {
+      "question": "Qu’est-ce qu’une zone franche ?",
+      "options": ["Espace où les échanges sont facilités sans taxes", "Zone interdite aux étrangers", "Région montagneuse", "Ville touristique"],
+      "reponse": "Espace où les échanges sont facilités sans taxes",
+      "explication": "Les zones franches encouragent les investissements étrangers en réduisant les charges fiscales."
+    },
+    {
+      "question": "Quel continent reçoit le plus grand nombre de migrants ?",
+      "options": ["Europe", "Asie", "Afrique", "Amérique du Sud"],
+      "reponse": "Europe",
+      "explication": "L’Europe attire de nombreux migrants pour ses opportunités économiques et sociales."
+    },
+    {
+      "question": "Quelle est la principale forme de commerce entre pays ?",
+      "options": ["Échange de biens et services", "Échange de monnaie", "Don humanitaire", "Partage de terres"],
+      "reponse": "Échange de biens et services",
+      "explication": "Les biens (produits) et les services (banque, transport, etc.) sont les principales formes de commerce."
+    },
+    {
+      "question": "Quel est un enjeu majeur lié à la migration ?",
+      "options": ["Intégration sociale", "Niveau des océans", "Météo locale", "Nombre de forêts"],
+      "reponse": "Intégration sociale",
+      "explication": "Les pays d’accueil doivent mettre en place des politiques pour intégrer les migrants dans la société."
+    },
+    {
+      "question": "Pourquoi certains pays limitent-ils les importations ?",
+      "options": ["Pour protéger leur production nationale", "Pour aider les autres pays", "Par manque de monnaie", "Pour éviter les migrants"],
+      "reponse": "Pour protéger leur production nationale",
+      "explication": "Le protectionnisme vise à soutenir les industries locales face à la concurrence étrangère."
+    },
+    {
+      "question": "Comment appelle-t-on une entreprise présente dans plusieurs pays ?",
+      "options": ["Multinationale", "Locale", "Rurale", "Publique"],
+      "reponse": "Multinationale",
+      "explication": "Les multinationales produisent, vendent ou investissent dans différents pays."
+    },
+    {
+      "question": "Quel produit africain est très exporté ?",
+      "options": ["Cacao", "Pain", "Voitures", "Technologie"],
+      "reponse": "Cacao",
+      "explication": "L’Afrique, notamment la Côte d’Ivoire et le Ghana, est un grand producteur de cacao."
+    },
+    {
+      "question": "Quels pays sont les plus touchés par l’émigration ?",
+      "options": ["Pays en développement", "Pays riches", "Pays désertiques", "Pays industrialisés"],
+      "reponse": "Pays en développement",
+      "explication": "Les populations quittent souvent les pays pauvres à la recherche de meilleures conditions de vie."
+    },
+    {
+      "question": "Quel est un avantage du commerce international ?",
+      "options": ["Accès à une grande diversité de produits", "Appauvrissement global", "Fermeture des marchés", "Chômage total"],
+      "reponse": "Accès à une grande diversité de produits",
+      "explication": "Les consommateurs bénéficient de produits venus du monde entier."
+    },
+    {
+      "question": "Quel est le lien entre migrations et développement ?",
+      "options": ["Les migrants contribuent à l’économie par leur travail et leurs envois d’argent", "Les migrations bloquent l’économie", "Elles n’ont aucun lien", "Les migrants remplacent l’aide internationale"],
+      "reponse": "Les migrants contribuent à l’économie par leur travail et leurs envois d’argent",
+      "explication": "Les migrants participent activement à l’économie des pays d’accueil et d’origine."
+    },
+    {
+      "question": "Quel est l’effet des taxes douanières sur le commerce ?",
+      "options": ["Elles freinent les importations", "Elles facilitent les exportations", "Elles accélèrent les flux", "Elles augmentent la qualité"],
+      "reponse": "Elles freinent les importations",
+      "explication": "Les droits de douane rendent les produits étrangers plus chers, donc moins compétitifs."
+    },
+    {
+      "question": "Quel mot désigne les personnes qui fuient leur pays à cause de persécutions ?",
+      "options": ["Réfugiés", "Touristes", "Migrants économiques", "Travailleurs saisonniers"],
+      "reponse": "Réfugiés",
+      "explication": "Les réfugiés fuient leur pays en raison de conflits, persécutions ou catastrophes."
+    },
+    {
+      "question": "Quel est l’effet des migrations sur la démographie des pays d’accueil ?",
+      "options": ["Rajeunissement de la population", "Vieillissement accéléré", "Chute de la natalité", "Immobilité sociale"],
+      "reponse": "Rajeunissement de la population",
+      "explication": "Les migrants sont souvent jeunes et actifs, ce qui rajeunit la population du pays hôte."
+    },
+    {
+      "question": "Quel facteur naturel pousse parfois à la migration ?",
+      "options": ["Sécheresse", "Mode vestimentaire", "Jeux vidéo", "Sports collectifs"],
+      "reponse": "Sécheresse",
+      "explication": "La sécheresse peut rendre certaines régions inhabitables et pousser les gens à partir."
+    },
+    {
+      "question": "Quel est le rôle des diasporas dans les échanges internationaux ?",
+      "options": ["Faciliter les relations commerciales et culturelles", "Créer des frontières", "Limiter les flux", "Stopper la mondialisation"],
+      "reponse": "Faciliter les relations commerciales et culturelles",
+      "explication": "Les diasporas jouent un rôle de relais entre leur pays d’origine et le pays d’accueil."
+    },
+    {
+      "question": "Comment s’appelle l’envoi d’argent des migrants vers leur pays d’origine ?",
+      "options": ["Transfert de fonds", "Paiement douanier", "Impôt étranger", "Prime de retour"],
+      "reponse": "Transfert de fonds",
+      "explication": "Les transferts de fonds soutiennent les familles restées au pays et l’économie nationale."
+    },
+    {
+      "question": "Quel type de produits exporte généralement un pays industrialisé ?",
+      "options": ["Produits manufacturés et technologiques", "Produits agricoles uniquement", "Main-d'œuvre", "Bois brut"],
+      "reponse": "Produits manufacturés et technologiques",
+      "explication": "Les pays industrialisés produisent des biens à forte valeur ajoutée comme les machines et logiciels."
+    },
+    {
+      "question": "Quelles sont les principales causes des migrations internationales ?",
+      "options": ["Économiques, politiques et climatiques", "Sportives et culturelles", "Fêtes religieuses", "Tourisme temporaire"],
+      "reponse": "Économiques, politiques et climatiques",
+      "explication": "Les conflits, la pauvreté et les catastrophes naturelles motivent souvent les migrations."
+    },
+    {
+      "question": "Quel secteur est souvent le plus affecté par les migrations ?",
+      "options": ["Main-d’œuvre", "Télévision", "Mode", "Transport animalier"],
+      "reponse": "Main-d’œuvre",
+      "explication": "Les migrants occupent souvent des emplois nécessaires mais parfois peu valorisés."
+    },
+    {
+      "question": "Quel avantage la migration peut-elle offrir au pays d’origine ?",
+      "options": ["Réduction du chômage local", "Perte de main-d’œuvre", "Inflation", "Rareté des produits"],
+      "reponse": "Réduction du chômage local",
+      "explication": "Le départ d’une partie de la population réduit la pression sur le marché de l’emploi."
+    },
+    {
+      "question": "Que provoque un excédent commercial ?",
+      "options": ["Plus d’exportations que d’importations", "Plus d’importations que d’exportations", "Moins de production locale", "Crise économique"],
+      "reponse": "Plus d’exportations que d’importations",
+      "explication": "Un excédent commercial signifie que le pays vend plus à l’étranger qu’il n’achète."
+    },
+    {
+      "question": "Quel est un risque pour un pays trop dépendant d’un seul produit à l’export ?",
+      "options": ["Vulnérabilité aux variations de prix", "Croissance illimitée", "Diversification assurée", "Sécurité économique"],
+      "reponse": "Vulnérabilité aux variations de prix",
+      "explication": "Les fluctuations des prix internationaux peuvent fortement impacter son économie."
+    },
+    {
+      "question": "Que signifie la libre circulation des personnes dans l’UE ?",
+      "options": ["Les citoyens peuvent voyager et s’installer dans tout pays membre", "Personne ne peut sortir", "Les touristes doivent rester chez eux", "Seuls les chefs d’État circulent librement"],
+      "reponse": "Les citoyens peuvent voyager et s’installer dans tout pays membre",
+      "explication": "C’est l’un des principes du marché unique européen."
+    },
+    {
+      "question": "Que favorise un réseau de transport efficace ?",
+      "options": ["Dynamisation des échanges", "Pollution sonore", "Fermeture des usines", "Isolement rural"],
+      "reponse": "Dynamisation des échanges",
+      "explication": "Les routes, ports et aéroports permettent aux marchandises de circuler rapidement."
+    },
+    {
+      "question": "Qu’est-ce qu’un produit brut dans le commerce ?",
+      "options": ["Produit non transformé comme le coton ou le minerai", "Voiture", "Ordinateur", "Télévision"],
+      "reponse": "Produit non transformé comme le coton ou le minerai",
+      "explication": "Un produit brut est extrait ou cultivé, mais pas encore transformé industriellement."
+    },
+    {
+      "question": "Quel continent enregistre le plus grand nombre d’émigrants ?",
+      "options": ["Asie", "Europe", "Océanie", "Amérique du Nord"],
+      "reponse": "Asie",
+      "explication": "L’Asie est le continent d’origine de la majorité des migrants internationaux."
+    },
+    {
+      "question": "Quelles sont les conséquences des migrations pour les pays d’accueil ?",
+      "options": ["Diversité culturelle et main-d’œuvre disponible", "Manque d’écoles", "Fermeture des frontières", "Hausse du chômage total"],
+      "reponse": "Diversité culturelle et main-d’œuvre disponible",
+      "explication": "Les migrants participent à l’économie et enrichissent la société culturellement."
+    },
+    {
+      "question": "Qu’est-ce que la fuite des cerveaux ?",
+      "options": ["Départ des diplômés vers les pays riches", "Échec scolaire", "Arrivée massive de touristes", "Grève des enseignants"],
+      "reponse": "Départ des diplômés vers les pays riches",
+      "explication": "Les personnes qualifiées quittent leur pays faute d’opportunités locales."
+    },
+    {
+      "question": "Comment appelle-t-on les taxes sur les produits importés ?",
+      "options": ["Droits de douane", "Timbres", "Impôts fonciers", "Licences d’export"],
+      "reponse": "Droits de douane",
+      "explication": "Ces taxes sont perçues à l’entrée des produits étrangers sur le territoire."
+    },
+    {
+      "question": "Que peut provoquer une migration non maîtrisée ?",
+      "options": ["Tensions sociales et saturation des services publics", "Réduction des prix", "Croissance agricole", "Hausse des naissances"],
+      "reponse": "Tensions sociales et saturation des services publics",
+      "explication": "Sans accompagnement, une migration massive peut poser des défis aux pays d’accueil."
+    },
+    {
+      "question": "Que veut dire IDE dans le commerce international ?",
+      "options": ["Investissements Directs Étrangers", "Importations Douanières Exceptionnelles", "Infrastructures de Développement Éducatif", "Industrie Démocratique Européenne"],
+      "reponse": "Investissements Directs Étrangers",
+      "explication": "Ce sont les capitaux investis par une entreprise dans un autre pays pour y produire ou vendre."
+    }
+  ]
+}

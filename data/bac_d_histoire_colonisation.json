@@ -1,0 +1,316 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que la colonisation africaine ?",
+      "options": ["Occupation et domination des territoires africains par des puissances européennes", "Émigration des Africains en Europe", "Commerce entre l’Afrique et l’Asie", "Indépendance des pays africains"],
+      "reponse": "Occupation et domination des territoires africains par des puissances européennes",
+      "explication": "La colonisation consiste en la prise de contrôle politique, économique et culturelle de l’Afrique par l’Europe."
+    },
+    {
+      "question": "Quelle conférence européenne a officialisé le partage de l’Afrique en 1884-1885 ?",
+      "options": ["Conférence de Berlin", "Congrès de Vienne", "Conférence de Paris", "Conférence de Yalta"],
+      "reponse": "Conférence de Berlin",
+      "explication": "La Conférence de Berlin organise le découpage officiel de l’Afrique entre les puissances coloniales."
+    },
+    {
+      "question": "Quel pays européen possédait la majeure partie de l’Afrique de l’Ouest ?",
+      "options": ["France", "Royaume-Uni", "Portugal", "Belgique"],
+      "reponse": "France",
+      "explication": "La France contrôlait de vastes territoires en Afrique de l’Ouest, comme le Sénégal, le Mali, la Côte d’Ivoire."
+    },
+    {
+      "question": "Quel pays colonial est connu pour l’exploitation brutale au Congo ?",
+      "options": ["Belgique", "France", "Allemagne", "Italie"],
+      "reponse": "Belgique",
+      "explication": "Le Congo belge, sous Léopold II, a connu une exploitation humaine et économique très dure."
+    },
+    {
+      "question": "Quel type d’administration était utilisé par la France dans ses colonies ?",
+      "options": ["Administration directe", "Administration indirecte", "Autonomie complète", "Fédéralisme"],
+      "reponse": "Administration directe",
+      "explication": "La France administrait directement ses colonies avec des fonctionnaires français."
+    },
+    {
+      "question": "Quel système d’administration utilisait le Royaume-Uni ?",
+      "options": ["Administration indirecte", "Administration directe", "Colonisation de peuplement", "Mandat de la SDN"],
+      "reponse": "Administration indirecte",
+      "explication": "Les Britanniques gouvernaient souvent via les chefs locaux ou royaumes traditionnels."
+    },
+    {
+      "question": "Quelles étaient les principales ressources exploitées en Afrique coloniale ?",
+      "options": ["Caoutchouc, or, ivoire, coton", "Pétrole, charbon, acier", "Blé, maïs, soja", "Vin, fromage, soie"],
+      "reponse": "Caoutchouc, or, ivoire, coton",
+      "explication": "Les ressources naturelles précieuses étaient exportées vers l’Europe pour l’industrie."
+    },
+    {
+      "question": "Quel était le rôle des compagnies concessionnaires ?",
+      "options": ["Exploiter les ressources au nom des puissances coloniales", "Gérer les écoles", "Organiser les élections", "Promouvoir les droits des Africains"],
+      "reponse": "Exploiter les ressources au nom des puissances coloniales",
+      "explication": "Ces compagnies avaient le monopole de l’extraction des ressources, souvent avec brutalité."
+    },
+    {
+      "question": "Qu’est-ce que la mission civilisatrice ?",
+      "options": ["Idée selon laquelle l’Europe devait apporter la civilisation à l’Afrique", "Une mission religieuse d’évangélisation", "Une mission militaire", "Une politique économique"],
+      "reponse": "Idée selon laquelle l’Europe devait apporter la civilisation à l’Afrique",
+      "explication": "Justification morale utilisée pour légitimer la colonisation et l’assimilation culturelle."
+    },
+    {
+      "question": "Qu’est-ce que l’assimilation dans le contexte colonial français ?",
+      "options": ["Faire des Africains des citoyens français assimilés à la culture européenne", "Garder les Africains dans leurs cultures", "Expulser les populations locales", "Donner l’indépendance immédiate"],
+      "reponse": "Faire des Africains des citoyens français assimilés à la culture européenne",
+      "explication": "Politique visant à intégrer les colonisés en leur imposant la langue et la culture françaises."
+    },
+    {
+      "question": "Quel était l’objectif principal de l’économie coloniale ?",
+      "options": ["Exporter les matières premières vers la métropole", "Développer l’industrie locale", "Favoriser l’agriculture locale", "Promouvoir l’industrialisation africaine"],
+      "reponse": "Exporter les matières premières vers la métropole",
+      "explication": "L’économie coloniale visait à enrichir la puissance coloniale par l’extraction des ressources."
+    },
+    {
+      "question": "Quelles étaient les conséquences principales de la colonisation sur les populations africaines ?",
+      "options": ["Exploitation, perte de terres, oppression", "Liberté et développement économique", "Égalité sociale", "Autonomie politique"],
+      "reponse": "Exploitation, perte de terres, oppression",
+      "explication": "La colonisation a entraîné des violences, spoliations et discriminations massives."
+    },
+    {
+      "question": "Quel rôle jouaient les missions chrétiennes durant la colonisation ?",
+      "options": ["Évangélisation et éducation", "Exploitation minière", "Administration politique", "Commerce de ressources"],
+      "reponse": "Évangélisation et éducation",
+      "explication": "Les missions visaient à convertir les populations africaines et à leur enseigner la langue et la culture européennes."
+    },
+    {
+      "question": "Quel est le terme désignant les territoires africains sous contrôle français ?",
+      "options": ["Afrique-Occidentale française", "Empire britannique", "Protectorats allemands", "Colonies portugaises"],
+      "reponse": "Afrique-Occidentale française",
+      "explication": "L’AOF regroupait plusieurs colonies françaises en Afrique de l’Ouest."
+    },
+    {
+      "question": "Quelles furent les principales formes de résistance à la colonisation ?",
+      "options": ["Révoltes, mouvements nationalistes, résistance armée", "Soutien à la colonisation", "Migration vers l’Europe", "Collaboration avec les colonisateurs"],
+      "reponse": "Révoltes, mouvements nationalistes, résistance armée",
+      "explication": "De nombreuses populations africaines ont lutté contre la domination coloniale."
+    },
+    {
+      "question": "Quel est le nom de la politique britannique de gouvernement indirect ?",
+      "options": ["Indirection administrative", "Gouvernement autonome", "Rule by proxy", "Administration indirecte"],
+      "reponse": "Administration indirecte",
+      "explication": "Les Britanniques gouvernaient par l’intermédiaire des autorités locales traditionnelles."
+    },
+    {
+      "question": "Quel pays africain n’a jamais été colonisé ?",
+      "options": ["Éthiopie", "Sénégal", "Algérie", "Nigeria"],
+      "reponse": "Éthiopie",
+      "explication": "L’Éthiopie a résisté à la colonisation italienne lors de la bataille d’Adoua en 1896."
+    },
+    {
+      "question": "Quel était l’impact de la colonisation sur les structures sociales africaines ?",
+      "options": ["Désorganisation et imposition de nouvelles hiérarchies", "Renforcement des structures traditionnelles", "Égalité entre les peuples", "Autonomie des populations"],
+      "reponse": "Désorganisation et imposition de nouvelles hiérarchies",
+      "explication": "La colonisation a souvent détruit les sociétés traditionnelles et imposé des systèmes étrangers."
+    },
+    {
+      "question": "Qu’est-ce que le Code de l’indigénat ?",
+      "options": ["Ensemble de lois discriminatoires appliquées aux colonisés", "Code juridique égalitaire", "Charte des droits humains", "Convention internationale"],
+      "reponse": "Ensemble de lois discriminatoires appliquées aux colonisés",
+      "explication": "Le Code de l’indigénat imposait des restrictions et punitions aux populations africaines."
+    },
+    {
+      "question": "Quelle puissance coloniale a contrôlé l’Afrique du Sud ?",
+      "options": ["Royaume-Uni", "France", "Allemagne", "Belgique"],
+      "reponse": "Royaume-Uni",
+      "explication": "L’Afrique du Sud était une colonie britannique, marquée plus tard par l’apartheid."
+    },
+    {
+      "question": "Quelle était la principale langue imposée dans les colonies françaises ?",
+      "options": ["Français", "Anglais", "Portugais", "Allemand"],
+      "reponse": "Français",
+      "explication": "Le français était la langue officielle imposée dans les administrations et écoles coloniales."
+    },
+    {
+      "question": "Quel terme désigne la domination politique, économique et culturelle d’une puissance sur un territoire ?",
+      "options": ["Impérialisme", "Colonialisme", "Nationalisme", "Fédéralisme"],
+      "reponse": "Impérialisme",
+      "explication": "L’impérialisme est la politique d’expansion et de domination d’un État sur d’autres territoires."
+    },
+    {
+      "question": "Quelle fut la principale motivation économique des puissances coloniales en Afrique ?",
+      "options": ["Exploitation des ressources naturelles", "Recherche de terres agricoles pour les colons", "Développement des industries locales", "Promotion du commerce équitable"],
+      "reponse": "Exploitation des ressources naturelles",
+      "explication": "Les colonies étaient exploitées pour leurs matières premières destinées à l’industrie européenne."
+    },
+    {
+      "question": "Quelles sont les conséquences sociales de la colonisation en Afrique ?",
+      "options": ["Inégalités, migrations forcées, travail forcé", "Développement économique local", "Égalité entre Africains et Européens", "Autonomie politique"],
+      "reponse": "Inégalités, migrations forcées, travail forcé",
+      "explication": "La colonisation a provoqué des souffrances humaines majeures et des bouleversements sociaux."
+    },
+    {
+      "question": "Quelles puissances européennes ont colonisé l’Afrique ?",
+      "options": ["France, Royaume-Uni, Belgique, Allemagne, Portugal, Italie, Espagne", "États-Unis, Russie, Chine", "Inde, Japon, Australie", "Brésil, Argentine, Mexique"],
+      "reponse": "France, Royaume-Uni, Belgique, Allemagne, Portugal, Italie, Espagne",
+      "explication": "Ces pays se sont partagé l’Afrique lors de la colonisation au 19e et début 20e siècles."
+    },
+    {
+      "question": "Quelle colonie était connue sous le nom d’Afrique-Orientale allemande ?",
+      "options": ["Tanzanie actuelle", "Algérie", "Sénégal", "Angola"],
+      "reponse": "Tanzanie actuelle",
+      "explication": "L’Afrique-Orientale allemande comprenait la Tanzanie, le Rwanda et le Burundi actuels."
+    },
+    {
+      "question": "Quelle est la principale critique contemporaine de la colonisation ?",
+      "options": ["Exploitation, racisme, destructions culturelles", "Développement économique", "Paix et progrès", "Coopération internationale"],
+      "reponse": "Exploitation, racisme, destructions culturelles",
+      "explication": "La colonisation est aujourd’hui dénoncée pour ses injustices et ses impacts négatifs durables."
+    },
+    {
+      "question": "Quel était le rôle des tirailleurs sénégalais dans l’armée coloniale française ?",
+      "options": ["Soldats africains recrutés pour combattre dans les guerres mondiales", "Fonctionnaires civils", "Exploitants agricoles", "Évêques missionnaires"],
+      "reponse": "Soldats africains recrutés pour combattre dans les guerres mondiales",
+      "explication": "Les tirailleurs sénégalais furent engagés dans les armées françaises durant les conflits mondiaux."
+    },
+    {
+      "question": "Quel est le nom du système de travail forcé imposé dans certaines colonies ?",
+      "options": ["Corvée", "Esclavage", "Service militaire", "Travail libre"],
+      "reponse": "Corvée",
+      "explication": "La corvée obligeait les populations locales à travailler sans rémunération pour les colons."
+    },
+    {
+      "question": "Quelle puissance coloniale a utilisé largement la politique de ségrégation raciale en Afrique ?",
+      "options": ["Afrique du Sud (Royaume-Uni)", "France", "Belgique", "Allemagne"],
+      "reponse": "Afrique du Sud (Royaume-Uni)",
+      "explication": "L’Afrique du Sud a institué l’apartheid, un système de ségrégation raciale extrême."
+    },
+    {
+      "question": "Quel était l’objectif des écoles missionnaires dans les colonies ?",
+      "options": ["Éduquer et assimiler les enfants africains à la culture européenne", "Former des ouvriers agricoles", "Promouvoir les langues africaines", "Préparer à l’indépendance immédiate"],
+      "reponse": "Éduquer et assimiler les enfants africains à la culture européenne",
+      "explication": "Ces écoles visaient à diffuser la langue, la religion et les valeurs européennes."
+    },
+    {
+      "question": "Quel est le nom donné aux colons européens installés en Afrique ?",
+      "options": ["Pieds-noirs", "Tirailleurs", "Missionnaires", "Exploitants"],
+      "reponse": "Pieds-noirs",
+      "explication": "Ce terme désigne principalement les colons français installés en Algérie."
+    },
+    {
+      "question": "Quelle colonie italienne a connu une guerre coloniale sanglante dans les années 1930 ?",
+      "options": ["Éthiopie", "Libye", "Somalie", "Tunisie"],
+      "reponse": "Éthiopie",
+      "explication": "L’Italie a envahi l’Éthiopie en 1935, provoquant une guerre brutale."
+    },
+    {
+      "question": "Quel type de culture était encouragé dans les colonies pour l’exportation ?",
+      "options": ["Cultures de rente (coton, café, cacao)", "Agriculture vivrière", "Élevage traditionnel", "Jardinage local"],
+      "reponse": "Cultures de rente (coton, café, cacao)",
+      "explication": "Les colons favorisaient les cultures destinées à l’exportation vers l’Europe."
+    },
+    {
+      "question": "Quelle organisation internationale supervisait certains territoires africains sous mandat ?",
+      "options": ["Société des Nations (SDN)", "ONU", "OTAN", "Union Africaine"],
+      "reponse": "Société des Nations (SDN)",
+      "explication": "La SDN administrait certains territoires allemands ou ottomans après la Première Guerre mondiale."
+    },
+    {
+      "question": "Quelle colonie française était connue sous le nom de Côte d’Ivoire ?",
+      "options": ["Côte d’Ivoire", "Sénégal", "Mali", "Niger"],
+      "reponse": "Côte d’Ivoire",
+      "explication": "Colonie française riche en ressources agricoles et minérales."
+    },
+    {
+      "question": "Quel est le terme désignant le déplacement forcé de populations pour le travail en colonies ?",
+      "options": ["Travail forcé", "Migration volontaire", "Exode rural", "Travail libre"],
+      "reponse": "Travail forcé",
+      "explication": "Les colonisateurs imposaient souvent un travail obligatoire aux populations locales."
+    },
+    {
+      "question": "Quel fut l’impact des frontières tracées par les puissances coloniales en Afrique ?",
+      "options": ["Division arbitraire des peuples et conflits ethniques", "Respect des frontières ethniques", "Unification des populations", "Autonomie des régions"],
+      "reponse": "Division arbitraire des peuples et conflits ethniques",
+      "explication": "Les frontières coloniales souvent ignorent les réalités ethniques, créant des tensions durables."
+    },
+    {
+      "question": "Quel est le rôle du gouverneur colonial ?",
+      "options": ["Diriger l’administration coloniale au nom de la métropole", "Organiser les élections locales", "Promouvoir l’indépendance", "Gérer les écoles locales"],
+      "reponse": "Diriger l’administration coloniale au nom de la métropole",
+      "explication": "Le gouverneur représente la puissance coloniale et exerce le pouvoir administratif."
+    },
+    {
+      "question": "Quel pays européen a eu une colonie importante nommée Angola ?",
+      "options": ["Portugal", "France", "Belgique", "Italie"],
+      "reponse": "Portugal",
+      "explication": "L’Angola était une colonie portugaise en Afrique australe."
+    },
+    {
+      "question": "Quelle était la durée habituelle des mandats imposés aux populations colonisées ?",
+      "options": ["Variable, souvent longue et sans consentement", "Courte et volontaire", "Limitée à un an", "Illimitée avec consentement"],
+      "reponse": "Variable, souvent longue et sans consentement",
+      "explication": "Les populations subissaient souvent des mandats de travail ou militaires sans choix."
+    },
+    {
+      "question": "Quel est le terme désignant la domination totale sur un territoire étranger ?",
+      "options": ["Colonialisme", "Nationalisme", "Impérialisme", "Fédéralisme"],
+      "reponse": "Colonialisme",
+      "explication": "Le colonialisme désigne la prise et le contrôle direct d’un territoire par une puissance étrangère."
+    },
+    {
+      "question": "Quel était le principal moyen de transport utilisé pour exporter les ressources coloniales ?",
+      "options": ["Chemins de fer et ports maritimes", "Routes rurales", "Pistes de brousse", "Transport aérien"],
+      "reponse": "Chemins de fer et ports maritimes",
+      "explication": "Les infrastructures étaient principalement construites pour faciliter l’exportation vers la métropole."
+    },
+    {
+      "question": "Quel fut le principal but des politiques coloniales européennes en Afrique ?",
+      "options": ["Exploitation économique", "Développement des droits civiques", "Promotion de la démocratie", "Protection de l’environnement"],
+      "reponse": "Exploitation économique",
+      "explication": "L’objectif était de tirer profit des richesses africaines au bénéfice des métropoles."
+    },
+    {
+      "question": "Quel pays a utilisé le système des protectorats en Afrique ?",
+      "options": ["France", "Allemagne", "Italie", "Belgique"],
+      "reponse": "France",
+      "explication": "La France a instauré des protectorats où les chefs locaux conservaient un pouvoir limité."
+    },
+    {
+      "question": "Quel est le rôle des chefs traditionnels dans l’administration indirecte britannique ?",
+      "options": ["Gouverner au nom des colonisateurs", "Organiser des révoltes", "Rejeter la colonisation", "Éduquer la population"],
+      "reponse": "Gouverner au nom des colonisateurs",
+      "explication": "Les chefs locaux servaient d’intermédiaires entre la population et l’administration coloniale."
+    },
+    {
+      "question": "Quel fut l’impact de la colonisation sur les langues africaines ?",
+      "options": ["Déclin et marginalisation au profit des langues européennes", "Expansion des langues africaines", "Remplacement total par l’arabe", "Développement des langues locales"],
+      "reponse": "Déclin et marginalisation au profit des langues européennes",
+      "explication": "Les langues coloniales comme le français et l’anglais ont été imposées dans l’éducation et l’administration."
+    },
+    {
+      "question": "Quel pays européen a colonisé la Somalie ?",
+      "options": ["Italie", "France", "Royaume-Uni", "Belgique"],
+      "reponse": "Italie",
+      "explication": "La Somalie était une colonie italienne à la fin du 19e siècle."
+    },
+    {
+      "question": "Qu’est-ce que le commerce triangulaire ?",
+      "options": ["Commerce d’esclaves entre Europe, Afrique et Amériques", "Commerce entre Afrique, Asie et Europe", "Commerce libre entre colonies", "Échanges entre pays africains"],
+      "reponse": "Commerce d’esclaves entre Europe, Afrique et Amériques",
+      "explication": "Ce système impliquait la traite négrière et l’exploitation économique du 17e au 19e siècle."
+    },
+    {
+      "question": "Quel fut le rôle des sociétés coloniales ?",
+      "options": ["Exploiter les ressources et administrer les colonies", "Organiser des révoltes", "Promouvoir l’éducation", "Gérer la santé publique"],
+      "reponse": "Exploiter les ressources et administrer les colonies",
+      "explication": "Ces sociétés commerciales contrôlaient souvent des territoires et leurs richesses."
+    },
+    {
+      "question": "Quelle était la place des femmes africaines durant la colonisation ?",
+      "options": ["Souvent exclues de la politique et soumises à des rôles traditionnels", "Dirigeantes des mouvements coloniaux", "Chef des administrations", "Soldates dans les armées coloniales"],
+      "reponse": "Souvent exclues de la politique et soumises à des rôles traditionnels",
+      "explication": "Les femmes subissaient les effets de la colonisation avec peu de pouvoir officiel."
+    },
+    {
+      "question": "Quel est l’impact culturel durable de la colonisation en Afrique ?",
+      "options": ["Langues, religions, systèmes juridiques européens toujours présents", "Retour complet aux cultures traditionnelles", "Disparition totale des langues africaines", "Autonomie culturelle totale"],
+      "reponse": "Langues, religions, systèmes juridiques européens toujours présents",
+      "explication": "Les traces coloniales persistent dans de nombreux aspects des sociétés africaines modernes."
+    }
+  ]
+}

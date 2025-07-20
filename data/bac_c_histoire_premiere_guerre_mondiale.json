@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Quel pays faisait partie des Empires centraux ?",
+      "options": ["Allemagne", "France", "Royaume-Uni", "Russie"],
+      "reponse": "Allemagne",
+      "explication": "Les Empires centraux regroupaient principalement l'Allemagne, l'Autriche-Hongrie, l'Empire ottoman et la Bulgarie."
+    },
+    {
+      "question": "Quelle innovation technologique a marqué la Première Guerre mondiale ?",
+      "options": ["Usage massif des mitrailleuses", "Canon à longue portée", "Téléphone portable", "Avion supersonique"],
+      "reponse": "Usage massif des mitrailleuses",
+      "explication": "La mitrailleuse a rendu les combats plus meurtriers et a contribué à la guerre de tranchées."
+    },
+    {
+      "question": "Quel fut l'objectif principal du blocus naval britannique ?",
+      "options": ["Affamer l'Allemagne", "Protéger les colonies", "Bloquer la Russie", "Envahir la Belgique"],
+      "reponse": "Affamer l'Allemagne",
+      "explication": "Le blocus visait à couper les approvisionnements de l'Allemagne pour la faire céder."
+    },
+    {
+      "question": "Quelle fut la conséquence du traité de Brest-Litovsk en 1918 ?",
+      "options": ["La Russie sort de la guerre", "L'Allemagne capitule", "L'Italie rejoint les Alliés", "La France envahit l'Allemagne"],
+      "reponse": "La Russie sort de la guerre",
+      "explication": "Ce traité signe la paix entre la Russie bolchévique et l'Allemagne, mettant fin à la participation russe."
+    },
+    {
+      "question": "Quelle fut la principale cause des lourdes pertes humaines ?",
+      "options": ["Usage de nouvelles armes et conditions des tranchées", "Mauvaises stratégies uniquement", "Famine dans les villes", "Conditions climatiques"],
+      "reponse": "Usage de nouvelles armes et conditions des tranchées",
+      "explication": "Les nouvelles armes combinées à la guerre statique causèrent de nombreux morts."
+    },
+    {
+      "question": "Quelle puissance impériale fut affaiblie et disparut à la fin de la guerre ?",
+      "options": ["Empire austro-hongrois", "Empire britannique", "Empire français", "Empire russe"],
+      "reponse": "Empire austro-hongrois",
+      "explication": "L’Empire austro-hongrois éclata en plusieurs États indépendants après la guerre."
+    },
+    {
+      "question": "Quel rôle a joué le gaz moutarde dans la guerre ?",
+      "options": ["Arme chimique utilisée pour attaquer", "Nourriture pour soldats", "Produit médical", "Moyen de communication"],
+      "reponse": "Arme chimique utilisée pour attaquer",
+      "explication": "Le gaz moutarde a été une arme chimique très meurtrière pendant la guerre."
+    },
+    {
+      "question": "Que signifie le terme « guerre totale » ?",
+      "options": ["Mobilisation complète des ressources et populations", "Guerre limitée à un front", "Guerre uniquement militaire", "Conflit court"],
+      "reponse": "Mobilisation complète des ressources et populations",
+      "explication": "La guerre totale implique que toute la société est engagée dans l’effort de guerre."
+    },
+    {
+      "question": "Quelle est la signification de la bataille de la Marne en 1914 ?",
+      "options": ["Victoire décisive des Alliés empêchant l'invasion de Paris", "Défaite totale de la France", "Entrée en guerre des États-Unis", "Traité de paix"],
+      "reponse": "Victoire décisive des Alliés empêchant l'invasion de Paris",
+      "explication": "La bataille de la Marne a stoppé l'avance allemande et marqué le début de la guerre de tranchées."
+    },
+    {
+      "question": "Quelle nouvelle arme a transformé la guerre navale pendant ce conflit ?",
+      "options": ["Sous-marin", "Canon à longue portée", "Ballon dirigeable", "Torpille classique"],
+      "reponse": "Sous-marin",
+      "explication": "Le sous-marin a été utilisé pour couler les navires ennemis, notamment par l’Allemagne."
+    },
+    {
+      "question": "Quel empire a connu une révolution durant la guerre, menant à sa sortie ?",
+      "options": ["Empire russe", "Empire ottoman", "Empire allemand", "Empire austro-hongrois"],
+      "reponse": "Empire russe",
+      "explication": "La révolution de 1917 a provoqué la sortie de la Russie du conflit."
+    },
+    {
+      "question": "Quel est l’effet de la Première Guerre mondiale sur les cartes politiques de l’Europe ?",
+      "options": ["Multiplication des nouveaux États indépendants", "Unification de l’Europe", "Maintien des empires", "Expansion des colonies"],
+      "reponse": "Multiplication des nouveaux États indépendants",
+      "explication": "La guerre entraîne la disparition des empires et l’apparition de plusieurs nouveaux États."
+    },
+    {
+      "question": "Quelle est la durée totale de la Première Guerre mondiale ?",
+      "options": ["1914–1918", "1912–1916", "1915–1920", "1913–1917"],
+      "reponse": "1914–1918",
+      "explication": "La guerre dure du 28 juillet 1914 jusqu’au 11 novembre 1918."
+    },
+    {
+      "question": "Quelle fut la condition principale imposée à l'Allemagne par le traité de Versailles ?",
+      "options": ["Reparations lourdes et réduction de l’armée", "Alliance avec la France", "Accès à de nouvelles colonies", "Participation à la SDN"],
+      "reponse": "Reparations lourdes et réduction de l’armée",
+      "explication": "L’Allemagne devait payer des réparations et limiter ses forces militaires."
+    },
+    {
+      "question": "Quelle organisation internationale est créée après la guerre pour maintenir la paix ?",
+      "options": ["Société des Nations", "ONU", "OTAN", "Union Européenne"],
+      "reponse": "Société des Nations",
+      "explication": "La Société des Nations est fondée en 1919 pour éviter un nouveau conflit mondial."
+    },
+    {
+      "question": "Quel fut le rôle des femmes durant la Première Guerre mondiale ?",
+      "options": ["Travail dans les usines et soutien à l’effort de guerre", "Participation au front comme soldats", "Diriger les armées", "Rien de particulier"],
+      "reponse": "Travail dans les usines et soutien à l’effort de guerre",
+      "explication": "Les femmes remplacent les hommes dans les usines et participent à l’effort économique et social."
+    },
+    {
+      "question": "Qu’est-ce que le « front occidental » ?",
+      "options": ["Zone de combat principale entre France et Allemagne", "Front en Russie", "Front en Italie", "Zone neutre"],
+      "reponse": "Zone de combat principale entre France et Allemagne",
+      "explication": "Le front occidental est la zone de combats statiques entre l’Allemagne et les Alliés occidentaux."
+    },
+    {
+      "question": "Quel est le rôle des colonies pendant la guerre ?",
+      "options": ["Fournir soldats et ressources aux puissances européennes", "Rester neutres", "Participer aux négociations", "Gérer l’économie locale uniquement"],
+      "reponse": "Fournir soldats et ressources aux puissances européennes",
+      "explication": "Les colonies sont mobilisées pour soutenir les métropoles en hommes et matériel."
+    },
+    {
+      "question": "Comment s’appelle la fin effective des combats ?",
+      "options": ["Armistice", "Traité", "Victoire", "Conquête"],
+      "reponse": "Armistice",
+      "explication": "L’armistice du 11 novembre 1918 marque la fin des combats avant la signature du traité de paix."
+    },
+    {
+      "question": "Quelles furent les conséquences humaines de la guerre ?",
+      "options": ["Des millions de morts et blessés", "Peu de pertes humaines", "Seulement des blessés", "Aucune conséquence humaine"],
+      "reponse": "Des millions de morts et blessés",
+      "explication": "La guerre fait environ 10 millions de morts et des millions de blessés."
+    },
+    {
+      "question": "Quelle date marque le début officiel de la Première Guerre mondiale ?",
+      "options": ["28 juillet 1914", "1er août 1914", "11 novembre 1918", "14 juin 1914"],
+      "reponse": "28 juillet 1914",
+      "explication": "La guerre débute officiellement le 28 juillet 1914 avec la déclaration de guerre de l'Autriche-Hongrie à la Serbie suite à l'assassinat de François-Ferdinand."
+    },
+    {
+      "question": "Quel événement déclenche immédiatement la Première Guerre mondiale ?",
+      "options": ["Assassinat de François-Ferdinand", "Invasion de la Belgique", "Bataille de la Marne", "Traité de Versailles"],
+      "reponse": "Assassinat de François-Ferdinand",
+      "explication": "L'assassinat de l'archiduc François-Ferdinand à Sarajevo le 28 juin 1914 est l'élément déclencheur de la guerre."
+    },
+    {
+      "question": "Quelles nations composaient la Triple Entente ?",
+      "options": ["France, Russie, Royaume-Uni", "Allemagne, Autriche-Hongrie, Italie", "France, Italie, Japon", "Russie, Allemagne, Royaume-Uni"],
+      "reponse": "France, Russie, Royaume-Uni",
+      "explication": "La Triple Entente réunissait la France, la Russie et le Royaume-Uni avant et pendant la guerre."
+    },
+    {
+      "question": "Quelle alliance regroupait l'Allemagne, l'Autriche-Hongrie et l'Italie avant 1915 ?",
+      "options": ["Triple Alliance", "Triple Entente", "Alliés", "Entente Cordiale"],
+      "reponse": "Triple Alliance",
+      "explication": "La Triple Alliance était formée par ces trois pays, mais l'Italie changea de camp en 1915."
+    },
+    {
+      "question": "Pourquoi l'Italie rejoint-elle la Triple Entente en 1915 ?",
+      "options": ["Pour obtenir des territoires en Autriche-Hongrie", "Par opposition à la France", "Pour éviter la guerre", "Pour soutenir l'Allemagne"],
+      "reponse": "Pour obtenir des territoires en Autriche-Hongrie",
+      "explication": "L'Italie change de camp après des promesses de territoires à l'Autriche-Hongrie."
+    },
+    {
+      "question": "Quelle stratégie militaire allemande visait à vaincre rapidement la France ?",
+      "options": ["Plan Schlieffen", "Guerre de position", "Blocus naval", "Plan Barbarossa"],
+      "reponse": "Plan Schlieffen",
+      "explication": "Le plan Schlieffen prévoyait une attaque rapide via la Belgique pour battre la France rapidement."
+    },
+    {
+      "question": "Quel pays entre en guerre en 1917, influençant le conflit ?",
+      "options": ["États-Unis", "Japon", "Italie", "Turquie"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis rejoignent la guerre en 1917 aux côtés des Alliés, renforçant leur position."
+    },
+    {
+      "question": "Quelle caractéristique définit la guerre de tranchées ?",
+      "options": ["Stagnation et combats longs", "Guerre rapide et mobile", "Conflits principalement navals", "Usage exclusif de la cavalerie"],
+      "reponse": "Stagnation et combats longs",
+      "explication": "Les soldats s’enterrent dans des tranchées, ce qui rend le front statique et les combats prolongés."
+    },
+    {
+      "question": "Quelle bataille fut l’une des plus longues et sanglantes en 1916 ?",
+      "options": ["Verdun", "La Somme", "Tannenberg", "La Marne"],
+      "reponse": "Verdun",
+      "explication": "La bataille de Verdun (février à décembre 1916) est célèbre pour ses pertes massives."
+    },
+    {
+      "question": "Quel traité officialise la fin de la Première Guerre mondiale ?",
+      "options": ["Traité de Versailles", "Traité de Brest-Litovsk", "Traité de Saint-Germain", "Traité de Trianon"],
+      "reponse": "Traité de Versailles",
+      "explication": "Signé en 1919, ce traité impose de lourdes sanctions à l'Allemagne et met fin officiellement au conflit."
+    }
+  ]
+}

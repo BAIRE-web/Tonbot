@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le premier pays en termes de PIB nominal ?",
+      "options": ["États-Unis", "Chine", "Japon", "Allemagne"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis possèdent la plus grande économie mondiale en PIB nominal."
+    },
+    {
+      "question": "Quelle est la principale caractéristique économique de la Chine ?",
+      "options": ["Croissance rapide et économie mixte", "Économie exclusivement agricole", "Économie planifiée sans marché", "Faible industrialisation"],
+      "reponse": "Croissance rapide et économie mixte",
+      "explication": "La Chine combine un contrôle étatique avec une ouverture au marché."
+    },
+    {
+      "question": "Combien de pays composent l’Union européenne ?",
+      "options": ["27", "15", "30", "40"],
+      "reponse": "27",
+      "explication": "L’Union européenne compte actuellement 27 États membres."
+    },
+    {
+      "question": "Quelle est la monnaie unique utilisée dans plusieurs pays de l’UE ?",
+      "options": ["Euro", "Dollar", "Yen", "Livre sterling"],
+      "reponse": "Euro",
+      "explication": "L’euro est la monnaie commune à 19 pays de l’UE, facilitant les échanges."
+    },
+    {
+      "question": "Quel est le principal secteur économique des États-Unis ?",
+      "options": ["Services", "Agriculture", "Extraction minière", "Industrie lourde"],
+      "reponse": "Services",
+      "explication": "Les services représentent la majorité de l’économie américaine."
+    },
+    {
+      "question": "Quel pays est le principal partenaire commercial des États-Unis ?",
+      "options": ["Chine", "Russie", "Brésil", "Inde"],
+      "reponse": "Chine",
+      "explication": "La Chine est le premier partenaire commercial des États-Unis en importations et exportations."
+    },
+    {
+      "question": "Quelle puissance économique détient la plus grande réserve de devises étrangères ?",
+      "options": ["Chine", "États-Unis", "Union européenne", "Japon"],
+      "reponse": "Chine",
+      "explication": "La Chine possède d’importantes réserves en devises étrangères, notamment en dollars."
+    },
+    {
+      "question": "Quelle est la capitale économique de la Chine ?",
+      "options": ["Shanghai", "Pékin", "Hong Kong", "Guangzhou"],
+      "reponse": "Shanghai",
+      "explication": "Shanghai est le centre financier et industriel majeur de la Chine."
+    },
+    {
+      "question": "Quel est l’accord commercial majeur de l’UE ?",
+      "options": ["Marché unique", "NAFTA", "ALENA", "ASEAN"],
+      "reponse": "Marché unique",
+      "explication": "Le marché unique européen permet la libre circulation des biens, services, capitaux et personnes."
+    },
+    {
+      "question": "Quelle est la principale industrie en Chine ?",
+      "options": ["Manufacture et exportation", "Agriculture", "Pétrole", "Technologie uniquement"],
+      "reponse": "Manufacture et exportation",
+      "explication": "La Chine est l’usine du monde grâce à sa production industrielle massive."
+    },
+    {
+      "question": "Quel pays est leader mondial dans le secteur technologique ?",
+      "options": ["États-Unis", "Chine", "Allemagne", "France"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis abritent des entreprises leaders comme Apple, Google et Microsoft."
+    },
+    {
+      "question": "Quel est le rôle de la Banque centrale européenne (BCE) ?",
+      "options": ["Gérer la politique monétaire de la zone euro", "Imposer des taxes", "Diriger la politique agricole", "Contrôler les frontières"],
+      "reponse": "Gérer la politique monétaire de la zone euro",
+      "explication": "La BCE supervise la stabilité des prix et la monnaie unique euro."
+    },
+    {
+      "question": "Quelle puissance économique a la plus grande population ?",
+      "options": ["Chine", "États-Unis", "Union européenne", "Japon"],
+      "reponse": "Chine",
+      "explication": "La Chine est le pays le plus peuplé du monde avec plus d’1,4 milliard d’habitants."
+    },
+    {
+      "question": "Quelle est la capitale politique des États-Unis ?",
+      "options": ["Washington D.C.", "New York", "Los Angeles", "Chicago"],
+      "reponse": "Washington D.C.",
+      "explication": "Washington D.C. est la capitale fédérale et siège du gouvernement américain."
+    },
+    {
+      "question": "Quelle est la part de l’agriculture dans l’économie chinoise ?",
+      "options": ["Faible mais importante pour l’emploi", "Majoritaire en PIB", "Nulle", "Dominante dans l’exportation"],
+      "reponse": "Faible mais importante pour l’emploi",
+      "explication": "L’agriculture ne contribue pas beaucoup au PIB mais emploie encore une grande partie de la population."
+    },
+    {
+      "question": "Quel est le rôle principal de l’UE sur la scène mondiale ?",
+      "options": ["Favoriser la coopération économique et politique", "Conquérir des territoires", "Isoler les pays membres", "Interdire le commerce extérieur"],
+      "reponse": "Favoriser la coopération économique et politique",
+      "explication": "L’UE agit comme un bloc économique et politique intégré."
+    },
+    {
+      "question": "Quel pays a le plus grand nombre de brevets déposés ?",
+      "options": ["États-Unis", "Chine", "Japon", "Allemagne"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis sont leaders en innovation technologique et dépôt de brevets."
+    },
+    {
+      "question": "Quelle est la place de la Chine dans le commerce mondial ?",
+      "options": ["Premier exportateur mondial", "Négligeable", "Principal importateur uniquement", "Aucun rôle"],
+      "reponse": "Premier exportateur mondial",
+      "explication": "La Chine est le premier exportateur de biens dans le monde."
+    },
+    {
+      "question": "Quelle puissance économique possède la plus grande zone de libre-échange ?",
+      "options": ["Union européenne", "États-Unis", "Chine", "Russie"],
+      "reponse": "Union européenne",
+      "explication": "Le marché unique européen est la plus grande zone de libre-échange au monde."
+    },
+    {
+      "question": "Quel pays est leader dans la production de véhicules électriques ?",
+      "options": ["Chine", "États-Unis", "Allemagne", "France"],
+      "reponse": "Chine",
+      "explication": "La Chine est le plus grand producteur et marché des véhicules électriques."
+    },
+    {
+      "question": "Quelle est la monnaie officielle des États-Unis ?",
+      "options": ["Dollar américain", "Euro", "Yen", "Livre sterling"],
+      "reponse": "Dollar américain",
+      "explication": "Le dollar américain est la monnaie nationale et une monnaie de réserve mondiale."
+    },
+    {
+      "question": "Quel est l’effet principal de la mondialisation sur ces grandes puissances ?",
+      "options": ["Intensification des échanges économiques", "Isolement économique", "Réduction des échanges", "Fermeture des frontières"],
+      "reponse": "Intensification des échanges économiques",
+      "explication": "La mondialisation facilite la circulation des biens, capitaux et services entre ces puissances."
+    },
+    {
+      "question": "Quelle est la place des États-Unis dans la production agricole mondiale ?",
+      "options": ["Leader mondial", "Absence totale", "Faible production", "Principal importateur"],
+      "reponse": "Leader mondial",
+      "explication": "Les États-Unis sont un des principaux producteurs agricoles mondiaux, notamment en céréales.",
+    },
+    {
+      "question": "Quel est le rôle de la Chine dans les investissements étrangers ?",
+      "options": ["Investisseur majeur dans le monde", "Ne fait aucun investissement", "Ne reçoit aucun investissement", "Interdit les investissements étrangers"],
+      "reponse": "Investisseur majeur dans le monde",
+      "explication": "La Chine investit massivement dans les infrastructures à l’étranger via l’initiative “Belt and Road”."
+    },
+    {
+      "question": "Quel est le poids de l’industrie dans l’économie européenne ?",
+      "options": ["Environ 20% du PIB", "0%", "80%", "50%"],
+      "reponse": "Environ 20% du PIB",
+      "explication": "L’industrie représente une part importante mais non dominante du PIB européen."
+    },
+    {
+      "question": "Quelle est la part des services dans l’économie des États-Unis ?",
+      "options": ["Plus de 70%", "Moins de 10%", "50%", "20%"],
+      "reponse": "Plus de 70%",
+      "explication": "Le secteur tertiaire est dominant dans l’économie américaine."
+    },
+    {
+      "question": "Quel est le principal défi économique de la Chine ?",
+      "options": ["Maintenir une croissance durable et gérer les inégalités", "Faible croissance", "Pas d’industrialisation", "Manque de population"],
+      "reponse": "Maintenir une croissance durable et gérer les inégalités",
+      "explication": "La Chine cherche à équilibrer son développement rapide avec des enjeux sociaux.",
+    },
+    {
+      "question": "Quel pays a une influence majeure dans la politique internationale ?",
+      "options": ["États-Unis", "Brésil", "Inde", "Nigéria"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis sont une superpuissance politique, militaire et économique."
+    },
+    {
+      "question": "Quelle est la population approximative de l’Union européenne ?",
+      "options": ["440 millions", "100 millions", "800 millions", "200 millions"],
+      "reponse": "440 millions",
+      "explication": "L’UE regroupe environ 440 millions d’habitants."
+    },
+    {
+      "question": "Quel pays a organisé les Jeux Olympiques d’été en 2008 ?",
+      "options": ["Chine", "États-Unis", "Royaume-Uni", "Russie"],
+      "reponse": "Chine",
+      "explication": "Pékin a accueilli les Jeux Olympiques d’été en 2008, marquant son émergence mondiale.",
+    },
+    {
+      "question": "Quelle ville américaine est considérée comme le cœur de la technologie mondiale ?",
+      "options": ["San Francisco", "Washington", "Houston", "Chicago"],
+      "reponse": "San Francisco",
+      "explication": "La Silicon Valley, centre de l’innovation technologique, est située près de San Francisco."
+    },
+    {
+      "question": "Quel est le principal port commercial de la Chine ?",
+      "options": ["Shanghai", "Pékin", "Canton", "Shenzhen"],
+      "reponse": "Shanghai",
+      "explication": "Shanghai est le plus grand port à conteneurs du monde, facilitant les échanges mondiaux."
+    },
+    {
+      "question": "Quelle ville est considérée comme la capitale économique de l’Union européenne ?",
+      "options": ["Francfort", "Bruxelles", "Paris", "Rome"],
+      "reponse": "Francfort",
+      "explication": "Francfort abrite la Banque centrale européenne, jouant un rôle majeur dans la finance européenne."
+    },
+    {
+      "question": "Quel type d’économie caractérise l’Union européenne ?",
+      "options": ["Économie sociale de marché", "Économie planifiée", "Économie libérale absolue", "Économie agricole"],
+      "reponse": "Économie sociale de marché",
+      "explication": "L’UE combine liberté économique et protection sociale dans ses politiques."
+    },
+    {
+      "question": "Quel est le rôle principal de la politique agricole commune (PAC) dans l’UE ?",
+      "options": ["Soutenir les agriculteurs et stabiliser les marchés", "Limiter la production", "Réduire les échanges", "Importer tout l’alimentaire"],
+      "reponse": "Soutenir les agriculteurs et stabiliser les marchés",
+      "explication": "La PAC aide à garantir la sécurité alimentaire et à maintenir un revenu agricole stable."
+    },
+    {
+      "question": "Quel est le niveau d’industrialisation des États-Unis ?",
+      "options": ["Très élevé", "Faible", "Moyen", "Quasi nul"],
+      "reponse": "Très élevé",
+      "explication": "Les États-Unis possèdent un puissant secteur industriel, en particulier dans l’aéronautique, l’automobile et la défense."
+    },
+    {
+      "question": "Quel pays est en tête dans la conquête spatiale commerciale ?",
+      "options": ["États-Unis", "Chine", "Russie", "Allemagne"],
+      "reponse": "États-Unis",
+      "explication": "Grâce à des entreprises comme SpaceX, les États-Unis dominent le secteur spatial commercial."
+    },
+    {
+      "question": "Quelle organisation regroupe les principales puissances économiques mondiales ?",
+      "options": ["G20", "ONU", "ASEAN", "OTAN"],
+      "reponse": "G20",
+      "explication": "Le G20 réunit les 20 plus grandes économies pour discuter des questions économiques mondiales."
+    },
+    {
+      "question": "Quelle est l’une des principales exportations de la Chine ?",
+      "options": ["Produits électroniques", "Pétrole brut", "Agrumes", "Charbon"],
+      "reponse": "Produits électroniques",
+      "explication": "La Chine est le plus grand exportateur mondial de produits électroniques comme les téléphones ou ordinateurs."
+    },
+    {
+      "question": "Quelle est la première puissance militaire mondiale ?",
+      "options": ["États-Unis", "Chine", "Russie", "France"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis disposent du budget de défense le plus élevé au monde."
+    },
+    {
+      "question": "Quel facteur explique le poids de l’UE dans le commerce mondial ?",
+      "options": ["Nombre de pays, population et intégration économique", "Taille des armées", "Réserves pétrolières", "Nombre de montagnes"],
+      "reponse": "Nombre de pays, population et intégration économique",
+      "explication": "L’UE constitue un marché intégré avec une forte population et une économie puissante."
+    },
+    {
+      "question": "Quel est le rôle des universités dans la puissance des États-Unis ?",
+      "options": ["Former une main-d’œuvre hautement qualifiée", "Produire uniquement des agriculteurs", "Interdire la technologie", "Limiter la recherche"],
+      "reponse": "Former une main-d’œuvre hautement qualifiée",
+      "explication": "Les universités américaines jouent un rôle central dans la recherche et l’innovation."
+    },
+    {
+      "question": "Quel géant du e-commerce vient de Chine ?",
+      "options": ["Alibaba", "Amazon", "Ebay", "Flipkart"],
+      "reponse": "Alibaba",
+      "explication": "Alibaba est l’un des leaders mondiaux du commerce en ligne, basé en Chine."
+    },
+    {
+      "question": "Quel est l’objectif de la stratégie « Made in China 2025 » ?",
+      "options": ["Devenir leader technologique mondial", "Arrêter toute production", "Retour à l’agriculture", "Isoler la Chine"],
+      "reponse": "Devenir leader technologique mondial",
+      "explication": "Cette stratégie vise à faire de la Chine une puissance industrielle de haute technologie."
+    },
+    {
+      "question": "Quel est l’effet du dollar américain dans le commerce mondial ?",
+      "options": ["Monnaie de référence internationale", "Inutile", "Moins utilisé que le yen", "Interdit dans les échanges"],
+      "reponse": "Monnaie de référence internationale",
+      "explication": "Le dollar est la principale monnaie utilisée pour les transactions mondiales."
+    },
+    {
+      "question": "Quel est le lien entre démographie et économie en Chine ?",
+      "options": ["Main-d’œuvre abondante favorise la production", "Population faible ralentit tout", "Plus d’enfants que d’adultes", "Trop de retraités produisent tout"],
+      "reponse": "Main-d’œuvre abondante favorise la production",
+      "explication": "Une population nombreuse permet une production à grande échelle et à faible coût."
+    },
+    {
+      "question": "Quels secteurs renforcent la puissance de l’UE ?",
+      "options": ["Industrie, services, agriculture", "Pêche, artisanat uniquement", "Militaire uniquement", "Commerce de détail"],
+      "reponse": "Industrie, services, agriculture",
+      "explication": "Ces secteurs diversifiés assurent la stabilité et la puissance économique de l’UE."
+    },
+    {
+      "question": "Quel continent abrite les trois puissances étudiées ici ?",
+      "options": ["Deux en Asie, une en Amérique", "Deux en Europe, une en Asie", "Une en Amérique, une en Europe, une en Asie", "Trois en Afrique"],
+      "reponse": "Une en Amérique, une en Europe, une en Asie",
+      "explication": "Les États-Unis sont en Amérique, l’UE en Europe et la Chine en Asie."
+    },
+    {
+      "question": "Quelle est la principale limite de la puissance économique de l’UE ?",
+      "options": ["Manque d’unité politique forte", "Trop d’industries", "Population trop jeune", "Pas d’exportations"],
+      "reponse": "Manque d’unité politique forte",
+      "explication": "L’Union européenne reste une union économique, mais ses pays membres ont des politiques différentes."
+    },
+    {
+      "question": "Quel rôle joue l’innovation dans la puissance des grandes économies ?",
+      "options": ["Elle permet la compétitivité et le progrès technologique", "Elle freine la croissance", "Elle détruit l’économie", "Elle est inutile"],
+      "reponse": "Elle permet la compétitivité et le progrès technologique",
+      "explication": "Les grandes puissances investissent dans la recherche pour conserver leur supériorité."
+    }
+  ]
+}

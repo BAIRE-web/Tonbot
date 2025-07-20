@@ -1,0 +1,280 @@
+{
+  "qcm": [
+    {
+      "question": "Quel événement a conduit à la fin du régime de Thomas Sankara ?",
+      "options": ["Un coup d'État dirigé par Blaise Compaoré", "Une élection démocratique", "Un soulèvement populaire pacifique", "Une intervention étrangère"],
+      "reponse": "Un coup d'État dirigé par Blaise Compaoré",
+      "explication": "En 1987, Blaise Compaoré prit le pouvoir par un coup d'État, mettant fin au régime de Sankara."
+    },
+    {
+      "question": "Quelle était la politique de Sankara concernant l’autosuffisance alimentaire ?",
+      "options": ["Encourager la production locale pour réduire les importations", "Développer uniquement les importations alimentaires", "Ignorer le secteur agricole", "Augmenter la dépendance extérieure"],
+      "reponse": "Encourager la production locale pour réduire les importations",
+      "explication": "Sankara a mis en place des politiques pour favoriser l'agriculture locale et l'autosuffisance."
+    },
+    {
+      "question": "Quel rôle jouait la lutte contre la corruption dans le gouvernement de Sankara ?",
+      "options": ["Elle était une priorité avec une politique d’exemplarité", "Elle était tolérée", "Elle était ignorée", "Elle était institutionnalisée"],
+      "reponse": "Elle était une priorité avec une politique d’exemplarité",
+      "explication": "Sankara a prôné la lutte contre la corruption et a exigé l’exemplarité chez les dirigeants."
+    },
+    {
+      "question": "Comment Sankara a-t-il abordé la question des droits des femmes ?",
+      "options": ["Promotion de l’égalité et interdiction des mutilations", "Maintien des pratiques traditionnelles", "Exclusion des femmes de la vie publique", "Indifférence à la cause féminine"],
+      "reponse": "Promotion de l’égalité et interdiction des mutilations",
+      "explication": "Sankara a œuvré pour améliorer la condition des femmes et combattre les pratiques néfastes."
+    },
+    {
+      "question": "Quelle était la vision de Sankara sur la dette extérieure des pays africains ?",
+      "options": ["Rejet de la dette comme instrument d’asservissement", "Acceptation totale de la dette", "Ignorance de la dette", "Soutien à la dette étrangère"],
+      "reponse": "Rejet de la dette comme instrument d’asservissement",
+      "explication": "Il dénonçait la dette extérieure comme un moyen de domination économique."
+    },
+    {
+      "question": "Quelle importance Sankara accordait-il à la jeunesse ?",
+      "options": ["Acteurs essentiels du changement social", "Marginalisation de la jeunesse", "Répression des jeunes", "Neutralité vis-à-vis des jeunes"],
+      "reponse": "Acteurs essentiels du changement social",
+      "explication": "Sankara mobilisait activement la jeunesse pour les réformes et la révolution."
+    },
+    {
+      "question": "Quel slogan célèbre était associé au gouvernement de Sankara ?",
+      "options": ["« La patrie ou la mort, nous vaincrons ! »", "« Travail, famille, patrie »", "« Liberté, égalité, fraternité »", "« Paix et prospérité »"],
+      "reponse": "« La patrie ou la mort, nous vaincrons ! »",
+      "explication": "Ce slogan reflète l’engagement révolutionnaire et patriotique de Sankara."
+    },
+    {
+      "question": "Quelle politique Sankara a-t-il menée en matière d’environnement ?",
+      "options": ["Reboisement massif et lutte contre la désertification", "Exploitation intensive des ressources", "Aucune politique environnementale", "Promotion de la déforestation"],
+      "reponse": "Reboisement massif et lutte contre la désertification",
+      "explication": "Sankara a mis en œuvre des mesures pour protéger l’environnement."
+    },
+    {
+      "question": "Comment Sankara a-t-il abordé la question des relations internationales ?",
+      "options": ["Non-alignement et lutte contre l’impérialisme", "Alliance exclusive avec la France", "Isolation totale", "Alignement sur une superpuissance"],
+      "reponse": "Non-alignement et lutte contre l’impérialisme",
+      "explication": "Il prônait une politique indépendante vis-à-vis des grandes puissances."
+    },
+    {
+      "question": "Quel était le principal objectif des comités de base créés sous Sankara ?",
+      "options": ["Encourager la participation populaire et la gestion locale", "Renforcer le pouvoir central", "Réprimer l’opposition", "Organiser des fêtes culturelles"],
+      "reponse": "Encourager la participation populaire et la gestion locale",
+      "explication": "Ces comités visaient à renforcer la démocratie directe et la gestion communautaire."
+    },
+    {
+      "question": "Quelle était la politique de Sankara concernant la consommation ostentatoire ?",
+      "options": ["Rejet du gaspillage et promotion de la simplicité", "Promotion du luxe et de l’excès", "Neutralité sur ce sujet", "Encouragement de la consommation étrangère"],
+      "reponse": "Rejet du gaspillage et promotion de la simplicité",
+      "explication": "Sankara prônait la modestie et la responsabilité dans la consommation."
+    },
+    {
+      "question": "Quelle place Sankara donnait-il à la culture burkinabè ?",
+      "options": ["Valorisation et renouveau des traditions", "Dévalorisation", "Ignorance", "Suppression de la culture locale"],
+      "reponse": "Valorisation et renouveau des traditions",
+      "explication": "Il encourageait la fierté culturelle et la promotion des arts locaux."
+    },
+    {
+      "question": "Quel rôle l’armée jouait-elle sous le régime Sankara ?",
+      "options": ["Garant de la révolution et du pouvoir", "Opposée au régime", "Inexistante", "Réprimée par Sankara"],
+      "reponse": "Garant de la révolution et du pouvoir",
+      "explication": "L’armée soutenait activement le gouvernement révolutionnaire."
+    },
+    {
+      "question": "Quelle réforme Sankara a-t-il initiée dans le secteur de la santé ?",
+      "options": ["Campagnes de vaccination et construction d’hôpitaux", "Privatisation totale", "Abandon du secteur sanitaire", "Soins uniquement pour l’élite"],
+      "reponse": "Campagnes de vaccination et construction d’hôpitaux",
+      "explication": "Il a renforcé les infrastructures et les services de santé publique."
+    },
+    {
+      "question": "Quel impact la politique de Sankara a-t-elle eu sur la condition féminine ?",
+      "options": ["Amélioration notable des droits et de la participation", "Aucune évolution", "Régression", "Exclusion renforcée"],
+      "reponse": "Amélioration notable des droits et de la participation",
+      "explication": "Sankara a encouragé l’égalité des sexes et la lutte contre les pratiques néfastes."
+    },
+    {
+      "question": "Quelle était la vision de Sankara concernant l’exploitation des ressources naturelles ?",
+      "options": ["Au bénéfice du peuple et de la nation", "Privatisation étrangère", "Ignorance totale", "Exploitation abusive sans contrôle"],
+      "reponse": "Au bénéfice du peuple et de la nation",
+      "explication": "Il voulait que les richesses profitent directement à la population locale."
+    },
+    {
+      "question": "Quelle était l’attitude de Sankara face à la dette extérieure ?",
+      "options": ["Refus de payer une dette qu’il considérait illégitime", "Acceptation et remboursement", "Ignorance du problème", "Augmentation de la dette"],
+      "reponse": "Refus de payer une dette qu’il considérait illégitime",
+      "explication": "Il dénonçait la dette comme un mécanisme de contrôle néocolonial."
+    },
+    {
+      "question": "Comment se caractérisait la politique économique de Sankara ?",
+      "options": ["Autosuffisance et développement local", "Ouverture complète au marché mondial", "Dépendance économique", "Privatisation massive"],
+      "reponse": "Autosuffisance et développement local",
+      "explication": "Il encourageait l’économie locale et la réduction de la dépendance extérieure."
+    },
+    {
+      "question": "Quel fut le principal héritage politique de Thomas Sankara ?",
+      "options": ["Un modèle de leadership révolutionnaire et social", "Une dictature oubliée", "Un régime autoritaire colonial", "Une monarchie absolue"],
+      "reponse": "Un modèle de leadership révolutionnaire et social",
+      "explication": "Sankara est encore aujourd’hui une figure emblématique pour ses idéaux progressistes."
+    },
+    {
+      "question": "En quelle année le Burkina Faso a-t-il obtenu son indépendance ?",
+      "options": ["1960", "1958", "1975", "1983"],
+      "reponse": "1960",
+      "explication": "Le Burkina Faso, alors Haute-Volta, a obtenu son indépendance de la France en 1960."
+    },
+    {
+      "question": "Quel était le nom d’origine du Burkina Faso avant son changement en 1984 ?",
+      "options": ["Haute-Volta", "Mali", "Dahomey", "Soudan français"],
+      "reponse": "Haute-Volta",
+      "explication": "Le pays s’appelait Haute-Volta jusqu’à ce que Thomas Sankara le renomme Burkina Faso en 1984."
+    },
+    {
+      "question": "Qui était Thomas Sankara ?",
+      "options": ["Un président révolutionnaire et réformateur", "Un chef colonial", "Un homme d’affaires", "Un écrivain"],
+      "reponse": "Un président révolutionnaire et réformateur",
+      "explication": "Thomas Sankara fut un leader charismatique qui mena de nombreuses réformes au Burkina Faso."
+    },
+    {
+      "question": "Quelle année marque le début du régime de Thomas Sankara ?",
+      "options": ["1983", "1970", "1990", "1987"],
+      "reponse": "1983",
+      "explication": "Sankara prit le pouvoir lors d’un coup d’État en 1983."
+    },
+    {
+      "question": "Quelle réforme majeure Sankara a-t-il menée dans l’éducation ?",
+      "options": ["L’alphabétisation de masse", "Fermeture des écoles", "Privatisation de l’éducation", "Suppression de l’enseignement primaire"],
+      "reponse": "L’alphabétisation de masse",
+      "explication": "Sankara lança une campagne pour réduire l’analphabétisme dans tout le pays."
+    },
+    {
+      "question": "Quelle était la politique de Sankara envers la condition féminine ?",
+      "options": ["Promotion de l’égalité des sexes et lutte contre les mutilations", "Maintien du patriarcat", "Exclusion des femmes de la vie politique", "Ignorance des questions féminines"],
+      "reponse": "Promotion de l’égalité des sexes et lutte contre les mutilations",
+      "explication": "Sankara fut un ardent défenseur des droits des femmes."
+    },
+    {
+      "question": "Quel fut le nom donné au Burkina Faso par Thomas Sankara ?",
+      "options": ["Burkina Faso (le pays des hommes intègres)", "Pays des Volta", "Nouvelle Volta", "République des Savanes"],
+      "reponse": "Burkina Faso (le pays des hommes intègres)",
+      "explication": "Ce nom reflète l’idéal d’intégrité et de dignité prôné par Sankara."
+    },
+    {
+      "question": "Quelle politique économique Sankara a-t-il favorisée ?",
+      "options": ["Autosuffisance alimentaire et lutte contre la dépendance", "Ouverture totale au marché mondial", "Privatisation massive", "Importations massives"],
+      "reponse": "Autosuffisance alimentaire et lutte contre la dépendance",
+      "explication": "Il encouragea le développement local et la réduction des importations."
+    },
+    {
+      "question": "Quelle campagne environnementale est associée à Sankara ?",
+      "options": ["Reboisement et lutte contre la désertification", "Exploitation minière", "Déforestation", "Urbanisation rapide"],
+      "reponse": "Reboisement et lutte contre la désertification",
+      "explication": "Sankara a mis en place des programmes pour protéger l’environnement."
+    },
+    {
+      "question": "Comment Sankara voyait-il la dette extérieure ?",
+      "options": ["Comme une forme de néocolonialisme à rejeter", "Comme un outil de développement", "Indifférent", "Soutien économique essentiel"],
+      "reponse": "Comme une forme de néocolonialisme à rejeter",
+      "explication": "Il dénonça la dette comme un moyen d’asservissement des pays africains."
+    },
+    {
+      "question": "Quel fut le rôle de l’armée sous le régime Sankara ?",
+      "options": ["Acteur clé dans la révolution et la défense du régime", "Réprimée et marginalisée", "Absente", "Soumise au contrôle colonial"],
+      "reponse": "Acteur clé dans la révolution et la défense du régime",
+      "explication": "L’armée fut au cœur du coup d’État et du maintien du pouvoir."
+    },
+    {
+      "question": "Quelle langue a été mise en avant par Sankara pour la communication nationale ?",
+      "options": ["Le mooré", "Le français uniquement", "L’anglais", "Le dioula"],
+      "reponse": "Le mooré",
+      "explication": "Sankara valorisa les langues locales dans ses discours et politiques."
+    },
+    {
+      "question": "Quel fut l’impact des réformes de Sankara sur la santé publique ?",
+      "options": ["Amélioration des infrastructures et campagnes de vaccination", "Déclin total", "Privatisation de la santé", "Absence de politique sanitaire"],
+      "reponse": "Amélioration des infrastructures et campagnes de vaccination",
+      "explication": "Il lança plusieurs campagnes pour améliorer la santé des populations."
+    },
+    {
+      "question": "Comment Sankara gérait-il la corruption ?",
+      "options": ["Lutte sévère et exemplarité", "Tolérance", "Ignorance", "Corruption institutionnalisée"],
+      "reponse": "Lutte sévère et exemplarité",
+      "explication": "Il cherchait à éliminer la corruption au sein du gouvernement."
+    },
+    {
+      "question": "Quel fut le sort de Thomas Sankara en 1987 ?",
+      "options": ["Assassiné lors d’un coup d’État", "Retraité", "Élu président pour un second mandat", "Exilé volontaire"],
+      "reponse": "Assassiné lors d’un coup d’État",
+      "explication": "Il fut renversé et tué lors d’un coup d’État mené par Blaise Compaoré."
+    },
+    {
+      "question": "Quelle était la politique de Sankara sur l’intégration africaine ?",
+      "options": ["Promotion de la solidarité africaine et de l’indépendance collective", "Isolationnisme", "Alliance exclusive avec la France", "Non intervention"],
+      "reponse": "Promotion de la solidarité africaine et de l’indépendance collective",
+      "explication": "Il prônait une Afrique unie et indépendante des anciennes puissances coloniales."
+    },
+    {
+      "question": "Comment Sankara percevait-il le rôle des femmes dans la société ?",
+      "options": ["Égales et actives dans tous les secteurs", "Subordonnées", "Invisibles", "Exclues de la politique"],
+      "reponse": "Égales et actives dans tous les secteurs",
+      "explication": "Il encourageait l’émancipation des femmes et leur participation politique."
+    },
+    {
+      "question": "Quelle était la politique de Sankara concernant les ressources naturelles ?",
+      "options": ["Exploitation au bénéfice du peuple", "Privatisation étrangère", "Ignorance", "Exploitation coloniale"],
+      "reponse": "Exploitation au bénéfice du peuple",
+      "explication": "Il voulait que les richesses servent le développement national."
+    },
+    {
+      "question": "Quel type de gouvernement Sankara voulait-il instaurer ?",
+      "options": ["République populaire et démocratique", "Monarchie", "Dictature coloniale", "Théocratie"],
+      "reponse": "République populaire et démocratique",
+      "explication": "Il voulait un gouvernement proche du peuple et engagé dans le social."
+    },
+    {
+      "question": "Quelle était la position de Sankara sur la consommation ostentatoire ?",
+      "options": ["Critique et appel à la simplicité", "Promotion du luxe", "Indifférence", "Encouragement des dépenses publiques"],
+      "reponse": "Critique et appel à la simplicité",
+      "explication": "Sankara prônait la modestie et le rejet du gaspillage."
+    },
+    {
+      "question": "Quelle était la stratégie de Sankara pour améliorer la sécurité alimentaire ?",
+      "options": ["Développement de l’agriculture locale et collecte de semences", "Importation massive de nourriture", "Développement industriel", "Abandon de l’agriculture"],
+      "reponse": "Développement de l’agriculture locale et collecte de semences",
+      "explication": "Il misait sur la production locale pour nourrir la population."
+    },
+    {
+      "question": "Quel était le rôle des comités de base sous Sankara ?",
+      "options": ["Encourager la participation populaire et la gestion locale", "Exercer le pouvoir central", "Réprimer les opposants", "Organiser des fêtes"],
+      "reponse": "Encourager la participation populaire et la gestion locale",
+      "explication": "Les comités étaient destinés à renforcer la démocratie participative."
+    },
+    {
+      "question": "Quel était l’impact de la révolution sankariste sur les arts et la culture ?",
+      "options": ["Renouveau et valorisation des traditions", "Déclin complet", "Interdiction des arts traditionnels", "Ignorance de la culture"],
+      "reponse": "Renouveau et valorisation des traditions",
+      "explication": "Sankara encouragea la promotion de la culture burkinabè."
+    },
+    {
+      "question": "Quelle était la position de Sankara sur les relations internationales ?",
+      "options": ["Non-alignement et lutte contre l’impérialisme", "Alignement sur l’URSS", "Alignement sur la France", "Isolation totale"],
+      "reponse": "Non-alignement et lutte contre l’impérialisme",
+      "explication": "Il cherchait à préserver l’indépendance politique du Burkina Faso."
+    },
+    {
+      "question": "Quelles réformes Sankara a-t-il initiées dans le domaine de la santé ?",
+      "options": ["Campagnes de vaccination et construction d’infrastructures", "Privatisation", "Suppression des soins gratuits", "Non intervention"],
+      "reponse": "Campagnes de vaccination et construction d’infrastructures",
+      "explication": "La santé publique fut un axe important de ses réformes."
+    },
+    {
+      "question": "Quelle était la vision de Sankara concernant la jeunesse ?",
+      "options": ["Actrice essentielle du changement", "Ignorée", "Réprimée", "Exclue de la politique"],
+      "reponse": "Actrice essentielle du changement",
+      "explication": "Il mobilisa les jeunes pour participer activement à la révolution."
+    },
+    {
+      "question": "Quel est l’héritage principal laissé par Thomas Sankara ?",
+      "options": ["Un modèle de leadership révolutionnaire et social", "Une dictature oubliée", "Un régime économique colonial", "Une monarchie"],
+      "reponse": "Un modèle de leadership révolutionnaire et social",
+      "explication": "Sankara reste une figure emblématique pour ses idéaux et réformes."
+    }
+  ]
+}

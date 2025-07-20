@@ -1,0 +1,286 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la principale activité économique en Afrique ?",
+      "options": ["Agriculture", "Industrie lourde", "Tourisme", "Technologie"],
+      "reponse": "Agriculture",
+      "explication": "L'agriculture emploie la majorité de la population africaine et constitue la base de son économie."
+    },
+    {
+      "question": "Quel type d’agriculture est pratiqué par la plupart des paysans africains ?",
+      "options": ["Agriculture vivrière", "Agriculture industrielle", "Agriculture biologique", "Agriculture hydroponique"],
+      "reponse": "Agriculture vivrière",
+      "explication": "La majorité des paysans cultivent pour leur propre consommation et celle de leur communauté."
+    },
+    {
+      "question": "Quel est le principal problème de l’agriculture africaine ?",
+      "options": ["Faible mécanisation", "Surproduction", "Excès d’irrigation", "Abondance de crédits agricoles"],
+      "reponse": "Faible mécanisation",
+      "explication": "La plupart des exploitations restent traditionnelles avec peu de machines modernes."
+    },
+    {
+      "question": "Quel est le rôle des plantations dans l’économie africaine ?",
+      "options": ["Production de cultures d’exportation", "Alimentation locale uniquement", "Activité minière", "Industrie manufacturière"],
+      "reponse": "Production de cultures d’exportation",
+      "explication": "Les plantations produisent du café, cacao, coton, etc. destinés à l’exportation."
+    },
+    {
+      "question": "Quel est l’impact de la sécheresse sur l’agriculture africaine ?",
+      "options": ["Réduction des récoltes et famine", "Augmentation des rendements", "Aucune influence", "Abondance de nourriture"],
+      "reponse": "Réduction des récoltes et famine",
+      "explication": "Les sécheresses régulières affectent la production agricole et la sécurité alimentaire."
+    },
+    {
+      "question": "Quel secteur industriel est le plus développé en Afrique ?",
+      "options": ["Industrie extractive (mines et hydrocarbures)", "Industrie automobile", "Industrie électronique", "Industrie aéronautique"],
+      "reponse": "Industrie extractive (mines et hydrocarbures)",
+      "explication": "L’exploitation minière et pétrolière est dominante dans plusieurs pays africains."
+    },
+    {
+      "question": "Quel est le principal obstacle à l’industrialisation en Afrique ?",
+      "options": ["Manque d’infrastructures et de capitaux", "Main d’œuvre qualifiée", "Technologie avancée", "Stabilité politique"],
+      "reponse": "Manque d’infrastructures et de capitaux",
+      "explication": "L’insuffisance d’infrastructures freine le développement industriel."
+    },
+    {
+      "question": "Quel est l’effet des infrastructures insuffisantes sur le développement économique ?",
+      "options": ["Frein à la croissance et à l’investissement", "Accélération du développement", "Amélioration de la productivité", "Aucune influence"],
+      "reponse": "Frein à la croissance et à l’investissement",
+      "explication": "Les routes, électricité, et communications limitées compliquent les activités économiques."
+    },
+    {
+      "question": "Quelle est la contribution du secteur informel à l’économie africaine ?",
+      "options": ["Emploi important mais peu réglementé", "Faible impact", "Activité exclusive des grandes entreprises", "Secteur formel uniquement"],
+      "reponse": "Emploi important mais peu réglementé",
+      "explication": "Le secteur informel regroupe les petits commerces, artisans, etc., essentiels mais souvent non déclarés."
+    },
+    {
+      "question": "Quel est l’impact du commerce international sur l’économie africaine ?",
+      "options": ["Dépendance aux exportations de matières premières", "Autosuffisance complète", "Économie fermée", "Importations nulles"],
+      "reponse": "Dépendance aux exportations de matières premières",
+      "explication": "L’Afrique exporte surtout des produits bruts et importe des produits manufacturés."
+    },
+    {
+      "question": "Quel est le rôle des investissements étrangers en Afrique ?",
+      "options": ["Financer le développement mais parfois créer des dépendances", "Aucun rôle", "Freiner la croissance", "Éliminer les industries locales"],
+      "reponse": "Financer le développement mais parfois créer des dépendances",
+      "explication": "Les investissements étrangers sont essentiels mais peuvent limiter la souveraineté économique."
+    },
+    {
+      "question": "Quel secteur connaît une croissance rapide dans plusieurs pays africains ?",
+      "options": ["Technologies de l’information et communication (TIC)", "Agriculture traditionnelle", "Extraction minière", "Industrie lourde"],
+      "reponse": "Technologies de l’information et communication (TIC)",
+      "explication": "Les TIC se développent rapidement avec l’essor des télécommunications et internet."
+    },
+    {
+      "question": "Quel est le principal frein au développement industriel lié à la main-d’œuvre ?",
+      "options": ["Manque de formation qualifiée", "Surqualification", "Main-d’œuvre abondante et qualifiée", "Faible coût du travail"],
+      "reponse": "Manque de formation qualifiée",
+      "explication": "La pénurie de compétences techniques limite la productivité industrielle."
+    },
+    {
+      "question": "Quelle est la particularité du commerce intra-africain ?",
+      "options": ["Il reste faible comparé aux échanges avec l’extérieur", "Très développé", "Exclusivement numérique", "Dominé par les services"],
+      "reponse": "Il reste faible comparé aux échanges avec l’extérieur",
+      "explication": "Le commerce entre pays africains est limité malgré les efforts pour l’améliorer."
+    },
+    {
+      "question": "Quel est le rôle des zones économiques spéciales (ZES) en Afrique ?",
+      "options": ["Attirer les investissements et favoriser l’industrialisation", "Limiter l’activité économique", "Favoriser la ruralité", "Interdire les exportations"],
+      "reponse": "Attirer les investissements et favoriser l’industrialisation",
+      "explication": "Les ZES offrent des avantages fiscaux pour encourager les entreprises.",
+    },
+    {
+      "question": "Quel est l’impact des prix volatils des matières premières sur l’économie africaine ?",
+      "options": ["Instabilité économique et difficulté de planification", "Croissance stable", "Diversification aisée", "Aucun impact"],
+      "reponse": "Instabilité économique et difficulté de planification",
+      "explication": "Les fluctuations des prix affectent les recettes des pays exportateurs.",
+    },
+    {
+      "question": "Quelle est la contribution du tourisme dans l’économie africaine ?",
+      "options": ["Source importante de revenus et d’emplois", "Secteur négligeable", "Source de pollution uniquement", "Interdiction totale"],
+      "reponse": "Source importante de revenus et d’emplois",
+      "explication": "Le tourisme est un secteur clé dans plusieurs pays africains.",
+    },
+    {
+      "question": "Quelle est la principale difficulté liée à l’accès au crédit pour les petites entreprises ?",
+      "options": ["Garanties insuffisantes et taux d’intérêt élevés", "Crédit facile et bon marché", "Financement complet", "Subventions abondantes"],
+      "reponse": "Garanties insuffisantes et taux d’intérêt élevés",
+      "explication": "Les PME ont souvent du mal à obtenir des prêts adaptés.",
+    },
+    {
+      "question": "Quel est le rôle des coopératives agricoles ?",
+      "options": ["Améliorer la production et la commercialisation des produits", "Isoler les agriculteurs", "Limiter la production", "Augmenter les prix sans raison"],
+      "reponse": "Améliorer la production et la commercialisation des produits",
+      "explication": "Les coopératives aident les petits producteurs à s’organiser et à vendre.",
+    },
+    {
+      "question": "Quelle est la cause principale de la pauvreté en milieu rural ?",
+      "options": ["Faible productivité agricole et accès limité aux services", "Abondance de ressources", "Développement rapide", "Agriculture mécanisée"],
+      "reponse": "Faible productivité agricole et accès limité aux services",
+      "explication": "Le manque d’investissement et de soutien freine le développement rural.",
+    },
+    {
+      "question": "Quelle est la principale ressource minière exportée par l’Afrique ?",
+      "options": ["Or", "Fer", "Charbon", "Uranium"],
+      "reponse": "Or",
+      "explication": "L’Afrique est un grand producteur et exportateur d’or.",
+    },
+    {
+      "question": "Quel est l’impact des conflits armés sur l’économie ?",
+      "options": ["Destruction des infrastructures et ralentissement économique", "Croissance économique", "Développement industriel", "Paix durable"],
+      "reponse": "Destruction des infrastructures et ralentissement économique",
+      "explication": "Les conflits perturbent la production et l’investissement.",
+    },
+    {
+      "question": "Quel est le rôle des microcrédits dans le développement économique ?",
+      "options": ["Permettre aux petits entrepreneurs d’accéder au financement", "Limiter l’investissement", "Augmenter la pauvreté", "Empêcher la création d’entreprises"],
+      "reponse": "Permettre aux petits entrepreneurs d’accéder au financement",
+      "explication": "Les microcrédits favorisent l’initiative économique locale.",
+    },
+    {
+      "question": "Quel est le principal avantage de la diversification économique ?",
+      "options": ["Réduire la dépendance aux matières premières", "Augmenter la dépendance", "Réduire la production", "Limiter le commerce"],
+      "reponse": "Réduire la dépendance aux matières premières",
+      "explication": "Diversifier les activités économiques stabilise les revenus.",
+    },
+    {
+      "question": "Quelle est la conséquence de l’exode rural sur l’agriculture ?",
+      "options": ["Réduction de la production agricole", "Augmentation de la production", "Stabilité agricole", "Développement rural"],
+      "reponse": "Réduction de la production agricole",
+      "explication": "Le départ des jeunes diminue la main-d’œuvre agricole disponible.",
+    },
+    {
+      "question": "Quel est le rôle des infrastructures de transport dans le développement économique ?",
+      "options": ["Faciliter l’échange et l’accès aux marchés", "Limiter la mobilité", "Augmenter les coûts", "Réduire la production"],
+      "reponse": "Faciliter l’échange et l’accès aux marchés",
+      "explication": "De bonnes infrastructures permettent de dynamiser l’économie locale.",
+    },
+    {
+      "question": "Quelle est la caractéristique principale de l’industrie africaine ?",
+      "options": ["Dominée par l’industrie extractive", "Industrie diversifiée et lourde", "Faible importance", "Technologie de pointe"],
+      "reponse": "Dominée par l’industrie extractive",
+      "explication": "L’industrie minière et pétrolière est prédominante sur le continent.",
+    },
+    {
+      "question": "Quel est le principal secteur d’emploi en Afrique ?",
+      "options": ["Agriculture", "Industrie", "Services", "Technologies de l’information"],
+      "reponse": "Agriculture",
+      "explication": "L’agriculture est le premier employeur, surtout en zone rurale.",
+    },
+    {
+      "question": "Quel est le rôle des petits exploitants agricoles en Afrique ?",
+      "options": ["Assurer la production alimentaire locale", "Dominent le secteur industriel", "Se concentrent sur l’exportation uniquement", "Ne participent pas à l’économie"],
+      "reponse": "Assurer la production alimentaire locale",
+      "explication": "Les petits exploitants produisent majoritairement la nourriture consommée localement."
+    },
+    {
+      "question": "Quel est l’effet de la mauvaise gestion des ressources naturelles ?",
+      "options": ["Dégradation environnementale et baisse de productivité", "Amélioration des sols", "Augmentation des ressources", "Aucun impact"],
+      "reponse": "Dégradation environnementale et baisse de productivité",
+      "explication": "La surexploitation conduit à l’érosion et à la désertification."
+    },
+    {
+      "question": "Quel secteur connaît un fort potentiel de croissance grâce à l’industrialisation ?",
+      "options": ["Transformation agroalimentaire", "Extraction minière", "Agriculture traditionnelle", "Services financiers"],
+      "reponse": "Transformation agroalimentaire",
+      "explication": "Ce secteur ajoute de la valeur aux produits agricoles et crée des emplois."
+    },
+    {
+      "question": "Quel est le principal frein à l’exportation des produits africains ?",
+      "options": ["Faible diversification et dépendance aux matières premières", "Production variée", "Technologie avancée", "Excellente logistique"],
+      "reponse": "Faible diversification et dépendance aux matières premières",
+      "explication": "L’Afrique exporte majoritairement des produits non transformés."
+    },
+    {
+      "question": "Quel est l’impact de la mauvaise qualité des infrastructures de transport ?",
+      "options": ["Augmentation des coûts et retards", "Amélioration de la compétitivité", "Réduction des coûts", "Transport rapide"],
+      "reponse": "Augmentation des coûts et retards",
+      "explication": "Cela ralentit les échanges et limite l’accès aux marchés."
+    },
+    {
+      "question": "Quelle est la contribution de l’industrie textile en Afrique ?",
+      "options": ["Emploi important mais encore limité", "Secteur dominant", "Faible importance", "Interdiction totale"],
+      "reponse": "Emploi important mais encore limité",
+      "explication": "L’industrie textile emploie beaucoup, mais reste sous-développée."
+    },
+    {
+      "question": "Quel est l’effet de la corruption sur le développement économique ?",
+      "options": ["Freine les investissements et augmente les inégalités", "Favorise la croissance", "Réduit la pauvreté", "Renforce les institutions"],
+      "reponse": "Freine les investissements et augmente les inégalités",
+      "explication": "La corruption décourage les investisseurs et détourne les ressources."
+    },
+    {
+      "question": "Quelle est la principale ressource énergétique utilisée en Afrique ?",
+      "options": ["Hydrocarbures (pétrole et gaz)", "Énergie nucléaire", "Énergie solaire uniquement", "Charbon uniquement"],
+      "reponse": "Hydrocarbures (pétrole et gaz)",
+      "explication": "Le pétrole et le gaz sont les principales sources d’énergie fossile."
+    },
+    {
+      "question": "Quel est le rôle des banques dans le développement économique ?",
+      "options": ["Financer les projets et soutenir l’entrepreneuriat", "Limiter l’accès au crédit", "Freiner la croissance", "Ignorer les PME"],
+      "reponse": "Financer les projets et soutenir l’entrepreneuriat",
+      "explication": "Les banques sont essentielles pour fournir des capitaux aux entreprises."
+    },
+    {
+      "question": "Quel est l’impact des infrastructures énergétiques insuffisantes ?",
+      "options": ["Freine l’industrialisation et l’économie", "Favorise le développement", "Augmente la productivité", "Accroît la compétitivité"],
+      "reponse": "Freine l’industrialisation et l’économie",
+      "explication": "Le manque d’électricité limite la production et les services.",
+    },
+    {
+      "question": "Quel est le rôle des institutions régionales comme la CEDEAO dans le développement économique ?",
+      "options": ["Promouvoir l’intégration économique et la libre circulation", "Limiter le commerce", "Fermer les frontières", "Ignorer les États membres"],
+      "reponse": "Promouvoir l’intégration économique et la libre circulation",
+      "explication": "La CEDEAO facilite le commerce et la coopération entre pays.",
+    },
+    {
+      "question": "Quelle est la conséquence de l’urbanisation rapide sur l’économie ?",
+      "options": ["Croissance des services mais pression sur l’emploi", "Réduction de la pauvreté", "Développement rural", "Stabilité économique"],
+      "reponse": "Croissance des services mais pression sur l’emploi",
+      "explication": "L’urbanisation génère de nouveaux emplois, mais aussi du chômage.",
+    },
+    {
+      "question": "Quel est le principal défi de la modernisation agricole ?",
+      "options": ["Adoption lente des techniques modernes par les paysans", "Introduction rapide des technologies", "Agriculture entièrement mécanisée", "Développement homogène"],
+      "reponse": "Adoption lente des techniques modernes par les paysans",
+      "explication": "La résistance au changement et les coûts limitent la modernisation.",
+    },
+    {
+      "question": "Quel est le rôle des échanges commerciaux intra-africains ?",
+      "options": ["Renforcer la diversification économique et les marchés locaux", "Absence d’impact", "Concurrencer les marchés mondiaux", "Réduire la production"],
+      "reponse": "Renforcer la diversification économique et les marchés locaux",
+      "explication": "Les échanges internes favorisent la croissance et l’intégration régionale.",
+    },
+    {
+      "question": "Quelle est la principale cause des faibles rendements agricoles ?",
+      "options": ["Techniques traditionnelles et faible fertilité des sols", "Usage intensif de fertilisants", "Mécanisation complète", "Climat idéal"],
+      "reponse": "Techniques traditionnelles et faible fertilité des sols",
+      "explication": "L’agriculture reste majoritairement manuelle avec peu d’intrants.",
+    },
+    {
+      "question": "Quel est le rôle des zones rurales dans l’économie africaine ?",
+      "options": ["Production agricole et ressources naturelles", "Centre industriel majeur", "Secteur tertiaire dominant", "Technologie avancée"],
+      "reponse": "Production agricole et ressources naturelles",
+      "explication": "Les zones rurales fournissent nourriture et matières premières.",
+    },
+    {
+      "question": "Quel est le principal défi des industries extractives ?",
+      "options": ["Gestion durable et répartition des bénéfices", "Exploitation sans contraintes", "Aucun impact environnemental", "Profit exclusif des communautés locales"],
+      "reponse": "Gestion durable et répartition des bénéfices",
+      "explication": "Les ressources doivent bénéficier aux populations locales tout en préservant l’environnement.",
+    },
+    {
+      "question": "Quel est le principal avantage du développement des infrastructures ?",
+      "options": ["Stimuler la croissance économique et améliorer les conditions de vie", "Augmenter les coûts", "Limiter l’accès aux marchés", "Réduire l’emploi"],
+      "reponse": "Stimuler la croissance économique et améliorer les conditions de vie",
+      "explication": "Des infrastructures efficaces facilitent le commerce et l’accès aux services.",
+    },
+    {
+      "question": "Quelle est la principale source de revenus pour de nombreux pays africains ?",
+      "options": ["Exportation des matières premières", "Tourisme uniquement", "Industrie manufacturière", "Technologie"],
+      "reponse": "Exportation des matières premières",
+      "explication": "Les matières premières restent la base des revenus dans plusieurs économies.",
+    }
+  ]
+}

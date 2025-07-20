@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Quel continent est le plus peuplé au monde ?",
+      "options": ["Asie", "Afrique", "Europe", "Amérique du Sud"],
+      "reponse": "Asie",
+      "explication": "L’Asie est le continent le plus peuplé avec plus de 4 milliards d’habitants."
+    },
+    {
+      "question": "Quel continent a la plus faible densité de population ?",
+      "options": ["Australie", "Europe", "Afrique", "Antarctique"],
+      "reponse": "Australie",
+      "explication": "L’Australie est très peu peuplée par rapport à sa taille, notamment en raison de son désert intérieur."
+    },
+    {
+      "question": "Quels sont les continents dits \"développés\" ?",
+      "options": ["Europe et Amérique du Nord", "Afrique et Asie", "Amérique du Sud et Océanie", "Antarctique et Afrique"],
+      "reponse": "Europe et Amérique du Nord",
+      "explication": "Ces continents concentrent la majorité des pays développés économiquement et technologiquement."
+    },
+    {
+      "question": "Quel est le pays le plus développé économiquement ?",
+      "options": ["États-Unis", "Inde", "Brésil", "Nigéria"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis ont la plus grande économie mondiale en termes de PIB nominal."
+    },
+    {
+      "question": "Quel continent est principalement constitué de pays en développement ?",
+      "options": ["Afrique", "Europe", "Amérique du Nord", "Océanie"],
+      "reponse": "Afrique",
+      "explication": "L’Afrique comprend majoritairement des pays avec des indicateurs de développement faible ou moyen."
+    },
+    {
+      "question": "Quelle région est considérée comme un pays développé asiatique ?",
+      "options": ["Japon", "Indonésie", "Inde", "Philippines"],
+      "reponse": "Japon",
+      "explication": "Le Japon est une puissance économique majeure et un pays développé en Asie."
+    },
+    {
+      "question": "Quel est le principal facteur économique des pays développés ?",
+      "options": ["Industrie et services", "Agriculture extensive", "Extraction minière", "Commerce informel"],
+      "reponse": "Industrie et services",
+      "explication": "Les économies développées sont basées sur les industries manufacturières avancées et les services."
+    },
+    {
+      "question": "Quel est le principal défi des pays en développement ?",
+      "options": ["Réduire la pauvreté et améliorer les infrastructures", "Augmenter la population", "Réduire l’industrialisation", "Limiter l’éducation"],
+      "reponse": "Réduire la pauvreté et améliorer les infrastructures",
+      "explication": "Ces pays cherchent à améliorer leur niveau de vie et leur développement économique."
+    },
+    {
+      "question": "Quel est le rôle des organisations internationales dans le développement ?",
+      "options": ["Aider financièrement et techniquement les pays en développement", "Ignorer les pays pauvres", "Freiner le progrès", "Limiter les échanges"],
+      "reponse": "Aider financièrement et techniquement les pays en développement",
+      "explication": "Des organisations comme l’ONU ou la Banque mondiale soutiennent les projets de développement."
+    },
+    {
+      "question": "Quel pays est un exemple typique d’économie émergente ?",
+      "options": ["Brésil", "Canada", "France", "Norvège"],
+      "reponse": "Brésil",
+      "explication": "Le Brésil est un pays en transition vers un développement plus avancé, appelé économie émergente."
+    },
+    {
+      "question": "Quel continent est le plus riche en ressources naturelles ?",
+      "options": ["Afrique", "Europe", "Amérique du Nord", "Océanie"],
+      "reponse": "Afrique",
+      "explication": "L’Afrique possède d’importantes réserves de minerais, pétrole, et autres ressources naturelles.",
+    },
+    {
+      "question": "Quel est le pays le plus peuplé d’Afrique ?",
+      "options": ["Nigeria", "Égypte", "Afrique du Sud", "Kenya"],
+      "reponse": "Nigeria",
+      "explication": "Le Nigeria est le pays le plus peuplé d’Afrique avec plus de 200 millions d’habitants."
+    },
+    {
+      "question": "Quelle est la capitale économique des États-Unis ?",
+      "options": ["New York", "Washington D.C.", "Los Angeles", "Chicago"],
+      "reponse": "New York",
+      "explication": "New York est le centre financier et économique majeur des États-Unis."
+    },
+    {
+      "question": "Quel pays est connu pour être un leader en technologie et innovation ?",
+      "options": ["États-Unis", "Inde", "Nigeria", "Brésil"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis abritent la Silicon Valley, centre mondial de la haute technologie."
+    },
+    {
+      "question": "Quel pays européen est connu pour sa neutralité politique ?",
+      "options": ["Suisse", "France", "Allemagne", "Italie"],
+      "reponse": "Suisse",
+      "explication": "La Suisse est célèbre pour sa neutralité diplomatique et politique."
+    },
+    {
+      "question": "Quel est le plus grand pays du monde par sa superficie ?",
+      "options": ["Russie", "Canada", "Chine", "États-Unis"],
+      "reponse": "Russie",
+      "explication": "La Russie est le pays le plus étendu, couvrant l’Europe et l’Asie."
+    },
+    {
+      "question": "Quel est le continent le plus riche en biodiversité ?",
+      "options": ["Amérique du Sud", "Europe", "Antarctique", "Océanie"],
+      "reponse": "Amérique du Sud",
+      "explication": "La forêt amazonienne abrite une biodiversité exceptionnelle."
+    },
+    {
+      "question": "Quel pays est considéré comme une superpuissance mondiale ?",
+      "options": ["États-Unis", "Inde", "Brésil", "Nigeria"],
+      "reponse": "États-Unis",
+      "explication": "Les États-Unis exercent une influence politique, économique et militaire majeure dans le monde."
+    },
+    {
+      "question": "Quel est le principal secteur économique des pays développés ?",
+      "options": ["Secteur tertiaire (services)", "Agriculture", "Extraction minière", "Industrie lourde"],
+      "reponse": "Secteur tertiaire (services)",
+      "explication": "Les services représentent la majorité de l’activité économique dans les pays développés."
+    },
+    {
+      "question": "Quel est le principal défi démographique des pays développés ?",
+      "options": ["Vieillissement de la population", "Surpopulation", "Jeunesse accrue", "Migration massive"],
+      "reponse": "Vieillissement de la population",
+      "explication": "Les pays développés font face à une augmentation de la part des personnes âgées."
+    },
+    {
+      "question": "Quelle est la principale source d’énergie dans les pays développés ?",
+      "options": ["Énergies renouvelables et fossiles", "Charbon uniquement", "Bois", "Énergie musculaire"],
+      "reponse": "Énergies renouvelables et fossiles",
+      "explication": "Les pays développés utilisent un mix énergétique diversifié, incluant solaire, éolien, pétrole et gaz."
+    },
+    {
+      "question": "Quel pays est leader mondial dans la production automobile ?",
+      "options": ["Japon", "France", "Nigeria", "Brésil"],
+      "reponse": "Japon",
+      "explication": "Le Japon est célèbre pour ses constructeurs automobiles comme Toyota et Honda."
+    },
+    {
+      "question": "Quel est le principal secteur économique de l’Afrique ?",
+      "options": ["Agriculture et extraction minière", "Industrie automobile", "Technologie de pointe", "Tourisme spatial"],
+      "reponse": "Agriculture et extraction minière",
+      "explication": "Ces secteurs dominent l’économie africaine avec la majorité des emplois.",
+    },
+    {
+      "question": "Quel pays est la plus grande économie d’Amérique latine ?",
+      "options": ["Brésil", "Argentine", "Mexique", "Chili"],
+      "reponse": "Brésil",
+      "explication": "Le Brésil est la première économie en termes de PIB en Amérique latine."
+    },
+    {
+      "question": "Quel continent a la plus forte croissance économique actuelle ?",
+      "options": ["Asie", "Europe", "Amérique du Nord", "Océanie"],
+      "reponse": "Asie",
+      "explication": "L’Asie connaît une croissance rapide grâce aux pays émergents comme la Chine et l’Inde."
+    },
+    {
+      "question": "Quelle est la capitale économique de la Chine ?",
+      "options": ["Shanghai", "Pékin", "Hong Kong", "Guangzhou"],
+      "reponse": "Shanghai",
+      "explication": "Shanghai est le principal centre financier et portuaire de la Chine."
+    },
+    {
+      "question": "Quel est le principal moyen de transport en Amérique du Nord ?",
+      "options": ["Voiture individuelle", "Train", "Bicyclette", "Transport fluvial"],
+      "reponse": "Voiture individuelle",
+      "explication": "Les États-Unis et le Canada sont fortement dépendants de la voiture pour les déplacements.",
+    },
+    {
+      "question": "Quel pays est un membre fondateur de l’Union européenne ?",
+      "options": ["France", "Norvège", "Suisse", "Turquie"],
+      "reponse": "France",
+      "explication": "La France est un des pays fondateurs de l’UE en 1957.",
+    },
+    {
+      "question": "Quel est le principal obstacle au développement des pays en développement ?",
+      "options": ["Pauvreté, instabilité politique et manque d’infrastructures", "Abondance de ressources", "Développement rapide", "Population faible"],
+      "reponse": "Pauvreté, instabilité politique et manque d’infrastructures",
+      "explication": "Ces facteurs freinent la croissance économique et sociale."
+    },
+    {
+      "question": "Quel pays est considéré comme un modèle de développement en Afrique ?",
+      "options": ["Botswana", "Soudan", "Libye", "Somalie"],
+      "reponse": "Botswana",
+      "explication": "Le Botswana est souvent cité pour sa bonne gouvernance et sa croissance stable.",
+    },
+    {
+      "question": "Quel est le principal organisme économique mondial ?",
+      "options": ["FMI (Fonds Monétaire International)", "ONU", "OMS", "OIT"],
+      "reponse": "FMI (Fonds Monétaire International)",
+      "explication": "Le FMI régule la stabilité financière et aide les pays en difficulté économique."
+    },
+    {
+      "question": "Quelle région du monde est caractérisée par une forte industrialisation ?",
+      "options": ["Europe de l’Ouest", "Afrique subsaharienne", "Amérique centrale", "Océanie"],
+      "reponse": "Europe de l’Ouest",
+      "explication": "Cette région est l’une des plus industrialisées et économiquement développées."
+    },
+    {
+      "question": "Quel pays est connu pour être la deuxième économie mondiale ?",
+      "options": ["Chine", "Inde", "Japon", "Allemagne"],
+      "reponse": "Chine",
+      "explication": "La Chine a connu une croissance rapide et est la deuxième économie derrière les États-Unis."
+    },
+    {
+      "question": "Quel est le principal indicateur utilisé pour mesurer le développement d’un pays ?",
+      "options": ["PIB par habitant", "Superficie", "Nombre d’habitants", "Taux de natalité"],
+      "reponse": "PIB par habitant",
+      "explication": "Le PIB par habitant reflète la richesse moyenne d’un pays."
+    },
+    {
+      "question": "Quel pays d’Europe est le plus peuplé ?",
+      "options": ["Russie", "Allemagne", "France", "Royaume-Uni"],
+      "reponse": "Russie",
+      "explication": "Bien que la Russie soit en partie en Asie, sa population est la plus importante d’Europe."
+    },
+    {
+      "question": "Quel pays est un grand exportateur de pétrole ?",
+      "options": ["Arabie Saoudite", "Japon", "Canada", "Brésil"],
+      "reponse": "Arabie Saoudite",
+      "explication": "L’Arabie Saoudite est l’un des plus grands producteurs et exportateurs mondiaux de pétrole.",
+    },
+    {
+      "question": "Quel est le principal moyen d’intégration économique entre pays développés ?",
+      "options": ["Accords commerciaux et unions économiques", "Barrières douanières", "Conflits commerciaux", "Autarcie"],
+      "reponse": "Accords commerciaux et unions économiques",
+      "explication": "Les pays développés favorisent les échanges par des accords et zones de libre-échange.",
+    },
+    {
+      "question": "Quel est l’un des principaux problèmes environnementaux dans les pays développés ?",
+      "options": ["Pollution et changement climatique", "Déforestation massive", "Désertification", "Érosion des sols"],
+      "reponse": "Pollution et changement climatique",
+      "explication": "L’industrialisation et la consommation d’énergie contribuent à ces problèmes.",
+    },
+    {
+      "question": "Quel pays est le leader mondial de la finance ?",
+      "options": ["États-Unis", "Chine", "Royaume-Uni", "Japon"],
+      "reponse": "États-Unis",
+      "explication": "Wall Street à New York est le centre financier majeur du monde.",
+    },
+    {
+      "question": "Quel est le principal facteur expliquant la richesse des pays développés ?",
+      "options": ["Innovation technologique et productivité élevée", "Agriculture intensive", "Main-d’œuvre non qualifiée", "Ressources naturelles uniquement"],
+      "reponse": "Innovation technologique et productivité élevée",
+      "explication": "Les pays développés investissent dans la recherche et la technologie pour augmenter leur compétitivité.",
+    },
+    {
+      "question": "Quelle région est connue pour être une mégalopole mondiale ?",
+      "options": ["Corridor Boston-Washington", "Sahara", "Amazonie", "Himalaya"],
+      "reponse": "Corridor Boston-Washington",
+      "explication": "Cette région américaine regroupe plusieurs grandes villes très connectées économiquement.",
+    },
+    {
+      "question": "Quel pays est le plus grand producteur de pétrole en Afrique ?",
+      "options": ["Nigéria", "Algérie", "Libye", "Angola"],
+      "reponse": "Nigéria",
+      "explication": "Le Nigéria est le principal producteur de pétrole africain.",
+    },
+    {
+      "question": "Quelle est la caractéristique des pays développés en matière de santé ?",
+      "options": ["Systèmes de santé avancés et espérance de vie élevée", "Manque d’infrastructures sanitaires", "Espérance de vie faible", "Accès limité aux soins"],
+      "reponse": "Systèmes de santé avancés et espérance de vie élevée",
+      "explication": "Les pays développés ont des infrastructures médicales modernes et une population en bonne santé.",
+    },
+    {
+      "question": "Quel est le principal moteur de l’urbanisation dans les pays développés ?",
+      "options": ["Recherches d’emploi dans les services et industries", "Agriculture", "Chasse", "Nomadisme"],
+      "reponse": "Recherches d’emploi dans les services et industries",
+      "explication": "Les villes offrent plus d’opportunités d’emploi dans les secteurs modernes.",
+    },
+    {
+      "question": "Quelle est la langue la plus parlée dans les pays développés ?",
+      "options": ["Anglais", "Français", "Espagnol", "Mandarin"],
+      "reponse": "Anglais",
+      "explication": "L’anglais est la langue dominante dans la plupart des pays développés, notamment aux États-Unis et au Royaume-Uni.",
+    },
+    {
+      "question": "Quel est l’impact des technologies sur les pays développés ?",
+      "options": ["Amélioration de la productivité et qualité de vie", "Régression économique", "Réduction des emplois", "Pollution accrue uniquement"],
+      "reponse": "Amélioration de la productivité et qualité de vie",
+      "explication": "La technologie favorise l’efficacité et les innovations dans tous les secteurs.",
+    },
+    {
+      "question": "Quel est le principal type d’habitat dans les villes développées ?",
+      "options": ["Immeubles et logements modernes", "Habitats traditionnels", "Tentes", "Habitations rurales"],
+      "reponse": "Immeubles et logements modernes",
+      "explication": "Les villes développées sont caractérisées par des infrastructures modernes et denses.",
+    },
+    {
+      "question": "Quel pays est le leader en matière de production agricole en Europe ?",
+      "options": ["France", "Norvège", "Finlande", "Grèce"],
+      "reponse": "France",
+      "explication": "La France est le premier producteur agricole en Europe, notamment en céréales et vins.",
+    },
+    {
+      "question": "Quel est le principal secteur exportateur du Japon ?",
+      "options": ["Automobile et électronique", "Textile", "Pétrole", "Agriculture"],
+      "reponse": "Automobile et électronique",
+      "explication": "Le Japon est un leader mondial dans la production automobile et électronique.",
+    },
+    {
+      "question": "Quelle est la principale caractéristique économique des États-Unis ?",
+      "options": ["Économie de marché très développée", "Économie planifiée", "Économie fermée", "Agriculture prédominante"],
+      "reponse": "Économie de marché très développée",
+      "explication": "Les États-Unis ont une économie dynamique basée sur la libre entreprise.",
+    }
+  ]
+}

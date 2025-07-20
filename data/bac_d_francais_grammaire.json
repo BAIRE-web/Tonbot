@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la caractéristique d’une phrase déclarative ?",
+      "options": ["Elle affirme une idée", "Elle pose une question", "Elle donne un ordre", "Elle exprime un souhait"],
+      "reponse": "Elle affirme une idée",
+      "explication": "La phrase déclarative sert à énoncer un fait ou une information de manière neutre."
+    },
+    {
+      "question": "Une phrase interrogative a pour fonction de…",
+      "options": ["Poser une question", "Affirmer une vérité", "Exprimer un ordre", "Faire une comparaison"],
+      "reponse": "Poser une question",
+      "explication": "Elle sert à interroger ou à demander une information."
+    },
+    {
+      "question": "Quel type de phrase est : « Ferme la porte ! »",
+      "options": ["Injonctive", "Déclarative", "Interrogative", "Exclamative"],
+      "reponse": "Injonctive",
+      "explication": "Elle exprime un ordre ou une demande directe, souvent à l’impératif."
+    },
+    {
+      "question": "Quel est le sujet dans la phrase : « Marie lit un livre. »",
+      "options": ["Marie", "lit", "un livre", "Marie lit"],
+      "reponse": "Marie",
+      "explication": "Le sujet est celui qui fait l’action exprimée par le verbe."
+    },
+    {
+      "question": "Dans la phrase : « Il mange une pomme », quel est le complément d’objet direct (COD) ?",
+      "options": ["Une pomme", "Il", "mange", "Il mange"],
+      "reponse": "Une pomme",
+      "explication": "Le COD reçoit directement l’action du verbe sans préposition."
+    },
+    {
+      "question": "Quel est le rôle du complément circonstanciel ?",
+      "options": ["Préciser les circonstances de l’action", "Identifier le sujet", "Remplacer le verbe", "Donner une opinion"],
+      "reponse": "Préciser les circonstances de l’action",
+      "explication": "Il indique le temps, le lieu, la manière ou la cause de l’action."
+    },
+    {
+      "question": "Qu’est-ce qu’un verbe à la forme pronominale ?",
+      "options": ["Un verbe accompagné d’un pronom réfléchi", "Un verbe conjugué au passif", "Un verbe à l’infinitif", "Un verbe irrégulier"],
+      "reponse": "Un verbe accompagné d’un pronom réfléchi",
+      "explication": "Exemple : se laver, s’endormir, se souvenir."
+    },
+    {
+      "question": "Dans la phrase : « Elle s’est levée tôt », le verbe est…",
+      "options": ["Pronominal", "Impersonnel", "Actif", "Infinitif"],
+      "reponse": "Pronominal",
+      "explication": "Le verbe est conjugué avec un pronom réfléchi (s’)."
+    },
+    {
+      "question": "La subordination est…",
+      "options": ["La dépendance d’une proposition par rapport à une autre", "Une opposition entre deux phrases", "Une phrase sans verbe", "Une phrase principale seule"],
+      "reponse": "La dépendance d’une proposition par rapport à une autre",
+      "explication": "Une subordonnée dépend toujours d’une principale."
+    },
+    {
+      "question": "Dans : « Quand il arrive, je pars », la subordonnée est…",
+      "options": ["Quand il arrive", "je pars", "Quand", "il arrive"],
+      "reponse": "Quand il arrive",
+      "explication": "C’est une proposition subordonnée circonstancielle de temps."
+    },
+    {
+      "question": "La coordination relie…",
+      "options": ["Deux propositions indépendantes", "Un sujet à un verbe", "Deux subordonnées", "Une phrase simple à une interrogation"],
+      "reponse": "Deux propositions indépendantes",
+      "explication": "Les propositions coordonnées sont liées par des conjonctions comme « et », « mais », « ou »."
+    },
+    {
+      "question": "Quel mot est une conjonction de coordination ?",
+      "options": ["Mais", "Quand", "Parce que", "Alors que"],
+      "reponse": "Mais",
+      "explication": "Les conjonctions de coordination classiques sont : mais, ou, et, donc, or, ni, car."
+    },
+    {
+      "question": "Dans la phrase : « Il pleuvait quand elle est sortie », les temps verbaux sont…",
+      "options": ["Imparfait et passé composé", "Présent et futur", "Passé simple et imparfait", "Futur antérieur et présent"],
+      "reponse": "Imparfait et passé composé",
+      "explication": "L’imparfait décrit le fond, et le passé composé l’action ponctuelle."
+    },
+    {
+      "question": "Dans : « Si j’avais su, je ne serais pas venu », on parle de…",
+      "options": ["Condition irréelle du passé", "Présent de narration", "Interrogation indirecte", "Subordination temporelle"],
+      "reponse": "Condition irréelle du passé",
+      "explication": "C’est une hypothèse non réalisée dans le passé."
+    },
+    {
+      "question": "Quel est le mode du verbe dans : « Il faut que tu viennes » ?",
+      "options": ["Subjonctif", "Indicatif", "Conditionnel", "Impératif"],
+      "reponse": "Subjonctif",
+      "explication": "Le verbe exprime une nécessité ou une obligation incertaine."
+    },
+    {
+      "question": "Dans : « Je pense qu’il viendra demain », la proposition subordonnée est…",
+      "options": ["qu’il viendra demain", "Je pense", "demain", "viendra demain"],
+      "reponse": "qu’il viendra demain",
+      "explication": "Elle est introduite par « que » et complète le verbe « pense »."
+    },
+    {
+      "question": "Quelle phrase est correctement construite ?",
+      "options": ["Il a dit qu’il partirait demain.", "Il a dit qu’il part demain.", "Il a dit qu’il partait demain.", "Il a dit qu’il va partir demain."],
+      "reponse": "Il a dit qu’il partirait demain.",
+      "explication": "La concordance des temps impose le conditionnel après un verbe au passé."
+    },
+    {
+      "question": "Quel pronom relatif complète correctement : « L’homme ___ parle est mon oncle » ?",
+      "options": ["qui", "que", "dont", "où"],
+      "reponse": "qui",
+      "explication": "« qui » est sujet du verbe « parle »."
+    },
+    {
+      "question": "Quelle est la fonction du mot souligné dans : « Il mange **une pomme** » ?",
+      "options": ["Complément d’objet direct", "Sujet", "Attribut du sujet", "Complément circonstanciel"],
+      "reponse": "Complément d’objet direct",
+      "explication": "La pomme est ce qui est mangé, sans préposition : c’est un COD."
+    },
+    {
+      "question": "Une phrase complexe est une phrase…",
+      "options": ["Composée de plusieurs propositions", "Avec une seule idée", "Sans verbe", "Très longue"],
+      "reponse": "Composée de plusieurs propositions",
+      "explication": "Elle contient au moins deux verbes conjugués."
+    },
+    {
+      "question": "Quel mot introduit une subordonnée de cause ?",
+      "options": ["Parce que", "Mais", "Donc", "Même si"],
+      "reponse": "Parce que",
+      "explication": "Il exprime la raison de l’action principale."
+    },
+    {
+      "question": "Dans une subordination, la proposition principale est…",
+      "options": ["Celle qui ne dépend d’aucune autre", "La plus courte", "La dernière", "La moins importante"],
+      "reponse": "Celle qui ne dépend d’aucune autre",
+      "explication": "C’est elle qui donne le sens central de la phrase."
+    },
+    {
+      "question": "La concordance des temps permet de…",
+      "options": ["Respecter l’harmonie des temps verbaux", "Répéter un verbe", "Éviter les phrases longues", "Faire une métaphore"],
+      "reponse": "Respecter l’harmonie des temps verbaux",
+      "explication": "Elle garantit la cohérence temporelle entre les propositions."
+    },
+    {
+      "question": "Dans une phrase passive, le sujet…",
+      "options": ["Subit l’action", "Fait l’action", "Est supprimé", "Est un pronom"],
+      "reponse": "Subit l’action",
+      "explication": "C’est l’objet de la phrase active qui devient sujet à la voix passive."
+    },
+    {
+      "question": "Quel mot peut introduire une proposition concessive ?",
+      "options": ["Bien que", "Si", "Parce que", "Tant que"],
+      "reponse": "Bien que",
+      "explication": "Il marque une opposition ou une concession."
+    },
+    {
+      "question": "Quelle phrase est au style indirect ?",
+      "options": ["Il a dit qu’il viendrait", "Il a dit : « Je viendrai »", "Viendra-t-il ?", "Je viendrai bientôt."],
+      "reponse": "Il a dit qu’il viendrait",
+      "explication": "Le discours indirect rapporte les paroles sans les citer directement."
+    },
+    {
+      "question": "Une coordination est introduite par…",
+      "options": ["Une conjonction comme « et », « mais »", "Un pronom relatif", "Une subordonnée", "Une phrase nominale"],
+      "reponse": "Une conjonction comme « et », « mais »",
+      "explication": "Elle sert à relier deux éléments de même nature."
+    },
+    {
+      "question": "Quel est le mode du verbe dans : « Il aimerait venir » ?",
+      "options": ["Conditionnel", "Subjonctif", "Indicatif", "Impératif"],
+      "reponse": "Conditionnel",
+      "explication": "Il exprime un souhait ou une hypothèse."
+    },
+    {
+      "question": "Dans la phrase : « Je doute qu’il réussisse », quel mode est utilisé ?",
+      "options": ["Subjonctif", "Conditionnel", "Infinitif", "Indicatif"],
+      "reponse": "Subjonctif",
+      "explication": "Le doute ou l’incertitude appelle le subjonctif."
+    },
+    {
+      "question": "Quel mot complète une phrase comparative ?",
+      "options": ["Que", "Dont", "Si", "Quand"],
+      "reponse": "Que",
+      "explication": "Ex : « Il est plus rapide **que** moi. »"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le principal gaz responsable du réchauffement climatique ?",
+      "options": ["Dioxyde de carbone (CO₂)", "Oxygène", "Azote", "Hélium"],
+      "reponse": "Dioxyde de carbone (CO₂)",
+      "explication": "Le CO₂ est un gaz à effet de serre produit par les activités humaines (transports, industries, etc.)."
+    },
+    {
+      "question": "Quelle activité humaine est une source majeure de pollution de l’air ?",
+      "options": ["Utilisation des voitures", "Lire un livre", "Marcher à pied", "Faire du jardinage"],
+      "reponse": "Utilisation des voitures",
+      "explication": "Les moteurs à combustion dégagent du CO₂ et d’autres polluants dans l’atmosphère."
+    },
+    {
+      "question": "Qu’est-ce que l’effet de serre ?",
+      "options": ["Phénomène qui réchauffe l’atmosphère", "Refroidissement rapide de la Terre", "Disparition des océans", "Création de nuages artificiels"],
+      "reponse": "Phénomène qui réchauffe l’atmosphère",
+      "explication": "L’effet de serre retient la chaleur du soleil, contribuant à la hausse des températures."
+    },
+    {
+      "question": "Quel est un effet visible du réchauffement climatique ?",
+      "options": ["Fonte des glaciers", "Augmentation de la neige", "Allongement des nuits", "Disparition des volcans"],
+      "reponse": "Fonte des glaciers",
+      "explication": "Les températures élevées font fondre les glaces polaires, provoquant la montée des océans."
+    },
+    {
+      "question": "Quelle organisation a pour but de lutter contre le réchauffement climatique ?",
+      "options": ["COP (Conférence des Parties)", "FIFA", "OMS", "OTAN"],
+      "reponse": "COP (Conférence des Parties)",
+      "explication": "La COP regroupe les pays signataires des accords climatiques comme celui de Paris."
+    },
+    {
+      "question": "Quel secteur émet le plus de gaz à effet de serre ?",
+      "options": ["Industrie et transports", "Éducation", "Santé", "Culture"],
+      "reponse": "Industrie et transports",
+      "explication": "La combustion de carburants fossiles dans les industries et les véhicules est très polluante."
+    },
+    {
+      "question": "Quelle est une conséquence des inégalités économiques dans le monde ?",
+      "options": ["Accès inégal aux soins et à l’éducation", "Uniformité des richesses", "Disparition des monnaies", "Taux de natalité identique"],
+      "reponse": "Accès inégal aux soins et à l’éducation",
+      "explication": "Dans les pays pauvres, l’accès à l’éducation et à la santé est souvent limité."
+    },
+    {
+      "question": "Quel est le lien entre pauvreté et environnement ?",
+      "options": ["Les pauvres sont plus vulnérables aux catastrophes", "Les pauvres polluent plus que les riches", "Les riches n’ont aucun impact", "L’environnement protège les pauvres"],
+      "reponse": "Les pauvres sont plus vulnérables aux catastrophes",
+      "explication": "Ils vivent souvent dans des zones à risque et ont moins de moyens pour se protéger."
+    },
+    {
+      "question": "Qu’est-ce que la migration climatique ?",
+      "options": ["Déplacement à cause du climat", "Tourisme d’hiver", "Voyage scolaire", "Immigration volontaire pour les vacances"],
+      "reponse": "Déplacement à cause du climat",
+      "explication": "Des populations quittent leur région suite à des sécheresses, inondations ou autres dérèglements."
+    },
+    {
+      "question": "Quel continent est le plus touché par les effets du changement climatique ?",
+      "options": ["Afrique", "Europe", "Océanie", "Amérique du Nord"],
+      "reponse": "Afrique",
+      "explication": "L’Afrique subit la sécheresse, la désertification et a peu de moyens pour y faire face."
+    },
+    {
+      "question": "Quelle énergie est polluante ?",
+      "options": ["Charbon", "Solaire", "Hydraulique", "Éolienne"],
+      "reponse": "Charbon",
+      "explication": "Le charbon émet beaucoup de CO₂ lors de sa combustion."
+    },
+    {
+      "question": "Que peut entraîner l’inégalité d’accès à l’eau potable ?",
+      "options": ["Maladies et conflits", "Développement durable", "Croissance démographique", "Abondance des ressources"],
+      "reponse": "Maladies et conflits",
+      "explication": "Le manque d’eau propre favorise les maladies et peut entraîner des tensions."
+    },
+    {
+      "question": "Quel est l’un des objectifs du développement durable ?",
+      "options": ["Réduire les inégalités et protéger l’environnement", "Produire plus de plastique", "Fermer les frontières", "Réduire les cultures biologiques"],
+      "reponse": "Réduire les inégalités et protéger l’environnement",
+      "explication": "Le développement durable cherche à répondre aux besoins présents sans compromettre l’avenir."
+    },
+    {
+      "question": "Que signifie IDH ?",
+      "options": ["Indice de Développement Humain", "Indice de Distribution Humaine", "Industrie des Détroits Humides", "International Devoir Historique"],
+      "reponse": "Indice de Développement Humain",
+      "explication": "Il mesure le niveau de développement selon la santé, l’éducation et le revenu."
+    },
+    {
+      "question": "Quelle est une cause fréquente de la migration internationale ?",
+      "options": ["Inégalités économiques", "Progrès technologique", "Découverte scientifique", "Abondance alimentaire"],
+      "reponse": "Inégalités économiques",
+      "explication": "Les différences de niveau de vie incitent les populations à migrer vers des régions plus riches."
+    },
+    {
+      "question": "Quel phénomène cause l’acidification des océans ?",
+      "options": ["Absorption de CO₂", "Manque de soleil", "Tempêtes fréquentes", "Augmentation des requins"],
+      "reponse": "Absorption de CO₂",
+      "explication": "Les océans absorbent du CO₂ en excès, ce qui modifie leur composition chimique."
+    },
+    {
+      "question": "Qu’est-ce qu’une inégalité sociale ?",
+      "options": ["Différence injuste dans l’accès aux droits ou aux ressources", "Différence de langue", "Écart d’âge", "Différence de taille"],
+      "reponse": "Différence injuste dans l’accès aux droits ou aux ressources",
+      "explication": "Une inégalité sociale est liée à la pauvreté, au sexe, à l’éducation, etc."
+    },
+    {
+      "question": "Quel problème mondial provoque des déplacements de population ?",
+      "options": ["Conflits armés et changement climatique", "Fêtes religieuses", "Matchs de football", "Foires agricoles"],
+      "reponse": "Conflits armés et changement climatique",
+      "explication": "Ce sont des causes majeures de déplacements internes ou internationaux."
+    },
+    {
+      "question": "Quel gaz à effet de serre est produit par l’agriculture ?",
+      "options": ["Méthane", "Oxygène", "Argon", "Hélium"],
+      "reponse": "Méthane",
+      "explication": "Le méthane est émis par les ruminants (bovins) et la culture du riz, notamment."
+    },
+    {
+      "question": "Pourquoi les pays riches polluent-ils plus que les pays pauvres ?",
+      "options": ["Consommation plus élevée", "Moins de forêts", "Moins d’animaux", "Plus de précipitations"],
+      "reponse": "Consommation plus élevée",
+      "explication": "Les pays riches consomment plus d’énergie, de ressources et produisent plus de déchets."
+    },
+    {
+      "question": "Quel est le lien entre déforestation et climat ?",
+      "options": ["La déforestation augmente l’effet de serre", "Elle fait pousser les forêts", "Elle fait neiger", "Elle baisse le niveau des mers"],
+      "reponse": "La déforestation augmente l’effet de serre",
+      "explication": "Moins d’arbres signifie moins d’absorption de CO₂."
+    },
+    {
+      "question": "Quelle est une solution pour réduire les inégalités mondiales ?",
+      "options": ["Coopération internationale et accès à l’éducation", "Conflits armés", "Fermeture des frontières", "Privatisation totale des ressources"],
+      "reponse": "Coopération internationale et accès à l’éducation",
+      "explication": "La solidarité entre les pays et l’éducation sont des leviers puissants contre les inégalités."
+    },
+    {
+      "question": "Pourquoi le changement climatique aggrave-t-il la faim dans le monde ?",
+      "options": ["Il détruit les récoltes", "Il augmente les téléphones", "Il favorise les vêtements chauds", "Il crée des livres"],
+      "reponse": "Il détruit les récoltes",
+      "explication": "Les sécheresses et les inondations détruisent les cultures agricoles."
+    },
+    {
+      "question": "Quelle zone est particulièrement menacée par la montée des eaux ?",
+      "options": ["Petites îles", "Plateaux", "Montagnes", "Déserts"],
+      "reponse": "Petites îles",
+      "explication": "Elles risquent d’être submergées en cas de hausse du niveau de la mer."
+    },
+    {
+      "question": "Que signifie le terme 'refugié climatique' ?",
+      "options": ["Personne déplacée à cause du climat", "Touriste", "Voyageur du dimanche", "Citoyen urbain"],
+      "reponse": "Personne déplacée à cause du climat",
+      "explication": "Les changements environnementaux poussent certaines populations à fuir leur lieu de vie."
+    },
+    {
+      "question": "Quel type de migration est souvent causé par la pauvreté ?",
+      "options": ["Migration économique", "Migration touristique", "Migration scientifique", "Migration temporaire"],
+      "reponse": "Migration économique",
+      "explication": "Les individus quittent leur pays pour chercher un emploi ou de meilleures conditions de vie."
+    },
+    {
+      "question": "Quel est un objectif des accords internationaux sur le climat ?",
+      "options": ["Limiter le réchauffement à moins de 2°C", "Arrêter les voyages", "Supprimer les voitures", "Fermer les industries"],
+      "reponse": "Limiter le réchauffement à moins de 2°C",
+      "explication": "Les pays se sont engagés à réduire les émissions de gaz à effet de serre pour ce but."
+    },
+    {
+      "question": "Pourquoi les pays pauvres ont plus de mal à s’adapter au changement climatique ?",
+      "options": ["Manque de moyens financiers et technologiques", "Trop d’eau", "Pas assez de sports", "Excès d’industries"],
+      "reponse": "Manque de moyens financiers et technologiques",
+      "explication": "Ils n’ont souvent pas les ressources nécessaires pour se protéger ou reconstruire."
+    },
+    {
+      "question": "Que cherche à faire la transition énergétique ?",
+      "options": ["Remplacer les énergies fossiles par des énergies renouvelables", "Utiliser plus de charbon", "Importer plus de pétrole", "Fermer les éoliennes"],
+      "reponse": "Remplacer les énergies fossiles par des énergies renouvelables",
+      "explication": "Elle vise à produire de l’énergie propre (solaire, éolienne, hydraulique) pour limiter la pollution."
+    },
+    {
+      "question": "Quel indicateur permet de comparer les niveaux de richesse entre pays ?",
+      "options": ["PIB par habitant", "Température moyenne", "Nombre de forêts", "Taille du pays"],
+      "reponse": "PIB par habitant",
+      "explication": "Le produit intérieur brut par habitant mesure la richesse produite par personne dans un pays."
+    },
+    {
+      "question": "Quel groupe est souvent le plus affecté par les inégalités sociales ?",
+      "options": ["Femmes et enfants", "Dirigeants", "Voyageurs", "Riches"],
+      "reponse": "Femmes et enfants",
+      "explication": "Ils sont souvent les plus exposés aux privations en matière de santé, d’éducation et de sécurité."
+    },
+    {
+      "question": "Que provoque la pollution des océans par le plastique ?",
+      "options": ["Menace la faune marine", "Favorise la pêche", "Nettoie l’eau", "Augmente l’oxygène"],
+      "reponse": "Menace la faune marine",
+      "explication": "Le plastique ingéré par les animaux marins provoque leur mort et perturbe les écosystèmes."
+    },
+    {
+      "question": "Pourquoi l’accès à l’éducation est-il crucial pour réduire les inégalités ?",
+      "options": ["Il donne des chances équitables à chacun", "Il favorise le chômage", "Il empêche les migrations", "Il ferme les frontières"],
+      "reponse": "Il donne des chances équitables à chacun",
+      "explication": "L’éducation permet de sortir de la pauvreté et de participer au développement du pays."
+    },
+    {
+      "question": "Quel objectif est poursuivi par les politiques d’adaptation climatique ?",
+      "options": ["Limiter les effets du changement climatique sur les populations", "Créer plus de routes", "Polluer davantage", "Empêcher la pluie"],
+      "reponse": "Limiter les effets du changement climatique sur les populations",
+      "explication": "Il s’agit d’aider les sociétés à faire face aux changements (agriculture, habitat, santé…)."
+    },
+    {
+      "question": "Que signifie l’injustice climatique ?",
+      "options": ["Les pays les moins responsables du réchauffement en subissent les plus graves conséquences", "Le soleil ne brille pas partout", "Les climats sont inégaux naturellement", "Certains pays n’ont pas d’hiver"],
+      "reponse": "Les pays les moins responsables du réchauffement en subissent les plus graves conséquences",
+      "explication": "Les pays pauvres polluent peu mais sont les plus touchés par les catastrophes climatiques."
+    },
+    {
+      "question": "Quel phénomène naturel est accentué par le réchauffement climatique ?",
+      "options": ["Sécheresses et inondations", "Éclipses", "Tremblements de terre", "Saisons constantes"],
+      "reponse": "Sécheresses et inondations",
+      "explication": "Les extrêmes climatiques deviennent plus fréquents et plus intenses."
+    },
+    {
+      "question": "Qu’est-ce que la désertification ?",
+      "options": ["Transformation de terres fertiles en zones arides", "Plantation de forêts", "Déplacement de sables", "Élargissement des mers"],
+      "reponse": "Transformation de terres fertiles en zones arides",
+      "explication": "Elle est causée par la sécheresse, la déforestation ou une mauvaise utilisation des sols."
+    },
+    {
+      "question": "Pourquoi les bidonvilles sont-ils liés aux migrations internes ?",
+      "options": ["Les migrants ruraux s’installent en ville sans logement adapté", "Ils sont construits par l’État", "Ils abritent des touristes", "Ils sont des zones riches"],
+      "reponse": "Les migrants ruraux s’installent en ville sans logement adapté",
+      "explication": "Le manque d’infrastructures urbaines pousse les nouveaux arrivants à vivre dans des conditions précaires."
+    },
+    {
+      "question": "Que veut dire développement durable ?",
+      "options": ["Développement qui respecte l’environnement et les générations futures", "Croissance industrielle illimitée", "Exploitation rapide des ressources", "Rejet du progrès"],
+      "reponse": "Développement qui respecte l’environnement et les générations futures",
+      "explication": "Il combine économie, société et écologie pour un avenir viable."
+    },
+    {
+      "question": "Que favorisent les énergies renouvelables ?",
+      "options": ["Réduction des émissions de gaz à effet de serre", "Pollution des sols", "Explosion de CO₂", "Épuisement du pétrole"],
+      "reponse": "Réduction des émissions de gaz à effet de serre",
+      "explication": "Elles utilisent des ressources naturelles inépuisables comme le soleil, l’eau ou le vent."
+    },
+    {
+      "question": "Qu’est-ce que la migration forcée ?",
+      "options": ["Déplacement contraint par des causes graves", "Voyage touristique", "Pèlerinage", "Vacances prolongées"],
+      "reponse": "Déplacement contraint par des causes graves",
+      "explication": "Les guerres, les catastrophes naturelles ou le climat obligent les gens à fuir."
+    },
+    {
+      "question": "Quel est un des Objectifs de Développement Durable de l’ONU ?",
+      "options": ["Éliminer la pauvreté", "Réduire le temps de sommeil", "Créer plus de centres commerciaux", "Favoriser le plastique"],
+      "reponse": "Éliminer la pauvreté",
+      "explication": "C’est le premier objectif des 17 ODD fixés par l’ONU pour un monde plus équitable d’ici 2030."
+    },
+    {
+      "question": "Quelles zones sont les plus vulnérables à l’élévation du niveau de la mer ?",
+      "options": ["Zones côtières", "Montagnes", "Régions désertiques", "Forêts tropicales"],
+      "reponse": "Zones côtières",
+      "explication": "Les villes situées au bord de l’océan risquent d’être inondées à long terme."
+    },
+    {
+      "question": "Quel rôle joue l’ONU dans les problèmes mondiaux ?",
+      "options": ["Coordonne les efforts internationaux", "Dirige les entreprises", "Organise les Jeux Olympiques", "Produit du pétrole"],
+      "reponse": "Coordonne les efforts internationaux",
+      "explication": "L’ONU met en place des conventions et soutient les actions pour un développement équitable et durable."
+    },
+    {
+      "question": "Qu’est-ce qu’une banque alimentaire ?",
+      "options": ["Organisation qui distribue de la nourriture aux plus démunis", "Banque qui vend du riz", "Supermarché discount", "Usine agricole"],
+      "reponse": "Organisation qui distribue de la nourriture aux plus démunis",
+      "explication": "Elle lutte contre la faim et les inégalités alimentaires."
+    },
+    {
+      "question": "Quel est un moyen de lutter contre les inégalités hommes-femmes ?",
+      "options": ["Favoriser l’accès des femmes à l’éducation et aux droits", "Supprimer les écoles", "Imposer le silence aux femmes", "Réduire leurs salaires"],
+      "reponse": "Favoriser l’accès des femmes à l’éducation et aux droits",
+      "explication": "L’égalité de genre passe par l’éducation, la santé et la justice sociale."
+    },
+    {
+      "question": "Quel est l’effet des incendies de forêt sur le climat ?",
+      "options": ["Libèrent du CO₂ et réduisent les puits de carbone", "Produisent de l’oxygène", "Nettoient l’air", "Créent du pétrole"],
+      "reponse": "Libèrent du CO₂ et réduisent les puits de carbone",
+      "explication": "Les incendies détruisent les forêts qui absorbent normalement le CO₂."
+    },
+    {
+      "question": "Pourquoi l’accès à la santé est-il inégal dans le monde ?",
+      "options": ["Manque de ressources dans les pays pauvres", "Manque de docteurs dans les pays riches", "Excès de pluie", "Trop d’hôpitaux"],
+      "reponse": "Manque de ressources dans les pays pauvres",
+      "explication": "Les systèmes de santé sont insuffisants dans de nombreuses régions du monde."
+    },
+    {
+      "question": "Quel est un défi mondial pour les années à venir ?",
+      "options": ["Lutter contre le changement climatique", "Arrêter le sport", "Fermer les frontières numériques", "Supprimer les écoles"],
+      "reponse": "Lutter contre le changement climatique",
+      "explication": "C’est un enjeu majeur pour la survie de la planète et l’avenir des générations futures."
+    }
+  ]
+}

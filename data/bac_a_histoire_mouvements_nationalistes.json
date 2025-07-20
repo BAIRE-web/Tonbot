@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le rôle du FLN dans l’histoire de l’Algérie ?",
+      "options": ["Mouvement de libération nationale ayant mené la guerre d’indépendance", "Parti colonial français", "Organisation missionnaire", "Groupe économique"],
+      "reponse": "Mouvement de libération nationale ayant mené la guerre d’indépendance",
+      "explication": "Le FLN a organisé la lutte armée contre la présence française en Algérie de 1954 à 1962."
+    },
+    {
+      "question": "Quel fut l’impact de la conférence de Bandung en 1955 pour les mouvements nationalistes ?",
+      "options": ["Renforcement de la coopération entre pays asiatiques et africains contre le colonialisme", "Signature d’un traité de paix", "Début de la colonisation", "Création de l’OTAN"],
+      "reponse": "Renforcement de la coopération entre pays asiatiques et africains contre le colonialisme",
+      "explication": "La conférence a été un moment clé de solidarité entre pays en voie d’indépendance."
+    },
+    {
+      "question": "Qui était Patrice Lumumba ?",
+      "options": ["Premier Premier ministre du Congo indépendant", "Leader du FLN", "Président du Ghana", "Président de l’ANC"],
+      "reponse": "Premier Premier ministre du Congo indépendant",
+      "explication": "Lumumba est une figure symbolique de la lutte pour la décolonisation en Afrique centrale."
+    },
+    {
+      "question": "Quelle est la signification du terme \"décolonisation\" ?",
+      "options": ["Processus par lequel les colonies obtiennent leur indépendance", "Extension de la colonisation", "Occupation militaire", "Alliance entre colonisateurs"],
+      "reponse": "Processus par lequel les colonies obtiennent leur indépendance",
+      "explication": "La décolonisation marque la fin de la domination coloniale et l’émergence des États souverains."
+    },
+    {
+      "question": "Quel fut le rôle de la France dans la décolonisation de l’Afrique francophone ?",
+      "options": ["Organisation progressive des indépendances", "Refus total d’accorder l’indépendance", "Maintien de la colonisation", "Abandon immédiat"],
+      "reponse": "Organisation progressive des indépendances",
+      "explication": "La France a accepté les indépendances dans les années 1960 tout en conservant des liens économiques et politiques forts."
+    },
+    {
+      "question": "Quel leader africain est célèbre pour son discours \"Je suis Africain\" ?",
+      "options": ["Léopold Sédar Senghor", "Kwame Nkrumah", "Jomo Kenyatta", "Haile Selassie"],
+      "reponse": "Léopold Sédar Senghor",
+      "explication": "Senghor fut un poète, homme politique et président du Sénégal, promoteur de la négritude."
+    },
+    {
+      "question": "Quelle lutte armée a eu lieu au Kenya pour obtenir l’indépendance ?",
+      "options": ["Révolte des Mau Mau", "Guerre d’Algérie", "Guerre civile", "Révolte zouloue"],
+      "reponse": "Révolte des Mau Mau",
+      "explication": "Cette insurrection a opposé les combattants kenyans aux autorités coloniales britanniques dans les années 1950."
+    },
+    {
+      "question": "Quel est le rôle des partis politiques africains dans la période post-coloniale ?",
+      "options": ["Diriger les nouveaux États indépendants", "Maintenir la colonisation", "Promouvoir la colonisation", "Dissoudre les mouvements nationalistes"],
+      "reponse": "Diriger les nouveaux États indépendants",
+      "explication": "Ils ont pris en charge la gouvernance après la fin du colonialisme."
+    },
+    {
+      "question": "Quelle est la date officielle de l’indépendance de l’Algérie ?",
+      "options": ["5 juillet 1962", "1er janvier 1960", "4 avril 1963", "14 juin 1958"],
+      "reponse": "5 juillet 1962",
+      "explication": "L’Algérie obtient son indépendance après huit années de guerre contre la France."
+    },
+    {
+      "question": "Quel pays a été un modèle d’indépendance pacifique en Afrique ?",
+      "options": ["Sénégal", "Algérie", "Angola", "Zimbabwe"],
+      "reponse": "Sénégal",
+      "explication": "Le Sénégal a obtenu son indépendance sans conflit armé majeur."
+    },
+    {
+      "question": "Quelle puissance coloniale a été la dernière à quitter l’Afrique ?",
+      "options": ["Portugal", "France", "Royaume-Uni", "Belgique"],
+      "reponse": "Portugal",
+      "explication": "Le Portugal a conservé ses colonies jusqu’aux années 1970 malgré des guerres de libération."
+    },
+    {
+      "question": "Quel fut le rôle des États-Unis dans les luttes d’indépendance africaines ?",
+      "options": ["Soutien diplomatique aux mouvements indépendants dans le cadre de la Guerre froide", "Soutien aux colonisateurs", "Ignorance des luttes", "Opposition aux indépendances"],
+      "reponse": "Soutien diplomatique aux mouvements indépendants dans le cadre de la Guerre froide",
+      "explication": "Les USA voyaient la décolonisation comme une opportunité d’influence face à l’URSS."
+    },
+    {
+      "question": "Quel mouvement a été fondé par Amílcar Cabral pour l’indépendance de la Guinée-Bissau ?",
+      "options": ["PAIGC", "ANC", "FLN", "MPLA"],
+      "reponse": "PAIGC",
+      "explication": "Le Parti africain pour l’indépendance de la Guinée et du Cap-Vert a mené une lutte armée contre le Portugal."
+    },
+    {
+      "question": "Quel fut l’impact des luttes d’indépendance sur la société africaine ?",
+      "options": ["Transformation politique, sociale et économique", "Maintien du statu quo colonial", "Diminution de l’autonomie", "Colonisation accrue"],
+      "reponse": "Transformation politique, sociale et économique",
+      "explication": "Les indépendances ont permis l’affirmation de nouvelles identités et systèmes politiques."
+    },
+    {
+      "question": "Quel est le rôle du Mouvement des non-alignés dans la décolonisation ?",
+      "options": ["Soutenir les pays en voie de développement en dehors des blocs Est-Ouest", "Promouvoir la colonisation", "Soutenir l’OTAN", "Favoriser la guerre froide"],
+      "reponse": "Soutenir les pays en voie de développement en dehors des blocs Est-Ouest",
+      "explication": "Ce mouvement cherche à préserver l’indépendance politique des nouveaux États.",
+    },
+    {
+      "question": "Quelle est la date de la création de l’Organisation de l’unité africaine (OUA) ?",
+      "options": ["25 mai 1963", "4 juillet 1960", "1er janvier 1950", "15 août 1970"],
+      "reponse": "25 mai 1963",
+      "explication": "L’OUA a été fondée pour favoriser l’unité et la coopération entre les États africains."
+    },
+    {
+      "question": "Quel fut le rôle de l’ONU dans les processus d’indépendance ?",
+      "options": ["Encourager l’autodétermination des peuples colonisés", "Soutenir la colonisation", "Imposer des sanctions économiques", "Organiser des élections coloniales"],
+      "reponse": "Encourager l’autodétermination des peuples colonisés",
+      "explication": "L’ONU a adopté des résolutions pour favoriser l’indépendance et la décolonisation."
+    },
+    {
+      "question": "Quel leader africain est connu pour son discours \"I Have a Dream\" ?",
+      "options": ["Martin Luther King Jr.", "Kwame Nkrumah", "Nelson Mandela", "Jomo Kenyatta"],
+      "reponse": "Martin Luther King Jr.",
+      "explication": "Bien que non africain, ce discours a inspiré les mouvements de droits civiques et nationalistes en Afrique."
+    },
+    {
+      "question": "Quel pays africain a connu une guerre civile après son indépendance ?",
+      "options": ["Congo", "Sénégal", "Ghana", "Tunisie"],
+      "reponse": "Congo",
+      "explication": "Le Congo a été le théâtre de conflits internes et de luttes de pouvoir après 1960."
+    },
+    {
+      "question": "Qu’est-ce que le néocolonialisme ?",
+      "options": ["Maintien de l’influence économique et politique des anciennes puissances coloniales après l’indépendance", "Colonisation militaire", "Colonisation directe", "Indépendance totale"],
+      "reponse": "Maintien de l’influence économique et politique des anciennes puissances coloniales après l’indépendance",
+      "explication": "Le néocolonialisme désigne une forme de domination indirecte par les anciennes métropoles."
+    },
+    {
+      "question": "Qu’est-ce que le nationalisme africain ?",
+      "options": ["Mouvement politique pour l’indépendance et l’unité des peuples africains", "Politique coloniale européenne", "Alliance entre colons et Africains", "Partage des colonies entre puissances"],
+      "reponse": "Mouvement politique pour l’indépendance et l’unité des peuples africains",
+      "explication": "Le nationalisme africain vise à libérer les pays de la domination coloniale."
+    },
+    {
+      "question": "Quel leader est connu pour avoir mené la lutte pour l’indépendance du Ghana ?",
+      "options": ["Kwame Nkrumah", "Jomo Kenyatta", "Patrice Lumumba", "Nelson Mandela"],
+      "reponse": "Kwame Nkrumah",
+      "explication": "Nkrumah est une figure majeure du panafricanisme et premier président du Ghana."
+    },
+    {
+      "question": "Quelle organisation panafricaine a été fondée pour promouvoir l’unité africaine ?",
+      "options": ["Organisation de l’unité africaine (OUA)", "Nations Unies", "OTAN", "Union européenne"],
+      "reponse": "Organisation de l’unité africaine (OUA)",
+      "explication": "Créée en 1963, l’OUA vise à unir les pays africains après les indépendances."
+    },
+    {
+      "question": "Quel pays africain a été le premier à obtenir son indépendance en 1957 ?",
+      "options": ["Ghana", "Algérie", "Sénégal", "Côte d’Ivoire"],
+      "reponse": "Ghana",
+      "explication": "Le Ghana, anciennement Gold Coast, est la première colonie britannique à devenir indépendante."
+    },
+    {
+      "question": "Quel leader est associé à la lutte pour l’indépendance de l’Algérie ?",
+      "options": ["Ahmed Ben Bella", "Jomo Kenyatta", "Haile Selassie", "Kwame Nkrumah"],
+      "reponse": "Ahmed Ben Bella",
+      "explication": "Ben Bella fut un des dirigeants du Front de libération nationale (FLN) algérien."
+    },
+    {
+      "question": "Quelle guerre a marqué la fin de la colonisation française en Algérie ?",
+      "options": ["Guerre d’Algérie", "Guerre de Corée", "Guerre civile espagnole", "Seconde Guerre mondiale"],
+      "reponse": "Guerre d’Algérie",
+      "explication": "Conflit de 1954 à 1962 entre les indépendantistes algériens et la France."
+    },
+    {
+      "question": "Quel est le nom du mouvement indépendantiste africain fondé en 1944 ?",
+      "options": ["Rassemblement démocratique africain (RDA)", "Organisation de l’unité africaine (OUA)", "Parti communiste", "ANC"],
+      "reponse": "Rassemblement démocratique africain (RDA)",
+      "explication": "Le RDA regroupait plusieurs mouvements nationalistes en Afrique francophone."
+    },
+    {
+      "question": "Quel pays africain a connu une lutte armée menée par l’ANC contre l’apartheid ?",
+      "options": ["Afrique du Sud", "Kenya", "Ghana", "Maroc"],
+      "reponse": "Afrique du Sud",
+      "explication": "L’ANC (African National Congress) a mené la lutte contre la ségrégation raciale."
+    },
+    {
+      "question": "Qui est Nelson Mandela ?",
+      "options": ["Leader de la lutte contre l’apartheid et premier président noir d’Afrique du Sud", "Premier président du Ghana", "Leader du FLN algérien", "Colon français"],
+      "reponse": "Leader de la lutte contre l’apartheid et premier président noir d’Afrique du Sud",
+      "explication": "Mandela est une figure emblématique de la résistance pacifique et armée en Afrique du Sud."
+    },
+    {
+      "question": "Quel fut le rôle des intellectuels africains dans les luttes d’indépendance ?",
+      "options": ["Diffuser les idées nationalistes et critiquer la colonisation", "Soutenir la colonisation", "Ignorer la politique", "Collaborer avec les colons"],
+      "reponse": "Diffuser les idées nationalistes et critiquer la colonisation",
+      "explication": "Ils ont formé l’élite politique et culturelle qui a mené la décolonisation."
+    },
+    {
+      "question": "Quel pays a obtenu son indépendance par une négociation pacifique avec la France ?",
+      "options": ["Sénégal", "Algérie", "Angola", "Mozambique"],
+      "reponse": "Sénégal",
+      "explication": "Le Sénégal a obtenu l’indépendance en 1960 par accords avec la France."
+    },
+    {
+      "question": "Quel est le nom du discours prononcé par Charles de Gaulle en 1958 concernant l’Algérie ?",
+      "options": ["Discours de Brazzaville", "Discours de Dakar", "Discours de Phnom Penh", "Discours de Casablanca"],
+      "reponse": "Discours de Brazzaville",
+      "explication": "Ce discours promettait des réformes dans les colonies sans pour autant accorder l’indépendance."
+    },
+    {
+      "question": "Quel pays a été colonisé par la Belgique et a connu une indépendance violente en 1960 ?",
+      "options": ["Congo", "Kenya", "Tanzanie", "Ghana"],
+      "reponse": "Congo",
+      "explication": "L’indépendance du Congo belge a été marquée par des troubles et une crise politique majeure."
+    },
+    {
+      "question": "Quelle organisation internationale a soutenu les mouvements d’indépendance après la Seconde Guerre mondiale ?",
+      "options": ["ONU", "OTAN", "SEATO", "Pacte de Varsovie"],
+      "reponse": "ONU",
+      "explication": "L’ONU a encouragé le droit des peuples à disposer d’eux-mêmes."
+    },
+    {
+      "question": "Quel mouvement indépendantiste a été dirigé par Jomo Kenyatta ?",
+      "options": ["Mouvement Mau Mau au Kenya", "FLN en Algérie", "ANC en Afrique du Sud", "RDA en Afrique francophone"],
+      "reponse": "Mouvement Mau Mau au Kenya",
+      "explication": "Le mouvement Mau Mau a combattu la colonisation britannique au Kenya."
+    },
+    {
+      "question": "Quelle est la date de l’indépendance de la plupart des pays africains ?",
+      "options": ["Années 1960", "Années 1940", "Années 1980", "Années 1920"],
+      "reponse": "Années 1960",
+      "explication": "La majorité des indépendances africaines ont eu lieu durant la décennie 1960."
+    },
+    {
+      "question": "Quel pays africain a adopté une politique de non-alignement pendant la Guerre froide ?",
+      "options": ["Égypte", "Algérie", "Nigeria", "Ghana"],
+      "reponse": "Égypte",
+      "explication": "Sous Nasser, l’Égypte a joué un rôle clé dans le mouvement des non-alignés."
+    },
+    {
+      "question": "Quel fut le rôle des femmes dans les luttes d’indépendance africaines ?",
+      "options": ["Participation active dans les manifestations et organisations politiques", "Exclusion totale", "Collaboration avec les colonisateurs", "Soutien aux colons"],
+      "reponse": "Participation active dans les manifestations et organisations politiques",
+      "explication": "Les femmes ont souvent joué des rôles clés, malgré des discriminations persistantes."
+    },
+    {
+      "question": "Quelle fut la politique française après la Seconde Guerre mondiale concernant ses colonies ?",
+      "options": ["Création de l’Union française avec une certaine autonomie", "Accord immédiat d’indépendance", "Abandon complet des colonies", "Extension de la colonisation"],
+      "reponse": "Création de l’Union française avec une certaine autonomie",
+      "explication": "La France a tenté de maintenir une relation politique et économique forte avec ses colonies."
+    },
+    {
+      "question": "Quel fut le rôle de la décolonisation dans la Guerre froide ?",
+      "options": ["Terrain de rivalité entre USA et URSS", "Processus pacifique sans enjeux internationaux", "Alliance des colonies avec l’Europe", "Neutralité complète"],
+      "reponse": "Terrain de rivalité entre USA et URSS",
+      "explication": "Les deux superpuissances cherchaient à influencer les nouveaux États africains."
+    },
+    {
+      "question": "Quelle est la principale langue utilisée dans les mouvements nationalistes africains ?",
+      "options": ["Langues européennes (français, anglais)", "Langues africaines traditionnelles", "Langue arabe", "Langue russe"],
+      "reponse": "Langues européennes (français, anglais)",
+      "explication": "Les leaders utilisaient souvent les langues coloniales pour la communication politique."
+    },
+    {
+      "question": "Quel était le rôle des partis politiques dans les luttes d’indépendance ?",
+      "options": ["Mobiliser la population et négocier l’indépendance", "Soutenir la colonisation", "Ignorer la politique", "Collaborer avec les autorités coloniales"],
+      "reponse": "Mobiliser la population et négocier l’indépendance",
+      "explication": "Les partis ont été essentiels dans l’organisation des mouvements nationalistes."
+    },
+    {
+      "question": "Quel fut le rôle des syndicats dans les luttes d’indépendance ?",
+      "options": ["Organisation de grèves et revendications sociales", "Support au pouvoir colonial", "Dissolution des mouvements", "Ignorance des questions sociales"],
+      "reponse": "Organisation de grèves et revendications sociales",
+      "explication": "Les syndicats ont souvent été des leviers pour la mobilisation politique."
+    },
+    {
+      "question": "Quelle fut l’importance des médias dans les mouvements d’indépendance ?",
+      "options": ["Diffusion des idées nationalistes et sensibilisation", "Propagande coloniale", "Interdiction totale", "Communication uniquement locale"],
+      "reponse": "Diffusion des idées nationalistes et sensibilisation",
+      "explication": "Les journaux, radios et tracts ont joué un rôle-clé dans la mobilisation."
+    },
+    {
+      "question": "Quel leader africain a fondé le Parti démocratique congolais (PDC) ?",
+      "options": ["Patrice Lumumba", "Jomo Kenyatta", "Kwame Nkrumah", "Haile Selassie"],
+      "reponse": "Patrice Lumumba",
+      "explication": "Lumumba fut un leader charismatique du mouvement indépendantiste congolais."
+    },
+    {
+      "question": "Quelle organisation a remplacé l’OUA en 2002 ?",
+      "options": ["Union africaine (UA)", "ONU", "OTAN", "Pacte de Varsovie"],
+      "reponse": "Union africaine (UA)",
+      "explication": "L’UA vise à renforcer l’intégration politique, économique et sociale du continent."
+    },
+    {
+      "question": "Quel fut le rôle de la guerre d’Algérie dans la décolonisation ?",
+      "options": ["Accélérateur de l’indépendance française en Afrique", "Frein à la décolonisation", "Conflit local sans impact", "Conflit en Europe uniquement"],
+      "reponse": "Accélérateur de l’indépendance française en Afrique",
+      "explication": "La guerre d’Algérie a marqué un tournant dans la politique coloniale française."
+    },
+    {
+      "question": "Quelle est la signification de la politique de non-violence dans certains mouvements nationalistes ?",
+      "options": ["Utilisation de la désobéissance civile pour obtenir des droits", "Usage de la violence armée", "Collaboration avec les colonisateurs", "Indifférence politique"],
+      "reponse": "Utilisation de la désobéissance civile pour obtenir des droits",
+      "explication": "Inspirée notamment par Gandhi, cette politique cherche à changer le système sans violence."
+    },
+    {
+      "question": "Quel pays africain a utilisé une stratégie armée contre la colonisation portugaise ?",
+      "options": ["Angola", "Sénégal", "Égypte", "Ghana"],
+      "reponse": "Angola",
+      "explication": "Le MPLA et d’autres mouvements ont mené une guerre de libération contre le Portugal."
+    },
+    {
+      "question": "Qu’est-ce que le panafricanisme ?",
+      "options": ["Idée d’unité politique et culturelle des peuples africains", "Politique coloniale européenne", "Organisation économique mondiale", "Alliance militaire européenne"],
+      "reponse": "Idée d’unité politique et culturelle des peuples africains",
+      "explication": "Le panafricanisme vise à renforcer la solidarité entre les Africains pour affronter le colonialisme."
+    }
+  ]
+}

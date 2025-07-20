@@ -1,0 +1,166 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la caractéristique principale du roman ?",
+      "options": ["Récit long et fictif", "Poème court", "Pièce de théâtre", "Chanson populaire"],
+      "reponse": "Récit long et fictif",
+      "explication": "Le roman est un récit narratif généralement long, qui raconte une histoire inventée."
+    },
+    {
+      "question": "Qu’est-ce qu’un personnage secondaire ?",
+      "options": ["Personnage qui accompagne le héros", "Le protagoniste principal", "Le narrateur", "Un personnage sans rôle"],
+      "reponse": "Personnage qui accompagne le héros",
+      "explication": "Les personnages secondaires participent à l’intrigue mais ne sont pas centraux."
+    },
+    {
+      "question": "Quelle est la fonction du point de vue dans un roman ?",
+      "options": ["Orienter la perception de l’histoire", "Choisir le lieu de l’action", "Définir la durée du récit", "Décrire le décor"],
+      "reponse": "Orienter la perception de l’histoire",
+      "explication": "Le point de vue décide ce que le lecteur sait et comment il le perçoit."
+    },
+    {
+      "question": "Quel est un exemple de narration à la première personne ?",
+      "options": ["Le narrateur est un personnage du récit", "Le narrateur est extérieur à l’histoire", "Le narrateur est omniscient", "Il n’y a pas de narrateur"],
+      "reponse": "Le narrateur est un personnage du récit",
+      "explication": "Le narrateur raconte son propre vécu ou son regard interne."
+    },
+    {
+      "question": "Qu’est-ce qu’un narrateur omniscient ?",
+      "options": ["Un narrateur qui connaît tout des personnages", "Un narrateur qui ne sait rien", "Un narrateur extérieur sans informations", "Un personnage du récit"],
+      "reponse": "Un narrateur qui connaît tout des personnages",
+      "explication": "L’omniscient sait ce que pensent, ressentent tous les personnages."
+    },
+    {
+      "question": "Quelle fonction sociale peut avoir un roman ?",
+      "options": ["Réfléchir aux inégalités de la société", "Donner uniquement du divertissement", "Ignorer le contexte social", "Promouvoir la violence"],
+      "reponse": "Réfléchir aux inégalités de la société",
+      "explication": "Le roman peut dénoncer des problèmes sociaux et encourager la réflexion."
+    },
+    {
+      "question": "Qu’est-ce que l’intrigue dans un roman ?",
+      "options": ["L’ensemble des événements qui composent l’histoire", "La description des personnages", "Le décor", "Le style de l’auteur"],
+      "reponse": "L’ensemble des événements qui composent l’histoire",
+      "explication": "L’intrigue est la suite des actions qui constituent le récit."
+    },
+    {
+      "question": "Qu’est-ce qu’un roman à suspense ?",
+      "options": ["Un roman qui maintient le lecteur en tension", "Un roman humoristique", "Un roman historique", "Un roman poétique"],
+      "reponse": "Un roman qui maintient le lecteur en tension",
+      "explication": "Le suspense est un effet pour captiver et inciter à continuer la lecture."
+    },
+    {
+      "question": "Comment un roman peut-il avoir une fonction morale ?",
+      "options": ["En montrant des leçons de vie ou des valeurs", "En divertissant seulement", "En racontant des faits réels", "En ignorant les valeurs"],
+      "reponse": "En montrant des leçons de vie ou des valeurs",
+      "explication": "Le roman peut transmettre des messages éthiques ou moraux."
+    },
+    {
+      "question": "Qu’est-ce qu’un personnage rond ?",
+      "options": ["Un personnage complexe et évolutif", "Un personnage simple", "Un personnage secondaire", "Un narrateur"],
+      "reponse": "Un personnage complexe et évolutif",
+      "explication": "Un personnage rond est bien développé avec plusieurs traits et change parfois."
+    },
+    {
+      "question": "Quel est le rôle du cadre spatio-temporel dans un roman ?",
+      "options": ["Situer l’action dans le temps et l’espace", "Donner les sentiments des personnages", "Présenter l’auteur", "Décrire la morale"],
+      "reponse": "Situer l’action dans le temps et l’espace",
+      "explication": "Le cadre fixe où et quand se déroulent les événements."
+    },
+    {
+      "question": "Qu’est-ce qu’un roman réaliste ?",
+      "options": ["Un roman qui décrit la réalité de façon fidèle", "Un roman fantastique", "Un roman poétique", "Un roman d’aventure"],
+      "reponse": "Un roman qui décrit la réalité de façon fidèle",
+      "explication": "Le réalisme vise à représenter la vie telle qu’elle est."
+    },
+    {
+      "question": "Quelle est la différence entre un narrateur interne et externe ?",
+      "options": ["Interne est un personnage, externe est un observateur", "Ils sont identiques", "Interne raconte à la troisième personne", "Externe est un personnage"],
+      "reponse": "Interne est un personnage, externe est un observateur",
+      "explication": "Le narrateur interne vit l’histoire, l’externe la raconte de l’extérieur."
+    },
+    {
+      "question": "Comment le roman peut-il refléter une critique politique ?",
+      "options": ["En dénonçant les injustices ou abus de pouvoir", "En restant neutre", "En racontant des histoires fictives", "En évitant la politique"],
+      "reponse": "En dénonçant les injustices ou abus de pouvoir",
+      "explication": "Le roman peut être un outil d’engagement politique."
+    },
+    {
+      "question": "Qu’est-ce que le personnage principal ?",
+      "options": ["Le héros autour duquel tourne l’histoire", "Un personnage secondaire", "Le narrateur uniquement", "Un personnage sans importance"],
+      "reponse": "Le héros autour duquel tourne l’histoire",
+      "explication": "Le personnage principal est au centre de l’intrigue."
+    },
+    {
+      "question": "Qu’est-ce que le point de vue interne ?",
+      "options": ["Le récit vu à travers les pensées d’un personnage", "Le récit omniscient", "Le récit extérieur", "Le récit muet"],
+      "reponse": "Le récit vu à travers les pensées d’un personnage",
+      "explication": "Le point de vue interne plonge dans la conscience du personnage."
+    },
+    {
+      "question": "Pourquoi le roman peut-il être un moyen de réflexion morale ?",
+      "options": ["Il présente des dilemmes et choix éthiques", "Il raconte seulement une histoire", "Il décrit uniquement des faits", "Il évite la morale"],
+      "reponse": "Il présente des dilemmes et choix éthiques",
+      "explication": "Les romans montrent souvent des situations morales complexes."
+    },
+    {
+      "question": "Qu’est-ce que le roman épistolaire ?",
+      "options": ["Roman écrit sous forme de lettres", "Roman en vers", "Roman dramatique", "Roman sans dialogue"],
+      "reponse": "Roman écrit sous forme de lettres",
+      "explication": "Ce type de roman utilise la correspondance pour raconter l’histoire."
+    },
+    {
+      "question": "Quelle est la fonction de la description dans un roman ?",
+      "options": ["Donner vie au cadre, aux personnages et objets", "Remplir la page", "Donner l’opinion de l’auteur", "Faire des digressions"],
+      "reponse": "Donner vie au cadre, aux personnages et objets",
+      "explication": "La description aide à visualiser et ressentir l’univers du roman."
+    },
+    {
+      "question": "Qu’est-ce qu’un roman d’apprentissage ?",
+      "options": ["Roman racontant la formation et maturation d’un personnage", "Roman policier", "Roman fantastique", "Roman humoristique"],
+      "reponse": "Roman racontant la formation et maturation d’un personnage",
+      "explication": "Ce type de roman suit le parcours initiatique d’un héros."
+    },
+    {
+      "question": "Comment peut-on caractériser un style narratif à la troisième personne ?",
+      "options": ["Narrateur extérieur racontant l’histoire", "Narrateur personnage", "Narrateur absent", "Narrateur muet"],
+      "reponse": "Narrateur extérieur racontant l’histoire",
+      "explication": "La narration à la troisième personne est souvent plus distante."
+    },
+    {
+      "question": "Pourquoi le roman peut-il avoir une fonction politique ?",
+      "options": ["Pour critiquer et sensibiliser aux problèmes de société", "Pour distraire uniquement", "Pour raconter des faits réels", "Pour ignorer la politique"],
+      "reponse": "Pour critiquer et sensibiliser aux problèmes de société",
+      "explication": "Le roman peut éveiller les consciences politiques du lecteur."
+    },
+    {
+      "question": "Qu’est-ce qu’un personnage statique ?",
+      "options": ["Un personnage qui ne change pas au cours du récit", "Un personnage principal", "Un narrateur", "Un personnage dynamique"],
+      "reponse": "Un personnage qui ne change pas au cours du récit",
+      "explication": "Contrairement au personnage rond, il reste le même du début à la fin."
+    },
+    {
+      "question": "Quel est le rôle de l’intrigue secondaire ?",
+      "options": ["Compléter ou enrichir l’intrigue principale", "Perturber le récit", "Remplir la page", "Être le centre de l’histoire"],
+      "reponse": "Compléter ou enrichir l’intrigue principale",
+      "explication": "Les intrigues secondaires apportent des nuances et développements supplémentaires."
+    },
+    {
+      "question": "Qu’est-ce que la focalisation externe ?",
+      "options": ["Narration qui décrit uniquement ce qui est observable", "Narration interne", "Narration omnisciente", "Narration muette"],
+      "reponse": "Narration qui décrit uniquement ce qui est observable",
+      "explication": "Le narrateur ne connaît pas les pensées, seulement les actions visibles."
+    },
+    {
+      "question": "Pourquoi analyser les fonctions du roman ?",
+      "options": ["Pour comprendre son impact social, moral et politique", "Pour critiquer l’auteur", "Pour résumer l’histoire", "Pour juger le style"],
+      "reponse": "Pour comprendre son impact social, moral et politique",
+      "explication": "Les fonctions expliquent pourquoi le roman est écrit et ce qu’il transmet."
+    },
+    {
+      "question": "Qu’est-ce que le roman fantastique ?",
+      "options": ["Roman mêlant éléments surnaturels à la réalité", "Roman réaliste", "Roman historique", "Roman d’amour"],
+      "reponse": "Roman mêlant éléments surnaturels à la réalité",
+      "explication": "Le fantastique introduit le mystère et l’étrangeté dans le récit."
+    }
+  ]
+}

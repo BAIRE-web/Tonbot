@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Quel était le but principal de la construction des infrastructures par les colons ?",
+      "options": ["Faciliter l’extraction des ressources", "Développer le tourisme", "Relier uniquement les villages", "Favoriser l’agriculture locale"],
+      "reponse": "Faciliter l’extraction des ressources",
+      "explication": "Les infrastructures étaient principalement conçues pour l’exportation des matières premières."
+    },
+    {
+      "question": "Comment la politique coloniale a-t-elle influencé l’urbanisation ?",
+      "options": ["Concentration des populations dans quelques villes", "Développement rural intensif", "Répartition équitable", "Urbanisation inexistante"],
+      "reponse": "Concentration des populations dans quelques villes",
+      "explication": "Les villes coloniales ont concentré les activités économiques et administratives."
+    },
+    {
+      "question": "Quel rôle jouaient les écoles coloniales dans la société ?",
+      "options": ["Former une élite administrative fidèle à la France", "Former tous les enfants sans distinction", "Former uniquement les filles", "Aucun rôle éducatif"],
+      "reponse": "Former une élite administrative fidèle à la France",
+      "explication": "L’éducation coloniale visait à créer des cadres loyaux au régime colonial."
+    },
+    {
+      "question": "Quelle était la place des produits agricoles locaux pendant la colonisation ?",
+      "options": ["Marginalisés au profit des cultures d’exportation", "Favorisés", "Supplantés par l’industrie", "Non cultivés"],
+      "reponse": "Marginalisés au profit des cultures d’exportation",
+      "explication": "Les cultures vivrières locales perdaient en importance au profit du coton et autres cultures commerciales."
+    },
+    {
+      "question": "Quelle forme de contrôle social a été mise en place par les colons ?",
+      "options": ["Répression, surveillance et administration indirecte", "Liberté totale", "Autogestion", "Aucune mesure de contrôle"],
+      "reponse": "Répression, surveillance et administration indirecte",
+      "explication": "Les colons usaient de méthodes coercitives pour maintenir l’ordre colonial."
+    },
+    {
+      "question": "Qu’est-ce que la politique de 'l’indirect rule' ?",
+      "options": ["Gouverner à travers les chefs traditionnels", "Exclure les chefs traditionnels", "Gouverner directement", "Autonomie totale des colonies"],
+      "reponse": "Gouverner à travers les chefs traditionnels",
+      "explication": "Cette politique utilisait les autorités locales pour administrer la colonie sous supervision coloniale."
+    },
+    {
+      "question": "Quel fut l’effet de la colonisation sur les techniques artisanales locales ?",
+      "options": ["Déclin face aux produits importés", "Développement intensif", "Ignorées", "Transformées en industrie"],
+      "reponse": "Déclin face aux produits importés",
+      "explication": "Les produits artisanaux locaux furent concurrencés par des produits européens."
+    },
+    {
+      "question": "Comment les colons considéraient-ils les populations africaines ?",
+      "options": ["Comme inférieures et nécessitant civilisation", "Comme égales", "Comme partenaires économiques", "Comme autonomes"],
+      "reponse": "Comme inférieures et nécessitant civilisation",
+      "explication": "Cette idéologie justifiait la domination coloniale sous couvert de 'mission civilisatrice'."
+    },
+    {
+      "question": "Quel fut le rôle des soldats africains durant la colonisation ?",
+      "options": ["Participer aux conflits coloniaux et mondiaux", "Aucun rôle", "Révoltes uniquement", "Travail agricole"],
+      "reponse": "Participer aux conflits coloniaux et mondiaux",
+      "explication": "Les tirailleurs sénégalais et autres troupes africaines furent mobilisés par la France."
+    },
+    {
+      "question": "Quelle était la politique française envers les langues locales dans l’éducation ?",
+      "options": ["Interdiction ou marginalisation", "Promotion", "Égalité avec le français", "Remplacement par l’anglais"],
+      "reponse": "Interdiction ou marginalisation",
+      "explication": "Le français était la seule langue officielle d’enseignement."
+    },
+    {
+      "question": "Quel était le statut politique des populations colonisées ?",
+      "options": ["Sujets sans droits politiques", "Citoyens à part entière", "Électeurs libres", "Indépendants"],
+      "reponse": "Sujets sans droits politiques",
+      "explication": "Les populations coloniales n’avaient pas de droits politiques réels."
+    },
+    {
+      "question": "Quelle conséquence la colonisation a-t-elle eue sur les ressources naturelles ?",
+      "options": ["Surexploitation et épuisement", "Protection et conservation", "Non exploitées", "Exploitation locale seulement"],
+      "reponse": "Surexploitation et épuisement",
+      "explication": "Les colons ont exploité intensivement les ressources pour leurs bénéfices."
+    },
+    {
+      "question": "Quel fut le rôle des colons dans la modification des structures familiales ?",
+      "options": ["Affaiblissement des liens traditionnels", "Renforcement des familles", "Indifférence", "Promotion des familles élargies"],
+      "reponse": "Affaiblissement des liens traditionnels",
+      "explication": "Les politiques coloniales ont bouleversé les structures familiales et communautaires."
+    },
+    {
+      "question": "Quelle était la place des femmes dans la résistance à la colonisation ?",
+      "options": ["Participation active et leadership", "Aucune implication", "Soutien passif uniquement", "Opposition aux résistances"],
+      "reponse": "Participation active et leadership",
+      "explication": "Les femmes ont joué un rôle important dans plusieurs mouvements de résistance."
+    },
+    {
+      "question": "Quel fut l’impact de la colonisation sur les pratiques religieuses locales ?",
+      "options": ["Syncrétisme et pressions à la conversion", "Maintien complet", "Abolition", "Remplacement total par le christianisme"],
+      "reponse": "Syncrétisme et pressions à la conversion",
+      "explication": "Les croyances traditionnelles ont coexisté avec la religion chrétienne introduite."
+    },
+    {
+      "question": "Quel fut l’effet de la colonisation sur la culture burkinabè ?",
+      "options": ["Mélange, perte partielle et renaissance", "Destruction totale", "Préservation intégrale", "Isolation culturelle"],
+      "reponse": "Mélange, perte partielle et renaissance",
+      "explication": "La colonisation a modifié la culture, mais des éléments traditionnels perdurent."
+    },
+    {
+      "question": "Quel est le principal héritage administratif de la colonisation ?",
+      "options": ["Centralisation et bureaucratie", "Autonomie locale", "Démocratie directe", "Décentralisation complète"],
+      "reponse": "Centralisation et bureaucratie",
+      "explication": "Le système administratif reste fortement centralisé comme à l’époque coloniale."
+    },
+    {
+      "question": "Quelle est la durée approximative de la colonisation française au Burkina Faso ?",
+      "options": ["Environ 70 ans", "Environ 20 ans", "Environ 100 ans", "Environ 50 ans"],
+      "reponse": "Environ 70 ans",
+      "explication": "La colonisation dura de la fin du 19e siècle jusqu’à l’indépendance en 1960."
+    },
+    {
+      "question": "Quel fut le principal moteur de la colonisation française en Afrique de l’Ouest ?",
+      "options": ["Exploitation économique et prestige politique", "Mission humanitaire", "Commerce équitable", "Recherche scientifique"],
+      "reponse": "Exploitation économique et prestige politique",
+      "explication": "Les intérêts économiques et la compétition impérialiste motivèrent la colonisation."
+    },
+    {
+      "question": "Quelle influence la colonisation a-t-elle eu sur le système juridique ?",
+      "options": ["Introduction du droit français", "Maintien des lois traditionnelles", "Droit coutumier exclusif", "Aucune influence"],
+      "reponse": "Introduction du droit français",
+      "explication": "Le droit français a remplacé en grande partie les systèmes juridiques locaux."
+    },
+    {
+      "question": "En quelle année la colonisation française a-t-elle commencé officiellement au Burkina Faso ?",
+      "options": ["1896", "1919", "1885", "1905"],
+      "reponse": "1896",
+      "explication": "La pénétration française dans la région commença vers 1896 avec l’établissement du protectorat."
+    },
+    {
+      "question": "Quel était le nom colonial donné au Burkina Faso ?",
+      "options": ["Haute-Volta", "Soudan français", "Dahomey", "Côte d’Ivoire"],
+      "reponse": "Haute-Volta",
+      "explication": "Le territoire fut nommé Haute-Volta pendant la période coloniale française."
+    },
+    {
+      "question": "Quel système économique les colons français ont-ils imposé au Burkina Faso ?",
+      "options": ["L’économie de plantation et l’exploitation des ressources", "L’économie industrielle", "L’économie basée sur le tourisme", "L’économie numérique"],
+      "reponse": "L’économie de plantation et l’exploitation des ressources",
+      "explication": "Les colons ont mis en place une économie extractive axée sur les plantations et les matières premières."
+    },
+    {
+      "question": "Quel était l’impact de la colonisation sur l’agriculture traditionnelle ?",
+      "options": ["Déplacement des paysans vers les cultures commerciales", "Développement de l’agriculture traditionnelle", "Aucune modification", "Interdiction totale de l’agriculture"],
+      "reponse": "Déplacement des paysans vers les cultures commerciales",
+      "explication": "Les colons favorisaient les cultures destinées à l’exportation, ce qui modifia les pratiques agricoles."
+    },
+    {
+      "question": "Quelle langue est devenue la langue officielle sous la colonisation française ?",
+      "options": ["Le français", "Le mooré", "Le dioula", "L’anglais"],
+      "reponse": "Le français",
+      "explication": "Le français fut imposé comme langue administrative et éducative."
+    },
+    {
+      "question": "Quel fut le rôle des chemins de fer construits pendant la colonisation ?",
+      "options": ["Faciliter l’exportation des matières premières", "Relier uniquement les villages", "Transport des populations uniquement", "Tourisme"],
+      "reponse": "Faciliter l’exportation des matières premières",
+      "explication": "Les infrastructures ferroviaires servaient surtout à extraire les ressources."
+    },
+    {
+      "question": "Comment la colonisation a-t-elle affecté les structures politiques traditionnelles ?",
+      "options": ["Affaiblissement mais maintien partiel via l’indirect rule", "Renforcement total", "Disparition immédiate", "Non impactées"],
+      "reponse": "Affaiblissement mais maintien partiel via l’indirect rule",
+      "explication": "Les autorités traditionnelles furent utilisées comme intermédiaires sous contrôle colonial."
+    },
+    {
+      "question": "Quel système de travail a été imposé aux populations locales par les colons ?",
+      "options": ["Le travail forcé et corvée", "Travail libre et rémunéré", "Aucune contrainte", "Travail à distance"],
+      "reponse": "Le travail forcé et corvée",
+      "explication": "Le travail forcé fut largement utilisé pour les projets coloniaux."
+    },
+    {
+      "question": "Quel fut l’impact de la colonisation sur les modes de vie sociaux ?",
+      "options": ["Introduction de nouvelles pratiques mais aussi perturbations sociales", "Maintien complet des traditions", "Abolition des cultures locales", "Isolation des populations"],
+      "reponse": "Introduction de nouvelles pratiques mais aussi perturbations sociales",
+      "explication": "La colonisation modifia les relations sociales et culturelles traditionnelles."
+    },
+    {
+      "question": "Quel rôle ont joué les missions chrétiennes pendant la colonisation ?",
+      "options": ["Conversion et éducation", "Aucune influence", "Soutien aux chefs traditionnels", "Opposition à la colonisation"],
+      "reponse": "Conversion et éducation",
+      "explication": "Les missions religieuses cherchaient à convertir les populations et à diffuser l’éducation occidentale."
+    },
+    {
+      "question": "Qu’est-ce que la politique de l’indigénat ?",
+      "options": ["Un régime juridique discriminatoire envers les colonisés", "Une politique d’égalité", "Un système éducatif", "Une aide économique"],
+      "reponse": "Un régime juridique discriminatoire envers les colonisés",
+      "explication": "L’indigénat soumettait les populations à des règles restrictives et des sanctions arbitraires."
+    },
+    {
+      "question": "Comment la colonisation a-t-elle affecté l’éducation au Burkina Faso ?",
+      "options": ["Création d’écoles mais limitées et orientées vers l’assimilation", "Éducation généralisée", "Suppression totale de l’éducation", "Éducation indigène exclusive"],
+      "reponse": "Création d’écoles mais limitées et orientées vers l’assimilation",
+      "explication": "L’éducation coloniale visait à former une élite soumise à la culture française."
+    },
+    {
+      "question": "Quel était l’impact de la colonisation sur la démographie locale ?",
+      "options": ["Migrations forcées et déplacements", "Croissance naturelle uniquement", "Déclin total", "Aucune modification"],
+      "reponse": "Migrations forcées et déplacements",
+      "explication": "Les politiques coloniales provoquèrent des mouvements de population importants."
+    },
+    {
+      "question": "Quel secteur économique a le plus bénéficié aux colons ?",
+      "options": ["L’exploitation minière", "L’agriculture vivrière", "L’artisanat local", "Le commerce informel"],
+      "reponse": "L’exploitation minière",
+      "explication": "Les mines étaient exploitées principalement au profit des colons."
+    },
+    {
+      "question": "Quelle était la principale culture commerciale développée par les colons ?",
+      "options": ["Le coton", "Le riz", "Le maïs", "Le café"],
+      "reponse": "Le coton",
+      "explication": "Le coton devint la culture principale d’exportation sous la colonisation."
+    },
+    {
+      "question": "Quelle était la condition des populations dans les zones rurales pendant la colonisation ?",
+      "options": ["Soumises à de fortes contraintes et exploitation", "Autonomes et prospères", "Protégées par les colons", "Migrantes uniquement"],
+      "reponse": "Soumises à de fortes contraintes et exploitation",
+      "explication": "Les paysans subissaient des prélèvements et des corvées importantes."
+    },
+    {
+      "question": "Quel impact la colonisation a-t-elle eu sur les langues locales ?",
+      "options": ["Dévalorisation et marginalisation", "Promotion exclusive", "Remplacement total par l’anglais", "Développement uniforme"],
+      "reponse": "Dévalorisation et marginalisation",
+      "explication": "Le français fut privilégié au détriment des langues traditionnelles."
+    },
+    {
+      "question": "Quelle était la politique française vis-à-vis des chefferies traditionnelles ?",
+      "options": ["Collaboration sous contrôle strict", "Exclusion totale", "Élimination immédiate", "Indépendance totale"],
+      "reponse": "Collaboration sous contrôle strict",
+      "explication": "Les chefs traditionnels étaient utilisés comme relais tout en étant surveillés."
+    },
+    {
+      "question": "Quelle fut la réaction principale des populations face à la colonisation ?",
+      "options": ["Résistance, révoltes et adaptations", "Acceptation totale", "Émigration massive", "Aucune réaction"],
+      "reponse": "Résistance, révoltes et adaptations",
+      "explication": "Les populations ont opposé des résistances tout en s’adaptant à la situation."
+    },
+    {
+      "question": "Quel fut le rôle des travaux forcés dans le développement colonial ?",
+      "options": ["Exploitation de la main-d'œuvre pour les infrastructures", "Travail volontaire", "Non utilisé", "Travail mécanisé uniquement"],
+      "reponse": "Exploitation de la main-d'œuvre pour les infrastructures",
+      "explication": "Les travaux forcés furent essentiels pour construire routes, chemins de fer et bâtiments coloniaux."
+    },
+    {
+      "question": "Quel fut l’impact de la colonisation sur la santé des populations ?",
+      "options": ["Introduction de nouvelles maladies et soins limités", "Amélioration complète", "Aucune modification", "Soins universels"],
+      "reponse": "Introduction de nouvelles maladies et soins limités",
+      "explication": "Les conditions sanitaires restèrent précaires et les maladies exogènes ont causé des pertes."
+    },
+    {
+      "question": "Comment la colonisation a-t-elle influencé les migrations internes ?",
+      "options": ["Déplacements forcés pour le travail et l’agriculture", "Stabilisation des populations", "Immobilité totale", "Migrations vers l’Europe uniquement"],
+      "reponse": "Déplacements forcés pour le travail et l’agriculture",
+      "explication": "Les populations étaient souvent déplacées pour répondre aux besoins coloniaux."
+    },
+    {
+      "question": "Quel rôle jouait l’administration coloniale française ?",
+      "options": ["Contrôler et exploiter le territoire et ses populations", "Favoriser l’autonomie locale", "Absente", "Administration locale indépendante"],
+      "reponse": "Contrôler et exploiter le territoire et ses populations",
+      "explication": "L’administration coloniale assurait la domination politique et économique."
+    },
+    {
+      "question": "Quel fut l’impact de la colonisation sur les droits fonciers ?",
+      "options": ["Privatisation et spoliation des terres traditionnelles", "Respect total", "Communalisme renforcé", "Aucune modification"],
+      "reponse": "Privatisation et spoliation des terres traditionnelles",
+      "explication": "Les terres furent souvent confisquées pour les plantations coloniales."
+    },
+    {
+      "question": "Quel était le statut des femmes sous la colonisation ?",
+      "options": ["Marginalisation accrue et restrictions sociales", "Égalité complète", "Pouvoir politique renforcé", "Indifférence totale"],
+      "reponse": "Marginalisation accrue et restrictions sociales",
+      "explication": "La colonisation a souvent renforcé les inégalités de genre."
+    },
+    {
+      "question": "Quel fut le rôle de la religion dans la colonisation ?",
+      "options": ["Justification morale et conversion", "Opposition totale", "Ignorance", "Religions indigènes renforcées"],
+      "reponse": "Justification morale et conversion",
+      "explication": "La religion chrétienne a souvent servi de légitimation à la colonisation."
+    },
+    {
+      "question": "Quelle est la principale critique de la colonisation française au Burkina Faso ?",
+      "options": ["Exploitation économique et oppression politique", "Développement équitable", "Libération culturelle", "Aide au progrès"],
+      "reponse": "Exploitation économique et oppression politique",
+      "explication": "La colonisation est critiquée pour ses impacts négatifs sur les populations locales."
+    },
+    {
+      "question": "Quelle influence la colonisation a-t-elle laissée sur l’organisation administrative actuelle ?",
+      "options": ["Structures héritées et centralisation", "Aucune influence", "Modèles complètement différents", "Décentralisation totale"],
+      "reponse": "Structures héritées et centralisation",
+      "explication": "Le système administratif actuel conserve des traces de la période coloniale."
+    }
+  ]
+}

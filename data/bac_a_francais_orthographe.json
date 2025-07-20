@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le pluriel correct du mot « cheval » ?",
+      "options": ["chevaux", "chevals", "chevales", "chevalz"],
+      "reponse": "chevaux",
+      "explication": "« Cheval » est un nom irrégulier : au pluriel, il devient « chevaux »."
+    },
+    {
+      "question": "Complétez correctement : « Elles sont ___ à temps. »",
+      "options": ["arrivé", "arrivées", "arrivés", "arrivée"],
+      "reponse": "arrivées",
+      "explication": "Le participe passé s’accorde avec le sujet féminin pluriel avec l’auxiliaire « être »."
+    },
+    {
+      "question": "Quelle phrase est correctement ponctuée ?",
+      "options": ["Il est parti ; elle est restée.", "Il est parti: elle est restée.", "Il est parti. elle est restée", "Il est parti elle est restée."],
+      "reponse": "Il est parti ; elle est restée.",
+      "explication": "Le point-virgule sépare deux phrases indépendantes mais liées par le sens."
+    },
+    {
+      "question": "Quel mot complète la phrase : « Ils ont ___ leurs devoirs avant de sortir. »",
+      "options": ["fait", "faits", "faite", "faient"],
+      "reponse": "fait",
+      "explication": "Le COD « leurs devoirs » est placé après le verbe, donc pas d’accord avec le participe passé."
+    },
+    {
+      "question": "Quel est le pluriel de « journal » ?",
+      "options": ["journaux", "journals", "journales", "journalx"],
+      "reponse": "journaux",
+      "explication": "Comme beaucoup de mots en -al, « journal » prend -aux au pluriel."
+    },
+    {
+      "question": "Dans : « La porte que j’ai ___ était fermée », quel mot complète la phrase ?",
+      "options": ["ouverte", "ouvert", "ouvrée", "ouvertes"],
+      "reponse": "ouverte",
+      "explication": "Le COD « la porte » est placé avant le verbe : le participe passé s’accorde."
+    },
+    {
+      "question": "Quel est le rôle principal des deux-points dans une phrase ?",
+      "options": ["Introduire une explication ou une énumération", "Terminer une phrase", "Séparer deux sujets", "Remplacer un point-virgule"],
+      "reponse": "Introduire une explication ou une énumération",
+      "explication": "Les deux-points annoncent ce qui suit : un exemple, une citation, un détail, etc."
+    },
+    {
+      "question": "Quelle phrase utilise correctement le point-virgule ?",
+      "options": ["Elle a pleuré ; puis elle a souri.", "Elle a pleuré: puis elle a souri.", "Elle a pleuré. puis elle a souri", "Elle a pleuré puis; elle a souri."],
+      "reponse": "Elle a pleuré ; puis elle a souri.",
+      "explication": "Le point-virgule marque une pause logique entre deux propositions autonomes."
+    },
+    {
+      "question": "Quelle phrase est correctement accordée ?",
+      "options": ["Les fleurs sont fanées.", "Les fleurs sont fané.", "Les fleurs est fanées.", "Les fleurs est fané."],
+      "reponse": "Les fleurs sont fanées.",
+      "explication": "« Fleurs » est féminin pluriel, donc « fanées » avec -ées."
+    },
+    {
+      "question": "Dans la phrase : « Elle s’est lavé les mains », le mot « lavé » s’écrit…",
+      "options": ["lavé", "lavée", "lavés", "lavées"],
+      "reponse": "lavé",
+      "explication": "Le COD « les mains » est placé après le verbe, donc pas d’accord avec le participe passé."
+    },
+    {
+      "question": "Dans quelle phrase le participe passé est-il mal accordé ?",
+      "options": ["Ils se sont regardés.", "Elles se sont parlé.", "Elle s’est maquillée.", "Ils se sont rencontrés."],
+      "reponse": "Elles se sont parlé.",
+      "explication": "Le verbe « parler » est intransitif ici : il ne s’accorde pas au participe passé."
+    },
+    {
+      "question": "Quelle phrase emploie correctement la ponctuation expressive ?",
+      "options": ["Il pleuvait – c'était magnifique !", "Il pleuvait: c'était magnifique !", "Il pleuvait, c'était magnifique !", "Il pleuvait; c'était magnifique !"],
+      "reponse": "Il pleuvait – c'était magnifique !",
+      "explication": "Le tiret souligne une rupture expressive dans la phrase."
+    },
+    {
+      "question": "Quel mot est bien orthographié ?",
+      "options": ["accueillir", "acceuillir", "acueillir", "accueillire"],
+      "reponse": "accueillir",
+      "explication": "Attention à l'ordre des lettres : deux « c », un « u », deux « l »."
+    },
+    {
+      "question": "Quel signe de ponctuation introduit souvent un dialogue ?",
+      "options": ["Le tiret", "Le point-virgule", "Les guillemets", "Les crochets"],
+      "reponse": "Le tiret",
+      "explication": "Le tiret est utilisé au début de chaque réplique dans un dialogue théâtral ou narratif."
+    },
+    {
+      "question": "Quel est l’accord du participe passé dans : « Les lettres qu’ils ont écrites » ?",
+      "options": ["écrites", "écrit", "écrits", "écrite"],
+      "reponse": "écrites",
+      "explication": "Le COD « les lettres » est placé avant, donc le participe s’accorde au féminin pluriel."
+    },
+    {
+      "question": "Complétez : « Elle a ___ la robe qu’elle avait vue. »",
+      "options": ["choisi", "choisie", "choisies", "choisît"],
+      "reponse": "choisi",
+      "explication": "Le COD est après le verbe (la robe), donc pas d’accord du participe passé."
+    },
+    {
+      "question": "Quelle phrase contient une faute d’accord ?",
+      "options": ["Ils se sont aidés.", "Elles se sont regardé.", "Elle s’est coiffée.", "Ils se sont rencontrés."],
+      "reponse": "Elles se sont regardé.",
+      "explication": "Avec « regarder », le COD est avant, donc il faut écrire « regardées »."
+    },
+    {
+      "question": "À quoi sert le point-virgule dans un texte ?",
+      "options": ["Séparer deux idées longues mais liées", "Remplacer une virgule", "Finir une phrase", "Exprimer une émotion"],
+      "reponse": "Séparer deux idées longues mais liées",
+      "explication": "Il crée une pause plus marquée que la virgule, sans clore la phrase comme un point."
+    },
+    {
+      "question": "Le mot correctement écrit est…",
+      "options": ["indépendamment", "indepandamment", "indepéndament", "indépendament"],
+      "reponse": "indépendamment",
+      "explication": "Il faut respecter la double consonne « mm » et l’accent aigu sur le « é »."
+    },
+    {
+      "question": "Quelle ponctuation permet de renforcer une émotion forte ?",
+      "options": ["Le point d’exclamation", "Le point-virgule", "Les deux-points", "La virgule"],
+      "reponse": "Le point d’exclamation",
+      "explication": "Il exprime la surprise, la joie, la peur ou une injonction."
+    },
+    {
+      "question": "Dans : « Elle a chanté une belle chanson », le verbe « a chanté » est conjugué au…",
+      "options": ["passé composé", "imparfait", "futur simple", "présent"],
+      "reponse": "passé composé",
+      "explication": "« A » est l’auxiliaire avoir conjugué au présent, et « chanté » le participe passé."
+    },
+    {
+      "question": "Quelle phrase utilise correctement les deux-points ?",
+      "options": ["Il a dit : « Je viens. »", "Il a dit ; je viens", "Il a dit je viens", "Il a dit. Je viens"],
+      "reponse": "Il a dit : « Je viens. »",
+      "explication": "Les deux-points introduisent une citation ou une explication."
+    },
+    {
+      "question": "Quel mot complète correctement : « La ville ___ j’ai visité est magnifique. »",
+      "options": ["que", "qui", "où", "dont"],
+      "reponse": "que",
+      "explication": "C’est le COD placé avant : le participe passé devra s’accorder avec « que »."
+    },
+    {
+      "question": "Quel accord est correct ?",
+      "options": ["Ils se sont téléphoné.", "Ils se sont téléphonés.", "Ils se sont téléphonées.", "Ils sont téléphoné."],
+      "reponse": "Ils se sont téléphoné.",
+      "explication": "Le verbe « téléphoner » n’admet pas de COD, donc pas d’accord du participe passé."
+    },
+    {
+      "question": "Dans : « Les cadeaux qu’elle a reçus sont nombreux », pourquoi « reçus » prend un -s ?",
+      "options": ["Accord avec le COD « les cadeaux » placé avant", "Parce que le sujet est féminin", "Accord avec l’auxiliaire être", "Pas de raison"],
+      "reponse": "Accord avec le COD « les cadeaux » placé avant",
+      "explication": "Quand le COD est avant le verbe, on accorde le participe passé avec celui-ci."
+    },
+    {
+      "question": "Lequel de ces mots est mal orthographié ?",
+      "options": ["apparemment", "inacceptable", "interressant", "gentiment"],
+      "reponse": "interressant",
+      "explication": "Il faut écrire « intéressant » avec un seul « r » au début."
+    },
+    {
+      "question": "Le tiret est utilisé pour…",
+      "options": ["Introduire un dialogue ou une incise", "Terminer une phrase", "Créer une question", "Remplacer un adjectif"],
+      "reponse": "Introduire un dialogue ou une incise",
+      "explication": "C’est un signe courant dans le théâtre et le style narratif."
+    },
+    {
+      "question": "Dans une énumération, les virgules servent à…",
+      "options": ["Séparer les éléments", "Terminer la phrase", "Accorder les noms", "Remplacer un verbe"],
+      "reponse": "Séparer les éléments",
+      "explication": "Exemple : J’ai acheté des pommes, des bananes, des oranges."
+    },
+    {
+      "question": "Quel est l’accord correct du participe passé : « Elles se sont ___ les cheveux. »",
+      "options": ["lavé", "lavée", "lavées", "laver"],
+      "reponse": "lavé",
+      "explication": "Le COD « les cheveux » est placé après, donc pas d’accord."
+    }
+  ]
+}

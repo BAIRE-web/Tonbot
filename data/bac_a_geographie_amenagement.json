@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le principal problème environnemental lié à la déforestation au Burkina Faso ?",
+      "options": ["Érosion des sols", "Amélioration de la qualité de l’air", "Augmentation de la biodiversité", "Accroissement des espaces verts"],
+      "reponse": "Érosion des sols",
+      "explication": "La déforestation provoque la perte de couverture végétale, favorisant l’érosion des sols."
+    },
+    {
+      "question": "Quelle est la principale cause de la déforestation au Burkina Faso ?",
+      "options": ["Agriculture sur brûlis", "Reforestation massive", "Urbanisation limitée", "Activités industrielles uniquement"],
+      "reponse": "Agriculture sur brûlis",
+      "explication": "La pratique de défrichement par le feu est une cause majeure de déforestation."
+    },
+    {
+      "question": "Quel est l’impact de l’érosion sur l’agriculture ?",
+      "options": ["Réduction de la fertilité des sols", "Amélioration des rendements", "Aucune influence", "Augmentation de la production"],
+      "reponse": "Réduction de la fertilité des sols",
+      "explication": "L’érosion emporte la couche fertile, diminuant la productivité agricole."
+    },
+    {
+      "question": "Quelle est la conséquence principale de la désertification ?",
+      "options": ["Perte des terres cultivables", "Augmentation des ressources en eau", "Amélioration du climat", "Expansion des zones forestières"],
+      "reponse": "Perte des terres cultivables",
+      "explication": "La désertification transforme les terres en zones arides impropres à l’agriculture."
+    },
+    {
+      "question": "Quel est le rôle des projets d’aménagement rural ?",
+      "options": ["Prévenir l’érosion et améliorer l’irrigation", "Accroître la déforestation", "Réduire la population rurale", "Urbaniser les campagnes"],
+      "reponse": "Prévenir l’érosion et améliorer l’irrigation",
+      "explication": "Ces projets visent à protéger les sols et à optimiser l’usage de l’eau.",
+    },
+    {
+      "question": "Quel est l’impact de l’urbanisation rapide sur l’environnement ?",
+      "options": ["Pollution et gestion difficile des déchets", "Réduction de la pollution", "Meilleure gestion des ressources", "Augmentation des espaces verts"],
+      "reponse": "Pollution et gestion difficile des déchets",
+      "explication": "La croissance rapide des villes engendre souvent une mauvaise gestion environnementale.",
+    },
+    {
+      "question": "Quelle est la principale source de pollution de l’eau au Burkina Faso ?",
+      "options": ["Déchets domestiques et industriels", "Eaux pluviales propres", "Rejets agricoles", "Absence de pollution"],
+      "reponse": "Déchets domestiques et industriels",
+      "explication": "Les rejets non traités polluent les ressources en eau potable.",
+    },
+    {
+      "question": "Quel est le principal défi lié à la gestion des déchets solides ?",
+      "options": ["Manque d’infrastructures de collecte et traitement", "Excès d’infrastructures", "Absence totale de déchets", "Traitement efficace"],
+      "reponse": "Manque d’infrastructures de collecte et traitement",
+      "explication": "La gestion des déchets reste insuffisante dans de nombreuses zones urbaines.",
+    },
+    {
+      "question": "Quelle est la conséquence de la pollution de l’air en milieu urbain ?",
+      "options": ["Problèmes respiratoires et dégradation de la qualité de vie", "Amélioration de la santé", "Augmentation des espaces verts", "Réduction des maladies"],
+      "reponse": "Problèmes respiratoires et dégradation de la qualité de vie",
+      "explication": "La pollution atmosphérique affecte la santé publique.",
+    },
+    {
+      "question": "Quel est le rôle des forêts dans la protection de l’environnement ?",
+      "options": ["Préserver la biodiversité et réguler le climat", "Favoriser la désertification", "Réduire l’oxygène", "Accroître la pollution"],
+      "reponse": "Préserver la biodiversité et réguler le climat",
+      "explication": "Les forêts sont essentielles pour la stabilité écologique.",
+    },
+    {
+      "question": "Quelle est la cause principale des inondations en milieu urbain ?",
+      "options": ["Mauvaise gestion des eaux pluviales", "Trop d’espaces verts", "Absence de précipitations", "Régulation parfaite"],
+      "reponse": "Mauvaise gestion des eaux pluviales",
+      "explication": "Le manque d’infrastructures de drainage entraîne des inondations fréquentes.",
+    },
+    {
+      "question": "Quel est le principal objectif des politiques de développement durable ?",
+      "options": ["Assurer la croissance économique tout en préservant l’environnement", "Favoriser la croissance uniquement", "Ignorer l’environnement", "Réduire la population"],
+      "reponse": "Assurer la croissance économique tout en préservant l’environnement",
+      "explication": "Le développement durable vise à concilier économie, environnement et société.",
+    },
+    {
+      "question": "Quel est l’effet de la dégradation des sols sur la sécurité alimentaire ?",
+      "options": ["Réduction de la production agricole et risque d’insécurité alimentaire", "Amélioration de la production", "Aucun effet", "Augmentation des réserves alimentaires"],
+      "reponse": "Réduction de la production agricole et risque d’insécurité alimentaire",
+      "explication": "La dégradation des sols limite la capacité à produire suffisamment de nourriture.",
+    },
+    {
+      "question": "Quelle est la principale stratégie pour lutter contre la désertification ?",
+      "options": ["Reboisement et pratiques agricoles durables", "Déforestation accrue", "Urbanisation rapide", "Ignorance du problème"],
+      "reponse": "Reboisement et pratiques agricoles durables",
+      "explication": "Ces mesures aident à restaurer les sols et préserver l’environnement.",
+    },
+    {
+      "question": "Quel est l’impact des activités minières sur l’environnement ?",
+      "options": ["Pollution des sols et des eaux", "Amélioration des sols", "Absence d’impact", "Restauration automatique"],
+      "reponse": "Pollution des sols et des eaux",
+      "explication": "Les activités minières peuvent causer des dégâts environnementaux importants.",
+    },
+    {
+      "question": "Quelle est la conséquence de la mauvaise gestion des ressources en eau ?",
+      "options": ["Pénurie d’eau potable", "Surabondance d’eau", "Amélioration de la qualité de l’eau", "Aucune conséquence"],
+      "reponse": "Pénurie d’eau potable",
+      "explication": "Une gestion inadéquate peut entraîner un accès limité à l’eau potable.",
+    },
+    {
+      "question": "Quel est le rôle des zones protégées dans la conservation ?",
+      "options": ["Préserver la faune et la flore", "Favoriser l’urbanisation", "Exploiter les ressources", "Développer l’agriculture"],
+      "reponse": "Préserver la faune et la flore",
+      "explication": "Les zones protégées maintiennent la biodiversité et les écosystèmes.",
+    },
+    {
+      "question": "Quelle est la principale source d’énergie renouvelable utilisée au Burkina Faso ?",
+      "options": ["Solaire", "Éolienne", "Hydroélectrique", "Géothermique"],
+      "reponse": "Solaire",
+      "explication": "Le Burkina Faso exploite principalement l’énergie solaire.",
+    },
+    {
+      "question": "Quel est l’effet des changements climatiques sur le Burkina Faso ?",
+      "options": ["Augmentation des sécheresses et des inondations", "Climat stable", "Diminution des risques naturels", "Amélioration de l’agriculture"],
+      "reponse": "Augmentation des sécheresses et des inondations",
+      "explication": "Le changement climatique aggrave les phénomènes extrêmes.",
+    },
+    {
+      "question": "Quelle est la conséquence de la pollution plastique ?",
+      "options": ["Pollution des sols et des eaux", "Amélioration de l’environnement", "Réduction de la biodiversité", "Aucune conséquence"],
+      "reponse": "Pollution des sols et des eaux",
+      "explication": "Les déchets plastiques contaminent les écosystèmes terrestres et aquatiques.",
+    },
+    {
+      "question": "Quel est le rôle des ONG dans la gestion environnementale ?",
+      "options": ["Sensibilisation et mise en œuvre de projets durables", "Absence d’activité", "Opposition aux politiques", "Promotion de la déforestation"],
+      "reponse": "Sensibilisation et mise en œuvre de projets durables",
+      "explication": "Les ONG jouent un rôle important dans la protection de l’environnement.",
+    },
+    {
+      "question": "Quelle est la cause principale de la baisse de la biodiversité ?",
+      "options": ["Destruction des habitats naturels", "Protection accrue", "Urbanisation contrôlée", "Réintroduction d’espèces"],
+      "reponse": "Destruction des habitats naturels",
+      "explication": "La perte d’habitats réduit la diversité des espèces.",
+    },
+    {
+      "question": "Quel est le principal problème lié à l’exploitation minière artisanale ?",
+      "options": ["Pollution et risques sanitaires", "Aucun problème", "Activité réglementée", "Reboisement obligatoire"],
+      "reponse": "Pollution et risques sanitaires",
+      "explication": "Cette exploitation peut entraîner la contamination des sols et de l’eau.",
+    },
+    {
+      "question": "Quel est le rôle des barrages dans le développement ?",
+      "options": ["Gestion de l’eau pour l’irrigation et la production électrique", "Inutiles", "Aggravation des sécheresses", "Réduction de l’agriculture"],
+      "reponse": "Gestion de l’eau pour l’irrigation et la production électrique",
+      "explication": "Les barrages aident à stocker l’eau et produire de l’électricité.",
+    },
+    {
+      "question": "Quelle est la conséquence de la surexploitation des terres agricoles ?",
+      "options": ["Épuisement des sols et baisse de productivité", "Amélioration des rendements", "Aucun impact", "Augmentation de la fertilité"],
+      "reponse": "Épuisement des sols et baisse de productivité",
+      "explication": "L’utilisation excessive sans repos des sols nuit à leur fertilité.",
+    },
+    {
+      "question": "Quel est le principal défi de la gestion des ressources naturelles ?",
+      "options": ["Concilier développement économique et préservation", "Ignorer l’environnement", "Favoriser la dégradation", "Abandonner les ressources"],
+      "reponse": "Concilier développement économique et préservation",
+      "explication": "Il faut trouver un équilibre entre usage et conservation des ressources.",
+    },
+    {
+      "question": "Quelle est la principale source d’énergie non renouvelable au Burkina Faso ?",
+      "options": ["Pétrole", "Charbon", "Gaz naturel", "Uranium"],
+      "reponse": "Pétrole",
+      "explication": "Le pays dépend principalement des énergies fossiles importées.",
+    },
+    {
+      "question": "Quel est l’impact des activités agricoles sur les ressources en eau ?",
+      "options": ["Consommation importante et pollution possible", "Aucune consommation", "Amélioration de la qualité de l’eau", "Production d’eau potable"],
+      "reponse": "Consommation importante et pollution possible",
+      "explication": "L’agriculture utilise beaucoup d’eau et peut contaminer les nappes phréatiques.",
+    },
+    {
+      "question": "Quel est le principal facteur aggravant de la désertification au Burkina Faso ?",
+      "options": ["Surexploitation des terres", "Reboisement", "Urbanisation contrôlée", "Gestion durable"],
+      "reponse": "Surexploitation des terres",
+      "explication": "L’utilisation excessive des sols sans repos favorise la désertification."
+    },
+    {
+      "question": "Quelle est la conséquence des feux de brousse incontrôlés ?",
+      "options": ["Destruction de la végétation et appauvrissement des sols", "Reforestation rapide", "Aucune conséquence", "Amélioration de la fertilité"],
+      "reponse": "Destruction de la végétation et appauvrissement des sols",
+      "explication": "Les feux de brousse endommagent durablement l’écosystème."
+    },
+    {
+      "question": "Quel est le rôle des techniques agroforestières ?",
+      "options": ["Associer arbres et cultures pour préserver les sols", "Déforester davantage", "Accroître la pollution", "Favoriser l’érosion"],
+      "reponse": "Associer arbres et cultures pour préserver les sols",
+      "explication": "Ces techniques améliorent la durabilité agricole."
+    },
+    {
+      "question": "Quel est l’impact des déchets électroniques ?",
+      "options": ["Pollution chimique et risque sanitaire", "Amélioration de l’environnement", "Aucune pollution", "Recyclage parfait"],
+      "reponse": "Pollution chimique et risque sanitaire",
+      "explication": "Les déchets électroniques contiennent des substances toxiques.",
+    },
+    {
+      "question": "Quelle est la principale cause de la pollution sonore en milieu urbain ?",
+      "options": ["Circulation automobile et activités industrielles", "Silence total", "Réduction du trafic", "Absence de construction"],
+      "reponse": "Circulation automobile et activités industrielles",
+      "explication": "Le bruit généré par le trafic et l’industrie affecte la qualité de vie.",
+    },
+    {
+      "question": "Quel est le rôle des énergies renouvelables dans le développement durable ?",
+      "options": ["Réduire la pollution et préserver les ressources", "Accroître la dépendance aux fossiles", "Augmenter la pollution", "Diminuer la production énergétique"],
+      "reponse": "Réduire la pollution et préserver les ressources",
+      "explication": "Les énergies renouvelables sont essentielles pour un avenir durable.",
+    },
+    {
+      "question": "Quelle est la principale conséquence de l’exploitation non contrôlée des ressources naturelles ?",
+      "options": ["Dégradation de l’environnement et épuisement des ressources", "Régénération rapide", "Croissance durable", "Absence d’impact"],
+      "reponse": "Dégradation de l’environnement et épuisement des ressources",
+      "explication": "Une mauvaise gestion entraîne des impacts négatifs à long terme.",
+    },
+    {
+      "question": "Quel est le principal effet des changements d’usage des terres ?",
+      "options": ["Perte de biodiversité et dégradation des habitats", "Amélioration de la biodiversité", "Stabilité écologique", "Augmentation des zones forestières"],
+      "reponse": "Perte de biodiversité et dégradation des habitats",
+      "explication": "La conversion des terres affecte négativement les écosystèmes.",
+    },
+    {
+      "question": "Quelle est la principale ressource en eau utilisée pour l’irrigation ?",
+      "options": ["Eaux de surface et nappes phréatiques", "Eaux de pluie uniquement", "Eaux usées", "Eaux salées"],
+      "reponse": "Eaux de surface et nappes phréatiques",
+      "explication": "Ces ressources sont utilisées pour irriguer les cultures.",
+    },
+    {
+      "question": "Quel est le rôle des politiques environnementales nationales ?",
+      "options": ["Protéger les ressources naturelles et promouvoir le développement durable", "Ignorer l’environnement", "Favoriser la pollution", "Réduire la croissance économique"],
+      "reponse": "Protéger les ressources naturelles et promouvoir le développement durable",
+      "explication": "Les politiques visent à assurer un équilibre entre développement et protection.",
+    },
+    {
+      "question": "Quelle est la conséquence de l’urbanisation sur les ressources en eau ?",
+      "options": ["Pollution et surexploitation", "Amélioration de la qualité de l’eau", "Absence d’impact", "Augmentation naturelle des ressources"],
+      "reponse": "Pollution et surexploitation",
+      "explication": "L’urbanisation rapide met sous pression les ressources hydriques.",
+    },
+    {
+      "question": "Quel est l’impact des infrastructures routières sur l’environnement ?",
+      "options": ["Fragmentation des habitats et pollution", "Aucune influence", "Amélioration écologique", "Réduction de la pollution"],
+      "reponse": "Fragmentation des habitats et pollution",
+      "explication": "Les routes peuvent perturber les écosystèmes naturels.",
+    },
+    {
+      "question": "Quelle est la principale technique pour limiter l’érosion ?",
+      "options": ["Terrassement et couverture végétale", "Déforestation", "Surpâturage", "Ignorance des sols"],
+      "reponse": "Terrassement et couverture végétale",
+      "explication": "Ces techniques protègent les sols de l’érosion hydrique et éolienne.",
+    },
+    {
+      "question": "Quel est le rôle des campagnes de sensibilisation environnementale ?",
+      "options": ["Informer et mobiliser la population pour protéger l’environnement", "Ignorer le public", "Favoriser la pollution", "Réduire l’éducation"],
+      "reponse": "Informer et mobiliser la population pour protéger l’environnement",
+      "explication": "La sensibilisation est clé pour changer les comportements.",
+    },
+    {
+      "question": "Quel est l’impact de la pollution agricole ?",
+      "options": ["Contamination des sols et des eaux par les pesticides", "Amélioration des sols", "Réduction de la production", "Aucune conséquence"],
+      "reponse": "Contamination des sols et des eaux par les pesticides",
+      "explication": "Les produits chimiques agricoles peuvent polluer l’environnement.",
+    },
+    {
+      "question": "Quelle est la principale cause de la perte des terres arables ?",
+      "options": ["Dégradation des sols et urbanisation", "Reforestation", "Agriculture durable", "Protection des sols"],
+      "reponse": "Dégradation des sols et urbanisation",
+      "explication": "L’extension urbaine et la dégradation réduisent les terres cultivables.",
+    },
+    {
+      "question": "Quel est le rôle des technologies vertes ?",
+      "options": ["Réduire l’impact environnemental des activités humaines", "Augmenter la pollution", "Ignorer l’environnement", "Favoriser l’épuisement des ressources"],
+      "reponse": "Réduire l’impact environnemental des activités humaines",
+      "explication": "Ces technologies permettent un développement plus respectueux de l’environnement.",
+    },
+    {
+      "question": "Quelle est la conséquence de la surexploitation des nappes phréatiques ?",
+      "options": ["Baisse du niveau et salinisation", "Rechargement rapide", "Amélioration de la qualité de l’eau", "Absence d’impact"],
+      "reponse": "Baisse du niveau et salinisation",
+      "explication": "Une exploitation excessive détériore la ressource en eau.",
+    },
+    {
+      "question": "Quel est le rôle des formations agricoles durables ?",
+      "options": ["Promouvoir des pratiques respectueuses de l’environnement", "Ignorer l’écologie", "Favoriser l’exploitation intensive", "Limiter l’éducation"],
+      "reponse": "Promouvoir des pratiques respectueuses de l’environnement",
+      "explication": "Ces formations sensibilisent aux méthodes agricoles durables.",
+    },
+    {
+      "question": "Quelle est la principale menace pour les zones humides ?",
+      "options": ["Drainage et pollution", "Protection accrue", "Extension naturelle", "Réintroduction d’espèces"],
+      "reponse": "Drainage et pollution",
+      "explication": "Les zones humides sont souvent menacées par les activités humaines.",
+    }
+  ]
+}

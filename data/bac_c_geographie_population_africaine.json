@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la caractéristique principale de la croissance démographique en Afrique ?",
+      "options": ["Taux de natalité élevé", "Taux de mortalité très faible", "Croissance stable", "Déclin démographique"],
+      "reponse": "Taux de natalité élevé",
+      "explication": "L'Afrique connaît un taux de natalité très élevé qui entraîne une croissance rapide de la population."
+    },
+    {
+      "question": "Quel est l’impact principal de l’urbanisation rapide en Afrique ?",
+      "options": ["Apparition de bidonvilles", "Développement équilibré des villes", "Réduction de la pauvreté", "Amélioration des infrastructures"],
+      "reponse": "Apparition de bidonvilles",
+      "explication": "La croissance urbaine rapide entraîne souvent un développement informel et précaire des habitats."
+    },
+    {
+      "question": "Quelle est la cause principale du fort taux de mortalité infantile en Afrique ?",
+      "options": ["Accès limité aux soins médicaux", "Alimentation équilibrée", "Bonne hygiène", "Vacances régulières"],
+      "reponse": "Accès limité aux soins médicaux",
+      "explication": "Le manque d'accès aux soins, aux vaccins et à une bonne nutrition contribue à la mortalité infantile élevée."
+    },
+    {
+      "question": "Quel est l’effet de la migration rurale-urbaine sur les zones rurales ?",
+      "options": ["Dépeuplement et réduction de la main-d’œuvre agricole", "Croissance rapide des villages", "Développement économique", "Amélioration des infrastructures rurales"],
+      "reponse": "Dépeuplement et réduction de la main-d’œuvre agricole",
+      "explication": "Le départ des jeunes vers la ville affecte la production rurale."
+    },
+    {
+      "question": "Quelle est la principale cause de la pauvreté en Afrique ?",
+      "options": ["Chômage et sous-développement économique", "Ressources abondantes", "Éducation généralisée", "Infrastructures solides"],
+      "reponse": "Chômage et sous-développement économique",
+      "explication": "Le manque d’emplois et le faible développement économique sont des causes majeures de la pauvreté."
+    },
+    {
+      "question": "Quelle est la particularité de la structure par âge en Afrique ?",
+      "options": ["Population très jeune", "Population vieillissante", "Population stable", "Population décroissante"],
+      "reponse": "Population très jeune",
+      "explication": "Une grande partie de la population africaine a moins de 15 ans."
+    },
+    {
+      "question": "Quel est l’impact de l’éducation sur le développement social ?",
+      "options": ["Réduction de la pauvreté et amélioration des conditions de vie", "Aucune influence", "Accroissement des inégalités", "Augmentation du chômage"],
+      "reponse": "Réduction de la pauvreté et amélioration des conditions de vie",
+      "explication": "L’éducation favorise l’autonomie et le développement économique."
+    },
+    {
+      "question": "Quel problème social majeur est lié à l’accès à l’eau potable ?",
+      "options": ["Maladies hydriques", "Abondance d’eau saine", "Réduction des épidémies", "Bonne santé générale"],
+      "reponse": "Maladies hydriques",
+      "explication": "Le manque d’eau potable provoque des maladies comme le choléra et la diarrhée."
+    },
+    {
+      "question": "Quelle est la cause principale de la malnutrition en Afrique ?",
+      "options": ["Pauvreté et insécurité alimentaire", "Abondance alimentaire", "Distribution équitable", "Agriculture intensive"],
+      "reponse": "Pauvreté et insécurité alimentaire",
+      "explication": "L’accès insuffisant à une alimentation équilibrée provoque la malnutrition."
+    },
+    {
+      "question": "Quel est le principal facteur de propagation des maladies infectieuses ?",
+      "options": ["Manque d’hygiène et infrastructures sanitaires insuffisantes", "Accès aux soins modernes", "Bonne hygiène", "Vaccination généralisée"],
+      "reponse": "Manque d’hygiène et infrastructures sanitaires insuffisantes",
+      "explication": "Les conditions sanitaires précaires favorisent les épidémies."
+    },
+    {
+      "question": "Quelle est la conséquence sociale de la forte croissance urbaine ?",
+      "options": ["Pression sur les infrastructures et services publics", "Amélioration des services", "Réduction de la pauvreté", "Diminution des bidonvilles"],
+      "reponse": "Pression sur les infrastructures et services publics",
+      "explication": "Les villes ne parviennent souvent pas à suivre la demande croissante."
+    },
+    {
+      "question": "Quel est le rôle des femmes dans la société africaine ?",
+      "options": ["Participation active à l’agriculture et à l’économie", "Absence totale", "Exclusion complète", "Simple rôle domestique"],
+      "reponse": "Participation active à l’agriculture et à l’économie",
+      "explication": "Les femmes contribuent largement aux activités économiques et sociales."
+    },
+    {
+      "question": "Quel est l’impact des conflits armés sur la société ?",
+      "options": ["Déplacement de populations et crises humanitaires", "Paix durable", "Développement économique", "Stabilité sociale"],
+      "reponse": "Déplacement de populations et crises humanitaires",
+      "explication": "Les guerres provoquent exils, pauvreté et instabilité sociale."
+    },
+    {
+      "question": "Quelle est la principale cause de l’exode rural en Afrique ?",
+      "options": ["Recherche d’emplois et meilleures conditions de vie en ville", "Amélioration des conditions rurales", "Stabilité économique rurale", "Développement agricole"],
+      "reponse": "Recherche d’emplois et meilleures conditions de vie en ville",
+      "explication": "Les populations quittent les campagnes pour chercher des opportunités en ville."
+    },
+    {
+      "question": "Quel est le taux d’alphabétisation moyen en Afrique subsaharienne ?",
+      "options": ["Environ 65%", "95%", "30%", "80%"],
+      "reponse": "Environ 65%",
+      "explication": "Le taux d’alphabétisation reste faible comparé aux autres régions du monde."
+    },
+    {
+      "question": "Quel est l’impact des programmes de vaccination ?",
+      "options": ["Réduction significative des maladies infectieuses", "Augmentation des maladies", "Aucun impact", "Ralentissement du développement"],
+      "reponse": "Réduction significative des maladies infectieuses",
+      "explication": "Les campagnes de vaccination sauvent des millions de vies."
+    },
+    {
+      "question": "Quelle est la principale cause des problèmes liés à l’emploi en Afrique ?",
+      "options": ["Croissance démographique rapide dépassant la création d’emplois", "Surabondance d’emplois", "Stabilité de l’emploi", "Faible population active"],
+      "reponse": "Croissance démographique rapide dépassant la création d’emplois",
+      "explication": "Le marché du travail peine à absorber tous les jeunes entrants.",
+    },
+    {
+      "question": "Quelle est la fonction des ONG dans le domaine social ?",
+      "options": ["Soutenir le développement et l’aide humanitaire", "Ignorer les problèmes sociaux", "Aggraver les conflits", "Limiter l’éducation"],
+      "reponse": "Soutenir le développement et l’aide humanitaire",
+      "explication": "Les ONG interviennent pour améliorer les conditions de vie.",
+    },
+    {
+      "question": "Quelle est la principale cause du travail des enfants en Afrique ?",
+      "options": ["Pauvreté et manque d’accès à l’éducation", "Abondance de loisirs", "Éducation gratuite", "Conditions de travail idéales"],
+      "reponse": "Pauvreté et manque d’accès à l’éducation",
+      "explication": "Les familles pauvres font travailler leurs enfants faute d’alternatives.",
+    },
+    {
+      "question": "Quel est l’impact de la croissance démographique sur l’éducation ?",
+      "options": ["Surcharge des écoles et manque de ressources", "Amélioration des infrastructures", "Réduction des effectifs", "Qualité accrue de l’enseignement"],
+      "reponse": "Surcharge des écoles et manque de ressources",
+      "explication": "La demande dépasse souvent les capacités éducatives.",
+    },
+    {
+      "question": "Quelle est la principale conséquence du manque d’accès à la santé ?",
+      "options": ["Taux de mortalité élevé et propagation des maladies", "Meilleure santé", "Réduction des maladies", "Soins universels"],
+      "reponse": "Taux de mortalité élevé et propagation des maladies",
+      "explication": "L’absence de soins adéquats aggrave la situation sanitaire.",
+    },
+    {
+      "question": "Quelle est la principale cause des conflits ethniques ?",
+      "options": ["Compétition pour les ressources et pouvoir politique", "Harmonie parfaite", "Partage équitable", "Absence de tensions"],
+      "reponse": "Compétition pour les ressources et pouvoir politique",
+      "explication": "Les tensions autour des ressources et du pouvoir favorisent les conflits.",
+    },
+    {
+      "question": "Quelle est la particularité de la pyramide des âges africaine ?",
+      "options": ["Large base indiquant une population jeune", "Forme inversée", "Base étroite", "Population vieillissante"],
+      "reponse": "Large base indiquant une population jeune",
+      "explication": "La majorité de la population est composée d’enfants et de jeunes.",
+    },
+    {
+      "question": "Quel est le rôle des migrations internationales ?",
+      "options": ["Recherche d’opportunités économiques et sociales", "Aucune influence", "Isolement des populations", "Déclin économique"],
+      "reponse": "Recherche d’opportunités économiques et sociales",
+      "explication": "Les migrations sont souvent motivées par l’emploi et la sécurité.",
+    },
+    {
+      "question": "Quel est le principal défi lié à la santé maternelle ?",
+      "options": ["Accès insuffisant aux soins prénatals et obstétricaux", "Soins maternels universels", "Absence de complications", "Soutien social total"],
+      "reponse": "Accès insuffisant aux soins prénatals et obstétricaux",
+      "explication": "Le manque de soins appropriés cause de nombreuses morts maternelles.",
+    },
+    {
+      "question": "Quel est l’impact du VIH/SIDA en Afrique ?",
+      "options": ["Forte mortalité et impact social important", "Éradication complète", "Absence de cas", "Amélioration de la santé"],
+      "reponse": "Forte mortalité et impact social important",
+      "explication": "Le VIH/SIDA reste un problème majeur de santé publique.",
+    },
+    {
+      "question": "Quelle est la principale cause des violences urbaines ?",
+      "options": ["Chômage et exclusion sociale", "Paix sociale", "Stabilité politique", "Croissance économique"],
+      "reponse": "Chômage et exclusion sociale",
+      "explication": "Les tensions sociales dans les villes sont liées à l’absence d’emploi.",
+    },
+    {
+      "question": "Quelle est la principale caractéristique des sociétés africaines traditionnelles ?",
+      "options": ["Organisation communautaire et solidarité", "Individualisme total", "Absence de règles sociales", "Technologie avancée"],
+      "reponse": "Organisation communautaire et solidarité",
+      "explication": "Les sociétés traditionnelles valorisent les liens sociaux et l’entraide.",
+    },
+    {
+      "question": "Quel est le rôle des politiques publiques dans le développement social ?",
+      "options": ["Améliorer l’éducation, la santé et les infrastructures", "Ignorer les besoins", "Aggraver la pauvreté", "Favoriser les inégalités"],
+      "reponse": "Améliorer l’éducation, la santé et les infrastructures",
+      "explication": "Les politiques publiques peuvent favoriser un développement équitable.",
+    },
+    {
+      "question": "Quel est l’indicateur qui mesure le nombre moyen d’enfants par femme ?",
+      "options": ["Taux de fécondité", "Taux de mortalité", "Espérance de vie", "Taux d’alphabétisation"],
+      "reponse": "Taux de fécondité",
+      "explication": "Le taux de fécondité indique le nombre moyen d’enfants qu’une femme est susceptible d’avoir."
+    },
+    {
+      "question": "Quelles sont les conséquences de l’exode rural sur les villes africaines ?",
+      "options": ["Surpopulation et insuffisance des services", "Diminution de la population urbaine", "Développement rural", "Stabilisation économique"],
+      "reponse": "Surpopulation et insuffisance des services",
+      "explication": "Les villes peinent souvent à absorber l’afflux massif des populations rurales."
+    },
+    {
+      "question": "Quelle est la principale cause du chômage des jeunes en Afrique ?",
+      "options": ["Manque de formation adaptée et emplois", "Surabondance d’emplois", "Surcharge des écoles", "Pauvreté rare"],
+      "reponse": "Manque de formation adaptée et emplois",
+      "explication": "Le décalage entre formation et marché du travail crée du chômage.",
+    },
+    {
+      "question": "Quelle est la fonction principale des mutuelles de santé en Afrique ?",
+      "options": ["Faciliter l’accès aux soins pour les populations pauvres", "Augmenter les coûts médicaux", "Réduire les soins disponibles", "Promouvoir les médicaments traditionnels"],
+      "reponse": "Faciliter l’accès aux soins pour les populations pauvres",
+      "explication": "Ces mutuelles permettent une meilleure couverture médicale.",
+    },
+    {
+      "question": "Quel est l’impact de l’éducation des filles sur la société ?",
+      "options": ["Réduction de la fécondité et amélioration des conditions", "Aucune influence", "Augmentation de la pauvreté", "Diminution des droits des femmes"],
+      "reponse": "Réduction de la fécondité et amélioration des conditions",
+      "explication": "L’éducation des filles favorise le développement social et économique.",
+    },
+    {
+      "question": "Quel est le principal facteur contribuant à l’insécurité alimentaire ?",
+      "options": ["Changements climatiques et conflits armés", "Abondance de nourriture", "Répartition équitable", "Développement agricole constant"],
+      "reponse": "Changements climatiques et conflits armés",
+      "explication": "Ces facteurs perturbent la production et la distribution alimentaires.",
+    },
+    {
+      "question": "Quelle est la principale cause du faible accès à l’eau potable en milieu rural ?",
+      "options": ["Manque d’infrastructures et financement insuffisant", "Abondance d’eau saine", "Gestion efficace", "Technologies avancées"],
+      "reponse": "Manque d’infrastructures et financement insuffisant",
+      "explication": "Les zones rurales sont souvent isolées et sous-équipées.",
+    },
+    {
+      "question": "Quelle est la fonction des centres de santé communautaires ?",
+      "options": ["Offrir des soins de base et sensibilisation", "Soins spécialisés uniquement", "Aucun rôle", "Seuls centres urbains"],
+      "reponse": "Offrir des soins de base et sensibilisation",
+      "explication": "Ils assurent un premier niveau de soins proche des populations.",
+    },
+    {
+      "question": "Quel est l’effet de la pauvreté sur l’éducation ?",
+      "options": ["Abandon scolaire et faibles résultats", "Amélioration des performances", "Éducation gratuite universelle", "Soutien scolaire accru"],
+      "reponse": "Abandon scolaire et faibles résultats",
+      "explication": "Les enfants pauvres ont souvent moins accès à l’éducation.",
+    },
+    {
+      "question": "Quelles sont les principales causes de la mortalité maternelle ?",
+      "options": ["Manque de soins prénatals et accouchements non assistés", "Soins modernes universels", "Absence de complications", "Soutien familial total"],
+      "reponse": "Manque de soins prénatals et accouchements non assistés",
+      "explication": "Cela entraîne des risques graves pour la mère et l’enfant.",
+    },
+    {
+      "question": "Quel est le principal défi lié à la protection de l’enfance ?",
+      "options": ["Lutte contre le travail des enfants et abus", "Aucun problème", "Surveillance parfaite", "Protection assurée"],
+      "reponse": "Lutte contre le travail des enfants et abus",
+      "explication": "Beaucoup d’enfants sont exposés à des conditions difficiles.",
+    },
+    {
+      "question": "Quel est le rôle de l’ONU dans les problèmes sociaux africains ?",
+      "options": ["Appui au développement et à la paix", "Ignorer les crises", "Aggraver les conflits", "Limiter l’éducation"],
+      "reponse": "Appui au développement et à la paix",
+      "explication": "L’ONU intervient dans la résolution des conflits et le développement.",
+    },
+    {
+      "question": "Quelle est la conséquence des inégalités d’accès aux soins ?",
+      "options": ["Augmentation des disparités sanitaires", "Accès égalitaire", "Réduction des maladies", "Meilleure santé générale"],
+      "reponse": "Augmentation des disparités sanitaires",
+      "explication": "Les populations pauvres ont souvent un accès limité aux soins.",
+    },
+    {
+      "question": "Quel est l’impact des ONG sur l’accès à l’éducation ?",
+      "options": ["Amélioration de la scolarisation et des infrastructures", "Aucune influence", "Réduction de l’accès", "Aggravation des inégalités"],
+      "reponse": "Amélioration de la scolarisation et des infrastructures",
+      "explication": "Les ONG contribuent au financement et à la gestion d’écoles.",
+    },
+    {
+      "question": "Quelle est la principale difficulté liée à la gestion des déchets urbains ?",
+      "options": ["Absence d’infrastructures adéquates", "Gestion efficace", "Recyclage complet", "Zones propres"],
+      "reponse": "Absence d’infrastructures adéquates",
+      "explication": "Le manque de moyens provoque des problèmes d’hygiène et pollution.",
+    },
+    {
+      "question": "Quel est le principal facteur d’exclusion sociale ?",
+      "options": ["Pauvreté et discrimination", "Inclusion totale", "Égalité parfaite", "Accès universel"],
+      "reponse": "Pauvreté et discrimination",
+      "explication": "Les groupes marginalisés souffrent d’un accès limité aux services.",
+    },
+    {
+      "question": "Quelle est la principale cause des épidémies dans certaines régions ?",
+      "options": ["Manque d’eau potable et d’hygiène", "Bonne gestion sanitaire", "Vaccination universelle", "Infrastructure moderne"],
+      "reponse": "Manque d’eau potable et d’hygiène",
+      "explication": "Les conditions insalubres favorisent la propagation des maladies.",
+    },
+    {
+      "question": "Quel est le rôle des migrations internes ?",
+      "options": ["Recherche de meilleures conditions de vie et emploi", "Isolement des populations", "Déclin économique", "Stabilité sociale"],
+      "reponse": "Recherche de meilleures conditions de vie et emploi",
+      "explication": "Les migrations internes modifient la répartition de la population.",
+    },
+    {
+      "question": "Quelle est la principale cause du manque d’infrastructures scolaires ?",
+      "options": ["Faible financement et gouvernance déficiente", "Abondance d’infrastructures", "Gestion efficace", "Soutien international"],
+      "reponse": "Faible financement et gouvernance déficiente",
+      "explication": "Les ressources limitées entravent la construction d’écoles.",
+    },
+    {
+      "question": "Quel est l’effet de la croissance démographique sur l’environnement ?",
+      "options": ["Surexploitation des ressources naturelles", "Restauration écologique", "Réduction de la population", "Conservation automatique"],
+      "reponse": "Surexploitation des ressources naturelles",
+      "explication": "La pression humaine provoque la dégradation des milieux naturels.",
+    }
+  ]
+}

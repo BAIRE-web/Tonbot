@@ -1,0 +1,172 @@
+{
+  "qcm": [
+    {
+      "question": "Quel type de poésie exprime principalement les sentiments personnels ?",
+      "options": ["Poésie lyrique", "Poésie engagée", "Poésie satirique", "Poésie descriptive"],
+      "reponse": "Poésie lyrique",
+      "explication": "La poésie lyrique met en avant l’expression des émotions et sentiments intimes."
+    },
+    {
+      "question": "Qu’est-ce qu’une métaphore ?",
+      "options": ["Une comparaison sans outil comparatif", "Une comparaison avec 'comme'", "Une exagération", "Une opposition"],
+      "reponse": "Une comparaison sans outil comparatif",
+      "explication": "La métaphore établit un lien direct entre deux éléments sans mot de comparaison."
+    },
+    {
+      "question": "Qu’est-ce que l’allitération ?",
+      "options": ["La répétition de consonnes", "La répétition de voyelles", "Une figure d’opposition", "Une exagération volontaire"],
+      "reponse": "La répétition de consonnes",
+      "explication": "L’allitération crée un effet sonore par la répétition de sons consonantiques."
+    },
+    {
+      "question": "Quelle poésie vise à critiquer ou dénoncer ?",
+      "options": ["Poésie engagée", "Poésie lyrique", "Poésie descriptive", "Poésie humoristique"],
+      "reponse": "Poésie engagée",
+      "explication": "La poésie engagée a pour but de transmettre un message politique ou social."
+    },
+    {
+      "question": "Qu’est-ce que la versification ?",
+      "options": ["L’étude des règles du vers et de la métrique", "La description d’un paysage", "Le rythme d’un poème en prose", "Une figure de style"],
+      "reponse": "L’étude des règles du vers et de la métrique",
+      "explication": "La versification analyse la structure des vers et leur organisation."
+    },
+    {
+      "question": "Qu’est-ce que la métonymie ?",
+      "options": ["Désigner une chose par un terme proche", "Une comparaison directe", "Une exagération", "Une répétition"],
+      "reponse": "Désigner une chose par un terme proche",
+      "explication": "La métonymie remplace un mot par un autre lié par un rapport logique (ex. la couronne pour le roi)."
+    },
+    {
+      "question": "Quel élément poétique concerne les sonorités répétées dans un poème ?",
+      "options": ["Assonance", "Métaphore", "Hyperbole", "Allitération"],
+      "reponse": "Allitération",
+      "explication": "L’allitération est la répétition de consonnes pour créer un effet sonore."
+    },
+    {
+      "question": "Qu’est-ce que le rythme en poésie ?",
+      "options": ["L’alternance des sons forts et faibles", "La longueur des vers uniquement", "La répétition des mots", "La structure en strophes"],
+      "reponse": "L’alternance des sons forts et faibles",
+      "explication": "Le rythme donne le mouvement musical du poème."
+    },
+    {
+      "question": "Quelle figure de style est une exagération volontaire ?",
+      "options": ["Hyperbole", "Métaphore", "Allitération", "Métonymie"],
+      "reponse": "Hyperbole",
+      "explication": "L’hyperbole amplifie une idée pour marquer les esprits."
+    },
+    {
+      "question": "Quel type de poésie décrit des paysages ou scènes naturelles ?",
+      "options": ["Poésie descriptive", "Poésie lyrique", "Poésie engagée", "Poésie satirique"],
+      "reponse": "Poésie descriptive",
+      "explication": "Elle se concentre sur la description d’éléments concrets et visuels."
+    },
+    {
+      "question": "Qu’est-ce que l’assonance ?",
+      "options": ["La répétition de voyelles", "La répétition de consonnes", "Une figure d’opposition", "Une exagération"],
+      "reponse": "La répétition de voyelles",
+      "explication": "L’assonance crée une harmonie sonore par la répétition de sons vocaliques."
+    },
+    {
+      "question": "Quelle est la fonction principale du sonnet ?",
+      "options": ["Poème court en 14 vers avec structure fixe", "Poème sans règles", "Poème dramatique", "Poème en prose"],
+      "reponse": "Poème court en 14 vers avec structure fixe",
+      "explication": "Le sonnet respecte des règles précises de rimes et strophes."
+    },
+    {
+      "question": "Quelle est la particularité d’un poème satirique ?",
+      "options": ["Critique humoristique des travers humains", "Expression des sentiments personnels", "Description de la nature", "Message politique direct"],
+      "reponse": "Critique humoristique des travers humains",
+      "explication": "La satire tourne en dérision pour dénoncer des défauts."
+    },
+    {
+      "question": "Qu’est-ce qu’un alexandrin ?",
+      "options": ["Vers de 12 syllabes", "Vers de 10 syllabes", "Strophe de 4 vers", "Poème de 14 vers"],
+      "reponse": "Vers de 12 syllabes",
+      "explication": "L’alexandrin est le vers classique de la poésie française."
+    },
+    {
+      "question": "Quelle figure de style consiste à rapprocher deux mots opposés ?",
+      "options": ["Antithèse", "Métaphore", "Hyperbole", "Allitération"],
+      "reponse": "Antithèse",
+      "explication": "L’antithèse met en valeur un contraste fort entre deux idées."
+    },
+    {
+      "question": "Qu’est-ce que la strophe ?",
+      "options": ["Un groupe de vers formant un paragraphe poétique", "Une seule ligne de vers", "Une figure de style", "Un son répété"],
+      "reponse": "Un groupe de vers formant un paragraphe poétique",
+      "explication": "La strophe structure le poème en parties distinctes."
+    },
+    {
+      "question": "Quelle est la fonction du rythme dans un poème ?",
+      "options": ["Créer une musicalité et un mouvement", "Décrire les personnages", "Expliquer le sens", "Structurer le texte"],
+      "reponse": "Créer une musicalité et un mouvement",
+      "explication": "Le rythme donne vie au poème par ses variations sonores."
+    },
+    {
+      "question": "Qu’est-ce que la personnification ?",
+      "options": ["Attribuer des qualités humaines à un objet ou animal", "Exagérer une idée", "Comparer deux éléments", "Répéter un son"],
+      "reponse": "Attribuer des qualités humaines à un objet ou animal",
+      "explication": "Cette figure donne vie et émotions à ce qui est inanimé."
+    },
+    {
+      "question": "Quelle est la différence entre la poésie lyrique et engagée ?",
+      "options": ["La lyrique exprime les émotions, la engagée milite pour une cause", "Les deux sont identiques", "La lyrique est narrative", "La engagée est humoristique"],
+      "reponse": "La lyrique exprime les émotions, la engagée milite pour une cause",
+      "explication": "Chaque type a un but et un ton différent."
+    },
+    {
+      "question": "Quel est le rôle de la rime dans un poème ?",
+      "options": ["Créer une harmonie sonore entre les vers", "Raconter l’histoire", "Donner un rythme régulier", "Décrire les sentiments"],
+      "reponse": "Créer une harmonie sonore entre les vers",
+      "explication": "Les rimes structurent le poème et plaisent à l’oreille."
+    },
+    {
+      "question": "Qu’est-ce qu’une allégorie ?",
+      "options": ["Représentation concrète d’une idée abstraite", "Une exagération", "Une répétition", "Une comparaison"],
+      "reponse": "Représentation concrète d’une idée abstraite",
+      "explication": "L’allégorie illustre un concept par une image ou un personnage."
+    },
+    {
+      "question": "Quelle figure de style est un rapprochement explicite avec 'comme' ?",
+      "options": ["Comparaison", "Métaphore", "Métonymie", "Antithèse"],
+      "reponse": "Comparaison",
+      "explication": "La comparaison utilise un outil pour rapprocher deux éléments."
+    },
+    {
+      "question": "Quelle fonction a la poésie descriptive ?",
+      "options": ["Décrire des scènes, paysages ou objets", "Exprimer des sentiments", "Dénoncer une injustice", "Faire rire"],
+      "reponse": "Décrire des scènes, paysages ou objets",
+      "explication": "Elle vise à peindre avec des mots une image précise."
+    },
+    {
+      "question": "Qu’est-ce qu’un vers libre ?",
+      "options": ["Vers sans règles fixes de métrique ni de rimes", "Vers avec rimes croisées", "Vers rimés en couplets", "Vers rimés en sonnets"],
+      "reponse": "Vers sans règles fixes de métrique ni de rimes",
+      "explication": "Le vers libre laisse une grande liberté à l’auteur."
+    },
+    {
+      "question": "Qu’est-ce que l’enjambement ?",
+      "options": ["Continuation d’une phrase d’un vers au suivant", "Répétition d’un mot", "Fin d’un poème", "Rime riche"],
+      "reponse": "Continuation d’une phrase d’un vers au suivant",
+      "explication": "L’enjambement crée un effet de fluidité dans le poème."
+    },
+    {
+      "question": "Quelle figure de style crée une opposition entre deux mots dans une même phrase ?",
+      "options": ["Oxymore", "Hyperbole", "Comparaison", "Métonymie"],
+      "reponse": "Oxymore",
+      "explication": "L’oxymore rapproche deux termes contradictoires pour un effet frappant."
+    },
+    {
+      "question": "Qu’est-ce que la césure en poésie ?",
+      "options": ["Pause à l’intérieur d’un vers", "Début d’un poème", "Fin d’un vers", "Un type de rime"],
+      "reponse": "Pause à l’intérieur d’un vers",
+      "explication": "La césure segmente le vers pour rythmer la lecture."
+    },
+    {
+      "question": "Quel est le but principal de la poésie engagée ?",
+      "options": ["Faire passer un message politique ou social", "Raconter une histoire", "Décrire la nature", "Exprimer des émotions personnelles"],
+      "reponse": "Faire passer un message politique ou social",
+      "explication": "Elle cherche à influencer et mobiliser le lecteur."
+    }
+  ]
+}

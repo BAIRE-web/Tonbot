@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la population approximative du Burkina Faso ?",
+      "options": ["Plus de 20 millions", "Moins de 5 millions", "Environ 10 millions", "Plus de 50 millions"],
+      "reponse": "Plus de 20 millions",
+      "explication": "Le Burkina Faso compte aujourd’hui plus de 20 millions d’habitants."
+    },
+    {
+      "question": "Quel est le taux de croissance démographique au Burkina Faso ?",
+      "options": ["Élevé, autour de 3 % par an", "Nul", "Négatif", "Inférieur à 1 %"],
+      "reponse": "Élevé, autour de 3 % par an",
+      "explication": "Le pays connaît une croissance démographique rapide."
+    },
+    {
+      "question": "Quelle est la principale caractéristique de la pyramide des âges au Burkina Faso ?",
+      "options": ["Population jeune majoritaire", "Population vieillissante", "Population équilibrée", "Population majoritairement âgée"],
+      "reponse": "Population jeune majoritaire",
+      "explication": "La majorité des Burkinabè ont moins de 25 ans."
+    },
+    {
+      "question": "Quelle est la capitale la plus peuplée du Burkina Faso ?",
+      "options": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Banfora"],
+      "reponse": "Ouagadougou",
+      "explication": "Ouagadougou est la capitale et la plus grande ville du pays."
+    },
+    {
+      "question": "Quel est le phénomène principal caractérisant l’urbanisation au Burkina Faso ?",
+      "options": ["Croissance rapide des villes", "Déclin des villes", "Urbanisation stagnante", "Ruralisation croissante"],
+      "reponse": "Croissance rapide des villes",
+      "explication": "Les villes connaissent un développement rapide, souvent informel."
+    },
+    {
+      "question": "Quelle est la part approximative de la population urbaine au Burkina Faso ?",
+      "options": ["Environ 30 %", "Plus de 90 %", "Moins de 5 %", "Environ 70 %"],
+      "reponse": "Environ 30 %",
+      "explication": "Le pays reste majoritairement rural, mais la population urbaine augmente."
+    },
+    {
+      "question": "Quel est le principal défi lié à l’urbanisation au Burkina Faso ?",
+      "options": ["Insuffisance des infrastructures et logements", "Surabondance d’équipements", "Faible densité de population", "Excès de zones industrielles"],
+      "reponse": "Insuffisance des infrastructures et logements",
+      "explication": "La croissance rapide cause des problèmes d’habitat et de services publics."
+    },
+    {
+      "question": "Quel est le taux de fécondité au Burkina Faso ?",
+      "options": ["Élevé, autour de 5 enfants par femme", "Très faible", "Nul", "Un enfant par femme"],
+      "reponse": "Élevé, autour de 5 enfants par femme",
+      "explication": "Le taux de fécondité reste élevé, contribuant à la croissance démographique."
+    },
+    {
+      "question": "Quel est l’âge médian de la population burkinabè ?",
+      "options": ["Moins de 20 ans", "Plus de 50 ans", "Environ 40 ans", "Environ 30 ans"],
+      "reponse": "Moins de 20 ans",
+      "explication": "La population est très jeune avec un âge médian faible."
+    },
+    {
+      "question": "Quel phénomène social accompagne souvent l’urbanisation ?",
+      "options": ["Migration rurale vers les villes", "Retour massif à la campagne", "Déclin démographique", "Augmentation des zones désertiques"],
+      "reponse": "Migration rurale vers les villes",
+      "explication": "De nombreux habitants quittent les campagnes pour les villes en quête d’opportunités."
+    },
+    {
+      "question": "Quelle est la langue officielle du Burkina Faso ?",
+      "options": ["Français", "Anglais", "Espagnol", "Portugais"],
+      "reponse": "Français",
+      "explication": "Le français est la langue officielle héritée de la colonisation française."
+    },
+    {
+      "question": "Quelle est la principale religion au Burkina Faso ?",
+      "options": ["Islam", "Christianisme", "Animisme", "Bouddhisme"],
+      "reponse": "Islam",
+      "explication": "L’islam est majoritaire, suivi par le christianisme et les religions traditionnelles."
+    },
+    {
+      "question": "Quel est le principal défi sanitaire lié à la croissance démographique ?",
+      "options": ["Accès limité aux soins de santé", "Surabondance de médecins", "Maladies inexistantes", "Système de santé parfait"],
+      "reponse": "Accès limité aux soins de santé",
+      "explication": "La forte croissance démographique exerce une pression sur les services sanitaires."
+    },
+    {
+      "question": "Quel est le rôle des quartiers informels dans les villes burkinabè ?",
+      "options": ["Fournir un habitat à une grande partie de la population urbaine", "Zones industrielles modernes", "Zones touristiques", "Zones agricoles"],
+      "reponse": "Fournir un habitat à une grande partie de la population urbaine",
+      "explication": "Ces quartiers, souvent non planifiés, abritent de nombreux citadins.",
+    },
+    {
+      "question": "Quelle est la principale cause des migrations internes au Burkina Faso ?",
+      "options": ["Recherche d’emploi en milieu urbain", "Conflits armés uniquement", "Catastrophes naturelles uniquement", "Retour à la terre"],
+      "reponse": "Recherche d’emploi en milieu urbain",
+      "explication": "L’exode rural est motivé par la recherche de meilleures conditions de vie."
+    },
+    {
+      "question": "Quel est l’impact de l’urbanisation sur l’environnement au Burkina Faso ?",
+      "options": ["Pollution et dégradation des espaces naturels", "Amélioration de la qualité de l’air", "Réduction des déchets", "Augmentation des zones vertes"],
+      "reponse": "Pollution et dégradation des espaces naturels",
+      "explication": "La croissance urbaine non planifiée engendre des problèmes environnementaux.",
+    },
+    {
+      "question": "Quelle est la structure familiale traditionnelle la plus courante au Burkina Faso ?",
+      "options": ["Famille élargie", "Famille nucléaire uniquement", "Famille monoparentale", "Famille recomposée"],
+      "reponse": "Famille élargie",
+      "explication": "La famille élargie, avec plusieurs générations, est typique des sociétés burkinabè.",
+    },
+    {
+      "question": "Quel est le rôle de la jeunesse dans la société burkinabè ?",
+      "options": ["Force dynamique pour le développement et le changement", "Absente de la vie sociale", "Opposée à toute évolution", "En marge de la société"],
+      "reponse": "Force dynamique pour le développement et le changement",
+      "explication": "La jeunesse est un moteur important dans la société et l’économie.",
+    },
+    {
+      "question": "Quel est le taux d’alphabétisation au Burkina Faso ?",
+      "options": ["Environ 40 %", "Plus de 90 %", "Moins de 5 %", "Environ 70 %"],
+      "reponse": "Environ 40 %",
+      "explication": "Le taux d’alphabétisation est encore faible mais en progression.",
+    },
+    {
+      "question": "Quel est l’impact de la croissance démographique sur l’éducation ?",
+      "options": ["Pression sur les infrastructures et besoin de plus d’écoles", "Réduction du nombre d’élèves", "Écoles fermées", "Amélioration immédiate de la qualité"],
+      "reponse": "Pression sur les infrastructures et besoin de plus d’écoles",
+      "explication": "La forte croissance nécessite un investissement accru dans l’éducation.",
+    },
+    {
+      "question": "Quelle est la durée moyenne de vie au Burkina Faso ?",
+      "options": ["Environ 60 ans", "Plus de 80 ans", "Moins de 40 ans", "Environ 50 ans"],
+      "reponse": "Environ 60 ans",
+      "explication": "L’espérance de vie est encore modérée, affectée par divers facteurs sanitaires.",
+    },
+    {
+      "question": "Quel est l’impact de l’urbanisation sur les modes de vie ?",
+      "options": ["Transformation des modes de vie traditionnels", "Maintien intégral des traditions", "Retour aux pratiques rurales", "Isolation des populations"],
+      "reponse": "Transformation des modes de vie traditionnels",
+      "explication": "L’urbanisation modifie les modes de vie, les habitudes et les relations sociales.",
+    },
+    {
+      "question": "Quel est le rôle des ONG dans la société burkinabè ?",
+      "options": ["Soutien au développement social et économique", "Intervention militaire", "Gouvernance politique", "Activités uniquement religieuses"],
+      "reponse": "Soutien au développement social et économique",
+      "explication": "Les ONG jouent un rôle important dans l’aide et le développement.",
+    },
+    {
+      "question": "Quel est le pourcentage de population rurale au Burkina Faso ?",
+      "options": ["Environ 70 %", "Moins de 10 %", "Environ 30 %", "Plus de 90 %"],
+      "reponse": "Environ 70 %",
+      "explication": "La majorité des Burkinabè vit en milieu rural.",
+    },
+    {
+      "question": "Quel est le principal défi lié à la santé publique dans les zones urbaines ?",
+      "options": ["Accès insuffisant aux soins et conditions de vie difficiles", "Surabondance d’hôpitaux", "Maladies inexistantes", "Meilleure qualité de vie que dans les zones rurales"],
+      "reponse": "Accès insuffisant aux soins et conditions de vie difficiles",
+      "explication": "Les zones urbaines connaissent souvent des problèmes sanitaires liés à la pauvreté.",
+    },
+    {
+      "question": "Quel est le rôle de la migration internationale pour le Burkina Faso ?",
+      "options": ["Envoi de fonds importants (migrants)", "Aucun impact", "Déclin démographique", "Colonisation"],
+      "reponse": "Envoi de fonds importants (migrants)",
+      "explication": "La diaspora envoie des remises qui soutiennent l’économie locale.",
+    },
+    {
+      "question": "Quelle est la place des femmes dans la société burkinabè ?",
+      "options": ["Actrices importantes malgré des défis", "Exclues totalement", "Absentes de la vie sociale", "Dominantes dans tous les secteurs"],
+      "reponse": "Actrices importantes malgré des défis",
+      "explication": "Les femmes jouent un rôle clé, bien qu’elles affrontent des obstacles.",
+    },
+    {
+      "question": "Quelle est la principale cause de la forte croissance démographique au Burkina Faso ?",
+      "options": ["Taux de natalité élevé", "Immigration massive", "Taux de mortalité élevé", "Politiques de contrôle des naissances"],
+      "reponse": "Taux de natalité élevé",
+      "explication": "Le Burkina Faso connaît un taux de natalité élevé, contribuant à une forte croissance démographique."
+    },
+    {
+      "question": "Quel est l’impact de l’urbanisation sur l’emploi au Burkina Faso ?",
+      "options": ["Création d’emplois informels", "Disparition totale de l’emploi", "Automatisation complète", "Réduction des activités économiques"],
+      "reponse": "Création d’emplois informels",
+      "explication": "L’urbanisation favorise souvent le développement du secteur informel."
+    },
+    {
+      "question": "Quelle est la principale langue véhiculaire parlée au Burkina Faso ?",
+      "options": ["Mooré", "Français", "Anglais", "Espagnol"],
+      "reponse": "Mooré",
+      "explication": "Le mooré est la langue la plus parlée au quotidien par une grande partie de la population."
+    },
+    {
+      "question": "Quel est le principal défi lié à l’éducation dans les zones rurales ?",
+      "options": ["Manque d’écoles et de ressources", "Saturation des infrastructures", "Surpopulation scolaire", "Système éducatif avancé"],
+      "reponse": "Manque d’écoles et de ressources",
+      "explication": "Les zones rurales souffrent souvent d’un déficit d’infrastructures éducatives."
+    },
+    {
+      "question": "Quelle est la proportion des jeunes dans la population totale du Burkina Faso ?",
+      "options": ["Plus de 60 %", "Moins de 10 %", "Environ 25 %", "Environ 40 %"],
+      "reponse": "Plus de 60 %",
+      "explication": "Une majorité de la population est âgée de moins de 25 ans."
+    },
+    {
+      "question": "Quel est le principal facteur favorisant la migration interne ?",
+      "options": ["Recherche d’opportunités économiques", "Climat tempéré", "Abondance des ressources naturelles", "Faible croissance démographique"],
+      "reponse": "Recherche d’opportunités économiques",
+      "explication": "La quête d’emploi et d’amélioration des conditions de vie motive les migrations vers les villes."
+    },
+    {
+      "question": "Quel est le rôle des marchés urbains dans la société burkinabè ?",
+      "options": ["Centres économiques et sociaux importants", "Zones désertiques", "Zones industrielles uniquement", "Zones réservées au tourisme"],
+      "reponse": "Centres économiques et sociaux importants",
+      "explication": "Les marchés urbains sont des lieux essentiels d’échanges et de vie sociale."
+    },
+    {
+      "question": "Quel est le taux de mortalité infantile au Burkina Faso ?",
+      "options": ["Élevé mais en baisse", "Très faible", "Inexistant", "Stable à un niveau bas"],
+      "reponse": "Élevé mais en baisse",
+      "explication": "Malgré des progrès, le taux reste encore élevé comparé à la moyenne mondiale."
+    },
+    {
+      "question": "Quel est l’impact de la migration internationale sur la culture burkinabè ?",
+      "options": ["Échanges culturels et diversité accrue", "Isolement culturel", "Perte totale des traditions", "Uniformisation mondiale"],
+      "reponse": "Échanges culturels et diversité accrue",
+      "explication": "Les migrations favorisent le brassage culturel et la diversité."
+    },
+    {
+      "question": "Quelle est la principale cause des difficultés d’accès à l’eau potable en milieu urbain ?",
+      "options": ["Infrastructure insuffisante", "Surabondance d’eau", "Pollution inexistante", "Taux de pluviométrie élevé"],
+      "reponse": "Infrastructure insuffisante",
+      "explication": "Les infrastructures ne suivent pas la croissance urbaine rapide.",
+    },
+    {
+      "question": "Quel est le rôle des associations de jeunesse au Burkina Faso ?",
+      "options": ["Encourager la participation sociale et politique", "Activités uniquement récréatives", "Absence totale", "Opposition systématique"],
+      "reponse": "Encourager la participation sociale et politique",
+      "explication": "Les associations mobilisent la jeunesse autour de projets sociaux et politiques.",
+    },
+    {
+      "question": "Quelle est la place de l’agriculture familiale dans la société burkinabè ?",
+      "options": ["Principale source de subsistance", "Activité secondaire", "Peu importante", "Exclusivement urbaine"],
+      "reponse": "Principale source de subsistance",
+      "explication": "La majorité des familles vit de l’agriculture traditionnelle.",
+    },
+    {
+      "question": "Quel est le rôle de l’urbanisation dans la transformation des espaces ruraux ?",
+      "options": ["Extension des villes vers la campagne", "Réduction des zones urbaines", "Maintien des espaces ruraux intacts", "Diminution de la population urbaine"],
+      "reponse": "Extension des villes vers la campagne",
+      "explication": "L’urbanisation provoque souvent une expansion des zones urbaines dans les campagnes environnantes.",
+    },
+    {
+      "question": "Quel est l’impact de la croissance démographique sur l’emploi des jeunes ?",
+      "options": ["Pression accrue et chômage élevé", "Pleine insertion professionnelle", "Réduction du chômage", "Stabilité totale"],
+      "reponse": "Pression accrue et chômage élevé",
+      "explication": "La forte croissance démographique crée des défis pour l’emploi des jeunes.",
+    },
+    {
+      "question": "Quel est le principal mode d’habitat en milieu urbain ?",
+      "options": ["Habitat informel et non planifié", "Maisons en dur modernes", "Gratte-ciels", "Zones agricoles"],
+      "reponse": "Habitat informel et non planifié",
+      "explication": "Une grande partie de la population urbaine vit dans des quartiers informels.",
+    },
+    {
+      "question": "Quel est le rôle des médias dans la société burkinabè ?",
+      "options": ["Informer et sensibiliser la population", "Ignorer les problématiques sociales", "Contrôler uniquement la politique", "Divertir uniquement"],
+      "reponse": "Informer et sensibiliser la population",
+      "explication": "Les médias jouent un rôle clé dans l’éducation et la mobilisation sociale.",
+    },
+    {
+      "question": "Quelle est la situation de l’accès à l’éducation des filles au Burkina Faso ?",
+      "options": ["En amélioration mais encore inégale", "Parfaite égalité", "Absence totale", "Interdite"],
+      "reponse": "En amélioration mais encore inégale",
+      "explication": "Des efforts sont faits, mais des disparités subsistent.",
+    },
+    {
+      "question": "Quel est l’impact des conflits sur la société burkinabè ?",
+      "options": ["Déplacements de populations et instabilité sociale", "Stabilité complète", "Croissance économique", "Amélioration des conditions de vie"],
+      "reponse": "Déplacements de populations et instabilité sociale",
+      "explication": "Les conflits créent des crises humanitaires et sociales.",
+    },
+    {
+      "question": "Quel est le principal secteur d’emploi au Burkina Faso ?",
+      "options": ["Agriculture", "Industrie", "Services", "Technologie"],
+      "reponse": "Agriculture",
+      "explication": "La majorité de la population travaille dans l’agriculture.",
+    },
+    {
+      "question": "Quelle est la principale cause de mortalité chez les enfants au Burkina Faso ?",
+      "options": ["Maladies infectieuses", "Accidents de la route", "Maladies cardiovasculaires", "Cancers"],
+      "reponse": "Maladies infectieuses",
+      "explication": "Les maladies infectieuses restent une cause majeure de mortalité infantile.",
+    },
+    {
+      "question": "Quel est le rôle de la diaspora burkinabè ?",
+      "options": ["Contribution économique par les transferts de fonds", "Pas d’impact", "Déclin démographique", "Colonisation"],
+      "reponse": "Contribution économique par les transferts de fonds",
+      "explication": "La diaspora soutient l’économie par ses envois de fonds.",
+    },
+    {
+      "question": "Quel est l’effet des pratiques culturelles sur la société ?",
+      "options": ["Renforcement de l’identité et de la cohésion sociale", "Dislocation sociale", "Uniformisation culturelle", "Abandon des traditions"],
+      "reponse": "Renforcement de l’identité et de la cohésion sociale",
+      "explication": "Les pratiques culturelles jouent un rôle central dans la vie sociale.",
+    }
+  ]
+}

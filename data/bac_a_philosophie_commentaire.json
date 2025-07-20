@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la première étape dans le commentaire de texte ?",
+      "options": ["Lire attentivement et comprendre le texte", "Donner son opinion", "Chercher des citations", "Faire un résumé rapide"],
+      "reponse": "Lire attentivement et comprendre le texte",
+      "explication": "Comprendre le texte est essentiel pour pouvoir l’analyser correctement."
+    },
+    {
+      "question": "Que faut-il faire après avoir compris le texte ?",
+      "options": ["Identifier la thèse et les arguments", "Écrire la conclusion", "Donner une critique personnelle", "Chercher des exemples externes"],
+      "reponse": "Identifier la thèse et les arguments",
+      "explication": "Cela permet de saisir la position de l’auteur et sa logique."
+    },
+    {
+      "question": "Qu’est-ce que la problématique dans un commentaire ?",
+      "options": ["Une question centrale qui organise l’analyse", "Un résumé du texte", "Une opinion personnelle", "Une citation célèbre"],
+      "reponse": "Une question centrale qui organise l’analyse",
+      "explication": "La problématique met en lumière les enjeux du texte à analyser."
+    },
+    {
+      "question": "Pourquoi faut-il reformuler les idées du texte ?",
+      "options": ["Pour montrer sa compréhension et clarifier", "Pour allonger le commentaire", "Pour critiquer le texte", "Pour donner son avis"],
+      "reponse": "Pour montrer sa compréhension et clarifier",
+      "explication": "La reformulation prouve que l’on a saisi le sens et facilite l’explication."
+    },
+    {
+      "question": "Comment structurer un commentaire ?",
+      "options": ["En introduction, développement (parties), conclusion", "En une seule partie", "En plusieurs résumés", "Sans plan précis"],
+      "reponse": "En introduction, développement (parties), conclusion",
+      "explication": "Une bonne structure aide à organiser l’analyse de manière claire."
+    },
+    {
+      "question": "Que doit contenir l’introduction d’un commentaire ?",
+      "options": ["Présentation du texte, auteur, contexte, problématique, plan", "Un résumé personnel", "Une opinion", "Une citation extérieure"],
+      "reponse": "Présentation du texte, auteur, contexte, problématique, plan",
+      "explication": "Elle situe le texte et annonce la méthode d’analyse."
+    },
+    {
+      "question": "Quelle est la fonction du développement ?",
+      "options": ["Analyser en détail les arguments et idées du texte", "Donner son avis", "Faire un résumé", "Présenter des faits historiques"],
+      "reponse": "Analyser en détail les arguments et idées du texte",
+      "explication": "Le développement décortique les éléments pour expliquer le texte."
+    },
+    {
+      "question": "Pourquoi analyser la structure du texte ?",
+      "options": ["Pour comprendre comment l’auteur organise sa pensée", "Pour faire un résumé", "Pour critiquer", "Pour donner son avis personnel"],
+      "reponse": "Pour comprendre comment l’auteur organise sa pensée",
+      "explication": "La structure révèle la progression logique du texte."
+    },
+    {
+      "question": "Comment choisir un plan pour le commentaire ?",
+      "options": ["Selon la logique argumentative du texte", "Au hasard", "Selon ses préférences", "En imitant un autre commentaire"],
+      "reponse": "Selon la logique argumentative du texte",
+      "explication": "Le plan doit refléter la progression des idées de l’auteur."
+    },
+    {
+      "question": "Qu’est-ce qu’un plan dialectique ?",
+      "options": ["Plan en thèse, antithèse, synthèse", "Plan chronologique", "Plan thématique", "Plan aléatoire"],
+      "reponse": "Plan en thèse, antithèse, synthèse",
+      "explication": "Il permet d’examiner différentes positions pour une analyse nuancée."
+    },
+    {
+      "question": "Que faire si une partie du texte est difficile ?",
+      "options": ["Analyser ce qui est compris et contextualiser", "Ignorer cette partie", "Donner son avis personnel", "Faire un hors-sujet"],
+      "reponse": "Analyser ce qui est compris et contextualiser",
+      "explication": "Il faut montrer sa compréhension même partielle, sans déformer le texte."
+    },
+    {
+      "question": "Pourquoi éviter les paraphrases trop longues ?",
+      "options": ["Pour privilégier l’analyse et la réflexion", "Pour remplir le commentaire", "Pour éviter la critique", "Parce que c’est interdit"],
+      "reponse": "Pour privilégier l’analyse et la réflexion",
+      "explication": "Le commentaire doit expliquer et non juste répéter le texte."
+    },
+    {
+      "question": "Que signifie analyser un concept dans un texte ?",
+      "options": ["Expliquer sa signification et son rôle dans le texte", "Raconter une anecdote", "Donner son avis", "Ignorer le concept"],
+      "reponse": "Expliquer sa signification et son rôle dans le texte",
+      "explication": "L’analyse précise comment le concept sert l’argumentation."
+    },
+    {
+      "question": "Pourquoi citer le texte dans son commentaire ?",
+      "options": ["Pour appuyer son analyse avec des preuves précises", "Pour allonger le texte", "Pour impressionner", "Pour paraphraser"],
+      "reponse": "Pour appuyer son analyse avec des preuves précises",
+      "explication": "Les citations rendent l’analyse plus rigoureuse et convaincante."
+    },
+    {
+      "question": "Quel ton doit avoir un commentaire ?",
+      "options": ["Neutre, rigoureux et analytique", "Passionné et polémique", "Personnel et émotionnel", "Informel et spontané"],
+      "reponse": "Neutre, rigoureux et analytique",
+      "explication": "L’analyse doit être objective et argumentée."
+    },
+    {
+      "question": "Qu’est-ce qu’une thèse dans un texte ?",
+      "options": ["L’idée principale défendue par l’auteur", "Une question", "Une anecdote", "Une citation"],
+      "reponse": "L’idée principale défendue par l’auteur",
+      "explication": "La thèse est la position centrale du texte."
+    },
+    {
+      "question": "Pourquoi analyser les arguments ?",
+      "options": ["Pour comprendre la logique et la force de persuasion", "Pour donner son avis", "Pour faire un résumé", "Pour ignorer les objections"],
+      "reponse": "Pour comprendre la logique et la force de persuasion",
+      "explication": "L’analyse des arguments permet d’évaluer la solidité du texte."
+    },
+    {
+      "question": "Comment formuler une problématique ?",
+      "options": ["Sous forme de question ouverte liée au texte", "Par une affirmation", "Par une citation", "Par un résumé"],
+      "reponse": "Sous forme de question ouverte liée au texte",
+      "explication": "La problématique doit poser une question qui organise l’analyse."
+    },
+    {
+      "question": "Pourquoi est-il utile d’identifier les exemples dans le texte ?",
+      "options": ["Ils illustrent les idées et renforcent l’argumentation", "Ils remplissent le texte", "Ils sont facultatifs", "Ils servent à critiquer"],
+      "reponse": "Ils illustrent les idées et renforcent l’argumentation",
+      "explication": "Les exemples aident à comprendre concrètement les concepts."
+    },
+    {
+      "question": "Que doit contenir une bonne conclusion de commentaire ?",
+      "options": ["Synthèse de l’analyse et ouverture", "Résumé du texte", "Opinion personnelle", "Nouvelle problématique"],
+      "reponse": "Synthèse de l’analyse et ouverture",
+      "explication": "La conclusion rappelle les points clés et invite à une réflexion plus large."
+    },
+    {
+      "question": "Comment traiter les objections dans un commentaire ?",
+      "options": ["Les mentionner pour montrer une analyse complète", "Les ignorer", "Les critiquer sans argument", "Les éviter"],
+      "reponse": "Les mentionner pour montrer une analyse complète",
+      "explication": "Reconnaître les limites renforce la rigueur de l’analyse."
+    },
+    {
+      "question": "Pourquoi faire un plan détaillé avant de rédiger ?",
+      "options": ["Pour organiser clairement ses idées", "Pour impressionner", "Ce n’est pas nécessaire", "Pour copier le plan du professeur"],
+      "reponse": "Pour organiser clairement ses idées",
+      "explication": "Le plan permet une rédaction cohérente et structurée."
+    },
+    {
+      "question": "Que signifie 'commenter' un texte ?",
+      "options": ["Expliquer, analyser et interpréter le texte", "Raconter une histoire", "Donner son opinion", "Résumé simple"],
+      "reponse": "Expliquer, analyser et interpréter le texte",
+      "explication": "Le commentaire va au-delà du résumé en proposant une lecture approfondie."
+    },
+    {
+      "question": "Pourquoi éviter les jugements de valeur personnels ?",
+      "options": ["Pour garder un ton objectif et rigoureux", "Pour remplir le commentaire", "Pour impressionner", "Ce n’est pas important"],
+      "reponse": "Pour garder un ton objectif et rigoureux",
+      "explication": "L’analyse doit rester neutre et fondée sur le texte."
+    },
+    {
+      "question": "Qu’est-ce qu’un paragraphe d’analyse ?",
+      "options": ["Un paragraphe qui explique et interprète une idée du texte", "Un résumé", "Une citation", "Une opinion"],
+      "reponse": "Un paragraphe qui explique et interprète une idée du texte",
+      "explication": "Chaque paragraphe développe une partie de l’analyse."
+    },
+    {
+      "question": "Quelle est la différence entre résumé et commentaire ?",
+      "options": ["Le résumé présente les idées principales, le commentaire les analyse", "Ils sont identiques", "Le commentaire est plus court", "Le résumé est plus long"],
+      "reponse": "Le résumé présente les idées principales, le commentaire les analyse",
+      "explication": "Le commentaire va plus loin en expliquant le sens et les enjeux."
+    },
+    {
+      "question": "Comment choisir les citations à utiliser ?",
+      "options": ["Citations pertinentes qui appuient l’analyse", "Citations longues et compliquées", "Toutes les citations du texte", "Citations populaires"],
+      "reponse": "Citations pertinentes qui appuient l’analyse",
+      "explication": "Il faut sélectionner celles qui servent à illustrer les idées importantes."
+    },
+    {
+      "question": "Pourquoi est-il important de situer l’auteur et le contexte ?",
+      "options": ["Pour mieux comprendre les enjeux du texte", "Pour remplir l’introduction", "Pour donner son avis", "Ce n’est pas important"],
+      "reponse": "Pour mieux comprendre les enjeux du texte",
+      "explication": "Le contexte éclaire la portée et les intentions de l’auteur."
+    },
+    {
+      "question": "Que faire en cas de doute sur le sens d’un passage ?",
+      "options": ["Revenir au contexte et chercher des indices", "Ignorer", "Donner son avis", "Faire un hors-sujet"],
+      "reponse": "Revenir au contexte et chercher des indices",
+      "explication": "Analyser le contexte aide à comprendre les passages difficiles."
+    }
+  ]
+}

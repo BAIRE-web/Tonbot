@@ -1,0 +1,718 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la première étape avant de commencer une dissertation littéraire ?",
+      "options": ["Analyser le sujet", "Chercher des citations", "Écrire l’introduction", "Faire un résumé"],
+      "reponse": "Analyser le sujet",
+      "explication": "Comprendre précisément la consigne et les mots-clés du sujet est essentiel."
+    },
+    {
+      "question": "Qu’est-ce qu’une problématique ?",
+      "options": ["Une question centrale qui guide la réflexion", "Une thèse imposée", "Un résumé du texte", "Un exemple à citer"],
+      "reponse": "Une question centrale qui guide la réflexion",
+      "explication": "La problématique oriente toute la construction de la dissertation."
+    },
+    {
+      "question": "Quel plan est souvent recommandé pour une dissertation littéraire ?",
+      "options": ["Thèse – Antithèse – Synthèse", "Chronologique", "Thématique sans opposition", "Développement libre"],
+      "reponse": "Thèse – Antithèse – Synthèse",
+      "explication": "Ce plan dialectique permet d’explorer les différentes facettes du sujet."
+    },
+    {
+      "question": "Que doit contenir une introduction réussie ?",
+      "options": ["Accroche, présentation du sujet, problématique, annonce du plan", "Résumé, biographie, citations", "Opinion personnelle, exemples", "Définition, citation, conclusion"],
+      "reponse": "Accroche, présentation du sujet, problématique, annonce du plan",
+      "explication": "L’introduction doit présenter clairement le sujet et orienter le lecteur."
+    },
+    {
+      "question": "Comment formuler une problématique efficace ?",
+      "options": ["En posant une question ouverte liée au sujet", "En reprenant le sujet tel quel", "En donnant une réponse immédiate", "En citant un auteur"],
+      "reponse": "En posant une question ouverte liée au sujet",
+      "explication": "La problématique doit susciter la réflexion et le débat."
+    },
+    {
+      "question": "Quelle est la fonction du développement ?",
+      "options": ["Développer des arguments pour répondre à la problématique", "Donner son avis personnel", "Raconter l’histoire", "Écrire un résumé"],
+      "reponse": "Développer des arguments pour répondre à la problématique",
+      "explication": "Le développement expose la réflexion organisée en parties."
+    },
+    {
+      "question": "Combien de parties doit contenir le développement ?",
+      "options": ["Deux ou trois", "Une seule", "Quatre ou plus", "Autant que possible"],
+      "reponse": "Deux ou trois",
+      "explication": "Une structure claire et équilibrée facilite la compréhension."
+    },
+    {
+      "question": "Que doit contenir chaque paragraphe du développement ?",
+      "options": ["Une idée principale, des arguments, des exemples", "Un résumé du texte", "Une opinion personnelle", "Une citation uniquement"],
+      "reponse": "Une idée principale, des arguments, des exemples",
+      "explication": "Chaque paragraphe doit être un argument soutenu par des preuves."
+    },
+    {
+      "question": "Quelle place ont les citations dans la dissertation ?",
+      "options": ["Elles illustrent et renforcent les arguments", "Elles remplacent les analyses", "Elles ne sont pas nécessaires", "Elles doivent être longues"],
+      "reponse": "Elles illustrent et renforcent les arguments",
+      "explication": "Les citations sont des preuves textuelles qui appuient la réflexion."
+    },
+    {
+      "question": "Faut-il toujours citer l’auteur dans la dissertation ?",
+      "options": ["Oui, pour contextualiser les exemples", "Non, ce n’est pas important", "Seulement si demandé", "Jamais"],
+      "reponse": "Oui, pour contextualiser les exemples",
+      "explication": "Mentionner l’auteur donne du crédit à l’argumentation."
+    },
+    {
+      "question": "Que faut-il éviter dans une dissertation ?",
+      "options": ["Les digressions, répétitions, et jugements personnels non justifiés", "Les citations", "Les paragraphes", "L’introduction"],
+      "reponse": "Les digressions, répétitions, et jugements personnels non justifiés",
+      "explication": "Il faut rester clair, rigoureux et centré sur le sujet."
+    },
+    {
+      "question": "Comment conclure une dissertation ?",
+      "options": ["En répondant clairement à la problématique et en ouvrant sur une réflexion", "En résumant tout le texte", "En donnant son avis personnel", "En posant une nouvelle question"],
+      "reponse": "En répondant clairement à la problématique et en ouvrant sur une réflexion",
+      "explication": "La conclusion synthétise la réflexion et peut élargir le sujet."
+    },
+    {
+      "question": "Pourquoi faut-il annoncer le plan dans l’introduction ?",
+      "options": ["Pour guider le lecteur dans la structure", "Pour remplir la page", "Pour montrer qu’on connaît le sujet", "Ce n’est pas obligatoire"],
+      "reponse": "Pour guider le lecteur dans la structure",
+      "explication": "L’annonce du plan prépare le lecteur à la progression de l’argumentation."
+    },
+    {
+      "question": "Qu’est-ce qu’un argument d’autorité ?",
+      "options": ["Un argument fondé sur une citation d’un expert", "Un argument basé sur une opinion personnelle", "Un argument émotionnel", "Un argument humoristique"],
+      "reponse": "Un argument fondé sur une citation d’un expert",
+      "explication": "Citer une autorité renforce la crédibilité de l’argument."
+    },
+    {
+      "question": "Quelle est la différence entre thèse et antithèse ?",
+      "options": ["La thèse défend une idée, l’antithèse la contredit", "Les deux sont identiques", "La thèse est une citation, l’antithèse un exemple", "La thèse est dans l’intro, l’antithèse dans la conclusion"],
+      "reponse": "La thèse défend une idée, l’antithèse la contredit",
+      "explication": "Cette opposition est essentielle dans un plan dialectique."
+    },
+    {
+      "question": "Que signifie synthèse dans le plan dialectique ?",
+      "options": ["Une proposition qui dépasse la contradiction", "Un résumé du texte", "Un exemple", "Une citation"],
+      "reponse": "Une proposition qui dépasse la contradiction",
+      "explication": "La synthèse articule thèse et antithèse pour une réponse nuancée."
+    },
+    {
+      "question": "Comment doit être le style dans une dissertation ?",
+      "options": ["Clair, précis et formel", "Familier et spontané", "Très technique", "Poétique"],
+      "reponse": "Clair, précis et formel",
+      "explication": "Un style académique facilite la compréhension et la rigueur."
+    },
+    {
+      "question": "Pourquoi éviter les répétitions ?",
+      "options": ["Pour rendre le texte fluide et éviter l’ennui", "Parce que c’est interdit", "Pour gagner de la place", "Parce que cela diminue la note"],
+      "reponse": "Pour rendre le texte fluide et éviter l’ennui",
+      "explication": "Varier le vocabulaire et les idées dynamise l’écriture."
+    },
+    {
+      "question": "Quand faut-il utiliser des connecteurs logiques ?",
+      "options": ["Pour organiser le discours et montrer les relations", "Jamais", "Seulement dans l’introduction", "Pour allonger le texte"],
+      "reponse": "Pour organiser le discours et montrer les relations",
+      "explication": "Ils clarifient la progression de la pensée."
+    },
+    {
+      "question": "Quel connecteur introduit une cause ?",
+      "options": ["Parce que", "Mais", "Donc", "Cependant"],
+      "reponse": "Parce que",
+      "explication": "‘Parce que’ explique la raison d’un fait."
+    },
+    {
+      "question": "Quel connecteur introduit une opposition ?",
+      "options": ["Mais", "Donc", "Puisque", "Car"],
+      "reponse": "Mais",
+      "explication": "‘Mais’ oppose deux idées."
+    },
+    {
+      "question": "Que signifie ‘pertinence’ dans une dissertation ?",
+      "options": ["La qualité des arguments par rapport au sujet", "La longueur du texte", "Le nombre de citations", "La rapidité d’écriture"],
+      "reponse": "La qualité des arguments par rapport au sujet",
+      "explication": "Un argument pertinent répond bien à la problématique."
+    },
+    {
+      "question": "Qu’est-ce qu’une thèse ?",
+      "options": ["Une opinion défendue dans la dissertation", "Un résumé", "Une citation", "Une question"],
+      "reponse": "Une opinion défendue dans la dissertation",
+      "explication": "La thèse exprime une position sur le sujet."
+    },
+    {
+      "question": "Faut-il rédiger la conclusion au début ?",
+      "options": ["Non, elle se rédige à la fin", "Oui", "Parfois", "Cela dépend du sujet"],
+      "reponse": "Non, elle se rédige à la fin",
+      "explication": "La conclusion synthétise la réflexion après le développement."
+    },
+    {
+      "question": "Qu’est-ce qu’une introduction ?",
+      "options": ["La première partie qui présente le sujet et le plan", "Un résumé", "Une analyse détaillée", "Un exemple"],
+      "reponse": "La première partie qui présente le sujet et le plan",
+      "explication": "L’introduction ouvre le sujet et annonce la démarche."
+    },
+    {
+      "question": "Pourquoi utiliser des exemples précis ?",
+      "options": ["Pour illustrer les arguments et les rendre concrets", "Pour impressionner le correcteur", "Pour remplir la page", "Pour paraphraser le sujet"],
+      "reponse": "Pour illustrer les arguments et les rendre concrets",
+      "explication": "Les exemples permettent de vérifier la validité des idées."
+    },
+    {
+      "question": "Que doit-on faire en cas de doute sur un mot ?",
+      "options": ["Chercher sa définition", "L’utiliser quand même", "L’éviter", "Changer de sujet"],
+      "reponse": "Chercher sa définition",
+      "explication": "Bien comprendre le vocabulaire évite les erreurs de sens."
+    },
+    {
+      "question": "Quel temps verbal privilégier dans une dissertation ?",
+      "options": ["Le présent de l’indicatif", "Le passé simple", "Le futur antérieur", "Le conditionnel passé"],
+      "reponse": "Le présent de l’indicatif",
+      "explication": "Le présent est le temps de la réflexion et de l’analyse."
+    },
+    {
+      "question": "Qu’est-ce qu’un argument pathétique ?",
+      "options": ["Un argument qui touche les émotions", "Un argument basé sur la logique", "Un argument cité", "Un argument humoristique"],
+      "reponse": "Un argument qui touche les émotions",
+      "explication": "Il vise à émouvoir pour convaincre."
+    },
+    {
+      "question": "Que faire pour éviter le hors sujet ?",
+      "options": ["Relire souvent le sujet et la problématique", "Écrire vite", "Copier des exemples", "Ne pas faire de plan"],
+      "reponse": "Relire souvent le sujet et la problématique",
+      "explication": "Cela permet de rester centré sur la question posée."
+    },
+    {
+      "question": "Qu’est-ce qu’un essai en littérature ?",
+      "options": ["Un texte d’opinion développé de façon personnelle", "Un récit fictif", "Un poème engagé", "Un article scientifique"],
+      "reponse": "Un texte d’opinion développé de façon personnelle",
+      "explication": "L’essai développe une réflexion personnelle sur un sujet souvent abstrait ou de société."
+    },
+    {
+      "question": "Quelle est la différence entre argumentation directe et indirecte ?",
+      "options": ["La directe expose une thèse clairement, l’indirecte passe par un récit", "La directe est dans les romans, l’indirecte dans les essais", "La directe est implicite, l’indirecte explicite", "Aucune différence"],
+      "reponse": "La directe expose une thèse clairement, l’indirecte passe par un récit",
+      "explication": "L’argumentation directe est explicite (comme un essai), l’indirecte se fait à travers une fiction ou une fable."
+    },
+    {
+      "question": "Quel est l’objectif d’un texte philosophique ?",
+      "options": ["Développer une réflexion critique sur des idées abstraites", "Divertir par des histoires", "Décrire un lieu", "Exprimer un sentiment personnel"],
+      "reponse": "Développer une réflexion critique sur des idées abstraites",
+      "explication": "Le texte philosophique vise à argumenter de manière logique et structurée."
+    },
+    {
+      "question": "Qu’est-ce qu’une thèse dans un texte argumentatif ?",
+      "options": ["L’idée principale défendue", "Un exemple secondaire", "Une anecdote", "Une contradiction"],
+      "reponse": "L’idée principale défendue",
+      "explication": "La thèse est la position que l’auteur adopte et développe dans le texte."
+    },
+    {
+      "question": "Qu’est-ce qu’une antithèse ?",
+      "options": ["Une idée opposée à la thèse", "Une reformulation de la thèse", "Une explication", "Un poème"],
+      "reponse": "Une idée opposée à la thèse",
+      "explication": "L’antithèse permet de nuancer ou contester une thèse dans un raisonnement dialectique."
+    },
+    {
+      "question": "À quoi sert un exemple dans un essai ?",
+      "options": ["Illustrer concrètement une idée ou un argument", "Introduire une poésie", "Servir de conclusion", "Répéter la thèse"],
+      "reponse": "Illustrer concrètement une idée ou un argument",
+      "explication": "L’exemple permet de rendre plus clair et convaincant un argument abstrait."
+    },
+    {
+      "question": "Quel type de texte est un pamphlet ?",
+      "options": ["Un texte critique, souvent violent, visant à dénoncer", "Une fable morale", "Un article neutre", "Une pièce de théâtre"],
+      "reponse": "Un texte critique, souvent violent, visant à dénoncer",
+      "explication": "Le pamphlet est une forme de texte polémique et accusateur, utilisé pour dénoncer."
+    },
+    {
+      "question": "Quel philosophe a popularisé l’essai au XVIe siècle ?",
+      "options": ["Montaigne", "Descartes", "Rousseau", "Platon"],
+      "reponse": "Montaigne",
+      "explication": "Montaigne est l’un des premiers à utiliser le mot “essai” pour désigner ses textes réflexifs."
+    },
+    {
+      "question": "Qu’est-ce qu’une argumentation logique ?",
+      "options": ["Une progression cohérente des idées", "Une suite d’exemples", "Une opposition systématique", "Une expression poétique"],
+      "reponse": "Une progression cohérente des idées",
+      "explication": "L’argumentation logique suit un enchaînement d’idées organisé et structuré."
+    },
+    {
+      "question": "Qu’est-ce qu’un texte de littérature d’idées ?",
+      "options": ["Un texte qui développe une réflexion sur un thème humain ou social", "Un roman d’aventure", "Un poème lyrique", "Une description"],
+      "reponse": "Un texte qui développe une réflexion sur un thème humain ou social",
+      "explication": "Il s’agit de textes qui cherchent à faire réfléchir le lecteur sur des questions importantes."
+    },
+    {
+      "question": "Quel rôle joue l’introduction dans un essai ?",
+      "options": ["Présenter le sujet et la problématique", "Faire la conclusion", "Présenter des anecdotes", "Définir les personnages"],
+      "reponse": "Présenter le sujet et la problématique",
+      "explication": "L’introduction annonce le thème, la problématique, et parfois la thèse."
+    },
+    {
+      "question": "Quel est l’ordre classique dans une dissertation ?",
+      "options": ["Introduction – développement – conclusion", "Thèse – exemple – anecdote", "Exemple – résumé – discussion", "Conclusion – antithèse – thèse"],
+      "reponse": "Introduction – développement – conclusion",
+      "explication": "C’est le plan structurant traditionnel de la dissertation."
+    },
+    {
+      "question": "Quelle est la fonction principale de l’argument ?",
+      "options": ["Convaincre en justifiant une idée", "Divertir le lecteur", "Raconter une histoire", "Décrire un lieu"],
+      "reponse": "Convaincre en justifiant une idée",
+      "explication": "L’argument permet de démontrer la validité d’une idée."
+    },
+    {
+      "question": "Quel type de texte utilise une argumentation indirecte ?",
+      "options": ["Fable", "Essai", "Article scientifique", "Théâtre classique"],
+      "reponse": "Fable",
+      "explication": "La fable transmet un message sous forme narrative, souvent allégorique."
+    },
+    {
+      "question": "Quel philosophe utilise l’ironie comme forme d’argumentation indirecte ?",
+      "options": ["Socrate", "Nietzsche", "Hobbes", "Aristote"],
+      "reponse": "Socrate",
+      "explication": "La méthode socratique consiste à faire réfléchir l’interlocuteur par des questions ironiques et logiques."
+    },
+    {
+      "question": "Que permet la reformulation d’un argument ?",
+      "options": ["Clarifier ou renforcer l’idée exprimée", "Changer complètement d’avis", "Éviter la conclusion", "Répéter sans but"],
+      "reponse": "Clarifier ou renforcer l’idée exprimée",
+      "explication": "Elle donne du poids à un raisonnement ou aide à la compréhension."
+    },
+    {
+      "question": "Quel est le rôle de la conclusion dans un essai ?",
+      "options": ["Résumer et ouvrir la réflexion", "Donner un exemple", "Contredire la thèse", "Présenter un personnage"],
+      "reponse": "Résumer et ouvrir la réflexion",
+      "explication": "Elle résume les idées principales et propose une ouverture."
+    },
+    {
+      "question": "Qu’est-ce que l’argument d’autorité ?",
+      "options": ["Argument fondé sur les propos d’un expert reconnu", "Argument basé sur un fait imaginaire", "Argument par répétition", "Argument subjectif"],
+      "reponse": "Argument fondé sur les propos d’un expert reconnu",
+      "explication": "Il consiste à appuyer une idée par l’avis d’une autorité compétente."
+    },
+    {
+      "question": "Qu’est-ce qu’un paradoxe en littérature d’idées ?",
+      "options": ["Une idée contraire à l’opinion commune", "Une insulte", "Une vérité absolue", "Une citation biblique"],
+      "reponse": "Une idée contraire à l’opinion commune",
+      "explication": "Le paradoxe choque pour amener à réfléchir autrement."
+    },
+    {
+      "question": "Qu’est-ce qu’un raisonnement concessif ?",
+      "options": ["Admettre un point pour mieux défendre sa thèse", "Changer totalement d’avis", "Faire une parenthèse", "Utiliser l’humour"],
+      "reponse": "Admettre un point pour mieux défendre sa thèse",
+      "explication": "On concède quelque chose à l’opposant tout en renforçant sa propre thèse."
+    },
+    {
+      "question": "À quoi sert une transition dans une argumentation ?",
+      "options": ["Relier logiquement deux idées ou parties", "Changer de sujet", "Revenir à l’introduction", "Donner une citation"],
+      "reponse": "Relier logiquement deux idées ou parties",
+      "explication": "La transition fluidifie le discours argumentatif."
+    },
+    {
+      "question": "Comment appelle-t-on une question qui n’attend pas de réponse ?",
+      "options": ["Question rhétorique", "Question ouverte", "Question piège", "Interrogation directe"],
+      "reponse": "Question rhétorique",
+      "explication": "Elle sert à faire réfléchir plutôt qu’à obtenir une réponse."
+    },
+    {
+      "question": "Quel philosophe est célèbre pour ses essais sur la liberté, la politique, l’éducation ?",
+      "options": ["Rousseau", "Zola", "Descartes", "Hugo"],
+      "reponse": "Rousseau",
+      "explication": "Rousseau a écrit de nombreux textes d’idées majeurs sur la société."
+    },
+    {
+      "question": "Quelle différence entre un texte critique et un pamphlet ?",
+      "options": ["Le pamphlet est plus agressif, le critique est plus nuancé", "Le pamphlet est poétique", "Aucune", "Le critique est toujours positif"],
+      "reponse": "Le pamphlet est plus agressif, le critique est plus nuancé",
+      "explication": "Le pamphlet attaque, alors que la critique analyse avec retenue."
+    },
+    {
+      "question": "Un essai littéraire est toujours…",
+      "options": ["Subjectif et argumenté", "Objectif et neutre", "Poétique", "Narratif"],
+      "reponse": "Subjectif et argumenté",
+      "explication": "Il exprime une opinion personnelle soutenue par des arguments."
+    },
+    {
+      "question": "Quel philosophe a écrit les 'Pensées' et a critiqué le divertissement ?",
+      "options": ["Blaise Pascal", "Platon", "Voltaire", "Nietzsche"],
+      "reponse": "Blaise Pascal",
+      "explication": "Pascal critique le divertissement comme fuite devant la condition humaine."
+    },
+    {
+      "question": "Qu’est-ce que la problématique ?",
+      "options": ["Une question centrale qui organise la réflexion", "Une anecdote", "Un exemple", "Une citation"],
+      "reponse": "Une question centrale qui organise la réflexion",
+      "explication": "La problématique est essentielle pour structurer une argumentation."
+    },
+    {
+      "question": "Pourquoi utilise-t-on des connecteurs logiques ?",
+      "options": ["Pour articuler les idées de façon claire", "Pour créer du suspense", "Pour décorer le texte", "Pour faire des rimes"],
+      "reponse": "Pour articuler les idées de façon claire",
+      "explication": "Ils permettent de montrer les liens logiques entre les parties du raisonnement."
+    },
+    {
+      "question": "Quelle est la meilleure manière de construire un développement en dissertation ?",
+      "options": ["Chaque paragraphe = une idée + un exemple", "Liste d’idées sans lien", "Reformulation de la thèse", "Conclusion d’abord"],
+      "reponse": "Chaque paragraphe = une idée + un exemple",
+      "explication": "Un bon paragraphe contient une idée argumentée et illustrée."
+    },
+    {
+      "question": "Qu’est-ce qu’un argument logique ?",
+      "options": ["Un raisonnement fondé sur la logique et la cohérence", "Un exemple tiré de la vie personnelle", "Une émotion provoquée", "Une attaque contre l’adversaire"],
+      "reponse": "Un raisonnement fondé sur la logique et la cohérence",
+      "explication": "L’argument logique repose sur la raison, l’ordre, les liens de cause à effet et la déduction."
+    },
+    {
+      "question": "Quel est le rôle d’un argument affectif ?",
+      "options": ["Toucher les émotions du lecteur", "Décrire une logique mathématique", "Comparer deux objets", "Prouver une équation"],
+      "reponse": "Toucher les émotions du lecteur",
+      "explication": "L’argument affectif cherche à susciter la compassion, la peur, l’amour ou l’indignation."
+    },
+    {
+      "question": "Un argument éthique repose sur…",
+      "options": ["La morale ou les valeurs humaines", "Une image forte", "Un sentiment de joie", "Un exemple scientifique"],
+      "reponse": "La morale ou les valeurs humaines",
+      "explication": "L’argument éthique est lié à l’idée du bien, de la justice ou du devoir moral."
+    },
+    {
+      "question": "Quel type d’argument utilise la logique mathématique ?",
+      "options": ["Logique", "Affectif", "Éthique", "Poétique"],
+      "reponse": "Logique",
+      "explication": "Il suit une structure rigoureuse et rationnelle, fondée sur des faits ou démonstrations."
+    },
+    {
+      "question": "Quel type d’argument est utilisé dans : « Il faut défendre les plus faibles » ?",
+      "options": ["Éthique", "Logique", "Comique", "Répétitif"],
+      "reponse": "Éthique",
+      "explication": "Cet argument fait appel à des valeurs morales comme la solidarité et la justice."
+    },
+    {
+      "question": "Quel est le but d’un récit inséré dans une argumentation ?",
+      "options": ["Illustrer un argument par une histoire parlante", "Remplacer une preuve", "Allonger le texte", "Donner un effet poétique"],
+      "reponse": "Illustrer un argument par une histoire parlante",
+      "explication": "Un récit donne un exemple concret pour mieux faire passer un message abstrait."
+    },
+    {
+      "question": "Une analogie est…",
+      "options": ["Une comparaison entre deux éléments pour clarifier une idée", "Un résumé", "Un discours", "Un dialogue"],
+      "reponse": "Une comparaison entre deux éléments pour clarifier une idée",
+      "explication": "Elle sert à rendre une idée complexe plus accessible en la comparant à une autre plus connue."
+    },
+    {
+      "question": "Quel type d’argument est : « Si nous n’agissons pas maintenant, nos enfants souffriront demain » ?",
+      "options": ["Affectif", "Logique", "Technique", "Descriptif"],
+      "reponse": "Affectif",
+      "explication": "Il cherche à provoquer une émotion forte (la peur, la responsabilité, l’amour des enfants)."
+    },
+    {
+      "question": "Quel est l’intérêt d’un exemple dans une argumentation ?",
+      "options": ["Illustrer concrètement une idée", "Faire une pause", "Changer de sujet", "Confirmer une rumeur"],
+      "reponse": "Illustrer concrètement une idée",
+      "explication": "L’exemple rend le propos plus clair, plus convaincant, et plus accessible au lecteur."
+    },
+    {
+      "question": "Dans une stratégie argumentative, la rhétorique désigne…",
+      "options": ["L’art de bien parler pour convaincre", "La répétition d’erreurs", "Une méthode scientifique", "Un style poétique"],
+      "reponse": "L’art de bien parler pour convaincre",
+      "explication": "La rhétorique est l’ensemble des procédés utilisés pour rendre le discours persuasif."
+    },
+    {
+      "question": "Que permet une question rhétorique dans un discours ?",
+      "options": ["Faire réfléchir sans attendre de réponse", "Obtenir une information", "Changer de sujet", "Expliquer une loi"],
+      "reponse": "Faire réfléchir sans attendre de réponse",
+      "explication": "C’est une figure efficace pour impliquer le lecteur ou l’auditeur."
+    },
+    {
+      "question": "Quel argument utilise : « Selon Aristote, l’homme est un animal politique » ?",
+      "options": ["Argument d’autorité", "Argument affectif", "Argument par analogie", "Argument ironique"],
+      "reponse": "Argument d’autorité",
+      "explication": "Il s’appuie sur une figure reconnue pour donner du poids à l’argument."
+    },
+    {
+      "question": "Pourquoi utiliser une accumulation dans un discours ?",
+      "options": ["Renforcer une idée par l’abondance", "Faire un effet comique", "Allonger inutilement", "Créer du suspense"],
+      "reponse": "Renforcer une idée par l’abondance",
+      "explication": "L’accumulation met en valeur une idée par la répétition de termes proches."
+    },
+    {
+      "question": "Qu’est-ce qu’une concession ?",
+      "options": ["Reconnaître un point faible pour mieux renforcer sa thèse", "Donner la parole à un autre", "Céder le débat", "Éviter le sujet"],
+      "reponse": "Reconnaître un point faible pour mieux renforcer sa thèse",
+      "explication": "Elle montre l’objectivité de l’auteur et renforce la validité de sa position."
+    },
+    {
+      "question": "Quel est l’effet d’un contraste dans un raisonnement ?",
+      "options": ["Mettre en lumière les différences pour mieux convaincre", "Créer une rime", "Changer de ton", "Revenir en arrière"],
+      "reponse": "Mettre en lumière les différences pour mieux convaincre",
+      "explication": "Le contraste accentue les oppositions pour mieux faire ressortir son idée."
+    },
+    {
+      "question": "L’humour peut être une stratégie argumentative lorsqu’il…",
+      "options": ["Dénonce subtilement une absurdité", "Rend le sujet comique", "Se moque sans lien", "Détourne l’attention"],
+      "reponse": "Dénonce subtilement une absurdité",
+      "explication": "L’ironie ou l’humour peuvent renforcer un argument en exposant le ridicule d’une idée adverse."
+    },
+    {
+      "question": "L’exagération dans l’argumentation est appelée…",
+      "options": ["Hyperbole", "Métaphore", "Pastiche", "Personnification"],
+      "reponse": "Hyperbole",
+      "explication": "Elle permet de frapper les esprits par une amplification volontaire."
+    },
+    {
+      "question": "Quel est le rôle de la répétition dans un texte argumentatif ?",
+      "options": ["Insister sur une idée clé", "Rallonger le texte", "Créer un effet comique", "Répéter une erreur"],
+      "reponse": "Insister sur une idée clé",
+      "explication": "La répétition renforce la mémorisation d’un argument fort."
+    },
+    {
+      "question": "Un argument comparatif sert à…",
+      "options": ["Mettre en évidence des ressemblances ou des différences", "Raconter une histoire", "Exposer une émotion", "Donner un chiffre exact"],
+      "reponse": "Mettre en évidence des ressemblances ou des différences",
+      "explication": "Il permet de renforcer une idée en la rapprochant d’une autre situation connue."
+    },
+    {
+      "question": "Un argument basé sur des statistiques est…",
+      "options": ["Logique", "Éthique", "Affectif", "Narratif"],
+      "reponse": "Logique",
+      "explication": "Les chiffres permettent d’appuyer rationnellement une thèse."
+    },
+    {
+      "question": "La stratégie du « bon sens » repose sur…",
+      "options": ["Ce que tout le monde admet comme évident", "Des calculs", "Des sentiments", "Une comparaison mythique"],
+      "reponse": "Ce que tout le monde admet comme évident",
+      "explication": "Elle mobilise des idées universellement partagées pour emporter l’adhésion."
+    },
+    {
+      "question": "Quel argument joue sur la peur d’un danger ?",
+      "options": ["Argument affectif", "Argument logique", "Argument descriptif", "Argument narratif"],
+      "reponse": "Argument affectif",
+      "explication": "La peur est une émotion forte utilisée pour faire réagir."
+    },
+    {
+      "question": "Quel type de discours use intensément de stratégie argumentative ?",
+      "options": ["Discours politique", "Récit de fiction", "Lettre d’amour", "Poème lyrique"],
+      "reponse": "Discours politique",
+      "explication": "Il vise à convaincre ou persuader le public sur des idées."
+    },
+    {
+      "question": "Une anecdote personnelle peut servir à…",
+      "options": ["Humaniser un propos", "Faire une pause", "Changer de sujet", "Détourner l’attention"],
+      "reponse": "Humaniser un propos",
+      "explication": "Elle rend le discours plus vivant et accessible."
+    },
+    {
+      "question": "Un argument faussement logique ou trompeur s’appelle…",
+      "options": ["Sophisme", "Oxymore", "Allégorie", "Pastiche"],
+      "reponse": "Sophisme",
+      "explication": "Un sophisme est un raisonnement apparemment correct mais en réalité faux."
+    },
+    {
+      "question": "Qu’est-ce qu’un argument ad hominem ?",
+      "options": ["Attaque la personne plutôt que l’idée", "Utilise un exemple concret", "Suit une logique mathématique", "Fait appel à l’émotion"],
+      "reponse": "Attaque la personne plutôt que l’idée",
+      "explication": "C’est une stratégie discutable qui vise à discréditer l’opposant personnellement."
+    },
+    {
+      "question": "Une citation célèbre dans un discours est un exemple de…",
+      "options": ["Argument d’autorité", "Argument affectif", "Argument narratif", "Argument descriptif"],
+      "reponse": "Argument d’autorité",
+      "explication": "Elle soutient une idée par l’exemple d’un auteur ou penseur reconnu."
+    },
+    {
+      "question": "L’appel aux valeurs universelles relève d’un argument…",
+      "options": ["Éthique", "Statistique", "Narratif", "Technique"],
+      "reponse": "Éthique",
+      "explication": "Il repose sur des principes moraux partagés comme la liberté ou la justice."
+    },
+    {
+      "question": "L’analogie entre une société et une machine est un…",
+      "options": ["Argument par analogie", "Récit", "Fait scientifique", "Exemple personnel"],
+      "reponse": "Argument par analogie",
+      "explication": "Elle permet de comprendre une réalité abstraite en la comparant à une autre plus concrète."
+    },
+    {
+      "question": "Quel type d’argument vise à faire réfléchir plutôt qu’à imposer une idée ?",
+      "options": ["Argument logique", "Argument dogmatique", "Argument direct", "Argument descriptif"],
+      "reponse": "Argument logique",
+      "explication": "Il invite à suivre un raisonnement sans émotion excessive ni contrainte morale."
+    },
+    {
+      "question": "Quel est le rôle principal de l’introduction dans un texte ?",
+      "options": ["Présenter le sujet et annoncer le plan", "Donner des exemples", "Résumer la conclusion", "Faire une critique"],
+      "reponse": "Présenter le sujet et annoncer le plan",
+      "explication": "L’introduction sert à capter l’attention, poser le sujet, et annoncer la structure du développement."
+    },
+    {
+      "question": "Qu’est-ce qui compose idéalement un bon paragraphe de développement ?",
+      "options": ["Une idée, une explication, un exemple", "Une idée vague", "Un seul mot", "Un résumé de l’introduction"],
+      "reponse": "Une idée, une explication, un exemple",
+      "explication": "C’est la structure idéale : idée principale claire + justification + illustration concrète."
+    },
+    {
+      "question": "Quelle est la fonction principale de la conclusion ?",
+      "options": ["Résumer les idées et ouvrir la réflexion", "Introduire le sujet", "Donner un exemple", "Poser une problématique"],
+      "reponse": "Résumer les idées et ouvrir la réflexion",
+      "explication": "Elle clôt le texte en rappelant les points clés et en proposant une ouverture."
+    },
+    {
+      "question": "Un texte bien rédigé est caractérisé par…",
+      "options": ["Cohérence, clarté, correction grammaticale", "Longueur, mots rares, citations", "Répétitions, improvisation, humour", "Langage familier et poétique"],
+      "reponse": "Cohérence, clarté, correction grammaticale",
+      "explication": "Ces trois qualités sont indispensables pour toute rédaction réussie."
+    },
+    {
+      "question": "Quel est l’effet d’un enchaînement logique dans un texte ?",
+      "options": ["Il permet de lier les idées de manière fluide", "Il fait rire", "Il crée une rupture", "Il embrouille le lecteur"],
+      "reponse": "Il permet de lier les idées de manière fluide",
+      "explication": "Les connecteurs logiques aident à structurer les idées pour qu’elles s’enchaînent naturellement."
+    },
+    {
+      "question": "Quel connecteur marque une opposition ?",
+      "options": ["Cependant", "Donc", "En effet", "Enfin"],
+      "reponse": "Cependant",
+      "explication": "Il permet de nuancer ou d’opposer deux idées dans un texte argumentatif."
+    },
+    {
+      "question": "Pourquoi faut-il éviter les répétitions inutiles ?",
+      "options": ["Elles alourdissent le style", "Elles sont obligatoires", "Elles font rire", "Elles montrent l’insistance"],
+      "reponse": "Elles alourdissent le style",
+      "explication": "Un bon texte utilise un vocabulaire varié pour garder l’intérêt du lecteur."
+    },
+    {
+      "question": "Un texte cohérent est un texte…",
+      "options": ["Dont les idées sont liées logiquement", "Avec beaucoup de citations", "Très long", "Qui change souvent de sujet"],
+      "reponse": "Dont les idées sont liées logiquement",
+      "explication": "La cohérence garantit la compréhension globale du propos."
+    },
+    {
+      "question": "Qu’est-ce qui contribue à la clarté d’un texte ?",
+      "options": ["Des phrases simples et bien ponctuées", "Des phrases longues et confuses", "Des tournures complexes", "Des mots rares"],
+      "reponse": "Des phrases simples et bien ponctuées",
+      "explication": "Des phrases claires et bien structurées facilitent la lecture et la compréhension."
+    },
+    {
+      "question": "Pourquoi faut-il soigner la grammaire dans un devoir écrit ?",
+      "options": ["Pour rendre le texte correct et crédible", "Pour remplir la page", "Pour faire rire", "Pour éviter d’être corrigé"],
+      "reponse": "Pour rendre le texte correct et crédible",
+      "explication": "Une bonne grammaire est essentielle pour être pris au sérieux."
+    },
+    {
+      "question": "Quel type de phrase convient en rédaction ?",
+      "options": ["Des phrases complètes avec sujet, verbe, complément", "Des phrases nominales seulement", "Des phrases orales", "Des slogans"],
+      "reponse": "Des phrases complètes avec sujet, verbe, complément",
+      "explication": "Une rédaction demande une syntaxe claire et complète."
+    },
+    {
+      "question": "Qu’est-ce qu’un connecteur logique ?",
+      "options": ["Un mot qui relie deux idées", "Une ponctuation", "Un verbe d’action", "Une figure de style"],
+      "reponse": "Un mot qui relie deux idées",
+      "explication": "Les connecteurs assurent la fluidité et la progression du texte."
+    },
+    {
+      "question": "Quel connecteur introduit une explication ?",
+      "options": ["En effet", "Mais", "Ainsi", "Alors que"],
+      "reponse": "En effet",
+      "explication": "Il sert à justifier une idée énoncée auparavant."
+    },
+    {
+      "question": "Que faut-il éviter dans une rédaction ?",
+      "options": ["Les fautes de grammaire", "Les idées", "Les paragraphes", "Les phrases courtes"],
+      "reponse": "Les fautes de grammaire",
+      "explication": "Elles affaiblissent le sérieux et la qualité de l’argumentation."
+    },
+    {
+      "question": "Un bon titre doit être…",
+      "options": ["Clair et en lien avec le sujet", "Long et poétique", "Abstrait", "Mystérieux"],
+      "reponse": "Clair et en lien avec le sujet",
+      "explication": "Il oriente immédiatement le lecteur sur le thème du texte."
+    },
+    {
+      "question": "Un paragraphe commence par…",
+      "options": ["Une idée principale", "Une citation", "Une conclusion", "Un mot de liaison"],
+      "reponse": "Une idée principale",
+      "explication": "C’est la base du développement cohérent."
+    },
+    {
+      "question": "Comment éviter les fautes d’accord ?",
+      "options": ["En relisant attentivement chaque phrase", "En écrivant vite", "En supprimant les adjectifs", "En écrivant au passé"],
+      "reponse": "En relisant attentivement chaque phrase",
+      "explication": "La relecture permet de repérer et de corriger les fautes de grammaire."
+    },
+    {
+      "question": "Pourquoi faut-il éviter les phrases trop longues ?",
+      "options": ["Elles nuisent à la clarté du texte", "Elles montrent un bon niveau", "Elles sont belles", "Elles sont poétiques"],
+      "reponse": "Elles nuisent à la clarté du texte",
+      "explication": "Des phrases trop longues rendent la lecture difficile et confuse."
+    },
+    {
+      "question": "Quel est l’objectif principal d’une rédaction ?",
+      "options": ["Exprimer clairement une idée ou un point de vue", "Remplir une feuille", "Utiliser des mots rares", "Faire des rimes"],
+      "reponse": "Exprimer clairement une idée ou un point de vue",
+      "explication": "L’objectif est de communiquer une réflexion organisée, compréhensible et convaincante."
+    },
+    {
+      "question": "Quel est l’ordre logique des parties d’un texte ?",
+      "options": ["Introduction - développement - conclusion", "Conclusion - développement - introduction", "Développement - introduction - conclusion", "Développement - conclusion - introduction"],
+      "reponse": "Introduction - développement - conclusion",
+      "explication": "C’est l’ordre classique et structuré attendu dans tout texte argumentatif ou narratif."
+    },
+    {
+      "question": "Une idée par paragraphe permet…",
+      "options": ["Une meilleure organisation du texte", "D’être plus poétique", "D’utiliser des figures de style", "De paraître plus intelligent"],
+      "reponse": "Une meilleure organisation du texte",
+      "explication": "Chaque paragraphe doit développer une idée distincte pour plus de clarté."
+    },
+    {
+      "question": "Quel temps est souvent utilisé dans les textes argumentatifs ?",
+      "options": ["Présent de l’indicatif", "Futur simple", "Imparfait", "Passé composé"],
+      "reponse": "Présent de l’indicatif",
+      "explication": "Le présent rend le propos plus direct, vivant et général."
+    },
+    {
+      "question": "Que signifie 'cohésion du texte' ?",
+      "options": ["Le texte tient ensemble grâce aux liens logiques et grammaticaux", "Il est en plusieurs langues", "Il est long", "Il comporte des dessins"],
+      "reponse": "Le texte tient ensemble grâce aux liens logiques et grammaticaux",
+      "explication": "C’est la qualité qui permet au lecteur de suivre aisément le raisonnement."
+    },
+    {
+      "question": "Une rédaction bien ponctuée permet…",
+      "options": ["Une lecture fluide et compréhensible", "Un ton dramatique", "De ralentir le lecteur", "D’être plus littéraire"],
+      "reponse": "Une lecture fluide et compréhensible",
+      "explication": "La ponctuation structure les phrases et aide à la compréhension du texte."
+    },
+    {
+      "question": "Comment enrichir le vocabulaire dans une rédaction ?",
+      "options": ["Utiliser des synonymes et des mots précis", "Faire des phrases longues", "Écrire vite", "Supprimer les adjectifs"],
+      "reponse": "Utiliser des synonymes et des mots précis",
+      "explication": "Un vocabulaire riche évite la répétition et donne de la force au propos."
+    },
+    {
+      "question": "Quel est le meilleur moment pour relire son texte ?",
+      "options": ["À la fin de la rédaction", "Au milieu", "Jamais", "Avant de commencer"],
+      "reponse": "À la fin de la rédaction",
+      "explication": "Cela permet de corriger les fautes, améliorer les phrases et vérifier la cohérence."
+    },
+    {
+      "question": "Un texte clair utilise…",
+      "options": ["Des mots simples et des phrases bien structurées", "Des proverbes", "Des citations longues", "Des mots rares"],
+      "reponse": "Des mots simples et des phrases bien structurées",
+      "explication": "La simplicité est souvent synonyme d’efficacité dans une bonne rédaction."
+    },
+    {
+      "question": "Quel type de phrase rend un texte plus dynamique ?",
+      "options": ["Phrase courte et active", "Phrase passive", "Phrase longue et descriptive", "Phrase nominale répétée"],
+      "reponse": "Phrase courte et active",
+      "explication": "Les phrases actives donnent du rythme et de l’énergie au texte."
+    },
+    {
+      "question": "Un développement bien structuré est composé…",
+      "options": ["De paragraphes clairement organisés", "D’un seul bloc de texte", "D’illustrations", "D’une citation unique"],
+      "reponse": "De paragraphes clairement organisés",
+      "explication": "Chaque idée mérite son propre paragraphe pour plus de clarté."
+    },
+    {
+      "question": "L’accord du verbe avec le sujet est une règle…",
+      "options": ["Grammaticale fondamentale", "Facultative", "Lexicale", "Rhétorique"],
+      "reponse": "Grammaticale fondamentale",
+      "explication": "Il s’agit d’un des principes de base de la correction grammaticale."
+    }
+  ]
+}

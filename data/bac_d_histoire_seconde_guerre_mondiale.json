@@ -1,0 +1,286 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle date marque le début officiel de la Seconde Guerre mondiale ?",
+      "options": ["1er septembre 1939", "28 juillet 1914", "7 décembre 1941", "6 juin 1944"],
+      "reponse": "1er septembre 1939",
+      "explication": "L’Allemagne envahit la Pologne le 1er septembre 1939, déclenchant la guerre."
+    },
+    {
+      "question": "Quel pays est envahi par l’Allemagne lors de la Blitzkrieg ?",
+      "options": ["Pologne", "France", "Royaume-Uni", "URSS"],
+      "reponse": "Pologne",
+      "explication": "La Blitzkrieg, ou guerre éclair, est utilisée pour envahir rapidement la Pologne."
+    },
+    {
+      "question": "Quelle bataille aérienne oppose l'Allemagne au Royaume-Uni en 1940 ?",
+      "options": ["Bataille d'Angleterre", "Bataille de Stalingrad", "Bataille de Midway", "Bataille de Normandie"],
+      "reponse": "Bataille d'Angleterre",
+      "explication": "Cette bataille aérienne fut la première grande campagne menée uniquement par l'aviation."
+    },
+    {
+      "question": "Quand les États-Unis entrent-ils dans la Seconde Guerre mondiale ?",
+      "options": ["Après l'attaque de Pearl Harbor en 1941", "Dès 1939", "Après la bataille de Stalingrad", "En 1944"],
+      "reponse": "Après l'attaque de Pearl Harbor en 1941",
+      "explication": "L'attaque japonaise sur Pearl Harbor le 7 décembre 1941 provoque l'entrée des USA."
+    },
+    {
+      "question": "Quelle opération militaire est connue sous le nom de 'D-Day' ?",
+      "options": ["Débarquement en Normandie", "Invasion de la Pologne", "Bataille de Midway", "Bataille de Berlin"],
+      "reponse": "Débarquement en Normandie",
+      "explication": "Le 6 juin 1944, les Alliés débarquent en Normandie pour libérer la France."
+    },
+    {
+      "question": "Qui était le dirigeant de l'Allemagne nazie pendant la Seconde Guerre mondiale ?",
+      "options": ["Adolf Hitler", "Joseph Staline", "Winston Churchill", "Franklin D. Roosevelt"],
+      "reponse": "Adolf Hitler",
+      "explication": "Hitler était le Führer de l'Allemagne et principal responsable du conflit."
+    },
+    {
+      "question": "Quelle est la signification de la Shoah ?",
+      "options": ["Génocide des Juifs pendant la guerre", "Bataille décisive", "Traité de paix", "Alliance militaire"],
+      "reponse": "Génocide des Juifs pendant la guerre",
+      "explication": "La Shoah désigne l'extermination systématique des Juifs par les nazis."
+    },
+    {
+      "question": "Quel pays soviétique a été le théâtre de la bataille la plus meurtrière ?",
+      "options": ["Union soviétique (Stalingrad)", "Pologne", "France", "Allemagne"],
+      "reponse": "Union soviétique (Stalingrad)",
+      "explication": "La bataille de Stalingrad (1942-1943) est une des plus sanglantes et un tournant majeur."
+    },
+    {
+      "question": "Quel événement marque la capitulation allemande ?",
+      "options": ["8 mai 1945", "6 juin 1944", "7 décembre 1941", "2 septembre 1945"],
+      "reponse": "8 mai 1945",
+      "explication": "Le 8 mai 1945 marque la fin des combats en Europe avec la capitulation allemande."
+    },
+    {
+      "question": "Quel pays a été envahi par le Japon en 1937, avant la guerre mondiale ?",
+      "options": ["Chine", "Corée", "Inde", "Philippines"],
+      "reponse": "Chine",
+      "explication": "Le Japon a envahi la Chine en 1937, ce qui est une étape vers la guerre mondiale."
+    },
+    {
+      "question": "Quel est le rôle de Winston Churchill pendant la guerre ?",
+      "options": ["Premier ministre britannique", "Président américain", "Dirigeant soviétique", "Chef militaire japonais"],
+      "reponse": "Premier ministre britannique",
+      "explication": "Churchill fut le Premier ministre qui mena le Royaume-Uni pendant la guerre."
+    },
+    {
+      "question": "Quelle est la principale raison de l’entrée en guerre de l’URSS en 1941 ?",
+      "options": ["Invasion allemande (Opération Barbarossa)", "Attaque de Pearl Harbor", "Déclaration de guerre des Alliés", "Révolution interne"],
+      "reponse": "Invasion allemande (Opération Barbarossa)",
+      "explication": "L'Allemagne envahit l’URSS en juin 1941, forçant l’URSS à rejoindre les Alliés."
+    },
+    {
+      "question": "Quel pays est victime du bombardement atomique en août 1945 ?",
+      "options": ["Japon", "Allemagne", "Italie", "France"],
+      "reponse": "Japon",
+      "explication": "Les villes d’Hiroshima et Nagasaki ont été bombardées par des bombes atomiques."
+    },
+    {
+      "question": "Qu’est-ce que la résistance pendant la Seconde Guerre mondiale ?",
+      "options": ["Mouvements clandestins contre l’occupation", "Alliés officiels", "Milices nazies", "Réfugiés"],
+      "reponse": "Mouvements clandestins contre l’occupation",
+      "explication": "La résistance lutte contre l’occupation allemande dans plusieurs pays européens."
+    },
+    {
+      "question": "Quelle conférence a décidé du partage de l’Europe après la guerre ?",
+      "options": ["Yalta", "Potsdam", "Versailles", "Paris"],
+      "reponse": "Yalta",
+      "explication": "En 1945, les Alliés se sont réunis à Yalta pour organiser la paix et le partage."
+    },
+    {
+      "question": "Quel fut le bilan humain de la Seconde Guerre mondiale ?",
+      "options": ["Environ 60 millions de morts", "5 millions de morts", "1 million de morts", "10 millions de morts"],
+      "reponse": "Environ 60 millions de morts",
+      "explication": "Le conflit est l’un des plus meurtriers de l’histoire humaine."
+    },
+    {
+      "question": "Quel est le nom du procès des dirigeants nazis après la guerre ?",
+      "options": ["Procès de Nuremberg", "Procès de Tokyo", "Procès de Genève", "Procès de Paris"],
+      "reponse": "Procès de Nuremberg",
+      "explication": "Les procès ont jugé les crimes de guerre nazis en 1945-1946."
+    },
+    {
+      "question": "Quel est le nom du plan américain pour reconstruire l’Europe après la guerre ?",
+      "options": ["Plan Marshall", "New Deal", "Plan Truman", "Plan Roosevelt"],
+      "reponse": "Plan Marshall",
+      "explication": "Le Plan Marshall (1947) vise à aider la reconstruction économique de l’Europe."
+    },
+    {
+      "question": "Quelle est la nature du régime de Vichy en France ?",
+      "options": ["Régime collaborationniste avec l’Allemagne", "Résistance active", "Régime démocratique", "Régime communiste"],
+      "reponse": "Régime collaborationniste avec l’Allemagne",
+      "explication": "Le régime de Vichy collabore avec les nazis entre 1940 et 1944."
+    },
+    {
+      "question": "Quelle est la signification du terme 'Holocauste' ?",
+      "options": ["Extermination des Juifs et autres minorités par les nazis", "Bataille décisive", "Alliance militaire", "Traité de paix"],
+      "reponse": "Extermination des Juifs et autres minorités par les nazis",
+      "explication": "L’Holocauste est la politique d’extermination systématique menée par les nazis."
+    },
+    {
+      "question": "Quel est le nom de la stratégie américaine contre le Japon dans le Pacifique ?",
+      "options": ["Island hopping", "Blitzkrieg", "Guerre de tranchées", "Guerre froide"],
+      "reponse": "Island hopping",
+      "explication": "Les États-Unis capturent une île après l’autre pour avancer vers le Japon."
+    },
+    {
+      "question": "Quel est le rôle de Charles de Gaulle pendant la guerre ?",
+      "options": ["Chef de la France libre", "Président américain", "Dictateur allemand", "Premier ministre britannique"],
+      "reponse": "Chef de la France libre",
+      "explication": "De Gaulle organise la résistance extérieure et la libération de la France."
+    },
+    {
+      "question": "Quelle ville allemande est détruite en grande partie par les bombardements alliés ?",
+      "options": ["Dresde", "Berlin", "Munich", "Francfort"],
+      "reponse": "Dresde",
+      "explication": "Dresde fut lourdement bombardée en 1945, causant des pertes civiles importantes."
+    },
+    {
+      "question": "Quel pays a souffert de la bataille de Leningrad ?",
+      "options": ["Union soviétique", "Allemagne", "Pologne", "France"],
+      "reponse": "Union soviétique",
+      "explication": "Le siège de Leningrad dura près de 900 jours, causant des millions de morts."
+    },
+    {
+      "question": "Quel fut le rôle des femmes pendant la guerre ?",
+      "options": ["Travail dans les usines et services de santé", "Combat au front", "Ne participaient pas", "Dirigeantes politiques"],
+      "reponse": "Travail dans les usines et services de santé",
+      "explication": "Les femmes remplacent les hommes dans les usines et assurent des soins aux blessés."
+    },
+    {
+      "question": "Quel est le nom du pacte de non-agression signé entre l'Allemagne et l'URSS en 1939 ?",
+      "options": ["Pacte Molotov-Ribbentrop", "Pacte de Varsovie", "Traité de Versailles", "Accord de Munich"],
+      "reponse": "Pacte Molotov-Ribbentrop",
+      "explication": "Ce pacte secret prévoit le partage de la Pologne et la non-agression entre les deux pays."
+    },
+    {
+      "question": "Quel est le nom de la politique d’extermination systématique des opposants par les nazis ?",
+      "options": ["Solution finale", "Blitzkrieg", "Plan Marshall", "Déportation"],
+      "reponse": "Solution finale",
+      "explication": "La Solution finale désigne le plan nazi pour exterminer les Juifs d’Europe."
+    },
+    {
+      "question": "Quel pays européen est envahi par l'Allemagne en mai 1940 ?",
+      "options": ["France", "Pologne", "Norvège", "Italie"],
+      "reponse": "France",
+      "explication": "L'Allemagne envahit la France en mai 1940, aboutissant à l’armistice de juin."
+    },
+    {
+      "question": "Quelle bataille est un tournant décisif sur le front de l'Est ?",
+      "options": ["Stalingrad", "Midway", "El Alamein", "Normandie"],
+      "reponse": "Stalingrad",
+      "explication": "La bataille de Stalingrad (1942-1943) marque la première grande défaite allemande."
+    },
+    {
+      "question": "Quel pays est envahi par le Japon en décembre 1941 ?",
+      "options": ["Philippines", "Chine", "Inde", "Corée"],
+      "reponse": "Philippines",
+      "explication": "Le Japon attaque les Philippines après Pearl Harbor, étendant la guerre dans le Pacifique."
+    },
+    {
+      "question": "Quel événement marque la fin officielle de la guerre en Asie ?",
+      "options": ["Capitulation japonaise en septembre 1945", "Bataille de Midway", "Débarquement en Normandie", "Conférence de Yalta"],
+      "reponse": "Capitulation japonaise en septembre 1945",
+      "explication": "Le Japon signe sa reddition après les bombardements atomiques d’août 1945."
+    },
+    {
+      "question": "Qui étaient les Alliés principaux pendant la Seconde Guerre mondiale ?",
+      "options": ["États-Unis, Royaume-Uni, URSS", "Allemagne, Italie, Japon", "France, Espagne, Portugal", "Chine, Inde, Australie"],
+      "reponse": "États-Unis, Royaume-Uni, URSS",
+      "explication": "Ces trois grandes puissances formaient le cœur des Alliés contre l’Axe."
+    },
+    {
+      "question": "Quel pays est responsable de la libération de Paris en 1944 ?",
+      "options": ["France libre et forces alliées", "Allemagne", "URSS", "Italie"],
+      "reponse": "France libre et forces alliées",
+      "explication": "Les forces françaises libres, aidées par les Alliés, libèrent Paris en août 1944."
+    },
+    {
+      "question": "Quel est le nom des camps de concentration et d’extermination nazis ?",
+      "options": ["Auschwitz, Treblinka, Sobibor", "Dachau, Buchenwald, Ravensbrück", "Tous étaient des camps nazis", "Aucune de ces réponses"],
+      "reponse": "Tous étaient des camps nazis",
+      "explication": "Ces camps servaient à la déportation, l'esclavage et l'extermination systématique."
+    },
+    {
+      "question": "Quelle conférence prépare la création de l’ONU ?",
+      "options": ["Conférence de Yalta", "Conférence de Potsdam", "Conférence de Genève", "Conférence de Paris"],
+      "reponse": "Conférence de Yalta",
+      "explication": "Yalta (février 1945) pose les bases de l’organisation mondiale pour la paix."
+    },
+    {
+      "question": "Quelle armée a libéré le camp d’Auschwitz en 1945 ?",
+      "options": ["Armée rouge (URSS)", "Armée américaine", "Armée britannique", "Armée française"],
+      "reponse": "Armée rouge (URSS)",
+      "explication": "Les troupes soviétiques libèrent le camp d’Auschwitz le 27 janvier 1945."
+    },
+    {
+      "question": "Quelle est la politique suivie par les États-Unis dans le Pacifique pour avancer contre le Japon ?",
+      "options": ["Island hopping", "Guerre de tranchées", "Blitzkrieg", "Guerre de mouvement"],
+      "reponse": "Island hopping",
+      "explication": "Stratégie de conquête d’îles stratégiques pour isoler le Japon."
+    },
+    {
+      "question": "Quel événement déclenche l’entrée en guerre des États-Unis ?",
+      "options": ["Attaque de Pearl Harbor", "Invasion de la Pologne", "Bataille de Midway", "Bombardement de Dresde"],
+      "reponse": "Attaque de Pearl Harbor",
+      "explication": "Le 7 décembre 1941, le Japon attaque la base navale américaine, provoquant l'entrée en guerre."
+    },
+    {
+      "question": "Quelle puissance de l’Axe capitule en premier ?",
+      "options": ["Italie", "Allemagne", "Japon", "URSS"],
+      "reponse": "Italie",
+      "explication": "L’Italie signe l’armistice en 1943 après la chute de Mussolini."
+    },
+    {
+      "question": "Quelle bataille navale est un tournant dans la guerre du Pacifique ?",
+      "options": ["Midway", "Pearl Harbor", "Leyte Gulf", "Coral Sea"],
+      "reponse": "Midway",
+      "explication": "La bataille de Midway en 1942 inflige une lourde défaite au Japon."
+    },
+    {
+      "question": "Quel est le nom du chef du gouvernement de Vichy ?",
+      "options": ["Philippe Pétain", "Charles de Gaulle", "Pierre Laval", "Adolf Hitler"],
+      "reponse": "Philippe Pétain",
+      "explication": "Pétain dirige le régime collaborationniste de Vichy de 1940 à 1944."
+    },
+    {
+      "question": "Quel est l’objectif principal de la politique de collaboration du régime de Vichy ?",
+      "options": ["Coopérer avec l’Allemagne nazie", "Résister aux nazis", "Promouvoir la démocratie", "Organiser la résistance"],
+      "reponse": "Coopérer avec l’Allemagne nazie",
+      "explication": "Le régime collabore avec l’occupant allemand pour maintenir l’ordre et supprimer la résistance."
+    },
+    {
+      "question": "Quel est le nom donné au génocide des Tziganes et des handicapés par les nazis ?",
+      "options": ["Holocauste", "Shoah", "Porajmos", "Solution finale"],
+      "reponse": "Porajmos",
+      "explication": "Le Porajmos désigne l’extermination des Tziganes par le régime nazi."
+    },
+    {
+      "question": "Quel pays subit un siège meurtrier pendant presque 900 jours ?",
+      "options": ["Leningrad", "Varsovie", "Paris", "Berlin"],
+      "reponse": "Leningrad",
+      "explication": "Le siège de Leningrad par les forces allemandes cause des millions de morts civils."
+    },
+    {
+      "question": "Quel est le nom de la politique menée par Hitler visant à l’extermination des Juifs ?",
+      "options": ["Solution finale", "Blitzkrieg", "Lebensraum", "Ghettoïsation"],
+      "reponse": "Solution finale",
+      "explication": "La Solution finale désigne le plan d’extermination systématique des Juifs européens."
+    },
+    {
+      "question": "Quel général américain a dirigé la libération de la France ?",
+      "options": ["Dwight D. Eisenhower", "George Patton", "Douglas MacArthur", "Bernard Montgomery"],
+      "reponse": "Dwight D. Eisenhower",
+      "explication": "Eisenhower fut le commandant suprême des forces alliées en Europe."
+    },
+    {
+      "question": "Quel est le nom du procès qui a jugé les criminels nazis après la guerre ?",
+      "options": ["Procès de Nuremberg", "Procès de Tokyo", "Procès de Paris", "Procès de Londres"],
+      "reponse": "Procès de Nuremberg",
+      "explication": "Les procès de Nuremberg (1945-1946) ont condamné les responsables nazis pour crimes de guerre."
+    }
+  ]
+}

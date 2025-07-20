@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Quel désert est situé au sud-ouest de l’Afrique ?",
+      "options": ["Namib", "Sahara", "Kalahari", "Gobi"],
+      "reponse": "Namib",
+      "explication": "Le désert du Namib est un désert côtier situé principalement en Namibie."
+    },
+    {
+      "question": "Quel fleuve traverse la forêt tropicale du bassin du Congo ?",
+      "options": ["Congo", "Nil", "Niger", "Zambèze"],
+      "reponse": "Congo",
+      "explication": "Le fleuve Congo traverse la forêt tropicale la plus étendue d’Afrique."
+    },
+    {
+      "question": "Quelle est la particularité des montagnes Drakensberg ?",
+      "options": ["Situées en Afrique du Sud avec des pics élevés", "Situées en Afrique du Nord", "Reliefs très plats", "Présence de glaciers"],
+      "reponse": "Situées en Afrique du Sud avec des pics élevés",
+      "explication": "Les Drakensberg sont une chaîne montagneuse majeure en Afrique australe."
+    },
+    {
+      "question": "Qu’est-ce que la mousson africaine ?",
+      "options": ["Vent saisonnier apportant de fortes pluies", "Tempête désertique", "Cyclone tropical", "Sécheresse prolongée"],
+      "reponse": "Vent saisonnier apportant de fortes pluies",
+      "explication": "La mousson influence le climat et la végétation de certaines régions d’Afrique.",
+    },
+    {
+      "question": "Quelle ressource naturelle est abondante dans le bassin du lac Tchad ?",
+      "options": ["Eau douce", "Pétrole", "Or", "Charbon"],
+      "reponse": "Eau douce",
+      "explication": "Le lac Tchad est une source d’eau importante malgré sa réduction récente.",
+    },
+    {
+      "question": "Quel est l’effet de l’altitude sur le climat africain ?",
+      "options": ["Baisse des températures et pluies accrues en montagne", "Augmentation des températures", "Climat désertique constant", "Pas d’effet"],
+      "reponse": "Baisse des températures et pluies accrues en montagne",
+      "explication": "L’altitude influence les conditions climatiques locales.",
+    },
+    {
+      "question": "Quelle est la fonction principale du climat méditerranéen en Afrique ?",
+      "options": ["Soutenir l’agriculture céréalière", "Créer des zones désertiques", "Favoriser les forêts tropicales", "Provoquer des inondations"],
+      "reponse": "Soutenir l’agriculture céréalière",
+      "explication": "Le climat méditerranéen est favorable aux cultures comme le blé et l’olivier.",
+    },
+    {
+      "question": "Quel est l’impact de la savane sur l’agriculture africaine ?",
+      "options": ["Zone propice à l’élevage et cultures saisonnières", "Zone désertique improductive", "Forêt dense", "Montagne"],
+      "reponse": "Zone propice à l’élevage et cultures saisonnières",
+      "explication": "La savane permet des activités agricoles adaptées au climat semi-aride.",
+    },
+    {
+      "question": "Quelle est la particularité du climat équatorial africain ?",
+      "options": ["Chaleur et pluies abondantes toute l’année", "Saison sèche prolongée", "Climat tempéré", "Climat désertique"],
+      "reponse": "Chaleur et pluies abondantes toute l’année",
+      "explication": "Le climat équatorial est caractérisé par une forte humidité et des températures stables.",
+    },
+    {
+      "question": "Quelle ressource naturelle est exploitée dans la région du Sahara ?",
+      "options": ["Pétrole et gaz naturel", "Forêts denses", "Eau douce abondante", "Terres agricoles fertiles"],
+      "reponse": "Pétrole et gaz naturel",
+      "explication": "Le Sahara est riche en hydrocarbures malgré son environnement aride.",
+    },
+    {
+      "question": "Quel est le principal facteur qui influence la répartition des précipitations en Afrique ?",
+      "options": ["Position géographique et courants atmosphériques", "Activité humaine uniquement", "Relief uniquement", "Température uniquement"],
+      "reponse": "Position géographique et courants atmosphériques",
+      "explication": "Ces facteurs déterminent les zones humides et arides.",
+    },
+    {
+      "question": "Qu’est-ce que la zone intertropicale africaine ?",
+      "options": ["Zone proche de l’équateur avec climat chaud et humide", "Zone désertique", "Zone tempérée", "Zone montagneuse"],
+      "reponse": "Zone proche de l’équateur avec climat chaud et humide",
+      "explication": "Cette zone connaît une végétation dense et des précipitations importantes.",
+    },
+    {
+      "question": "Quelle est la principale ressource minière dans la région des Grands Lacs africains ?",
+      "options": ["Coltan", "Or", "Charbon", "Pétrole"],
+      "reponse": "Coltan",
+      "explication": "Le coltan est un minerai essentiel pour les industries électroniques.",
+    },
+    {
+      "question": "Quel est l’impact de la déforestation sur le climat local ?",
+      "options": ["Augmentation des températures et diminution des pluies", "Baisse des températures", "Amélioration de la qualité de l’air", "Aucun impact"],
+      "reponse": "Augmentation des températures et diminution des pluies",
+      "explication": "La perte de forêts réduit l’évapotranspiration, impactant le climat.",
+    },
+    {
+      "question": "Quelle est la principale caractéristique du désert du Kalahari ?",
+      "options": ["Semi-aride avec quelques zones boisées", "Désert de sable pur", "Zone humide", "Forêt tropicale"],
+      "reponse": "Semi-aride avec quelques zones boisées",
+      "explication": "Le Kalahari est un désert avec une végétation clairsemée.",
+    },
+    {
+      "question": "Quel est le rôle des nappes phréatiques dans les régions arides africaines ?",
+      "options": ["Fournir de l’eau potable et pour l’irrigation", "Créer des zones inondées", "Aucune utilité", "Favoriser la désertification"],
+      "reponse": "Fournir de l’eau potable et pour l’irrigation",
+      "explication": "Les nappes sont une ressource précieuse dans les zones sèches.",
+    },
+    {
+      "question": "Quel est l’effet de l’érosion sur les sols africains ?",
+      "options": ["Perte de la couche fertile et baisse de la productivité", "Amélioration de la fertilité", "Aucun effet", "Augmentation des sols cultivables"],
+      "reponse": "Perte de la couche fertile et baisse de la productivité",
+      "explication": "L’érosion emporte la couche superficielle riche en nutriments.",
+    },
+    {
+      "question": "Quelle est la principale activité économique liée au climat tropical humide ?",
+      "options": ["Exploitation forestière et agriculture intensive", "Élevage extensif uniquement", "Industrie lourde", "Tourisme hivernal"],
+      "reponse": "Exploitation forestière et agriculture intensive",
+      "explication": "Le climat humide favorise la croissance dense des forêts et cultures.",
+    },
+    {
+      "question": "Quel est le principal obstacle à l’exploitation durable des ressources naturelles ?",
+      "options": ["Manque de moyens et mauvaise gestion", "Surveillance parfaite", "Protection complète", "Reforestation automatique"],
+      "reponse": "Manque de moyens et mauvaise gestion",
+      "explication": "Les ressources sont souvent surexploitées par manque d’encadrement.",
+    },
+    {
+      "question": "Quelle est la principale ressource énergétique issue de l’environnement naturel en Afrique ?",
+      "options": ["Biomasse", "Pétrole", "Charbon", "Gaz naturel"],
+      "reponse": "Biomasse",
+      "explication": "La biomasse (bois, déchets organiques) est une source d’énergie majeure en Afrique rurale.",
+    },
+    {
+      "question": "Quel est le plus haut sommet d’Afrique ?",
+      "options": ["Kilimandjaro", "Mont Kenya", "Atlas", "Drakensberg"],
+      "reponse": "Kilimandjaro",
+      "explication": "Le Kilimandjaro, en Tanzanie, est le point culminant d’Afrique avec environ 5895 mètres."
+    },
+    {
+      "question": "Quelle grande chaîne de montagnes traverse l’Afrique du Nord ?",
+      "options": ["Atlas", "Drakensberg", "Ruwenzori", "Montagnes du Cap"],
+      "reponse": "Atlas",
+      "explication": "Les montagnes de l’Atlas s’étendent du Maroc à la Tunisie, formant une barrière naturelle.",
+    },
+    {
+      "question": "Quelle région africaine est caractérisée par un climat désertique ?",
+      "options": ["Sahara", "Congo", "Sahel", "Kalahari"],
+      "reponse": "Sahara",
+      "explication": "Le Sahara est le plus grand désert chaud du monde, couvrant une grande partie du nord de l’Afrique.",
+    },
+    {
+      "question": "Quel est le climat dominant dans la région équatoriale africaine ?",
+      "options": ["Tropical humide", "Désertique", "Méditerranéen", "Tempéré"],
+      "reponse": "Tropical humide",
+      "explication": "Cette région connaît des températures élevées et des précipitations abondantes toute l’année.",
+    },
+    {
+      "question": "Quelle est la principale ressource naturelle du bassin du Congo ?",
+      "options": ["Forêts denses", "Déserts", "Montagnes", "Glaciers"],
+      "reponse": "Forêts denses",
+      "explication": "Le bassin du Congo abrite la deuxième plus grande forêt tropicale au monde.",
+    },
+    {
+      "question": "Quel fleuve est le plus long d’Afrique ?",
+      "options": ["Nil", "Congo", "Niger", "Zambèze"],
+      "reponse": "Nil",
+      "explication": "Le Nil mesure environ 6650 km et traverse plusieurs pays avant de se jeter en Méditerranée.",
+    },
+    {
+      "question": "Quelle est la principale caractéristique du climat sahélien ?",
+      "options": ["Zone de transition entre désert et savane", "Climat tropical humide", "Climat méditerranéen", "Zone de haute montagne"],
+      "reponse": "Zone de transition entre désert et savane",
+      "explication": "Le Sahel est une zone semi-aride avec des précipitations limitées.",
+    },
+    {
+      "question": "Quelles sont les principales ressources minières en Afrique ?",
+      "options": ["Or, diamant, pétrole, cuivre", "Charbon uniquement", "Fer uniquement", "Gaz naturel uniquement"],
+      "reponse": "Or, diamant, pétrole, cuivre",
+      "explication": "L’Afrique est riche en ressources minières variées exploitées dans plusieurs régions.",
+    },
+    {
+      "question": "Quel est le rôle des rivières africaines dans l’économie ?",
+      "options": ["Irrigation, production d’énergie, transport", "Aucune utilité", "Source d’inondations uniquement", "Barrière naturelle"],
+      "reponse": "Irrigation, production d’énergie, transport",
+      "explication": "Les fleuves sont essentiels pour l’agriculture, l’hydroélectricité et la navigation.",
+    },
+    {
+      "question": "Quelle est la particularité du climat méditerranéen en Afrique ?",
+      "options": ["Été chaud et sec, hiver doux et pluvieux", "Climat équatorial", "Climat désertique", "Climat tropical humide"],
+      "reponse": "Été chaud et sec, hiver doux et pluvieux",
+      "explication": "Ce climat concerne surtout les régions côtières du nord de l’Afrique.",
+    },
+    {
+      "question": "Qu’est-ce que la savane ?",
+      "options": ["Étendue herbeuse avec quelques arbres", "Forêt dense", "Désert aride", "Montagne rocheuse"],
+      "reponse": "Étendue herbeuse avec quelques arbres",
+      "explication": "La savane est une formation végétale typique des zones tropicales semi-arides.",
+    },
+    {
+      "question": "Quelle région africaine est la plus exposée aux cyclones tropicaux ?",
+      "options": ["Côte Est (Océan Indien)", "Sahara", "Sahel", "Côte Ouest"],
+      "reponse": "Côte Est (Océan Indien)",
+      "explication": "Les cyclones touchent principalement les pays de la côte Est africaine.",
+    },
+    {
+      "question": "Quel est le principal facteur influençant la diversité des climats en Afrique ?",
+      "options": ["Étendue géographique et relief varié", "Présence d’océans uniquement", "Activité humaine uniquement", "Uniformité géographique"],
+      "reponse": "Étendue géographique et relief varié",
+      "explication": "La diversité des zones climatiques est liée à la taille et la topographie du continent.",
+    },
+    {
+      "question": "Quelle est la ressource énergétique la plus exploitée en Afrique ?",
+      "options": ["Pétrole", "Charbon", "Énergie solaire", "Énergie nucléaire"],
+      "reponse": "Pétrole",
+      "explication": "Le pétrole est la principale source d’énergie commerciale sur le continent.",
+    },
+    {
+      "question": "Quelles sont les conséquences de la déforestation en Afrique ?",
+      "options": ["Perte de biodiversité et érosion des sols", "Amélioration de la qualité de l’air", "Expansion des zones forestières", "Réduction du réchauffement climatique"],
+      "reponse": "Perte de biodiversité et érosion des sols",
+      "explication": "La déforestation menace les écosystèmes et la fertilité des sols.",
+    },
+    {
+      "question": "Quelle est la plus grande étendue désertique chaude au monde ?",
+      "options": ["Sahara", "Kalahari", "Namib", "Gobi"],
+      "reponse": "Sahara",
+      "explication": "Le Sahara couvre environ 9 millions de km² en Afrique du Nord.",
+    },
+    {
+      "question": "Quelle est la source principale de l’énergie hydroélectrique en Afrique ?",
+      "options": ["Fleuves comme le Nil et le Congo", "Soleil", "Vent", "Géothermie"],
+      "reponse": "Fleuves comme le Nil et le Congo",
+      "explication": "Les grands fleuves permettent la production d’électricité hydroélectrique.",
+    },
+    {
+      "question": "Quel est le climat dominant dans les zones désertiques africaines ?",
+      "options": ["Aride", "Tropical humide", "Méditerranéen", "Tempéré"],
+      "reponse": "Aride",
+      "explication": "Les zones désertiques sont caractérisées par un climat très sec et peu de précipitations.",
+    },
+    {
+      "question": "Quelles sont les principales activités économiques liées aux ressources naturelles ?",
+      "options": ["Agriculture, exploitation minière, pêche", "Industrie lourde uniquement", "Tourisme uniquement", "Technologie uniquement"],
+      "reponse": "Agriculture, exploitation minière, pêche",
+      "explication": "Ces activités sont fortement liées à la nature et aux ressources du milieu.",
+    },
+    {
+      "question": "Quelle est la principale caractéristique des montagnes Ruwenzori ?",
+      "options": ["Présence de glaciers en Afrique équatoriale", "Climat désertique", "Altitude faible", "Absence de végétation"],
+      "reponse": "Présence de glaciers en Afrique équatoriale",
+      "explication": "Les Ruwenzori abritent des glaciers malgré leur position proche de l’équateur.",
+    },
+    {
+      "question": "Quelle est la principale fonction des forêts tropicales africaines ?",
+      "options": ["Régulation du climat et habitat pour la biodiversité", "Zone agricole", "Désertification", "Zone urbaine"],
+      "reponse": "Régulation du climat et habitat pour la biodiversité",
+      "explication": "Les forêts tropicales jouent un rôle crucial pour l’écosystème mondial.",
+    },
+    {
+      "question": "Quel est l’impact du changement climatique sur les milieux naturels africains ?",
+      "options": ["Modification des précipitations et augmentation des sécheresses", "Climat stable", "Augmentation des forêts", "Réduction des températures"],
+      "reponse": "Modification des précipitations et augmentation des sécheresses",
+      "explication": "Le changement climatique affecte fortement les cycles naturels.",
+    },
+    {
+      "question": "Quelle est la principale caractéristique du climat tropical humide ?",
+      "options": ["Pluies abondantes toute l’année", "Saison sèche très longue", "Températures basses", "Climat désertique"],
+      "reponse": "Pluies abondantes toute l’année",
+      "explication": "Ce climat se rencontre principalement autour de l’équateur.",
+    },
+    {
+      "question": "Quel est le principal facteur de formation des reliefs africains ?",
+      "options": ["Activité tectonique et érosion", "Volcanisme uniquement", "Absence de reliefs", "Glaciation uniquement"],
+      "reponse": "Activité tectonique et érosion",
+      "explication": "Les reliefs sont façonnés par des mouvements de plaques et l’usure par l’eau et le vent.",
+    },
+    {
+      "question": "Quelles ressources minérales sont abondantes en Afrique de l’Ouest ?",
+      "options": ["Or et manganèse", "Charbon uniquement", "Cuivre uniquement", "Pétrole uniquement"],
+      "reponse": "Or et manganèse",
+      "explication": "L’Afrique de l’Ouest est riche en métaux précieux et industriels.",
+    },
+    {
+      "question": "Quel est le rôle des nappes phréatiques en Afrique ?",
+      "options": ["Source d’eau potable et d’irrigation", "Source d’énergie", "Zone urbaine", "Zone industrielle"],
+      "reponse": "Source d’eau potable et d’irrigation",
+      "explication": "Les nappes phréatiques sont cruciales pour l’approvisionnement en eau.",
+    },
+    {
+      "question": "Quelle est la principale menace pour les ressources naturelles africaines ?",
+      "options": ["Surexploitation et dégradation environnementale", "Protection complète", "Expansion naturelle", "Reforestation automatique"],
+      "reponse": "Surexploitation et dégradation environnementale",
+      "explication": "La pression humaine compromet la durabilité des ressources.",
+    },
+    {
+      "question": "Quelle est la fonction principale des zones humides en Afrique ?",
+      "options": ["Habitat pour la faune et régulation hydrologique", "Zone urbaine", "Désertification", "Zone minière"],
+      "reponse": "Habitat pour la faune et régulation hydrologique",
+      "explication": "Les zones humides jouent un rôle écologique essentiel.",
+    },
+    {
+      "question": "Quel est le principal facteur limitant l’agriculture en zones arides africaines ?",
+      "options": ["Manque d’eau", "Excès d’eau", "Fertilité excessive", "Climat tempéré"],
+      "reponse": "Manque d’eau",
+      "explication": "L’insuffisance en eau limite fortement la production agricole.",
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la première étape pour réussir une dissertation philosophique ?",
+      "options": ["Comprendre le sujet", "Trouver une citation", "Écrire l’introduction", "Rédiger la conclusion"],
+      "reponse": "Comprendre le sujet",
+      "explication": "Saisir le sens précis du sujet est indispensable pour ne pas partir hors sujet."
+    },
+    {
+      "question": "Que signifie problématiser un sujet en philosophie ?",
+      "options": ["Poser une question centrale", "Donner son avis personnel", "Résumer le sujet", "Trouver une citation"],
+      "reponse": "Poser une question centrale",
+      "explication": "La problématique guide l’ensemble de la réflexion en posant un enjeu précis."
+    },
+    {
+      "question": "Que doit contenir une bonne introduction ?",
+      "options": ["Accroche, définition, problématique, annonce du plan", "Résumé du cours", "Opinion personnelle", "Liste de citations"],
+      "reponse": "Accroche, définition, problématique, annonce du plan",
+      "explication": "L’introduction doit capter l’attention et présenter clairement la démarche."
+    },
+    {
+      "question": "Quel est le but principal du développement ?",
+      "options": ["Présenter des arguments pour répondre à la problématique", "Raconter une histoire", "Donner son opinion", "Énumérer des faits"],
+      "reponse": "Présenter des arguments pour répondre à la problématique",
+      "explication": "Le développement structure la réflexion par des arguments clairs et étayés."
+    },
+    {
+      "question": "Comment doit-on organiser le développement ?",
+      "options": ["En parties thèse, antithèse, synthèse", "En listes de faits", "Sans plan précis", "En citations seules"],
+      "reponse": "En parties thèse, antithèse, synthèse",
+      "explication": "Cette structure dialectique permet d’examiner plusieurs aspects du sujet."
+    },
+    {
+      "question": "Pourquoi utiliser des exemples en dissertation ?",
+      "options": ["Pour illustrer et renforcer les arguments", "Pour remplir la page", "Pour citer des auteurs", "Pour impressionner"],
+      "reponse": "Pour illustrer et renforcer les arguments",
+      "explication": "Les exemples rendent les idées plus concrètes et convaincantes."
+    },
+    {
+      "question": "Qu’est-ce qu’une thèse ?",
+      "options": ["Une affirmation soutenue par des arguments", "Une question", "Un fait", "Une anecdote"],
+      "reponse": "Une affirmation soutenue par des arguments",
+      "explication": "La thèse est la position défendue dans le débat."
+    },
+    {
+      "question": "Qu’est-ce qu’une antithèse ?",
+      "options": ["Une position opposée à la thèse", "Une répétition", "Une anecdote", "Une citation"],
+      "reponse": "Une position opposée à la thèse",
+      "explication": "L’antithèse offre un contrepoint pour enrichir la réflexion."
+    },
+    {
+      "question": "Pourquoi est-il important d’annoncer le plan dans l’introduction ?",
+      "options": ["Pour guider le lecteur", "Pour impressionner", "Ce n’est pas obligatoire", "Pour remplir l’introduction"],
+      "reponse": "Pour guider le lecteur",
+      "explication": "L’annonce du plan facilite la compréhension de la structure du texte."
+    },
+    {
+      "question": "Quelle fonction a la conclusion ?",
+      "options": ["Répondre à la problématique et ouvrir sur une réflexion", "Introduire un nouveau sujet", "Donner son avis personnel seul", "Reprendre le développement mot à mot"],
+      "reponse": "Répondre à la problématique et ouvrir sur une réflexion",
+      "explication": "La conclusion synthétise et ouvre vers une autre question."
+    },
+    {
+      "question": "Qu’est-ce que la dialectique en philosophie ?",
+      "options": ["Dialogue entre thèse et antithèse menant à une synthèse", "Discussion entre amis", "Une opinion personnelle", "Un résumé du texte"],
+      "reponse": "Dialogue entre thèse et antithèse menant à une synthèse",
+      "explication": "La dialectique est une méthode qui vise à dépasser les contradictions."
+    },
+    {
+      "question": "Pourquoi éviter le hors-sujet ?",
+      "options": ["Parce qu’il nuit à la pertinence de la dissertation", "Pour remplir la page", "Pour faire plaisir au professeur", "Ce n’est pas important"],
+      "reponse": "Parce qu’il nuit à la pertinence de la dissertation",
+      "explication": "Rester dans le sujet garantit que la réflexion est bien ciblée."
+    },
+    {
+      "question": "Comment reformuler un sujet ?",
+      "options": ["Expliquer le sujet avec ses propres mots", "Le copier", "Le résumer brièvement", "Ignorer la reformulation"],
+      "reponse": "Expliquer le sujet avec ses propres mots",
+      "explication": "La reformulation montre la compréhension et éclaire les termes."
+    },
+    {
+      "question": "Quelle est l’utilité des définitions dans l’introduction ?",
+      "options": ["Clarifier les termes clés du sujet", "Remplir la page", "Faire une citation", "Donner son avis"],
+      "reponse": "Clarifier les termes clés du sujet",
+      "explication": "Définir les mots importants évite les malentendus."
+    },
+    {
+      "question": "Comment construire un argument solide ?",
+      "options": ["Présenter une idée claire avec un exemple ou une raison", "Donner son opinion sans preuve", "Faire une anecdote", "Écrire un paragraphe long"],
+      "reponse": "Présenter une idée claire avec un exemple ou une raison",
+      "explication": "Un bon argument est clair, justifié et illustré."
+    },
+    {
+      "question": "Qu’est-ce qu’un paragraphe argumentatif ?",
+      "options": ["Un paragraphe développant un argument avec justification", "Un résumé", "Une anecdote", "Une citation seule"],
+      "reponse": "Un paragraphe développant un argument avec justification",
+      "explication": "Chaque paragraphe doit présenter une idée soutenue par des preuves."
+    },
+    {
+      "question": "Pourquoi citer des philosophes ?",
+      "options": ["Pour appuyer ses arguments et montrer sa culture", "Pour remplir la dissertation", "Pour impressionner", "Ce n’est pas nécessaire"],
+      "reponse": "Pour appuyer ses arguments et montrer sa culture",
+      "explication": "Les citations crédibilisent l’argumentation."
+    },
+    {
+      "question": "Quelle place doit avoir l’opinion personnelle en dissertation ?",
+      "options": ["Elle doit être argumentée et nuancée", "Elle domine tout le texte", "Elle est interdite", "Elle se place uniquement en introduction"],
+      "reponse": "Elle doit être argumentée et nuancée",
+      "explication": "L’opinion doit être justifiée et intégrée dans un raisonnement logique."
+    },
+    {
+      "question": "Comment conclure une dissertation ?",
+      "options": ["En répondant clairement à la problématique et en ouvrant la réflexion", "En résumant le cours", "En donnant son avis sans argument", "En posant une nouvelle question sans réponse"],
+      "reponse": "En répondant clairement à la problématique et en ouvrant la réflexion",
+      "explication": "La conclusion doit synthétiser et inviter à aller plus loin."
+    },
+    {
+      "question": "Pourquoi éviter les répétitions ?",
+      "options": ["Pour rendre le texte plus fluide et clair", "Pour remplir la page", "Pour impressionner", "Ce n’est pas important"],
+      "reponse": "Pour rendre le texte plus fluide et clair",
+      "explication": "Les répétitions nuisent à la qualité du texte."
+    },
+    {
+      "question": "Comment présenter un plan dans l’introduction ?",
+      "options": ["Annonce claire des parties principales", "Liste d’idées", "Résumé du sujet", "Citation"],
+      "reponse": "Annonce claire des parties principales",
+      "explication": "Le plan aide le lecteur à suivre l’argumentation."
+    },
+    {
+      "question": "Qu’est-ce qu’une synthèse dans une dissertation ?",
+      "options": ["Une solution qui dépasse la contradiction entre thèse et antithèse", "Un résumé", "Un avis personnel", "Une critique"],
+      "reponse": "Une solution qui dépasse la contradiction entre thèse et antithèse",
+      "explication": "La synthèse permet d’articuler les différentes idées pour une réponse nuancée."
+    },
+    {
+      "question": "Quelle attitude adopter face à un sujet difficile ?",
+      "options": ["Analyser précisément et poser une problématique claire", "Éviter le sujet", "Donner son avis sans réflexion", "Faire un hors-sujet"],
+      "reponse": "Analyser précisément et poser une problématique claire",
+      "explication": "Une bonne analyse permet de mieux maîtriser un sujet complexe."
+    },
+    {
+      "question": "Pourquoi structurer ses idées ?",
+      "options": ["Pour que la réflexion soit claire et convaincante", "Pour remplir la page", "Pour citer des auteurs", "Ce n’est pas important"],
+      "reponse": "Pour que la réflexion soit claire et convaincante",
+      "explication": "Une bonne organisation aide le lecteur à suivre le raisonnement."
+    },
+    {
+      "question": "Que doit-on éviter dans une dissertation ?",
+      "options": ["Les affirmations non justifiées", "Les exemples", "Les citations", "La structure"],
+      "reponse": "Les affirmations non justifiées",
+      "explication": "Toute affirmation doit être appuyée par des arguments ou exemples."
+    },
+    {
+      "question": "Quel est le rôle de l’introduction ?",
+      "options": ["Présenter le sujet et annoncer la démarche", "Donner son avis personnel", "Raconter une anecdote", "Écrire une citation"],
+      "reponse": "Présenter le sujet et annoncer la démarche",
+      "explication": "Elle prépare le lecteur à la réflexion à venir."
+    },
+    {
+      "question": "Que faire avant de rédiger ?",
+      "options": ["Faire un plan détaillé", "Écrire directement", "Chercher des citations", "Résumé du cours"],
+      "reponse": "Faire un plan détaillé",
+      "explication": "Le plan organise les idées pour une rédaction claire et cohérente."
+    },
+    {
+      "question": "Quelle est l’importance de la cohérence dans une dissertation ?",
+      "options": ["Elle assure que les idées s’enchaînent logiquement", "Elle remplit la page", "Elle impressionne le correcteur", "Elle n’a pas d’importance"],
+      "reponse": "Elle assure que les idées s’enchaînent logiquement",
+      "explication": "La cohérence est essentielle pour que l’argumentation soit compréhensible."
+    },
+    {
+      "question": "Comment vérifier la qualité d’une dissertation ?",
+      "options": ["Relire et s’assurer de la clarté, cohérence et pertinence", "L’envoyer sans relecture", "Ajouter plus d’exemples", "Réécrire entièrement"],
+      "reponse": "Relire et s’assurer de la clarté, cohérence et pertinence",
+      "explication": "La relecture permet de corriger erreurs et incohérences."
+    }
+  ]
+}
