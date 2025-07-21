@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que le champ de gravité ?",
+      "options": ["Le champ créé par un corps massif qui exerce une force attractive", "Un champ électrique", "Un champ magnétique", "Une force de répulsion"],
+      "reponse": "Le champ créé par un corps massif qui exerce une force attractive",
+      "explication": "Le champ de gravité est un champ vectoriel généré par une masse."
+    },
+    {
+      "question": "Quelle est l’unité du champ de gravité dans le S.I. ?",
+      "options": ["Newton par kilogramme (N/kg)", "Newton (N)", "Kilogramme (kg)", "Mètre par seconde (m/s)"],
+      "reponse": "Newton par kilogramme (N/kg)",
+      "explication": "Le champ de gravité s’exprime en force par unité de masse."
+    },
+    {
+      "question": "La valeur du champ de gravité près de la surface terrestre est approximativement :",
+      "options": ["9,8 N/kg", "1 N/kg", "100 N/kg", "0 N/kg"],
+      "reponse": "9,8 N/kg",
+      "explication": "Cette valeur est appelée accélération de la pesanteur g."
+    },
+    {
+      "question": "Quelle est la relation entre le champ de gravité g, la masse M de la Terre et la distance r au centre ?",
+      "options": ["g = G × M / r²", "g = M / r", "g = G × r / M", "g = M × r²"],
+      "reponse": "g = G × M / r²",
+      "explication": "G est la constante gravitationnelle universelle."
+    },
+    {
+      "question": "Quelle est la valeur de la constante gravitationnelle G ?",
+      "options": ["6,67 × 10⁻¹¹ N·m²/kg²", "9,8 N/kg", "3 × 10⁸ m/s", "1,6 × 10⁻¹⁹ C"],
+      "reponse": "6,67 × 10⁻¹¹ N·m²/kg²",
+      "explication": "G est la constante universelle de gravitation."
+    },
+    {
+      "question": "Le champ de gravité est une grandeur :",
+      "options": ["Vectorielle", "Scalaire", "Constante", "Nulle"],
+      "reponse": "Vectorielle",
+      "explication": "Il a une direction (vers le centre de la masse) et une intensité."
+    },
+    {
+      "question": "Comment varie le champ de gravité avec la distance r à la surface de la Terre ?",
+      "options": ["Il diminue en 1/r²", "Il augmente en r", "Il reste constant", "Il augmente en r²"],
+      "reponse": "Il diminue en 1/r²",
+      "explication": "Le champ de gravité suit la loi inverse du carré de la distance."
+    },
+    {
+      "question": "Quelle est la formule du poids P d’un corps de masse m dans un champ de gravité g ?",
+      "options": ["P = m × g", "P = m / g", "P = g / m", "P = m + g"],
+      "reponse": "P = m × g",
+      "explication": "Le poids est la force exercée par la gravité sur un corps."
+    },
+    {
+      "question": "Quelle est l’unité du poids dans le S.I. ?",
+      "options": ["Newton (N)", "Kilogramme (kg)", "Joule (J)", "Pascal (Pa)"],
+      "reponse": "Newton (N)",
+      "explication": "Le poids est une force donc s’exprime en newtons."
+    },
+    {
+      "question": "Le poids d’un corps sur la Lune est :",
+      "options": ["Plus faible que sur Terre", "Plus élevé que sur Terre", "Égal à son poids sur Terre", "Nul"],
+      "reponse": "Plus faible que sur Terre",
+      "explication": "La gravité lunaire est environ 1/6 de celle terrestre."
+    },
+    {
+      "question": "Quelle est la relation entre la force gravitationnelle F, la masse M, la masse m, la distance r et G ?",
+      "options": ["F = G × M × m / r²", "F = M + m", "F = G × (M + m) / r", "F = M × r / m"],
+      "reponse": "F = G × M × m / r²",
+      "explication": "C’est la loi de la gravitation universelle de Newton."
+    },
+    {
+      "question": "Quelle est la direction de la force de gravitation entre deux masses ?",
+      "options": ["Attractive entre les masses", "Répulsive", "Perpendiculaire aux masses", "Nulle"],
+      "reponse": "Attractive entre les masses",
+      "explication": "La gravitation attire toujours les masses l’une vers l’autre."
+    },
+    {
+      "question": "Le champ de gravité g sur Terre est approximativement :",
+      "options": ["9,8 N/kg", "10 N/kg", "8 N/kg", "12 N/kg"],
+      "reponse": "9,8 N/kg",
+      "explication": "Valeur approchée communément utilisée."
+    },
+    {
+      "question": "La vitesse de chute libre d’un corps près de la surface de la Terre dépend de :",
+      "options": ["Sa masse", "Sa forme", "Sa masse volumique", "Aucune masse"],
+      "reponse": "Aucune masse",
+      "explication": "En l’absence de résistance de l’air, tous les corps chutent avec la même accélération g."
+    },
+    {
+      "question": "Comment s’appelle l’accélération due au champ de gravité ?",
+      "options": ["Accélération de la pesanteur", "Accélération centripète", "Accélération tangentielle", "Accélération constante"],
+      "reponse": "Accélération de la pesanteur",
+      "explication": "Elle est notée g et vaut environ 9,8 m/s²."
+    },
+    {
+      "question": "La force gravitationnelle exercée par la Terre sur un objet est :",
+      "options": ["Le poids de l’objet", "La masse de l’objet", "Le volume de l’objet", "La densité de l’objet"],
+      "reponse": "Le poids de l’objet",
+      "explication": "La force gravitationnelle correspond au poids."
+    },
+    {
+      "question": "Quelle grandeur physique est conservée lors de la chute libre ?",
+      "options": ["L’énergie mécanique totale", "La masse", "La vitesse", "La température"],
+      "reponse": "L’énergie mécanique totale",
+      "explication": "En l’absence de frottements, l’énergie mécanique est conservée."
+    },
+    {
+      "question": "Quel est le vecteur champ gravitationnel g produit par une masse M à une distance r ?",
+      "options": ["g = - G × M / r² × u_r", "g = G × M × r", "g = M / r²", "g = G / M × r²"],
+      "reponse": "g = - G × M / r² × u_r",
+      "explication": "Le vecteur g est dirigé vers la masse (sens négatif)."
+    },
+    {
+      "question": "Comment varie le poids d’un objet si on le place à une altitude h au-dessus de la surface terrestre ?",
+      "options": ["Il diminue", "Il augmente", "Il reste constant", "Il devient nul"],
+      "reponse": "Il diminue",
+      "explication": "Le poids diminue avec l’altitude car g diminue."
+    },
+    {
+      "question": "Quel est l’effet de la gravité sur les satellites en orbite autour de la Terre ?",
+      "options": ["Elle les maintient en orbite", "Elle les repousse", "Elle les accélère vers l’espace", "Elle n’agit pas"],
+      "reponse": "Elle les maintient en orbite",
+      "explication": "La gravité agit comme force centripète."
+    },
+    {
+      "question": "La constante gravitationnelle G a pour dimension :",
+      "options": ["M⁻¹ L³ T⁻²", "M L T⁻²", "M L² T⁻²", "L T⁻¹"],
+      "reponse": "M⁻¹ L³ T⁻²",
+      "explication": "Dimension de G selon analyse dimensionnelle."
+    },
+    {
+      "question": "L’intensité du champ gravitationnel est liée à l’accélération de la pesanteur par :",
+      "options": ["g = |g|", "g = 1 / |g|", "g = g²", "g = 0"],
+      "reponse": "g = |g|",
+      "explication": "Le champ gravitationnel correspond à l’accélération de la pesanteur."
+    },
+    {
+      "question": "L’énergie potentielle gravitationnelle E_p d’un corps de masse m à une hauteur h est donnée par :",
+      "options": ["E_p = m × g × h", "E_p = m / g × h", "E_p = m × h / g", "E_p = g / m × h"],
+      "reponse": "E_p = m × g × h",
+      "explication": "L’énergie potentielle gravitationnelle dépend de la hauteur."
+    },
+    {
+      "question": "Qu’est-ce que la chute libre ?",
+      "options": ["Mouvement sous l’action exclusive du champ de gravité", "Mouvement avec frottements", "Mouvement circulaire", "Mouvement horizontal"],
+      "reponse": "Mouvement sous l’action exclusive du champ de gravité",
+      "explication": "En chute libre, seule la gravité agit."
+    },
+    {
+      "question": "Quel phénomène est lié à la variation du champ de gravité en fonction de la latitude ?",
+      "options": ["Force centrifuge terrestre", "Force électrique", "Force magnétique", "Force de Coriolis"],
+      "reponse": "Force centrifuge terrestre",
+      "explication": "La rotation de la Terre modifie la valeur effective du champ de gravité."
+    },
+    {
+      "question": "Le poids apparent d’un corps en ascenseur en chute libre est :",
+      "options": ["Nul", "Égal au poids réel", "Plus grand", "Variable"],
+      "reponse": "Nul",
+      "explication": "En chute libre, le poids apparent est nul car on ne ressent plus la force."
+    },
+    {
+      "question": "Quelle est la valeur approchée de la masse de la Terre ?",
+      "options": ["6 × 10²⁴ kg", "6 × 10²¹ kg", "6 × 10²⁶ kg", "6 × 10²² kg"],
+      "reponse": "6 × 10²⁴ kg",
+      "explication": "Masse moyenne de la Terre utilisée en calculs."
+    },
+    {
+      "question": "Le champ gravitationnel terrestre est approximativement uniforme :",
+      "options": ["Près de la surface", "À grande altitude", "Dans l’espace", "Au centre de la Terre"],
+      "reponse": "Près de la surface",
+      "explication": "La variation du champ est faible sur de petites distances près du sol."
+    },
+    {
+      "question": "Une masse m = 10 kg est placée près de la surface terrestre. Quel est son poids ? (g = 9,8 N/kg)",
+      "options": ["98 N", "10 N", "9,8 N", "100 N"],
+      "reponse": "98 N",
+      "explication": "P = m × g = 10 × 9,8 = 98 N"
+    },
+    {
+      "question": "Quelle est la valeur du champ de gravité à une altitude h = 1000 m au-dessus de la Terre ? (Rayon Terre R = 6,4 × 10⁶ m, g = 9,8 N/kg)",
+      "options": ["9,77 N/kg", "9,8 N/kg", "9,5 N/kg", "10 N/kg"],
+      "reponse": "9,77 N/kg",
+      "explication": "g_h = g × (R / (R + h))² ≈ 9,8 × (6,4×10⁶ / 6,401×10⁶)² ≈ 9,77 N/kg"
+    },
+    {
+      "question": "La force gravitationnelle entre deux masses de 5 kg et 10 kg séparées de 2 m vaut : (G = 6,67 × 10⁻¹¹ N·m²/kg²)",
+      "options": ["8,34 × 10⁻¹⁰ N", "1,67 × 10⁻¹⁰ N", "3,34 × 10⁻¹¹ N", "6,67 × 10⁻¹¹ N"],
+      "reponse": "8,34 × 10⁻¹⁰ N",
+      "explication": "F = G × m₁ × m₂ / r² = 6,67×10⁻¹¹ × 5 × 10 / 4 = 8,34×10⁻¹⁰ N"
+    },
+    {
+      "question": "Un corps de masse 2 kg a un poids de 19,6 N. Quelle est la valeur du champ gravitationnel ?",
+      "options": ["9,8 N/kg", "19,6 N/kg", "2 N/kg", "4,9 N/kg"],
+      "reponse": "9,8 N/kg",
+      "explication": "g = P / m = 19,6 / 2 = 9,8 N/kg"
+    },
+    {
+      "question": "Quelle est l’énergie potentielle gravitationnelle d’un objet de 3 kg situé à 10 m du sol ? (g = 9,8 N/kg)",
+      "options": ["294 J", "30 J", "98 J", "3 J"],
+      "reponse": "294 J",
+      "explication": "E_p = m × g × h = 3 × 9,8 × 10 = 294 J"
+    },
+    {
+      "question": "Un satellite orbite à une altitude où le champ de gravité est 3,5 N/kg. Quelle est la masse de la Terre utilisée dans le calcul ? (G = 6,67 × 10⁻¹¹ N·m²/kg², rayon terrestre R = 6,4 × 10⁶ m)",
+      "options": ["5,97 × 10²⁴ kg", "3,5 × 10²⁴ kg", "6,67 × 10²⁴ kg", "9,8 × 10²⁴ kg"],
+      "reponse": "5,97 × 10²⁴ kg",
+      "explication": "Masse Terre utilisée pour calculer g à différentes altitudes."
+    },
+    {
+      "question": "Le poids d’un objet sur la Lune est environ :",
+      "options": ["1/6 de son poids sur Terre", "Le même que sur Terre", "6 fois plus que sur Terre", "Nul"],
+      "reponse": "1/6 de son poids sur Terre",
+      "explication": "La gravité lunaire est environ 1/6 de celle de la Terre."
+    },
+    {
+      "question": "Quel est le poids d’un objet de 50 kg sur Terre ?",
+      "options": ["490 N", "50 N", "9,8 N", "500 N"],
+      "reponse": "490 N",
+      "explication": "P = m × g = 50 × 9,8 = 490 N"
+    },
+    {
+      "question": "Quelle est la force gravitationnelle exercée par la Terre sur un objet de 100 kg ?",
+      "options": ["980 N", "100 N", "9,8 N", "1000 N"],
+      "reponse": "980 N",
+      "explication": "P = m × g = 100 × 9,8 = 980 N"
+    },
+    {
+      "question": "Un objet de 10 kg pèse 90 N sur une planète. Quelle est la valeur de g sur cette planète ?",
+      "options": ["9 N/kg", "90 N/kg", "10 N/kg", "1 N/kg"],
+      "reponse": "9 N/kg",
+      "explication": "g = P / m = 90 / 10 = 9 N/kg"
+    },
+    {
+      "question": "Quelle est la force de gravitation entre deux masses égales de 1 kg séparées par 1 m ?",
+      "options": ["6,67 × 10⁻¹¹ N", "9,8 N", "1 N", "6,67 × 10⁻¹ N"],
+      "reponse": "6,67 × 10⁻¹¹ N",
+      "explication": "F = G × m × m / r² = 6,67 × 10⁻¹¹ × 1 × 1 / 1²"
+    },
+    {
+      "question": "La gravité diminue-t-elle avec l’altitude ?",
+      "options": ["Oui", "Non", "Elle augmente", "Elle reste constante"],
+      "reponse": "Oui",
+      "explication": "g diminue avec la distance au centre de la Terre."
+    },
+    {
+      "question": "Un objet de masse m placé à une hauteur h a une énergie potentielle E_p = 200 J. Si on double la hauteur, l’énergie devient :",
+      "options": ["400 J", "100 J", "200 J", "800 J"],
+      "reponse": "400 J",
+      "explication": "E_p est proportionnelle à la hauteur."
+    },
+    {
+      "question": "La constante gravitationnelle G a pour unité :",
+      "options": ["N·m²/kg²", "m/s²", "N/kg", "kg·m/s²"],
+      "reponse": "N·m²/kg²",
+      "explication": "Unité de G en système international."
+    },
+    {
+      "question": "Quel est le poids apparent d’un objet en chute libre ?",
+      "options": ["Nul", "Égal au poids réel", "Plus grand", "Variable"],
+      "reponse": "Nul",
+      "explication": "En chute libre, le poids apparent est nul."
+    },
+    {
+      "question": "Quel est le champ gravitationnel à 2 fois le rayon de la Terre ?",
+      "options": ["2,45 N/kg", "9,8 N/kg", "4,9 N/kg", "19,6 N/kg"],
+      "reponse": "2,45 N/kg",
+      "explication": "g diminue en 1/r², donc g/4 = 9,8 / 4"
+    },
+    {
+      "question": "Quelle est la masse de la Terre ?",
+      "options": ["6 × 10²⁴ kg", "6 × 10²¹ kg", "6 × 10²⁶ kg", "6 × 10²² kg"],
+      "reponse": "6 × 10²⁴ kg",
+      "explication": "Valeur approximative connue."
+    },
+    {
+      "question": "La force gravitationnelle est :",
+      "options": ["Toujours attractive", "Toujours répulsive", "Nulle", "Variable selon la charge"],
+      "reponse": "Toujours attractive",
+      "explication": "La gravité attire les masses."
+    },
+    {
+      "question": "Un objet de 5 kg est lâché en chute libre. Quelle est sa vitesse après 3 secondes ? (g=9,8 m/s²)",
+      "options": ["29,4 m/s", "15 m/s", "9,8 m/s", "5 m/s"],
+      "reponse": "29,4 m/s",
+      "explication": "v = g × t = 9,8 × 3"
+    },
+    {
+      "question": "La direction du champ gravitationnel est :",
+      "options": ["Vers la masse qui le crée", "Opposée à la masse", "Perpendiculaire", "Indéterminée"],
+      "reponse": "Vers la masse qui le crée",
+      "explication": "Le champ gravitationnel est dirigé vers la masse."
+    }
+  ]
+}

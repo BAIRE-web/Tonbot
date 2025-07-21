@@ -17,6 +17,14 @@
       "titre": "Condensateur"
     },
     {
+      "id": "champ_g",
+      "titre": "Champ G"
+    },
+    {
+      "id": "champ_e",
+      "titre": "Champ E"
+    },
+    {
       "id": "bobine",
       "titre": "Bobine"
     },

@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Quel liquide constitue le milieu intérieur ?",
+      "options": ["Le plasma et le liquide interstitiel", "Le liquide intracellulaire", "La lymphe uniquement", "Le liquide céphalo-rachidien"],
+      "reponse": "Le plasma et le liquide interstitiel",
+      "explication": "Le milieu intérieur est composé du plasma sanguin et du liquide interstitiel."
+    },
+    {
+      "question": "Le milieu intérieur assure principalement :",
+      "options": ["Les échanges entre le sang et les cellules", "La circulation de l’air dans les poumons", "La contraction musculaire", "La digestion des aliments"],
+      "reponse": "Les échanges entre le sang et les cellules",
+      "explication": "Il permet aux cellules de recevoir les nutriments et d’éliminer leurs déchets."
+    },
+    {
+      "question": "Le liquide interstitiel se trouve :",
+      "options": ["Autour des cellules", "Dans les veines", "Dans le sang", "Dans le tube digestif"],
+      "reponse": "Autour des cellules",
+      "explication": "Il baigne les cellules et assure les échanges avec le sang."
+    },
+    {
+      "question": "Quel organe filtre le sang pour éliminer les déchets ?",
+      "options": ["Le rein", "Le foie", "Le cœur", "Les poumons"],
+      "reponse": "Le rein",
+      "explication": "Les reins filtrent le sang et produisent l’urine."
+    },
+    {
+      "question": "Quelle pression permet le passage du plasma vers le liquide interstitiel ?",
+      "options": ["La pression sanguine", "La pression osmotique", "La pression atmosphérique", "La pression osmotique inverse"],
+      "reponse": "La pression sanguine",
+      "explication": "Elle pousse le plasma à travers les parois capillaires."
+    },
+    {
+      "question": "Le sang circule dans un système :",
+      "options": ["Fermé", "Ouvert", "Digestif", "Respiratoire"],
+      "reponse": "Fermé",
+      "explication": "Le sang circule dans des vaisseaux fermés."
+    },
+    {
+      "question": "Le plasma est composé majoritairement de :",
+      "options": ["Eau", "Globules rouges", "Plaquettes", "Globules blancs"],
+      "reponse": "Eau",
+      "explication": "Le plasma est constitué à 90% d’eau."
+    },
+    {
+      "question": "Les globules rouges transportent :",
+      "options": ["L’oxygène", "Les anticorps", "Les hormones", "Les nutriments"],
+      "reponse": "L’oxygène",
+      "explication": "Grâce à l’hémoglobine, ils transportent l’oxygène."
+    },
+    {
+      "question": "La lymphe est un liquide circulant dans :",
+      "options": ["Les vaisseaux lymphatiques", "Les artères", "Les veines", "Le cœur"],
+      "reponse": "Les vaisseaux lymphatiques",
+      "explication": "Elle participe au retour du liquide interstitiel vers le sang."
+    },
+    {
+      "question": "Le rein régule le milieu intérieur en contrôlant :",
+      "options": ["La composition en ions et l’eau", "La pression artérielle", "La fréquence cardiaque", "La digestion"],
+      "reponse": "La composition en ions et l’eau",
+      "explication": "Les reins filtrent le sang et maintiennent l’équilibre hydrique et ionique."
+    },
+    {
+      "question": "Le milieu intérieur maintient les conditions stables grâce à :",
+      "options": ["L’homéostasie", "La digestion", "La respiration", "La circulation nerveuse"],
+      "reponse": "L’homéostasie",
+      "explication": "C’est un ensemble de mécanismes pour stabiliser le milieu intérieur."
+    },
+    {
+      "question": "Les échanges entre plasma et liquide interstitiel se font par :",
+      "options": ["Diffusion et filtration", "Contraction musculaire", "Phagocytose", "Endocytose"],
+      "reponse": "Diffusion et filtration",
+      "explication": "Ces mécanismes permettent le passage des substances."
+    },
+    {
+      "question": "Les plaquettes interviennent dans :",
+      "options": ["La coagulation", "Le transport de l’oxygène", "La défense immunitaire", "La digestion"],
+      "reponse": "La coagulation",
+      "explication": "Les plaquettes favorisent la formation des caillots sanguins."
+    },
+    {
+      "question": "Les globules blancs participent à :",
+      "options": ["La défense immunitaire", "Le transport de l’oxygène", "La coagulation", "La digestion"],
+      "reponse": "La défense immunitaire",
+      "explication": "Ils protègent l’organisme contre les infections."
+    },
+    {
+      "question": "Le milieu intérieur est en contact direct avec :",
+      "options": ["Les cellules", "La peau", "Les os", "Les poumons"],
+      "reponse": "Les cellules",
+      "explication": "Le liquide interstitiel baigne les cellules."
+    },
+    {
+      "question": "La pression artérielle joue un rôle dans :",
+      "options": ["La filtration du plasma", "La respiration", "La digestion", "La contraction musculaire"],
+      "reponse": "La filtration du plasma",
+      "explication": "Elle pousse le plasma dans le liquide interstitiel."
+    },
+    {
+      "question": "Le plasma contient :",
+      "options": ["Des protéines plasmatiques", "Des globules rouges", "Des cellules nerveuses", "Des plaquettes uniquement"],
+      "reponse": "Des protéines plasmatiques",
+      "explication": "Il contient de l’albumine, globulines, fibrinogène, etc."
+    },
+    {
+      "question": "La composition ionique du milieu intérieur est importante pour :",
+      "options": ["Le fonctionnement cellulaire", "La digestion", "La respiration", "La production d’énergie"],
+      "reponse": "Le fonctionnement cellulaire",
+      "explication": "Les ions participent aux échanges et réactions cellulaires."
+    },
+    {
+      "question": "Les échanges gazeux entre sang et cellules ont lieu au niveau :",
+      "options": ["Des capillaires", "Des artères", "Des veines", "Du cœur"],
+      "reponse": "Des capillaires",
+      "explication": "Les capillaires assurent les échanges entre sang et tissus."
+    },
+    {
+      "question": "L’équilibre du milieu intérieur dépend :",
+      "options": ["Des mécanismes de régulation", "De la digestion", "De la respiration", "De la circulation nerveuse"],
+      "reponse": "Des mécanismes de régulation",
+      "explication": "L’homéostasie permet de garder un environnement stable."
+    },
+    {
+      "question": "Qu'appelle-t-on milieu intérieur ?",
+      "options": ["Le liquide qui entoure les cellules", "Le sang uniquement", "L'air dans les poumons", "Le liquide dans l'estomac"],
+      "reponse": "Le liquide qui entoure les cellules",
+      "explication": "Le milieu intérieur correspond aux liquides extracellulaires qui baignent les cellules."
+    },
+    {
+      "question": "Quels sont les principaux constituants du milieu intérieur ?",
+      "options": ["Le plasma et le liquide interstitiel", "Le sang et la lymphe", "Le cytoplasme et le noyau", "L'eau et les ions dans l'estomac"],
+      "reponse": "Le plasma et le liquide interstitiel",
+      "explication": "Le plasma sanguin et le liquide interstitiel forment le milieu intérieur."
+    },
+    {
+      "question": "Quel rôle joue le milieu intérieur ?",
+      "options": ["Assurer l’échange entre le sang et les cellules", "Produire les cellules sanguines", "Transporter l’oxygène dans les poumons", "Digérer les aliments"],
+      "reponse": "Assurer l’échange entre le sang et les cellules",
+      "explication": "Le milieu intérieur permet le transport des nutriments et déchets."
+    },
+    {
+      "question": "Le milieu intérieur est maintenu stable grâce à :",
+      "options": ["L’homéostasie", "La digestion", "La respiration", "La circulation nerveuse"],
+      "reponse": "L’homéostasie",
+      "explication": "L’homéostasie maintient l’équilibre des conditions du milieu intérieur."
+    },
+    {
+      "question": "Quelle est la composition principale du plasma sanguin ?",
+      "options": ["Eau, ions, protéines", "Cellules, enzymes, hormones", "Globules rouges, eau, minéraux", "Eau uniquement"],
+      "reponse": "Eau, ions, protéines",
+      "explication": "Le plasma est majoritairement composé d’eau, ions et protéines plasmatiques."
+    },
+    {
+      "question": "Le liquide interstitiel se trouve :",
+      "options": ["Autour des cellules", "Dans les veines", "Dans les poumons", "Dans le tube digestif"],
+      "reponse": "Autour des cellules",
+      "explication": "Il baigne les cellules pour les échanges avec le sang."
+    },
+    {
+      "question": "Quel organe est responsable de la filtration du sang pour éliminer les déchets ?",
+      "options": ["Le rein", "Le foie", "Le cœur", "Le poumon"],
+      "reponse": "Le rein",
+      "explication": "Les reins filtrent le sang pour éliminer les déchets via l’urine."
+    },
+    {
+      "question": "Le milieu intérieur permet la distribution de :",
+      "options": ["Oxygène, nutriments et hormones", "Globules blancs uniquement", "L’air", "Les enzymes digestives"],
+      "reponse": "Oxygène, nutriments et hormones",
+      "explication": "Ces éléments sont transportés par le plasma aux cellules."
+    },
+    {
+      "question": "La lymphe est :",
+      "options": ["Un liquide circulant dans les vaisseaux lymphatiques", "Un liquide digestif", "Un liquide dans les poumons", "Un liquide intracellulaire"],
+      "reponse": "Un liquide circulant dans les vaisseaux lymphatiques",
+      "explication": "Elle participe au retour du liquide interstitiel vers le sang."
+    },
+    {
+      "question": "Quel élément sanguin transporte principalement l’oxygène ?",
+      "options": ["Les globules rouges", "Les globules blancs", "Les plaquettes", "Le plasma"],
+      "reponse": "Les globules rouges",
+      "explication": "Les globules rouges contiennent l’hémoglobine qui fixe l’oxygène."
+    },
+    {
+      "question": "La pression artérielle contribue à :",
+      "options": ["Faire passer le plasma dans le liquide interstitiel", "Faire circuler la lymphe", "Produire des globules blancs", "Réguler la respiration"],
+      "reponse": "Faire passer le plasma dans le liquide interstitiel",
+      "explication": "La pression pousse le plasma à travers les parois capillaires."
+    },
+    {
+      "question": "Le système sanguin est un système :",
+      "options": ["Ouvert", "Fermé", "Digestif", "Respiratoire"],
+      "reponse": "Fermé",
+      "explication": "Le sang circule dans un réseau fermé de vaisseaux."
+    },
+    {
+      "question": "Le rein joue un rôle important dans :",
+      "options": ["La régulation du milieu intérieur", "La digestion", "La respiration", "La production d’hormones sexuelles"],
+      "reponse": "La régulation du milieu intérieur",
+      "explication": "Il filtre le sang et maintient l’équilibre hydrique et ionique."
+    },
+    {
+      "question": "La composition du milieu intérieur peut être modifiée par :",
+      "options": ["L’alimentation", "La couleur de la peau", "Le rythme cardiaque", "La taille du corps"],
+      "reponse": "L’alimentation",
+      "explication": "Les apports alimentaires influencent la composition du sang."
+    },
+    {
+      "question": "Le volume total du milieu intérieur représente environ :",
+      "options": ["30% du poids corporel", "10% du poids corporel", "50% du poids corporel", "70% du poids corporel"],
+      "reponse": "30% du poids corporel",
+      "explication": "Le liquide extracellulaire représente environ 30% du poids total."
+    },
+    {
+      "question": "L’échange entre le sang et le liquide interstitiel se fait principalement au niveau :",
+      "options": ["Des capillaires sanguins", "Des artères", "Des veines", "Des gros vaisseaux"],
+      "reponse": "Des capillaires sanguins",
+      "explication": "Les capillaires permettent les échanges entre sang et tissus."
+    },
+    {
+      "question": "Le milieu intérieur est en contact direct avec :",
+      "options": ["Les cellules", "Les organes", "La peau", "Les os"],
+      "reponse": "Les cellules",
+      "explication": "Le liquide interstitiel baigne les cellules et leur apporte les substances nécessaires."
+    },
+    {
+      "question": "La composition ionique du milieu intérieur est essentielle pour :",
+      "options": ["Le fonctionnement des cellules", "La digestion", "La respiration", "La production d’énergie dans le foie"],
+      "reponse": "Le fonctionnement des cellules",
+      "explication": "Les ions participent aux réactions cellulaires et à la transmission nerveuse."
+    },
+    {
+      "question": "Les échanges entre le plasma et le liquide interstitiel se font par :",
+      "options": ["Diffusion et filtration", "Contraction musculaire", "Phagocytose", "Endocytose"],
+      "reponse": "Diffusion et filtration",
+      "explication": "Ces mécanismes permettent le passage des substances entre les liquides."
+    },
+    {
+      "question": "Quelle fonction ne fait pas partie du rôle du milieu intérieur ?",
+      "options": ["Synthèse des protéines", "Transport des gaz", "Élimination des déchets", "Transport des nutriments"],
+      "reponse": "Synthèse des protéines",
+      "explication": "La synthèse des protéines se fait dans les cellules, pas dans le milieu intérieur."
+    },
+    {
+      "question": "Le plasma contient :",
+      "options": ["Des protéines plasmatiques", "Des globules rouges", "Des cellules nerveuses", "Des plaquettes uniquement"],
+      "reponse": "Des protéines plasmatiques",
+      "explication": "Le plasma contient de l’albumine, des globulines, etc."
+    },
+    {
+      "question": "Les plaquettes sanguines interviennent dans :",
+      "options": ["La coagulation", "Le transport de l’oxygène", "La défense immunitaire", "La digestion"],
+      "reponse": "La coagulation",
+      "explication": "Elles permettent la formation de caillots sanguins."
+    },
+    {
+      "question": "Le milieu intérieur est en équilibre grâce à :",
+      "options": ["Des mécanismes de régulation", "La digestion", "La respiration", "La circulation nerveuse"],
+      "reponse": "Des mécanismes de régulation",
+      "explication": "L’homéostasie maintient la stabilité du milieu intérieur."
+    },
+    {
+      "question": "Le liquide interstitiel provient du plasma grâce à :",
+      "options": ["La filtration au niveau des capillaires", "La contraction musculaire", "La respiration", "La digestion"],
+      "reponse": "La filtration au niveau des capillaires",
+      "explication": "La pression sanguine pousse une partie du plasma dans le liquide interstitiel."
+    },
+    {
+      "question": "Quel élément sanguin intervient dans la défense de l’organisme ?",
+      "options": ["Les globules blancs", "Les globules rouges", "Les plaquettes", "Le plasma"],
+      "reponse": "Les globules blancs",
+      "explication": "Ils participent à la réponse immunitaire."
+    },
+    {
+      "question": "Le milieu intérieur est composé principalement de :",
+      "options": ["Liquide extracellulaire", "Liquide intracellulaire", "Air", "Lymphe uniquement"],
+      "reponse": "Liquide extracellulaire",
+      "explication": "Il comprend plasma et liquide interstitiel."
+    },
+    {
+      "question": "Les reins maintiennent l’équilibre du milieu intérieur en contrôlant :",
+      "options": ["La composition en ions et l’eau", "La température", "La pression artérielle", "Le rythme cardiaque"],
+      "reponse": "La composition en ions et l’eau",
+      "explication": "Les reins filtrent et réabsorbent pour maintenir l’équilibre hydrique et ionique."
+    },
+    {
+      "question": "Le milieu intérieur assure :",
+      "options": ["La survie des cellules", "La digestion des aliments", "La respiration pulmonaire", "La contraction musculaire"],
+      "reponse": "La survie des cellules",
+      "explication": "Il fournit un environnement stable et nutritif aux cellules."
+    }
+  ]
+}

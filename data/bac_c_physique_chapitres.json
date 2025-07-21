@@ -37,6 +37,10 @@
       "titre": "Ondes électromagnétiques"
     },
     {
+      "id": "champ_g",
+      "titre": "Champ G"
+    },
+    {
       "id": "radioactivite",
       "titre": "Radioactivité"
     },

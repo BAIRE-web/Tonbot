@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "La limite de f(x) = (2x + 3) quand x → +∞ est :",
+      "options": ["+∞", "-∞", "3", "2"],
+      "reponse": "+∞",
+      "explication": "Quand x → +∞, 2x domine, donc f(x) → +∞."
+    },
+    {
+      "question": "La limite de f(x) = (3x² - 1)/(x² + 2) quand x → +∞ est :",
+      "options": ["3", "0", "+∞", "-∞"],
+      "reponse": "3",
+      "explication": "Les termes dominants au numérateur et dénominateur sont en x², limite = 3/1 = 3."
+    },
+    {
+      "question": "La fonction f(x) = 1/x admet une asymptote verticale en :",
+      "options": ["x = 0", "x = 1", "y = 0", "y = 1"],
+      "reponse": "x = 0",
+      "explication": "f(x) tend vers ±∞ quand x → 0, donc asymptote verticale en x=0."
+    },
+    {
+      "question": "L’asymptote horizontale de f(x) = (5x - 3)/(2x + 1) quand x → +∞ est :",
+      "options": ["y = 5/2", "y = 2/5", "x = 0", "y = 0"],
+      "reponse": "y = 5/2",
+      "explication": "Limite à l’infini est le ratio des coefficients des termes dominants : 5/2."
+    },
+    {
+      "question": "La limite de f(x) = ln(x) quand x → 0+ est :",
+      "options": ["-∞", "+∞", "0", "1"],
+      "reponse": "-∞",
+      "explication": "Le logarithme tend vers -∞ quand x approche 0 par valeurs positives."
+    },
+    {
+      "question": "La fonction f(x) = e^x admet-elle une asymptote horizontale ?",
+      "options": ["Oui y=0", "Non", "Oui y=1", "Oui x=0"],
+      "reponse": "Oui y=0",
+      "explication": "Quand x → -∞, e^x → 0, donc asymptote horizontale y=0."
+    },
+    {
+      "question": "La limite de f(x) = (x² - 4)/(x - 2) quand x → 2 est :",
+      "options": ["4", "0", "∞", "Pas de limite"],
+      "reponse": "4",
+      "explication": "Simplifier : (x² - 4) = (x - 2)(x + 2), donc limite = 2 + 2 = 4."
+    },
+    {
+      "question": "La fonction f(x) = 1/(x² - 1) a des asymptotes verticales en :",
+      "options": ["x = ±1", "x = 0", "y = 0", "x = 1 seulement"],
+      "reponse": "x = ±1",
+      "explication": "Les dénominateurs s’annulent en ±1, donc asymptotes verticales."
+    },
+    {
+      "question": "La limite de f(x) = (3x + 1)/(x² + 1) quand x → ±∞ est :",
+      "options": ["0", "∞", "3", "1"],
+      "reponse": "0",
+      "explication": "Le dénominateur croit plus vite que le numérateur, donc limite 0."
+    },
+    {
+      "question": "L’asymptote oblique de f(x) = (x² + 1)/(x - 1) quand x → +∞ est :",
+      "options": ["y = x + 1", "y = x - 1", "y = x²", "Pas d’asymptote"],
+      "reponse": "y = x + 1",
+      "explication": "Division euclidienne : (x²+1)/(x-1) = x + 1 + 2/(x -1)."
+    },
+    {
+      "question": "La limite de f(x) = sin(x)/x quand x → +∞ est :",
+      "options": ["0", "1", "∞", "Oscille"],
+      "reponse": "0",
+      "explication": "sin(x) oscillant entre -1 et 1, divisée par un grand x → 0."
+    },
+    {
+      "question": "La fonction f(x) = tan(x) a une asymptote verticale en :",
+      "options": ["x = π/2", "x = 0", "y = 0", "x = π"],
+      "reponse": "x = π/2",
+      "explication": "tan(x) → ±∞ quand x → π/2 ±."
+    },
+    {
+      "question": "La limite de f(x) = (2x + 3)/(x - 1) quand x → 1+ est :",
+      "options": ["+∞", "-∞", "4", "Pas de limite"],
+      "reponse": "+∞",
+      "explication": "Le dénominateur tend vers 0+ et numérateur vers 5, donc limite +∞."
+    },
+    {
+      "question": "La fonction f(x) = sqrt(x² + 1) a une asymptote oblique en :",
+      "options": ["y = x", "y = 0", "x = 0", "Pas d’asymptote"],
+      "reponse": "y = x",
+      "explication": "Pour x → +∞, sqrt(x² + 1) ~ x."
+    },
+    {
+      "question": "La limite de f(x) = (x³ - 1)/(2x³ + x) quand x → -∞ est :",
+      "options": ["1/2", "-1/2", "0", "∞"],
+      "reponse": "1/2",
+      "explication": "Le rapport des termes dominants : x³/2x³ = 1/2."
+    },
+    {
+      "question": "L’asymptote horizontale de f(x) = (5x² + 3)/(2x² - 4) quand x → ±∞ est :",
+      "options": ["y = 5/2", "y = 2/5", "x = 0", "Pas d’asymptote"],
+      "reponse": "y = 5/2",
+      "explication": "Ratio des coefficients devant x²."
+    },
+    {
+      "question": "La limite de f(x) = (x² - 1)/(x - 1) quand x → 1 est :",
+      "options": ["2", "0", "∞", "Pas de limite"],
+      "reponse": "2",
+      "explication": "Simplifie en (x -1)(x+1)/(x -1) donc limite = 1 + 1 = 2."
+    },
+    {
+      "question": "La fonction f(x) = ln(x) admet une asymptote verticale en :",
+      "options": ["x = 0", "x = 1", "y = 0", "y = 1"],
+      "reponse": "x = 0",
+      "explication": "ln(x) tend vers -∞ quand x → 0+."
+    },
+    {
+      "question": "La limite de f(x) = (x + 1)/(x² + 1) quand x → +∞ est :",
+      "options": ["0", "1", "∞", "1/2"],
+      "reponse": "0",
+      "explication": "Le dénominateur croît plus vite que le numérateur."
+    },
+    {
+      "question": "L’asymptote verticale de f(x) = 1/(x² - 4) est en :",
+      "options": ["x = ±2", "x = 2 seulement", "x = 0", "y = 0"],
+      "reponse": "x = ±2",
+      "explication": "Dénominateur nul en ±2, donc asymptotes verticales."
+    },
+    {
+      "question": "La limite de f(x) = (x³ + 1)/(x² - 1) quand x → +∞ est :",
+      "options": ["+∞", "-∞", "0", "1"],
+      "reponse": "+∞",
+      "explication": "Degré du numérateur > dénominateur, limite +∞."
+    },
+    {
+      "question": "La fonction f(x) = e^(-x) admet une asymptote horizontale en :",
+      "options": ["y = 0", "x = 0", "y = 1", "Pas d’asymptote"],
+      "reponse": "y = 0",
+      "explication": "e^{-x} → 0 quand x → +∞."
+    },
+    {
+      "question": "La limite de f(x) = (x² - 1)/(x - 1) quand x → 1 est :",
+      "options": ["2", "0", "∞", "Pas de limite"],
+      "reponse": "2",
+      "explication": "Simplification donne limite 2."
+    },
+    {
+      "question": "L’asymptote oblique de f(x) = (2x² + 3x +1)/(x + 1) est :",
+      "options": ["y = 2x + 1", "y = 2x -1", "y = x + 1", "Pas d’asymptote"],
+      "reponse": "y = 2x + 1",
+      "explication": "Division polynomiale : quotient 2x + 1."
+    },
+    {
+      "question": "La limite de f(x) = (sin x)/x quand x → 0 est :",
+      "options": ["1", "0", "∞", "Indéterminée"],
+      "reponse": "1",
+      "explication": "Limite classique connue."
+    },
+    {
+      "question": "L’asymptote horizontale de f(x) = (x + 2)/(x + 3) quand x → +∞ est :",
+      "options": ["y = 1", "y = 0", "x = 0", "y = 2/3"],
+      "reponse": "y = 1",
+      "explication": "Ratio des coefficients dominants (x/x) = 1."
+    },
+    {
+      "question": "La fonction f(x) = 1/(x - 1)² admet une asymptote verticale en :",
+      "options": ["x = 1", "x = 0", "y = 0", "y = 1"],
+      "reponse": "x = 1",
+      "explication": "Dénominateur nul en x=1."
+    },
+    {
+      "question": "La limite de f(x) = (x² - 9)/(x - 3) quand x → 3 est :",
+      "options": ["6", "0", "∞", "Pas de limite"],
+      "reponse": "6",
+      "explication": "Simplifie en (x-3)(x+3)/(x-3), limite = 3 + 3 = 6."
+    },
+    {
+      "question": "La limite de f(x) = (x² + x + 1)/(x² - x + 1) quand x → +∞ est :",
+      "options": ["1", "0", "∞", "2"],
+      "reponse": "1",
+      "explication": "Rapport des termes dominants en x²."
+    },
+    {
+      "question": "Calcule la limite de f(x) = (3x + 2)/(x - 1) quand x → +∞.",
+      "options": ["3", "0", "+∞", "−∞"],
+      "reponse": "3",
+      "explication": "Pour x → +∞, le terme dominant est 3x/x = 3."
+    },
+    {
+      "question": "La fonction f(x) = 1/(x − 2) admet-elle une asymptote verticale ? Si oui, en quel point ?",
+      "options": ["Oui, x = 2", "Oui, x = 0", "Non", "Oui, y = 0"],
+      "reponse": "Oui, x = 2",
+      "explication": "Le dénominateur s’annule en x = 2, créant une asymptote verticale."
+    },
+    {
+      "question": "La limite de f(x) = (x² − 1)/(x − 1) quand x → 1 est :",
+      "options": ["2", "0", "∞", "Pas de limite"],
+      "reponse": "2",
+      "explication": "On simplifie (x² − 1) = (x − 1)(x + 1), donc limite = 1 + 1 = 2."
+    },
+    {
+      "question": "Quelle est la limite de f(x) = ln(x) quand x → 0+ ?",
+      "options": ["−∞", "+∞", "0", "1"],
+      "reponse": "−∞",
+      "explication": "Le logarithme tend vers −∞ quand x tend vers 0 par valeurs positives."
+    },
+    {
+      "question": "La fonction f(x) = eˣ admet-elle une asymptote horizontale ?",
+      "options": ["Oui, y = 0", "Non", "Oui, y = 1", "Oui, x = 0"],
+      "reponse": "Oui, y = 0",
+      "explication": "Quand x → −∞, eˣ → 0, donc asymptote horizontale y = 0."
+    },
+    {
+      "question": "La limite de f(x) = (5x − 3)/(2x + 1) quand x → +∞ est :",
+      "options": ["5/2", "2/5", "0", "+∞"],
+      "reponse": "5/2",
+      "explication": "Le rapport des coefficients devant x donne la limite à l’infini."
+    },
+    {
+      "question": "La fonction f(x) = (x² − 4)/(x − 2) admet-elle une asymptote verticale ?",
+      "options": ["Non", "Oui en x = 2", "Oui en x = −2", "Oui en y = 0"],
+      "reponse": "Non",
+      "explication": "(x² − 4) = (x − 2)(x + 2), donc la fonction est définie en x = 2 après simplification."
+    },
+    {
+      "question": "Quelle est la limite de f(x) = (3x + 1)/(x² + 1) quand x → +∞ ?",
+      "options": ["0", "3", "+∞", "1"],
+      "reponse": "0",
+      "explication": "Le dénominateur croît plus vite que le numérateur, donc limite 0."
+    },
+    {
+      "question": "L’asymptote horizontale de f(x) = (x² + 1)/(x − 1) est :",
+      "options": ["Il n’y en a pas", "y = x + 1", "y = x − 1", "y = 1"],
+      "reponse": "Il n’y en a pas",
+      "explication": "Degré du numérateur > degré du dénominateur, donc pas d’asymptote horizontale."
+    },
+    {
+      "question": "La limite de f(x) = sin(x)/x quand x → +∞ est :",
+      "options": ["0", "1", "∞", "Oscille"],
+      "reponse": "0",
+      "explication": "sin(x) est bornée, donc f(x) tend vers 0 quand x → +∞."
+    },
+    {
+      "question": "Quelle est la limite de f(x) = (x³ − 1)/(2x³ + x) quand x → −∞ ?",
+      "options": ["1/2", "−1/2", "0", "∞"],
+      "reponse": "1/2",
+      "explication": "Le rapport des termes dominants donne la limite 1/2."
+    },
+    {
+      "question": "L’asymptote verticale de f(x) = 1/(x² − 4) se trouve en :",
+      "options": ["x = ±2", "x = 2", "x = 0", "y = 0"],
+      "reponse": "x = ±2",
+      "explication": "Les valeurs annulant le dénominateur donnent les asymptotes verticales."
+    },
+    {
+      "question": "La fonction f(x) = (x + 2)/(x + 3) admet une asymptote horizontale en :",
+      "options": ["y = 1", "y = 0", "x = 0", "y = 2/3"],
+      "reponse": "y = 1",
+      "explication": "Le rapport des coefficients dominants est 1."
+    },
+    {
+      "question": "La limite de f(x) = (x + 1)/(x² + 1) quand x → +∞ est :",
+      "options": ["0", "1", "+∞", "1/2"],
+      "reponse": "0",
+      "explication": "Le dénominateur croît plus vite que le numérateur."
+    },
+    {
+      "question": "Quelle est la limite de f(x) = (x² − 9)/(x − 3) quand x → 3 ?",
+      "options": ["6", "0", "+∞", "Pas de limite"],
+      "reponse": "6",
+      "explication": "Simplification : (x − 3)(x + 3)/(x − 3) donne 3 + 3 = 6."
+    },
+    {
+      "question": "La fonction f(x) = 1/(x − 1)² admet une asymptote verticale en :",
+      "options": ["x = 1", "x = 0", "y = 0", "y = 1"],
+      "reponse": "x = 1",
+      "explication": "Le dénominateur s’annule en x = 1."
+    },
+    {
+      "question": "La limite de f(x) = e^(−x) quand x → +∞ est :",
+      "options": ["0", "1", "+∞", "−∞"],
+      "reponse": "0",
+      "explication": "e^(−x) tend vers 0 quand x tend vers +∞."
+    },
+    {
+      "question": "La limite de f(x) = (x² + x + 1)/(x² − x + 1) quand x → +∞ est :",
+      "options": ["1", "0", "+∞", "2"],
+      "reponse": "1",
+      "explication": "Le rapport des termes dominants x²/x² donne 1."
+    },
+    {
+      "question": "La limite de f(x) = (sin x)/x quand x → 0 est :",
+      "options": ["1", "0", "∞", "Indéterminée"],
+      "reponse": "1",
+      "explication": "Limite classique bien connue."
+    },
+    {
+      "question": "L’asymptote oblique de f(x) = (2x² + 3x + 1)/(x + 1) est :",
+      "options": ["y = 2x + 1", "y = 2x − 1", "y = x + 1", "Pas d’asymptote"],
+      "reponse": "y = 2x + 1",
+      "explication": "Division polynomiale donne un quotient 2x + 1."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que le secteur tertiaire ?",
+      "options": ["Services et commerce", "Agriculture", "Industrie", "Exploitation minière"],
+      "reponse": "Services et commerce",
+      "explication": "Le secteur tertiaire regroupe les activités de services et de commerce."
+    },
+    {
+      "question": "Quel est un service important dans le secteur tertiaire ?",
+      "options": ["Commerce de détail", "Culture du coton", "Extraction minière", "Transformation agricole"],
+      "reponse": "Commerce de détail",
+      "explication": "Le commerce de détail est un pilier du secteur tertiaire."
+    },
+    {
+      "question": "Quelle ville est le centre économique du Burkina Faso ?",
+      "options": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Fada N’Gourma"],
+      "reponse": "Ouagadougou",
+      "explication": "Ouagadougou est la capitale et le centre économique principal."
+    },
+    {
+      "question": "Quel est un défi majeur du secteur tertiaire au Burkina Faso ?",
+      "options": ["Faible infrastructures", "Surpopulation urbaine", "Surproduction industrielle", "Pauvreté rurale"],
+      "reponse": "Faible infrastructures",
+      "explication": "Le manque d’infrastructures limite le développement des services."
+    },
+    {
+      "question": "Quel secteur du tertiaire est en forte croissance ?",
+      "options": ["Télécommunications", "Agriculture", "Mines", "Textile"],
+      "reponse": "Télécommunications",
+      "explication": "Les télécoms connaissent un développement rapide au Burkina Faso."
+    },
+    {
+      "question": "Quel est le rôle du tourisme dans le secteur tertiaire ?",
+      "options": ["Source de revenus", "Peu développé", "Absence totale", "Secteur secondaire"],
+      "reponse": "Source de revenus",
+      "explication": "Le tourisme contribue à l’économie par les services associés."
+    },
+    {
+      "question": "Quel est un service public important ?",
+      "options": ["Éducation", "Extraction minière", "Agriculture", "Fabrication textile"],
+      "reponse": "Éducation",
+      "explication": "L’éducation est un service public essentiel du secteur tertiaire."
+    },
+    {
+      "question": "Quel est un secteur financier important au Burkina Faso ?",
+      "options": ["Banques", "Agriculture", "Textile", "Mines"],
+      "reponse": "Banques",
+      "explication": "Les banques facilitent les échanges et le financement."
+    },
+    {
+      "question": "Quelle est une activité commerciale typique ?",
+      "options": ["Vente sur les marchés", "Extraction d’or", "Culture du mil", "Fabrication de ciment"],
+      "reponse": "Vente sur les marchés",
+      "explication": "Les marchés locaux sont très actifs dans le commerce."
+    },
+    {
+      "question": "Quel est l’impact de l’urbanisation sur le tertiaire ?",
+      "options": ["Augmentation des services", "Réduction des services", "Aucun impact", "Diminution de la population urbaine"],
+      "reponse": "Augmentation des services",
+      "explication": "La croissance urbaine favorise le développement des services."
+    },
+    {
+      "question": "Quelle infrastructure est essentielle au secteur tertiaire ?",
+      "options": ["Routes et télécommunications", "Champs agricoles", "Mines", "Usines textiles"],
+      "reponse": "Routes et télécommunications",
+      "explication": "Ces infrastructures facilitent les échanges et services."
+    },
+    {
+      "question": "Quel est un secteur tertiaire lié à la santé ?",
+      "options": ["Hôpitaux et cliniques", "Extraction minière", "Agriculture", "Industrie textile"],
+      "reponse": "Hôpitaux et cliniques",
+      "explication": "Les services de santé font partie du tertiaire."
+    },
+    {
+      "question": "Quel est un service financier courant ?",
+      "options": ["Microcrédit", "Culture du coton", "Transformation du mil", "Extraction d’or"],
+      "reponse": "Microcrédit",
+      "explication": "Le microcrédit soutient les petites entreprises et particuliers."
+    },
+    {
+      "question": "Quelle est une activité du secteur tertiaire liée à l’éducation ?",
+      "options": ["Enseignement", "Agriculture", "Industrie", "Commerce minier"],
+      "reponse": "Enseignement",
+      "explication": "L’enseignement fait partie des services essentiels."
+    },
+    {
+      "question": "Quel est un service de transport important ?",
+      "options": ["Transport routier", "Culture du mil", "Extraction minière", "Fabrication textile"],
+      "reponse": "Transport routier",
+      "explication": "Le transport routier est crucial pour l’économie du pays."
+    },
+    {
+      "question": "Quel est un secteur tertiaire en lien avec les technologies ?",
+      "options": ["Technologies de l’information et communication", "Agriculture", "Industrie textile", "Mines"],
+      "reponse": "Technologies de l’information et communication",
+      "explication": "Les TIC se développent rapidement au Burkina Faso."
+    },
+    {
+      "question": "Quel est un problème du secteur tertiaire ?",
+      "options": ["Informalité élevée", "Surproduction", "Excès d’investissement", "Manque d’offres"],
+      "reponse": "Informalité élevée",
+      "explication": "Beaucoup d’activités tertiaires sont informelles et non réglementées."
+    },
+    {
+      "question": "Quel est un service bancaire courant ?",
+      "options": ["Ouverture de compte", "Culture du coton", "Extraction minière", "Transformation textile"],
+      "reponse": "Ouverture de compte",
+      "explication": "Les services bancaires facilitent les transactions économiques."
+    },
+    {
+      "question": "Quel est un défi du secteur tertiaire lié à la formation ?",
+      "options": ["Manque de personnel qualifié", "Surqualification", "Abondance d’experts", "Pas besoin de formation"],
+      "reponse": "Manque de personnel qualifié",
+      "explication": "Le secteur souffre d’un déficit en compétences spécialisées."
+    },
+    {
+      "question": "Quelle est une source d’emploi dans le tertiaire ?",
+      "options": ["Commerçants", "Agriculteurs", "Mineurs", "Industrie textile"],
+      "reponse": "Commerçants",
+      "explication": "Le commerce génère de nombreux emplois au Burkina Faso."
+    },
+    {
+      "question": "Quel est un service public essentiel ?",
+      "options": ["Sécurité et police", "Extraction minière", "Agriculture", "Industrie"],
+      "reponse": "Sécurité et police",
+      "explication": "Les services de sécurité relèvent du secteur tertiaire."
+    },
+    {
+      "question": "Quel est un service touristique important ?",
+      "options": ["Hébergement et guides", "Culture du mil", "Transformation industrielle", "Extraction minière"],
+      "reponse": "Hébergement et guides",
+      "explication": "Le tourisme génère des emplois dans l’accueil et les services."
+    },
+    {
+      "question": "Quel est l’impact de la digitalisation sur le tertiaire ?",
+      "options": ["Amélioration des services", "Réduction des services", "Aucun impact", "Diminution de l’emploi"],
+      "reponse": "Amélioration des services",
+      "explication": "La digitalisation facilite l’accès et la qualité des services."
+    },
+    {
+      "question": "Quel est un service lié à l’eau et l’électricité ?",
+      "options": ["Distribution et gestion", "Extraction minière", "Culture agricole", "Industrie textile"],
+      "reponse": "Distribution et gestion",
+      "explication": "Ces services essentiels appartiennent au secteur tertiaire."
+    },
+    {
+      "question": "Quel est un moyen de communication important ?",
+      "options": ["Téléphone mobile", "Courrier postal", "Fax uniquement", "Télégraphe"],
+      "reponse": "Téléphone mobile",
+      "explication": "Le téléphone mobile est largement utilisé pour communiquer."
+    },
+    {
+      "question": "Quel est un secteur en plein essor dans le tertiaire ?",
+      "options": ["Services financiers mobiles", "Extraction minière", "Agriculture", "Industrie textile"],
+      "reponse": "Services financiers mobiles",
+      "explication": "Les services financiers mobiles facilitent l’inclusion économique."
+    },
+    {
+      "question": "Quel est un rôle du commerce international ?",
+      "options": ["Importation et exportation de biens", "Production agricole", "Transformation minière", "Fabrication textile"],
+      "reponse": "Importation et exportation de biens",
+      "explication": "Le commerce international est une activité clé du secteur tertiaire."
+    },
+    {
+      "question": "Quel est un défi de la logistique ?",
+      "options": ["Mauvaise qualité des routes", "Surabondance des infrastructures", "Main-d’œuvre trop qualifiée", "Systèmes automatisés"],
+      "reponse": "Mauvaise qualité des routes",
+      "explication": "Les infrastructures routières insuffisantes compliquent la logistique."
+    },
+    {
+      "question": "Quel est un secteur tertiaire lié à la culture ?",
+      "options": ["Arts et spectacles", "Agriculture", "Extraction minière", "Industrie textile"],
+      "reponse": "Arts et spectacles",
+      "explication": "Les activités culturelles font partie du secteur tertiaire."
+    }
+  ]
+}

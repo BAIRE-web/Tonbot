@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Que signifie le mot 'proéminent' ?",
+      "options": ["Qui dépasse, Qui est caché, Qui est faible, Qui est lent"],
+      "reponse": "Qui dépasse",
+      "explication": "'Proéminent' signifie qui ressort ou dépasse d’une surface."
+    },
+    {
+      "question": "Quel est le sens du mot 'répudier' ?",
+      "options": ["Rejeter, Accepter, Soutenir, Réconforter"],
+      "reponse": "Rejeter",
+      "explication": "'Répudier' veut dire rejeter avec force, refuser d'accepter."
+    },
+    {
+      "question": "Le mot 'disparate' signifie :",
+      "options": ["Inégal, Identique, Ordonné, Précis"],
+      "reponse": "Inégal",
+      "explication": "'Disparate' désigne un ensemble composé d’éléments différents, sans harmonie."
+    },
+    {
+      "question": "Quel est le sens de 'obsolète' ?",
+      "options": ["Désuet, Récent, Nécessaire, Populaire"],
+      "reponse": "Désuet",
+      "explication": "'Obsolète' signifie démodé, qui n’est plus utilisé."
+    },
+    {
+      "question": "Le mot 'subtil' veut dire :",
+      "options": ["Fin, Brutal, Clair, Absent"],
+      "reponse": "Fin",
+      "explication": "'Subtil' signifie fin, délicat ou difficile à percevoir."
+    },
+    {
+      "question": "Que veut dire 'approbation' ?",
+      "options": ["Accord, Refus, Menace, Silence"],
+      "reponse": "Accord",
+      "explication": "'Approbation' signifie donner son accord à quelque chose."
+    },
+    {
+      "question": "Le mot 'inéluctable' signifie :",
+      "options": ["Inévitable, Évitable, Changeable, Facultatif"],
+      "reponse": "Inévitable",
+      "explication": "'Inéluctable' veut dire qu’on ne peut éviter, inévitable."
+    },
+    {
+      "question": "Que signifie 'taciturne' ?",
+      "options": ["Silencieux, Bavard, Actif, Joyeux"],
+      "reponse": "Silencieux",
+      "explication": "'Taciturne' désigne quelqu’un de peu bavard, silencieux."
+    },
+    {
+      "question": "Le mot 'dilapider' signifie :",
+      "options": ["Gaspiller, Ranger, Économiser, Réparer"],
+      "reponse": "Gaspiller",
+      "explication": "'Dilapider' signifie dépenser sans compter, gaspiller."
+    },
+    {
+      "question": "Que signifie 'dérogation' ?",
+      "options": ["Exception, Règle, Obligation, Résistance"],
+      "reponse": "Exception",
+      "explication": "'Dérogation' est une exception à une règle ou une loi."
+    },
+    {
+      "question": "Le mot 'énigmatique' veut dire :",
+      "options": ["Mystérieux, Clair, Évident, Énergique"],
+      "reponse": "Mystérieux",
+      "explication": "'Énigmatique' signifie difficile à comprendre, mystérieux."
+    },
+    {
+      "question": "Que veut dire 'fugace' ?",
+      "options": ["Passager, Durable, Fixe, Long"],
+      "reponse": "Passager",
+      "explication": "'Fugace' signifie qui ne dure pas, éphémère, passager."
+    },
+    {
+      "question": "Le mot 'affable' signifie :",
+      "options": ["Aimable, Méchant, Timide, Méfiant"],
+      "reponse": "Aimable",
+      "explication": "'Affable' désigne une personne accueillante et gentille."
+    },
+    {
+      "question": "Que signifie 'controverse' ?",
+      "options": ["Débat, Danse, Union, Silence"],
+      "reponse": "Débat",
+      "explication": "'Controverse' désigne un débat, une discussion opposée d’idées."
+    },
+    {
+      "question": "Le mot 'ostentatoire' signifie :",
+      "options": ["Voyant, Discret, Inaperçu, Minime"],
+      "reponse": "Voyant",
+      "explication": "'Ostentatoire' signifie qui cherche à se faire remarquer."
+    },
+    {
+      "question": "Que signifie 'instigateur' ?",
+      "options": ["Initiateur, Follower, Suiveur, Victime"],
+      "reponse": "Initiateur",
+      "explication": "'Instigateur' est celui qui initie, pousse à agir."
+    },
+    {
+      "question": "Le mot 'laconique' veut dire :",
+      "options": ["Bref, Long, Inutile, Flou"],
+      "reponse": "Bref",
+      "explication": "'Laconique' signifie court et concis dans ses propos."
+    },
+    {
+      "question": "Que veut dire 'péricliter' ?",
+      "options": ["Décliner, Grandir, Avancer, Se renforcer"],
+      "reponse": "Décliner",
+      "explication": "'Péricliter' veut dire aller vers la ruine, décliner."
+    },
+    {
+      "question": "Le mot 'sclérosé' signifie :",
+      "options": ["Figé, Souple, Fluide, Léger"],
+      "reponse": "Figé",
+      "explication": "'Sclérosé' signifie devenu rigide, incapable de changer."
+    },
+    {
+      "question": "Que veut dire 'affliction' ?",
+      "options": ["Chagrin, Joie, Santé, Force"],
+      "reponse": "Chagrin",
+      "explication": "'Affliction' désigne une grande tristesse ou douleur morale."
+    },
+    {
+      "question": "Le mot 'nébuleux' signifie :",
+      "options": ["Flou, Clair, Évident, Transparent"],
+      "reponse": "Flou",
+      "explication": "'Nébuleux' veut dire qui manque de clarté, peu compréhensible."
+    },
+    {
+      "question": "Que signifie 'hâbleur' ?",
+      "options": ["Vantard, Honnête, Discret, Patient"],
+      "reponse": "Vantard",
+      "explication": "'Hâbleur' désigne une personne qui exagère et se vante."
+    },
+    {
+      "question": "Le mot 'anodin' signifie :",
+      "options": ["Sans gravité, Dangereux, Fort, Utilisé"],
+      "reponse": "Sans gravité",
+      "explication": "'Anodin' veut dire insignifiant, sans conséquence importante."
+    },
+    {
+      "question": "Que veut dire 'sagacité' ?",
+      "options": ["Intelligence, Paresse, Violence, Tristesse"],
+      "reponse": "Intelligence",
+      "explication": "'Sagacité' est la capacité de comprendre rapidement et clairement."
+    },
+    {
+      "question": "Le mot 'abject' signifie :",
+      "options": ["Ignoble, Grand, Courageux, Léger"],
+      "reponse": "Ignoble",
+      "explication": "'Abject' veut dire très méprisable, ignoble, répugnant moralement."
+    },
+    {
+      "question": "Que signifie 'fervent' ?",
+      "options": ["Passionné, Indifférent, Lâche, Nerveux"],
+      "reponse": "Passionné",
+      "explication": "'Fervent' veut dire animé par une vive passion ou foi."
+    },
+    {
+      "question": "Le mot 'frugal' signifie :",
+      "options": ["Simple, Exagéré, Luxueux, Riche"],
+      "reponse": "Simple",
+      "explication": "'Frugal' veut dire simple, peu abondant mais suffisant."
+    },
+    {
+      "question": "Que veut dire 'patibulaire' ?",
+      "options": ["Inquiétant, Accueillant, Joyeux, Ordinaire"],
+      "reponse": "Inquiétant",
+      "explication": "'Patibulaire' décrit quelqu’un au visage suspect ou inquiétant."
+    },
+    {
+      "question": "Le mot 'abnégation' signifie :",
+      "options": ["Sacrifice de soi, Égoïsme, Rejet, Critique"],
+      "reponse": "Sacrifice de soi",
+      "explication": "'Abnégation' est le fait de se sacrifier pour les autres."
+    },
+    {
+      "question": "Que signifie 'réticent' ?",
+      "options": ["Hésitant, Sûr, Actif, Enthousiaste"],
+      "reponse": "Hésitant",
+      "explication": "'Réticent' désigne quelqu’un qui hésite à dire ou faire quelque chose."
+    },
+    {
+      "question": "Ce scientifique a su vulgariser des concepts très ____.",
+      "options": ["abscons", "faciles", "clairs", "accessibles"],
+      "reponse": "abscons",
+      "explication": "Le mot 'abscons' signifie difficile à comprendre, obscur. Il convient ici à l'idée que les concepts étaient complexes au départ."
+    },
+    {
+      "question": "Son attitude ____ face au danger a impressionné tout le monde.",
+      "options": ["stoïque", "lâche", "peureuse", "instable"],
+      "reponse": "stoïque",
+      "explication": "Une attitude stoïque signifie rester impassible, sans montrer ses émotions, surtout face à la douleur ou au danger."
+    },
+    {
+      "question": "Il est important de ____ ses propos lors d’un débat.",
+      "options": ["nuancer", "crier", "simplifier", "ignorer"],
+      "reponse": "nuancer",
+      "explication": "Nuancer signifie apporter des détails, modérer une affirmation, ce qui est essentiel dans un débat réfléchi."
+    },
+    {
+      "question": "Cette réforme est totalement ____ aux principes de justice.",
+      "options": ["antinomique", "conforme", "favorable", "liée"],
+      "reponse": "antinomique",
+      "explication": "'Antinomique' signifie en opposition totale avec quelque chose. Ici, la réforme s’oppose aux principes de justice."
+    },
+    {
+      "question": "Il a fait preuve d’une ____ rare dans son exposé.",
+      "options": ["pédagogie", "paresse", "colère", "ignorance"],
+      "reponse": "pédagogie",
+      "explication": "La pédagogie désigne la capacité à bien transmettre des connaissances. Elle est ici valorisée."
+    },
+    {
+      "question": "Le ministre a tenu des propos ____ sur la situation.",
+      "options": ["ambiguës", "clairs", "précis", "sincères"],
+      "reponse": "ambiguës",
+      "explication": "Des propos ambigus sont confus ou interprétables de plusieurs façons. Cela crée un doute."
+    },
+    {
+      "question": "L’élève a répondu de manière ____ au professeur.",
+      "options": ["impertinente", "polie", "respectueuse", "admirative"],
+      "reponse": "impertinente",
+      "explication": "'Impertinente' signifie manquer de respect ou répondre avec insolence."
+    },
+    {
+      "question": "C’est une œuvre très ____ dans la littérature française.",
+      "options": ["emblématique", "banale", "oubliée", "éloignée"],
+      "reponse": "emblématique",
+      "explication": "Une œuvre emblématique est représentative et importante dans un domaine donné."
+    },
+    {
+      "question": "Le discours était trop ____ pour convaincre l’auditoire.",
+      "options": ["confus", "clair", "structuré", "logique"],
+      "reponse": "confus",
+      "explication": "Un discours confus manque de clarté et de structure, ce qui nuit à sa compréhension."
+    },
+    {
+      "question": "Elle a exprimé son point de vue avec une grande ____.",
+      "options": ["assurance", "hésitation", "peur", "colère"],
+      "reponse": "assurance",
+      "explication": "'Assurance' signifie confiance et fermeté dans son propos, ce qui est un signe d'aisance."
+    },
+    {
+      "question": "Le mot 'diligent' signifie :",
+      "options": ["rapide et appliqué", "paresseux", "maladroit", "superficiel"],
+      "reponse": "rapide et appliqué",
+      "explication": "'Diligent' désigne une personne qui agit vite tout en restant sérieuse et appliquée."
+    },
+    {
+      "question": "Le terme 'insatiable' désigne quelqu’un qui :",
+      "options": ["n'est jamais rassasié", "se contente de peu", "mange lentement", "ne parle jamais"],
+      "reponse": "n'est jamais rassasié",
+      "explication": "'Insatiable' signifie qui ne peut jamais être satisfait, souvent utilisé au sens figuré."
+    },
+    {
+      "question": "Un regard ____ peut trahir une intention malhonnête.",
+      "options": ["fuyant", "serein", "sincère", "joyeux"],
+      "reponse": "fuyant",
+      "explication": "Un regard fuyant évite les yeux de l’autre, souvent signe de malaise ou de mensonge."
+    },
+    {
+      "question": "Le ton ____ du discours a surpris l’assemblée.",
+      "options": ["véhément", "calme", "neutre", "ennuyeux"],
+      "reponse": "véhément",
+      "explication": "'Véhément' désigne une forte intensité dans les mots, parfois agressive ou passionnée."
+    },
+    {
+      "question": "La situation devient ____ : il faut agir vite.",
+      "options": ["critique", "banale", "paisible", "stable"],
+      "reponse": "critique",
+      "explication": "'Critique' signifie grave, urgente, nécessitant une intervention rapide."
+    },
+    {
+      "question": "Le mot 'lucide' signifie :",
+      "options": ["clairvoyant et rationnel", "distrait", "rêveur", "peureux"],
+      "reponse": "clairvoyant et rationnel",
+      "explication": "Être lucide, c’est voir la réalité telle qu’elle est, sans illusions."
+    },
+    {
+      "question": "Il a fait un effort ____ pour terminer ce travail.",
+      "options": ["colossal", "léger", "inutile", "superficiel"],
+      "reponse": "colossal",
+      "explication": "'Colossal' exprime quelque chose de très grand, immense, voire excessif."
+    },
+    {
+      "question": "Le mot 'désuet' signifie :",
+      "options": ["plus en usage", "très à la mode", "dangereux", "étranger"],
+      "reponse": "plus en usage",
+      "explication": "Un mot désuet est tombé en désuétude, il n’est plus utilisé dans le langage courant."
+    },
+    {
+      "question": "Il s’est exprimé avec une grande ____.",
+      "options": ["aisance", "confusion", "hésitation", "faiblesse"],
+      "reponse": "aisance",
+      "explication": "'Aisance' signifie facilité, fluidité dans l’expression ou le comportement."
+    },
+    {
+      "question": "Ce roman est d’une grande ____ littéraire.",
+      "options": ["richesse", "pauvreté", "simplicité", "erreur"],
+      "reponse": "richesse",
+      "explication": "'Richesse' littéraire désigne une œuvre variée, profonde, et bien construite dans la langue."
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "qcm": [
+    {
+      "question": "Qu'est-ce qu'une courbe paramétrée ?",
+      "options": ["Une courbe définie par y = f(x)", "Une courbe définie par un paramètre t", "Une fonction polynomiale", "Une fonction exponentielle"],
+      "reponse": "Une courbe définie par un paramètre t",
+      "explication": "Une courbe paramétrée est définie par des fonctions x(t) et y(t) où t est un paramètre."
+    },
+    {
+      "question": "Quelle est la forme générale d'une courbe paramétrée dans le plan ?",
+      "options": ["(x, y) = (f(t), g(t))", "(x, y) = (t, t²)", "(x, y) = (e^t, ln t)", "(x, y) = (x, y)"],
+      "reponse": "(x, y) = (f(t), g(t))",
+      "explication": "Une courbe paramétrée est donnée par deux fonctions réelles f et g en fonction du paramètre t."
+    },
+    {
+      "question": "Comment calcule-t-on la dérivée vectorielle d'une courbe paramétrée ?",
+      "options": ["(dx/dt, dy/dt)", "(dy/dx)", "(d²x/dt², d²y/dt²)", "(dx/dt + dy/dt)"],
+      "reponse": "(dx/dt, dy/dt)",
+      "explication": "La dérivée vectorielle est le vecteur formé des dérivées des composantes par rapport au paramètre t."
+    },
+    {
+      "question": "Quelle condition assure que la courbe est régulière en t ?",
+      "options": ["dx/dt = dy/dt = 0", "dx/dt ≠ 0 ou dy/dt ≠ 0", "x(t) et y(t) sont continues", "x(t) et y(t) sont dérivables"],
+      "reponse": "dx/dt ≠ 0 ou dy/dt ≠ 0",
+      "explication": "La courbe est régulière en t si sa dérivée vectorielle ne s’annule pas."
+    },
+    {
+      "question": "Quelle formule donne la longueur d’arc entre t = a et t = b ?",
+      "options": ["∫_a^b sqrt((dx/dt)² + (dy/dt)²) dt", "∫_a^b (dx/dt + dy/dt) dt", "∫_a^b (x(t) + y(t)) dt", "∫_a^b (dx/dt)(dy/dt) dt"],
+      "reponse": "∫_a^b sqrt((dx/dt)² + (dy/dt)²) dt",
+      "explication": "La longueur d’arc est l’intégrale de la norme de la dérivée vectorielle."
+    },
+    {
+      "question": "Quelle expression correspond à la tangente en un point t0 ?",
+      "options": ["Vecteur dérivé en t0", "Vecteur nul", "Point (x(t0), y(t0))", "Vecteur normal"],
+      "reponse": "Vecteur dérivé en t0",
+      "explication": "La tangente est dirigée par le vecteur dérivé de la courbe en t0."
+    },
+    {
+      "question": "Comment s’appelle la courbe définie par x(t) = cos t, y(t) = sin t ?",
+      "options": ["Cercle unité", "Parabole", "Ellipse", "Hyperbole"],
+      "reponse": "Cercle unité",
+      "explication": "Ces fonctions paramétriques décrivent un cercle de centre 0 et rayon 1."
+    },
+    {
+      "question": "Quelle est la période de la courbe paramétrée x(t) = cos(3t), y(t) = sin(3t) ?",
+      "options": ["2π/3", "2π", "3", "π/3"],
+      "reponse": "2π/3",
+      "explication": "La période est la période fondamentale divisée par le facteur 3."
+    },
+    {
+      "question": "Comment calcule-t-on l’aire sous une courbe paramétrée de t = a à t = b ?",
+      "options": ["∫_a^b y(t) dx/dt dt", "∫_a^b x(t) dy/dt dt", "∫_a^b x(t) y(t) dt", "∫_a^b sqrt(x² + y²) dt"],
+      "reponse": "∫_a^b y(t) dx/dt dt",
+      "explication": "L’aire est donnée par l’intégrale de y(t) multiplié par la dérivée de x(t)."
+    },
+    {
+      "question": "Si x(t) = t², y(t) = t³, que vaut dy/dx en t ?",
+      "options": ["(dy/dt)/(dx/dt) = 3t² / 2t = 3t/2", "3t²", "2t", "t"],
+      "reponse": "(dy/dt)/(dx/dt) = 3t² / 2t = 3t/2",
+      "explication": "La dérivée dy/dx s’obtient par (dy/dt)/(dx/dt)."
+    },
+    {
+      "question": "Pour la courbe paramétrée (x(t), y(t)), qu’est-ce que le vecteur normal en t ?",
+      "options": ["Un vecteur perpendiculaire au vecteur dérivé", "Le vecteur dérivé", "Le vecteur nul", "Un vecteur tangent"],
+      "reponse": "Un vecteur perpendiculaire au vecteur dérivé",
+      "explication": "Le vecteur normal est orthogonal à la tangente, donc au vecteur dérivé."
+    },
+    {
+      "question": "Qu’est-ce qu’une représentation paramétrique implicite ?",
+      "options": ["Une équation F(x,y) = 0", "Une fonction y = f(x)", "Une paramétrisation (x(t), y(t))", "Une droite paramétrée"],
+      "reponse": "Une équation F(x,y) = 0",
+      "explication": "Une représentation implicite décrit la courbe par une relation entre x et y."
+    },
+    {
+      "question": "La dérivée seconde d’une courbe paramétrée sert à calculer :",
+      "options": ["La concavité et la courbure", "La longueur d’arc", "La tangente", "La normale"],
+      "reponse": "La concavité et la courbure",
+      "explication": "La dérivée seconde indique la façon dont la courbe se plie (courbure)."
+    },
+    {
+      "question": "La vitesse d’un point sur une courbe paramétrée est :",
+      "options": ["La norme du vecteur dérivé", "La dérivée seconde", "La tangente", "La normale"],
+      "reponse": "La norme du vecteur dérivé",
+      "explication": "La vitesse est la norme de la dérivée du vecteur position."
+    },
+    {
+      "question": "Le vecteur dérivé de (x(t), y(t)) = (3t, 4t²) est :",
+      "options": ["(3, 8t)", "(t, 2t)", "(3t, 4t)", "(0, 0)"],
+      "reponse": "(3, 8t)",
+      "explication": "Dérivée composante par composante : dx/dt=3, dy/dt=8t."
+    },
+    {
+      "question": "Quelle est la condition pour qu’une courbe paramétrée soit fermée ?",
+      "options": ["x(a) = x(b) et y(a) = y(b)", "x(t) > 0", "y(t) > 0", "La dérivée est nulle"],
+      "reponse": "x(a) = x(b) et y(a) = y(b)",
+      "explication": "Une courbe est fermée si elle revient au point initial."
+    },
+    {
+      "question": "Comment s’appelle le paramètre t dans une courbe paramétrée ?",
+      "options": ["Le paramètre de définition", "Le temps", "L’abscisse", "L’ordonnée"],
+      "reponse": "Le paramètre de définition",
+      "explication": "C’est la variable indépendante qui fait varier la position sur la courbe."
+    },
+    {
+      "question": "Quelle est la formule de la pente de la tangente en t0 ?",
+      "options": ["(dy/dt)/(dx/dt) en t0", "dx/dt + dy/dt", "dx/dt - dy/dt", "dy/dt"],
+      "reponse": "(dy/dt)/(dx/dt) en t0",
+      "explication": "La pente s’obtient par le quotient des dérivées en t0."
+    },
+    {
+      "question": "Le rayon de courbure d’une courbe paramétrée s’exprime avec :",
+      "options": ["La dérivée première et seconde", "La longueur d’arc", "La pente", "La fonction y(t)"],
+      "reponse": "La dérivée première et seconde",
+      "explication": "Le rayon de courbure utilise les dérivées première et seconde des composantes."
+    },
+    {
+      "question": "Quelle est la paramétrisation d’une droite passant par (x0,y0) avec vecteur directeur (a,b) ?",
+      "options": ["(x0 + at, y0 + bt)", "(a t, b t)", "(x0 t, y0 t)", "(a + x0, b + y0)"],
+      "reponse": "(x0 + at, y0 + bt)",
+      "explication": "La droite est paramétrée par un point et un vecteur directeur."
+    },
+    {
+      "question": "Quelles sont les coordonnées du vecteur tangent en t ?",
+      "options": ["(dx/dt, dy/dt)", "(dy/dt, dx/dt)", "(x(t), y(t))", "(0,0)"],
+      "reponse": "(dx/dt, dy/dt)",
+      "explication": "Le vecteur tangent est la dérivée du vecteur position."
+    },
+    {
+      "question": "Comment trouve-t-on les points stationnaires d’une courbe paramétrée ?",
+      "options": ["Lorsque le vecteur dérivé est nul", "Lorsque x(t) = 0", "Lorsque y(t) = 0", "Lorsque le vecteur normal est nul"],
+      "reponse": "Lorsque le vecteur dérivé est nul",
+      "explication": "Points où la vitesse est nulle, donc vecteur dérivé nul."
+    },
+    {
+      "question": "Quelle est la nature de la courbe définie par x(t) = t³, y(t) = t³ ?",
+      "options": ["Une droite", "Une parabole", "Une courbe cubique", "Un cercle"],
+      "reponse": "Une courbe cubique",
+      "explication": "Les coordonnées sont des fonctions cubiques du paramètre."
+    },
+    {
+      "question": "Comment calcule-t-on l’aire délimitée par une courbe paramétrée fermée ?",
+      "options": ["(1/2) ∫ (x dy - y dx)", "∫ y dx", "∫ x dy", "∫ sqrt(dx² + dy²)"],
+      "reponse": "(1/2) ∫ (x dy - y dx)",
+      "explication": "Formule classique de l’aire par intégrale curviligne."
+    },
+    {
+      "question": "Quelle est la courbe décrite par x(t) = t, y(t) = t² ?",
+      "options": ["Une parabole", "Une droite", "Une hyperbole", "Un cercle"],
+      "reponse": "Une parabole",
+      "explication": "Relation y = x² lorsque t varie."
+    },
+    {
+      "question": "Soit la courbe paramétrée définie par x(t) = t², y(t) = t³. Quelle est la pente de la tangente en t = 1 ?",
+      "options": ["3/2", "2/3", "3", "2"],
+      "reponse": "3/2",
+      "explication": "dy/dt = 3t², dx/dt = 2t donc dy/dx = (3t²)/(2t) = 3t/2. En t=1, pente = 3/2."
+    },
+    {
+      "question": "Pour la courbe x(t) = cos t, y(t) = sin t, quelle est la longueur d’arc entre t=0 et t=π/2 ?",
+      "options": ["π/2", "1", "π", "2"],
+      "reponse": "π/2",
+      "explication": "La longueur d’arc est ∫₀^{π/2} sqrt((-sin t)² + (cos t)²) dt = ∫₀^{π/2} 1 dt = π/2."
+    },
+    {
+      "question": "Pour la courbe x(t) = 2t, y(t) = t², calculez dy/dx en t = 2.",
+      "options": ["2", "1", "4", "0.5"],
+      "reponse": "2",
+      "explication": "dy/dt = 2t=4, dx/dt=2, dy/dx = 4/2=2."
+    },
+    {
+      "question": "Quelle est la nature de la courbe paramétrée par x(t) = t, y(t) = t² - 3t + 2 ?",
+      "options": ["Parabole", "Cercle", "Ligne droite", "Ellipse"],
+      "reponse": "Parabole",
+      "explication": "y est un polynôme quadratique en t; x linéaire, c’est la représentation paramétrique d’une parabole."
+    },
+    {
+      "question": "La courbe paramétrée x(t) = e^t, y(t) = e^{-t} a pour point stationnaire en t égal à :",
+      "options": ["Aucun", "0", "1", "-1"],
+      "reponse": "Aucun",
+      "explication": "Le vecteur dérivé ne s’annule jamais (dx/dt = e^t > 0, dy/dt = -e^{-t} ≠ 0)."
+    },
+    {
+      "question": "Sur la courbe x(t) = sin t, y(t) = cos t, la dérivée dy/dx en t = π/4 vaut :",
+      "options": ["-1", "1", "0", "-√2"],
+      "reponse": "-1",
+      "explication": "dy/dt = -sin t, dx/dt = cos t donc dy/dx = (-sin t)/(cos t) = -tan t = -1 à t=π/4."
+    },
+    {
+      "question": "Pour la courbe x(t) = 3t - 1, y(t) = 2t + 4, la pente de la tangente est :",
+      "options": ["2/3", "3/2", "1", "5"],
+      "reponse": "2/3",
+      "explication": "dy/dt = 2, dx/dt = 3 donc dy/dx = 2/3."
+    },
+    {
+      "question": "Trouver l’équation de la tangente à la courbe x(t) = t², y(t) = t³ au point t=1.",
+      "options": ["y = 1 + (3/2)(x - 1)", "y = 1 + 2(x - 1)", "y = (3/2)x + 1", "y = (3/2)(x - 1)"],
+      "reponse": "y = 1 + (3/2)(x - 1)",
+      "explication": "Point : (1,1). Pente : 3/2. Forme : y - y₀ = m(x - x₀)."
+    },
+    {
+      "question": "Pour la courbe x(t) = t, y(t) = t², quelle est la longueur d’arc entre t=0 et t=1 ?",
+      "options": ["√2", "1", "2", "1.5"],
+      "reponse": "√2",
+      "explication": "L = ∫₀^1 sqrt((dx/dt)² + (dy/dt)²) dt = ∫₀^1 sqrt(1 + (2t)²) dt = calculée approx. √2."
+    },
+    {
+      "question": "Pour la courbe x(t) = t², y(t) = t³, le vecteur normal en t=1 est :",
+      "options": ["(-3, 2)", "(3, 2)", "(-2, 3)", "(2, -3)"],
+      "reponse": "(-3, 2)",
+      "explication": "Vecteur tangent = (2t, 3t²), normal = (-3t², 2t), en t=1 normal = (-3, 2)."
+    },
+    {
+      "question": "Quelle est l’équation paramétrique d’une droite passant par A(1,2) avec vecteur directeur u=(3,4) ?",
+      "options": ["x=1+3t, y=2+4t", "x=3t, y=4t", "x=1-t, y=2-t", "x=1+4t, y=2+3t"],
+      "reponse": "x=1+3t, y=2+4t",
+      "explication": "Paramétrisation d’une droite : point + t * vecteur directeur."
+    },
+    {
+      "question": "Sur la courbe x(t) = cos t, y(t) = sin t, la vitesse à t=π/3 est :",
+      "options": ["1", "√3/2", "0", "2"],
+      "reponse": "1",
+      "explication": "Vitesse = sqrt((-sin t)² + (cos t)²) = 1 pour tout t."
+    },
+    {
+      "question": "La courbe x(t) = 1 - t², y(t) = 2t a un point stationnaire en t = ?",
+      "options": ["0", "1", "-1", "Aucun"],
+      "reponse": "Aucun",
+      "explication": "dx/dt = -2t, dy/dt=2, jamais tous deux nuls simultanément."
+    },
+    {
+      "question": "Pour x(t)= t³ - t, y(t)= t², calculer dy/dx en t=1.",
+      "options": ["1/4", "4", "1", "0"],
+      "reponse": "1/4",
+      "explication": "dy/dt=2t=2, dx/dt=3t² -1=3 -1=2, dy/dx=2/4=1/4."
+    },
+    {
+      "question": "L’aire délimitée par la courbe x(t)= cos t, y(t) = sin t pour t in [0, 2π] est :",
+      "options": ["π", "2π", "0", "1"],
+      "reponse": "π",
+      "explication": "C’est l’aire du cercle unité."
+    },
+    {
+      "question": "Sur la courbe x(t) = t, y(t) = t³, la courbure est nulle en t = ?",
+      "options": ["0", "1", "-1", "Aucun"],
+      "reponse": "0",
+      "explication": "La courbure s’annule en t=0 (point d’inflexion)."
+    },
+    {
+      "question": "La dérivée seconde de la courbe x(t) = t², y(t) = t³ en t = 1 est :",
+      "options": ["(2, 6)", "(1, 3)", "(0, 0)", "(2, 3)"],
+      "reponse": "(2, 6)",
+      "explication": "d²x/dt²=2, d²y/dt²=6t donc en t=1, (2,6)."
+    },
+    {
+      "question": "Quelle est la pente de la tangente à la courbe x(t)= e^t, y(t)= e^{-t} en t=0 ?",
+      "options": ["-1", "1", "0", "2"],
+      "reponse": "-1",
+      "explication": "dy/dt = -e^{-t}, dx/dt = e^t, donc dy/dx = (-e^{-t})/(e^t) = -e^{-2t} = -1 en t=0."
+    },
+    {
+      "question": "Soit la courbe x(t) = t, y(t) = 1/t. En t=1, dy/dx vaut :",
+      "options": ["-1", "1", "0", "-2"],
+      "reponse": "-1",
+      "explication": "dy/dt = -1/t² = -1, dx/dt=1 donc dy/dx = -1."
+    },
+    {
+      "question": "La longueur d’arc de la droite paramétrée par x(t) = 3t, y(t) = 4t entre t=0 et t=1 est :",
+      "options": ["5", "7", "1", "25"],
+      "reponse": "5",
+      "explication": "Longueur = ∫₀¹ sqrt(3² + 4²) dt = 5·1=5."
+    }
+  ]
+}

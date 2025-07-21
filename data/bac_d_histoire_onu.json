@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "En quelle année a été créée l’ONU ?",
+      "options": ["1945", "1919", "1939", "1950"],
+      "reponse": "1945",
+      "explication": "L’Organisation des Nations Unies a été fondée en 1945 après la Seconde Guerre mondiale."
+    },
+    {
+      "question": "Quel est l’objectif principal de l’ONU ?",
+      "options": ["Maintenir la paix et la sécurité internationales", "Organiser des compétitions sportives", "Développer le commerce mondial", "Gérer les ressources naturelles"],
+      "reponse": "Maintenir la paix et la sécurité internationales",
+      "explication": "L’ONU vise à éviter les conflits armés et favoriser la coopération internationale."
+    },
+    {
+      "question": "Quel est le siège principal de l’ONU ?",
+      "options": ["New York", "Genève", "Paris", "Bruxelles"],
+      "reponse": "New York",
+      "explication": "Le siège de l’ONU est situé à New York, aux États-Unis."
+    },
+    {
+      "question": "Combien de pays sont membres de l’ONU en 2025 ?",
+      "options": ["193", "150", "200", "180"],
+      "reponse": "193",
+      "explication": "L’ONU compte actuellement 193 États membres."
+    },
+    {
+      "question": "Quel organe de l’ONU est responsable du maintien de la paix ?",
+      "options": ["Le Conseil de sécurité", "L’Assemblée générale", "La Cour internationale de justice", "Le Secrétariat"],
+      "reponse": "Le Conseil de sécurité",
+      "explication": "Le Conseil de sécurité prend les décisions sur les interventions pour maintenir la paix."
+    },
+    {
+      "question": "Combien de membres permanents compte le Conseil de sécurité ?",
+      "options": ["5", "10", "15", "20"],
+      "reponse": "5",
+      "explication": "Les membres permanents sont la Chine, les États-Unis, la Russie, la France et le Royaume-Uni."
+    },
+    {
+      "question": "Quels pays ont un droit de veto au Conseil de sécurité ?",
+      "options": ["Les 5 membres permanents", "Tous les membres", "Les membres non permanents", "L’Assemblée générale"],
+      "reponse": "Les 5 membres permanents",
+      "explication": "Ils peuvent bloquer une décision même si elle est majoritaire."
+    },
+    {
+      "question": "Quel organe de l’ONU réunit tous les États membres ?",
+      "options": ["L’Assemblée générale", "Le Conseil économique et social", "Le Conseil de sécurité", "Le Secrétariat"],
+      "reponse": "L’Assemblée générale",
+      "explication": "Elle est composée de tous les membres et discute de tous les sujets internationaux."
+    },
+    {
+      "question": "Qui est le chef administratif de l’ONU ?",
+      "options": ["Le Secrétaire général", "Le Président du Conseil de sécurité", "Le Président de l’Assemblée générale", "Le Directeur du FMI"],
+      "reponse": "Le Secrétaire général",
+      "explication": "Il représente l’ONU et coordonne ses activités."
+    },
+    {
+      "question": "Comment est choisi le Secrétaire général de l’ONU ?",
+      "options": ["Par le Conseil de sécurité et confirmé par l’Assemblée générale", "Par un vote populaire mondial", "Par les membres permanents uniquement", "Par le Conseil économique et social"],
+      "reponse": "Par le Conseil de sécurité et confirmé par l’Assemblée générale",
+      "explication": "Le Conseil de sécurité propose un candidat que l’Assemblée générale approuve."
+    },
+    {
+      "question": "Quel est le rôle de la Cour internationale de justice ?",
+      "options": ["Règler les différends entre États", "Organiser des élections", "Développer les économies", "Gérer les opérations militaires"],
+      "reponse": "Règler les différends entre États",
+      "explication": "Elle tranche les conflits juridiques entre États membres."
+    },
+    {
+      "question": "Quel programme de l’ONU lutte contre la faim dans le monde ?",
+      "options": ["Le Programme alimentaire mondial (PAM)", "L’UNICEF", "L’UNESCO", "L’OMS"],
+      "reponse": "Le Programme alimentaire mondial (PAM)",
+      "explication": "Le PAM distribue de la nourriture dans les zones en crise."
+    },
+    {
+      "question": "L’UNICEF s’occupe principalement de :",
+      "options": ["La protection des enfants", "La santé des adultes", "La paix mondiale", "Le développement économique"],
+      "reponse": "La protection des enfants",
+      "explication": "L’UNICEF œuvre pour la défense des droits des enfants."
+    },
+    {
+      "question": "Quelle agence de l’ONU est chargée de la santé publique mondiale ?",
+      "options": ["L’OMS", "Le PAM", "L’UNICEF", "L’UNESCO"],
+      "reponse": "L’OMS",
+      "explication": "L’Organisation mondiale de la santé coordonne la lutte contre les maladies."
+    },
+    {
+      "question": "Quel traité fonde l’ONU ?",
+      "options": ["La Charte des Nations Unies", "Le Traité de Versailles", "La Déclaration des droits de l’homme", "La Convention de Genève"],
+      "reponse": "La Charte des Nations Unies",
+      "explication": "La Charte a été signée en 1945 pour créer l’ONU."
+    },
+    {
+      "question": "Quelle institution de l’ONU s’occupe de la culture et de l’éducation ?",
+      "options": ["L’UNESCO", "L’OMS", "Le PAM", "Le Conseil de sécurité"],
+      "reponse": "L’UNESCO",
+      "explication": "L’UNESCO promeut l’éducation, la science et la culture."
+    },
+    {
+      "question": "Comment se prennent les décisions à l’Assemblée générale ?",
+      "options": ["À la majorité simple", "Par consensus unanime", "Par veto", "Par tirage au sort"],
+      "reponse": "À la majorité simple",
+      "explication": "Les décisions sont généralement adoptées à la majorité des votes."
+    },
+    {
+      "question": "Les membres non permanents du Conseil de sécurité sont élus pour :",
+      "options": ["2 ans", "5 ans", "1 an", "4 ans"],
+      "reponse": "2 ans",
+      "explication": "Ils sont élus par l’Assemblée générale pour un mandat de deux ans."
+    },
+    {
+      "question": "Quels sont les cinq membres permanents du Conseil de sécurité ?",
+      "options": ["États-Unis, Russie, Chine, France, Royaume-Uni", "États-Unis, Allemagne, Brésil, Inde, Japon", "Russie, France, Inde, Brésil, Allemagne", "Chine, Japon, Allemagne, France, Royaume-Uni"],
+      "reponse": "États-Unis, Russie, Chine, France, Royaume-Uni",
+      "explication": "Ces cinq pays disposent d’un droit de veto au Conseil de sécurité."
+    },
+    {
+      "question": "Quel est l’objectif principal de l’ONU en matière de droits humains ?",
+      "options": ["Protéger et promouvoir les droits humains universels", "Imposer des lois nationales", "Contrôler les gouvernements", "Gérer les migrations uniquement"],
+      "reponse": "Protéger et promouvoir les droits humains universels",
+      "explication": "L’ONU défend les droits fondamentaux pour tous."
+    },
+    {
+      "question": "Quelle assemblée de l’ONU adopte le budget annuel de l’organisation ?",
+      "options": ["L’Assemblée générale", "Le Conseil de sécurité", "Le Secrétariat", "Le Conseil économique et social"],
+      "reponse": "L’Assemblée générale",
+      "explication": "Elle approuve le budget proposé par le Secrétariat."
+    },
+    {
+      "question": "Le Conseil économique et social (ECOSOC) a pour rôle principal :",
+      "options": ["Coordonner la coopération économique et sociale internationale", "Gérer les opérations militaires", "Arbitrer les conflits internationaux", "Gérer les finances de l’ONU"],
+      "reponse": "Coordonner la coopération économique et sociale internationale",
+      "explication": "L’ECOSOC favorise la collaboration entre États sur les questions économiques et sociales."
+    },
+    {
+      "question": "Le droit de veto au Conseil de sécurité permet :",
+      "options": ["À un membre permanent de bloquer une résolution", "À tous les membres de voter", "À l’Assemblée générale de valider une décision", "De faire appel à la Cour internationale de justice"],
+      "reponse": "À un membre permanent de bloquer une résolution",
+      "explication": "Le veto permet à un membre permanent d’empêcher l’adoption d’une décision."
+    },
+    {
+      "question": "Quelle est la durée du mandat du Secrétaire général de l’ONU ?",
+      "options": ["5 ans renouvelables", "10 ans", "3 ans", "6 ans"],
+      "reponse": "5 ans renouvelables",
+      "explication": "Le mandat est de 5 ans, avec possibilité de renouvellement."
+    },
+    {
+      "question": "La principale mission de l’ONU en matière d’opérations de maintien de la paix est :",
+      "options": ["Déployer des Casques bleus dans les zones de conflit", "Gérer les relations commerciales", "Organiser des conférences diplomatiques", "Promouvoir la culture"],
+      "reponse": "Déployer des Casques bleus dans les zones de conflit",
+      "explication": "Les Casques bleus surveillent les cessez-le-feu et protègent les civils."
+    },
+    {
+      "question": "Quel pays n’est pas un membre permanent du Conseil de sécurité ?",
+      "options": ["Allemagne", "France", "Chine", "Russie"],
+      "reponse": "Allemagne",
+      "explication": "L’Allemagne n’a pas de siège permanent au Conseil de sécurité."
+    },
+    {
+      "question": "L’ONU est fondée sur le principe de :",
+      "options": ["Souveraineté égale des États membres", "Domination d’un pays", "Intervention militaire systématique", "Union politique mondiale"],
+      "reponse": "Souveraineté égale des États membres",
+      "explication": "Chaque État membre est souverain et égal devant l’ONU."
+    },
+    {
+      "question": "L’ONU a été créée pour remplacer :",
+      "options": ["La Société des Nations", "L’OTAN", "Le Commonwealth", "La Ligue arabe"],
+      "reponse": "La Société des Nations",
+      "explication": "L’ONU succède à la SDN, créée après la Première Guerre mondiale."
+    },
+    {
+      "question": "Quel est le rôle principal de l’UNESCO ?",
+      "options": ["Promouvoir la culture, l’éducation et la science", "Gérer les réfugiés", "Maintenir la paix", "Coordonner les opérations humanitaires"],
+      "reponse": "Promouvoir la culture, l’éducation et la science",
+      "explication": "L’UNESCO encourage la coopération internationale dans ces domaines."
+    },
+    {
+      "question": "Quelle organisation de l’ONU aide les réfugiés ?",
+      "options": ["HCR", "UNICEF", "PAM", "OMS"],
+      "reponse": "HCR",
+      "explication": "Le Haut Commissariat pour les Réfugiés protège et aide les personnes déplacées."
+    },
+    {
+      "question": "L’ONU agit pour le développement durable via :",
+      "options": ["Les Objectifs de développement durable (ODD)", "Le Pacte de Varsovie", "La Charte de l’Atlantique", "Le Traité de Rome"],
+      "reponse": "Les Objectifs de développement durable (ODD)",
+      "explication": "Les ODD sont un programme mondial pour un développement équilibré et durable."
+    },
+    {
+      "question": "L’ONU organise chaque année une journée internationale pour :",
+      "options": ["Les droits de l’homme", "La fête nationale américaine", "Le tourisme mondial", "Les compétitions sportives"],
+      "reponse": "Les droits de l’homme",
+      "explication": "Le 10 décembre célèbre la Déclaration universelle des droits de l’homme."
+    },
+    {
+      "question": "La principale langue de travail de l’ONU est :",
+      "options": ["L’anglais", "Le français", "L’espagnol", "Le russe"],
+      "reponse": "L’anglais",
+      "explication": "L’anglais est la langue la plus utilisée dans les réunions officielles."
+    },
+    {
+      "question": "L’ONU organise la Conférence sur le climat appelée :",
+      "options": ["COP", "G7", "OCDE", "FMI"],
+      "reponse": "COP",
+      "explication": "La Conférence des Parties (COP) rassemble les États pour discuter du changement climatique."
+    },
+    {
+      "question": "Quel est le rôle du Secrétariat de l’ONU ?",
+      "options": ["Gérer l’administration et les activités quotidiennes", "Prendre des décisions militaires", "Développer les économies", "Organiser les Jeux olympiques"],
+      "reponse": "Gérer l’administration et les activités quotidiennes",
+      "explication": "Le Secrétariat exécute les décisions et coordonne le travail de l’ONU."
+    },
+    {
+      "question": "Le Conseil des droits de l’homme de l’ONU est chargé de :",
+      "options": ["Surveiller le respect des droits humains", "Gérer les ressources naturelles", "Arbitrer les conflits commerciaux", "Gérer les opérations militaires"],
+      "reponse": "Surveiller le respect des droits humains",
+      "explication": "Il examine les violations des droits et conseille les États."
+    },
+    {
+      "question": "L’ONU travaille aussi pour la lutte contre :",
+      "options": ["Le terrorisme international", "Le tourisme", "Les jeux vidéo", "Les sports extrêmes"],
+      "reponse": "Le terrorisme international",
+      "explication": "Elle coordonne les efforts mondiaux pour prévenir le terrorisme."
+    },
+    {
+      "question": "Quelle institution de l’ONU fournit une assistance humanitaire d’urgence ?",
+      "options": ["Le Programme alimentaire mondial (PAM)", "Le Conseil de sécurité", "L’Assemblée générale", "Le Secrétariat"],
+      "reponse": "Le Programme alimentaire mondial (PAM)",
+      "explication": "Le PAM aide les populations en crise par la distribution de nourriture."
+    },
+    {
+      "question": "L’ONU promeut la coopération internationale dans le domaine de :",
+      "options": ["La science, la technologie et l’éducation", "La production industrielle uniquement", "Le sport compétitif uniquement", "La diplomatie bilatérale uniquement"],
+      "reponse": "La science, la technologie et l’éducation",
+      "explication": "Elle encourage l’échange d’expertises pour le développement mondial."
+    },
+    {
+      "question": "Quel est le nom des troupes de maintien de la paix de l’ONU ?",
+      "options": ["Casques bleus", "Forces rouges", "Troupes vertes", "Brigades jaunes"],
+      "reponse": "Casques bleus",
+      "explication": "Le nom vient de la couleur des casques portés par ces soldats."
+    },
+    {
+      "question": "L’ONU soutient les États dans la protection de :",
+      "options": ["L’environnement", "Les marchés financiers", "Les médias", "Les groupes sportifs"],
+      "reponse": "L’environnement",
+      "explication": "Elle œuvre pour la protection des écosystèmes et la lutte contre la pollution."
+    },
+    {
+      "question": "Quel est le rôle de l’Assemblée générale de l’ONU ?",
+      "options": ["Débattre et adopter des résolutions", "Prendre des décisions exécutives", "Déployer des forces armées", "Gérer les finances des pays"],
+      "reponse": "Débattre et adopter des résolutions",
+      "explication": "Elle rassemble tous les membres pour discuter des grandes questions internationales."
+    },
+    {
+      "question": "Le droit de veto peut être utilisé pour :",
+      "options": ["Empêcher l’adoption d’une résolution au Conseil de sécurité", "Modifier la Charte des Nations Unies", "Éliminer un membre", "Organiser une conférence"],
+      "reponse": "Empêcher l’adoption d’une résolution au Conseil de sécurité",
+      "explication": "Un seul membre permanent peut bloquer une décision."
+    },
+    {
+      "question": "L’ONU finance ses activités par :",
+      "options": ["Les contributions des États membres", "Les dons privés uniquement", "Les impôts sur les entreprises", "La vente de ressources naturelles"],
+      "reponse": "Les contributions des États membres",
+      "explication": "Chaque État verse une cotisation proportionnelle à sa richesse."
+    },
+    {
+      "question": "Le Conseil de sécurité peut autoriser :",
+      "options": ["L’usage de la force militaire", "L’annulation des élections", "La nomination des présidents", "La gestion des écoles"],
+      "reponse": "L’usage de la force militaire",
+      "explication": "Il peut décider d’interventions armées pour maintenir la paix."
+    },
+    {
+      "question": "L’ONU est une organisation :",
+      "options": ["Intergouvernementale", "Non gouvernementale", "Militaire", "Commerciale"],
+      "reponse": "Intergouvernementale",
+      "explication": "Elle regroupe des États souverains qui coopèrent entre eux."
+    },
+    {
+      "question": "Le rôle du Haut-Commissariat aux droits de l’homme est de :",
+      "options": ["Promouvoir et protéger les droits humains dans le monde", "Gérer les finances de l’ONU", "Diriger les Casques bleus", "Organiser les élections présidentielles"],
+      "reponse": "Promouvoir et protéger les droits humains dans le monde",
+      "explication": "Il surveille les violations et conseille les États."
+    },
+    {
+      "question": "L’ONU célèbre chaque année :",
+      "options": ["La Journée mondiale de la paix", "La Fête nationale américaine", "La Journée mondiale du sport", "La Journée de la musique"],
+      "reponse": "La Journée mondiale de la paix",
+      "explication": "Elle est célébrée le 21 septembre pour promouvoir la paix mondiale."
+    }
+  ]
+}

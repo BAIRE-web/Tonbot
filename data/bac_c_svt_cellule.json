@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la fonction principale de la membrane plasmique ?",
+      "options": ["Contrôler les échanges entre la cellule et le milieu extérieur", "Produire de l’énergie", "Stocker l’information génétique", "Fabriquer des protéines"],
+      "reponse": "Contrôler les échanges entre la cellule et le milieu extérieur",
+      "explication": "La membrane plasmique régule le passage des substances."
+    },
+    {
+      "question": "Quel organite est responsable de la production d’énergie dans la cellule ?",
+      "options": ["Mitochondrie", "Noyau", "Ribosome", "Lysosome"],
+      "reponse": "Mitochondrie",
+      "explication": "La mitochondrie est le siège de la respiration cellulaire."
+    },
+    {
+      "question": "Le noyau contient :",
+      "options": ["L’ADN", "Les protéines", "Les lipides", "Le glucose"],
+      "reponse": "L’ADN",
+      "explication": "L’ADN porte l’information génétique."
+    },
+    {
+      "question": "Les ribosomes permettent :",
+      "options": ["La synthèse des protéines", "La production d’énergie", "La digestion intracellulaire", "Le stockage des lipides"],
+      "reponse": "La synthèse des protéines",
+      "explication": "Les ribosomes traduisent l’ARNm en protéines."
+    },
+    {
+      "question": "Quel est le rôle des lysosomes ?",
+      "options": ["Digérer les déchets cellulaires", "Produire de l’énergie", "Stocker l’eau", "Synthétiser des protéines"],
+      "reponse": "Digérer les déchets cellulaires",
+      "explication": "Les lysosomes contiennent des enzymes de digestion."
+    },
+    {
+      "question": "La paroi cellulaire est présente dans :",
+      "options": ["Les cellules végétales", "Les cellules animales", "Toutes les cellules", "Aucune cellule"],
+      "reponse": "Les cellules végétales",
+      "explication": "La paroi rigide est caractéristique des cellules végétales."
+    },
+    {
+      "question": "La photosynthèse a lieu dans :",
+      "options": ["Le chloroplaste", "La mitochondrie", "Le noyau", "Le cytoplasme"],
+      "reponse": "Le chloroplaste",
+      "explication": "Le chloroplaste contient la chlorophylle pour la photosynthèse."
+    },
+    {
+      "question": "Quel élément compose la membrane plasmique ?",
+      "options": ["Double couche lipidique", "Paroi rigide", "ADN", "Ribosomes"],
+      "reponse": "Double couche lipidique",
+      "explication": "La membrane plasmique est une bicouche phospholipidique."
+    },
+    {
+      "question": "Le cytoplasme est :",
+      "options": ["Un liquide où baignent les organites", "Le noyau de la cellule", "La membrane", "Un organite"],
+      "reponse": "Un liquide où baignent les organites",
+      "explication": "Le cytoplasme est le milieu intracellulaire."
+    },
+    {
+      "question": "Quelle est la taille moyenne d’une cellule eucaryote ?",
+      "options": ["10 à 100 micromètres", "1 millimètre", "1 micromètre", "1 nanomètre"],
+      "reponse": "10 à 100 micromètres",
+      "explication": "Les cellules eucaryotes mesurent en général entre 10 et 100 µm."
+    },
+    {
+      "question": "Quel est le rôle du réticulum endoplasmique rugueux ?",
+      "options": ["Synthèse des protéines", "Production d’énergie", "Dégradation des déchets", "Transport de lipides"],
+      "reponse": "Synthèse des protéines",
+      "explication": "Le RER est couvert de ribosomes qui synthétisent des protéines."
+    },
+    {
+      "question": "Lequel des éléments suivants n’est pas un organite ?",
+      "options": ["ADN", "Mitochondrie", "Chloroplaste", "Golgi"],
+      "reponse": "ADN",
+      "explication": "L’ADN est une molécule, pas un organite."
+    },
+    {
+      "question": "La diffusion à travers la membrane plasmique est un processus :",
+      "options": ["Passif", "Actif", "Énergivore", "Contrôlé uniquement par les mitochondries"],
+      "reponse": "Passif",
+      "explication": "La diffusion se fait sans dépense d’énergie."
+    },
+    {
+      "question": "Quel organite est impliqué dans la modification et le tri des protéines ?",
+      "options": ["Appareil de Golgi", "Noyau", "Lysosome", "Mitochondrie"],
+      "reponse": "Appareil de Golgi",
+      "explication": "Le Golgi modifie et trie les protéines avant leur export."
+    },
+    {
+      "question": "Les cellules procaryotes se distinguent des eucaryotes car elles :",
+      "options": ["N’ont pas de noyau", "Ont un noyau", "Ont des mitochondries", "Ont un réticulum endoplasmique"],
+      "reponse": "N’ont pas de noyau",
+      "explication": "Les procaryotes n’ont pas de noyau délimité par une membrane."
+    },
+    {
+      "question": "Quel est le rôle principal de l’ADN dans la cellule ?",
+      "options": ["Stocker l’information génétique", "Produire de l’énergie", "Fabriquer des protéines", "Contrôler la diffusion"],
+      "reponse": "Stocker l’information génétique",
+      "explication": "L’ADN contient les instructions héréditaires."
+    },
+    {
+      "question": "Les mitochondries sont le siège de :",
+      "options": ["La respiration cellulaire", "La photosynthèse", "La synthèse des protéines", "La digestion des déchets"],
+      "reponse": "La respiration cellulaire",
+      "explication": "Elles produisent l’ATP nécessaire à la cellule."
+    },
+    {
+      "question": "Quel organite contient de l’ADN dans la cellule eucaryote ?",
+      "options": ["Noyau", "Mitochondrie", "Chloroplaste", "Toutes ces réponses"],
+      "reponse": "Toutes ces réponses",
+      "explication": "ADN se trouve dans le noyau, mitochondries, et chloroplastes."
+    },
+    {
+      "question": "Lequel de ces processus nécessite de l’énergie ?",
+      "options": ["Transport actif", "Diffusion simple", "Osmose", "Diffusion facilitée"],
+      "reponse": "Transport actif",
+      "explication": "Le transport actif utilise de l’ATP pour déplacer des molécules."
+    },
+    {
+      "question": "Laquelle de ces structures est spécifique aux cellules végétales ?",
+      "options": ["Paroi cellulaire", "Noyau", "Mitochondrie", "Ribosome"],
+      "reponse": "Paroi cellulaire",
+      "explication": "La paroi rigide est caractéristique des cellules végétales."
+    },
+    {
+      "question": "Les chloroplastes contiennent :",
+      "options": ["De la chlorophylle", "De l’hémoglobine", "De l’insuline", "De la kératine"],
+      "reponse": "De la chlorophylle",
+      "explication": "La chlorophylle capte la lumière pour la photosynthèse."
+    },
+    {
+      "question": "Le cytosquelette permet :",
+      "options": ["Maintenir la forme de la cellule", "Produire de l’énergie", "Stocker des lipides", "Synthétiser des protéines"],
+      "reponse": "Maintenir la forme de la cellule",
+      "explication": "Le cytosquelette est un réseau de fibres supportant la cellule."
+    },
+    {
+      "question": "Quel est le rôle de l’ARN messager (ARNm) ?",
+      "options": ["Transmettre l’information de l’ADN aux ribosomes", "Stocker l’énergie", "Dégrader les protéines", "Synthétiser l’ADN"],
+      "reponse": "Transmettre l’information de l’ADN aux ribosomes",
+      "explication": "L’ARNm sert d’intermédiaire dans la synthèse protéique."
+    },
+    {
+      "question": "Quelle molécule est la source principale d’énergie pour la cellule ?",
+      "options": ["ATP", "ADN", "ARN", "Glucose"],
+      "reponse": "ATP",
+      "explication": "L’ATP est la « monnaie énergétique » de la cellule."
+    },
+    {
+      "question": "Laquelle de ces fonctions n’est pas attribuée aux mitochondries ?",
+      "options": ["Photosynthèse", "Respiration cellulaire", "Production d’ATP", "Contrôle du métabolisme énergétique"],
+      "reponse": "Photosynthèse",
+      "explication": "Les mitochondries ne font pas de photosynthèse."
+    },
+    {
+      "question": "La diffusion facilitée se fait grâce à :",
+      "options": ["Des protéines de transport", "La membrane lipidique", "L’ATP", "Le cytoplasme"],
+      "reponse": "Des protéines de transport",
+      "explication": "Les protéines facilitent le passage de certaines molécules."
+    },
+    {
+      "question": "Lequel de ces éléments n’est pas une composante du noyau ?",
+      "options": ["Membrane nucléaire", "Nucléole", "Ribosome", "Chromatine"],
+      "reponse": "Ribosome",
+      "explication": "Les ribosomes sont dans le cytoplasme, pas dans le noyau."
+    },
+    {
+      "question": "Quel est le rôle de la vacuole dans la cellule végétale ?",
+      "options": ["Stocker l’eau et les réserves", "Produire des protéines", "Fabriquer de l’énergie", "Dégrader les déchets"],
+      "reponse": "Stocker l’eau et les réserves",
+      "explication": "La vacuole est un compartiment de stockage important."
+    },
+    {
+      "question": "Laquelle de ces affirmations est vraie ?",
+      "options": ["Toutes les cellules possèdent une membrane plasmique", "Toutes les cellules possèdent une paroi", "Toutes les cellules ont un noyau", "Toutes les cellules ont des chloroplastes"],
+      "reponse": "Toutes les cellules possèdent une membrane plasmique",
+      "explication": "La membrane plasmique est universelle à toutes les cellules."
+    },
+    {
+      "question": "Quelle structure cellulaire contrôle les échanges entre la cellule et son environnement ?",
+      "options": ["Membrane plasmique", "Noyau", "Mitochondrie", "Ribosome"],
+      "reponse": "Membrane plasmique",
+      "explication": "La membrane plasmique régule le passage des molécules."
+    },
+    {
+      "question": "Quelle est la fonction principale des mitochondries ?",
+      "options": ["Production d’énergie", "Stockage de l’information génétique", "Synthèse des protéines", "Digestion des déchets"],
+      "reponse": "Production d’énergie",
+      "explication": "Les mitochondries produisent de l’ATP via la respiration cellulaire."
+    },
+    {
+      "question": "Où se trouve l’ADN dans une cellule eucaryote ?",
+      "options": ["Noyau", "Mitochondrie", "Chloroplaste", "Toutes ces réponses"],
+      "reponse": "Toutes ces réponses",
+      "explication": "L’ADN est présent dans le noyau, mitochondries et chloroplastes."
+    },
+    {
+      "question": "Quel organite synthétise les protéines ?",
+      "options": ["Ribosome", "Noyau", "Lysosome", "Golgi"],
+      "reponse": "Ribosome",
+      "explication": "Les ribosomes traduisent l’ARNm en protéines."
+    },
+    {
+      "question": "Quelle structure est spécifique aux cellules végétales ?",
+      "options": ["Paroi cellulaire", "Mitochondrie", "Membrane plasmique", "Ribosome"],
+      "reponse": "Paroi cellulaire",
+      "explication": "La paroi rigide est présente uniquement dans les cellules végétales."
+    },
+    {
+      "question": "Quel organite est le siège de la photosynthèse ?",
+      "options": ["Chloroplaste", "Mitochondrie", "Noyau", "Réticulum endoplasmique"],
+      "reponse": "Chloroplaste",
+      "explication": "Le chloroplaste contient la chlorophylle qui capte la lumière."
+    },
+    {
+      "question": "Quel rôle a le réticulum endoplasmique rugueux ?",
+      "options": ["Synthèse des protéines", "Production d’énergie", "Dégradation des déchets", "Transport de lipides"],
+      "reponse": "Synthèse des protéines",
+      "explication": "Il est couvert de ribosomes qui synthétisent les protéines."
+    },
+    {
+      "question": "Quelle est la fonction des lysosomes ?",
+      "options": ["Digestion intracellulaire", "Synthèse des protéines", "Production d’énergie", "Stockage des lipides"],
+      "reponse": "Digestion intracellulaire",
+      "explication": "Les lysosomes contiennent des enzymes pour digérer les déchets."
+    },
+    {
+      "question": "Le cytoplasme est :",
+      "options": ["Le liquide intracellulaire", "Le noyau", "La membrane", "Un organite"],
+      "reponse": "Le liquide intracellulaire",
+      "explication": "Il baigne les organites à l’intérieur de la cellule."
+    },
+    {
+      "question": "Quelle taille approximative ont les cellules eucaryotes ?",
+      "options": ["10 à 100 micromètres", "1 millimètre", "1 micromètre", "1 nanomètre"],
+      "reponse": "10 à 100 micromètres",
+      "explication": "Les cellules eucaryotes ont typiquement cette taille."
+    },
+    {
+      "question": "Quel est le rôle de l’appareil de Golgi ?",
+      "options": ["Modification et tri des protéines", "Production d’énergie", "Synthèse des lipides", "Stockage des sucres"],
+      "reponse": "Modification et tri des protéines",
+      "explication": "Il prépare les protéines à leur destination finale."
+    },
+    {
+      "question": "Les cellules procaryotes se distinguent par :",
+      "options": ["Absence de noyau", "Présence de noyau", "Présence de mitochondries", "Présence de chloroplastes"],
+      "reponse": "Absence de noyau",
+      "explication": "Les procaryotes n’ont pas de noyau membraneux."
+    },
+    {
+      "question": "Le transport actif à travers la membrane plasmique nécessite :",
+      "options": ["De l’énergie", "Aucune énergie", "Des ribosomes", "Du glucose"],
+      "reponse": "De l’énergie",
+      "explication": "Il utilise de l’ATP pour déplacer des substances contre leur gradient."
+    },
+    {
+      "question": "L’ARN messager a pour fonction de :",
+      "options": ["Transmettre l’information génétique aux ribosomes", "Produire de l’énergie", "Digérer les déchets", "Stocker l’ADN"],
+      "reponse": "Transmettre l’information génétique aux ribosomes",
+      "explication": "Il sert d’intermédiaire pour la synthèse des protéines."
+    },
+    {
+      "question": "Le cytosquelette permet :",
+      "options": ["De maintenir la forme de la cellule", "La production d’ATP", "La synthèse des protéines", "La digestion des déchets"],
+      "reponse": "De maintenir la forme de la cellule",
+      "explication": "C’est un réseau de fibres protéiques supportant la cellule."
+    },
+    {
+      "question": "Quelle molécule est la principale source d’énergie pour la cellule ?",
+      "options": ["ATP", "ADN", "ARN", "Glucose"],
+      "reponse": "ATP",
+      "explication": "L’ATP fournit l’énergie pour la majorité des réactions cellulaires."
+    },
+    {
+      "question": "Les chloroplastes contiennent :",
+      "options": ["De la chlorophylle", "De l’hémoglobine", "De l’insuline", "De la kératine"],
+      "reponse": "De la chlorophylle",
+      "explication": "La chlorophylle est le pigment vert captant la lumière."
+    },
+    {
+      "question": "Quelle est la fonction principale de la vacuole dans les cellules végétales ?",
+      "options": ["Stockage de l’eau et des réserves", "Production d’énergie", "Synthèse des protéines", "Digestion des déchets"],
+      "reponse": "Stockage de l’eau et des réserves",
+      "explication": "La vacuole permet le stockage et le maintien de la turgescence."
+    },
+    {
+      "question": "La membrane nucléaire est :",
+      "options": ["Une double membrane qui entoure le noyau", "Une membrane simple qui entoure la cellule", "Un organite producteur d’énergie", "Une structure interne au cytoplasme"],
+      "reponse": "Une double membrane qui entoure le noyau",
+      "explication": "Elle protège le matériel génétique et contrôle les échanges."
+    },
+    {
+      "question": "Laquelle des affirmations suivantes est vraie ?",
+      "options": ["Toutes les cellules ont une membrane plasmique", "Toutes les cellules ont une paroi", "Toutes les cellules ont des chloroplastes", "Toutes les cellules ont un noyau"],
+      "reponse": "Toutes les cellules ont une membrane plasmique",
+      "explication": "La membrane plasmique est présente dans toutes les cellules."
+    }
+  ]
+}

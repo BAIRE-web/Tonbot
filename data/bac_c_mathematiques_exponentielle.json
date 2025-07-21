@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la dérivée de exp(x) ?",
+      "options": ["exp(x)", "x × exp(x)", "1", "ln(x)"],
+      "reponse": "exp(x)",
+      "explication": "La fonction exponentielle est sa propre dérivée : d/dx [exp(x)] = exp(x)."
+    },
+    {
+      "question": "Quelle est la valeur de exp(0) ?",
+      "options": ["1", "0", "e", "∞"],
+      "reponse": "1",
+      "explication": "Par définition, exp(0) = 1."
+    },
+    {
+      "question": "exp(a + b) est égal à :",
+      "options": ["exp(a) × exp(b)", "exp(a) + exp(b)", "exp(a × b)", "ln(a + b)"],
+      "reponse": "exp(a) × exp(b)",
+      "explication": "Propriété : exp(a + b) = exp(a) × exp(b)."
+    },
+    {
+      "question": "exp(a - b) est égal à :",
+      "options": ["exp(a) / exp(b)", "exp(a) - exp(b)", "exp(b) / exp(a)", "ln(a - b)"],
+      "reponse": "exp(a) / exp(b)",
+      "explication": "Formule : exp(a - b) = exp(a) / exp(b)."
+    },
+    {
+      "question": "exp(x) est toujours :",
+      "options": ["strictement positive", "négative", "nulle", "bornée"],
+      "reponse": "strictement positive",
+      "explication": "exp(x) > 0 pour tout x ∈ ℝ."
+    },
+    {
+      "question": "exp(x) est définie sur :",
+      "options": ["ℝ", "]0 ; +∞[", "[0 ; +∞[", "ℝ⁺"],
+      "reponse": "ℝ",
+      "explication": "La fonction exponentielle est définie sur tout ℝ."
+    },
+    {
+      "question": "La limite de exp(x) quand x → -∞ est :",
+      "options": ["0", "+∞", "-∞", "1"],
+      "reponse": "0",
+      "explication": "exp(x) tend vers 0 quand x tend vers -∞."
+    },
+    {
+      "question": "La fonction f(x) = exp(x) est :",
+      "options": ["strictement croissante", "strictement décroissante", "constante", "périodique"],
+      "reponse": "strictement croissante",
+      "explication": "La dérivée de exp(x) est positive sur ℝ donc elle est croissante."
+    },
+    {
+      "question": "exp(ln(x)) = ?",
+      "options": ["x", "e", "1", "ln(exp(x))"],
+      "reponse": "x",
+      "explication": "exp(ln(x)) = x pour x > 0."
+    },
+    {
+      "question": "ln(exp(x)) = ?",
+      "options": ["x", "exp(x)", "1", "0"],
+      "reponse": "x",
+      "explication": "ln et exp sont réciproques, donc ln(exp(x)) = x."
+    },
+    {
+      "question": "Résoudre exp(x) = 1",
+      "options": ["x = 0", "x = 1", "x = e", "x = ln(1)"],
+      "reponse": "x = 0",
+      "explication": "exp(0) = 1 donc x = 0."
+    },
+    {
+      "question": "exp(x) = 0 admet :",
+      "options": ["aucune solution", "x = 0", "x = 1", "x = ln(0)"],
+      "reponse": "aucune solution",
+      "explication": "exp(x) est toujours strictement positive donc ne s’annule jamais."
+    },
+    {
+      "question": "Si exp(x) = exp(y), alors :",
+      "options": ["x = y", "x = -y", "x = y + 1", "x ≠ y"],
+      "reponse": "x = y",
+      "explication": "La fonction exp est strictement croissante donc injective."
+    },
+    {
+      "question": "exp(a)^n = ?",
+      "options": ["exp(na)", "n × exp(a)", "ln(a^n)", "exp(a + n)"],
+      "reponse": "exp(na)",
+      "explication": "exp(a)^n = exp(a × n) = exp(na)."
+    },
+    {
+      "question": "Résoudre : exp(x) = 5",
+      "options": ["x = ln(5)", "x = 5", "x = e^5", "x = 1/5"],
+      "reponse": "x = ln(5)",
+      "explication": "On applique ln : ln(exp(x)) = ln(5) ⇒ x = ln(5)."
+    },
+    {
+      "question": "ln(exp(-2)) = ?",
+      "options": ["-2", "2", "0", "1"],
+      "reponse": "-2",
+      "explication": "ln(exp(-2)) = -2."
+    },
+    {
+      "question": "f(x) = exp(x) - x : sa limite quand x → +∞ est :",
+      "options": ["+∞", "-∞", "0", "1"],
+      "reponse": "+∞",
+      "explication": "exp(x) domine x, donc f(x) → +∞."
+    },
+    {
+      "question": "Dérivée de exp(u(x)) est :",
+      "options": ["u'(x) × exp(u(x))", "exp(u(x))", "u(x)", "exp(u(x)) × u(x)"],
+      "reponse": "u'(x) × exp(u(x))",
+      "explication": "C’est la dérivée d’une fonction composée : f'(x) = u'(x) × exp(u(x))."
+    },
+    {
+      "question": "Résoudre : exp(2x) = 4",
+      "options": ["x = ln(4)/2", "x = ln(2)", "x = 2ln(2)", "x = ln(4)"],
+      "reponse": "x = ln(4)/2",
+      "explication": "exp(2x) = 4 ⇔ 2x = ln(4) ⇔ x = ln(4)/2."
+    },
+    {
+      "question": "Si f(x) = exp(-x), alors f est :",
+      "options": ["décroissante", "croissante", "constante", "périodique"],
+      "reponse": "décroissante",
+      "explication": "f'(x) = -exp(-x) < 0 donc f décroît."
+    },
+    {
+      "question": "exp(x + ln(a)) = ?",
+      "options": ["a × exp(x)", "ln(a) + exp(x)", "exp(x) / a", "exp(x) × ln(a)"],
+      "reponse": "a × exp(x)",
+      "explication": "exp(x + ln(a)) = exp(x) × exp(ln(a)) = exp(x) × a."
+    },
+    {
+      "question": "exp(x) × exp(-x) = ?",
+      "options": ["1", "0", "x", "exp(x²)"],
+      "reponse": "1",
+      "explication": "exp(x) × exp(-x) = exp(x - x) = exp(0) = 1."
+    },
+    {
+      "question": "exp(x) > x est :",
+      "options": ["toujours vrai", "faux", "vrai uniquement si x > 1", "vrai pour x > 0"],
+      "reponse": "toujours vrai",
+      "explication": "exp(x) - x est toujours positif pour tout x réel."
+    },
+    {
+      "question": "lim x→-∞ exp(x) = ?",
+      "options": ["0", "∞", "-∞", "1"],
+      "reponse": "0",
+      "explication": "exp(x) → 0 quand x → -∞."
+    },
+    {
+      "question": "Si f(x) = exp(x²), alors f'(x) = ?",
+      "options": ["2x × exp(x²)", "x × exp(x)", "2exp(x)", "exp(x²)"],
+      "reponse": "2x × exp(x²)",
+      "explication": "f'(x) = d/dx [exp(u)] = u'(x) × exp(u) avec u = x²."
+    },
+    {
+      "question": "exp(x) est solution de :",
+      "options": ["y' = y", "y' = x", "y'' = y", "y = ln(x)"],
+      "reponse": "y' = y",
+      "explication": "exp(x) est la solution de l’équation différentielle y' = y."
+    },
+    {
+      "question": "ln(exp(x²)) = ?",
+      "options": ["x²", "x", "2x", "exp(x²)"],
+      "reponse": "x²",
+      "explication": "ln(exp(x²)) = x² car ln et exp sont réciproques."
+    },
+    {
+      "question": "exp(ln(a²)) = ?",
+      "options": ["a²", "2a", "ln(a²)", "e^a"],
+      "reponse": "a²",
+      "explication": "exp(ln(a²)) = a² si a > 0."
+    },
+    {
+      "question": "Si f(x) = exp(-x²), alors f est :",
+      "options": ["symétrique par rapport à y", "strictement croissante", "constante", "périodique"],
+      "reponse": "symétrique par rapport à y",
+      "explication": "exp(-x²) est paire : f(-x) = f(x)."
+    },
+    {
+      "question": "exp(x) = ln(x) admet :",
+      "options": ["Une seule solution", "Deux solutions", "Aucune", "Infinité"],
+      "reponse": "Une seule solution",
+      "explication": "Les deux courbes se coupent une seule fois (numériquement ≈ x ≈ 1.3)."
+    },
+    {
+      "question": "Résoudre l’équation : e^x = 5",
+      "options": ["x = ln(5)", "x = 5", "x = ln(1/5)", "x = e^5"],
+      "reponse": "x = ln(5)",
+      "explication": "On prend le logarithme népérien des deux côtés : ln(e^x) = ln(5) donc x = ln(5)."
+    },
+    {
+      "question": "Résoudre : e^{2x} = 7",
+      "options": ["x = ln(7)/2", "x = ln(14)", "x = 2ln(7)", "x = ln(7^2)"],
+      "reponse": "x = ln(7)/2",
+      "explication": "e^{2x} = 7 ⟹ 2x = ln(7) ⟹ x = ln(7)/2."
+    },
+    {
+      "question": "Déterminer la dérivée de la fonction f(x) = e^x + 3x",
+      "options": ["f'(x) = e^x + 3", "f'(x) = e^x - 3", "f'(x) = 3e^x", "f'(x) = e^x"],
+      "reponse": "f'(x) = e^x + 3",
+      "explication": "La dérivée de e^x est e^x, celle de 3x est 3. Donc f'(x) = e^x + 3."
+    },
+    {
+      "question": "Déterminer la dérivée de f(x) = e^{-x}",
+      "options": ["f'(x) = -e^{-x}", "f'(x) = e^{-x}", "f'(x) = -x e^{-x}", "f'(x) = x e^{-x}"],
+      "reponse": "f'(x) = -e^{-x}",
+      "explication": "La dérivée de e^{u(x)} est u'(x)e^{u(x)}. Ici, u(x) = -x donc u'(x) = -1, d'où f'(x) = -e^{-x}."
+    },
+    {
+      "question": "Simplifier : ln(e^3)",
+      "options": ["3", "ln(3)", "e^3", "1"],
+      "reponse": "3",
+      "explication": "ln(e^3) = 3 car ln(e^a) = a."
+    },
+    {
+      "question": "Simplifier : e^{ln(7)}",
+      "options": ["7", "ln(7)", "e^7", "1"],
+      "reponse": "7",
+      "explication": "e^{ln(a)} = a donc e^{ln(7)} = 7."
+    },
+    {
+      "question": "Résoudre : e^x - 3 = 0",
+      "options": ["x = ln(3)", "x = ln(0)", "x = e^3", "x = 3"],
+      "reponse": "x = ln(3)",
+      "explication": "e^x = 3 donc x = ln(3)."
+    },
+    {
+      "question": "Déterminer la limite de e^x quand x tend vers -∞",
+      "options": ["0", "+∞", "-∞", "1"],
+      "reponse": "0",
+      "explication": "lim(x→-∞) e^x = 0 car la courbe de e^x s’écrase vers l’axe des abscisses."
+    },
+    {
+      "question": "Soit f(x) = e^{2x}, sa dérivée est :",
+      "options": ["f'(x) = 2e^{2x}", "f'(x) = e^{2x}", "f'(x) = e^x", "f'(x) = 2x e^{2x}"],
+      "reponse": "f'(x) = 2e^{2x}",
+      "explication": "u(x) = 2x, donc u'(x) = 2 et f'(x) = u'(x)e^{u(x)} = 2e^{2x}."
+    },
+    {
+      "question": "Résoudre l’inéquation : e^x > 1",
+      "options": ["x > 0", "x < 0", "x = 0", "x ≥ 1"],
+      "reponse": "x > 0",
+      "explication": "e^x > 1 quand x > 0."
+    },
+    {
+      "question": "Étudier le signe de f(x) = e^x - 2",
+      "options": ["f(x) < 0 si x < ln(2)", "f(x) > 0 si x < ln(2)", "f(x) < 0 si x > ln(2)", "f(x) = 0 pour x = 2"],
+      "reponse": "f(x) < 0 si x < ln(2)",
+      "explication": "e^x - 2 < 0 ⟹ e^x < 2 ⟹ x < ln(2)."
+    },
+    {
+      "question": "Déterminer la dérivée de f(x) = x e^x",
+      "options": ["f'(x) = e^x + x e^x", "f'(x) = e^x", "f'(x) = x e^x - e^x", "f'(x) = e^x - x"],
+      "reponse": "f'(x) = e^x + x e^x",
+      "explication": "f(x) = u(x)v(x), donc f' = u'v + uv'. Ici u = x, v = e^x donc f'(x) = 1×e^x + x×e^x = e^x(1 + x)."
+    },
+    {
+      "question": "Déterminer l’ensemble de définition de f(x) = ln(e^x + 1)",
+      "options": ["ℝ", "]−∞, 0[", "ℝ+", "x > −1"],
+      "reponse": "ℝ",
+      "explication": "e^x ≥ 0 donc e^x + 1 > 0 donc ln(e^x + 1) est défini pour tout x réel."
+    },
+    {
+      "question": "Quelle est la limite de e^x/x quand x → +∞ ?",
+      "options": ["+∞", "0", "1", "indéterminée"],
+      "reponse": "+∞",
+      "explication": "La croissance exponentielle domine toute fonction polynomiale, donc e^x/x → +∞."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = e^x ?",
+      "options": ["F(x) = e^x + C", "F(x) = ln(x) + C", "F(x) = x e^x + C", "F(x) = x + C"],
+      "reponse": "F(x) = e^x + C",
+      "explication": "La fonction e^x est sa propre dérivée, donc aussi sa propre primitive (à une constante près)."
+    },
+    {
+      "question": "Si f(x) = e^{-2x}, alors f'(x) = ?",
+      "options": ["-2e^{-2x}", "2e^{-2x}", "-e^{-2x}", "e^{-2x}"],
+      "reponse": "-2e^{-2x}",
+      "explication": "f'(x) = dérivée de u(x) = -2x donne -2 × e^{-2x}."
+    },
+    {
+      "question": "Résoudre : ln(e^x - 1) = 0",
+      "options": ["x = 1", "x = ln(1)", "x = ln(2)", "x = e"],
+      "reponse": "x = ln(2)",
+      "explication": "ln(e^x - 1) = 0 ⟹ e^x - 1 = 1 ⟹ e^x = 2 ⟹ x = ln(2)."
+    },
+    {
+      "question": "La fonction f(x) = e^x est :",
+      "options": ["strictement croissante", "strictement décroissante", "constante", "périodique"],
+      "reponse": "strictement croissante",
+      "explication": "e^x est une fonction strictement croissante sur ℝ."
+    },
+    {
+      "question": "Soit f(x) = ln(e^{2x}), alors f(x) = ?",
+      "options": ["2x", "x", "ln(2x)", "e^{2x}"],
+      "reponse": "2x",
+      "explication": "ln(e^{a}) = a donc ln(e^{2x}) = 2x."
+    },
+    {
+      "question": "Trouver x tel que e^{x+1} = 4",
+      "options": ["x = ln(4) - 1", "x = ln(4 + 1)", "x = ln(3)", "x = ln(4)/1"],
+      "reponse": "x = ln(4) - 1",
+      "explication": "e^{x+1} = 4 ⟹ x + 1 = ln(4) ⟹ x = ln(4) - 1."
+    }
+  ]
+}

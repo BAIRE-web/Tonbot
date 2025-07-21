@@ -1,0 +1,286 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’une oscillation ?",
+      "options": ["Un mouvement périodique autour d’une position d’équilibre", "Un mouvement rectiligne uniforme", "Un mouvement circulaire", "Un mouvement aléatoire"],
+      "reponse": "Un mouvement périodique autour d’une position d’équilibre",
+      "explication": "Une oscillation est un va-et-vient régulier autour d’une position stable."
+    },
+    {
+      "question": "Quelle est la période d’une oscillation ?",
+      "options": ["Le temps nécessaire pour un cycle complet", "La fréquence du mouvement", "La vitesse maximale", "L’amplitude du mouvement"],
+      "reponse": "Le temps nécessaire pour un cycle complet",
+      "explication": "La période T est la durée d’un cycle."
+    },
+    {
+      "question": "Quelle est la fréquence d’une oscillation ?",
+      "options": ["Le nombre de cycles par seconde", "Le temps pour un cycle", "La vitesse du point", "L’amplitude"],
+      "reponse": "Le nombre de cycles par seconde",
+      "explication": "La fréquence f = 1 / T."
+    },
+    {
+      "question": "L’unité de la fréquence est :",
+      "options": ["Hertz (Hz)", "Seconde (s)", "Mètre (m)", "Newton (N)"],
+      "reponse": "Hertz (Hz)",
+      "explication": "La fréquence se mesure en Hz."
+    },
+    {
+      "question": "L’amplitude d’une oscillation est :",
+      "options": ["Le maximum de déplacement par rapport à la position d’équilibre", "Le temps pour un cycle", "La vitesse maximale", "La fréquence"],
+      "reponse": "Le maximum de déplacement par rapport à la position d’équilibre",
+      "explication": "L’amplitude est la plus grande valeur du déplacement."
+    },
+    {
+      "question": "Quelle est la relation entre période T et fréquence f ?",
+      "options": ["T = 1 / f", "T = f", "T = f²", "T = 2πf"],
+      "reponse": "T = 1 / f",
+      "explication": "T est l’inverse de f."
+    },
+    {
+      "question": "Le mouvement harmonique simple (MHS) est caractérisé par :",
+      "options": ["Un déplacement sinusoïdal dans le temps", "Un déplacement constant", "Un déplacement aléatoire", "Un mouvement rectiligne uniforme"],
+      "reponse": "Un déplacement sinusoïdal dans le temps",
+      "explication": "Le MHS est un oscillation sinusoïdale."
+    },
+    {
+      "question": "L’équation du mouvement harmonique simple est :",
+      "options": ["x(t) = A cos(ωt + φ)", "x(t) = A t", "x(t) = A sin(t²)", "x(t) = A + ωt"],
+      "reponse": "x(t) = A cos(ωt + φ)",
+      "explication": "La position varie en cosinus avec l’angle de phase."
+    },
+    {
+      "question": "Dans l’équation x(t) = A cos(ωt + φ), que représente ω ?",
+      "options": ["La pulsation en rad/s", "La fréquence en Hz", "La période en s", "L’amplitude"],
+      "reponse": "La pulsation en rad/s",
+      "explication": "ω = 2πf est la vitesse angulaire."
+    },
+    {
+      "question": "Quelle est l’unité de la pulsation ω ?",
+      "options": ["rad/s", "Hz", "s", "m"],
+      "reponse": "rad/s",
+      "explication": "La pulsation s’exprime en radians par seconde."
+    },
+    {
+      "question": "La vitesse maximale dans un MHS est :",
+      "options": ["v_max = A ω", "v_max = A / ω", "v_max = ω / A", "v_max = A² ω"],
+      "reponse": "v_max = A ω",
+      "explication": "La vitesse maximale est amplitude × pulsation."
+    },
+    {
+      "question": "L’accélération maximale dans un MHS est :",
+      "options": ["a_max = A ω²", "a_max = A / ω²", "a_max = ω² / A", "a_max = A ω"],
+      "reponse": "a_max = A ω²",
+      "explication": "L’accélération maximale dépend de l’amplitude et du carré de la pulsation."
+    },
+    {
+      "question": "Dans une oscillation amortie, l’énergie :",
+      "options": ["Diminue avec le temps", "Reste constante", "Augmente avec le temps", "Est nulle"],
+      "reponse": "Diminue avec le temps",
+      "explication": "L’amortissement dissipe l’énergie."
+    },
+    {
+      "question": "Le type d’oscillation sans frottement s’appelle :",
+      "options": ["Oscillation libre", "Oscillation amortie", "Oscillation forcée", "Oscillation chaotique"],
+      "reponse": "Oscillation libre",
+      "explication": "L’oscillation libre se produit sans perte d’énergie."
+    },
+    {
+      "question": "Une oscillation forcée est caractérisée par :",
+      "options": ["Une force extérieure périodique", "Aucune force extérieure", "Une force constante", "Une force aléatoire"],
+      "reponse": "Une force extérieure périodique",
+      "explication": "L’oscillation est entretenue par une force périodique."
+    },
+    {
+      "question": "La résonance se produit lorsque :",
+      "options": ["La fréquence de la force forcée égale la fréquence propre", "La fréquence est nulle", "La fréquence est maximale", "La fréquence varie rapidement"],
+      "reponse": "La fréquence de la force forcée égale la fréquence propre",
+      "explication": "À la résonance, les oscillations ont une amplitude maximale."
+    },
+    {
+      "question": "La fréquence propre d’un oscillateur harmonique est :",
+      "options": ["f₀ = 1 / (2π) √(k/m)", "f₀ = 2π √(k/m)", "f₀ = √(m/k)", "f₀ = k/m"],
+      "reponse": "f₀ = 1 / (2π) √(k/m)",
+      "explication": "Fréquence propre selon la masse et la constante de raideur."
+    },
+    {
+      "question": "Dans un pendule simple, la période T est donnée par :",
+      "options": ["T = 2π √(l/g)", "T = 2π √(g/l)", "T = √(l/g)", "T = l / g"],
+      "reponse": "T = 2π √(l/g)",
+      "explication": "T dépend de la longueur l et de g."
+    },
+    {
+      "question": "Quelle grandeur mesure l’amplitude dans une oscillation ?",
+      "options": ["Le déplacement maximal", "La vitesse moyenne", "Le temps", "La fréquence"],
+      "reponse": "Le déplacement maximal",
+      "explication": "L’amplitude est la distance maximale par rapport à la position d’équilibre."
+    },
+    {
+      "question": "Le déphasage φ dans x(t) = A cos(ωt + φ) représente :",
+      "options": ["La phase initiale au temps zéro", "La fréquence", "La période", "L’amplitude"],
+      "reponse": "La phase initiale au temps zéro",
+      "explication": "φ est la phase au début de l’oscillation."
+    },
+    {
+      "question": "Une oscillation amortie est caractérisée par :",
+      "options": ["Une amplitude décroissante", "Une amplitude constante", "Une amplitude croissante", "Une fréquence variable"],
+      "reponse": "Une amplitude décroissante",
+      "explication": "L’amortissement réduit l’amplitude au fil du temps."
+    },
+    {
+      "question": "L’équation différentielle d’un oscillateur harmonique est :",
+      "options": ["d²x/dt² + ω² x = 0", "dx/dt + ω x = 0", "d²x/dt² = 0", "d²x/dt² - ω² x = 0"],
+      "reponse": "d²x/dt² + ω² x = 0",
+      "explication": "Forme standard du mouvement harmonique."
+    },
+    {
+      "question": "Dans un oscillateur amorti, l’équation est :",
+      "options": ["d²x/dt² + 2β dx/dt + ω₀² x = 0", "d²x/dt² + ω₀² x = 0", "dx/dt + ω x = 0", "d²x/dt² - ω₀² x = 0"],
+      "reponse": "d²x/dt² + 2β dx/dt + ω₀² x = 0",
+      "explication": "Terme de frottement avec coefficient β."
+    },
+    {
+      "question": "Le coefficient d’amortissement β mesure :",
+      "options": ["L’intensité des frottements", "La fréquence", "La période", "L’amplitude"],
+      "reponse": "L’intensité des frottements",
+      "explication": "β quantifie la perte d’énergie."
+    },
+    {
+      "question": "Une oscillation forcée atteint une amplitude maximale lors de :",
+      "options": ["La résonance", "Le repos", "L’amortissement", "Le silence"],
+      "reponse": "La résonance",
+      "explication": "Amplitude maximale à la fréquence propre."
+    },
+    {
+      "question": "La phase d’un oscillateur indique :",
+      "options": ["La position dans le cycle", "La vitesse", "La fréquence", "L’énergie"],
+      "reponse": "La position dans le cycle",
+      "explication": "La phase localise l’état de l’oscillation."
+    },
+    {
+      "question": "La fréquence angulaire ω est reliée à la fréquence f par :",
+      "options": ["ω = 2πf", "ω = f", "ω = f / 2π", "ω = f²"],
+      "reponse": "ω = 2πf",
+      "explication": "Relation entre pulsation et fréquence."
+    },
+    {
+      "question": "Un oscillateur harmonique a une amplitude A = 0,1 m et une pulsation ω = 5 rad/s. Quelle est la vitesse maximale ?",
+      "options": ["v_max = A ω = 0,1 × 5 = 0,5 m/s", "v_max = A / ω = 0,02 m/s", "v_max = ω / A = 50 m/s", "v_max = 5 m/s"],
+      "reponse": "v_max = A ω = 0,1 × 5 = 0,5 m/s",
+      "explication": "La vitesse maximale est donnée par v_max = A × ω."
+    },
+    {
+      "question": "Quelle est la période d’une oscillation de fréquence f = 2 Hz ?",
+      "options": ["T = 1 / f = 0,5 s", "T = 2 s", "T = 4 π s", "T = 0,25 s"],
+      "reponse": "T = 1 / f = 0,5 s",
+      "explication": "La période est l’inverse de la fréquence."
+    },
+    {
+      "question": "La position d’un oscillateur harmonique est donnée par x(t) = 0,2 cos(4t + π/3). Quelle est l’amplitude ?",
+      "options": ["0,2 m", "4 rad/s", "π/3 rad", "0,6 m"],
+      "reponse": "0,2 m",
+      "explication": "L’amplitude est le coefficient devant le cosinus."
+    },
+    {
+      "question": "Quel est le déphasage φ dans l’équation x(t) = A cos(ωt + φ) ?",
+      "options": ["La phase initiale", "La fréquence", "La période", "L’amplitude"],
+      "reponse": "La phase initiale",
+      "explication": "φ représente le décalage initial en radians."
+    },
+    {
+      "question": "Un pendule simple a une longueur de 1 m. Calcule sa période (g = 9,8 m/s²).",
+      "options": ["T = 2π √(1 / 9,8) ≈ 2,01 s", "T = 9,8 s", "T = 1 s", "T = 3,14 s"],
+      "reponse": "T = 2π √(1 / 9,8) ≈ 2,01 s",
+      "explication": "Formule classique de la période du pendule simple."
+    },
+    {
+      "question": "Lors d’une oscillation amortie, l’amplitude :",
+      "options": ["Diminue exponentiellement", "Reste constante", "Augmente", "Est nulle"],
+      "reponse": "Diminue exponentiellement",
+      "explication": "L’énergie se dissipe avec le temps."
+    },
+    {
+      "question": "Quelle est l’équation différentielle d’un oscillateur harmonique simple ?",
+      "options": ["d²x/dt² + ω² x = 0", "dx/dt + ω x = 0", "d²x/dt² - ω² x = 0", "dx/dt = 0"],
+      "reponse": "d²x/dt² + ω² x = 0",
+      "explication": "Équation caractéristique du mouvement harmonique."
+    },
+    {
+      "question": "Quelle est l’expression de la pulsation ω en fonction de la masse m et de la constante de raideur k ?",
+      "options": ["ω = √(k/m)", "ω = k/m", "ω = m/k", "ω = 2π √(k/m)"],
+      "reponse": "ω = √(k/m)",
+      "explication": "Relation fondamentale oscillateur masse-ressort."
+    },
+    {
+      "question": "La résonance survient lorsque :",
+      "options": ["La fréquence forcée égale la fréquence propre", "La fréquence est nulle", "La fréquence est maximale", "La fréquence est différente de la fréquence propre"],
+      "reponse": "La fréquence forcée égale la fréquence propre",
+      "explication": "Amplification maximale des oscillations."
+    },
+    {
+      "question": "Une force périodique agit sur un oscillateur. Quel phénomène peut apparaître ?",
+      "options": ["Résonance", "Amortissement", "Silence", "Dissipation"],
+      "reponse": "Résonance",
+      "explication": "À la fréquence propre, la réponse est maximale."
+    },
+    {
+      "question": "Dans une oscillation amortie, le terme 2β dx/dt correspond à :",
+      "options": ["La force de frottement", "La force de rappel", "La masse", "L’énergie stockée"],
+      "reponse": "La force de frottement",
+      "explication": "Ce terme modélise la perte d’énergie."
+    },
+    {
+      "question": "Un oscillateur a une fréquence propre de 10 Hz. Quelle est sa pulsation ?",
+      "options": ["ω = 2π × 10 = 62,8 rad/s", "ω = 10 rad/s", "ω = 20 rad/s", "ω = 0,1 rad/s"],
+      "reponse": "ω = 2π × 10 = 62,8 rad/s",
+      "explication": "Pulsation liée à la fréquence."
+    },
+    {
+      "question": "Quelle est la vitesse maximale d’un oscillateur de masse 0,5 kg, amplitude 0,2 m et pulsation 8 rad/s ?",
+      "options": ["v_max = A ω = 0,2 × 8 = 1,6 m/s", "v_max = 0,16 m/s", "v_max = 4 m/s", "v_max = 8 m/s"],
+      "reponse": "v_max = A ω = 0,2 × 8 = 1,6 m/s",
+      "explication": "Produit amplitude × pulsation."
+    },
+    {
+      "question": "L’énergie mécanique d’un oscillateur harmonique est :",
+      "options": ["Constante en l’absence de frottements", "Décroissante", "Nulle", "Croissante"],
+      "reponse": "Constante en l’absence de frottements",
+      "explication": "L’énergie se conserve sans perte."
+    },
+    {
+      "question": "L’amplitude d’une oscillation forcée à résonance est :",
+      "options": ["Maximale", "Nulle", "Moyenne", "Minimale"],
+      "reponse": "Maximale",
+      "explication": "C’est le phénomène caractéristique de la résonance."
+    },
+    {
+      "question": "Dans un oscillateur amorti, que fait la fréquence propre ?",
+      "options": ["Elle diminue légèrement", "Elle augmente", "Elle reste constante", "Elle devient nulle"],
+      "reponse": "Elle diminue légèrement",
+      "explication": "L’amortissement réduit légèrement la fréquence."
+    },
+    {
+      "question": "Quelle est la phase initiale dans x(t) = A cos(ωt + φ) si x(0) = 0 ?",
+      "options": ["φ = π/2 ou -π/2", "φ = 0", "φ = π", "φ = 2π"],
+      "reponse": "φ = π/2 ou -π/2",
+      "explication": "x(0)=0 implique cos(φ)=0."
+    },
+    {
+      "question": "Le déphasage entre la force et le déplacement à la résonance est :",
+      "options": ["π/2 rad", "0", "π", "π/4"],
+      "reponse": "π/2 rad",
+      "explication": "Caractéristique du système à résonance."
+    },
+    {
+      "question": "L’équation d’un oscillateur amorti est d²x/dt² + 2β dx/dt + ω₀² x = 0. Que représente β ?",
+      "options": ["Le coefficient d’amortissement", "La fréquence propre", "La masse", "La force"],
+      "reponse": "Le coefficient d’amortissement",
+      "explication": "β mesure l’intensité des frottements."
+    },
+    {
+      "question": "Un oscillateur a une amplitude qui diminue au cours du temps. Cela signifie que :",
+      "options": ["L’oscillation est amortie", "L’oscillation est forcée", "L’oscillation est libre", "L’oscillation est chaotique"],
+      "reponse": "L’oscillation est amortie",
+      "explication": "Amortissement entraîne une diminution de l’amplitude."
+    }
+  ]
+}

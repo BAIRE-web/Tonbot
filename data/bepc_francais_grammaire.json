@@ -1,16 +1,304 @@
 {
   "qcm": [
     {
-      "question": "Quelle est la fonction du mot 'chien' dans la phrase : 'Le chien aboie' ?",
-      "options": ["Sujet", "COD", "Adjectif", "Verbe"],
-      "reponse": "Sujet",
-      "explication": "‘Chien’ est le sujet car c’est lui qui fait l’action d’aboyer."
+      "question": "Qu'est-ce qu'un nom commun ?",
+      "options": ["Un mot qui désigne un être ou un objet en général", "Un nom de personne spécifique", "Un verbe d'action", "Un adjectif qualificatif"],
+      "reponse": "Un mot qui désigne un être ou un objet en général",
+      "explication": "Le nom commun désigne une catégorie générale d'êtres, d'objets ou de choses, contrairement au nom propre qui désigne un être unique."
     },
     {
-      "question": "Quel est le temps du verbe dans la phrase : 'Il mangeait une pomme' ?",
-      "options": ["Passé composé", "Futur", "Imparfait", "Présent"],
-      "reponse": "Imparfait",
-      "explication": "‘Maneait’ est conjugué à l’imparfait car il exprime une action passée et inachevée."
+      "question": "Quel est le rôle d'un adjectif qualificatif ?",
+      "options": ["Donner une information sur un nom", "Remplacer un verbe", "Indiquer une action", "Relier deux phrases"],
+      "reponse": "Donner une information sur un nom",
+      "explication": "L'adjectif qualificatif sert à préciser ou qualifier un nom en apportant une caractéristique."
+    },
+    {
+      "question": "Quelle est la fonction principale du verbe dans une phrase ?",
+      "options": ["Exprimer une action ou un état", "Relier deux propositions", "Introduire un complément", "Qualifier un nom"],
+      "reponse": "Exprimer une action ou un état",
+      "explication": "Le verbe est le noyau du groupe verbal, il exprime l'action effectuée ou l'état du sujet."
+    },
+    {
+      "question": "Qu'est-ce qu'un pronom personnel ?",
+      "options": ["Un mot qui remplace un nom", "Un mot qui indique une qualité", "Un type de verbe", "Un nom propre"],
+      "reponse": "Un mot qui remplace un nom",
+      "explication": "Le pronom personnel sert à éviter la répétition en remplaçant un nom déjà cité ou connu."
+    },
+    {
+      "question": "Quel est le genre du mot 'maison' ?",
+      "options": ["Masculin", "Féminin", "Neutre", "Variable"],
+      "reponse": "Féminin",
+      "explication": "Le mot 'maison' est féminin, ce qui se reconnaît souvent grâce aux articles qui l'accompagnent comme 'la'."
+    },
+    {
+      "question": "Qu'est-ce qu'un adjectif possessif ?",
+      "options": ["Un mot qui indique la possession", "Un type de verbe", "Un nom commun", "Un pronom personnel"],
+      "reponse": "Un mot qui indique la possession",
+      "explication": "L'adjectif possessif sert à montrer à qui appartient un objet ou une personne (mon, ton, son, notre, etc.)."
+    },
+    {
+      "question": "Quel temps verbal exprime une action en train de se dérouler ?",
+      "options": ["Présent de l'indicatif", "Passé simple", "Futur simple", "Imparfait"],
+      "reponse": "Présent de l'indicatif",
+      "explication": "Le présent de l'indicatif sert à exprimer une action qui se passe au moment où l'on parle."
+    },
+    {
+      "question": "Dans la phrase « Le chat mange la souris », quel est le sujet ?",
+      "options": ["Le chat", "Mange", "La souris", "Le"],
+      "reponse": "Le chat",
+      "explication": "Le sujet est celui qui fait l'action, ici « Le chat » est le sujet qui effectue le verbe 'mange'."
+    },
+    {
+      "question": "Qu'est-ce qu'un adverbe ?",
+      "options": ["Un mot qui modifie un verbe, un adjectif ou un autre adverbe", "Un synonyme de nom", "Un type de verbe", "Un adjectif qualificatif"],
+      "reponse": "Un mot qui modifie un verbe, un adjectif ou un autre adverbe",
+      "explication": "L'adverbe sert à préciser comment, quand, où ou dans quelle mesure se déroule une action."
+    },
+    {
+      "question": "Quelle est la fonction d'un complément d'objet direct (COD) ?",
+      "options": ["Compléter directement le verbe sans préposition", "Compléter le sujet", "Relier deux phrases", "Modifier un adjectif"],
+      "reponse": "Compléter directement le verbe sans préposition",
+      "explication": "Le COD complète directement le verbe, il répond à la question 'qui ?' ou 'quoi ?' après le verbe."
+    },
+    {
+      "question": "Qu’est-ce qu’un verbe transitif ?",
+      "options": ["Un verbe qui a un complément d’objet direct", "Un verbe sans complément", "Un verbe suivi d’un adjectif", "Un verbe à l’impératif"],
+      "reponse": "Un verbe qui a un complément d’objet direct",
+      "explication": "Le verbe transitif nécessite un complément d’objet direct pour compléter son sens."
+    },
+    {
+      "question": "Quelle est la nature grammaticale de « rapidement » dans la phrase « Il court rapidement » ?",
+      "options": ["Adverbe", "Adjectif", "Nom", "Verbe"],
+      "reponse": "Adverbe",
+      "explication": "« Rapidement » modifie le verbe « court », indiquant la manière de l’action."
+    },
+    {
+      "question": "Comment s’accorde l’adjectif qualificatif ?",
+      "options": ["En genre et en nombre avec le nom", "Toujours au masculin singulier", "Avec le verbe", "Avec le pronom"],
+      "reponse": "En genre et en nombre avec le nom",
+      "explication": "L’adjectif s’accorde en genre (masculin/féminin) et en nombre (singulier/pluriel) avec le nom qu’il qualifie."
+    },
+    {
+      "question": "Quel pronom remplace un nom de personne ?",
+      "options": ["Pronom personnel", "Pronom démonstratif", "Adjectif possessif", "Nom commun"],
+      "reponse": "Pronom personnel",
+      "explication": "Le pronom personnel remplace un nom de personne pour éviter la répétition."
+    },
+    {
+      "question": "Que fait la conjonction de coordination ?",
+      "options": ["Elle relie deux mots ou groupes de mots de même nature", "Elle remplace un nom", "Elle indique une possession", "Elle exprime une action"],
+      "reponse": "Elle relie deux mots ou groupes de mots de même nature",
+      "explication": "Les conjonctions de coordination comme 'et', 'mais', 'ou' relient des éléments similaires dans une phrase."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe à l’imparfait ?",
+      "options": ["Nous chantions", "Nous chantons", "Nous chanterons", "Nous chantâmes"],
+      "reponse": "Nous chantions",
+      "explication": "L’imparfait exprime une action passée, habituelle ou en cours dans le passé, avec la terminaison '-ions' pour 'nous'."
+    },
+    {
+      "question": "Quel est le complément d’objet indirect (COI) ?",
+      "options": ["Complément introduit par une préposition", "Complément sans préposition", "Sujet de la phrase", "Adverbe"],
+      "reponse": "Complément introduit par une préposition",
+      "explication": "Le COI complète le verbe mais est introduit par une préposition comme 'à' ou 'de'."
+    },
+    {
+      "question": "Quelle est la fonction du sujet dans une phrase ?",
+      "options": ["Celui qui fait l’action ou dont on parle", "Celui qui reçoit l’action", "Le complément du verbe", "Un adjectif"],
+      "reponse": "Celui qui fait l’action ou dont on parle",
+      "explication": "Le sujet est la personne ou la chose qui réalise l’action exprimée par le verbe."
+    },
+    {
+      "question": "Qu’est-ce qu’un adjectif démonstratif ?",
+      "options": ["Un adjectif qui désigne un objet précis", "Un pronom personnel", "Un verbe", "Un complément"],
+      "reponse": "Un adjectif qui désigne un objet précis",
+      "explication": "Les adjectifs démonstratifs comme 'ce', 'cette' montrent un objet ou une personne précise."
+    },
+    {
+      "question": "Quel est le participe passé du verbe 'manger' ?",
+      "options": ["Mangée", "Mangé", "Mange", "Mangeant"],
+      "reponse": "Mangé",
+      "explication": "Le participe passé s’utilise pour former les temps composés et s’accorde selon le sujet ou le COD."
+    },
+    {
+      "question": "Qu’est-ce qu’une phrase impérative ?",
+      "options": ["Une phrase qui donne un ordre ou un conseil", "Une phrase qui pose une question", "Une phrase qui exprime une émotion", "Une phrase déclarative"],
+      "reponse": "Une phrase qui donne un ordre ou un conseil",
+      "explication": "La phrase impérative sert à ordonner, conseiller ou demander quelque chose."
+    },
+    {
+      "question": "Comment reconnaître un adjectif qualificatif ?",
+      "options": ["Il qualifie un nom", "Il remplace un nom", "Il exprime une action", "Il relie deux phrases"],
+      "reponse": "Il qualifie un nom",
+      "explication": "L’adjectif qualificatif donne une caractéristique au nom qu’il accompagne."
+    },
+    {
+      "question": "Qu’est-ce qu’un sujet élidé ?",
+      "options": ["Un sujet remplacé par un pronom", "Un sujet omis dans la phrase", "Un complément d’objet", "Un adjectif"],
+      "reponse": "Un sujet remplacé par un pronom",
+      "explication": "Le sujet élidé est un pronom qui remplace un nom sujet pour éviter la répétition."
+    },
+    {
+      "question": "Quel est le complément circonstanciel ?",
+      "options": ["Un mot ou groupe qui indique les circonstances de l’action", "Le sujet de la phrase", "Le verbe", "Un adjectif"],
+      "reponse": "Un mot ou groupe qui indique les circonstances de l’action",
+      "explication": "Le complément circonstanciel précise le temps, le lieu, la manière, la cause, etc. de l’action."
+    },
+    {
+      "question": "Quel est le mode du verbe dans une phrase déclarative ?",
+      "options": ["Indicatif", "Impératif", "Subjonctif", "Infinitif"],
+      "reponse": "Indicatif",
+      "explication": "Le mode indicatif exprime la réalité, les faits, il est utilisé dans les phrases déclaratives."
+    },
+    {
+      "question": "Comment s’appelle le mot qui relie un sujet à un attribut ?",
+      "options": ["Verbe d’état", "Verbe d’action", "Complément d’objet", "Adjectif"],
+      "reponse": "Verbe d’état",
+      "explication": "Le verbe d’état (être, sembler, paraître) relie le sujet à son attribut."
+    },
+    {
+      "question": "Qu’est-ce qu’une proposition subordonnée ?",
+      "options": ["Une proposition dépendante d’une principale", "Une proposition indépendante", "Un verbe conjugué", "Un complément d’objet"],
+      "reponse": "Une proposition dépendante d’une principale",
+      "explication": "La proposition subordonnée complète ou précise la proposition principale."
+    },
+    {
+      "question": "Qu’est-ce qu’un pronom relatif ?",
+      "options": ["Un mot qui relie une proposition subordonnée à un antécédent", "Un pronom personnel", "Un adjectif", "Un verbe"],
+      "reponse": "Un mot qui relie une proposition subordonnée à un antécédent",
+      "explication": "Les pronoms relatifs (qui, que, dont, où) introduisent une subordonnée relative."
+    },
+    {
+      "question": "Qu’est-ce que l’accord du participe passé avec l’auxiliaire 'avoir' ?",
+      "options": ["Il s’accorde avec le COD si celui-ci est placé avant le verbe", "Il s’accorde toujours avec le sujet", "Il ne s’accorde jamais", "Il s’accorde avec l’auxiliaire"],
+      "reponse": "Il s’accorde avec le COD si celui-ci est placé avant le verbe",
+      "explication": "Le participe passé avec 'avoir' s’accorde en genre et en nombre avec le complément d’objet direct si celui-ci est placé avant."
+    },
+    {
+      "question": "Qu’est-ce qu’un adjectif numéral ?",
+      "options": ["Un adjectif qui indique un nombre ou un ordre", "Un pronom personnel", "Un verbe", "Un adverbe"],
+      "reponse": "Un adjectif qui indique un nombre ou un ordre",
+      "explication": "Les adjectifs numéraux cardinaux (un, deux, trois) ou ordinaux (premier, deuxième) indiquent quantité ou position."
+    },
+    {
+      "question": "Choisis la phrase où le verbe est au présent :",
+      "options": ["Je mange une pomme.", "Je mangerai demain.", "J’ai mangé hier.", "Je mangeais souvent."],
+      "reponse": "Je mange une pomme.",
+      "explication": "Le verbe 'mange' est au présent de l’indicatif, exprimant une action en cours."
+    },
+    {
+      "question": "Quel est le sujet dans la phrase : « Les enfants jouent dans le parc » ?",
+      "options": ["Les enfants", "jouent", "dans le parc", "Le parc"],
+      "reponse": "Les enfants",
+      "explication": "Le sujet est celui qui fait l’action, ici 'Les enfants' font l’action de jouer."
+    },
+    {
+      "question": "Dans la phrase « Elle a vu le film », quel est le complément d’objet direct ?",
+      "options": ["Elle", "a vu", "le film", "vu"],
+      "reponse": "le film",
+      "explication": "Le COD répond à la question 'quoi ?' après le verbe, ici 'le film'."
+    },
+    {
+      "question": "Quelle phrase contient un adjectif qualificatif ?",
+      "options": ["La voiture rouge est rapide.", "Je vais à l’école.", "Il court vite.", "Elle parle bien."],
+      "reponse": "La voiture rouge est rapide.",
+      "explication": "L’adjectif qualificatif 'rouge' décrit le nom 'voiture'."
+    },
+    {
+      "question": "Identifie le pronom personnel dans la phrase : « Tu viens avec nous ? »",
+      "options": ["Tu", "viens", "avec", "nous"],
+      "reponse": "Tu",
+      "explication": "'Tu' est un pronom personnel sujet, remplaçant une personne."
+    },
+    {
+      "question": "Quelle conjonction relie ces deux propositions : « Je mange et je bois » ?",
+      "options": ["et", "mais", "ou", "donc"],
+      "reponse": "et",
+      "explication": "La conjonction 'et' relie deux propositions de même nature."
+    },
+    {
+      "question": "Dans la phrase « Il parle doucement », quel est le rôle de « doucement » ?",
+      "options": ["Adverbe", "Adjectif", "Nom", "Verbe"],
+      "reponse": "Adverbe",
+      "explication": "'Doucement' modifie le verbe 'parle' en précisant la manière."
+    },
+    {
+      "question": "Quelle est la bonne forme du verbe au futur simple : « Nous _____ au cinéma demain » ?",
+      "options": ["allons", "allions", "irons", "allés"],
+      "reponse": "irons",
+      "explication": "'Irons' est la forme correcte au futur simple pour 'nous'."
+    },
+    {
+      "question": "Quelle phrase est impérative ?",
+      "options": ["Ferme la porte.", "La porte est fermée.", "Est-ce que la porte est fermée ?", "La porte ferme."],
+      "reponse": "Ferme la porte.",
+      "explication": "La phrase impérative donne un ordre ou un conseil."
+    },
+    {
+      "question": "Quel pronom relatif complète cette phrase : « Le livre _____ je lis est intéressant » ?",
+      "options": ["qui", "que", "dont", "où"],
+      "reponse": "que",
+      "explication": "'Que' est un pronom relatif qui remplace le complément d’objet direct dans la proposition subordonnée."
+    },
+    {
+      "question": "Quelle phrase contient un adjectif possessif ?",
+      "options": ["Mon frère est gentil.", "Ce livre est ancien.", "Elle court vite.", "Il parle fort."],
+      "reponse": "Mon frère est gentil.",
+      "explication": "'Mon' est un adjectif possessif qui indique à qui appartient le frère."
+    },
+    {
+      "question": "Quelle est la nature du mot souligné dans : « La maison est grande » ?",
+      "options": ["Adjectif qualificatif", "Nom", "Verbe", "Pronom"],
+      "reponse": "Adjectif qualificatif",
+      "explication": "'Grande' qualifie le nom 'maison'."
+    },
+    {
+      "question": "Dans la phrase « Ils ont fini leurs devoirs », quel est le complément indirect ?",
+      "options": ["leurs devoirs", "Ils", "ont fini", "devoirs"],
+      "reponse": "leurs devoirs",
+      "explication": "Ici, 'leurs devoirs' est le complément d’objet direct, pas indirect. Il n’y a pas de COI dans cette phrase."
+    },
+    {
+      "question": "Choisis le verbe à l’imparfait :",
+      "options": ["Nous étions", "Nous serons", "Nous sommes", "Nous soyons"],
+      "reponse": "Nous étions",
+      "explication": "'Étions' est la forme du verbe 'être' à l’imparfait."
+    },
+    {
+      "question": "Quelle phrase contient un pronom démonstratif ?",
+      "options": ["Ce livre est intéressant.", "Je mange.", "Il parle.", "Elle court."],
+      "reponse": "Ce livre est intéressant.",
+      "explication": "'Ce' est un pronom démonstratif qui désigne un objet précis."
+    },
+    {
+      "question": "Quel est le sujet dans la phrase : « Les fleurs poussent vite » ?",
+      "options": ["Les fleurs", "poussent", "vite", "fleurs"],
+      "reponse": "Les fleurs",
+      "explication": "Le sujet est celui qui réalise l’action, ici 'Les fleurs'."
+    },
+    {
+      "question": "Quel temps verbal est utilisé dans : « Elle avait fini son travail » ?",
+      "options": ["Plus-que-parfait", "Passé composé", "Futur antérieur", "Présent"],
+      "reponse": "Plus-que-parfait",
+      "explication": "Le plus-que-parfait exprime une action antérieure à une autre action passée."
+    },
+    {
+      "question": "Quelle conjonction exprime une opposition ?",
+      "options": ["Mais", "Et", "Ou", "Donc"],
+      "reponse": "Mais",
+      "explication": "'Mais' est une conjonction de coordination qui exprime une opposition."
+    },
+    {
+      "question": "Dans la phrase « Le garçon qui court est rapide », quel est le pronom relatif ?",
+      "options": ["qui", "le", "est", "rapide"],
+      "reponse": "qui",
+      "explication": "'Qui' introduit la proposition subordonnée relative et remplace le sujet."
+    },
+    {
+      "question": "Quelle est la fonction du verbe d’état ?",
+      "options": ["Relier le sujet à un attribut", "Exprimer une action", "Compléter un adjectif", "Relier deux phrases"],
+      "reponse": "Relier le sujet à un attribut",
+      "explication": "Le verbe d’état (être, sembler) relie le sujet à une qualité ou un état."
     }
   ]
 }

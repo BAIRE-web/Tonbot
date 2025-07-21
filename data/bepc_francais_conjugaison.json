@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le radical du verbe 'parler' au présent de l’indicatif ?",
+      "options": ["parl-", "par-", "parlons", "parlé"],
+      "reponse": "parl-",
+      "explication": "Le radical est la partie du verbe à laquelle on ajoute les terminaisons, ici 'parl-' pour 'parler'."
+    },
+    {
+      "question": "Quel temps exprime une action qui se passe en ce moment ?",
+      "options": ["Présent de l’indicatif", "Passé composé", "Futur simple", "Imparfait"],
+      "reponse": "Présent de l’indicatif",
+      "explication": "Le présent exprime une action qui se déroule au moment où l’on parle."
+    },
+    {
+      "question": "Quelle est la terminaison du verbe 'finir' à la 1ère personne du pluriel au présent ?",
+      "options": ["-issons", "-ons", "-ez", "-ent"],
+      "reponse": "-issons",
+      "explication": "Les verbes du 2e groupe en '-ir' comme 'finir' prennent la terminaison '-issons' à 'nous'."
+    },
+    {
+      "question": "Quel auxiliaire est utilisé pour former le passé composé des verbes pronominaux ?",
+      "options": ["Être", "Avoir", "Aller", "Faire"],
+      "reponse": "Être",
+      "explication": "Les verbes pronominaux se conjuguent avec l’auxiliaire 'être' au passé composé."
+    },
+    {
+      "question": "Quelle forme verbale exprime une action future certaine ?",
+      "options": ["Futur simple", "Imparfait", "Passé simple", "Présent"],
+      "reponse": "Futur simple",
+      "explication": "Le futur simple sert à exprimer une action qui se produira dans l’avenir."
+    },
+    {
+      "question": "Comment s’appelle la terminaison '-ais' dans 'je parlais' ?",
+      "options": ["Terminaison de l’imparfait", "Terminaison du futur", "Terminaison du présent", "Terminaison du passé simple"],
+      "reponse": "Terminaison de l’imparfait",
+      "explication": "La terminaison '-ais' est caractéristique de l’imparfait pour la 1ère personne du singulier."
+    },
+    {
+      "question": "Quel mode exprime une action incertaine, un souhait ou une hypothèse ?",
+      "options": ["Subjonctif", "Indicatif", "Impératif", "Infinitif"],
+      "reponse": "Subjonctif",
+      "explication": "Le subjonctif exprime le doute, le souhait, la possibilité ou la nécessité."
+    },
+    {
+      "question": "Quel temps est utilisé dans la phrase « Hier, il a fini son travail » ?",
+      "options": ["Passé composé", "Présent", "Futur simple", "Imparfait"],
+      "reponse": "Passé composé",
+      "explication": "Le passé composé exprime une action achevée dans le passé."
+    },
+    {
+      "question": "Quelle est la 3e personne du pluriel du verbe 'aller' au présent ?",
+      "options": ["Ils vont", "Ils vontent", "Ils allent", "Ils aillent"],
+      "reponse": "Ils vont",
+      "explication": "'Ils vont' est la forme correcte au présent de l’indicatif."
+    },
+    {
+      "question": "Qu’est-ce que l’infinitif d’un verbe ?",
+      "options": ["La forme non conjuguée du verbe", "La forme conjuguée au présent", "La forme au passé", "La forme à l’impératif"],
+      "reponse": "La forme non conjuguée du verbe",
+      "explication": "L’infinitif est la forme de base du verbe, non conjuguée et sans indication de temps."
+    },
+    {
+      "question": "Quel est le radical du verbe 'prendre' au présent de l’indicatif ?",
+      "options": ["prend-", "pren-", "pris-", "prenant-"],
+      "reponse": "pren-",
+      "explication": "Le radical 'pren-' est utilisé pour les formes du présent comme 'nous prenons', 'vous prenez'."
+    },
+    {
+      "question": "Quelle est la terminaison de la 2e personne du singulier au futur simple pour un verbe du 1er groupe ?",
+      "options": ["-as", "-es", "-ons", "-ez"],
+      "reponse": "-as",
+      "explication": "Au futur simple, la 2e personne du singulier des verbes du 1er groupe se termine par '-as' (tu parleras)."
+    },
+    {
+      "question": "Quel auxiliaire utilise-t-on pour conjuguer le verbe 'venir' au passé composé ?",
+      "options": ["Être", "Avoir", "Aller", "Faire"],
+      "reponse": "Être",
+      "explication": "Le verbe 'venir' est un verbe de mouvement qui se conjugue avec l’auxiliaire 'être'."
+    },
+    {
+      "question": "Quelle est la terminaison de la 3e personne du pluriel au passé simple des verbes en -er ?",
+      "options": ["-èrent", "-èrent", "-èrent", "-èrent"],
+      "reponse": "-èrent",
+      "explication": "Au passé simple, la 3e personne du pluriel des verbes en '-er' se termine par '-èrent'."
+    },
+    {
+      "question": "Quel temps verbal exprime une action habituelle dans le passé ?",
+      "options": ["Imparfait", "Passé simple", "Présent", "Futur simple"],
+      "reponse": "Imparfait",
+      "explication": "L’imparfait décrit une action répétée ou habituelle dans le passé."
+    },
+    {
+      "question": "Quelle est la 1ère personne du singulier au subjonctif présent du verbe 'être' ?",
+      "options": ["Que je sois", "Que je suis", "Que je serai", "Que je fus"],
+      "reponse": "Que je sois",
+      "explication": "Au subjonctif présent, 'être' se conjugue 'que je sois' pour exprimer une action incertaine ou souhaitée."
+    },
+    {
+      "question": "Comment forme-t-on le futur antérieur ?",
+      "options": ["Auxiliaire au futur + participe passé", "Auxiliaire au présent + infinitif", "Auxiliaire à l’imparfait + participe passé", "Auxiliaire au passé composé + participe passé"],
+      "reponse": "Auxiliaire au futur + participe passé",
+      "explication": "Le futur antérieur se forme avec l’auxiliaire être ou avoir au futur simple suivi du participe passé."
+    },
+    {
+      "question": "Quelle est la forme correcte de l’imparfait du verbe 'faire' à la 2e personne du singulier ?",
+      "options": ["Tu faisais", "Tu fais", "Tu fis", "Tu fera"],
+      "reponse": "Tu faisais",
+      "explication": "L’imparfait de 'faire' à la 2e personne du singulier est 'tu faisais'."
+    },
+    {
+      "question": "Quel mode est utilisé pour exprimer un ordre ?",
+      "options": ["Impératif", "Indicatif", "Subjonctif", "Conditionnel"],
+      "reponse": "Impératif",
+      "explication": "L’impératif sert à donner un ordre ou un conseil."
+    },
+    {
+      "question": "Quel est le participe présent du verbe 'parler' ?",
+      "options": ["Parlant", "Parlé", "Parle", "Parlera"],
+      "reponse": "Parlant",
+      "explication": "Le participe présent exprime une action en cours et se forme en ajoutant '-ant' au radical."
+    },
+    {
+      "question": "Quelle est la terminaison de la 1ère personne du pluriel au présent de l’indicatif des verbes du 1er groupe ?",
+      "options": ["-ons", "-ez", "-ent", "-ais"],
+      "reponse": "-ons",
+      "explication": "La terminaison '-ons' correspond à 'nous' au présent pour les verbes du 1er groupe."
+    },
+    {
+      "question": "Quel temps est utilisé dans la phrase : « Nous avions déjà mangé » ?",
+      "options": ["Plus-que-parfait", "Passé composé", "Imparfait", "Futur antérieur"],
+      "reponse": "Plus-que-parfait",
+      "explication": "Le plus-que-parfait exprime une action antérieure à une autre action passée."
+    },
+    {
+      "question": "Quelle est la forme correcte du conditionnel présent pour 'je' du verbe 'aimer' ?",
+      "options": ["J’aimerais", "J’aime", "J’aimais", "J’aimerai"],
+      "reponse": "J’aimerais",
+      "explication": "Le conditionnel présent exprime une action soumise à une condition."
+    },
+    {
+      "question": "Comment s’appelle la terminaison '-é' dans 'aimé' ?",
+      "options": ["Participe passé", "Infinitif", "Présent", "Imparfait"],
+      "reponse": "Participe passé",
+      "explication": "La terminaison '-é' indique le participe passé des verbes du 1er groupe."
+    },
+    {
+      "question": "Quelle forme verbale exprime une action achevée dans le passé ?",
+      "options": ["Passé composé", "Imparfait", "Présent", "Futur simple"],
+      "reponse": "Passé composé",
+      "explication": "Le passé composé exprime une action passée et terminée."
+    },
+    {
+      "question": "Quelle est la terminaison de la 2e personne du pluriel au présent de l’indicatif ?",
+      "options": ["-ez", "-ons", "-ent", "-ais"],
+      "reponse": "-ez",
+      "explication": "La terminaison '-ez' est utilisée pour 'vous' au présent de l’indicatif."
+    },
+    {
+      "question": "Quel auxiliaire utilise-t-on avec le verbe 'aller' au passé composé ?",
+      "options": ["Être", "Avoir", "Faire", "Venir"],
+      "reponse": "Être",
+      "explication": "Le verbe 'aller' se conjugue avec l’auxiliaire 'être' au passé composé."
+    },
+    {
+      "question": "Quelle est la terminaison du verbe 'finir' à la 3e personne du pluriel au présent ?",
+      "options": ["-issent", "-issent", "-issez", "-issent"],
+      "reponse": "-issent",
+      "explication": "La terminaison '-issent' est correcte pour 'ils/elles finissent' au présent."
+    },
+    {
+      "question": "Quel mode exprime une action soumise à une condition ?",
+      "options": ["Conditionnel", "Indicatif", "Subjonctif", "Impératif"],
+      "reponse": "Conditionnel",
+      "explication": "Le conditionnel exprime une action qui dépend d’une condition."
+    },
+    {
+      "question": "Quelle est la terminaison de la 1ère personne du singulier au passé simple pour les verbes en -er ?",
+      "options": ["-ai", "-ais", "-ait", "-a"],
+      "reponse": "-ai",
+      "explication": "Au passé simple, la 1ère personne du singulier des verbes en '-er' se termine par '-ai'."
+    },
+    {
+      "question": "Choisis la bonne conjugaison au présent : « Tu _____ (manger) une pomme ».",
+      "options": ["manges", "mange", "mangent", "mangeons"],
+      "reponse": "manges",
+      "explication": "Pour 'tu', la terminaison au présent est '-es' pour les verbes du 1er groupe."
+    },
+    {
+      "question": "Quelle est la bonne forme au futur simple : « Nous _____ (aller) au marché demain » ?",
+      "options": ["irons", "allons", "allions", "iront"],
+      "reponse": "irons",
+      "explication": "'Irons' est la conjugaison correcte au futur simple pour 'nous'."
+    },
+    {
+      "question": "Au passé composé, quelle est la bonne forme de 'il (finir)' ?",
+      "options": ["il a fini", "il est fini", "il finissait", "il finira"],
+      "reponse": "il a fini",
+      "explication": "Le passé composé des verbes du 2e groupe se forme avec l’auxiliaire 'avoir' + participe passé."
+    },
+    {
+      "question": "Quelle est la bonne forme à l’imparfait : « Elles _____ (parler) souvent » ?",
+      "options": ["parlaient", "parlent", "parleront", "parlèrent"],
+      "reponse": "parlaient",
+      "explication": "L’imparfait exprime une action répétée dans le passé, avec la terminaison '-aient' pour 'elles'."
+    },
+    {
+      "question": "Quelle est la forme correcte au conditionnel présent : « Je _____ (vouloir) partir » ?",
+      "options": ["voudrais", "veux", "voulais", "voudrai"],
+      "reponse": "voudrais",
+      "explication": "Le conditionnel présent exprime une action soumise à une condition, avec la terminaison '-ais' pour la 1ère personne."
+    },
+    {
+      "question": "Choisis la bonne forme au subjonctif présent : « Il faut que tu _____ (faire) tes devoirs ».",
+      "options": ["fasses", "fais", "feras", "faisais"],
+      "reponse": "fasses",
+      "explication": "Le subjonctif exprime une nécessité, un souhait, ou une incertitude."
+    },
+    {
+      "question": "Quelle est la bonne conjugaison au présent de l’indicatif pour 'nous (venir)' ?",
+      "options": ["venons", "venons", "viennent", "venez"],
+      "reponse": "venons",
+      "explication": "'Venons' est la forme correcte au présent pour 'nous'."
+    },
+    {
+      "question": "Au futur simple, quelle est la terminaison de la 3e personne du singulier ?",
+      "options": ["-a", "-ai", "-as", "-ons"],
+      "reponse": "-a",
+      "explication": "La 3e personne du singulier au futur simple se termine par '-a' (il/elle/on parlera)."
+    },
+    {
+      "question": "Choisis la forme correcte au passé simple : « Nous _____ (aller) au marché ».",
+      "options": ["allâmes", "allions", "allons", "allèrent"],
+      "reponse": "allâmes",
+      "explication": "Le passé simple pour 'nous' du verbe aller est 'allâmes'."
+    },
+    {
+      "question": "Quelle est la forme correcte à l’impératif pour 'tu (écouter)' ?",
+      "options": ["écoute", "écoutes", "écouté", "écoutons"],
+      "reponse": "écoute",
+      "explication": "À l’impératif, on utilise la forme sans 's' à la 2e personne du singulier pour les verbes du 1er groupe."
+    },
+    {
+      "question": "Quelle est la forme correcte au participe passé de 'prendre' ?",
+      "options": ["pris", "prendre", "prenant", "prisant"],
+      "reponse": "pris",
+      "explication": "Le participe passé de 'prendre' est 'pris'."
+    },
+    {
+      "question": "Quel temps exprime une action qui se passe avant une autre action passée ?",
+      "options": ["Plus-que-parfait", "Passé composé", "Imparfait", "Futur antérieur"],
+      "reponse": "Plus-que-parfait",
+      "explication": "Le plus-que-parfait exprime une action antérieure à une autre action passée."
+    },
+    {
+      "question": "Quelle est la terminaison du verbe 'finir' à la 2e personne du pluriel au présent ?",
+      "options": ["-issez", "-issent", "-issez", "-issons"],
+      "reponse": "-issez",
+      "explication": "La terminaison correcte est '-issez' pour 'vous finissez' au présent."
+    },
+    {
+      "question": "Choisis la bonne conjugaison au présent : « Ils _____ (prendre) le bus ».",
+      "options": ["prennent", "prend", "prends", "prenons"],
+      "reponse": "prennent",
+      "explication": "'Prennent' est la forme correcte au présent pour 'ils'."
+    },
+    {
+      "question": "Au passé composé, quelle est la forme correcte de 'nous (être)' ?",
+      "options": ["nous avons été", "nous sommes été", "nous avons être", "nous sommes été"],
+      "reponse": "nous avons été",
+      "explication": "Le passé composé de 'être' se forme avec l’auxiliaire 'avoir' + participe passé."
+    },
+    {
+      "question": "Quelle est la forme correcte à l’imparfait pour 'je (avoir)' ?",
+      "options": ["j’avais", "j’ai", "j’aurai", "j’eus"],
+      "reponse": "j’avais",
+      "explication": "L’imparfait de 'avoir' à la 1ère personne du singulier est 'j’avais'."
+    },
+    {
+      "question": "Quelle est la terminaison de la 1ère personne du singulier au futur simple des verbes du 1er groupe ?",
+      "options": ["-ai", "-as", "-a", "-ons"],
+      "reponse": "-ai",
+      "explication": "La terminaison '-ai' correspond à 'je' au futur simple (je parlerai)."
+    },
+    {
+      "question": "Choisis la forme correcte au subjonctif présent : « Il faut que nous _____ (venir) ».",
+      "options": ["venions", "venons", "viendrons", "venons"],
+      "reponse": "venions",
+      "explication": "Le subjonctif présent pour 'nous' est 'venions'."
+    },
+    {
+      "question": "Quel temps est utilisé dans : « Demain, j’irai à l’école » ?",
+      "options": ["Futur simple", "Présent", "Passé composé", "Imparfait"],
+      "reponse": "Futur simple",
+      "explication": "Le futur simple exprime une action qui aura lieu dans l’avenir."
+    },
+    {
+      "question": "Quelle est la forme correcte à l’impératif pour 'nous (manger)' ?",
+      "options": ["mangeons", "mangent", "mangez", "manges"],
+      "reponse": "mangeons",
+      "explication": "À l’impératif, la 1ère personne du pluriel utilise la forme 'mangeons'."
+    }
+  ]
+}

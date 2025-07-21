@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’une hormone ?",
+      "options": ["Une molécule chimique sécrétée dans le sang pour réguler une fonction", "Un neurotransmetteur", "Une enzyme digestive", "Une protéine musculaire"],
+      "reponse": "Une molécule chimique sécrétée dans le sang pour réguler une fonction",
+      "explication": "Les hormones sont des messagers chimiques qui agissent à distance."
+    },
+    {
+      "question": "La relation humorale désigne :",
+      "options": ["La régulation par des substances chimiques dans le sang", "La communication neuronale", "Le mouvement musculaire", "La digestion"],
+      "reponse": "La régulation par des substances chimiques dans le sang",
+      "explication": "Elle implique des hormones circulant dans le plasma."
+    },
+    {
+      "question": "Quel organe produit l’insuline ?",
+      "options": ["Le pancréas", "Le foie", "Les reins", "Les glandes surrénales"],
+      "reponse": "Le pancréas",
+      "explication": "Le pancréas sécrète l’insuline qui régule la glycémie."
+    },
+    {
+      "question": "Quel est le rôle principal de l’insuline ?",
+      "options": ["Faire baisser la glycémie", "Faire monter la glycémie", "Augmenter la pression artérielle", "Diminuer la fréquence cardiaque"],
+      "reponse": "Faire baisser la glycémie",
+      "explication": "L’insuline favorise l’entrée du glucose dans les cellules."
+    },
+    {
+      "question": "Quelle hormone augmente la glycémie ?",
+      "options": ["Glucagon", "Insuline", "Adrénaline", "Ocytocine"],
+      "reponse": "Glucagon",
+      "explication": "Le glucagon stimule la libération de glucose dans le sang."
+    },
+    {
+      "question": "Les hormones sont produites par :",
+      "options": ["Les glandes endocrines", "Les muscles", "Les nerfs", "Le sang"],
+      "reponse": "Les glandes endocrines",
+      "explication": "Elles libèrent les hormones directement dans le sang."
+    },
+    {
+      "question": "La relation humorale agit sur :",
+      "options": ["Des organes cibles distants", "Des muscles locaux", "Le système nerveux uniquement", "La peau"],
+      "reponse": "Des organes cibles distants",
+      "explication": "Les hormones agissent à distance sur des cellules spécifiques."
+    },
+    {
+      "question": "Quelle hormone est sécrétée par la glande thyroïde ?",
+      "options": ["Thyroxine", "Insuline", "Adrénaline", "Ocytocine"],
+      "reponse": "Thyroxine",
+      "explication": "La thyroxine régule le métabolisme basal."
+    },
+    {
+      "question": "La relation humorale est différente de la relation nerveuse car :",
+      "options": ["Elle est plus lente et plus durable", "Elle est plus rapide", "Elle utilise des influx électriques", "Elle ne fait pas intervenir d’hormones"],
+      "reponse": "Elle est plus lente et plus durable",
+      "explication": "Les hormones circulent dans le sang et agissent plus lentement."
+    },
+    {
+      "question": "Le cortisol est une hormone :",
+      "options": ["Sécrétée par les glandes surrénales", "Produite par le pancréas", "Sécrétée par la thyroïde", "Produite par les reins"],
+      "reponse": "Sécrétée par les glandes surrénales",
+      "explication": "Le cortisol est une hormone de stress produite par les surrénales."
+    },
+    {
+      "question": "Quelle hormone est libérée en cas de stress aigu ?",
+      "options": ["Adrénaline", "Insuline", "Thyroxine", "Glucagon"],
+      "reponse": "Adrénaline",
+      "explication": "L’adrénaline prépare l’organisme à la réaction rapide."
+    },
+    {
+      "question": "L’hormone antidiurétique (ADH) agit sur :",
+      "options": ["Les reins", "Le foie", "Le cœur", "Les poumons"],
+      "reponse": "Les reins",
+      "explication": "L’ADH régule la réabsorption d’eau par les reins."
+    },
+    {
+      "question": "Une glande endocrine est caractérisée par :",
+      "options": ["Sécrétion directe dans le sang", "Sécrétion via un canal", "Stockage du glucose", "Transmission nerveuse"],
+      "reponse": "Sécrétion directe dans le sang",
+      "explication": "Les glandes endocrines libèrent leurs hormones directement dans la circulation sanguine."
+    },
+    {
+      "question": "L’hypophyse contrôle :",
+      "options": ["La sécrétion hormonale de plusieurs glandes", "Le rythme cardiaque", "La contraction musculaire", "La digestion"],
+      "reponse": "La sécrétion hormonale de plusieurs glandes",
+      "explication": "L’hypophyse est la glande maîtresse du système endocrinien."
+    },
+    {
+      "question": "Le rétrocontrôle négatif en relation humorale sert à :",
+      "options": ["Réguler la production hormonale", "Augmenter la production hormonale sans limite", "Arrêter la circulation sanguine", "Produire plus de glucose"],
+      "reponse": "Réguler la production hormonale",
+      "explication": "Il limite la production pour éviter un excès d’hormones."
+    },
+    {
+      "question": "L’hormone thyroïdienne agit principalement sur :",
+      "options": ["Le métabolisme cellulaire", "La pression artérielle", "Le rythme cardiaque", "La digestion"],
+      "reponse": "Le métabolisme cellulaire",
+      "explication": "Elle régule la vitesse des réactions chimiques dans les cellules."
+    },
+    {
+      "question": "Les hormones stéroïdes sont dérivées :",
+      "options": ["Du cholestérol", "Des acides aminés", "Du glucose", "De l’ATP"],
+      "reponse": "Du cholestérol",
+      "explication": "Les hormones stéroïdes proviennent du cholestérol."
+    },
+    {
+      "question": "La communication humorale est assurée par :",
+      "options": ["Les hormones circulantes dans le sang", "Les neurotransmetteurs", "Les enzymes digestives", "Les protéines musculaires"],
+      "reponse": "Les hormones circulantes dans le sang",
+      "explication": "Les hormones véhiculées dans le sang transmettent les messages."
+    },
+    {
+      "question": "La glande qui régule la température corporelle via la production hormonale est :",
+      "options": ["La thyroïde", "L’hypophyse", "Le pancréas", "Les glandes surrénales"],
+      "reponse": "La thyroïde",
+      "explication": "Elle produit la thyroxine qui influe sur la température."
+    },
+    {
+      "question": "La relation humorale permet de :",
+      "options": ["Coordonner des fonctions à distance", "Contracter les muscles", "Transmettre des influx nerveux", "Filtrer le sang"],
+      "reponse": "Coordonner des fonctions à distance",
+      "explication": "Les hormones agissent sur des organes éloignés."
+    },
+    {
+      "question": "Quel organe sécrète l’érythropoïétine qui stimule la production de globules rouges ?",
+      "options": ["Le rein", "Le foie", "Le cœur", "Le cerveau"],
+      "reponse": "Le rein",
+      "explication": "Le rein libère cette hormone en cas d’hypoxie."
+    },
+    {
+      "question": "Lequel de ces organes n’est pas une glande endocrine ?",
+      "options": ["Estomac", "Thyroïde", "Hypophyse", "Surrénales"],
+      "reponse": "Estomac",
+      "explication": "L’estomac n’est pas une glande endocrine mais digestive."
+    },
+    {
+      "question": "Les hormones peptidiques se fixent sur :",
+      "options": ["Des récepteurs membranaires", "L’ADN", "Le cytoplasme", "Le noyau"],
+      "reponse": "Des récepteurs membranaires",
+      "explication": "Elles ne traversent pas la membrane, elles agissent via des récepteurs externes."
+    },
+    {
+      "question": "L’hormone de croissance est produite par :",
+      "options": ["L’hypophyse", "La thyroïde", "Le pancréas", "Les surrénales"],
+      "reponse": "L’hypophyse",
+      "explication": "Elle stimule la croissance et le développement du corps."
+    },
+    {
+      "question": "Quelle hormone est impliquée dans la régulation du calcium sanguin ?",
+      "options": ["Parathormone", "Insuline", "Adrénaline", "Cortisol"],
+      "reponse": "Parathormone",
+      "explication": "La parathormone augmente le calcium sanguin."
+    },
+    {
+      "question": "Lequel de ces organes sécrète une hormone qui prépare l’organisme à l’effort ?",
+      "options": ["Glandes surrénales", "Pancréas", "Hypophyse", "Thyroïde"],
+      "reponse": "Glandes surrénales",
+      "explication": "Les surrénales libèrent l’adrénaline en situation de stress."
+    },
+    {
+      "question": "La relation humorale agit sur le long terme grâce à :",
+      "options": ["La circulation sanguine des hormones", "Les influx nerveux", "La contraction musculaire", "La digestion"],
+      "reponse": "La circulation sanguine des hormones",
+      "explication": "Les hormones circulent lentement et ont des effets prolongés."
+    },
+    {
+      "question": "Le rétrocontrôle négatif sert à :",
+      "options": ["Maintenir l’équilibre hormonal", "Accélérer la production d’hormones", "Bloquer la circulation sanguine", "Augmenter la glycémie"],
+      "reponse": "Maintenir l’équilibre hormonal",
+      "explication": "Il évite les excès ou carences hormonales."
+    },
+    {
+      "question": "Quelle glande produit l’insuline ?",
+      "options": ["Pancréas", "Hypophyse", "Thyroïde", "Surrénales"],
+      "reponse": "Pancréas",
+      "explication": "Le pancréas sécrète l’insuline qui régule la glycémie."
+    },
+    {
+      "question": "Quel est le rôle principal de l’insuline ?",
+      "options": ["Faire baisser la glycémie", "Faire monter la glycémie", "Augmenter la pression artérielle", "Diminuer la fréquence cardiaque"],
+      "reponse": "Faire baisser la glycémie",
+      "explication": "L’insuline favorise l’entrée du glucose dans les cellules."
+    },
+    {
+      "question": "Quelle hormone augmente la glycémie ?",
+      "options": ["Glucagon", "Insuline", "Adrénaline", "Ocytocine"],
+      "reponse": "Glucagon",
+      "explication": "Le glucagon stimule la libération de glucose dans le sang."
+    },
+    {
+      "question": "Les hormones sont produites par :",
+      "options": ["Les glandes endocrines", "Les muscles", "Les nerfs", "Le sang"],
+      "reponse": "Les glandes endocrines",
+      "explication": "Elles libèrent les hormones directement dans le sang."
+    },
+    {
+      "question": "La relation humorale agit sur :",
+      "options": ["Des organes cibles distants", "Des muscles locaux", "Le système nerveux uniquement", "La peau"],
+      "reponse": "Des organes cibles distants",
+      "explication": "Les hormones agissent à distance sur des cellules spécifiques."
+    },
+    {
+      "question": "Quelle hormone est sécrétée par la glande thyroïde ?",
+      "options": ["Thyroxine", "Insuline", "Adrénaline", "Ocytocine"],
+      "reponse": "Thyroxine",
+      "explication": "La thyroxine régule le métabolisme basal."
+    },
+    {
+      "question": "Le cortisol est une hormone :",
+      "options": ["Sécrétée par les glandes surrénales", "Produite par le pancréas", "Sécrétée par la thyroïde", "Produite par les reins"],
+      "reponse": "Sécrétée par les glandes surrénales",
+      "explication": "Le cortisol est une hormone de stress produite par les surrénales."
+    },
+    {
+      "question": "Quelle hormone est libérée en cas de stress aigu ?",
+      "options": ["Adrénaline", "Insuline", "Thyroxine", "Glucagon"],
+      "reponse": "Adrénaline",
+      "explication": "L’adrénaline prépare l’organisme à la réaction rapide."
+    },
+    {
+      "question": "L’hormone antidiurétique (ADH) agit sur :",
+      "options": ["Les reins", "Le foie", "Le cœur", "Les poumons"],
+      "reponse": "Les reins",
+      "explication": "L’ADH régule la réabsorption d’eau par les reins."
+    },
+    {
+      "question": "L’hypophyse contrôle :",
+      "options": ["La sécrétion hormonale de plusieurs glandes", "Le rythme cardiaque", "La contraction musculaire", "La digestion"],
+      "reponse": "La sécrétion hormonale de plusieurs glandes",
+      "explication": "L’hypophyse est la glande maîtresse du système endocrinien."
+    },
+    {
+      "question": "Le rétrocontrôle négatif en relation humorale sert à :",
+      "options": ["Réguler la production hormonale", "Augmenter la production hormonale sans limite", "Arrêter la circulation sanguine", "Produire plus de glucose"],
+      "reponse": "Réguler la production hormonale",
+      "explication": "Il limite la production pour éviter un excès d’hormones."
+    },
+    {
+      "question": "Les hormones stéroïdes sont dérivées :",
+      "options": ["Du cholestérol", "Des acides aminés", "Du glucose", "De l’ATP"],
+      "reponse": "Du cholestérol",
+      "explication": "Les hormones stéroïdes proviennent du cholestérol."
+    },
+    {
+      "question": "Les hormones peptidiques se fixent sur :",
+      "options": ["Des récepteurs membranaires", "L’ADN", "Le cytoplasme", "Le noyau"],
+      "reponse": "Des récepteurs membranaires",
+      "explication": "Elles ne traversent pas la membrane et agissent via des récepteurs externes."
+    },
+    {
+      "question": "L’hormone de croissance est produite par :",
+      "options": ["L’hypophyse", "La thyroïde", "Le pancréas", "Les surrénales"],
+      "reponse": "L’hypophyse",
+      "explication": "Elle stimule la croissance et le développement du corps."
+    },
+    {
+      "question": "Quelle hormone est impliquée dans la régulation du calcium sanguin ?",
+      "options": ["Parathormone", "Insuline", "Adrénaline", "Cortisol"],
+      "reponse": "Parathormone",
+      "explication": "La parathormone augmente le calcium sanguin."
+    },
+    {
+      "question": "Lequel de ces organes sécrète une hormone qui prépare l’organisme à l’effort ?",
+      "options": ["Glandes surrénales", "Pancréas", "Hypophyse", "Thyroïde"],
+      "reponse": "Glandes surrénales",
+      "explication": "Les surrénales libèrent l’adrénaline en situation de stress."
+    },
+    {
+      "question": "Le rétrocontrôle négatif sert à :",
+      "options": ["Maintenir l’équilibre hormonal", "Accélérer la production d’hormones", "Bloquer la circulation sanguine", "Augmenter la glycémie"],
+      "reponse": "Maintenir l’équilibre hormonal",
+      "explication": "Il évite les excès ou carences hormonales."
+    },
+    {
+      "question": "Quel organe sécrète l’érythropoïétine qui stimule la production de globules rouges ?",
+      "options": ["Le rein", "Le foie", "Le cœur", "Le cerveau"],
+      "reponse": "Le rein",
+      "explication": "Le rein libère cette hormone en cas d’hypoxie."
+    },
+    {
+      "question": "Lequel de ces organes n’est pas une glande endocrine ?",
+      "options": ["Estomac", "Thyroïde", "Hypophyse", "Surrénales"],
+      "reponse": "Estomac",
+      "explication": "L’estomac est une glande digestive, pas endocrine."
+    },
+    {
+      "question": "La relation humorale est différente de la relation nerveuse car :",
+      "options": ["Elle est plus lente et plus durable", "Elle est plus rapide", "Elle utilise des influx électriques", "Elle ne fait pas intervenir d’hormones"],
+      "reponse": "Elle est plus lente et plus durable",
+      "explication": "Les hormones circulent dans le sang et agissent lentement."
+    }
+  ]
+}

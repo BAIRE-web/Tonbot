@@ -33,6 +33,30 @@
       "titre": "Développement en Afrique"
     },
     {
+      "id": "secteur_primaire",
+      "titre": "Secteur primaire"
+    },
+    {
+      "id": "secteur_secondaire",
+      "titre": "Secteur secondaire"
+    },
+    {
+      "id": "secteur_tertiaire",
+      "titre": "Secteur tertiaire"
+    },
+    {
+      "id": "dissertation",
+      "titre": "Dissertation"
+    },
+    {
+      "id": "commentaire",
+      "titre": "Commentaire"
+    },
+    {
+      "id": "migrations",
+      "titre": "Migrations"
+    },
+    {
       "id": "geographie_monde",
       "titre": "Géographie du monde"
     },

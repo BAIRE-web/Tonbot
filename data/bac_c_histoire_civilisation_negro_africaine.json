@@ -1,0 +1,154 @@
+{
+  "qcm": [
+    {
+      "question": "Qu'est-ce que la civilisation Négro-africaine ?",
+      "options": ["Un ensemble de cultures et sociétés africaines subsahariennes", "Une civilisation d’Afrique du Nord", "Une société européenne en Afrique", "Une culture asiatique en Afrique"],
+      "reponse": "Un ensemble de cultures et sociétés africaines subsahariennes",
+      "explication": "La civilisation Négro-africaine regroupe les peuples et cultures de l’Afrique subsaharienne."
+    },
+    {
+      "question": "Quelle grande civilisation a existé en Afrique de l’Ouest avant l’arrivée des Européens ?",
+      "options": ["L’empire du Mali", "L’empire romain", "La civilisation maya", "L’empire inca"],
+      "reponse": "L’empire du Mali",
+      "explication": "L’empire du Mali fut une puissance majeure en Afrique de l’Ouest au Moyen Âge."
+    },
+    {
+      "question": "Quelle était la capitale de l’empire du Mali ?",
+      "options": ["Timbuktu", "Le Caire", "Marrakech", "Gao"],
+      "reponse": "Timbuktu",
+      "explication": "Timbuktu était un centre commercial et intellectuel important."
+    },
+    {
+      "question": "Quel célèbre roi du Mali est connu pour son pèlerinage à La Mecque ?",
+      "options": ["Mansa Musa", "Sundiata Keita", "Askia Mohamed", "Soundiata"],
+      "reponse": "Mansa Musa",
+      "explication": "Mansa Musa est célèbre pour sa richesse et son pèlerinage grandiose à La Mecque."
+    },
+    {
+      "question": "Quel fleuve a été central pour les civilisations négro-africaines de l’Ouest ?",
+      "options": ["Le Niger", "Le Nil", "Le Congo", "Le Zambèze"],
+      "reponse": "Le Niger",
+      "explication": "Le fleuve Niger a favorisé le commerce et l’agriculture dans la région."
+    },
+    {
+      "question": "Qu’est-ce que la Route de l’or ?",
+      "options": ["Un réseau commercial d’or en Afrique de l’Ouest", "Une route en Afrique du Nord", "Une route maritime européenne", "Une route asiatique"],
+      "reponse": "Un réseau commercial d’or en Afrique de l’Ouest",
+      "explication": "Cette route facilitait l’échange d’or contre du sel et d’autres marchandises."
+    },
+    {
+      "question": "Quelle langue était utilisée dans les échanges commerciaux en Afrique de l’Ouest médiévale ?",
+      "options": ["Le berbère", "Le swahili", "Le mandingue", "Le zoulou"],
+      "reponse": "Le mandingue",
+      "explication": "Le mandingue était une langue véhiculaire dans la région."
+    },
+    {
+      "question": "Quel empire a succédé à l’empire du Mali ?",
+      "options": ["L’empire Songhaï", "L’empire romain", "L’empire ottoman", "L’empire aztèque"],
+      "reponse": "L’empire Songhaï",
+      "explication": "L’empire Songhaï a dominé la région après la chute du Mali."
+    },
+    {
+      "question": "Quel était le centre religieux et intellectuel majeur de l’empire Songhaï ?",
+      "options": ["Timbuktu", "Le Caire", "Kano", "Le Cap"],
+      "reponse": "Timbuktu",
+      "explication": "Timbuktu était un centre d’enseignement islamique réputé."
+    },
+    {
+      "question": "Quel système économique caractérisait la civilisation négro-africaine ?",
+      "options": ["Commerce transsaharien", "Économie industrielle", "Agriculture de plantation", "Capitalisme moderne"],
+      "reponse": "Commerce transsaharien",
+      "explication": "Le commerce transsaharien reliait l’Afrique subsaharienne au Maghreb."
+    },
+    {
+      "question": "Quels produits étaient échangés sur la Route transsaharienne ?",
+      "options": ["Or, sel, ivoire, esclaves", "Coton, épices, soie", "Or, argent, cuivre", "Sel, blé, riz"],
+      "reponse": "Or, sel, ivoire, esclaves",
+      "explication": "Ces marchandises étaient les principales richesses échangées."
+    },
+    {
+      "question": "Quel est le rôle de l’art dans la civilisation négro-africaine ?",
+      "options": ["Exprimer la spiritualité et la culture", "Simple décoration", "Usage militaire", "Commerce international"],
+      "reponse": "Exprimer la spiritualité et la culture",
+      "explication": "L’art est central dans la transmission des valeurs et croyances."
+    },
+    {
+      "question": "Quels matériaux étaient souvent utilisés pour les sculptures africaines traditionnelles ?",
+      "options": ["Bois, bronze, terre cuite", "Marbre, acier, verre", "Plastique, métal, béton", "Papier, tissu, cuir"],
+      "reponse": "Bois, bronze, terre cuite",
+      "explication": "Ces matériaux étaient façonnés pour des œuvres rituelles et artistiques."
+    },
+    {
+      "question": "La société négro-africaine traditionnelle était souvent organisée en :",
+      "options": ["Clans et lignages", "Villes-États", "Empires coloniaux", "Républiques modernes"],
+      "reponse": "Clans et lignages",
+      "explication": "La famille élargie et les groupes de parenté structuraient la société."
+    },
+    {
+      "question": "Quelle était la place de l’oralité dans la civilisation négro-africaine ?",
+      "options": ["Transmission des savoirs et histoires", "Simple divertissement", "Peu importante", "Oubliée rapidement"],
+      "reponse": "Transmission des savoirs et histoires",
+      "explication": "Les griots transmettaient l’histoire et la culture oralement."
+    },
+    {
+      "question": "Qui sont les griots ?",
+      "options": ["Les conteurs et historiens traditionnels", "Les guerriers", "Les rois", "Les commerçants"],
+      "reponse": "Les conteurs et historiens traditionnels",
+      "explication": "Ils jouent un rôle clé dans la mémoire collective."
+    },
+    {
+      "question": "Quelle est la principale religion traditionnelle en Afrique subsaharienne avant l’arrivée des monothéismes ?",
+      "options": ["Animisme", "Christianisme", "Islam", "Bouddhisme"],
+      "reponse": "Animisme",
+      "explication": "Les croyances animistes relient les forces de la nature et les ancêtres."
+    },
+    {
+      "question": "Quel est le rôle des ancêtres dans la civilisation négro-africaine traditionnelle ?",
+      "options": ["Médiateurs entre vivants et divins", "Pas de rôle particulier", "Dirigeants politiques", "Commerçants"],
+      "reponse": "Médiateurs entre vivants et divins",
+      "explication": "Les ancêtres sont vénérés et influencent la vie quotidienne."
+    },
+    {
+      "question": "Quels sont les instruments de musique traditionnels populaires ?",
+      "options": ["Djembé, balafon, kora", "Piano, violon, guitare", "Flûte, trompette, saxophone", "Batterie, basse, synthétiseur"],
+      "reponse": "Djembé, balafon, kora",
+      "explication": "Ces instruments sont au cœur des cérémonies et danses."
+    },
+    {
+      "question": "Quelle est l’importance du commerce dans la civilisation négro-africaine ?",
+      "options": ["Essentiel pour le développement économique et culturel", "Peu important", "Exclusivement local", "Interdit"],
+      "reponse": "Essentiel pour le développement économique et culturel",
+      "explication": "Les échanges commerciaux ont façonné les sociétés africaines."
+    },
+    {
+      "question": "Quel est le rôle des femmes dans les sociétés traditionnelles négro-africaines ?",
+      "options": ["Gestion domestique, artisanat, commerce", "Pas de rôle", "Uniquement religieuses", "Dirigeantes politiques"],
+      "reponse": "Gestion domestique, artisanat, commerce",
+      "explication": "Les femmes participent activement à la vie économique et sociale."
+    },
+    {
+      "question": "Qu’est-ce que la divination dans la civilisation négro-africaine ?",
+      "options": ["Pratique spirituelle pour comprendre l’avenir", "Jeu", "Science moderne", "Politique"],
+      "reponse": "Pratique spirituelle pour comprendre l’avenir",
+      "explication": "La divination aide à prendre des décisions importantes."
+    },
+    {
+      "question": "Quelle influence a eu l’islam sur la civilisation négro-africaine ?",
+      "options": ["Diffusion du savoir, commerce et religion", "Peu d’influence", "Conquête militaire uniquement", "Colonisation européenne"],
+      "reponse": "Diffusion du savoir, commerce et religion",
+      "explication": "L’islam s’est implanté par le commerce et a influencé la culture."
+    },
+    {
+      "question": "Quel est l’impact de la colonisation européenne sur la civilisation négro-africaine ?",
+      "options": ["Transformation sociale, économique et politique profonde", "Aucune influence", "Unification pacifique", "Développement technologique immédiat"],
+      "reponse": "Transformation sociale, économique et politique profonde",
+      "explication": "La colonisation a bouleversé les structures traditionnelles."
+    },
+    {
+      "question": "Quel est l’héritage principal des civilisations négro-africaines aujourd’hui ?",
+      "options": ["Culture, langues, arts et traditions", "Technologie moderne", "Structures politiques européennes", "Système économique asiatique"],
+      "reponse": "Culture, langues, arts et traditions",
+      "explication": "Ces héritages continuent d’influencer la société africaine contemporaine."
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la définition de ln(x) ?",
+      "options": ["La primitive de 1/x sur ]0;+∞[", "La dérivée de x", "Le carré de x", "La primitive de x"],
+      "reponse": "La primitive de 1/x sur ]0;+∞[",
+      "explication": "Le logarithme népérien ln(x) est défini comme la primitive de 1/x sur l’intervalle ]0 ; +∞[ telle que ln(1) = 0."
+    },
+    {
+      "question": "Quelle est la valeur de ln(1) ?",
+      "options": ["0", "1", "e", "-1"],
+      "reponse": "0",
+      "explication": "Par définition, ln(1) = 0."
+    },
+    {
+      "question": "Quelle est la valeur de ln(e) ?",
+      "options": ["1", "0", "e", "e^2"],
+      "reponse": "1",
+      "explication": "Par définition, ln(e) = 1 car e est la base du logarithme népérien."
+    },
+    {
+      "question": "ln(a × b) est égal à :",
+      "options": ["ln(a) + ln(b)", "ln(a - b)", "ln(a) × ln(b)", "ln(a) / ln(b)"],
+      "reponse": "ln(a) + ln(b)",
+      "explication": "Formule : ln(a × b) = ln(a) + ln(b)."
+    },
+    {
+      "question": "ln(a / b) est égal à :",
+      "options": ["ln(a) - ln(b)", "ln(a + b)", "ln(a) × ln(b)", "ln(b) - ln(a)"],
+      "reponse": "ln(a) - ln(b)",
+      "explication": "Formule : ln(a / b) = ln(a) - ln(b)."
+    },
+    {
+      "question": "ln(a^n) est égal à :",
+      "options": ["n × ln(a)", "a × ln(n)", "ln(a) + n", "n / ln(a)"],
+      "reponse": "n × ln(a)",
+      "explication": "Formule : ln(a^n) = n × ln(a)."
+    },
+    {
+      "question": "ln(√a) peut s’écrire comme :",
+      "options": ["(1/2) × ln(a)", "ln(a)^2", "ln(a) / 2", "2 × ln(a)"],
+      "reponse": "(1/2) × ln(a)",
+      "explication": "Puisque √a = a^(1/2), alors ln(√a) = ln(a^(1/2)) = (1/2) × ln(a)."
+    },
+    {
+      "question": "Domaine de définition de ln(x) ?",
+      "options": ["x > 0", "x ≥ 0", "x ∈ ℝ", "x < 0"],
+      "reponse": "x > 0",
+      "explication": "ln(x) est défini uniquement pour x strictement positif."
+    },
+    {
+      "question": "ln(e^x) est égal à :",
+      "options": ["x", "e", "1", "ln(x)"],
+      "reponse": "x",
+      "explication": "ln(e^x) = x car ln et exp sont des fonctions réciproques."
+    },
+    {
+      "question": "e^(ln(x)) est égal à :",
+      "options": ["x", "e", "ln(x)", "1/x"],
+      "reponse": "x",
+      "explication": "e^(ln(x)) = x car ln et exp sont des fonctions réciproques."
+    },
+
+    {
+      "question": "Dérivée de ln(x) ?",
+      "options": ["1/x", "x", "ln(x)", "x^2"],
+      "reponse": "1/x",
+      "explication": "La dérivée de ln(x) est 1/x pour x > 0."
+    },
+    {
+      "question": "ln(e^3) = ?",
+      "options": ["3", "1", "0", "e^3"],
+      "reponse": "3",
+      "explication": "ln(e^3) = 3 car ln(e^a) = a."
+    },
+    {
+      "question": "ln(1/e) = ?",
+      "options": ["-1", "0", "1", "e"],
+      "reponse": "-1",
+      "explication": "ln(1/e) = ln(e^-1) = -1 × ln(e) = -1."
+    },
+    {
+      "question": "ln(e^x × e^y) = ?",
+      "options": ["x + y", "xy", "x - y", "e^(x + y)"],
+      "reponse": "x + y",
+      "explication": "ln(e^x × e^y) = ln(e^(x + y)) = x + y."
+    },
+    {
+      "question": "Si ln(x) = 2, alors x = ?",
+      "options": ["e^2", "2e", "ln(2)", "4"],
+      "reponse": "e^2",
+      "explication": "On passe à l’exponentielle : x = e^2."
+    },
+    {
+      "question": "Lim x→0+ de ln(x) ?",
+      "options": ["-∞", "+∞", "0", "1"],
+      "reponse": "-∞",
+      "explication": "Quand x tend vers 0 par la droite, ln(x) tend vers -∞."
+    },
+    {
+      "question": "ln(a^b × b^a) = ?",
+      "options": ["a × ln(b) + b × ln(a)", "ln(a × b)", "a + b", "a × b"],
+      "reponse": "a × ln(b) + b × ln(a)",
+      "explication": "ln(a^b × b^a) = b ln(a) + a ln(b)."
+    },
+    {
+      "question": "ln(x^2) = ?",
+      "options": ["2ln(x)", "x^2ln(x)", "ln(2x)", "ln(x) + ln(x)"],
+      "reponse": "2ln(x)",
+      "explication": "Formule : ln(x^2) = 2 × ln(x)."
+    },
+    {
+      "question": "ln(e^(-x)) = ?",
+      "options": ["-x", "x", "e", "-e^x"],
+      "reponse": "-x",
+      "explication": "ln(e^(-x)) = -x car ln(e^a) = a."
+    },
+    {
+      "question": "ln(a) = ln(b) ⇒ ?",
+      "options": ["a = b", "a = 1/b", "a = ln(b)", "a > b"],
+      "reponse": "a = b",
+      "explication": "La fonction ln est strictement croissante, donc injective : ln(a) = ln(b) ⇒ a = b."
+    },
+    {
+      "question": "ln(e^x + 1) est-il égal à ln(e^x) + ln(1) ?",
+      "options": ["Non", "Oui", "Toujours", "Seulement si x=0"],
+      "reponse": "Non",
+      "explication": "ln(a + b) ≠ ln(a) + ln(b)."
+    },
+    {
+      "question": "ln(x) + ln(y) = ?",
+      "options": ["ln(xy)", "ln(x + y)", "x + y", "ln(x) × ln(y)"],
+      "reponse": "ln(xy)",
+      "explication": "Formule classique : ln(x) + ln(y) = ln(x × y)."
+    },
+    {
+      "question": "ln(e^(x+1)) = ?",
+      "options": ["x + 1", "x", "1", "e^(x+1)"],
+      "reponse": "x + 1",
+      "explication": "ln(e^(x+1)) = x + 1."
+    },
+    {
+      "question": "ln(9) peut se réécrire :",
+      "options": ["2ln(3)", "ln(3)", "3ln(2)", "ln(6)"],
+      "reponse": "2ln(3)",
+      "explication": "ln(9) = ln(3^2) = 2ln(3)."
+    },
+    {
+      "question": "ln(27) = ?",
+      "options": ["3ln(3)", "ln(9)", "2ln(3)", "ln(3)"],
+      "reponse": "3ln(3)",
+      "explication": "ln(27) = ln(3^3) = 3ln(3)."
+    },
+    {
+      "question": "ln(a) - ln(b) = ?",
+      "options": ["ln(a/b)", "ln(a × b)", "a - b", "a / b"],
+      "reponse": "ln(a/b)",
+      "explication": "Formule classique : ln(a) - ln(b) = ln(a / b)."
+    },
+    {
+      "question": "ln(0.5) est :",
+      "options": ["négatif", "positif", "nul", "non défini"],
+      "reponse": "négatif",
+      "explication": "0.5 < 1 donc ln(0.5) < 0."
+    },
+    {
+      "question": "ln(x^1/3) peut aussi s’écrire :",
+      "options": ["(1/3)ln(x)", "ln(x)/3", "3ln(x)", "ln(3x)"],
+      "reponse": "(1/3)ln(x)",
+      "explication": "ln(x^(1/3)) = (1/3)ln(x)."
+    },
+    {
+      "question": "ln(e^x / e^2) = ?",
+      "options": ["x - 2", "x + 2", "ln(x/2)", "2 - x"],
+      "reponse": "x - 2",
+      "explication": "ln(e^x / e^2) = ln(e^(x - 2)) = x - 2."
+    },
+    {
+      "question": "Résoudre dans ℝ : ln(x²) = 2ln(x).",
+      "options": ["x ∈ ℝ*", "x > 0", "x ∈ ]0 ; +∞[", "x ∈ ℝ\\{0}"],
+      "reponse": "x ∈ ]0 ; +∞[",
+      "explication": "ln(x²) = 2ln|x| donc l’égalité est vraie pour x > 0."
+    },
+    {
+      "question": "f(x) = ln(x) - x + 2. Quel est son minimum sur ]0 ; +∞[ ?",
+      "options": ["1", "0", "2ln(1)", "ln(1) - 1 + 2"],
+      "reponse": "1",
+      "explication": "Minimum atteint en x = 1, f(1) = ln(1) - 1 + 2 = 1."
+    },
+    {
+      "question": "La fonction f(x) = xln(x) est :",
+      "options": ["Croissante sur ]0; +∞[", "Décroissante sur ℝ⁺", "Décroissante sur ]0; 1/e[", "Croissante sur ℝ"],
+      "reponse": "Croissante sur ]1/e ; +∞[",
+      "explication": "f'(x) = ln(x) + 1, donc f croît pour x > 1/e."
+    },
+    {
+      "question": "lim x→+∞ ln(x)/x = ?",
+      "options": ["0", "1", "∞", "Indéfini"],
+      "reponse": "0",
+      "explication": "Croissance comparée : ln(x) << x, donc le rapport tend vers 0."
+    },
+    {
+      "question": "Résoudre : ln(x² - 1) > 0.",
+      "options": ["x ∈ ]-∞;-√e[ ∪ ]√e;+∞[", "x ∈ ]1; +∞[ ∪ ]-∞; -1[", "x ∈ ]-1;1[", "x ∈ ]-√e; √e["],
+      "reponse": "x ∈ ]1; +∞[ ∪ ]-∞; -1[",
+      "explication": "ln(x² - 1) > 0 ⇔ x² - 1 > 1 ⇔ x² > 2 ⇔ x > √2 ou x < -√2."
+    },
+    {
+      "question": "Pour tout x > 0 : ln(1 + x) < x est :",
+      "options": ["Vraie", "Fausse", "Vraie seulement pour x > 1", "Toujours fausse"],
+      "reponse": "Vraie",
+      "explication": "Inégalité classique : ln(1 + x) < x pour x > 0."
+    },
+    {
+      "question": "lim x→1 ln(x)/(x - 1) = ?",
+      "options": ["1", "0", "∞", "2"],
+      "reponse": "1",
+      "explication": "C’est la définition de la dérivée de ln(x) en 1, qui vaut 1."
+    },
+    {
+      "question": "La fonction f(x) = ln(x² + 1) est :",
+      "options": ["Convexe sur ℝ", "Concave sur ℝ", "Ni convexe ni concave", "Convexe uniquement sur ℝ⁺"],
+      "reponse": "Concave sur ℝ",
+      "explication": "f''(x) < 0 donc f est concave."
+    },
+    {
+      "question": "Résoudre : ln(x) + ln(x + 1) = ln(6).",
+      "options": ["x = 2", "x = 1", "x = 3", "x = 0"],
+      "reponse": "x = 2",
+      "explication": "ln(x(x + 1)) = ln(6) ⇒ x² + x = 6 ⇒ x = 2."
+    },
+    {
+      "question": "Pour x > 0, ln(x) ≤ x - 1 est :",
+      "options": ["Toujours vraie", "Toujours fausse", "Vraie pour x > 1", "Fausse pour x = 1"],
+      "reponse": "Toujours vraie",
+      "explication": "Inégalité fondamentale : ln(x) ≤ x - 1 pour tout x > 0."
+    },
+    {
+      "question": "f(x) = ln(x)/x : son extremum est atteint en ?",
+      "options": ["x = e", "x = 1", "x = 0", "x = 2"],
+      "reponse": "x = e",
+      "explication": "f'(x) = (1 - ln(x))/x² ⇒ s’annule pour x = e."
+    },
+    {
+      "question": "Pour x proche de 0 : ln(1 + x) ≈ ?",
+      "options": ["x - x²/2", "x + x²/2", "1 + x", "x - 1"],
+      "reponse": "x - x²/2",
+      "explication": "Développement limité : ln(1 + x) ≈ x - x²/2 pour x ≈ 0."
+    },
+    {
+      "question": "ln(x) = 1 - x admet :",
+      "options": ["Une unique solution", "Deux solutions", "Pas de solution", "Infinité de solutions"],
+      "reponse": "Une unique solution",
+      "explication": "La fonction f(x) = ln(x) - 1 + x est strictement croissante ⇒ une seule solution."
+    },
+    {
+      "question": "f(x) = ln(x + 1) - ln(x) est :",
+      "options": ["Décroissante sur ]0 ; +∞[", "Croissante", "Constante", "Nulle"],
+      "reponse": "Décroissante sur ]0 ; +∞[",
+      "explication": "f'(x) = 1/(x + 1) - 1/x < 0."
+    },
+    {
+      "question": "Dérivée de f(x) = ln(x - 1) est définie sur :",
+      "options": ["]1 ; +∞[", "ℝ", "]0 ; +∞[", "[1 ; +∞["],
+      "reponse": "]1 ; +∞[",
+      "explication": "f(x) = ln(x - 1) est définie si x - 1 > 0 ⇔ x > 1."
+    },
+    {
+      "question": "ln(x) ≥ x - 1 est :",
+      "options": ["Fausse", "Toujours vraie", "Vraie pour x < 1", "Vraie uniquement si x = 1"],
+      "reponse": "Vraie pour x < 1",
+      "explication": "ln(x) ≤ x - 1 pour x > 0, donc l'inverse est vraie pour x < 1."
+    },
+    {
+      "question": "Étude de f(x) = ln(x² + 1) - ln(x + 1) : f est définie sur ?",
+      "options": ["ℝ", "ℝ⁺", "]0 ; +∞[", "ℝ\\{-1}"],
+      "reponse": "ℝ\\{-1}",
+      "explication": "x² + 1 > 0 toujours ; x + 1 > 0 ⇔ x ≠ -1."
+    },
+    {
+      "question": "ln(x - 1) + ln(2 - x) = 0 a une solution sur :",
+      "options": ["]1 ; 2[", "]0 ; 1[", "[2 ; ∞[", "]-∞ ; 0["],
+      "reponse": "]1 ; 2[",
+      "explication": "Les deux ln sont définis ⇔ x ∈ ]1 ; 2[."
+    },
+    {
+      "question": "DL de ln(x) en 1 à l’ordre 2 :",
+      "options": ["x - 1 - (x - 1)²/2", "x - 1 + (x - 1)²/2", "ln(1 + x)", "x²/2 - x"],
+      "reponse": "x - 1 - (x - 1)²/2",
+      "explication": "DL : ln(x) = x - 1 - (x - 1)²/2 + o((x - 1)²)."
+    },
+    {
+      "question": "ln(x) = 1/x admet :",
+      "options": ["Une seule solution", "Deux solutions", "Aucune solution", "Infinité de solutions"],
+      "reponse": "Une seule solution",
+      "explication": "ln(x) - 1/x est strictement croissante après un minimum ⇒ une seule intersection."
+    }
+  ]
+}

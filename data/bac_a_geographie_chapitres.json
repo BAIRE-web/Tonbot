@@ -33,6 +33,34 @@
       "titre": "Grands ensembles mondiaux"
     },
     {
+      "id": "secteur_primaire",
+      "titre": "Secteur primaire"
+    },
+    {
+      "id": "secteur_secondaire",
+      "titre": "Secteur secondaire"
+    },
+    {
+      "id": "secteur_tertiaire",
+      "titre": "Secteur tertiaire"
+    },
+    {
+      "id": "afrique_sud",
+      "titre": "Afrique du sud"
+    },
+    {
+      "id": "nigeria",
+      "titre": "Nigeria"
+    },
+    {
+      "id": "dissertation",
+      "titre": "Dissertation"
+    },
+    {
+      "id": "commentaire",
+      "titre": "Commentaire"
+    },
+    {
       "id": "grandes_puissances",
       "titre": "Grandes puissances"
     },

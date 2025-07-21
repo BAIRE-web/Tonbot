@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la fonction principale du cœur ?",
+      "options": ["Pomper le sang dans tout le corps", "Produire des hormones", "Filtrer le sang", "Stocker l’oxygène"],
+      "reponse": "Pomper le sang dans tout le corps",
+      "explication": "Le cœur agit comme une pompe pour assurer la circulation sanguine."
+    },
+    {
+      "question": "Le rythme cardiaque normal au repos est d'environ :",
+      "options": ["60 à 80 battements par minute", "30 à 40 bpm", "100 à 120 bpm", "150 à 180 bpm"],
+      "reponse": "60 à 80 battements par minute",
+      "explication": "Le rythme moyen au repos se situe entre 60 et 80 bpm."
+    },
+    {
+      "question": "Le nœud sinusal est situé :",
+      "options": ["Dans l’oreillette droite", "Dans le ventricule gauche", "Dans le ventricule droit", "Dans l’oreillette gauche"],
+      "reponse": "Dans l’oreillette droite",
+      "explication": "Le nœud sinusal est le pacemaker naturel situé dans l’oreillette droite."
+    },
+    {
+      "question": "Le rôle du nœud sinusal est de :",
+      "options": ["Générer l’impulsion électrique cardiaque", "Contracter les ventricules", "Réceptionner le sang", "Réguler la pression sanguine"],
+      "reponse": "Générer l’impulsion électrique cardiaque",
+      "explication": "Le nœud sinusal initie le battement cardiaque."
+    },
+    {
+      "question": "Quelle structure transmet l’impulsion du nœud sinusal aux ventricules ?",
+      "options": ["Nœud auriculo-ventriculaire", "Nerf vague", "Artère coronaire", "Veine cave"],
+      "reponse": "Nœud auriculo-ventriculaire",
+      "explication": "Le nœud auriculo-ventriculaire relaie l’impulsion vers les ventricules."
+    },
+    {
+      "question": "Le nerf vague agit sur le cœur en :",
+      "options": ["Ralentissant le rythme cardiaque", "Accélérant le rythme cardiaque", "Augmentant la pression artérielle", "Réduisant le débit sanguin"],
+      "reponse": "Ralentissant le rythme cardiaque",
+      "explication": "Le nerf vague exerce une action parasympathique qui ralentit le cœur."
+    },
+    {
+      "question": "Le système nerveux sympathique agit sur le cœur en :",
+      "options": ["Accélérant le rythme cardiaque", "Ralentissant le rythme cardiaque", "Bloquant la contraction", "Diminuant la pression artérielle"],
+      "reponse": "Accélérant le rythme cardiaque",
+      "explication": "Le système sympathique augmente la fréquence et la force des contractions."
+    },
+    {
+      "question": "Quelle hormone peut augmenter le rythme cardiaque ?",
+      "options": ["Adrénaline", "Insuline", "Ocytocine", "Testostérone"],
+      "reponse": "Adrénaline",
+      "explication": "L’adrénaline stimule le cœur pour augmenter la fréquence cardiaque."
+    },
+    {
+      "question": "Le terme 'systole' désigne :",
+      "options": ["La contraction du cœur", "Le repos du cœur", "La dilatation des vaisseaux", "La relaxation des muscles"],
+      "reponse": "La contraction du cœur",
+      "explication": "La systole correspond à la phase de contraction cardiaque."
+    },
+    {
+      "question": "Le terme 'diastole' désigne :",
+      "options": ["La relaxation du cœur", "La contraction du cœur", "La montée du sang dans les artères", "L’influx nerveux"],
+      "reponse": "La relaxation du cœur",
+      "explication": "La diastole est la phase de repos et de remplissage des cavités."
+    },
+    {
+      "question": "Le volume de sang éjecté par le cœur en une minute s’appelle :",
+      "options": ["Le débit cardiaque", "Le volume systolique", "La pression artérielle", "La fréquence cardiaque"],
+      "reponse": "Le débit cardiaque",
+      "explication": "Le débit cardiaque est le volume de sang pompé par minute."
+    },
+    {
+      "question": "Le volume de sang éjecté par une seule contraction ventriculaire s’appelle :",
+      "options": ["Le volume systolique", "Le débit cardiaque", "La pression artérielle", "La fréquence cardiaque"],
+      "reponse": "Le volume systolique",
+      "explication": "Le volume systolique correspond au sang expulsé par contraction."
+    },
+    {
+      "question": "Les artères coronaires ont pour rôle de :",
+      "options": ["Irriguer le muscle cardiaque", "Transporter le sang vers le cerveau", "Ramener le sang au cœur", "Filtrer le sang"],
+      "reponse": "Irriguer le muscle cardiaque",
+      "explication": "Elles apportent l’oxygène nécessaire au cœur."
+    },
+    {
+      "question": "La fréquence cardiaque peut être mesurée en :",
+      "options": ["Bpm (battements par minute)", "Hz", "Volts", "Decibels"],
+      "reponse": "Bpm (battements par minute)",
+      "explication": "Le rythme cardiaque est exprimé en bpm."
+    },
+    {
+      "question": "Le rôle du système parasympathique dans la régulation cardiaque est de :",
+      "options": ["Ralentir le rythme cardiaque", "Augmenter le débit sanguin", "Augmenter la force de contraction", "Bloquer la circulation"],
+      "reponse": "Ralentir le rythme cardiaque",
+      "explication": "Le parasympathique agit pour calmer le cœur."
+    },
+    {
+      "question": "Le système nerveux sympathique agit sur le cœur par :",
+      "options": ["Libération de noradrénaline", "Libération d’acétylcholine", "Libération d’adrénaline uniquement", "Bloquer les influx nerveux"],
+      "reponse": "Libération de noradrénaline",
+      "explication": "Le sympathique libère de la noradrénaline qui stimule le cœur."
+    },
+    {
+      "question": "La phase de contraction des oreillettes précède :",
+      "options": ["La contraction des ventricules", "La diastole", "La relaxation générale", "La fermeture des valves mitrale et tricuspide"],
+      "reponse": "La contraction des ventricules",
+      "explication": "Les oreillettes se contractent avant les ventricules pour les remplir."
+    },
+    {
+      "question": "Le cœur est composé de combien de cavités ?",
+      "options": ["4", "2", "3", "1"],
+      "reponse": "4",
+      "explication": "Le cœur possède 2 oreillettes et 2 ventricules."
+    },
+    {
+      "question": "Quelle est la fonction des valves cardiaques ?",
+      "options": ["Empêcher le reflux du sang", "Produire des impulsions électriques", "Contracter le cœur", "Nourrir le muscle cardiaque"],
+      "reponse": "Empêcher le reflux du sang",
+      "explication": "Les valves assurent la circulation unidirectionnelle."
+    },
+    {
+      "question": "Qu’est-ce que la pression artérielle ?",
+      "options": ["La force exercée par le sang sur les parois des artères", "La quantité de sang pompée", "La fréquence des battements", "La vitesse du sang dans les veines"],
+      "reponse": "La force exercée par le sang sur les parois des artères",
+      "explication": "C’est la pression sanguine dans les artères."
+    },
+    {
+      "question": "Le centre cardiaque qui régule le rythme se trouve dans :",
+      "options": ["Le bulbe rachidien", "Le cerveau", "Le cœur", "La moelle épinière"],
+      "reponse": "Le bulbe rachidien",
+      "explication": "Le centre cardiaque contrôle le rythme via les nerfs."
+    },
+    {
+      "question": "L’augmentation de la fréquence cardiaque s’appelle :",
+      "options": ["Tachycardie", "Bradycardie", "Hypertension", "Hypotension"],
+      "reponse": "Tachycardie",
+      "explication": "Tachycardie = fréquence cardiaque élevée."
+    },
+    {
+      "question": "La diminution de la fréquence cardiaque s’appelle :",
+      "options": ["Bradycardie", "Tachycardie", "Hypotension", "Hypertension"],
+      "reponse": "Bradycardie",
+      "explication": "Bradycardie = fréquence cardiaque basse."
+    },
+    {
+      "question": "La phase de remplissage des ventricules correspond à :",
+      "options": ["La diastole ventriculaire", "La systole ventriculaire", "La contraction auriculaire", "La fermeture des valves"],
+      "reponse": "La diastole ventriculaire",
+      "explication": "Les ventricules se remplissent pendant leur phase de repos."
+    },
+    {
+      "question": "Quel organe perçoit les variations de pression artérielle ?",
+      "options": ["Barorécepteurs", "Chémorécepteurs", "Photorécepteurs", "Mécanorécepteurs"],
+      "reponse": "Barorécepteurs",
+      "explication": "Ils détectent la pression sanguine et informent le cerveau."
+    },
+    {
+      "question": "Quel est l’effet principal de l’adrénaline sur le cœur ?",
+      "options": ["Augmentation du rythme et de la force de contraction", "Diminution du rythme cardiaque", "Relaxation des muscles cardiaques", "Blocage du rythme cardiaque"],
+      "reponse": "Augmentation du rythme et de la force de contraction",
+      "explication": "L’adrénaline prépare le corps à l’effort."
+    },
+    {
+      "question": "Le volume d’éjection systolique dépend de :",
+      "options": ["La force de contraction ventriculaire", "La fréquence cardiaque", "La pression artérielle", "Le diamètre des veines"],
+      "reponse": "La force de contraction ventriculaire",
+      "explication": "Plus la contraction est forte, plus le volume éjecté est grand."
+    },
+    {
+      "question": "Le retour veineux influence :",
+      "options": ["Le volume systolique", "La fréquence cardiaque", "La pression artérielle", "La taille du cœur"],
+      "reponse": "Le volume systolique",
+      "explication": "Un retour veineux important augmente le volume éjecté."
+    },
+    {
+      "question": "Quel organe génère l’impulsion électrique à l’origine du battement cardiaque ?",
+      "options": ["Nœud sinusal", "Nœud auriculo-ventriculaire", "Nerf vague", "Muscle cardiaque"],
+      "reponse": "Nœud sinusal",
+      "explication": "Le nœud sinusal est le pacemaker naturel du cœur."
+    },
+    {
+      "question": "Quel système nerveux ralentit le rythme cardiaque ?",
+      "options": ["Système parasympathique", "Système sympathique", "Système moteur", "Système somatique"],
+      "reponse": "Système parasympathique",
+      "explication": "Le nerf vague, partie du parasympathique, ralentit le cœur."
+    },
+    {
+      "question": "Quelle hormone augmente la fréquence cardiaque ?",
+      "options": ["Adrénaline", "Insuline", "Glucagon", "Ocytocine"],
+      "reponse": "Adrénaline",
+      "explication": "L’adrénaline stimule le cœur pour préparer à l’effort."
+    },
+    {
+      "question": "La phase de contraction des ventricules s’appelle :",
+      "options": ["Systole ventriculaire", "Diastole ventriculaire", "Systole auriculaire", "Diastole auriculaire"],
+      "reponse": "Systole ventriculaire",
+      "explication": "Les ventricules se contractent pour éjecter le sang."
+    },
+    {
+      "question": "Le débit cardiaque correspond à :",
+      "options": ["Volume de sang pompé par minute", "Fréquence cardiaque", "Pression artérielle", "Volume d’une cavité cardiaque"],
+      "reponse": "Volume de sang pompé par minute",
+      "explication": "C’est le produit du volume systolique par la fréquence cardiaque."
+    },
+    {
+      "question": "Quel est le rôle des valves cardiaques ?",
+      "options": ["Empêcher le reflux sanguin", "Produire l’impulsion électrique", "Irriguer le muscle cardiaque", "Stocker le sang"],
+      "reponse": "Empêcher le reflux sanguin",
+      "explication": "Les valves assurent une circulation unidirectionnelle."
+    },
+    {
+      "question": "Le nerf vague appartient au système :",
+      "options": ["Parasympathique", "Sympathique", "Somatique", "Autonome volontaire"],
+      "reponse": "Parasympathique",
+      "explication": "Il ralentit le rythme cardiaque en libérant de l’acétylcholine."
+    },
+    {
+      "question": "Le nœud auriculo-ventriculaire transmet l’influx électrique vers :",
+      "options": ["Les ventricules", "Les oreillettes", "Le nerf vague", "Les artères coronaires"],
+      "reponse": "Les ventricules",
+      "explication": "Il relaie l’influx pour déclencher la contraction ventriculaire."
+    },
+    {
+      "question": "Quelle est la fréquence cardiaque moyenne au repos chez l’adulte ?",
+      "options": ["70 battements par minute", "40 bpm", "120 bpm", "150 bpm"],
+      "reponse": "70 battements par minute",
+      "explication": "La fréquence cardiaque normale au repos est autour de 60-80 bpm."
+    },
+    {
+      "question": "Quel effet a le système nerveux sympathique sur le cœur ?",
+      "options": ["Augmente la fréquence et la force de contraction", "Diminue la fréquence cardiaque", "Arrête le cœur", "N’a aucun effet"],
+      "reponse": "Augmente la fréquence et la force de contraction",
+      "explication": "Le sympathique prépare le corps à l’effort en stimulant le cœur."
+    },
+    {
+      "question": "Lequel de ces éléments ne fait pas partie du système de conduction cardiaque ?",
+      "options": ["Muscle cardiaque", "Nœud sinusal", "Faisceau de His", "Fibres de Purkinje"],
+      "reponse": "Muscle cardiaque",
+      "explication": "Le muscle cardiaque est le tissu effecteur, pas une structure de conduction."
+    },
+    {
+      "question": "La pression artérielle est la force exercée par le sang sur :",
+      "options": ["Les parois des artères", "Les veines", "Les capillaires", "Le cœur"],
+      "reponse": "Les parois des artères",
+      "explication": "La pression artérielle est mesurée dans les artères."
+    },
+    {
+      "question": "Le volume d’éjection systolique correspond à :",
+      "options": ["Quantité de sang éjectée par un ventricule à chaque contraction", "Quantité de sang dans le cœur au repos", "Pression dans les artères", "Fréquence cardiaque"],
+      "reponse": "Quantité de sang éjectée par un ventricule à chaque contraction",
+      "explication": "C’est le volume de sang expulsé à chaque systole."
+    },
+    {
+      "question": "Quel organe contrôle le rythme cardiaque en intégrant les informations nerveuses ?",
+      "options": ["Bulbe rachidien", "Cœur", "Poumons", "Foie"],
+      "reponse": "Bulbe rachidien",
+      "explication": "Le bulbe rachidien ajuste le rythme en fonction des besoins."
+    },
+    {
+      "question": "L’augmentation du retour veineux provoque :",
+      "options": ["Une augmentation du volume systolique", "Une diminution de la fréquence cardiaque", "Une baisse de la pression artérielle", "Un ralentissement du rythme cardiaque"],
+      "reponse": "Une augmentation du volume systolique",
+      "explication": "Plus le retour veineux est important, plus le cœur pompe de sang."
+    },
+    {
+      "question": "Les artères coronaires ont pour fonction :",
+      "options": ["Irriguer le muscle cardiaque", "Transmettre les impulsions électriques", "Ramener le sang au cœur", "Filtrer le sang"],
+      "reponse": "Irriguer le muscle cardiaque",
+      "explication": "Elles fournissent l’oxygène au myocarde."
+    },
+    {
+      "question": "Lequel de ces nerfs a un effet inhibiteur sur le cœur ?",
+      "options": ["Nerf vague", "Nerf sympathique", "Nerf sciatique", "Nerf médian"],
+      "reponse": "Nerf vague",
+      "explication": "Le nerf vague ralentit le rythme cardiaque."
+    },
+    {
+      "question": "La bradycardie désigne :",
+      "options": ["Un ralentissement du rythme cardiaque", "Une accélération du rythme cardiaque", "Une pause cardiaque", "Un arrêt du cœur"],
+      "reponse": "Un ralentissement du rythme cardiaque",
+      "explication": "La bradycardie correspond à un rythme inférieur à 60 bpm."
+    },
+    {
+      "question": "La tachycardie désigne :",
+      "options": ["Une accélération du rythme cardiaque", "Un ralentissement du rythme cardiaque", "Une pause cardiaque", "Un arrêt du cœur"],
+      "reponse": "Une accélération du rythme cardiaque",
+      "explication": "La tachycardie correspond à un rythme supérieur à 100 bpm."
+    },
+    {
+      "question": "Le volume d’éjection systolique est influencé par :",
+      "options": ["La force de contraction ventriculaire", "La pression artérielle", "La température corporelle", "La fréquence respiratoire"],
+      "reponse": "La force de contraction ventriculaire",
+      "explication": "Une contraction plus forte augmente le volume de sang éjecté."
+    }
+  ]
+}

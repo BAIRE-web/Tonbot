@@ -57,8 +57,20 @@
       "titre": "Secteur secondaire"
     },
     {
-      "id": "secteur_tertiaire_afrique_du_sud",
-      "titre": "Secteur tertiaire Afrique du Sud"
+      "id": "secteur_tertiaire",
+      "titre": "Secteur tertiaire"
+    },
+    {
+      "id": "afrique_sud",
+      "titre": "Afrique du sud"
+    },
+    {
+      "id": "dissertation",
+      "titre": "Dissertation"
+    },
+    {
+      "id": "commentaire",
+      "titre": "Commentaire"
     },
     {
       "id": "nigeria",

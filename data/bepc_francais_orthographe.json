@@ -1,0 +1,316 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le pluriel correct du mot « animal » ?",
+      "options": ["animaux", "animals", "animal", "animauxs"],
+      "reponse": "animaux",
+      "explication": "Le pluriel de « animal » est « animaux » avec un 'x' à la fin."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["beaucoup", "bocoup", "beaucou", "beaucoup"],
+      "reponse": "beaucoup",
+      "explication": "Le mot correct est « beaucoup », signifiant 'en grande quantité'."
+    },
+    {
+      "question": "Quelle est la forme correcte ?",
+      "options": ["il a été", "il à été", "il a éte", "il a ete"],
+      "reponse": "il a été",
+      "explication": "Le participe passé 'été' s’écrit avec un accent aigu sur le premier 'e'."
+    },
+    {
+      "question": "Quel est le pluriel de « cheval » ?",
+      "options": ["chevaux", "chevals", "chevals", "chevauxs"],
+      "reponse": "chevaux",
+      "explication": "Le pluriel de 'cheval' est 'chevaux' avec un 'x'."
+    },
+    {
+      "question": "Quel est l’orthographe correcte ?",
+      "options": ["il faut", "il fautt", "il fo", "il fau"],
+      "reponse": "il faut",
+      "explication": "L’expression correcte est « il faut » avec un seul 't'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["appel", "apelle", "apell", "appelé"],
+      "reponse": "appel",
+      "explication": "Le mot correct est « appel », nom commun."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du verbe au passé composé ?",
+      "options": ["nous avons mangé", "nous avons manger", "nous avons mangés", "nous avons mangéé"],
+      "reponse": "nous avons mangé",
+      "explication": "Le participe passé 'mangé' s’accorde avec l’auxiliaire 'avoir' sans 's' ici."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["un bureau", "un bureu", "un burreau", "un bureaux"],
+      "reponse": "un bureau",
+      "explication": "Le mot correct est « bureau »."
+    },
+    {
+      "question": "Quel est le pluriel de « bijou » ?",
+      "options": ["bijoux", "bijous", "bijouxs", "bijou"],
+      "reponse": "bijoux",
+      "explication": "Le pluriel de 'bijou' est 'bijoux' avec un 'x'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["je suis allé", "je suis aller", "je suis allée", "je suis allés"],
+      "reponse": "je suis allé",
+      "explication": "Le participe passé 'allé' s’accorde en genre et en nombre avec le sujet; ici masculin singulier."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du pluriel ?",
+      "options": ["chapeaux", "chapeaus", "chapeauxs", "chapeau"],
+      "reponse": "chapeaux",
+      "explication": "Le pluriel de 'chapeau' est 'chapeaux' avec un 'x'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["c’est", "s’est", "sest", "ce st"],
+      "reponse": "c’est",
+      "explication": "« C’est » est la contraction de 'cela est'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["ils ont", "ils on", "ils ontt", "ils onnt"],
+      "reponse": "ils ont",
+      "explication": "Le verbe 'avoir' à la 3e personne du pluriel s’écrit 'ont'."
+    },
+    {
+      "question": "Quel est le pluriel de « journal » ?",
+      "options": ["journaux", "journals", "journal", "journauxs"],
+      "reponse": "journaux",
+      "explication": "Le pluriel de 'journal' est 'journaux' avec un 'x'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["on y va", "on y vas", "on y vaa", "on y vas"],
+      "reponse": "on y va",
+      "explication": "La forme correcte est 'on y va' sans 's' à 'va'."
+    },
+    {
+      "question": "Quel est le participe passé du verbe « voir » ?",
+      "options": ["vu", "voir", "vois", "voit"],
+      "reponse": "vu",
+      "explication": "Le participe passé de « voir » est « vu »."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["ils sont partis", "ils sont partie", "ils sont partii", "ils sont partés"],
+      "reponse": "ils sont partis",
+      "explication": "Le participe passé s’accorde avec le sujet masculin pluriel : 'partis'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["mille", "mil", "mill", "millee"],
+      "reponse": "mille",
+      "explication": "Le mot correct est « mille »."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["quand", "quandd", "quandtt", "quandt"],
+      "reponse": "quand",
+      "explication": "Le mot correct est « quand »."
+    },
+    {
+      "question": "Quelle est la bonne orthographe du verbe au passé composé ?",
+      "options": ["elle a chanté", "elle a chanter", "elle a chantée", "elle a chantés"],
+      "reponse": "elle a chanté",
+      "explication": "Le participe passé 'chanté' s’accorde avec l’auxiliaire 'avoir' sans 'e' ici."
+    },
+    {
+      "question": "Quel est le pluriel de « feu » ?",
+      "options": ["feux", "feus", "feuxs", "feu"],
+      "reponse": "feux",
+      "explication": "Le pluriel de 'feu' est 'feux' avec un 'x'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["il y a", "il y as", "il y à", "il y a"],
+      "reponse": "il y a",
+      "explication": "L’expression correcte est 'il y a' pour indiquer une existence."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["ceci", "seci", "sesci", "ceci"],
+      "reponse": "ceci",
+      "explication": "Le mot correct est « ceci »."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["nous avons fini", "nous avons finie", "nous avons finis", "nous avons finies"],
+      "reponse": "nous avons fini",
+      "explication": "Le participe passé ne s’accorde pas avec l’auxiliaire 'avoir' sauf si COD placé avant."
+    },
+    {
+      "question": "Quel est le pluriel de « travail » ?",
+      "options": ["travaux", "travails", "travauxs", "travail"],
+      "reponse": "travaux",
+      "explication": "Le pluriel de 'travail' est 'travaux' avec un 'x'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["j’ai vu", "j’ai vue", "j’ai vus", "j’ai vues"],
+      "reponse": "j’ai vu",
+      "explication": "Le participe passé ne s’accorde pas avec l’auxiliaire 'avoir' ici."
+    },
+    {
+      "question": "Quel est le pluriel de « gâteau » ?",
+      "options": ["gâteaux", "gateaux", "gâteaus", "gâteau"],
+      "reponse": "gâteaux",
+      "explication": "Le pluriel de 'gâteau' est 'gâteaux' avec un 'x'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["nous irons", "nous irons", "nous iront", "nous iras"],
+      "reponse": "nous irons",
+      "explication": "La forme correcte du futur simple pour 'nous' est 'nous irons'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["à bientôt", "a bientôt", "à bientot", "a bientot"],
+      "reponse": "à bientôt",
+      "explication": "L’expression correcte est 'à bientôt' avec un accent grave sur le 'à'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["je suis allé", "je suis aller", "je suis allée", "je suis allés"],
+      "reponse": "je suis allé",
+      "explication": "Le participe passé 'allé' s’accorde selon le genre et le nombre."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["elles sont parties", "elles sont partis", "elles sont partii", "elles sont partées"],
+      "reponse": "elles sont parties",
+      "explication": "Le participe passé s’accorde avec le sujet féminin pluriel."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["c’est", "s’est", "sest", "ce st"],
+      "reponse": "c’est",
+      "explication": "« C’est » est la contraction de 'cela est'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["il a mangé", "il a mangée", "il a mangés", "il a manger"],
+      "reponse": "il a mangé",
+      "explication": "Le participe passé avec l’auxiliaire 'avoir' ne s’accorde pas ici."
+    },
+    {
+      "question": "Quel est le pluriel de « cheval » ?",
+      "options": ["chevaux", "chevals", "chevauxs", "cheval"],
+      "reponse": "chevaux",
+      "explication": "Le pluriel de 'cheval' s’écrit 'chevaux' avec un 'x'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["je suis allé", "je suis allée", "je suis aller", "je suis allés"],
+      "reponse": "je suis allé",
+      "explication": "Le participe passé 'allé' s’accorde selon le genre et le nombre du sujet."
+    },
+    {
+      "question": "Quelle est la forme correcte ?",
+      "options": ["ils ont fini", "ils ont finie", "ils ont finis", "ils ont finies"],
+      "reponse": "ils ont fini",
+      "explication": "Le participe passé ne s’accorde pas avec l’auxiliaire 'avoir' sauf si COD avant."
+    },
+    {
+      "question": "Quel est le pluriel de « bijou » ?",
+      "options": ["bijoux", "bijous", "bijouxs", "bijou"],
+      "reponse": "bijoux",
+      "explication": "Le pluriel de 'bijou' est 'bijoux' avec un 'x'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["beaucoup", "bocoup", "beaucou", "beaucoup"],
+      "reponse": "beaucoup",
+      "explication": "Le mot correct est « beaucoup »."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["il faut", "il fautt", "il fo", "il fau"],
+      "reponse": "il faut",
+      "explication": "L’expression correcte est 'il faut' avec un seul 't'."
+    },
+    {
+      "question": "Quel est le pluriel de « travail » ?",
+      "options": ["travaux", "travails", "travauxs", "travail"],
+      "reponse": "travaux",
+      "explication": "Le pluriel de 'travail' est 'travaux' avec un 'x'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["ils sont partis", "ils sont partie", "ils sont partii", "ils sont partés"],
+      "reponse": "ils sont partis",
+      "explication": "Le participe passé s’accorde avec le sujet masculin pluriel."
+    },
+    {
+      "question": "Quel est le pluriel de « gâteau » ?",
+      "options": ["gâteaux", "gateaux", "gâteaus", "gâteau"],
+      "reponse": "gâteaux",
+      "explication": "Le pluriel de 'gâteau' est 'gâteaux' avec un 'x'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["c’est", "s’est", "sest", "ce st"],
+      "reponse": "c’est",
+      "explication": "« C’est » est la contraction de 'cela est'."
+    },
+    {
+      "question": "Quel est le pluriel de « feu » ?",
+      "options": ["feux", "feus", "feuxs", "feu"],
+      "reponse": "feux",
+      "explication": "Le pluriel de 'feu' est 'feux' avec un 'x'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["nous avons fini", "nous avons finie", "nous avons finis", "nous avons finies"],
+      "reponse": "nous avons fini",
+      "explication": "Le participe passé ne s’accorde pas avec l’auxiliaire 'avoir' sauf si COD avant."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["il y a", "il y as", "il y à", "il y a"],
+      "reponse": "il y a",
+      "explication": "L’expression correcte est 'il y a'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["ceci", "seci", "sesci", "ceci"],
+      "reponse": "ceci",
+      "explication": "Le mot correct est « ceci »."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["on y va", "on y vas", "on y vaa", "on y vas"],
+      "reponse": "on y va",
+      "explication": "La forme correcte est 'on y va'."
+    },
+    {
+      "question": "Quel est le participe passé du verbe « voir » ?",
+      "options": ["vu", "voir", "vois", "voit"],
+      "reponse": "vu",
+      "explication": "Le participe passé de 'voir' est 'vu'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["nous irons", "nous irons", "nous iront", "nous iras"],
+      "reponse": "nous irons",
+      "explication": "La forme correcte du futur simple pour 'nous' est 'nous irons'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["à bientôt", "a bientôt", "à bientot", "a bientot"],
+      "reponse": "à bientôt",
+      "explication": "L’expression correcte est 'à bientôt' avec un accent grave sur le 'à'."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["elle a chanté", "elle a chanter", "elle a chantée", "elle a chantés"],
+      "reponse": "elle a chanté",
+      "explication": "Le participe passé 'chanté' ne prend pas de 'e' avec l’auxiliaire 'avoir' ici."
+    }
+  ]
+}

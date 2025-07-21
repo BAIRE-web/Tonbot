@@ -1,0 +1,154 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la définition d'une équation différentielle du premier ordre ?",
+      "options": ["Une équation contenant uniquement la variable x", "Une équation où la dérivée de y apparaît au carré", "Une équation de la forme y' = f(x, y)", "Une équation avec une intégrale"],
+      "reponse": "Une équation de la forme y' = f(x, y)",
+      "explication": "Une équation différentielle du premier ordre implique la fonction y et sa première dérivée y'."
+    },
+    {
+      "question": "Quelle méthode utilise-t-on souvent pour résoudre une équation différentielle linéaire homogène du premier ordre ?",
+      "options": ["Méthode de Cramer", "Méthode de séparation des variables", "Méthode des moindres carrés", "Méthode de Newton"],
+      "reponse": "Méthode de séparation des variables",
+      "explication": "On isole les termes en y d’un côté et ceux en x de l’autre avant d’intégrer."
+    },
+    {
+      "question": "La solution générale de l'équation différentielle y' = ay (a constant réel) est :",
+      "options": ["y = ax", "y = ae^x", "y = Ce^{ax}", "y = x^a"],
+      "reponse": "y = Ce^{ax}",
+      "explication": "C’est une équation linéaire à coefficients constants. La solution est exponentielle."
+    },
+    {
+      "question": "Une solution particulière de y'' - y = 0 est :",
+      "options": ["y = cos(x)", "y = e^x", "y = ln(x)", "y = x²"],
+      "reponse": "y = e^x",
+      "explication": "Les solutions générales de cette équation sont de la forme y = Ae^x + Be^{-x}."
+    },
+    {
+      "question": "Quelle est la condition pour qu’une équation soit dite linéaire ?",
+      "options": ["Elle doit contenir uniquement des puissances de y", "y et ses dérivées apparaissent de façon linéaire (pas au carré, ni multipliées entre elles)", "Elle doit contenir un produit de y et y'", "Elle doit être homogène"],
+      "reponse": "y et ses dérivées apparaissent de façon linéaire (pas au carré, ni multipliées entre elles)",
+      "explication": "Une équation est linéaire si elle peut être écrite sans produits croisés ni puissances de y ou ses dérivées."
+    },
+    {
+      "question": "Résoudre l'équation différentielle y' = 3y.",
+      "options": ["y = 3x", "y = e^{3x}", "y = Ce^{3x}", "y = x^3"],
+      "reponse": "y = Ce^{3x}",
+      "explication": "C’est une équation linéaire du premier ordre à coefficients constants. La solution générale est y = Ce^{3x}."
+    },
+    {
+      "question": "Soit y'' - 2y' + y = 0. Quelle est la forme de la solution générale ?",
+      "options": ["y = C₁e^x + C₂e^x", "y = C₁e^x + C₂xe^x", "y = C₁e^{-x} + C₂e^x", "y = C₁x + C₂"],
+      "reponse": "y = C₁e^x + C₂xe^x",
+      "explication": "La racine de l’équation caractéristique est double : r = 1. La solution est y = C₁e^x + C₂xe^x."
+    },
+    {
+      "question": "Soit y' + 2y = 4. Trouver la solution particulière.",
+      "options": ["y = 2", "y = 1", "y = Ce^{-2x} + 2", "y = 4e^{2x}"],
+      "reponse": "y = Ce^{-2x} + 2",
+      "explication": "La solution générale est somme de l’homogène Ce^{-2x} et de la solution particulière y = 2."
+    },
+    {
+      "question": "L’équation différentielle y' = y·tan(x) admet comme solution générale :",
+      "options": ["y = C·tan(x)", "y = C·e^{ln|cos(x)|}", "y = C·sec(x)", "y = C·cos(x)"],
+      "reponse": "y = C·sec(x)",
+      "explication": "On résout par séparation des variables : dy/y = tan(x)dx ⟹ ln|y| = -ln|cos(x)| ⟹ y = C·sec(x)."
+    },
+    {
+      "question": "Résoudre y'' + y = 0.",
+      "options": ["y = Ce^{-x}", "y = C₁cos(x) + C₂sin(x)", "y = C₁e^x + C₂e^{-x}", "y = Cx + D"],
+      "reponse": "y = C₁cos(x) + C₂sin(x)",
+      "explication": "C’est une équation différentielle linéaire homogène à coefficients constants avec racines imaginaires ±i."
+    },
+    {
+      "question": "L’équation y' = -2y avec y(0) = 5 donne comme solution :",
+      "options": ["y = 5e^{-2x}", "y = -2e^x", "y = 5 - 2x", "y = e^{-10x}"],
+      "reponse": "y = 5e^{-2x}",
+      "explication": "La solution générale est y = Ce^{-2x}, et la condition initiale y(0)=5 donne C = 5."
+    },
+    {
+      "question": "Soit y'' - y = 0, avec y(0) = 1 et y'(0) = 2. Quelle est la solution ?",
+      "options": ["y = e^x", "y = e^{-x}", "y = e^x + e^{-x}", "y = 2e^x + e^{-x}"],
+      "reponse": "y = 2e^x - e^{-x}",
+      "explication": "On résout l’équation, puis on applique les conditions pour déterminer les constantes C₁ et C₂."
+    },
+    {
+      "question": "Soit y' = (x + y)/(x - y). Quelle substitution permet de simplifier cette équation ?",
+      "options": ["z = x + y", "z = x - y", "z = y/x", "z = y - x"],
+      "reponse": "z = y/x",
+      "explication": "Substitution usuelle pour transformer les équations homogènes : z = y/x permet de linéariser."
+    },
+    {
+      "question": "Soit y' = y². Trouver la solution générale.",
+      "options": ["y = 1/x", "y = Ce^{x}", "y = -1/(x + C)", "y = x²"],
+      "reponse": "y = -1/(x + C)",
+      "explication": "On utilise la séparation des variables : dy/y² = dx ⟹ y = -1/(x + C)."
+    },
+    {
+      "question": "L'équation y' = x²y est de type :",
+      "options": ["Linéaire", "Non linéaire", "Homogène", "Bernoulli"],
+      "reponse": "Linéaire",
+      "explication": "Elle est de la forme y' = f(x)y, ce qui correspond à une équation linéaire du premier ordre."
+    },
+    {
+      "question": "Résoudre y' = y(1 - y).",
+      "options": ["y = Ce^{x}", "y = 1/(1 + Ce^{-x})", "y = C/(1 + x)", "y = 1 + Ce^x"],
+      "reponse": "y = 1/(1 + Ce^{-x})",
+      "explication": "C’est une équation logistique. On utilise séparation des variables et intégration partielle."
+    },
+    {
+      "question": "Soit y'' + 4y = 0. Quelle est la nature des solutions ?",
+      "options": ["Exponentielle", "Logarithmique", "Sinusoïdale", "Quadratique"],
+      "reponse": "Sinusoïdale",
+      "explication": "Les racines sont imaginaires pures (±2i), donc les solutions sont en sin et cos."
+    },
+    {
+      "question": "L’équation y' = cos(x) admet comme solution :",
+      "options": ["y = sin(x)", "y = cos(x)", "y = e^{cos(x)}", "y = -sin(x)"],
+      "reponse": "y = sin(x)",
+      "explication": "On intègre les deux membres : y = ∫cos(x)dx = sin(x) + C."
+    },
+    {
+      "question": "Soit y'' - 3y' + 2y = 0. Quelle est la solution ?",
+      "options": ["y = Ce^{2x}", "y = C₁e^x + C₂e^{2x}", "y = Cx + D", "y = e^{-x}"],
+      "reponse": "y = C₁e^x + C₂e^{2x}",
+      "explication": "Racines de l’équation caractéristique : 1 et 2 ⇒ solution générale : C₁e^x + C₂e^{2x}."
+    },
+    {
+      "question": "Quelle est la solution de y' = 1/(1 + x²) ?",
+      "options": ["y = arctan(x)", "y = ln|1 + x²|", "y = e^x", "y = 1 + x²"],
+      "reponse": "y = arctan(x)",
+      "explication": "∫1/(1 + x²)dx = arctan(x) + C."
+    },
+    {
+      "question": "Soit y'' + 2y' + y = 0. Racine double. La solution est :",
+      "options": ["y = e^{-x}", "y = C₁e^{-x} + C₂xe^{-x}", "y = e^x", "y = sin(x)"],
+      "reponse": "y = C₁e^{-x} + C₂xe^{-x}",
+      "explication": "Racine double r = -1, solution : y = (C₁ + C₂x)e^{-x}."
+    },
+    {
+      "question": "La solution de y' = -1/y est :",
+      "options": ["y = -√(2x + C)", "y² = -2x + C", "y = √(C - 2x)", "y = ln|x|"],
+      "reponse": "y² = -2x + C",
+      "explication": "Séparation des variables : ydy = -dx ⟹ y² = -2x + C."
+    },
+    {
+      "question": "Soit y' = y + 2x. C’est une équation :",
+      "options": ["Homogène", "Linéaire non homogène", "Bernoulli", "Séparable"],
+      "reponse": "Linéaire non homogène",
+      "explication": "Forme y' = ay + b(x), donc linéaire avec second membre ≠ 0."
+    },
+    {
+      "question": "L’équation y'' = 0 a pour solution générale :",
+      "options": ["y = Cx + D", "y = Ce^x", "y = Cx² + D", "y = C"],
+      "reponse": "y = Cx + D",
+      "explication": "On intègre deux fois une dérivée nulle : y' = C, donc y = Cx + D."
+    },
+    {
+      "question": "Résoudre y' = x·y²",
+      "options": ["y = -1/(0.5x² + C)", "y = x²", "y = ln(x)", "y = Ce^x"],
+      "reponse": "y = -1/(0.5x² + C)",
+      "explication": "Séparation des variables : dy/y² = x dx ⟹ -1/y = 0.5x² + C."
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la capitale législative de l’Afrique du Sud ?",
+      "options": ["Le Cap", "Pretoria", "Johannesburg", "Durban"],
+      "reponse": "Pretoria",
+      "explication": "Pretoria est la capitale administrative et législative."
+    },
+    {
+      "question": "Quel système politique était en place en Afrique du Sud avant 1994 ?",
+      "options": ["L’apartheid", "La démocratie", "Le communisme", "La monarchie"],
+      "reponse": "L’apartheid",
+      "explication": "L’apartheid était un système de ségrégation raciale."
+    },
+    {
+      "question": "Qui fut le premier président noir de l’Afrique du Sud ?",
+      "options": ["Nelson Mandela", "Desmond Tutu", "Thabo Mbeki", "Jacob Zuma"],
+      "reponse": "Nelson Mandela",
+      "explication": "Mandela fut élu président en 1994 après la fin de l’apartheid."
+    },
+    {
+      "question": "En quelle année l’apartheid a-t-il officiellement pris fin ?",
+      "options": ["1994", "1980", "1976", "2000"],
+      "reponse": "1994",
+      "explication": "La fin officielle coïncide avec la première élection multiraciale."
+    },
+    {
+      "question": "Quelle est la langue officielle la plus parlée en Afrique du Sud ?",
+      "options": ["Zoulou", "Afrikaans", "Anglais", "Xhosa"],
+      "reponse": "Zoulou",
+      "explication": "Le zoulou est la langue maternelle la plus répandue."
+    },
+    {
+      "question": "Quel est le plus grand centre économique du pays ?",
+      "options": ["Johannesburg", "Le Cap", "Pretoria", "Port Elizabeth"],
+      "reponse": "Johannesburg",
+      "explication": "Johannesburg est le cœur économique et financier."
+    },
+    {
+      "question": "Quel est le surnom de Johannesburg ?",
+      "options": ["Egoli", "Tshwane", "Madiba", "Mzansi"],
+      "reponse": "Egoli",
+      "explication": "Egoli signifie « la ville de l’or » en langue zoulou."
+    },
+    {
+      "question": "Quel est le principal produit minier d’Afrique du Sud ?",
+      "options": ["Or", "Diamants", "Charbon", "Platine"],
+      "reponse": "Or",
+      "explication": "L’Afrique du Sud est célèbre pour ses mines d’or."
+    },
+    {
+      "question": "Quelle est la devise nationale de l’Afrique du Sud ?",
+      "options": ["!ke e: /xarra //ke", "Unity in diversity", "E pluribus unum", "Freedom and justice"],
+      "reponse": "!ke e: /xarra //ke",
+      "explication": "C’est une phrase en langue khoïkhoï signifiant 'diversité en unité'."
+    },
+    {
+      "question": "Quel fleuve traverse Johannesburg ?",
+      "options": ["Jukskei", "Orange", "Vaal", "Limpopo"],
+      "reponse": "Jukskei",
+      "explication": "Le Jukskei traverse la ville et alimente la région."
+    },
+    {
+      "question": "Qui est considéré comme le père de la nation sud-africaine ?",
+      "options": ["Nelson Mandela", "Paul Kruger", "Desmond Tutu", "Oliver Tambo"],
+      "reponse": "Nelson Mandela",
+      "explication": "Mandela est symbole de la lutte contre l’apartheid."
+    },
+    {
+      "question": "Quel est le parc national célèbre pour sa faune ?",
+      "options": ["Kruger", "Table Mountain", "Addo Elephant", "Hluhluwe-Imfolozi"],
+      "reponse": "Kruger",
+      "explication": "Le parc Kruger est l’une des plus grandes réserves d’Afrique."
+    },
+    {
+      "question": "Quelle montagne célèbre domine Le Cap ?",
+      "options": ["Table Mountain", "Drakensberg", "Cederberg", "Magaliesberg"],
+      "reponse": "Table Mountain",
+      "explication": "C’est un symbole emblématique de la ville du Cap."
+    },
+    {
+      "question": "Quel est le principal sport national en Afrique du Sud ?",
+      "options": ["Rugby", "Football", "Cricket", "Athlétisme"],
+      "reponse": "Rugby",
+      "explication": "Le rugby est très populaire et symbole national."
+    },
+    {
+      "question": "En quelle année l’Afrique du Sud a-t-elle organisé la Coupe du Monde de football ?",
+      "options": ["2010", "2006", "2014", "2002"],
+      "reponse": "2010",
+      "explication": "L’Afrique du Sud fut le premier pays africain hôte."
+    },
+    {
+      "question": "Quel système politique suit l’Afrique du Sud aujourd’hui ?",
+      "options": ["République parlementaire", "Monarchie constitutionnelle", "Dictature", "Empire"],
+      "reponse": "République parlementaire",
+      "explication": "Le pays est une république avec un parlement élu."
+    },
+    {
+      "question": "Qui est le chef d’État en Afrique du Sud ?",
+      "options": ["Le président", "Le roi", "Le premier ministre", "Le gouverneur général"],
+      "reponse": "Le président",
+      "explication": "Le président est à la fois chef d’État et du gouvernement."
+    },
+    {
+      "question": "Quelle est la plus grande ville portuaire d’Afrique du Sud ?",
+      "options": ["Durban", "Le Cap", "Port Elizabeth", "East London"],
+      "reponse": "Durban",
+      "explication": "Durban est un port majeur sur l’océan Indien."
+    },
+    {
+      "question": "Quelle est la monnaie officielle de l’Afrique du Sud ?",
+      "options": ["Rand sud-africain", "Dollar américain", "Euro", "Livre sterling"],
+      "reponse": "Rand sud-africain",
+      "explication": "Le rand est la monnaie utilisée dans tout le pays."
+    },
+    {
+      "question": "Quel est le système d’éducation en Afrique du Sud ?",
+      "options": ["Public et privé avec 12 années d’études", "Uniquement privé", "Aucun système structuré", "Éducation gratuite obligatoire jusqu’à 18 ans"],
+      "reponse": "Public et privé avec 12 années d’études",
+      "explication": "Le système comprend l’enseignement primaire, secondaire et supérieur."
+    },
+    {
+      "question": "Quelle est la population approximative de l’Afrique du Sud ?",
+      "options": ["60 millions", "30 millions", "100 millions", "15 millions"],
+      "reponse": "60 millions",
+      "explication": "La population est estimée autour de 60 millions d’habitants."
+    },
+    {
+      "question": "Quel est le climat dominant en Afrique du Sud ?",
+      "options": ["Climat tempéré", "Climat tropical humide", "Climat désertique", "Climat polaire"],
+      "reponse": "Climat tempéré",
+      "explication": "Le climat varie mais est majoritairement tempéré avec des zones semi-arides."
+    },
+    {
+      "question": "Quel est le plus haut sommet d’Afrique du Sud ?",
+      "options": ["Mont du Drakensberg", "Table Mountain", "Mont Kilimandjaro", "Mont Kenya"],
+      "reponse": "Mont du Drakensberg",
+      "explication": "Le Drakensberg est la chaîne de montagnes la plus élevée."
+    },
+    {
+      "question": "Quelle est la date de la fête nationale sud-africaine commémorant la fin de l’apartheid ?",
+      "options": ["27 avril", "1er mai", "16 juin", "24 septembre"],
+      "reponse": "27 avril",
+      "explication": "Le 27 avril est célébré comme le Jour de la liberté."
+    },
+    {
+      "question": "Quelle organisation internationale l’Afrique du Sud a-t-elle rejoint après l’apartheid ?",
+      "options": ["Commonwealth", "UE", "OTAN", "OPEP"],
+      "reponse": "Commonwealth",
+      "explication": "Elle a rejoint le Commonwealth des nations en 1994."
+    },
+    {
+      "question": "Quel est le taux de chômage approximatif en Afrique du Sud ?",
+      "options": ["Plus de 30%", "Moins de 5%", "Environ 10%", "Moins de 15%"],
+      "reponse": "Plus de 30%",
+      "explication": "Le taux de chômage est très élevé, notamment chez les jeunes."
+    },
+    {
+      "question": "Quel est le rôle de Desmond Tutu en Afrique du Sud ?",
+      "options": ["Leader religieux et militant anti-apartheid", "Président du pays", "Chef militaire", "Premier ministre"],
+      "reponse": "Leader religieux et militant anti-apartheid",
+      "explication": "Il a joué un rôle clé dans la lutte pacifique contre l’apartheid."
+    },
+    {
+      "question": "Quelle est la principale religion en Afrique du Sud ?",
+      "options": ["Christianisme", "Islam", "Hindouisme", "Bouddhisme"],
+      "reponse": "Christianisme",
+      "explication": "La majorité des Sud-Africains pratiquent le christianisme."
+    },
+    {
+      "question": "Quelle est la durée du mandat présidentiel en Afrique du Sud ?",
+      "options": ["5 ans", "4 ans", "6 ans", "7 ans"],
+      "reponse": "5 ans",
+      "explication": "Le président est élu pour un mandat de cinq ans."
+    },
+    {
+      "question": "Quel est l’emblème national sud-africain ?",
+      "options": ["Le springbok", "Le lion", "L’aigle", "Le buffle"],
+      "reponse": "Le springbok",
+      "explication": "Le springbok est un symbole national, notamment en rugby."
+    },
+    {
+      "question": "Quelle est une force majeure de l’économie sud-africaine ?",
+      "options": ["Richesse en ressources naturelles", "Faible productivité agricole", "Déclin du secteur minier", "Isolement commercial"],
+      "reponse": "Richesse en ressources naturelles",
+      "explication": "L’Afrique du Sud possède d’importantes réserves de minéraux comme l’or et le platine."
+    },
+    {
+      "question": "Quelle faiblesse freine le développement économique du pays ?",
+      "options": ["Taux de chômage élevé", "Population jeune", "Diversité culturelle", "Stabilité politique"],
+      "reponse": "Taux de chômage élevé",
+      "explication": "Le chômage, particulièrement chez les jeunes, est un problème majeur."
+    },
+    {
+      "question": "Quelle force favorise le tourisme en Afrique du Sud ?",
+      "options": ["Paysages variés et parcs nationaux célèbres", "Manque d’infrastructures", "Conflits internes", "Climat désertique extrême"],
+      "reponse": "Paysages variés et parcs nationaux célèbres",
+      "explication": "Les sites naturels attirent de nombreux visiteurs internationaux."
+    },
+    {
+      "question": "Quelle faiblesse affecte le système éducatif sud-africain ?",
+      "options": ["Inégalités d’accès à l’éducation", "Grand nombre d’universités", "Multilinguisme", "Investissements étrangers"],
+      "reponse": "Inégalités d’accès à l’éducation",
+      "explication": "Des disparités persistent selon les régions et classes sociales."
+    },
+    {
+      "question": "Quelle force politique est présente en Afrique du Sud ?",
+      "options": ["Démocratie stable depuis 1994", "Régime autoritaire", "Dictature militaire", "Monarchie"],
+      "reponse": "Démocratie stable depuis 1994",
+      "explication": "Depuis la fin de l’apartheid, la démocratie est bien établie."
+    },
+    {
+      "question": "Quelle faiblesse sanitaire pose problème au pays ?",
+      "options": ["Prévalence élevée du VIH/Sida", "Système de santé universel", "Bonne espérance de vie", "Accès facile aux soins"],
+      "reponse": "Prévalence élevée du VIH/Sida",
+      "explication": "Le VIH/Sida affecte lourdement la population et le développement."
+    },
+    {
+      "question": "Quelle force économique est liée à l’industrie sud-africaine ?",
+      "options": ["Secteur manufacturier diversifié", "Dépendance unique à l’agriculture", "Absence d’industries lourdes", "Faible production minière"],
+      "reponse": "Secteur manufacturier diversifié",
+      "explication": "L’industrie est variée, allant de la métallurgie à l’automobile."
+    },
+    {
+      "question": "Quelle faiblesse sociale complique la cohésion nationale ?",
+      "options": ["Inégalités raciales persistantes", "Égalité parfaite", "Homogénéité culturelle", "Faible diversité ethnique"],
+      "reponse": "Inégalités raciales persistantes",
+      "explication": "Les séquelles de l’apartheid se manifestent encore dans la société."
+    },
+    {
+      "question": "Quelle force géographique avantage l’Afrique du Sud ?",
+      "options": ["Accès à deux océans (Atlantique et Indien)", "Position enclavée", "Climat polaire", "Isolement complet"],
+      "reponse": "Accès à deux océans (Atlantique et Indien)",
+      "explication": "Cette position favorise le commerce maritime international."
+    },
+    {
+      "question": "Quelle faiblesse économique freine les investissements étrangers ?",
+      "options": ["Instabilité liée à la criminalité et corruption", "Main-d’œuvre qualifiée abondante", "Stabilité politique", "Infrastructure moderne"],
+      "reponse": "Instabilité liée à la criminalité et corruption",
+      "explication": "Ces facteurs dissuadent certains investisseurs étrangers."
+    }
+  ]
+}

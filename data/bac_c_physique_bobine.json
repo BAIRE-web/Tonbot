@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’une bobine ?",
+      "options": ["Un conducteur enroulé en spirale", "Un condensateur", "Une résistance", "Un générateur"],
+      "reponse": "Un conducteur enroulé en spirale",
+      "explication": "La bobine est un fil conducteur enroulé qui crée un champ magnétique lorsqu’un courant y circule."
+    },
+    {
+      "question": "Quelle grandeur caractérise la bobine ?",
+      "options": ["L’inductance", "La capacité", "La résistance", "La tension"],
+      "reponse": "L’inductance",
+      "explication": "L’inductance mesure la capacité d’une bobine à s’opposer aux variations de courant."
+    },
+    {
+      "question": "L’unité de l’inductance est :",
+      "options": ["Henry (H)", "Farad (F)", "Ohm (Ω)", "Volt (V)"],
+      "reponse": "Henry (H)",
+      "explication": "L’inductance s’exprime en henry."
+    },
+    {
+      "question": "Comment s’oppose une bobine au passage du courant alternatif ?",
+      "options": ["Par réactance inductive", "Par résistance pure", "Par capacité", "Par conductance"],
+      "reponse": "Par réactance inductive",
+      "explication": "La bobine s’oppose au changement de courant par sa réactance inductive X_L."
+    },
+    {
+      "question": "La formule de la réactance inductive X_L est :",
+      "options": ["X_L = 2πfL", "X_L = L / f", "X_L = 1 / (2πfL)", "X_L = R × L"],
+      "reponse": "X_L = 2πfL",
+      "explication": "X_L dépend de la fréquence f et de l’inductance L."
+    },
+    {
+      "question": "Quel phénomène produit une bobine lorsqu’un courant variable la traverse ?",
+      "options": ["Un champ magnétique variable", "Un champ électrique constant", "Une chaleur importante", "Une tension nulle"],
+      "reponse": "Un champ magnétique variable",
+      "explication": "Le courant variable crée un champ magnétique variable autour de la bobine."
+    },
+    {
+      "question": "L’énergie magnétique stockée dans une bobine est donnée par :",
+      "options": ["E = ½ L I²", "E = L I", "E = I / L", "E = 2 L I²"],
+      "reponse": "E = ½ L I²",
+      "explication": "L’énergie est proportionnelle au carré de l’intensité et à l’inductance."
+    },
+    {
+      "question": "La tension aux bornes d’une bobine soumise à un courant variable s’exprime par :",
+      "options": ["u = L × di/dt", "u = R × I", "u = I / L", "u = L / I"],
+      "reponse": "u = L × di/dt",
+      "explication": "La tension est proportionnelle à la dérivée du courant."
+    },
+    {
+      "question": "Quel est l’effet d’une bobine dans un circuit alternatif ?",
+      "options": ["Elle retarde le courant par rapport à la tension", "Elle avance le courant", "Elle réduit la fréquence", "Elle ne modifie rien"],
+      "reponse": "Elle retarde le courant par rapport à la tension",
+      "explication": "Le courant dans une bobine est en retard de 90° sur la tension."
+    },
+    {
+      "question": "Comment s’appelle l’opposition d’une bobine au passage du courant alternatif ?",
+      "options": ["Réactance inductive", "Résistance", "Conductance", "Capacité"],
+      "reponse": "Réactance inductive",
+      "explication": "C’est la résistance apparente due à l’inductance."
+    },
+    {
+      "question": "Quelle est la relation entre la fréquence et la réactance inductive ?",
+      "options": ["La réactance augmente avec la fréquence", "Elle diminue avec la fréquence", "Elle est indépendante de la fréquence", "Elle est nulle"],
+      "reponse": "La réactance augmente avec la fréquence",
+      "explication": "X_L = 2πfL, donc X_L est proportionnelle à f."
+    },
+    {
+      "question": "Une bobine parfaite a :",
+      "options": ["Une résistance nulle", "Une résistance non nulle", "Une capacité", "Un inductance nulle"],
+      "reponse": "Une résistance nulle",
+      "explication": "Une bobine idéale n’a pas de perte résistive."
+    },
+    {
+      "question": "Comment s’appelle la constante de temps dans un circuit RL ?",
+      "options": ["τ = L / R", "τ = R / L", "τ = L × R", "τ = 1 / (L × R)"],
+      "reponse": "τ = L / R",
+      "explication": "La constante de temps τ caractérise la vitesse de variation du courant."
+    },
+    {
+      "question": "Dans un circuit RL, que représente la constante de temps τ ?",
+      "options": ["Le temps nécessaire pour que le courant atteigne 63% de sa valeur finale", "Le temps total du circuit", "La fréquence du courant", "La résistance de la bobine"],
+      "reponse": "Le temps nécessaire pour que le courant atteigne 63% de sa valeur finale",
+      "explication": "τ caractérise la réponse transitoire du circuit."
+    },
+    {
+      "question": "L’inductance d’une bobine dépend :",
+      "options": ["Du nombre de spires et de la géométrie", "De la tension appliquée", "De la résistance", "De la fréquence uniquement"],
+      "reponse": "Du nombre de spires et de la géométrie",
+      "explication": "Plus il y a de spires, plus l’inductance est grande."
+    },
+    {
+      "question": "Quelle est la formule de l’énergie magnétique stockée dans une bobine de inductance L et courant I ?",
+      "options": ["E = ½ L I²", "E = L I", "E = 2 L I", "E = I / L"],
+      "reponse": "E = ½ L I²",
+      "explication": "Formule fondamentale pour l’énergie magnétique."
+    },
+    {
+      "question": "Une bobine est utilisée dans un circuit alternatif. Que se passe-t-il si la fréquence augmente ?",
+      "options": ["L’impédance de la bobine augmente", "L’impédance diminue", "La résistance augmente", "La capacité augmente"],
+      "reponse": "L’impédance de la bobine augmente",
+      "explication": "Réactance inductive X_L = 2πfL augmente avec f."
+    },
+    {
+      "question": "Le courant dans une bobine inductive par rapport à la tension est :",
+      "options": ["En retard de 90°", "En avance de 90°", "En phase", "Nulle"],
+      "reponse": "En retard de 90°",
+      "explication": "Le courant est retardé par rapport à la tension dans une bobine."
+    },
+    {
+      "question": "Quel phénomène physique permet à la bobine d’opposer une tension lors d’une variation de courant ?",
+      "options": ["L’auto-induction", "La conduction", "La capacité", "La résistance"],
+      "reponse": "L’auto-induction",
+      "explication": "La variation du courant crée une force électromotrice induite."
+    },
+    {
+      "question": "La force électromotrice induite dans une bobine est proportionnelle à :",
+      "options": ["La dérivée du courant", "La tension", "Le courant", "La résistance"],
+      "reponse": "La dérivée du courant",
+      "explication": "u = L × di/dt"
+    },
+    {
+      "question": "Dans un circuit RL, la tension aux bornes de la bobine est :",
+      "options": ["Proportionnelle à la dérivée du courant", "Proportionnelle au courant", "Indépendante du courant", "Nulle"],
+      "reponse": "Proportionnelle à la dérivée du courant",
+      "explication": "La tension varie selon u = L × di/dt"
+    },
+    {
+      "question": "Une bobine est souvent utilisée pour :",
+      "options": ["Filtrer des signaux", "Stocker de l’énergie électrique sous forme magnétique", "Augmenter la tension", "Convertir l’énergie mécanique"],
+      "reponse": "Stocker de l’énergie électrique sous forme magnétique",
+      "explication": "La bobine stocke l’énergie dans son champ magnétique."
+    },
+    {
+      "question": "La réactance inductive X_L dépend de :",
+      "options": ["Fréquence et inductance", "Tension et courant", "Résistance et tension", "Capacité et fréquence"],
+      "reponse": "Fréquence et inductance",
+      "explication": "X_L = 2πfL"
+    },
+    {
+      "question": "Quel est le symbole utilisé pour représenter l’inductance ?",
+      "options": ["L", "R", "C", "U"],
+      "reponse": "L",
+      "explication": "Le symbole L est standard pour l’inductance."
+    },
+    {
+      "question": "Dans un circuit RL, si la résistance R tend vers zéro, la constante de temps τ devient :",
+      "options": ["Très grande", "Zéro", "Égale à L", "Indéfinie"],
+      "reponse": "Très grande",
+      "explication": "τ = L / R, si R→0 alors τ→∞"
+    },
+    {
+      "question": "L’inductance est une propriété liée à :",
+      "options": ["La capacité d’une bobine à s’opposer aux variations du courant", "La capacité de stockage électrique", "La résistance du fil", "La fréquence du courant"],
+      "reponse": "La capacité d’une bobine à s’opposer aux variations du courant",
+      "explication": "L’inductance est liée à l’auto-induction."
+    },
+    {
+      "question": "Lorsqu’on coupe brusquement le courant dans une bobine, que se passe-t-il ?",
+      "options": ["Une tension élevée est induite", "Le courant s’arrête instantanément", "Rien", "Le courant augmente"],
+      "reponse": "Une tension élevée est induite",
+      "explication": "L’auto-induction provoque une force électromotrice importante."
+    },
+    {
+      "question": "Une bobine possède une inductance de 5 mH. Quelle est sa réactance à 50 Hz ?",
+      "options": ["1,57 Ω", "0,63 Ω", "5 Ω", "15,7 Ω"],
+      "reponse": "1,57 Ω",
+      "explication": "X_L = 2π × 50 × 0,005 = 1,57 Ω"
+    },
+    {
+      "question": "Quel est le rôle principal d’une bobine dans un filtre passe-bas ?",
+      "options": ["Bloquer les hautes fréquences", "Bloquer les basses fréquences", "Amplifier le signal", "Convertir le signal"],
+      "reponse": "Bloquer les hautes fréquences",
+      "explication": "La bobine laisse passer les basses fréquences et bloque les hautes."
+    },
+    {
+      "question": "Le courant dans une bobine a pour expression :",
+      "options": ["I(t) = I₀ sin(ωt - π/2)", "I(t) = I₀ sin(ωt)", "I(t) = I₀ cos(ωt)", "I(t) = I₀"],
+      "reponse": "I(t) = I₀ sin(ωt - π/2)",
+      "explication": "Le courant est en retard de 90° sur la tension sinusoïdale."
+    },
+    {
+      "question": "Une bobine d’inductance 10 mH est parcourue par un courant variant selon i(t) = 2t (A/s). Quelle est la tension aux bornes ?",
+      "options": ["u = L × di/dt = 10×10⁻³ × 2 = 0,02 V", "u = 0 V", "u = 2 V", "u = 10 V"],
+      "reponse": "u = L × di/dt = 10×10⁻³ × 2 = 0,02 V",
+      "explication": "La tension est proportionnelle à la dérivée du courant."
+    },
+    {
+      "question": "Dans un circuit RL, L = 5 mH et R = 10 Ω. Quelle est la constante de temps τ ?",
+      "options": ["τ = L / R = 5×10⁻³ / 10 = 0,0005 s", "τ = 2 s", "τ = 50 s", "τ = 0,5 s"],
+      "reponse": "τ = L / R = 5×10⁻³ / 10 = 0,0005 s",
+      "explication": "τ caractérise la réponse du circuit RL."
+    },
+    {
+      "question": "Une bobine a une réactance inductive X_L = 10 Ω à 50 Hz. Quelle est son inductance L ?",
+      "options": ["L = X_L / (2πf) = 10 / (2π × 50) ≈ 0,032 H", "L = 10 H", "L = 0,1 H", "L = 3,2 H"],
+      "reponse": "L = X_L / (2πf) = 10 / (2π × 50) ≈ 0,032 H",
+      "explication": "Calcul de L à partir de X_L et f."
+    },
+    {
+      "question": "Si la fréquence double, que fait la réactance inductive ?",
+      "options": ["Elle double", "Elle reste constante", "Elle diminue de moitié", "Elle quadruple"],
+      "reponse": "Elle double",
+      "explication": "X_L = 2πfL, proportionnelle à f."
+    },
+    {
+      "question": "Quelle est l’énergie stockée dans une bobine de 0,1 H parcourue par un courant de 3 A ?",
+      "options": ["E = ½ L I² = 0,5 × 0,1 × 9 = 0,45 J", "E = 0,3 J", "E = 1,5 J", "E = 0,9 J"],
+      "reponse": "E = ½ L I² = 0,5 × 0,1 × 9 = 0,45 J",
+      "explication": "Formule d’énergie magnétique."
+    },
+    {
+      "question": "Quelle est la tension aux bornes d’une bobine parcourue par un courant i(t) = 4 sin(100t) A et L = 0,05 H ?",
+      "options": ["u(t) = L × di/dt = 0,05 × 400 cos(100t) = 20 cos(100t) V", "u(t) = 4 V", "u(t) = 0 V", "u(t) = 100 V"],
+      "reponse": "u(t) = L × di/dt = 0,05 × 400 cos(100t) = 20 cos(100t) V",
+      "explication": "Dérivée de i(t) multipliée par L."
+    },
+    {
+      "question": "Une bobine parfaite a une résistance de :",
+      "options": ["0 Ω", "10 Ω", "5 Ω", "∞ Ω"],
+      "reponse": "0 Ω",
+      "explication": "Bobine idéale sans pertes résistives."
+    },
+    {
+      "question": "Dans un circuit RL, le courant au temps t = τ vaut :",
+      "options": ["63% de la valeur finale", "0", "100% de la valeur finale", "50% de la valeur finale"],
+      "reponse": "63% de la valeur finale",
+      "explication": "τ est la constante de temps."
+    },
+    {
+      "question": "Si L = 0,1 H et R = 5 Ω, calculez la constante de temps τ.",
+      "options": ["τ = 0,02 s", "τ = 2 s", "τ = 0,5 s", "τ = 0,05 s"],
+      "reponse": "τ = 0,02 s",
+      "explication": "τ = L / R = 0,1 / 5"
+    },
+    {
+      "question": "Quelle est la réactance inductive d’une bobine de 20 mH à 60 Hz ?",
+      "options": ["X_L = 2π × 60 × 0,02 = 7,54 Ω", "X_L = 0,75 Ω", "X_L = 1,88 Ω", "X_L = 20 Ω"],
+      "reponse": "X_L = 2π × 60 × 0,02 = 7,54 Ω",
+      "explication": "Calcul direct de X_L."
+    },
+    {
+      "question": "Quel est l’effet d’une bobine dans un filtre passe-bas ?",
+      "options": ["Bloque les hautes fréquences", "Bloque les basses fréquences", "Amplifie le signal", "Aucune action"],
+      "reponse": "Bloque les hautes fréquences",
+      "explication": "La bobine oppose plus d’impédance aux hautes fréquences."
+    },
+    {
+      "question": "Quelle grandeur caractérise la capacité d’une bobine à s’opposer aux variations de courant ?",
+      "options": ["Inductance", "Résistance", "Capacité", "Impédance"],
+      "reponse": "Inductance",
+      "explication": "L’inductance est la propriété principale."
+    },
+    {
+      "question": "Le courant dans une bobine en régime sinusoïdal est en retard de combien par rapport à la tension ?",
+      "options": ["90°", "0°", "45°", "180°"],
+      "reponse": "90°",
+      "explication": "Le courant est retardé d’un quart de période."
+    },
+    {
+      "question": "La tension induite dans une bobine est proportionnelle à :",
+      "options": ["La dérivée du courant", "La tension appliquée", "Le courant", "La résistance"],
+      "reponse": "La dérivée du courant",
+      "explication": "u = L × di/dt"
+    },
+    {
+      "question": "Quelle est la formule de l’énergie stockée dans une bobine ?",
+      "options": ["E = ½ L I²", "E = L I", "E = I² / 2L", "E = L² I"],
+      "reponse": "E = ½ L I²",
+      "explication": "Formule d’énergie magnétique."
+    },
+    {
+      "question": "Quelle est la fréquence si la réactance inductive d’une bobine de 10 mH est 6,28 Ω ?",
+      "options": ["100 Hz", "50 Hz", "60 Hz", "200 Hz"],
+      "reponse": "100 Hz",
+      "explication": "f = X_L / (2π L) = 6,28 / (2π × 0,01)"
+    },
+    {
+      "question": "Dans un circuit RL, que se passe-t-il si R augmente ?",
+      "options": ["τ diminue", "τ augmente", "τ reste constant", "τ devient infini"],
+      "reponse": "τ diminue",
+      "explication": "τ = L / R, donc plus R grand, plus τ petit."
+    },
+    {
+      "question": "Une bobine a une inductance de 50 mH. Quelle est sa réactance à 100 Hz ?",
+      "options": ["31,4 Ω", "3,14 Ω", "0,314 Ω", "15,7 Ω"],
+      "reponse": "31,4 Ω",
+      "explication": "X_L = 2π × 100 × 0,05 = 31,4 Ω"
+    },
+    {
+      "question": "Si le courant dans une bobine est constant, la tension aux bornes est :",
+      "options": ["0 V", "Maximale", "Variable", "Égale au courant"],
+      "reponse": "0 V",
+      "explication": "u = L × di/dt, si di/dt = 0 alors u = 0."
+    },
+    {
+      "question": "Qu’est-ce que l’auto-induction ?",
+      "options": ["La production d’une force électromotrice par la variation du courant", "Une résistance", "Un condensateur", "Un effet thermique"],
+      "reponse": "La production d’une force électromotrice par la variation du courant",
+      "explication": "Phénomène principal dans une bobine."
+    }
+  ]
+}

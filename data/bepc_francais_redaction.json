@@ -1,0 +1,190 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est l’élément indispensable dans une introduction ?",
+      "options": ["Une citation", "L’annonce du plan", "La conclusion", "Une anecdote"],
+      "reponse": "L’annonce du plan",
+      "explication": "L’introduction présente le sujet et annonce clairement les grandes parties du développement."
+    },
+    {
+      "question": "Quelle est la fonction principale du développement dans une rédaction ?",
+      "options": ["Attirer l’attention du lecteur", "Exprimer des émotions", "Défendre des idées ou raconter", "Présenter les personnages"],
+      "reponse": "Défendre des idées ou raconter",
+      "explication": "Le développement est le cœur du texte : on y explique, argumente ou raconte en suivant un plan clair."
+    },
+    {
+      "question": "Quel type de connecteur est : 'par conséquent' ?",
+      "options": ["Connecteur d’addition", "Connecteur de cause", "Connecteur de but", "Connecteur de conséquence"],
+      "reponse": "Connecteur de conséquence",
+      "explication": "‘Par conséquent’ est un lien logique qui montre l’effet ou la conséquence d’un fait."
+    },
+    {
+      "question": "Pourquoi faut-il faire un brouillon avant de rédiger ?",
+      "options": ["Pour gagner du temps", "Pour éviter les fautes", "Pour bien organiser ses idées", "Pour décorer son texte"],
+      "reponse": "Pour bien organiser ses idées",
+      "explication": "Le brouillon permet de structurer les idées avant la rédaction finale, ce qui évite les répétitions ou les oublis."
+    },
+    {
+      "question": "Quel est le but d’une conclusion ?",
+      "options": ["Introduire le sujet", "Résumer et donner une ouverture", "Présenter les arguments", "Donner le titre"],
+      "reponse": "Résumer et donner une ouverture",
+      "explication": "La conclusion récapitule l’essentiel du texte et peut proposer une ouverture vers un autre sujet."
+    },
+    {
+      "question": "Quel type de texte raconte une histoire ?",
+      "options": ["Texte narratif", "Texte argumentatif", "Texte explicatif", "Texte descriptif"],
+      "reponse": "Texte narratif",
+      "explication": "Le texte narratif est basé sur une succession d’événements, souvent avec un narrateur et des personnages."
+    },
+    {
+      "question": "Quel est le bon ordre des étapes dans une rédaction ?",
+      "options": ["Conclusion, développement, introduction", "Introduction, développement, conclusion", "Développement, introduction, conclusion", "Titre, conclusion, introduction"],
+      "reponse": "Introduction, développement, conclusion",
+      "explication": "C’est la structure classique et logique pour toute rédaction scolaire."
+    },
+    {
+      "question": "Quel connecteur introduit un exemple ?",
+      "options": ["En effet", "Cependant", "Ainsi", "De plus"],
+      "reponse": "Ainsi",
+      "explication": "‘Ainsi’ est souvent utilisé pour introduire un exemple ou illustrer une idée."
+    },
+    {
+      "question": "Dans un récit au passé, quel temps est utilisé pour les actions principales ?",
+      "options": ["Passé composé", "Futur", "Imparfait", "Passé simple"],
+      "reponse": "Passé simple",
+      "explication": "Le passé simple est utilisé dans les récits littéraires pour raconter des actions principales."
+    },
+    {
+      "question": "Que permet un plan détaillé ?",
+      "options": ["Faire une belle introduction", "Éviter les fautes", "Écrire plus vite", "Structurer chaque paragraphe"],
+      "reponse": "Structurer chaque paragraphe",
+      "explication": "Un plan détaillé aide à organiser précisément les idées de chaque paragraphe avant la rédaction."
+    },
+    {
+      "question": "Quel est l’effet de l’usage abusif des répétitions ?",
+      "options": ["Rend le texte clair", "Montre l’insistance", "Affaiblit le style", "Renforce l’émotion"],
+      "reponse": "Affaiblit le style",
+      "explication": "Trop de répétitions rendent le texte monotone et peu agréable à lire."
+    },
+    {
+      "question": "Quelle phrase est une bonne phrase d’accroche ?",
+      "options": ["Je vais vous parler de…", "Il est important de noter que…", "Depuis la nuit des temps…", "J’ai fini mon devoir."],
+      "reponse": "Depuis la nuit des temps…",
+      "explication": "Une accroche originale attire l’attention du lecteur dès le début."
+    },
+    {
+      "question": "Dans une description, quel type de mot est le plus utilisé ?",
+      "options": ["Adverbes", "Pronoms", "Adjectifs", "Conjonctions"],
+      "reponse": "Adjectifs",
+      "explication": "Les adjectifs enrichissent la description en précisant les caractéristiques des éléments décrits."
+    },
+    {
+      "question": "Quel mot introduit une opposition ?",
+      "options": ["Car", "Donc", "Mais", "Ainsi"],
+      "reponse": "Mais",
+      "explication": "‘Mais’ signale un contraste entre deux idées."
+    },
+    {
+      "question": "Quelle caractéristique est essentielle pour un bon paragraphe ?",
+      "options": ["Une seule idée principale", "Beaucoup d'exemples", "Des phrases courtes", "Un mot compliqué"],
+      "reponse": "Une seule idée principale",
+      "explication": "Chaque paragraphe doit développer une seule idée pour garder une rédaction claire."
+    },
+    {
+      "question": "Dans quel cas utilise-t-on un texte argumentatif ?",
+      "options": ["Pour raconter une histoire", "Pour décrire un lieu", "Pour convaincre", "Pour donner un dialogue"],
+      "reponse": "Pour convaincre",
+      "explication": "Le texte argumentatif sert à défendre une opinion à l’aide d’arguments logiques et d’exemples."
+    },
+    {
+      "question": "Pourquoi faut-il éviter les phrases trop longues ?",
+      "options": ["Elles sont jolies", "Elles sont difficiles à comprendre", "Elles sont impressionnantes", "Elles montrent la richesse du vocabulaire"],
+      "reponse": "Elles sont difficiles à comprendre",
+      "explication": "Des phrases trop longues risquent de perdre le lecteur et rendent la lecture plus difficile."
+    },
+    {
+      "question": "Que faut-il vérifier dans la relecture ?",
+      "options": ["La ponctuation, l’orthographe, la cohérence", "Les couleurs du texte", "Le nombre de mots", "Le style d’écriture manuscrite"],
+      "reponse": "La ponctuation, l’orthographe, la cohérence",
+      "explication": "La relecture permet de corriger les fautes et d’améliorer la clarté du texte."
+    },
+    {
+      "question": "Quel connecteur indique un but ?",
+      "options": ["Afin de", "Mais", "Donc", "Cependant"],
+      "reponse": "Afin de",
+      "explication": "‘Afin de’ exprime l’objectif ou l’intention d’une action."
+    },
+    {
+      "question": "Quel est l’objectif d’un paragraphe conclusif ?",
+      "options": ["Ouvrir sur une autre idée", "Apporter un nouvel argument", "Terminer le texte en le résumant", "Commencer la discussion"],
+      "reponse": "Terminer le texte en le résumant",
+      "explication": "La conclusion résume les points essentiels du texte et marque la fin."
+    },
+    {
+      "question": "Quelle erreur faut-il éviter dans une rédaction ?",
+      "options": ["Faire une phrase interrogative", "Utiliser le passé", "Faire des hors-sujets", "Exprimer une opinion"],
+      "reponse": "Faire des hors-sujets",
+      "explication": "S’écarter du sujet montre un manque de compréhension et pénalise fortement la note."
+    },
+    {
+      "question": "Pourquoi faut-il utiliser des exemples dans un développement ?",
+      "options": ["Pour faire joli", "Pour respecter la consigne", "Pour illustrer et rendre concret", "Pour allonger le texte"],
+      "reponse": "Pour illustrer et rendre concret",
+      "explication": "Les exemples rendent l’argumentation plus convaincante et compréhensible."
+    },
+    {
+      "question": "Quel élément doit apparaître dès l’introduction ?",
+      "options": ["L’idée principale", "L’anecdote", "La conclusion", "Les arguments"],
+      "reponse": "L’idée principale",
+      "explication": "L’introduction doit présenter clairement le sujet traité."
+    },
+    {
+      "question": "Que faut-il faire pour respecter la cohérence d’un texte ?",
+      "options": ["Mettre un titre", "Utiliser les mêmes temps et suivre un fil logique", "Mettre beaucoup d’adjectifs", "Faire des paragraphes courts"],
+      "reponse": "Utiliser les mêmes temps et suivre un fil logique",
+      "explication": "La cohérence permet au lecteur de suivre facilement le raisonnement ou le récit."
+    },
+    {
+      "question": "Quel est le rôle des transitions ?",
+      "options": ["Faire joli", "Remplir le texte", "Relier les idées entre les parties", "Faire des répétitions"],
+      "reponse": "Relier les idées entre les parties",
+      "explication": "Les transitions assurent la fluidité entre les paragraphes ou parties d’un texte."
+    },
+    {
+      "question": "Quel outil peut aider à améliorer une rédaction ?",
+      "options": ["Un dictionnaire", "Un cahier de dessin", "Une calculatrice", "Un classeur"],
+      "reponse": "Un dictionnaire",
+      "explication": "Le dictionnaire aide à enrichir le vocabulaire et à éviter les fautes de sens."
+    },
+    {
+      "question": "Quand utilise-t-on un alinéa ?",
+      "options": ["À chaque début de paragraphe", "Pour séparer deux mots", "À la fin du texte", "Pour écrire un titre"],
+      "reponse": "À chaque début de paragraphe",
+      "explication": "L’alinéa marque le début d’un paragraphe et améliore la lisibilité du texte."
+    },
+    {
+      "question": "Quelle est la conséquence d’un texte sans ponctuation ?",
+      "options": ["Il est plus rapide à lire", "Il est plus clair", "Il devient difficile à comprendre", "Il est plus long"],
+      "reponse": "Il devient difficile à comprendre",
+      "explication": "La ponctuation est essentielle pour structurer les phrases et guider la lecture."
+    },
+    {
+      "question": "Quel conseil donne-t-on pour une bonne rédaction ?",
+      "options": ["Aller vite", "Utiliser beaucoup de citations", "Lire et relire son texte", "Changer souvent de sujet"],
+      "reponse": "Lire et relire son texte",
+      "explication": "Relire permet de corriger les fautes et d’améliorer la qualité globale du texte."
+    },
+    {
+      "question": "Quel élément rend une rédaction vivante ?",
+      "options": ["Des verbes d’action", "Des mots compliqués", "Des définitions", "Des chiffres"],
+      "reponse": "Des verbes d’action",
+      "explication": "Les verbes d’action dynamisent les phrases et rendent le récit plus vivant."
+    },
+    {
+      "question": "Quelle partie est essentielle dans un récit personnel ?",
+      "options": ["Les personnages", "L’émotion et le vécu", "La thèse", "Le dialogue"],
+      "reponse": "L’émotion et le vécu",
+      "explication": "Un récit personnel repose sur l’expression de sentiments et d’expériences vécues."
+    }
+  ]
+}

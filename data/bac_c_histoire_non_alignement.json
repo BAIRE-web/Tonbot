@@ -1,0 +1,244 @@
+{
+  "qcm": [
+    {
+      "question": "Quel rôle a joué Josip Broz Tito dans le mouvement ?",
+      "options": ["Hôte de la première conférence et leader influent", "Fondateur de l’OTAN", "Président des États-Unis", "Chef du bloc soviétique"],
+      "reponse": "Hôte de la première conférence et leader influent",
+      "explication": "Tito, leader yougoslave, a accueilli la conférence fondatrice de 1961."
+    },
+    {
+      "question": "Quel pays asiatique fut un membre fondateur important ?",
+      "options": ["Inde", "Chine", "Japon", "Corée du Sud"],
+      "reponse": "Inde",
+      "explication": "Sous la direction de Nehru, l’Inde fut un pilier du mouvement."
+    },
+    {
+      "question": "Le mouvement des Non-Alignés a-t-il une organisation permanente ?",
+      "options": ["Non, il fonctionne par conférences périodiques", "Oui, avec un siège permanent à Genève", "Oui, avec une armée permanente", "Non, c’est un simple concept"],
+      "reponse": "Non, il fonctionne par conférences périodiques",
+      "explication": "Le mouvement est une coalition souple sans organisation permanente."
+    },
+    {
+      "question": "Comment le mouvement a-t-il contribué à la lutte contre l’apartheid ?",
+      "options": ["Par un soutien politique et diplomatique", "Par des interventions militaires", "Par des sanctions économiques mondiales", "Il n’a pas contribué"],
+      "reponse": "Par un soutien politique et diplomatique",
+      "explication": "Il a appuyé la lutte pour l’égalité en Afrique du Sud."
+    },
+    {
+      "question": "Quelle est la relation du mouvement avec les Nations Unies ?",
+      "options": ["Il soutient le multilatéralisme via l’ONU", "Il rejette l’ONU", "Il contrôle l’ONU", "Il n’a aucune relation"],
+      "reponse": "Il soutient le multilatéralisme via l’ONU",
+      "explication": "Le mouvement promeut la coopération internationale à travers l’ONU."
+    },
+    {
+      "question": "Quel est le lien entre le mouvement et la décolonisation ?",
+      "options": ["Il a soutenu activement les pays colonisés", "Il a favorisé la colonisation", "Il était neutre", "Il s’opposait à la décolonisation"],
+      "reponse": "Il a soutenu activement les pays colonisés",
+      "explication": "Le mouvement a encouragé l’indépendance des colonies."
+    },
+    {
+      "question": "Le mouvement a-t-il adopté une position commune sur la guerre du Vietnam ?",
+      "options": ["Oui, il a critiqué l’intervention américaine", "Non, il était favorable à l’intervention", "Il est resté neutre", "Il a soutenu les États-Unis"],
+      "reponse": "Oui, il a critiqué l’intervention américaine",
+      "explication": "La plupart des membres ont condamné l’intervention américaine."
+    },
+    {
+      "question": "Le mouvement a-t-il une influence aujourd’hui ?",
+      "options": ["Oui, dans la coopération Sud-Sud", "Non, il est obsolète", "Oui, comme organisation militaire", "Non, il a disparu"],
+      "reponse": "Oui, dans la coopération Sud-Sud",
+      "explication": "Il reste un forum important pour les pays en développement."
+    },
+    {
+      "question": "Quelle critique majeure a-t-on faite au mouvement dans les années 1980 ?",
+      "options": ["Manque de cohésion politique", "Trop interventionniste", "Dominé par une superpuissance", "Forte militarisation"],
+      "reponse": "Manque de cohésion politique",
+      "explication": "Les intérêts divergents ont affaibli l’unité du groupe."
+    },
+    {
+      "question": "Quelle importance avait la conférence de Bandung (1955) pour le mouvement ?",
+      "options": ["Précurseur de la création du mouvement", "Fin officielle du mouvement", "Rencontre économique", "Conférence militaire"],
+      "reponse": "Précurseur de la création du mouvement",
+      "explication": "La conférence a rassemblé les futurs leaders non-alignés."
+    },
+    {
+      "question": "Quelle idée centrale a été défendue lors de la conférence de Belgrade ?",
+      "options": ["Respect de la souveraineté et paix mondiale", "Alliance militaire contre l’Est", "Répartition des ressources naturelles", "Unification politique"],
+      "reponse": "Respect de la souveraineté et paix mondiale",
+      "explication": "Ces principes sont fondamentaux pour le mouvement."
+    },
+    {
+      "question": "Quel pays américain est membre du mouvement des Non-Alignés ?",
+      "options": ["Cuba", "États-Unis", "Canada", "Mexique"],
+      "reponse": "Cuba",
+      "explication": "Cuba a rejoint le mouvement malgré son alliance avec l’URSS."
+    },
+    {
+      "question": "Le mouvement des Non-Alignés a-t-il des objectifs économiques ?",
+      "options": ["Oui, favoriser la coopération économique entre membres", "Non, uniquement politiques", "Non, uniquement culturels", "Oui, mais uniquement militaires"],
+      "reponse": "Oui, favoriser la coopération économique entre membres",
+      "explication": "Le développement économique est un axe important du mouvement."
+    },
+    {
+      "question": "Quel principe le mouvement défend-il concernant les conflits internationaux ?",
+      "options": ["Résolution pacifique des conflits", "Intervention militaire systématique", "Neutralité obligatoire", "Conflit armé inévitable"],
+      "reponse": "Résolution pacifique des conflits",
+      "explication": "Le mouvement prône la diplomatie et la négociation."
+    },
+    {
+      "question": "Quel est le lien entre le mouvement et la guerre froide ?",
+      "options": ["Neutralité entre blocs", "Allégeance au bloc Ouest", "Allégeance au bloc Est", "Ignorance du conflit"],
+      "reponse": "Neutralité entre blocs",
+      "explication": "Les membres refusent de s’aligner sur l’un ou l’autre bloc."
+    },
+    {
+      "question": "Quels pays sont exclus du mouvement ?",
+      "options": ["Les pays fortement alignés sur les blocs Est ou Ouest", "Tous les pays d’Afrique", "Tous les pays européens", "Tous les pays asiatiques"],
+      "reponse": "Les pays fortement alignés sur les blocs Est ou Ouest",
+      "explication": "Le mouvement est pour les pays refusant un alignement strict."
+    },
+    {
+      "question": "Comment sont prises les décisions dans le mouvement ?",
+      "options": ["Par consensus lors des conférences", "Par vote majoritaire", "Par décret d’un président", "Par intervention militaire"],
+      "reponse": "Par consensus lors des conférences",
+      "explication": "Le mouvement privilégie le dialogue et l’accord unanime."
+    },
+    {
+      "question": "Quel est le rôle des conférences des Non-Alignés ?",
+      "options": ["Fixer les orientations politiques et économiques", "Déclarer la guerre", "Établir des alliances militaires", "Organiser des compétitions sportives"],
+      "reponse": "Fixer les orientations politiques et économiques",
+      "explication": "Elles définissent les grandes lignes du mouvement."
+    },
+    {
+      "question": "Quel continent est le plus représenté dans le mouvement ?",
+      "options": ["Afrique", "Europe", "Amérique du Nord", "Océanie"],
+      "reponse": "Afrique",
+      "explication": "La majorité des membres sont africains, souvent issus de pays décolonisés."
+    },
+    {
+      "question": "Le mouvement des Non-Alignés a-t-il une influence sur la politique mondiale ?",
+      "options": ["Oui, en défendant les intérêts des pays en développement", "Non, il est marginal", "Oui, il contrôle l’ONU", "Non, il est dissous"],
+      "reponse": "Oui, en défendant les intérêts des pays en développement",
+      "explication": "Le mouvement reste un acteur important du Sud global."
+    },
+    {
+      "question": "Qu'est-ce que le mouvement des Non-Alignés ?",
+      "options": ["Un groupe de pays refusant de s'aligner sur les blocs Est ou Ouest", "Une alliance militaire", "Un pacte économique", "Un organisme culturel"],
+      "reponse": "Un groupe de pays refusant de s'aligner sur les blocs Est ou Ouest",
+      "explication": "Le mouvement vise à préserver l'indépendance politique des pays durant la Guerre froide."
+    },
+    {
+      "question": "En quelle année a été créé le mouvement des Non-Alignés ?",
+      "options": ["1961", "1945", "1955", "1970"],
+      "reponse": "1961",
+      "explication": "Le mouvement a été créé lors de la conférence de Belgrade en 1961."
+    },
+    {
+      "question": "Où s'est tenue la première conférence des pays non-alignés ?",
+      "options": ["Belgrade", "Helsinki", "New Delhi", "Casablanca"],
+      "reponse": "Belgrade",
+      "explication": "La première conférence a eu lieu à Belgrade, en Yougoslavie."
+    },
+    {
+      "question": "Quels sont les trois principaux fondateurs du mouvement ?",
+      "options": ["Josip Broz Tito, Jawaharlal Nehru, Gamal Abdel Nasser", "Charles de Gaulle, Dwight Eisenhower, Mao Zedong", "John F. Kennedy, Winston Churchill, Ho Chi Minh", "Nelson Mandela, Kwame Nkrumah, Fidel Castro"],
+      "reponse": "Josip Broz Tito, Jawaharlal Nehru, Gamal Abdel Nasser",
+      "explication": "Ces leaders ont joué un rôle clé dans la création du mouvement."
+    },
+    {
+      "question": "Quel était le principal objectif du mouvement ?",
+      "options": ["Maintenir l'indépendance politique et éviter la guerre froide", "Créer une alliance militaire", "Favoriser le commerce international", "Promouvoir la culture commune"],
+      "reponse": "Maintenir l'indépendance politique et éviter la guerre froide",
+      "explication": "Les pays voulaient éviter d’être entraînés dans les conflits Est-Ouest."
+    },
+    {
+      "question": "Quel contexte international a favorisé la naissance du mouvement ?",
+      "options": ["La Guerre froide", "La Première Guerre mondiale", "La crise économique de 1929", "La décolonisation des Amériques"],
+      "reponse": "La Guerre froide",
+      "explication": "La rivalité entre les blocs Est et Ouest incita certains pays à rester neutres."
+    },
+    {
+      "question": "Quel pays africain fut un membre fondateur important du mouvement ?",
+      "options": ["Égypte", "Afrique du Sud", "Nigeria", "Kenya"],
+      "reponse": "Égypte",
+      "explication": "L'Égypte, dirigée par Nasser, fut un acteur clé du mouvement."
+    },
+    {
+      "question": "Le mouvement des Non-Alignés est aussi appelé :",
+      "options": ["Mouvement des pays du tiers-monde", "Organisation du traité de l'Atlantique Nord", "Bloc de l'Est", "Union européenne"],
+      "reponse": "Mouvement des pays du tiers-monde",
+      "explication": "Il regroupe principalement les pays en développement du tiers-monde."
+    },
+    {
+      "question": "Quel rôle joue le mouvement des Non-Alignés aujourd’hui ?",
+      "options": ["Promotion de la coopération entre pays en développement", "Direction militaire mondiale", "Régulation du commerce mondial", "Organisation sportive"],
+      "reponse": "Promotion de la coopération entre pays en développement",
+      "explication": "Le mouvement encourage la solidarité et l’entraide entre ses membres."
+    },
+    {
+      "question": "Combien de pays étaient membres du mouvement en 2025 ?",
+      "options": ["120", "50", "80", "40"],
+      "reponse": "120",
+      "explication": "Le mouvement compte environ 120 membres actuellement."
+    },
+    {
+      "question": "Le mouvement des Non-Alignés soutient principalement :",
+      "options": ["La paix et le développement économique", "L’expansion militaire", "La colonisation", "La guerre froide"],
+      "reponse": "La paix et le développement économique",
+      "explication": "Le mouvement promeut des solutions pacifiques et le progrès économique."
+    },
+    {
+      "question": "Quel était le positionnement du mouvement face à la Guerre froide ?",
+      "options": ["Neutralité entre blocs Est et Ouest", "Alliance avec le bloc Est", "Alliance avec le bloc Ouest", "Refus de toute politique internationale"],
+      "reponse": "Neutralité entre blocs Est et Ouest",
+      "explication": "Les pays cherchaient à éviter l’alignement militaire ou politique."
+    },
+    {
+      "question": "Quel était le statut des pays membres ?",
+      "options": ["États souverains indépendants", "Colonies européennes", "Territoires occupés", "États fédérés"],
+      "reponse": "États souverains indépendants",
+      "explication": "Les membres étaient des nations souveraines affirmant leur indépendance."
+    },
+    {
+      "question": "Quel leader africain a soutenu le mouvement des Non-Alignés ?",
+      "options": ["Kwame Nkrumah", "Nelson Mandela", "Jomo Kenyatta", "Patrice Lumumba"],
+      "reponse": "Kwame Nkrumah",
+      "explication": "Nkrumah fut un défenseur actif du non-alignement et de la décolonisation."
+    },
+    {
+      "question": "Quelle conférence internationale symbolise la fondation du mouvement ?",
+      "options": ["Conférence de Bandung", "Conférence de Yalta", "Conférence de Potsdam", "Conférence de Téhéran"],
+      "reponse": "Conférence de Bandung",
+      "explication": "La conférence de Bandung en 1955 a préparé la création du mouvement."
+    },
+    {
+      "question": "Quel est le principal document fondateur du mouvement ?",
+      "options": ["La Déclaration de Belgrade", "La Charte des Nations Unies", "Le Traité de Versailles", "La Déclaration de Bandung"],
+      "reponse": "La Déclaration de Belgrade",
+      "explication": "La déclaration de Belgrade formalise les principes du mouvement en 1961."
+    },
+    {
+      "question": "Quel est l’un des principes fondamentaux du mouvement ?",
+      "options": ["Respect de la souveraineté et non-ingérence", "Intervention militaire obligatoire", "Colonisation des territoires voisins", "Alliance militaire avec l’Ouest"],
+      "reponse": "Respect de la souveraineté et non-ingérence",
+      "explication": "Les membres insistent sur le respect mutuel et l’autodétermination."
+    },
+    {
+      "question": "Le mouvement des Non-Alignés a influencé :",
+      "options": ["Les politiques de décolonisation", "Les guerres mondiales", "La révolution industrielle", "La conquête spatiale"],
+      "reponse": "Les politiques de décolonisation",
+      "explication": "Il a soutenu les luttes pour l’indépendance dans le tiers-monde."
+    },
+    {
+      "question": "Quelle est la structure principale du mouvement ?",
+      "options": ["Conférences des chefs d’État et de gouvernement", "Organisation militaire", "Assemblée générale permanente", "Union économique"],
+      "reponse": "Conférences des chefs d’État et de gouvernement",
+      "explication": "Les décisions majeures sont prises lors de sommets réguliers."
+    },
+    {
+      "question": "Le mouvement a été critiqué pour :",
+      "options": ["Manque d’efficacité et d’unité", "Sa puissance militaire", "Son contrôle sur le FMI", "Sa domination culturelle"],
+      "reponse": "Manque d’efficacité et d’unité",
+      "explication": "Des divergences internes ont parfois limité son impact."
+    }
+  ]
+}

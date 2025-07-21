@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Qu'est-ce que le champ électrique ?",
+      "options": ["Une force mécanique", "Une grandeur vectorielle représentant l'effet d'une charge", "Une onde sonore", "Un mouvement de particules"],
+      "reponse": "Une grandeur vectorielle représentant l'effet d'une charge",
+      "explication": "Le champ électrique est une grandeur vectorielle qui décrit l'effet exercé par une charge sur une autre dans son voisinage."
+    },
+    {
+      "question": "Quelle est l'unité du champ électrique ?",
+      "options": ["Volt", "Newton", "Volt par mètre", "Coulomb"],
+      "reponse": "Volt par mètre",
+      "explication": "L'unité du champ électrique est le V/m (volt par mètre) car E = U/d."
+    },
+    {
+      "question": "Quelle formule relie le champ électrique E à la force F et la charge q ?",
+      "options": ["E = F × q", "E = F / q", "E = q / F", "E = F + q"],
+      "reponse": "E = F / q",
+      "explication": "Le champ électrique est défini par E = F/q, où F est la force exercée sur la charge q."
+    },
+    {
+      "question": "Si une charge q = 2 µC est soumise à une force F = 0,1 N, quel est le champ électrique E ?",
+      "options": ["5 × 10^4 V/m", "2 × 10^-7 V/m", "2 × 10^5 V/m", "5 × 10^3 V/m"],
+      "reponse": "5 × 10^4 V/m",
+      "explication": "E = F/q = 0,1 / 2×10^-6 = 5×10^4 V/m."
+    },
+    {
+      "question": "Comment s'oriente le champ électrique ?",
+      "options": ["Du négatif vers le positif", "Du plus petit potentiel vers le plus grand", "Du positif vers le négatif", "Dans un sens aléatoire"],
+      "reponse": "Du positif vers le négatif",
+      "explication": "Le champ électrique va toujours du potentiel élevé (positif) vers le plus faible (négatif)."
+    },
+    {
+      "question": "Le champ E est-il homogène entre deux plaques parallèles chargées ?",
+      "options": ["Oui, partout", "Non, jamais", "Oui, sauf aux bords", "Seulement au centre"],
+      "reponse": "Oui, sauf aux bords",
+      "explication": "Le champ est homogène au centre mais présente des perturbations au niveau des bords (effet de bord)."
+    },
+    {
+      "question": "Quelle est l'expression du champ électrique E entre deux plaques parallèles ?",
+      "options": ["E = qd", "E = U/d", "E = d/U", "E = q/U"],
+      "reponse": "E = U/d",
+      "explication": "Le champ E entre deux plaques est donné par la formule E = U/d, avec U la tension et d la distance."
+    },
+    {
+      "question": "Quelle grandeur physique mesure le travail du champ électrique sur une charge ?",
+      "options": ["Tension", "Force", "Énergie", "Puissance"],
+      "reponse": "Énergie",
+      "explication": "Le travail du champ électrique se traduit par une variation d’énergie potentielle électrique."
+    },
+    {
+      "question": "Quelle est la direction du champ E créé par une charge positive ?",
+      "options": ["Vers la charge", "Circulaire", "Radiale sortante", "Radiale entrante"],
+      "reponse": "Radiale sortante",
+      "explication": "Une charge positive crée un champ électrique radial dirigé vers l'extérieur."
+    },
+    {
+      "question": "Dans un champ E, la trajectoire d'une charge négative est :",
+      "options": ["Opposée au champ", "Perpendiculaire au champ", "Dans le même sens que le champ", "Ne dépend pas du champ"],
+      "reponse": "Opposée au champ",
+      "explication": "Une charge négative subit une force opposée à la direction du champ E."
+    },
+    {
+      "question": "Une ligne de champ électrique est :",
+      "options": ["Une ligne courbe", "Une ligne imaginaire orientée", "Une ligne réelle", "Une onde dans l'espace"],
+      "reponse": "Une ligne imaginaire orientée",
+      "explication": "Les lignes de champ sont une représentation graphique du champ électrique, elles sont imaginaires et orientées."
+    },
+    {
+      "question": "Que se passe-t-il si une charge q est placée dans un champ E uniforme ?",
+      "options": ["Elle reste immobile", "Elle tourne sur elle-même", "Elle subit une force constante", "Elle change de masse"],
+      "reponse": "Elle subit une force constante",
+      "explication": "Dans un champ E uniforme, la force F = qE est constante en direction et en intensité."
+    },
+    {
+      "question": "Le champ créé par une charge ponctuelle est :",
+      "options": ["Circulaire", "Constant", "Inexistant", "Radial"],
+      "reponse": "Radial",
+      "explication": "Le champ est radial autour d'une charge ponctuelle, dirigé vers l'extérieur ou l'intérieur selon le signe de la charge."
+    },
+    {
+      "question": "L'énergie potentielle électrique est minimale quand :",
+      "options": ["La charge est éloignée", "La charge est au repos", "La charge est proche du pôle opposé", "Le champ est nul"],
+      "reponse": "La charge est proche du pôle opposé",
+      "explication": "L’énergie potentielle diminue quand une charge se rapproche du pôle de signe opposé dans le champ électrique."
+    },
+    {
+      "question": "Le champ électrique est lié à la variation de :",
+      "options": ["Température", "Énergie cinétique", "Potentiel électrique", "Champ magnétique"],
+      "reponse": "Potentiel électrique",
+      "explication": "Le champ électrique est le gradient du potentiel électrique (E = -dV/dx)."
+    },
+    {
+      "question": "Deux charges de même signe créent un champ électrique :",
+      "options": ["Qui s'annule entre elles", "Dirigé l'une vers l'autre", "Dirigé de l'une vers l'extérieur", "Qui se repousse mutuellement"],
+      "reponse": "Qui se repousse mutuellement",
+      "explication": "Deux charges de même signe exercent une force de répulsion, donc les champs se repoussent."
+    },
+    {
+      "question": "Un champ électrique uniforme est un champ :",
+      "options": ["Dont l’intensité varie en tout point", "Dont les lignes de champ sont parallèles", "Qui est créé uniquement par des charges négatives", "Qui a toujours une direction radiale"],
+      "reponse": "Dont les lignes de champ sont parallèles",
+      "explication": "Dans un champ uniforme, l'intensité est constante et les lignes de champ sont parallèles et équidistantes."
+    },
+    {
+      "question": "L’unité du champ électrique dans le système international est :",
+      "options": ["V", "C/m", "V/m", "N"],
+      "reponse": "V/m",
+      "explication": "Le champ électrique est exprimé en volts par mètre (V/m)."
+    },
+    {
+      "question": "Si une charge est multipliée par 2, la force électrique qu’elle subit dans un champ E :",
+      "options": ["Diminue de moitié", "Ne change pas", "Double", "Devient nulle"],
+      "reponse": "Double",
+      "explication": "F = qE, donc si q double, F double."
+    },
+    {
+      "question": "Une charge q est placée dans un champ E et se déplace parallèlement au champ, alors :",
+      "options": ["Elle ne subit aucune force", "Elle subit une force perpendiculaire", "Son énergie potentielle change", "Le champ est annulé"],
+      "reponse": "Son énergie potentielle change",
+      "explication": "Le déplacement dans le sens du champ électrique entraîne un changement d’énergie potentielle."
+    },
+    {
+      "question": "La direction du champ électrique créé par une charge positive est :",
+      "options": ["Vers la charge", "Perpendiculaire à la charge", "Vers l’infini", "Radialement vers l’extérieur"],
+      "reponse": "Radialement vers l’extérieur",
+      "explication": "Les lignes de champ sortent des charges positives."
+    },
+    {
+      "question": "Deux plaques parallèles créent un champ électrique uniforme. Que vaut le champ si la tension est doublée ?",
+      "options": ["Il reste constant", "Il est divisé par 2", "Il est doublé", "Il devient nul"],
+      "reponse": "Il est doublé",
+      "explication": "E = U/d donc si U double et d reste constant, E double."
+    },
+    {
+      "question": "Une particule chargée placée dans un champ électrique et immobile :",
+      "options": ["Est en équilibre stable", "Est soumise à une force électrique", "Ne subit aucune force", "Est attirée vers la charge négative"],
+      "reponse": "Est soumise à une force électrique",
+      "explication": "Une charge placée dans un champ subit toujours une force F = qE, même immobile."
+    },
+    {
+      "question": "Les lignes de champ électrique entre deux plaques parallèles sont :",
+      "options": ["Convergentes", "Radiales", "Parallèles", "Inexistantes"],
+      "reponse": "Parallèles",
+      "explication": "Dans un champ uniforme entre plaques parallèles, les lignes sont parallèles."
+    },
+    {
+      "question": "La formule de l’énergie potentielle d’une charge q dans un champ E est :",
+      "options": ["E = qd", "U = qEd", "F = qE", "U = E/q"],
+      "reponse": "U = qEd",
+      "explication": "L’énergie potentielle U dans un champ est U = qEd si le déplacement est dans la direction du champ."
+    },
+    {
+      "question": "L'intensité du champ électrique diminue :",
+      "options": ["Avec la tension", "Avec la distance dans un champ uniforme", "Avec la distance au carré pour une charge ponctuelle", "Avec la masse de la particule"],
+      "reponse": "Avec la distance au carré pour une charge ponctuelle",
+      "explication": "E = k*q/r² pour une charge ponctuelle."
+    },
+    {
+      "question": "Un électron placé dans un champ E se déplace :",
+      "options": ["Dans le sens du champ", "Contre le champ", "Perpendiculairement au champ", "Reste immobile"],
+      "reponse": "Contre le champ",
+      "explication": "Un électron est une charge négative, il se déplace dans le sens opposé au champ."
+    },
+    {
+      "question": "Le champ électrique est défini par :",
+      "options": ["La force par unité de distance", "La tension par unité de charge", "La force par unité de charge", "Le courant par unité de tension"],
+      "reponse": "La force par unité de charge",
+      "explication": "E = F/q définit le champ comme la force exercée par unité de charge."
+    },
+    {
+      "question": "Lorsque la distance entre deux charges augmente, la force électrique :",
+      "options": ["Augmente", "Reste constante", "Diminue", "Devient nulle"],
+      "reponse": "Diminue",
+      "explication": "La force diminue selon la loi de Coulomb : F ∝ 1/r²."
+    },
+    {
+      "question": "Le champ électrique au milieu de deux charges opposées et égales est :",
+      "options": ["Nul", "Maximum", "Perpendiculaire", "Constant"],
+      "reponse": "Maximum",
+      "explication": "Les champs s’ajoutent au milieu, donc c’est là qu’il est maximum."
+    },
+    {
+      "question": "Une charge de +3 µC est placée dans un champ électrique uniforme de 2×10³ V/m. Quelle est la force exercée sur elle ?",
+      "options": ["A) 6 N", "B) 0.006 N", "C) 0.6 N", "D) 600 N"],
+      "reponse": "C) 0.6 N",
+      "explication": "F = qE = 3×10⁻⁶ × 2×10³ = 0.006 N = 0.6 N"
+    },
+    {
+      "question": "La direction du champ électrique est toujours :",
+      "options": ["A) Opposée au mouvement des charges", "B) Vers les charges positives", "C) De la charge positive vers la charge négative", "D) Perpendiculaire au courant"],
+      "reponse": "C) De la charge positive vers la charge négative",
+      "explication": "Le champ électrique est dirigé du positif vers le négatif."
+    },
+    {
+      "question": "Deux charges identiques créent un champ au milieu de leur axe. Ce champ est :",
+      "options": ["A) Nul", "B) Maximum", "C) Inverse", "D) Uniforme"],
+      "reponse": "A) Nul",
+      "explication": "Les deux champs s’annulent en raison de leur symétrie et de même valeur opposée."
+    },
+    {
+      "question": "Un champ électrique de 10⁴ V/m agit sur une charge de -2 μC. La direction de la force est :",
+      "options": ["A) Même que celle du champ", "B) Perpendiculaire au champ", "C) Opposée au champ", "D) Nulle"],
+      "reponse": "C) Opposée au champ",
+      "explication": "Une charge négative subit une force opposée au champ électrique."
+    },
+    {
+      "question": "Quel est le travail effectué par le champ électrique pour déplacer une charge de +5 µC entre deux points distants de 0,2 m, si E = 1000 V/m ?",
+      "options": ["A) 0.2 J", "B) 1 J", "C) 0.001 J", "D) 0.005 J"],
+      "reponse": "D) 0.005 J",
+      "explication": "W = qEd = 5×10⁻⁶ × 1000 × 0.2 = 0.001 J"
+    },
+    {
+      "question": "Le champ électrique dû à une charge ponctuelle diminue :",
+      "options": ["A) Linéairement", "B) Proportionnellement à la distance", "C) En 1/r", "D) En 1/r²"],
+      "reponse": "D) En 1/r²",
+      "explication": "Champ E = kQ/r², donc inversement proportionnel au carré de la distance."
+    },
+    {
+      "question": "Un électron subit une accélération dans un champ électrique. Que peut-on affirmer ?",
+      "options": ["A) Il se déplace en ligne droite", "B) Il reste immobile", "C) Il est attiré par le champ", "D) Il se déplace dans le sens du champ"],
+      "reponse": "C) Il est attiré par le champ",
+      "explication": "Une charge négative est attirée dans le sens opposé au champ."
+    },
+    {
+      "question": "L’unité du champ électrique est équivalente à :",
+      "options": ["A) N", "B) V", "C) N/C", "D) C/N"],
+      "reponse": "C) N/C",
+      "explication": "E = F/q donc l’unité est N/C"
+    },
+    {
+      "question": "Une particule de charge -1.6×10⁻¹⁹ C subit une force de 3.2×10⁻¹⁵ N. Quelle est l’intensité du champ ?",
+      "options": ["A) 2×10⁴ V/m", "B) 2×10⁻⁴ V/m", "C) 5×10⁴ V/m", "D) 5×10⁻⁴ V/m"],
+      "reponse": "A) 2×10⁴ V/m",
+      "explication": "E = F/q = 3.2×10⁻¹⁵ / 1.6×10⁻¹⁹ = 2×10⁴ V/m"
+    },
+    {
+      "question": "Une ligne de champ entre deux plaques est :",
+      "options": ["A) Courbée", "B) Circulaire", "C) Radiale", "D) Rectiligne"],
+      "reponse": "D) Rectiligne",
+      "explication": "Entre deux plaques parallèles, le champ est uniforme donc les lignes sont droites."
+    },
+    {
+      "question": "Quelle est la nature du champ dans un conducteur en équilibre électrostatique ?",
+      "options": ["A) Nul", "B) Maximum", "C) Constant", "D) Variable"],
+      "reponse": "A) Nul",
+      "explication": "À l'intérieur d'un conducteur à l'équilibre, E = 0."
+    },
+    {
+      "question": "Le potentiel électrique diminue dans :",
+      "options": ["A) Le sens du champ", "B) Le sens inverse du champ", "C) Une direction perpendiculaire", "D) Les deux sens"],
+      "reponse": "A) Le sens du champ",
+      "explication": "Le potentiel diminue dans la direction du champ électrique."
+    },
+    {
+      "question": "Si le champ E est nul en un point, alors :",
+      "options": ["A) La force est maximale", "B) Il n'y a pas de charge", "C) Le potentiel est nul", "D) Aucune force n'agit sur une charge"],
+      "reponse": "D) Aucune force n'agit sur une charge",
+      "explication": "F = qE donc si E = 0, F = 0, peu importe la charge."
+    },
+    {
+      "question": "Les lignes de champ électrique ne se croisent pas car :",
+      "options": ["A) Elles représentent des courants", "B) Cela violerait l’unicité de la direction du champ", "C) Elles sont imaginaires", "D) Le champ serait infini"],
+      "reponse": "B) Cela violerait l’unicité de la direction du champ",
+      "explication": "En un point, le champ ne peut avoir qu'une seule direction."
+    },
+    {
+      "question": "Dans un champ uniforme, la force sur une charge est :",
+      "options": ["A) Variable", "B) Constante", "C) Nulle", "D) Radiale"],
+      "reponse": "B) Constante",
+      "explication": "E uniforme implique F = qE constante si q est constante."
+    },
+    {
+      "question": "Dans une expérience, une charge est repoussée par une plaque. Cela indique que :",
+      "options": ["A) Elle est neutre", "B) Elle est négative", "C) Elle est positive", "D) Elle est en mouvement"],
+      "reponse": "C) Elle est positive",
+      "explication": "Une charge positive est repoussée par une plaque positive."
+    },
+    {
+      "question": "Les lignes de champ divergent autour :",
+      "options": ["A) D'une charge négative", "B) D'une masse", "C) D'une charge positive", "D) D’un dipôle"],
+      "reponse": "C) D'une charge positive",
+      "explication": "Les lignes de champ sortent des charges positives."
+    },
+    {
+      "question": "Le champ dans une cage de Faraday est :",
+      "options": ["A) Très intense", "B) Faible", "C) Uniforme", "D) Nul"],
+      "reponse": "D) Nul",
+      "explication": "La cage de Faraday bloque les champs électrostatiques internes."
+    },
+    {
+      "question": "Une particule en mouvement dans un champ E subit :",
+      "options": ["A) Une accélération nulle", "B) Une force centripète", "C) Une force constante", "D) Aucune force"],
+      "reponse": "C) Une force constante",
+      "explication": "F = qE est constante si E est uniforme."
+    },
+    {
+      "question": "Quelle est la formule correcte pour le champ d’une charge ponctuelle ?",
+      "options": ["A) E = kQ/r", "B) E = kQ/r²", "C) E = Q/4πr²", "D) E = Qr²/k"],
+      "reponse": "B) E = kQ/r²",
+      "explication": "C’est la formule du champ électrique d’une charge ponctuelle."
+    }
+  ]
+}

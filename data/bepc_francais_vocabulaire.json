@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le synonyme de « rapide » ?",
+      "options": ["lent", "vite", "paresseux", "calme"],
+      "reponse": "vite",
+      "explication": "« Vite » est un synonyme de « rapide », ils expriment la même idée de célérité."
+    },
+    {
+      "question": "Quel est l’antonyme de « courageux » ?",
+      "options": ["brave", "peureux", "fort", "honnête"],
+      "reponse": "peureux",
+      "explication": "« Peureux » est l’opposé de « courageux », indiquant quelqu’un qui manque de courage."
+    },
+    {
+      "question": "Que signifie le mot « abondant » ?",
+      "options": ["en grande quantité", "rare", "petit", "mauvais"],
+      "reponse": "en grande quantité",
+      "explication": "« Abondant » décrit quelque chose qui existe en grande quantité."
+    },
+    {
+      "question": "Quel mot complète correctement la phrase : « Il a une grande _____ de travail » ?",
+      "options": ["quantité", "qualité", "rapidité", "longueur"],
+      "reponse": "quantité",
+      "explication": "La phrase indique une notion de volume, donc « quantité » est correct."
+    },
+    {
+      "question": "Quel est le contraire de « visible » ?",
+      "options": ["invisible", "clair", "grand", "léger"],
+      "reponse": "invisible",
+      "explication": "« Invisible » signifie que l’on ne peut pas voir, ce qui est contraire de « visible »."
+    },
+    {
+      "question": "Que veut dire le mot « fragile » ?",
+      "options": ["qui se casse facilement", "solide", "grand", "rapide"],
+      "reponse": "qui se casse facilement",
+      "explication": "« Fragile » décrit un objet ou une chose qui peut se casser ou s’abîmer facilement."
+    },
+    {
+      "question": "Quel est le synonyme de « joyeux » ?",
+      "options": ["triste", "heureux", "fatigué", "fâché"],
+      "reponse": "heureux",
+      "explication": "« Joyeux » et « heureux » expriment un état de bonheur."
+    },
+    {
+      "question": "Que signifie l’expression « prendre son courage à deux mains » ?",
+      "options": ["oser faire quelque chose de difficile", "être très fatigué", "avoir peur", "être lent"],
+      "reponse": "oser faire quelque chose de difficile",
+      "explication": "Cette expression signifie qu’on décide d’affronter une situation difficile avec courage."
+    },
+    {
+      "question": "Quel est le contraire de « commencer » ?",
+      "options": ["finir", "démarrer", "partir", "arriver"],
+      "reponse": "finir",
+      "explication": "« Finir » signifie arrêter ou terminer ce qui avait commencé."
+    },
+    {
+      "question": "Quel mot est un adjectif ?",
+      "options": ["rapide", "courir", "vite", "rapidement"],
+      "reponse": "rapide",
+      "explication": "« Rapide » est un adjectif qui décrit un nom."
+    },
+    {
+      "question": "Que veut dire le mot « immense » ?",
+      "options": ["très grand", "petit", "moyen", "léger"],
+      "reponse": "très grand",
+      "explication": "« Immense » décrit quelque chose de très grand, de grande taille."
+    },
+    {
+      "question": "Quel est le synonyme de « content » ?",
+      "options": ["heureux", "triste", "fâché", "fatigué"],
+      "reponse": "heureux",
+      "explication": "« Content » signifie être heureux, satisfait."
+    },
+    {
+      "question": "Quel mot complète la phrase : « Le soleil _____ brille aujourd’hui » ?",
+      "options": ["fortement", "lentement", "fragilement", "rarement"],
+      "reponse": "fortement",
+      "explication": "« Fortement » convient pour indiquer une intensité élevée de la lumière."
+    },
+    {
+      "question": "Quel est le contraire de « facile » ?",
+      "options": ["difficile", "simple", "rapide", "lent"],
+      "reponse": "difficile",
+      "explication": "« Difficile » signifie que ce n’est pas facile à faire."
+    },
+    {
+      "question": "Quel mot est un verbe ?",
+      "options": ["manger", "beau", "lent", "très"],
+      "reponse": "manger",
+      "explication": "« Manger » est un verbe qui exprime une action."
+    },
+    {
+      "question": "Quel est le synonyme de « finir » ?",
+      "options": ["terminer", "commencer", "continuer", "arrêter"],
+      "reponse": "terminer",
+      "explication": "« Terminer » signifie achever, c’est un synonyme de « finir »."
+    },
+    {
+      "question": "Quel est l’antonyme de « fort » ?",
+      "options": ["faible", "puissant", "grand", "rapide"],
+      "reponse": "faible",
+      "explication": "« Faible » est le contraire de « fort », indiquant un manque de force."
+    },
+    {
+      "question": "Quel mot complète la phrase : « Elle parle _____ » ?",
+      "options": ["doucement", "doux", "douce", "doucement"],
+      "reponse": "doucement",
+      "explication": "« Doucement » est un adverbe qui décrit la manière de parler."
+    },
+    {
+      "question": "Quel est le synonyme de « demander » ?",
+      "options": ["questionner", "répondre", "écouter", "entendre"],
+      "reponse": "questionner",
+      "explication": "« Questionner » signifie poser une question, synonyme de « demander »."
+    },
+    {
+      "question": "Quel mot est un nom ?",
+      "options": ["maison", "grand", "marcher", "lentement"],
+      "reponse": "maison",
+      "explication": "« Maison » est un nom, désignant un lieu."
+    },
+    {
+      "question": "Quel est le contraire de « haut » ?",
+      "options": ["bas", "grand", "loin", "près"],
+      "reponse": "bas",
+      "explication": "« Bas » est l’opposé de « haut », indiquant une position plus basse."
+    },
+    {
+      "question": "Quel mot complète la phrase : « Elle a acheté un _____ livre » ?",
+      "options": ["nouveau", "nouvel", "nouvelle", "nouveaux"],
+      "reponse": "nouveau",
+      "explication": "« Nouveau » s’accorde avec le nom masculin singulier 'livre'."
+    },
+    {
+      "question": "Que signifie le mot « éclatant » ?",
+      "options": ["très brillant", "très sombre", "très lent", "très petit"],
+      "reponse": "très brillant",
+      "explication": "« Éclatant » décrit quelque chose de très lumineux ou brillant."
+    },
+    {
+      "question": "Quel est l’antonyme de « calme » ?",
+      "options": ["bruyant", "silencieux", "tranquille", "paisible"],
+      "reponse": "bruyant",
+      "explication": "« Bruyant » signifie beaucoup de bruit, contraire de calme."
+    },
+    {
+      "question": "Quel mot complète la phrase : « Elle est très _____ aujourd’hui » ?",
+      "options": ["fatiguée", "fatigué", "fatigués", "fatiguées"],
+      "reponse": "fatiguée",
+      "explication": "Le féminin singulier 'fatiguée' s’accorde avec le sujet féminin singulier."
+    },
+    {
+      "question": "Quel est le synonyme de « sourire » ?",
+      "options": ["rire", "pleurer", "chanter", "crier"],
+      "reponse": "rire",
+      "explication": "« Sourire » est une expression de joie liée au visage, proche de « rire »."
+    },
+    {
+      "question": "Quel mot est un adjectif possessif ?",
+      "options": ["mon", "maison", "marcher", "lent"],
+      "reponse": "mon",
+      "explication": "« Mon » est un adjectif possessif indiquant la possession."
+    },
+    {
+      "question": "Quel est le contraire de « clair » ?",
+      "options": ["sombre", "léger", "pur", "net"],
+      "reponse": "sombre",
+      "explication": "« Sombre » signifie absence de lumière, contraire de clair."
+    },
+    {
+      "question": "Quel mot complète la phrase : « Il travaille très _____ » ?",
+      "options": ["bien", "bon", "bonne", "beau"],
+      "reponse": "bien",
+      "explication": "« Bien » est un adverbe qui modifie le verbe 'travaille'."
+    },
+    {
+      "question": "Choisis le mot qui est un synonyme de « rapide » :",
+      "options": ["lent", "vite", "paresseux", "calme"],
+      "reponse": "vite",
+      "explication": "« Vite » est un synonyme de « rapide », ils expriment la même idée de célérité."
+    },
+    {
+      "question": "Quel est l’antonyme de « grand » ?",
+      "options": ["petit", "haut", "large", "immense"],
+      "reponse": "petit",
+      "explication": "« Petit » est le contraire de « grand »."
+    },
+    {
+      "question": "Quel mot complète la phrase : « La maison est très _____ » ?",
+      "options": ["grande", "grand", "grandement", "grands"],
+      "reponse": "grande",
+      "explication": "L’adjectif doit s’accorder en genre et en nombre avec le nom 'maison' féminin singulier."
+    },
+    {
+      "question": "Quel est le synonyme de « content » ?",
+      "options": ["heureux", "triste", "fâché", "fatigué"],
+      "reponse": "heureux",
+      "explication": "« Content » signifie être heureux, satisfait."
+    },
+    {
+      "question": "Quel mot est un verbe ?",
+      "options": ["marcher", "beau", "lent", "très"],
+      "reponse": "marcher",
+      "explication": "« Marcher » est un verbe qui exprime une action."
+    },
+    {
+      "question": "Quel est le contraire de « fort » ?",
+      "options": ["faible", "puissant", "grand", "rapide"],
+      "reponse": "faible",
+      "explication": "« Faible » est l’opposé de « fort »."
+    },
+    {
+      "question": "Quel mot complète la phrase : « Elle parle _____ » ?",
+      "options": ["doucement", "doux", "douce", "doucement"],
+      "reponse": "doucement",
+      "explication": "« Doucement » est un adverbe qui décrit la manière de parler."
+    },
+    {
+      "question": "Quel est le synonyme de « demander » ?",
+      "options": ["questionner", "répondre", "écouter", "entendre"],
+      "reponse": "questionner",
+      "explication": "« Questionner » signifie poser une question."
+    },
+    {
+      "question": "Quel mot est un nom ?",
+      "options": ["maison", "grand", "marcher", "lentement"],
+      "reponse": "maison",
+      "explication": "« Maison » est un nom, désignant un lieu."
+    },
+    {
+      "question": "Quel est le contraire de « haut » ?",
+      "options": ["bas", "grand", "loin", "près"],
+      "reponse": "bas",
+      "explication": "« Bas » est l’opposé de « haut »."
+    },
+    {
+      "question": "Quel mot complète la phrase : « Elle a acheté un _____ livre » ?",
+      "options": ["nouveau", "nouvel", "nouvelle", "nouveaux"],
+      "reponse": "nouveau",
+      "explication": "« Nouveau » s’accorde avec le nom masculin singulier 'livre'."
+    },
+    {
+      "question": "Que signifie le mot « éclatant » ?",
+      "options": ["très brillant", "très sombre", "très lent", "très petit"],
+      "reponse": "très brillant",
+      "explication": "« Éclatant » décrit quelque chose de très lumineux ou brillant."
+    },
+    {
+      "question": "Quel est l’antonyme de « calme » ?",
+      "options": ["bruyant", "silencieux", "tranquille", "paisible"],
+      "reponse": "bruyant",
+      "explication": "« Bruyant » signifie beaucoup de bruit, contraire de calme."
+    },
+    {
+      "question": "Quel mot complète la phrase : « Elle est très _____ aujourd’hui » ?",
+      "options": ["fatiguée", "fatigué", "fatigués", "fatiguées"],
+      "reponse": "fatiguée",
+      "explication": "Le féminin singulier 'fatiguée' s’accorde avec le sujet féminin singulier."
+    },
+    {
+      "question": "Quel est le synonyme de « sourire » ?",
+      "options": ["rire", "pleurer", "chanter", "crier"],
+      "reponse": "rire",
+      "explication": "« Sourire » est une expression de joie liée au visage."
+    },
+    {
+      "question": "Quel mot est un adjectif possessif ?",
+      "options": ["mon", "maison", "marcher", "lent"],
+      "reponse": "mon",
+      "explication": "« Mon » indique la possession."
+    },
+    {
+      "question": "Quel est le contraire de « clair » ?",
+      "options": ["sombre", "léger", "pur", "net"],
+      "reponse": "sombre",
+      "explication": "« Sombre » signifie absence de lumière, contraire de clair."
+    },
+    {
+      "question": "Quel mot complète la phrase : « Il travaille très _____ » ?",
+      "options": ["bien", "bon", "bonne", "beau"],
+      "reponse": "bien",
+      "explication": "« Bien » est un adverbe qui modifie le verbe 'travaille'."
+    },
+    {
+      "question": "Choisis le mot qui est un antonyme de « joyeux » :",
+      "options": ["heureux", "triste", "content", "satisfait"],
+      "reponse": "triste",
+      "explication": "« Triste » est l’opposé de « joyeux »."
+    },
+    {
+      "question": "Quel mot complète la phrase : « Il est très _____ en classe » ?",
+      "options": ["studieux", "étudiant", "étudier", "études"],
+      "reponse": "studieux",
+      "explication": "« Studieux » est un adjectif qui décrit quelqu’un qui travaille bien."
+    }
+  ]
+}

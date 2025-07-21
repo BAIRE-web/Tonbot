@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce que le secteur secondaire ?",
+      "options": ["Industrie et transformation", "Agriculture", "Services", "Commerce"],
+      "reponse": "Industrie et transformation",
+      "explication": "Le secteur secondaire comprend la transformation des matières premières."
+    },
+    {
+      "question": "Quelle est une industrie importante au Burkina Faso ?",
+      "options": ["Agroalimentaire", "Pétrole", "Technologie", "Aéronautique"],
+      "reponse": "Agroalimentaire",
+      "explication": "L’industrie agroalimentaire transforme les produits agricoles."
+    },
+    {
+      "question": "Quel minéral est le plus exploité pour l’industrie ?",
+      "options": ["Or", "Diamant", "Charbon", "Fer"],
+      "reponse": "Or",
+      "explication": "Le Burkina Faso est un grand producteur d’or en Afrique de l’Ouest."
+    },
+    {
+      "question": "Quel est un défi majeur du secteur secondaire ?",
+      "options": ["Faible mécanisation", "Excès de main-d’œuvre", "Surproduction", "Infrastructure développée"],
+      "reponse": "Faible mécanisation",
+      "explication": "Le manque de machines limite la productivité industrielle."
+    },
+    {
+      "question": "Quelle ville est un centre industriel au Burkina Faso ?",
+      "options": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Fada N’Gourma"],
+      "reponse": "Bobo-Dioulasso",
+      "explication": "Bobo-Dioulasso est un pôle industriel important."
+    },
+    {
+      "question": "Quel est un secteur industriel en développement ?",
+      "options": ["Textile", "Automobile", "Aérospatial", "Chimie pétrolière"],
+      "reponse": "Textile",
+      "explication": "L’industrie textile commence à se développer au Burkina Faso."
+    },
+    {
+      "question": "Quelle est la contribution du secteur secondaire au PIB ?",
+      "options": ["Environ 25%", "Plus de 50%", "Moins de 10%", "70%"],
+      "reponse": "Environ 25%",
+      "explication": "Le secteur secondaire représente environ un quart du PIB national."
+    },
+    {
+      "question": "Quel est un produit manufacturé courant ?",
+      "options": ["Ciment", "Pétrole brut", "Millet", "Boeuf"],
+      "reponse": "Ciment",
+      "explication": "Le ciment est produit pour la construction."
+    },
+    {
+      "question": "Quel est un obstacle à l’industrialisation ?",
+      "options": ["Manque d’énergie fiable", "Abondance d’eau", "Main-d’œuvre trop qualifiée", "Infrastructure moderne"],
+      "reponse": "Manque d’énergie fiable",
+      "explication": "L’accès limité à l’électricité freine les industries."
+    },
+    {
+      "question": "Quelle est la place de l’artisanat dans le secteur secondaire ?",
+      "options": ["Important et traditionnel", "Absent", "Inexistant", "Marginal"],
+      "reponse": "Important et traditionnel",
+      "explication": "L’artisanat joue un rôle majeur, notamment dans les zones rurales."
+    },
+    {
+      "question": "Quelle industrie est liée à l’exploitation minière ?",
+      "options": ["Extraction et transformation des minéraux", "Pêche", "Agriculture", "Commerce"],
+      "reponse": "Extraction et transformation des minéraux",
+      "explication": "Le secteur minier est un pilier du secteur secondaire."
+    },
+    {
+      "question": "Quelle politique peut favoriser le développement industriel ?",
+      "options": ["Investissement dans les infrastructures", "Réduction des écoles", "Interdiction des usines", "Augmentation des taxes"],
+      "reponse": "Investissement dans les infrastructures",
+      "explication": "Des infrastructures modernes favorisent la croissance industrielle."
+    },
+    {
+      "question": "Quel est le rôle des zones industrielles ?",
+      "options": ["Regrouper les entreprises", "Agriculture intensive", "Zones résidentielles", "Tourisme"],
+      "reponse": "Regrouper les entreprises",
+      "explication": "Elles facilitent la production et la logistique."
+    },
+    {
+      "question": "Quelle est une source d’énergie utilisée par l’industrie burkinabé ?",
+      "options": ["Hydroélectricité", "Pétrole raffiné localement", "Charbon", "Solaire en développement"],
+      "reponse": "Hydroélectricité",
+      "explication": "L’hydroélectricité est utilisée mais limitée par le climat."
+    },
+    {
+      "question": "Quel est un secteur industriel en lien avec l’agriculture ?",
+      "options": ["Transformation agroalimentaire", "Textile", "Aérospatial", "Technologie de pointe"],
+      "reponse": "Transformation agroalimentaire",
+      "explication": "Cette industrie valorise les produits agricoles locaux."
+    },
+    {
+      "question": "Quel est un produit textile fabriqué localement ?",
+      "options": ["Pagnes traditionnels", "Jean", "Polyester importé", "Nylon synthétique"],
+      "reponse": "Pagnes traditionnels",
+      "explication": "Le tissage artisanal produit des pagnes pour le marché local."
+    },
+    {
+      "question": "Quel est un défi environnemental lié à l’industrie ?",
+      "options": ["Pollution de l’eau et de l’air", "Amélioration de la qualité de l’air", "Reforestation", "Protection des sols"],
+      "reponse": "Pollution de l’eau et de l’air",
+      "explication": "Les activités industrielles génèrent des pollutions diverses."
+    },
+    {
+      "question": "Quelle est la situation de la main-d’œuvre dans le secteur secondaire ?",
+      "options": ["Majoritairement non qualifiée", "Très qualifiée", "Automatisée", "Faible en nombre"],
+      "reponse": "Majoritairement non qualifiée",
+      "explication": "La plupart des travailleurs manquent de formation spécialisée."
+    },
+    {
+      "question": "Quel est l’impact de l’industrialisation sur l’emploi ?",
+      "options": ["Création d’emplois", "Destruction d’emplois", "Aucune influence", "Réduction de la population active"],
+      "reponse": "Création d’emplois",
+      "explication": "L’industrialisation génère des emplois dans les usines et services associés."
+    },
+    {
+      "question": "Quelle est la place des petites et moyennes entreprises (PME) dans l’industrie ?",
+      "options": ["Essentielles pour le développement", "Inexistantes", "Dominantes au niveau mondial", "Exclusives au secteur tertiaire"],
+      "reponse": "Essentielles pour le développement",
+      "explication": "Les PME jouent un rôle crucial dans l’économie industrielle locale."
+    },
+    {
+      "question": "Quel est un secteur artisanal important ?",
+      "options": ["Fabrication d’objets en bronze", "Industrie pétrolière", "Construction navale", "Technologie informatique"],
+      "reponse": "Fabrication d’objets en bronze",
+      "explication": "L’artisanat du bronze est une tradition au Burkina Faso."
+    },
+    {
+      "question": "Quelle est la politique gouvernementale pour l’industrie ?",
+      "options": ["Promotion de la diversification industrielle", "Interdiction de nouvelles usines", "Nationalisation totale", "Abandon du secteur industriel"],
+      "reponse": "Promotion de la diversification industrielle",
+      "explication": "Le gouvernement encourage le développement de divers secteurs industriels."
+    },
+    {
+      "question": "Quel est un produit chimique fabriqué localement ?",
+      "options": ["Engrais agricoles", "Pétrole brut", "Acier", "Électricité"],
+      "reponse": "Engrais agricoles",
+      "explication": "La production d’engrais soutient l’agriculture locale."
+    },
+    {
+      "question": "Quelle est une source d’énergie renouvelable en développement ?",
+      "options": ["Solaire", "Charbon", "Pétrole", "Gaz naturel"],
+      "reponse": "Solaire",
+      "explication": "Le solaire est de plus en plus utilisé pour alimenter les industries."
+    },
+    {
+      "question": "Quel est l’impact des infrastructures routières sur l’industrie ?",
+      "options": ["Facilitent le transport des matières premières", "Nuisent à la production", "Sont inexistantes", "Empêchent la croissance"],
+      "reponse": "Facilitent le transport des matières premières",
+      "explication": "Des routes efficaces sont vitales pour l’industrie."
+    },
+    {
+      "question": "Quel est un facteur qui limite l’investissement industriel ?",
+      "options": ["Insécurité", "Stabilité politique", "Main-d’œuvre qualifiée", "Accès à l’énergie"],
+      "reponse": "Insécurité",
+      "explication": "L’insécurité décourage certains investisseurs."
+    },
+    {
+      "question": "Quel est un produit issu de l’industrie minière transformé localement ?",
+      "options": ["Or raffiné", "Pétrole brut", "Gaz naturel", "Diamant brut"],
+      "reponse": "Or raffiné",
+      "explication": "L’or est souvent traité localement avant exportation."
+    },
+    {
+      "question": "Quel est le rôle des exportations industrielles ?",
+      "options": ["Générer des devises", "Consommer les ressources locales", "Réduire la production", "Limite la croissance"],
+      "reponse": "Générer des devises",
+      "explication": "Les exportations industrielles contribuent aux recettes du pays."
+    },
+    {
+      "question": "Quel est un secteur industriel en lien avec l’énergie ?",
+      "options": ["Production d’électricité", "Agriculture", "Pêche", "Tourisme"],
+      "reponse": "Production d’électricité",
+      "explication": "La production d’électricité est un secteur clé du secondaire."
+    },
+    {
+      "question": "Quelle est une caractéristique de l’industrie burkinabé ?",
+      "options": ["Peu développée mais en croissance", "Très développée", "Automatisée à 100%", "Absente"],
+      "reponse": "Peu développée mais en croissance",
+      "explication": "L’industrie est encore limitée mais progresse."
+    }
+  ]
+}

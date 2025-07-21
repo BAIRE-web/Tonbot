@@ -1,0 +1,186 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la première étape à suivre face à un sujet de dissertation ?",
+      "options": ["Rédiger l’introduction", "Trouver les documents", "Analyser les termes du sujet", "Chercher des citations"],
+      "reponse": "Analyser les termes du sujet",
+      "explication": "Avant toute rédaction, il est essentiel de bien comprendre le sujet en analysant les mots-clés et la consigne."
+    },
+    {
+      "question": "Dans une dissertation, que signifie 'problématiser' ?",
+      "options": ["Donner une opinion personnelle", "Poser une question centrale à laquelle le devoir va répondre", "Lister tous les thèmes possibles", "Écrire un résumé du sujet"],
+      "reponse": "Poser une question centrale à laquelle le devoir va répondre",
+      "explication": "La problématique est une question claire et précise qui guide toute la réflexion de la dissertation."
+    },
+    {
+      "question": "Quel est le rôle du plan dans une dissertation ?",
+      "options": ["Remplir des pages", "Classer les idées sans lien", "Organiser la réponse à la problématique", "Donner une opinion personnelle"],
+      "reponse": "Organiser la réponse à la problématique",
+      "explication": "Le plan permet de structurer les arguments pour répondre clairement et logiquement à la problématique."
+    },
+    {
+      "question": "Combien de parties principales un plan de dissertation classique doit-il contenir ?",
+      "options": ["1", "2", "3", "4"],
+      "reponse": "3",
+      "explication": "Un plan en trois parties est souvent recommandé : introduction, développement en deux ou trois parties équilibrées, puis conclusion."
+    },
+    {
+      "question": "Quel est le rôle de l’introduction dans une dissertation ?",
+      "options": ["Présenter la problématique, le plan et introduire le sujet", "Commencer à argumenter", "Résumer le sujet", "Donner son opinion"],
+      "reponse": "Présenter la problématique, le plan et introduire le sujet",
+      "explication": "L’introduction pose le cadre du devoir : sujet, problématique, annonce du plan."
+    },
+    {
+      "question": "Qu’est-ce qu’une transition entre deux parties ?",
+      "options": ["Une citation", "Une conclusion partielle", "Une phrase sans lien", "Une nouvelle problématique"],
+      "reponse": "Une conclusion partielle",
+      "explication": "Chaque transition doit rappeler brièvement ce qui précède et annoncer ce qui suit, en assurant la fluidité du devoir."
+    },
+    {
+      "question": "Quel type d’argument doit-on utiliser dans une dissertation ?",
+      "options": ["Des arguments personnels", "Des exemples historiques et géographiques", "Des proverbes", "Des faits divers"],
+      "reponse": "Des exemples historiques et géographiques",
+      "explication": "Les arguments doivent être précis, factuels, et illustrés par des exemples tirés du cours ou de documents fiables."
+    },
+    {
+      "question": "La conclusion doit contenir :",
+      "options": ["Une ouverture", "Une problématique", "Une explication de texte", "Une introduction"],
+      "reponse": "Une ouverture",
+      "explication": "La conclusion résume les grandes lignes du devoir et propose une ouverture vers un autre thème ou une réflexion."
+    },
+    {
+      "question": "Une erreur fréquente dans la dissertation est :",
+      "options": ["Analyser le sujet", "Suivre un plan apparent", "Dévier du sujet", "Utiliser des connecteurs logiques"],
+      "reponse": "Dévier du sujet",
+      "explication": "Il faut toujours rester centré sur le sujet et la problématique, en évitant les hors-sujets."
+    },
+    {
+      "question": "Une bonne problématique est :",
+      "options": ["Une phrase vague", "Une question ouverte qui soulève une réflexion", "Une opinion personnelle", "Un plan détaillé"],
+      "reponse": "Une question ouverte qui soulève une réflexion",
+      "explication": "Elle doit amener à une réflexion approfondie et guider l’ensemble du développement."
+    },
+    
+    {
+      "question": "Quel connecteur peut introduire une opposition ?",
+      "options": ["En effet", "Ainsi", "Cependant", "De plus"],
+      "reponse": "Cependant",
+      "explication": "Les connecteurs logiques comme 'cependant', 'néanmoins', 'en revanche' introduisent des contrastes."
+    },
+    {
+      "question": "Quel est le rôle du brouillon ?",
+      "options": ["Noter les idées sans réfléchir", "Faire une liste de mots-clés", "Organiser les idées et planifier la rédaction", "Faire directement l’introduction"],
+      "reponse": "Organiser les idées et planifier la rédaction",
+      "explication": "Le brouillon sert à structurer les idées, formuler la problématique, établir le plan et réfléchir aux exemples."
+    },
+    {
+      "question": "Doit-on rédiger intégralement au brouillon ?",
+      "options": ["Oui toujours", "Non, uniquement les parties complexes", "Jamais", "Seulement la conclusion"],
+      "reponse": "Non, uniquement les parties complexes",
+      "explication": "Pour gagner du temps, on peut rédiger au propre en s’aidant du brouillon pour les idées et les structures."
+    },
+    {
+      "question": "L’énoncé du sujet est :",
+      "options": ["Une phrase de conclusion", "Un plan détaillé", "Une phrase à analyser soigneusement", "Une simple consigne"],
+      "reponse": "Une phrase à analyser soigneusement",
+      "explication": "Chaque mot du sujet compte, il faut le décortiquer pour bien comprendre ce qui est demandé."
+    },
+    {
+      "question": "Une introduction doit se terminer par :",
+      "options": ["La conclusion", "La problématique", "L’annonce du plan", "Une citation"],
+      "reponse": "L’annonce du plan",
+      "explication": "Elle annonce comment la réflexion va se dérouler dans le développement."
+    },
+    {
+      "question": "Que signifie ‘illustrer un argument’ ?",
+      "options": ["Le rendre plus long", "Le contredire", "Le soutenir avec un exemple concret", "Faire une citation littéraire"],
+      "reponse": "Le soutenir avec un exemple concret",
+      "explication": "Illustrer permet de rendre l’argument plus crédible grâce à un fait ou un événement précis."
+    },
+    {
+      "question": "Le style d’écriture dans une dissertation doit être :",
+      "options": ["Familier", "Poétique", "Argumentatif et clair", "Ironique"],
+      "reponse": "Argumentatif et clair",
+      "explication": "La rédaction doit être rigoureuse, structurée et compréhensible pour convaincre le correcteur."
+    },
+    {
+      "question": "Une ouverture en conclusion peut porter sur :",
+      "options": ["Un nouveau plan", "Un fait d’actualité", "Une répétition du sujet", "Un résumé"],
+      "reponse": "Un fait d’actualité",
+      "explication": "Elle montre que le sujet étudié a des prolongements dans le monde actuel ou dans d’autres contextes."
+    },
+    {
+      "question": "La dissertation en Histoire-Géographie s’appuie surtout sur :",
+      "options": ["Des textes littéraires", "Des cartes, dates, faits historiques et géographiques", "Des anecdotes personnelles", "Des statistiques seulement"],
+      "reponse": "Des cartes, dates, faits historiques et géographiques",
+      "explication": "Il faut utiliser des connaissances précises issues du cours ou de documents."
+    },
+    {
+      "question": "Une erreur à éviter dans une introduction est :",
+      "options": ["Définir les termes", "Faire un plan clair", "Exprimer son opinion", "Poser une problématique"],
+      "reponse": "Exprimer son opinion",
+      "explication": "L’introduction doit rester objective et centrée sur la compréhension du sujet, pas sur une prise de position."
+    },
+    {
+      "question": "Quand doit-on rédiger l’introduction ?",
+      "options": ["Avant toute réflexion", "Après avoir construit le plan", "À la fin du devoir", "Pendant le développement"],
+      "reponse": "Après avoir construit le plan",
+      "explication": "Il est conseillé de rédiger l’introduction après avoir bien établi la problématique et le plan."
+    },
+    
+    {
+      "question": "Quel est le lien entre les parties du plan ?",
+      "options": ["Elles doivent être opposées", "Elles doivent se compléter logiquement", "Elles doivent répéter l’introduction", "Elles sont indépendantes"],
+      "reponse": "Elles doivent se compléter logiquement",
+      "explication": "Les parties doivent former une progression logique répondant à la problématique."
+    },
+    {
+      "question": "Quelle méthode permet de repérer les mots importants dans un sujet ?",
+      "options": ["Soulignement", "Coloriage", "Survol rapide", "Copie du sujet"],
+      "reponse": "Soulignement",
+      "explication": "Souligner ou entourer les mots-clés aide à concentrer l’analyse sur les termes essentiels."
+    },
+    {
+      "question": "Quel est le rôle de la conclusion ?",
+      "options": ["Faire une synthèse du développement", "Reformuler l’introduction", "Apporter de nouveaux arguments", "Oublier la problématique"],
+      "reponse": "Faire une synthèse du développement",
+      "explication": "Elle doit récapituler les réponses apportées à la problématique et proposer une ouverture."
+    },
+    {
+      "question": "Quelle attitude adopter face à un sujet inconnu ?",
+      "options": ["Ne rien écrire", "Inventer des faits", "Mobiliser les connaissances générales liées au thème", "Copier l’énoncé"],
+      "reponse": "Mobiliser les connaissances générales liées au thème",
+      "explication": "Même si le sujet est surprenant, il faut essayer de l’aborder en mobilisant les notions étudiées."
+    },
+    {
+      "question": "Peut-on citer un document dans une dissertation ?",
+      "options": ["Oui, s’il est connu ou étudié", "Non, jamais", "Seulement si c’est une image", "Uniquement à la conclusion"],
+      "reponse": "Oui, s’il est connu ou étudié",
+      "explication": "On peut utiliser des documents vus en classe pour illustrer ou renforcer les arguments."
+    },
+    {
+      "question": "Doit-on utiliser des paragraphes dans le développement ?",
+      "options": ["Non", "Oui, pour aérer et structurer les idées", "Seulement pour l’introduction", "Uniquement en géographie"],
+      "reponse": "Oui, pour aérer et structurer les idées",
+      "explication": "Chaque grande idée ou argument doit être développée dans un paragraphe structuré."
+    },
+    {
+      "question": "Une bonne introduction comprend :",
+      "options": ["Sujet + opinion", "Sujet + problématique + plan", "Citation + anecdote", "Titre + bibliographie"],
+      "reponse": "Sujet + problématique + plan",
+      "explication": "Ces éléments sont essentiels pour bien introduire le devoir."
+    },
+    {
+      "question": "Que faire si on manque de temps à la fin du devoir ?",
+      "options": ["Ne pas conclure", "Écrire vite sans logique", "Faire une conclusion rapide mais structurée", "Répéter une partie"],
+      "reponse": "Faire une conclusion rapide mais structurée",
+      "explication": "Mieux vaut une conclusion simple mais présente, pour montrer que le devoir est terminé."
+    },
+    {
+      "question": "Une dissertation bâclée peut être due à :",
+      "options": ["Un sujet difficile", "Un manque d’entraînement à la méthodologie", "Une mauvaise plume", "Trop de citations"],
+      "reponse": "Un manque d’entraînement à la méthodologie",
+      "explication": "Avec une bonne méthode, on peut aborder même des sujets complexes de façon claire et structurée."
+    }
+  ]
+}

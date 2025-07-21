@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’un noyau atomique ?",
+      "options": ["La partie centrale de l’atome contenant protons et neutrons", "L’ensemble des électrons", "La couche électronique externe", "Un type de molécule"],
+      "reponse": "La partie centrale de l’atome contenant protons et neutrons",
+      "explication": "Le noyau contient la quasi-totalité de la masse de l’atome."
+    },
+    {
+      "question": "Quelle est la charge d’un proton ?",
+      "options": ["+1 e", "-1 e", "0", "+2 e"],
+      "reponse": "+1 e",
+      "explication": "Le proton porte une charge électrique positive élémentaire."
+    },
+    {
+      "question": "Quelle particule n’a pas de charge électrique ?",
+      "options": ["Neutron", "Proton", "Électron", "Positron"],
+      "reponse": "Neutron",
+      "explication": "Le neutron est électriquement neutre."
+    },
+    {
+      "question": "Quelle est la masse relative d’un proton ?",
+      "options": ["1 u", "0", "1/1836 u", "2 u"],
+      "reponse": "1 u",
+      "explication": "La masse d’un proton est environ 1 unité de masse atomique."
+    },
+    {
+      "question": "Le nombre de masse A correspond à :",
+      "options": ["Le nombre total de protons et neutrons", "Le nombre d’électrons", "Le nombre de protons", "Le nombre de neutrons"],
+      "reponse": "Le nombre total de protons et neutrons",
+      "explication": "A = Z + N."
+    },
+    {
+      "question": "Le nombre atomique Z correspond à :",
+      "options": ["Le nombre de protons", "Le nombre de neutrons", "Le nombre total de nucléons", "Le nombre d’électrons"],
+      "reponse": "Le nombre de protons",
+      "explication": "Z caractérise l’élément chimique."
+    },
+    {
+      "question": "Qu’est-ce qu’un isotope ?",
+      "options": ["Des atomes d’un même élément avec différents nombres de neutrons", "Des atomes différents", "Des ions", "Des molécules"],
+      "reponse": "Des atomes d’un même élément avec différents nombres de neutrons",
+      "explication": "Les isotopes ont le même Z mais A différent."
+    },
+    {
+      "question": "Quelle force maintient les nucléons ensemble dans le noyau ?",
+      "options": ["La force nucléaire forte", "La force gravitationnelle", "La force électromagnétique", "La force faible"],
+      "reponse": "La force nucléaire forte",
+      "explication": "Cette force agit sur de très courtes distances et est attractive."
+    },
+    {
+      "question": "Quelle est la charge électrique totale d’un noyau ?",
+      "options": ["+Z e", "0", "-Z e", "+A e"],
+      "reponse": "+Z e",
+      "explication": "Charge proton × nombre de protons."
+    },
+    {
+      "question": "Qu’est-ce que l’énergie de liaison du noyau ?",
+      "options": ["L’énergie nécessaire pour séparer complètement le noyau", "L’énergie dégagée lors d’une réaction chimique", "L’énergie cinétique du noyau", "L’énergie électrostatique"],
+      "reponse": "L’énergie nécessaire pour séparer complètement le noyau",
+      "explication": "Elle reflète la stabilité du noyau."
+    },
+    {
+      "question": "Un noyau est stable si :",
+      "options": ["Le rapport neutron/proton est adapté", "Le nombre de protons est supérieur au nombre de neutrons", "Il a beaucoup de neutrons", "Il a peu de protons"],
+      "reponse": "Le rapport neutron/proton est adapté",
+      "explication": "Une proportion équilibrée assure la stabilité."
+    },
+    {
+      "question": "La radioactivité est :",
+      "options": ["La désintégration spontanée d’un noyau instable", "La formation d’un noyau", "La fusion nucléaire", "Un phénomène chimique"],
+      "reponse": "La désintégration spontanée d’un noyau instable",
+      "explication": "Les noyaux instables émettent des particules."
+    },
+    {
+      "question": "Quel type de particule est émis lors d’une désintégration α ?",
+      "options": ["Une particule α composée de 2 protons et 2 neutrons", "Un électron", "Un neutron", "Un photon"],
+      "reponse": "Une particule α composée de 2 protons et 2 neutrons",
+      "explication": "C’est un noyau d’hélium."
+    },
+    {
+      "question": "Qu’est-ce qu’un électron β- ?",
+      "options": ["Un électron émis lors d’une désintégration bêta", "Un proton", "Un neutron", "Un photon"],
+      "reponse": "Un électron émis lors d’une désintégration bêta",
+      "explication": "La désintégration β- éjecte un électron."
+    },
+    {
+      "question": "Le noyau d’hydrogène ordinaire contient :",
+      "options": ["1 proton", "1 neutron", "1 proton et 1 neutron", "1 électron"],
+      "reponse": "1 proton",
+      "explication": "Hydrogène a Z=1, A=1."
+    },
+    {
+      "question": "Qu’est-ce que la masse manquante dans un noyau ?",
+      "options": ["La différence entre la masse des nucléons et la masse du noyau", "La masse des électrons", "La masse totale", "La masse d’un neutron"],
+      "reponse": "La différence entre la masse des nucléons et la masse du noyau",
+      "explication": "Cette différence correspond à l’énergie de liaison."
+    },
+    {
+      "question": "L’énergie de liaison par nucléon est un indicateur de :",
+      "options": ["La stabilité du noyau", "La masse du noyau", "La charge électrique", "La taille du noyau"],
+      "reponse": "La stabilité du noyau",
+      "explication": "Plus elle est grande, plus le noyau est stable."
+    },
+    {
+      "question": "Le noyau d’hélium est souvent appelé :",
+      "options": ["Particule α", "Particule β", "Particule γ", "Positron"],
+      "reponse": "Particule α",
+      "explication": "Particule α = noyau d’hélium 4He."
+    },
+    {
+      "question": "La fission nucléaire consiste à :",
+      "options": ["Diviser un noyau lourd en noyaux plus légers", "Fusionner deux noyaux", "Émettre un photon", "Perdre un électron"],
+      "reponse": "Diviser un noyau lourd en noyaux plus légers",
+      "explication": "Fission libère énergie et neutrons."
+    },
+    {
+      "question": "La fusion nucléaire est :",
+      "options": ["L’union de deux noyaux légers", "La division d’un noyau", "La désintégration alpha", "Une réaction chimique"],
+      "reponse": "L’union de deux noyaux légers",
+      "explication": "Fusion crée un noyau plus lourd."
+    },
+    {
+      "question": "Le noyau est maintenu par la force nucléaire forte car :",
+      "options": ["Elle est plus puissante que la répulsion électrostatique", "Elle est faible", "Elle agit à longue distance", "Elle repousse les nucléons"],
+      "reponse": "Elle est plus puissante que la répulsion électrostatique",
+      "explication": "C’est une force à courte portée mais très puissante."
+    },
+    {
+      "question": "Un neutron libre est :",
+      "options": ["Instable", "Stable", "Chargé positivement", "Un proton"],
+      "reponse": "Instable",
+      "explication": "Le neutron libre se désintègre en environ 15 minutes."
+    },
+    {
+      "question": "Le modèle nucléaire actuel s’appelle :",
+      "options": ["Modèle de la goutte liquide", "Modèle de Bohr", "Modèle de Rutherford", "Modèle atomique classique"],
+      "reponse": "Modèle de la goutte liquide",
+      "explication": "Ce modèle explique certaines propriétés nucléaires."
+    },
+    {
+      "question": "La charge d’un neutron est :",
+      "options": ["0", "+1 e", "-1 e", "+2 e"],
+      "reponse": "0",
+      "explication": "Le neutron est neutre électriquement."
+    },
+    {
+      "question": "Quel est le rôle des neutrons dans le noyau ?",
+      "options": ["Stabiliser le noyau en réduisant la répulsion proton-proton", "Porter la charge positive", "Être des électrons liés", "Augmenter la charge"],
+      "reponse": "Stabiliser le noyau en réduisant la répulsion proton-proton",
+      "explication": "Ils agissent comme un coussin pour la répulsion électrique."
+    },
+    {
+      "question": "La notation nucléaire {}^{A}_{Z}X indique :",
+      "options": ["A = nombre de masse, Z = numéro atomique, X = symbole chimique", "A = numéro atomique, Z = nombre de masse", "X = isotope", "A = charge, Z = masse"],
+      "reponse": "A = nombre de masse, Z = numéro atomique, X = symbole chimique",
+      "explication": "Notation standard en physique nucléaire."
+    },
+    {
+      "question": "La radioactivité γ correspond à :",
+      "options": ["Une émission de photon électromagnétique", "Une émission d’électron", "Une émission de neutron", "Une émission de particule α"],
+      "reponse": "Une émission de photon électromagnétique",
+      "explication": "Rayonnement γ = rayons très énergétiques."
+    },
+    {
+      "question": "La demi-vie d’un noyau radioactif est :",
+      "options": ["Le temps pour que la moitié des noyaux se désintègrent", "Le temps pour que tous les noyaux se désintègrent", "La période de vibration", "Le temps pour fusionner"],
+      "reponse": "Le temps pour que la moitié des noyaux se désintègrent",
+      "explication": "Grandeur caractéristique des radioéléments."
+    },
+    {
+      "question": "Un noyau a 20 protons et 22 neutrons. Quel est son nombre de masse A ?",
+      "options": ["A = 42", "A = 20", "A = 22", "A = 2"],
+      "reponse": "A = 42",
+      "explication": "A = protons + neutrons = 20 + 22 = 42."
+    },
+    {
+      "question": "Quel est le nombre atomique Z d’un noyau avec 15 protons ?",
+      "options": ["Z = 15", "Z = 30", "Z = 0", "Z = 1"],
+      "reponse": "Z = 15",
+      "explication": "Z = nombre de protons."
+    },
+    {
+      "question": "Un atome possède 17 protons et 18 neutrons. Quelle est sa notation nucléaire ?",
+      "options": ["{}^{35}_{17}Cl", "{}^{35}_{18}Cl", "{}^{18}_{17}Cl", "{}^{17}_{35}Cl"],
+      "reponse": "{}^{35}_{17}Cl",
+      "explication": "A = 17 + 18 = 35, Z = 17."
+    },
+    {
+      "question": "Quelle particule est émise lors d’une désintégration α ?",
+      "options": ["{}^{4}_{2}He", "Électron", "Neutron", "Photon"],
+      "reponse": "{}^{4}_{2}He",
+      "explication": "Particule α = noyau d’hélium."
+    },
+    {
+      "question": "Un noyau d’uranium 238 subit une désintégration α. Quel est le noyau fils ?",
+      "options": ["{}^{234}_{90}Th", "{}^{234}_{92}U", "{}^{238}_{90}Th", "{}^{234}_{88}Ra"],
+      "reponse": "{}^{234}_{90}Th",
+      "explication": "Soustraction de 4 au nombre de masse et 2 au nombre atomique."
+    },
+    {
+      "question": "Quelle est la charge totale d’un noyau avec 12 protons ?",
+      "options": ["+12 e", "+24 e", "0", "-12 e"],
+      "reponse": "+12 e",
+      "explication": "Charge totale = nombre de protons × charge élémentaire."
+    },
+    {
+      "question": "Un neutron libre est instable et se désintègre en :",
+      "options": ["Un proton, un électron et un antineutrino", "Un proton seul", "Un électron seul", "Un photon"],
+      "reponse": "Un proton, un électron et un antineutrino",
+      "explication": "Processus de désintégration β-."
+    },
+    {
+      "question": "Quel est le rôle des neutrons dans le noyau ?",
+      "options": ["Réduire la répulsion entre protons", "Augmenter la charge", "Émettre des photons", "Porter une charge négative"],
+      "reponse": "Réduire la répulsion entre protons",
+      "explication": "Les neutrons stabilisent le noyau."
+    },
+    {
+      "question": "Quelle force maintient les nucléons ensemble ?",
+      "options": ["Force nucléaire forte", "Force gravitationnelle", "Force électromagnétique", "Force faible"],
+      "reponse": "Force nucléaire forte",
+      "explication": "Force très puissante agissant à courte distance."
+    },
+    {
+      "question": "Quelle est l’énergie de liaison si la masse des nucléons est supérieure à la masse du noyau ?",
+      "options": ["Positive", "Négative", "Nulle", "Infinie"],
+      "reponse": "Positive",
+      "explication": "L’énergie de liaison est l’énergie libérée lors de la formation du noyau."
+    },
+    {
+      "question": "Quelle est la demi-vie si la moitié des noyaux se désintègrent en 5 ans ?",
+      "options": ["5 ans", "10 ans", "2,5 ans", "Indéfinie"],
+      "reponse": "5 ans",
+      "explication": "La demi-vie est le temps nécessaire pour que la moitié des noyaux se désintègrent."
+    },
+    {
+      "question": "Lors d’une désintégration β-, que se passe-t-il au niveau du noyau ?",
+      "options": ["Un neutron se transforme en proton", "Un proton devient neutron", "Le noyau émet une particule α", "Le noyau perd un électron"],
+      "reponse": "Un neutron se transforme en proton",
+      "explication": "La désintégration β- augmente Z de 1."
+    },
+    {
+      "question": "La fusion nucléaire correspond à :",
+      "options": ["Union de deux noyaux légers", "Division d’un noyau lourd", "Émission de photon", "Perte d’électron"],
+      "reponse": "Union de deux noyaux légers",
+      "explication": "La fusion libère une grande énergie."
+    },
+    {
+      "question": "Un noyau possède Z = 8 et A = 17. Combien a-t-il de neutrons ?",
+      "options": ["9", "8", "17", "25"],
+      "reponse": "9",
+      "explication": "Nombre de neutrons = A - Z = 17 - 8 = 9."
+    },
+    {
+      "question": "Quel est le symbole de l’élément avec Z = 6 ?",
+      "options": ["C", "O", "N", "He"],
+      "reponse": "C",
+      "explication": "Z=6 correspond au carbone."
+    },
+    {
+      "question": "Un noyau d’hélium 4He a :",
+      "options": ["2 protons et 2 neutrons", "2 protons et 4 neutrons", "4 protons", "1 proton et 3 neutrons"],
+      "reponse": "2 protons et 2 neutrons",
+      "explication": "Composition classique de la particule α."
+    },
+    {
+      "question": "Quelle particule est émise lors de la radioactivité γ ?",
+      "options": ["Photon", "Électron", "Neutron", "Proton"],
+      "reponse": "Photon",
+      "explication": "Rayonnement électromagnétique très énergétique."
+    },
+    {
+      "question": "Un noyau a une énergie de liaison élevée signifie qu’il est :",
+      "options": ["Stable", "Instable", "Radioactif", "Fissionnable"],
+      "reponse": "Stable",
+      "explication": "Plus l’énergie de liaison est élevée, plus le noyau est stable."
+    },
+    {
+      "question": "Un noyau subit une désintégration α, que deviennent A et Z ?",
+      "options": ["A diminue de 4, Z diminue de 2", "A augmente de 4, Z augmente de 2", "A diminue de 2, Z diminue de 4", "A et Z ne changent pas"],
+      "reponse": "A diminue de 4, Z diminue de 2",
+      "explication": "Émission d’une particule α."
+    },
+    {
+      "question": "Quelle est la formule pour calculer la masse manquante Δm ?",
+      "options": ["Δm = (Z m_p + N m_n) - m_noyau", "Δm = m_noyau - (Z m_p + N m_n)", "Δm = Z m_e", "Δm = m_p - m_n"],
+      "reponse": "Δm = (Z m_p + N m_n) - m_noyau",
+      "explication": "Masse des nucléons moins masse du noyau."
+    }
+  ]
+}

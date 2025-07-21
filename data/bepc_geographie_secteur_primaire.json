@@ -1,0 +1,178 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le secteur économique principal du Burkina Faso ?",
+      "options": ["Secteur primaire", "Secteur secondaire", "Secteur tertiaire", "Secteur quaternaire"],
+      "reponse": "Secteur primaire",
+      "explication": "L’économie burkinabé repose majoritairement sur l’agriculture et l’élevage."
+    },
+    {
+      "question": "Quelle culture est la plus pratiquée au Burkina Faso ?",
+      "options": ["Millet", "Riz", "Coton", "Maïs"],
+      "reponse": "Millet",
+      "explication": "Le millet est une culture vivrière essentielle au Burkina Faso."
+    },
+    {
+      "question": "Quel est le principal produit d’exportation agricole du Burkina Faso ?",
+      "options": ["Coton", "Millet", "Sorgho", "Maïs"],
+      "reponse": "Coton",
+      "explication": "Le coton est la première culture d’exportation du pays."
+    },
+    {
+      "question": "Quel type d’élevage est le plus répandu au Burkina Faso ?",
+      "options": ["Élevage de bétail", "Élevage de volailles", "Élevage de poissons", "Élevage de chèvres seulement"],
+      "reponse": "Élevage de bétail",
+      "explication": "L’élevage de bovins, ovins et caprins est très développé."
+    },
+    {
+      "question": "Quel est le rôle de l’agriculture familiale au Burkina Faso ?",
+      "options": ["Principale source de production alimentaire", "Peu importante", "Réservée à l’exportation", "Minimale dans l’économie"],
+      "reponse": "Principale source de production alimentaire",
+      "explication": "L’agriculture familiale assure la subsistance de nombreuses familles."
+    },
+    {
+      "question": "Quel est le principal défi agricole au Burkina Faso ?",
+      "options": ["Sècheresse et faible pluviométrie", "Excès d’eau", "Manque de terres", "Abondance des infrastructures"],
+      "reponse": "Sècheresse et faible pluviométrie",
+      "explication": "Le climat semi-aride provoque des difficultés pour la production."
+    },
+    {
+      "question": "Quelle est une culture de rente importante au Burkina Faso ?",
+      "options": ["Coton", "Millet", "Sorgho", "Riz"],
+      "reponse": "Coton",
+      "explication": "Le coton génère des revenus grâce aux exportations."
+    },
+    {
+      "question": "Quel est l’impact de l’élevage sur l’environnement ?",
+      "options": ["Déforestation et érosion", "Amélioration de la biodiversité", "Aucune conséquence", "Réduction des sols"],
+      "reponse": "Déforestation et érosion",
+      "explication": "L’élevage intensif peut entraîner une dégradation des sols."
+    },
+    {
+      "question": "Quelle est la place de la pêche au Burkina Faso ?",
+      "options": ["Activité marginale", "Activité principale", "Non pratiquée", "Exportation majeure"],
+      "reponse": "Activité marginale",
+      "explication": "La pêche est limitée du fait du pays enclavé et peu d’étendues d’eau."
+    },
+    {
+      "question": "Quel est un facteur limitant pour l’agriculture burkinabé ?",
+      "options": ["Faible mécanisation", "Sur-mécanisation", "Abondance d’eau", "Trop de fertilisants"],
+      "reponse": "Faible mécanisation",
+      "explication": "Le manque d’équipements agricoles limite la productivité."
+    },
+    {
+      "question": "Quelle technique traditionnelle est utilisée pour cultiver au Burkina Faso ?",
+      "options": ["Culture sur brûlis", "Culture hydroponique", "Agriculture intensive", "Culture en serre"],
+      "reponse": "Culture sur brûlis",
+      "explication": "Cette technique consiste à brûler la végétation pour fertiliser la terre."
+    },
+    {
+      "question": "Quels sont les principaux animaux élevés au Burkina Faso ?",
+      "options": ["Bovins, ovins, caprins", "Éléphants et lions", "Volailles uniquement", "Poissons et reptiles"],
+      "reponse": "Bovins, ovins, caprins",
+      "explication": "Ces animaux sont couramment élevés pour la viande et le lait."
+    },
+    {
+      "question": "Quel est le rôle des femmes dans le secteur primaire ?",
+      "options": ["Actrices majeures en agriculture", "Peu impliquées", "Uniquement élevage", "Seulement commerce"],
+      "reponse": "Actrices majeures en agriculture",
+      "explication": "Les femmes participent largement aux travaux agricoles."
+    },
+    {
+      "question": "Quel est le type de sol le plus répandu au Burkina Faso ?",
+      "options": ["Sols ferrugineux tropicaux", "Sols argileux", "Sols volcaniques", "Sols sableux"],
+      "reponse": "Sols ferrugineux tropicaux",
+      "explication": "Ces sols sont typiques du climat tropical et semi-aride."
+    },
+    {
+      "question": "Quel est l’effet des saisons sur l’agriculture ?",
+      "options": ["Saison des pluies favorable à la culture", "Saison sèche favorable", "Climat stable toute l’année", "Absence de saison"],
+      "reponse": "Saison des pluies favorable à la culture",
+      "explication": "Les cultures dépendent des pluies saisonnières."
+    },
+    {
+      "question": "Quelle est la place du coton dans l’économie burkinabé ?",
+      "options": ["Source majeure de devises", "Culture secondaire", "Peu cultivé", "Importé massivement"],
+      "reponse": "Source majeure de devises",
+      "explication": "Le coton est une culture d’exportation clé."
+    },
+    {
+      "question": "Quelle est une stratégie pour améliorer le secteur primaire ?",
+      "options": ["Mécanisation accrue", "Réduction des cultures", "Abandon de l’élevage", "Déforestation massive"],
+      "reponse": "Mécanisation accrue",
+      "explication": "L’utilisation de machines peut augmenter la productivité."
+    },
+    {
+      "question": "Quel est un problème lié à la gestion des ressources naturelles ?",
+      "options": ["Dégradation des sols", "Abondance des terres", "Surproduction", "Aucun problème"],
+      "reponse": "Dégradation des sols",
+      "explication": "La surexploitation et érosion menacent la fertilité des terres."
+    },
+    {
+      "question": "Quel est l’impact du changement climatique sur le secteur primaire ?",
+      "options": ["Augmentation des sécheresses", "Plus de pluies régulières", "Climat stable", "Baisse des températures"],
+      "reponse": "Augmentation des sécheresses",
+      "explication": "Le changement climatique aggrave les périodes de sécheresse."
+    },
+    {
+      "question": "Quelle est l’importance de la riziculture au Burkina Faso ?",
+      "options": ["En croissance mais encore limitée", "Principale culture", "Non pratiquée", "Culture d’exportation majeure"],
+      "reponse": "En croissance mais encore limitée",
+      "explication": "La production de riz se développe pour réduire les importations."
+    },
+    {
+      "question": "Quel est le rôle des ONG dans le secteur primaire ?",
+      "options": ["Appui technique et formation", "Aucune intervention", "Opposition à l’agriculture", "Financement uniquement des mines"],
+      "reponse": "Appui technique et formation",
+      "explication": "Les ONG aident à améliorer les pratiques agricoles."
+    },
+    {
+      "question": "Quel est l’impact de l’irrigation sur l’agriculture ?",
+      "options": ["Augmentation des rendements", "Réduction des cultures", "Dégradation des sols", "Diminution de la production"],
+      "reponse": "Augmentation des rendements",
+      "explication": "L’irrigation permet de cultiver même en saison sèche."
+    },
+    {
+      "question": "Quelle est la principale culture vivrière au Burkina Faso ?",
+      "options": ["Millet", "Coton", "Riz", "Tabac"],
+      "reponse": "Millet",
+      "explication": "Le millet est largement cultivé pour l’alimentation locale."
+    },
+    {
+      "question": "Quelle est une ressource minière liée au secteur primaire ?",
+      "options": ["Or", "Charbon", "Pétrole", "Gaz naturel"],
+      "reponse": "Or",
+      "explication": "L’or est extrait et fait partie du secteur primaire."
+    },
+    {
+      "question": "Quel est un avantage de l’agriculture burkinabé ?",
+      "options": ["Main-d’œuvre abondante", "Faible main-d’œuvre", "Faible diversité des cultures", "Climat tropical humide constant"],
+      "reponse": "Main-d’œuvre abondante",
+      "explication": "La population active est très impliquée dans l’agriculture."
+    },
+    {
+      "question": "Quel est un risque lié à l’agriculture traditionnelle ?",
+      "options": ["Érosion des sols", "Rendement élevé", "Utilisation de machines modernes", "Fertilité croissante"],
+      "reponse": "Érosion des sols",
+      "explication": "Les méthodes traditionnelles peuvent appauvrir les sols."
+    },
+    {
+      "question": "Quel est le rôle des marchés ruraux ?",
+      "options": ["Vente des produits agricoles locaux", "Importation des produits", "Distribution industrielle", "Activités non agricoles"],
+      "reponse": "Vente des produits agricoles locaux",
+      "explication": "Ils permettent aux producteurs de commercialiser leurs récoltes."
+    },
+    {
+      "question": "Quelle est une stratégie pour lutter contre la pauvreté rurale ?",
+      "options": ["Développement agricole durable", "Abandon des campagnes", "Industrialisation rapide", "Émigration massive"],
+      "reponse": "Développement agricole durable",
+      "explication": "Améliorer l’agriculture aide à réduire la pauvreté rurale."
+    },
+    {
+      "question": "Quel est un produit forestier non ligneux important ?",
+      "options": ["Karité", "Bois d’œuvre", "Charbon de bois", "Pétrole"],
+      "reponse": "Karité",
+      "explication": "Le karité est utilisé dans l’alimentation et l’industrie cosmétique."
+    }
+  ]
+}

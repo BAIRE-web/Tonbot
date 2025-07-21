@@ -251,6 +251,294 @@
       "options": ["3,4 m", "0,034 m", "34 m", "1 m"],
       "reponse": "3,4 m",
       "explication": "λ = v × T = 340 × 0,01 = 3,4 m."
+    },
+    {
+      "question": "Quelle est la nature de la force électrostatique ?",
+      "options": ["Force d'attraction ou de répulsion entre charges électriques", "Force gravitationnelle", "Force nucléaire", "Force magnétique"],
+      "reponse": "Force d'attraction ou de répulsion entre charges électriques",
+      "explication": "La force électrostatique agit entre charges électriques statiques."
+    },
+    {
+      "question": "Quelle loi décrit la force entre deux charges électriques ?",
+      "options": ["Loi de Coulomb", "Loi de Newton", "Loi d’Ohm", "Loi de Faraday"],
+      "reponse": "Loi de Coulomb",
+      "explication": "La loi de Coulomb exprime la force électrique entre deux charges ponctuelles."
+    },
+    {
+      "question": "La force électrique entre deux charges q₁ et q₂ séparées par une distance r est proportionnelle à :",
+      "options": ["(q₁ × q₂) / r²", "(q₁ + q₂) × r", "q₁ × q₂ × r", "(q₁ - q₂) / r"],
+      "reponse": "(q₁ × q₂) / r²",
+      "explication": "La force de Coulomb est proportionnelle au produit des charges et inversement au carré de la distance."
+    },
+    {
+      "question": "Quelle est l’expression mathématique de la force électrostatique (loi de Coulomb) ?",
+      "options": ["F = k × (|q₁ × q₂|) / r²", "F = m × a", "F = q × E", "F = R × I"],
+      "reponse": "F = k × (|q₁ × q₂|) / r²",
+      "explication": "k est la constante de Coulomb (k ≈ 9 × 10⁹ N·m²/C²)."
+    },
+    {
+      "question": "Que représente la constante k dans la loi de Coulomb ?",
+      "options": ["Constante de Coulomb dans le vide", "Constante gravitationnelle", "Permittivité relative", "Charge élémentaire"],
+      "reponse": "Constante de Coulomb dans le vide",
+      "explication": "k = 1/(4πε₀) avec ε₀ la permittivité du vide."
+    },
+    {
+      "question": "Quelle est la valeur approchée de la constante de Coulomb k ?",
+      "options": ["9 × 10⁹ N·m²/C²", "6,02 × 10²³", "3 × 10⁸ m/s", "1,6 × 10⁻¹⁹ C"],
+      "reponse": "9 × 10⁹ N·m²/C²",
+      "explication": "Cette constante intervient dans le calcul de la force électrostatique."
+    },
+    {
+      "question": "Qu’est-ce que le champ électrique ?",
+      "options": ["La région autour d’une charge où une force électrique agit", "La force exercée par une charge", "La vitesse d’une charge", "La charge totale dans un système"],
+      "reponse": "La région autour d’une charge où une force électrique agit",
+      "explication": "Le champ électrique représente l’influence électrique dans l’espace autour d’une charge."
+    },
+    {
+      "question": "L’intensité du champ électrique E créé par une charge ponctuelle Q à une distance r est donnée par :",
+      "options": ["E = k × |Q| / r²", "E = F / q", "E = V / d", "E = I × R"],
+      "reponse": "E = k × |Q| / r²",
+      "explication": "Le champ électrique diminue avec le carré de la distance."
+    },
+    {
+      "question": "Quelle est l’unité du champ électrique dans le système international ?",
+      "options": ["Volt par mètre (V/m)", "Newton (N)", "Coulomb (C)", "Ampère (A)"],
+      "reponse": "Volt par mètre (V/m)",
+      "explication": "Le champ électrique s’exprime en volts par mètre."
+    },
+    {
+      "question": "Quelle est la relation entre la force électrique F, la charge test q et le champ électrique E ?",
+      "options": ["F = q × E", "F = E / q", "E = F + q", "F = q / E"],
+      "reponse": "F = q × E",
+      "explication": "La force exercée sur une charge dans un champ électrique est le produit de la charge par le champ."
+    },
+    {
+      "question": "Comment sont orientées les lignes de champ électrique ?",
+      "options": ["De la charge positive vers la charge négative", "De la charge négative vers la charge positive", "Dans toutes les directions", "Toujours vers le haut"],
+      "reponse": "De la charge positive vers la charge négative",
+      "explication": "Les lignes de champ vont toujours de + vers -."
+    },
+    {
+      "question": "Qu’est-ce que le potentiel électrique V ?",
+      "options": ["Travail par unité de charge pour amener une charge", "Force électrique", "Charge électrique", "Intensité du courant"],
+      "reponse": "Travail par unité de charge pour amener une charge",
+      "explication": "Le potentiel est l’énergie potentielle électrique par unité de charge."
+    },
+    {
+      "question": "Quelle est l’unité du potentiel électrique ?",
+      "options": ["Volt (V)", "Ampère (A)", "Coulomb (C)", "Ohm (Ω)"],
+      "reponse": "Volt (V)",
+      "explication": "Le potentiel électrique s’exprime en volts."
+    },
+    {
+      "question": "La différence de potentiel entre deux points est appelée :",
+      "options": ["Tension électrique", "Courant électrique", "Résistance", "Puissance"],
+      "reponse": "Tension électrique",
+      "explication": "La tension est la différence de potentiel entre deux points."
+    },
+    {
+      "question": "Quelle est la formule reliant le champ électrique E à la différence de potentiel U et la distance d ?",
+      "options": ["E = U / d", "E = U × d", "U = E × d²", "E = d / U"],
+      "reponse": "E = U / d",
+      "explication": "Le champ est la tension divisée par la distance entre les points."
+    },
+    {
+      "question": "Qu’est-ce qu’un dipôle électrique ?",
+      "options": ["Deux charges égales et opposées séparées par une distance", "Une seule charge", "Un circuit électrique", "Un champ magnétique"],
+      "reponse": "Deux charges égales et opposées séparées par une distance",
+      "explication": "Un dipôle est formé par deux charges de même valeur et de signes contraires."
+    },
+    {
+      "question": "Quelle grandeur caractérise un dipôle électrique ?",
+      "options": ["Moment dipolaire", "Charge totale", "Tension", "Champ magnétique"],
+      "reponse": "Moment dipolaire",
+      "explication": "Le moment dipolaire p = q × d où d est la distance entre charges."
+    },
+    {
+      "question": "Quelle est l’unité du moment dipolaire électrique ?",
+      "options": ["Coulomb-mètre (C·m)", "Volt (V)", "Ampère (A)", "Newton (N)"],
+      "reponse": "Coulomb-mètre (C·m)",
+      "explication": "Le moment dipolaire s’exprime en C·m."
+    },
+    {
+      "question": "Quelles sont les propriétés des conducteurs électriques en électrostatique ?",
+      "options": ["Les charges se répartissent sur la surface", "Les charges sont dans le volume", "Les charges sont immobilisées", "Les charges disparaissent"],
+      "reponse": "Les charges se répartissent sur la surface",
+      "explication": "En régime électrostatique, les charges libres se localisent à la surface des conducteurs."
+    },
+    {
+      "question": "Qu’est-ce qu’un isolant électrique ?",
+      "options": ["Matériau où les charges ne circulent pas librement", "Matériau conducteur", "Source de courant", "Champ électrique"],
+      "reponse": "Matériau où les charges ne circulent pas librement",
+      "explication": "Les isolants empêchent le déplacement des charges électriques."
+    },
+    {
+      "question": "Qu’est-ce qu’un conducteur parfait ?",
+      "options": ["Matériau sans résistance électrique", "Isolant", "Source de charges", "Champ magnétique"],
+      "reponse": "Matériau sans résistance électrique",
+      "explication": "Un conducteur parfait laisse circuler les charges sans perte."
+    },
+    {
+      "question": "Dans un conducteur en équilibre électrostatique, quel est le champ électrique à l’intérieur ?",
+      "options": ["Nul", "Maximum", "Variable", "Constant mais non nul"],
+      "reponse": "Nul",
+      "explication": "Le champ électrique à l’intérieur d’un conducteur est nul en équilibre."
+    },
+    {
+      "question": "Quelle est la loi de Gauss en électrostatique ?",
+      "options": ["Le flux électrique total à travers une surface fermée est proportionnel à la charge interne", "La force entre deux charges", "Le courant dans un conducteur", "La résistance électrique"],
+      "reponse": "Le flux électrique total à travers une surface fermée est proportionnel à la charge interne",
+      "explication": "La loi de Gauss relie le flux du champ électrique à la charge enfermée."
+    },
+    {
+      "question": "Qu’est-ce que le potentiel électrique d’une charge ponctuelle Q à distance r ?",
+      "options": ["V = k × Q / r", "V = k × Q × r", "V = Q / k × r²", "V = k × Q² / r"],
+      "reponse": "V = k × Q / r",
+      "explication": "Le potentiel diminue en fonction de la distance à la charge."
+    },
+    {
+      "question": "Quelle est l’expression de l’énergie potentielle électrique d’une charge q placée dans un potentiel V ?",
+      "options": ["E_p = q × V", "E_p = q / V", "E_p = V / q", "E_p = q + V"],
+      "reponse": "E_p = q × V",
+      "explication": "L’énergie potentielle électrique est le produit de la charge par le potentiel."
+    },
+    {
+      "question": "Qu’est-ce que l’électrisation par contact ?",
+      "options": ["Transfert de charges par contact direct", "Création de charges", "Disparition des charges", "Champ électrique nul"],
+      "reponse": "Transfert de charges par contact direct",
+      "explication": "L’électrisation par contact transfère des charges d’un objet à un autre."
+    },
+    {
+      "question": "Qu’est-ce que l’électrisation par induction ?",
+      "options": ["Séparation de charges sans contact", "Transfert de charges par contact", "Disparition de charges", "Courant électrique"],
+      "reponse": "Séparation de charges sans contact",
+      "explication": "L’induction provoque une redistribution des charges sous l’effet d’un champ proche."
+    },
+    {
+      "question": "Qu’est-ce que la capacité électrique d’un condensateur ?",
+      "options": ["Capacité à stocker une charge électrique", "Intensité du courant", "Tension électrique", "Résistance électrique"],
+      "reponse": "Capacité à stocker une charge électrique",
+      "explication": "La capacité définit la quantité de charge stockée pour une tension donnée."
+    },
+    {
+      "question": "Quelle est l’unité de la capacité électrique ?",
+      "options": ["Farad (F)", "Volt (V)", "Coulomb (C)", "Ohm (Ω)"],
+      "reponse": "Farad (F)",
+      "explication": "La capacité se mesure en farads."
+    },
+    {
+      "question": "Deux charges q₁ = +2 μC et q₂ = -3 μC sont séparées de 0,5 m. Quelle est la force électrostatique entre elles ? (k = 9×10⁹ N·m²/C²)",
+      "options": ["2,16 N", "0,24 N", "54 N", "1,08 N"],
+      "reponse": "2,16 N",
+      "explication": "F = k × |q₁ × q₂| / r² = 9×10⁹ × (2×10⁻⁶ × 3×10⁻⁶) / 0,5² = 2,16 N"
+    },
+    {
+      "question": "Une charge ponctuelle Q = 5 μC crée un champ électrique à 2 m. Quelle est l’intensité du champ ?",
+      "options": ["11250 V/m", "1125 V/m", "2250 V/m", "4500 V/m"],
+      "reponse": "1125 V/m",
+      "explication": "E = k × Q / r² = 9×10⁹ × 5×10⁻⁶ / 4 = 1125 V/m"
+    },
+    {
+      "question": "Quelle est la direction de la force exercée sur une charge positive placée dans un champ électrique ?",
+      "options": ["Dans le sens du champ", "Opposée au champ", "Perpendiculaire au champ", "Nulle"],
+      "reponse": "Dans le sens du champ",
+      "explication": "La force agit dans la même direction que le champ pour une charge positive."
+    },
+    {
+      "question": "Une charge q = 1 μC est placée dans un champ E = 500 V/m. Quelle est la force électrique sur la charge ?",
+      "options": ["5×10⁻⁴ N", "5×10⁻³ N", "0,5 N", "50 N"],
+      "reponse": "5×10⁻⁴ N",
+      "explication": "F = q × E = 1×10⁻⁶ × 500 = 5×10⁻⁴ N"
+    },
+    {
+      "question": "La différence de potentiel entre deux points distants de 0,2 m est de 100 V. Quel est le champ électrique ?",
+      "options": ["500 V/m", "20 V/m", "200 V/m", "50 V/m"],
+      "reponse": "500 V/m",
+      "explication": "E = U / d = 100 / 0,2 = 500 V/m"
+    },
+    {
+      "question": "Un dipôle électrique a une charge q = 2 μC et une distance d = 3 cm. Quel est son moment dipolaire ?",
+      "options": ["6×10⁻⁸ C·m", "6×10⁻⁶ C·m", "6×10⁻⁵ C·m", "6×10⁻⁷ C·m"],
+      "reponse": "6×10⁻⁸ C·m",
+      "explication": "p = q × d = 2×10⁻⁶ × 3×10⁻² = 6×10⁻⁸ C·m"
+    },
+    {
+      "question": "Une charge positive est placée près d’un conducteur neutre. Que se passe-t-il ?",
+      "options": ["Les charges s’induisent sur la surface du conducteur", "Les charges disparaissent", "Le conducteur devient isolant", "Rien ne change"],
+      "reponse": "Les charges s’induisent sur la surface du conducteur",
+      "explication": "L’électrisation par induction déplace les charges dans le conducteur."
+    },
+    {
+      "question": "Le potentiel électrique à 1 m d’une charge de 10 μC est :",
+      "options": ["90000 V", "9000 V", "900 V", "90 V"],
+      "reponse": "90000 V",
+      "explication": "V = k × Q / r = 9×10⁹ × 10×10⁻⁶ / 1 = 90000 V"
+    },
+    {
+      "question": "Quelle est l’énergie potentielle d’une charge q = 3 μC placée dans un potentiel V = 50 V ?",
+      "options": ["1,5×10⁻⁴ J", "1,5×10⁻³ J", "6×10⁻⁵ J", "1,5×10⁻⁵ J"],
+      "reponse": "1,5×10⁻⁴ J",
+      "explication": "E_p = q × V = 3×10⁻⁶ × 50 = 1,5×10⁻⁴ J"
+    },
+    {
+      "question": "Un condensateur de capacité C = 10 μF est chargé à une tension de 12 V. Quelle charge stocke-t-il ?",
+      "options": ["1,2×10⁻⁴ C", "8,3×10⁻⁷ C", "1,2×10⁻⁶ C", "1,2×10⁻³ C"],
+      "reponse": "1,2×10⁻⁴ C",
+      "explication": "Q = C × U = 10×10⁻⁶ × 12 = 1,2×10⁻⁴ C"
+    },
+    {
+      "question": "La force entre deux charges de même signe est :",
+      "options": ["De répulsion", "D’attraction", "Nulle", "Variable selon la masse"],
+      "reponse": "De répulsion",
+      "explication": "Les charges de même signe se repoussent."
+    },
+    {
+      "question": "L’énergie potentielle électrique entre deux charges dépend de :",
+      "options": ["Leur valeur et la distance qui les sépare", "Leur masse", "La température", "Le temps"],
+      "reponse": "Leur valeur et la distance qui les sépare",
+      "explication": "L’énergie dépend des charges et de leur distance."
+    },
+    {
+      "question": "Une charge q subit une force F dans un champ E. Si on double la charge, la force :",
+      "options": ["Double", "Reste la même", "Diminue de moitié", "Devient nulle"],
+      "reponse": "Double",
+      "explication": "F = q × E, la force est proportionnelle à la charge."
+    },
+    {
+      "question": "Quelle est l’unité de la charge électrique ?",
+      "options": ["Coulomb (C)", "Volt (V)", "Newton (N)", "Farad (F)"],
+      "reponse": "Coulomb (C)",
+      "explication": "La charge s’exprime en coulombs."
+    },
+    {
+      "question": "Une charge de 4 μC est placée à 0,1 m d’une charge de -5 μC. La force est-elle d’attraction ou de répulsion ?",
+      "options": ["Attraction", "Répulsion", "Nulle", "Impossible à déterminer"],
+      "reponse": "Attraction",
+      "explication": "Charges de signes opposés s’attirent."
+    },
+    {
+      "question": "Le champ électrique est nul à quel endroit entre deux charges de même valeur et signe opposé ?",
+      "options": ["Sur le point médian", "À proximité de la charge positive", "À proximité de la charge négative", "Nulle part"],
+      "reponse": "Nulle part",
+      "explication": "Le champ est nul à un point où les forces s’annulent, pas au milieu pour charges opposées égales."
+    },
+    {
+      "question": "L’intensité du champ électrique d’une charge Q diminue :",
+      "options": ["Avec le carré de la distance", "Avec la distance", "Avec le cube de la distance", "Elle reste constante"],
+      "reponse": "Avec le carré de la distance",
+      "explication": "Le champ suit la loi inverse du carré de la distance."
+    },
+    {
+      "question": "Un conducteur isolé en équilibre électrostatique a une charge :",
+      "options": ["Répartie à la surface", "Uniformément répartie à l’intérieur", "Au centre", "Nulle"],
+      "reponse": "Répartie à la surface",
+      "explication": "Les charges libres se concentrent à la surface."
+    },
+    {
+      "question": "Lorsqu’un objet est électrisé par contact, il reçoit des charges :",
+      "options": ["Par transfert direct", "Sans contact", "Par induction", "Par champ magnétique"],
+      "reponse": "Par transfert direct",
+      "explication": "L’électrisation par contact nécessite un contact physique."
     }
   ]
 }

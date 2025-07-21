@@ -1,0 +1,245 @@
+{
+  "qcm": [
+    {
+      "question": "Quelles sont les principales causes de la migration forcée ?",
+      "options": ["Guerres, persécutions, catastrophes naturelles", "Tourisme, études, emploi", "Vacances, échanges culturels", "Découverte scientifique"],
+      "reponse": "Guerres, persécutions, catastrophes naturelles",
+      "explication": "Ces facteurs poussent les populations à fuir pour leur sécurité."
+    },
+    {
+      "question": "Quel est l’impact de l’immigration sur la démographie d’un pays ?",
+      "options": ["Augmentation de la population et diversité culturelle", "Diminution de la population", "Aucun impact", "Réduction des naissances"],
+      "reponse": "Augmentation de la population et diversité culturelle",
+      "explication": "L’immigration contribue à la croissance démographique et culturelle."
+    },
+    {
+      "question": "Qu’est-ce que la migration circulaire ?",
+      "options": ["Aller-retour régulier entre pays d’origine et d’accueil", "Migration définitive", "Migration illégale", "Déplacement interne"],
+      "reponse": "Aller-retour régulier entre pays d’origine et d’accueil",
+      "explication": "Elle concerne souvent les travailleurs migrants temporaires."
+    },
+    {
+      "question": "Qu’est-ce qu’un réfugié climatique ?",
+      "options": ["Personne déplacée en raison du changement climatique", "Touriste affecté par la météo", "Migrant économique", "Personne déménageant pour études"],
+      "reponse": "Personne déplacée en raison du changement climatique",
+      "explication": "Les catastrophes liées au climat forcent certains à migrer."
+    },
+    {
+      "question": "Qu’est-ce que la migration saisonnière ?",
+      "options": ["Migration temporaire liée aux saisons pour le travail", "Migration définitive", "Migration clandestine", "Migration illégale"],
+      "reponse": "Migration temporaire liée aux saisons pour le travail",
+      "explication": "Par exemple, les travailleurs agricoles saisonniers se déplacent selon les récoltes."
+    },
+    {
+      "question": "Quels sont les défis pour les pays d’accueil face à l’immigration ?",
+      "options": ["Intégration sociale, emploi, pression sur services publics", "Aucune difficulté", "Perte de population", "Fermeture économique"],
+      "reponse": "Intégration sociale, emploi, pression sur services publics",
+      "explication": "Les pays doivent gérer l’accueil et l’intégration des migrants."
+    },
+    {
+      "question": "Qu’est-ce que la migration économique ?",
+      "options": ["Migration motivée par la recherche d’opportunités économiques", "Migration forcée", "Migration touristique", "Migration illégale"],
+      "reponse": "Migration motivée par la recherche d’opportunités économiques",
+      "explication": "C’est la cause la plus fréquente des migrations internationales."
+    },
+    {
+      "question": "Qu’est-ce que le droit d’asile ?",
+      "options": ["Protection offerte aux réfugiés dans un autre pays", "Droit de voyager sans visa", "Obligation de retourner dans son pays", "Droit à un emploi"],
+      "reponse": "Protection offerte aux réfugiés dans un autre pays",
+      "explication": "Le droit d’asile protège les personnes menacées dans leur pays."
+    },
+    {
+      "question": "Quel est le rôle de l’Organisation internationale pour les migrations (OIM) ?",
+      "options": ["Assister et protéger les migrants", "Organiser des migrations forcées", "Empêcher toutes migrations", "Contrôler les frontières"],
+      "reponse": "Assister et protéger les migrants",
+      "explication": "L’OIM soutient la migration ordonnée et sécurisée."
+    },
+    {
+      "question": "Qu’est-ce que la migration transnationale ?",
+      "options": ["Mouvement de personnes entre plusieurs pays avec liens multiples", "Migration interne", "Migration saisonnière", "Migration locale"],
+      "reponse": "Mouvement de personnes entre plusieurs pays avec liens multiples",
+      "explication": "Les migrants conservent des liens forts avec leur pays d’origine."
+    },
+    {
+      "question": "Qu’est-ce que la migration involontaire ?",
+      "options": ["Migration subie à cause de contraintes externes", "Migration choisie", "Tourisme", "Émigration temporaire"],
+      "reponse": "Migration subie à cause de contraintes externes",
+      "explication": "Elle résulte souvent de conflits ou catastrophes."
+    },
+    {
+      "question": "Quelle est la conséquence de l’émigration massive sur le pays d’origine ?",
+      "options": ["Fuite des cerveaux et perte de main-d’œuvre", "Croissance économique", "Diminution du chômage", "Amélioration des infrastructures"],
+      "reponse": "Fuite des cerveaux et perte de main-d’œuvre",
+      "explication": "Les pays perdent souvent leurs talents et travailleurs qualifiés."
+    },
+    {
+      "question": "Qu’est-ce que la migration durable ?",
+      "options": ["Migration stable et durable dans le temps", "Migration temporaire", "Migration clandestine", "Migration saisonnière"],
+      "reponse": "Migration stable et durable dans le temps",
+      "explication": "Elle implique une installation à long terme dans le pays d’accueil."
+    },
+    {
+      "question": "Quel est l’impact de la migration sur les familles ?",
+      "options": ["Séparation, transferts financiers et changement social", "Aucun impact", "Rapprochement géographique", "Diminution des revenus"],
+      "reponse": "Séparation, transferts financiers et changement social",
+      "explication": "La migration modifie souvent la dynamique familiale."
+    },
+    {
+      "question": "Qu’est-ce que la migration d’agrégation ?",
+      "options": ["Mouvement vers des zones urbaines concentrées", "Migration rurale", "Migration temporaire", "Migration illégale"],
+      "reponse": "Mouvement vers des zones urbaines concentrées",
+      "explication": "Les migrants tendent à se regrouper dans certaines villes ou quartiers."
+    },
+    {
+      "question": "Qu’est-ce que la migration interne forcée ?",
+      "options": ["Déplacement dans un pays dû à un conflit ou catastrophe", "Migration volontaire", "Migration internationale", "Migration saisonnière"],
+      "reponse": "Déplacement dans un pays dû à un conflit ou catastrophe",
+      "explication": "Les déplacés internes n’ont pas franchi de frontière mais ont fui leur domicile."
+    },
+    {
+      "question": "Quel est le rôle des transferts financiers des migrants ?",
+      "options": ["Soutenir les familles restées au pays d’origine", "Augmenter la pauvreté", "Financer la guerre", "Encourager la migration illégale"],
+      "reponse": "Soutenir les familles restées au pays d’origine",
+      "explication": "Les remises contribuent au développement local."
+    },
+    {
+      "question": "Qu’est-ce qu’une migration spontanée ?",
+      "options": ["Migration non planifiée due à un événement soudain", "Migration organisée", "Migration saisonnière", "Migration légale"],
+      "reponse": "Migration non planifiée due à un événement soudain",
+      "explication": "Par exemple, une catastrophe naturelle peut déclencher une migration spontanée."
+    },
+    {
+      "question": "Quelle est la différence entre un migrant et un réfugié ?",
+      "options": ["Le réfugié fuit un danger, le migrant choisit de partir", "Pas de différence", "Le migrant est toujours illégal", "Le réfugié est un touriste"],
+      "reponse": "Le réfugié fuit un danger, le migrant choisit de partir",
+      "explication": "Le statut légal et les raisons du départ diffèrent."
+    },
+    {
+      "question": "Quelles politiques peuvent favoriser l’intégration des migrants ?",
+      "options": ["Programmes d’éducation, emploi et droits sociaux", "Fermeture des frontières", "Exclusion sociale", "Restrictions légales"],
+      "reponse": "Programmes d’éducation, emploi et droits sociaux",
+      "explication": "L’intégration repose sur l’accès à la société d’accueil."
+    },
+    {
+      "question": "Qu'est-ce que la migration ?",
+      "options": ["Le déplacement de population d’un lieu à un autre", "La naissance d’une population", "La croissance démographique", "Le décès d’une population"],
+      "reponse": "Le déplacement de population d’un lieu à un autre",
+      "explication": "La migration désigne le mouvement des personnes entre différentes zones géographiques."
+    },
+    {
+      "question": "Quelle est la différence entre émigration et immigration ?",
+      "options": ["L’émigration est le départ, l’immigration est l’arrivée", "Les deux signifient la même chose", "L’émigration est l’arrivée, l’immigration est le départ", "Aucune différence"],
+      "reponse": "L’émigration est le départ, l’immigration est l’arrivée",
+      "explication": "L’émigration désigne le fait de quitter un pays, l’immigration celui d’y entrer."
+    },
+    {
+      "question": "Qu’est-ce que l’exode rural ?",
+      "options": ["Le départ massif des habitants des campagnes vers la ville", "La croissance des zones rurales", "L’augmentation des naissances en milieu rural", "La migration des villes vers la campagne"],
+      "reponse": "Le départ massif des habitants des campagnes vers la ville",
+      "explication": "L’exode rural est un phénomène de migration interne important."
+    },
+    {
+      "question": "Quels sont les facteurs dits « push » dans la migration ?",
+      "options": ["Les raisons qui poussent à quitter un lieu", "Les raisons qui attirent vers un lieu", "Les conditions météorologiques", "Les décisions gouvernementales"],
+      "reponse": "Les raisons qui poussent à quitter un lieu",
+      "explication": "Les facteurs push motivent le départ, comme la pauvreté ou la guerre."
+    },
+    {
+      "question": "Quels sont les facteurs dits « pull » dans la migration ?",
+      "options": ["Les raisons qui attirent vers un lieu", "Les raisons qui poussent à quitter un lieu", "Les décisions administratives", "Les catastrophes naturelles"],
+      "reponse": "Les raisons qui attirent vers un lieu",
+      "explication": "Les facteurs pull sont les attraits comme le travail ou la sécurité."
+    },
+    {
+      "question": "Quel est un exemple d’exode rural typique ?",
+      "options": ["Les habitants quittant les campagnes pour les villes", "Les citadins allant à la campagne", "Les populations circulant entre pays", "Les gens restant dans leur village"],
+      "reponse": "Les habitants quittant les campagnes pour les villes",
+      "explication": "C’est le déplacement typique de la population rurale vers les zones urbaines."
+    },
+    {
+      "question": "Quels sont les effets possibles d’une forte immigration sur un pays ?",
+      "options": ["Croissance économique et diversité culturelle", "Déclin démographique", "Réduction des emplois", "Fermeture des frontières"],
+      "reponse": "Croissance économique et diversité culturelle",
+      "explication": "L’immigration peut dynamiser l’économie et enrichir la culture."
+    },
+    {
+      "question": "Qu’est-ce que la migration interne ?",
+      "options": ["Déplacement à l’intérieur d’un même pays", "Migration vers un autre continent", "Déplacement saisonnier uniquement", "Migration illégale"],
+      "reponse": "Déplacement à l’intérieur d’un même pays",
+      "explication": "La migration interne se fait sans franchir de frontières nationales."
+    },
+    {
+      "question": "Quelle est une cause fréquente d’émigration ?",
+      "options": ["La recherche d’emploi", "L’augmentation de la natalité", "Le tourisme", "La croissance urbaine"],
+      "reponse": "La recherche d’emploi",
+      "explication": "Beaucoup quittent leur pays pour trouver du travail ailleurs."
+    },
+    {
+      "question": "Qu’est-ce qu’un migrant économique ?",
+      "options": ["Une personne qui migre pour des raisons liées au travail", "Un réfugié politique", "Un touriste", "Un expatrié temporaire"],
+      "reponse": "Une personne qui migre pour des raisons liées au travail",
+      "explication": "Le migrant économique cherche de meilleures conditions de vie professionnelles."
+    },
+    {
+      "question": "Quelle est la différence entre réfugié et migrant économique ?",
+      "options": ["Le réfugié fuit des persécutions, le migrant économique cherche un emploi", "Ils sont identiques", "Le migrant économique fuit une guerre", "Le réfugié voyage pour tourisme"],
+      "reponse": "Le réfugié fuit des persécutions, le migrant économique cherche un emploi",
+      "explication": "Le réfugié est protégé par des lois internationales en raison de menaces sur sa vie."
+    },
+    {
+      "question": "Qu’est-ce que la diaspora ?",
+      "options": ["La dispersion d’un peuple hors de son territoire d’origine", "Un groupe ethnique vivant dans un pays", "Une ville d’origine", "Un type de migration interne"],
+      "reponse": "La dispersion d’un peuple hors de son territoire d’origine",
+      "explication": "La diaspora représente les communautés vivant loin de leur pays d’origine."
+    },
+    {
+      "question": "Qu’est-ce que la migration temporaire ?",
+      "options": ["Migration pour une durée limitée", "Migration définitive", "Migration clandestine", "Migration forcée"],
+      "reponse": "Migration pour une durée limitée",
+      "explication": "Certaines migrations sont saisonnières ou pour un emploi temporaire."
+    },
+    {
+      "question": "Qu’est-ce que la migration clandestine ?",
+      "options": ["Migration illégale sans autorisation", "Migration officielle", "Migration touristique", "Migration temporaire"],
+      "reponse": "Migration illégale sans autorisation",
+      "explication": "La migration clandestine est un phénomène complexe lié aux frontières et lois.",
+      "explication": "Souvent motivée par des besoins économiques ou des conflits."
+    },
+    {
+      "question": "Quel est l’impact principal de l’exode rural sur les villes ?",
+      "options": ["Urbanisation rapide et pression sur les infrastructures", "Déclin démographique", "Ralentissement économique", "Augmentation de la production agricole"],
+      "reponse": "Urbanisation rapide et pression sur les infrastructures",
+      "explication": "Les villes doivent s’adapter à l’arrivée massive de populations rurales."
+    },
+    {
+      "question": "Quelles sont les conséquences négatives possibles de l’exode rural ?",
+      "options": ["Désertification des campagnes et chômage urbain", "Croissance économique rurale", "Réduction de la pauvreté", "Augmentation de la production agricole"],
+      "reponse": "Désertification des campagnes et chômage urbain",
+      "explication": "Les campagnes se vident et les villes peuvent faire face au chômage."
+    },
+    {
+      "question": "Quelle politique peut freiner l’exode rural ?",
+      "options": ["Développement des infrastructures rurales", "Fermeture des frontières", "Augmentation des impôts", "Réduction des subventions agricoles"],
+      "reponse": "Développement des infrastructures rurales",
+      "explication": "Améliorer les conditions de vie rurales encourage les habitants à rester."
+    },
+    {
+      "question": "Qu’est-ce que la migration de retour ?",
+      "options": ["Le retour des migrants vers leur pays d’origine", "Le départ des migrants", "Migration vers une nouvelle destination", "Migration interne"],
+      "reponse": "Le retour des migrants vers leur pays d’origine",
+      "explication": "Certains migrants rentrent dans leur pays après une période d’exil."
+    },
+    {
+      "question": "Quel rôle jouent les réseaux sociaux dans la migration ?",
+      "options": ["Facilitent la communication et l’intégration", "Empêchent la migration", "Ne jouent aucun rôle", "Sont utilisés uniquement pour les loisirs"],
+      "reponse": "Facilitent la communication et l’intégration",
+      "explication": "Les réseaux sociaux aident les migrants à garder le contact et trouver du soutien."
+    },
+    {
+      "question": "Qu’est-ce que la migration forcée ?",
+      "options": ["Déplacement contraint à cause de conflits ou catastrophes", "Migration volontaire pour travail", "Tourisme prolongé", "Migration temporaire"],
+      "reponse": "Déplacement contraint à cause de conflits ou catastrophes",
+      "explication": "Les réfugiés et déplacés internes sont des exemples de migrations forcées."
+    }
+  ]
+}

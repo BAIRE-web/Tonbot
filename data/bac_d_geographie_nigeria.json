@@ -1,0 +1,124 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la capitale du Nigeria ?",
+      "options": ["Abuja", "Lagos", "Kano", "Ibadan"],
+      "reponse": "Abuja",
+      "explication": "Abuja est la capitale fédérale depuis 1991."
+    },
+    {
+      "question": "Quelle est la langue officielle du Nigeria ?",
+      "options": ["Anglais", "Haoussa", "Yoruba", "Igbo"],
+      "reponse": "Anglais",
+      "explication": "L’anglais est la langue officielle héritée de la colonisation britannique."
+    },
+    {
+      "question": "Quelle est la population approximative du Nigeria ?",
+      "options": ["Plus de 200 millions", "50 millions", "100 millions", "150 millions"],
+      "reponse": "Plus de 200 millions",
+      "explication": "Le Nigeria est le pays le plus peuplé d’Afrique."
+    },
+    {
+      "question": "Quel est le principal groupe ethnique au Nigeria ?",
+      "options": ["Haoussa", "Yoruba", "Igbo", "Tous ces groupes"],
+      "reponse": "Tous ces groupes",
+      "explication": "Le Nigeria est multiethnique avec Haoussa, Yoruba, Igbo en majorité."
+    },
+    {
+      "question": "Quel est le régime politique actuel du Nigeria ?",
+      "options": ["République fédérale démocratique", "Monarchie", "Dictature", "Colonie"],
+      "reponse": "République fédérale démocratique",
+      "explication": "Le Nigeria est une république fédérale avec un président élu."
+    },
+    {
+      "question": "Quel est le principal secteur économique du Nigeria ?",
+      "options": ["Pétrole et gaz", "Agriculture", "Tourisme", "Industrie textile"],
+      "reponse": "Pétrole et gaz",
+      "explication": "Le Nigeria est un grand exportateur de pétrole, secteur clé de l’économie."
+    },
+    {
+      "question": "Quelle est la monnaie officielle du Nigeria ?",
+      "options": ["Naira", "Dollar américain", "Franc CFA", "Euro"],
+      "reponse": "Naira",
+      "explication": "Le naira est la monnaie officielle depuis 1973."
+    },
+    {
+      "question": "Quel est le principal problème social au Nigeria ?",
+      "options": ["Corruption", "Pauvreté", "Instabilité politique", "Chômage"],
+      "reponse": "Corruption",
+      "explication": "La corruption est un défi majeur dans les sphères politique et économique."
+    },
+    {
+      "question": "Quelle religion est la plus pratiquée au Nigeria ?",
+      "options": ["Islam", "Christianisme", "Animisme", "Toutes les réponses"],
+      "reponse": "Toutes les réponses",
+      "explication": "Le Nigeria est religieuxlement diversifié, avec islam et christianisme majoritaires."
+    },
+    {
+      "question": "Quel est l’enjeu majeur lié à l’ethnicité au Nigeria ?",
+      "options": ["Conflits interethniques", "Unité parfaite", "Absence de diversité", "Homogénéité culturelle"],
+      "reponse": "Conflits interethniques",
+      "explication": "Les tensions entre groupes ethniques sont un défi national."
+    },
+    {
+      "question": "Quelle est la durée du mandat présidentiel au Nigeria ?",
+      "options": ["4 ans", "5 ans", "6 ans", "7 ans"],
+      "reponse": "4 ans",
+      "explication": "Le président est élu pour un mandat de 4 ans renouvelable une fois."
+    },
+    {
+      "question": "Quel est un point fort de l’agriculture nigériane ?",
+      "options": ["Diversité des cultures", "Production unique de cacao", "Faible production de céréales", "Aucune production animale"],
+      "reponse": "Diversité des cultures",
+      "explication": "Le Nigeria cultive diverses denrées : manioc, maïs, riz, etc."
+    },
+    {
+      "question": "Quelle est une faiblesse économique du Nigeria ?",
+      "options": ["Dépendance au pétrole", "Diversification économique", "Stabilité financière", "Faible endettement"],
+      "reponse": "Dépendance au pétrole",
+      "explication": "L’économie reste vulnérable aux fluctuations du prix du pétrole."
+    },
+    {
+      "question": "Quelle grande organisation régionale le Nigeria a-t-il aidé à fonder ?",
+      "options": ["CEDEAO", "Union africaine", "CEMAC", "SADC"],
+      "reponse": "CEDEAO",
+      "explication": "Le Nigeria est un acteur clé de la Communauté économique des États de l’Afrique de l’Ouest."
+    },
+    {
+      "question": "Quel est un défi majeur pour le système éducatif nigérian ?",
+      "options": ["Insuffisance des infrastructures", "Taux élevé de scolarisation", "Accès universel", "Bonne qualité de l’enseignement"],
+      "reponse": "Insuffisance des infrastructures",
+      "explication": "Le système souffre de manque d’équipements et de ressources."
+    },
+    {
+      "question": "Quel est le climat dominant au Nigeria ?",
+      "options": ["Tropical humide", "Désertique", "Tempéré", "Polaire"],
+      "reponse": "Tropical humide",
+      "explication": "Le climat varie mais est majoritairement tropical humide."
+    },
+    {
+      "question": "Quel est un problème environnemental au Nigeria ?",
+      "options": ["Pollution pétrolière", "Déforestation faible", "Manque d’eau", "Glaciers fondants"],
+      "reponse": "Pollution pétrolière",
+      "explication": "Les activités pétrolières causent pollution et dégradation écologique."
+    },
+    {
+      "question": "Qui est le héros national nigérian de l’indépendance ?",
+      "options": ["Nnamdi Azikiwe", "Nelson Mandela", "Kwame Nkrumah", "Julius Nyerere"],
+      "reponse": "Nnamdi Azikiwe",
+      "explication": "Il fut un leader important dans la lutte pour l’indépendance."
+    },
+    {
+      "question": "Quel est l’impact des groupes armés comme Boko Haram ?",
+      "options": ["Instabilité sécuritaire et humanitaire", "Paix durable", "Croissance économique", "Développement urbain"],
+      "reponse": "Instabilité sécuritaire et humanitaire",
+      "explication": "Ces groupes provoquent conflits et crises humanitaires."
+    },
+    {
+      "question": "Quel est le rôle du Nigeria dans l’économie africaine ?",
+      "options": ["Leader économique en Afrique", "Petit pays sans influence", "Économie fermée", "Principal exportateur de café"],
+      "reponse": "Leader économique en Afrique",
+      "explication": "Le Nigeria est la première économie d’Afrique en PIB."
+    }
+  ]
+}
