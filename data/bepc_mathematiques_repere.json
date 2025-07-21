@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Dans un repère orthonormé, quelles sont les coordonnées du point O (origine) ?",
+      "options": ["(0 ; 0)", "(1 ; 1)", "(0 ; 1)", "(1 ; 0)"],
+      "reponse": "(0 ; 0)",
+      "explication": "Le point O est l'origine du repère, ses coordonnées sont (0 ; 0)."
+    },
+    {
+      "question": "Dans un repère, quelles sont les coordonnées du point A situé à 3 unités sur l'axe des abscisses et 4 unités sur l'axe des ordonnées ?",
+      "options": ["(3 ; 4)", "(4 ; 3)", "(3 ; 0)", "(0 ; 4)"],
+      "reponse": "(3 ; 4)",
+      "explication": "Les coordonnées s’écrivent (abscisse ; ordonnée)."
+    },
+    {
+      "question": "Quelle est la formule pour calculer la distance entre deux points A(x₁ ; y₁) et B(x₂ ; y₂) ?",
+      "options": ["√((x₂ - x₁)² + (y₂ - y₁)²)", "(x₂ - x₁) + (y₂ - y₁)", "(x₂ + x₁)² + (y₂ + y₁)²", "√(x₁² + y₁²) + √(x₂² + y₂²)"],
+      "reponse": "√((x₂ - x₁)² + (y₂ - y₁)²)",
+      "explication": "La distance est la racine carrée de la somme des carrés des différences des coordonnées."
+    },
+    {
+      "question": "Quelles sont les coordonnées du milieu M du segment [AB] avec A(x₁ ; y₁) et B(x₂ ; y₂) ?",
+      "options": ["((x₁ + x₂)/2 ; (y₁ + y₂)/2)", "(x₁ + x₂ ; y₁ + y₂)", "((x₂ - x₁)/2 ; (y₂ - y₁)/2)", "(x₁ - x₂ ; y₁ - y₂)"],
+      "reponse": "((x₁ + x₂)/2 ; (y₁ + y₂)/2)",
+      "explication": "Le milieu a pour coordonnées la moyenne des coordonnées des deux points."
+    },
+    {
+      "question": "Le vecteur →AB a pour coordonnées :",
+      "options": ["(x₂ - x₁ ; y₂ - y₁)", "(x₁ + x₂ ; y₁ + y₂)", "(x₁ - x₂ ; y₁ - y₂)", "(x₁ ; y₁)"],
+      "reponse": "(x₂ - x₁ ; y₂ - y₁)",
+      "explication": "Le vecteur est obtenu en soustrayant les coordonnées de A de celles de B."
+    },
+    {
+      "question": "Dans un repère orthonormé, la norme du vecteur →u(x ; y) est :",
+      "options": ["√(x² + y²)", "x + y", "x - y", "x² + y²"],
+      "reponse": "√(x² + y²)",
+      "explication": "La norme est la racine carrée de la somme des carrés des composantes."
+    },
+    {
+      "question": "Deux vecteurs →u et →v sont colinéaires si :",
+      "options": ["Il existe un réel k tel que →u = k→v", "→u + →v = →0", "Leur produit scalaire est nul", "Leur somme est nulle"],
+      "reponse": "Il existe un réel k tel que →u = k→v",
+      "explication": "La colinéarité signifie que les vecteurs sont proportionnels."
+    },
+    {
+      "question": "Le produit scalaire de →u(x ; y) et →v(x' ; y') est :",
+      "options": ["xx' + yy'", "x + x' + y + y'", "x'y - xy'", "xx' - yy'"],
+      "reponse": "xx' + yy'",
+      "explication": "Le produit scalaire est la somme des produits des coordonnées correspondantes."
+    },
+    {
+      "question": "Deux vecteurs sont orthogonaux si :",
+      "options": ["Leur produit scalaire est nul", "Ils ont la même norme", "Ils sont colinéaires", "Leur somme est nulle"],
+      "reponse": "Leur produit scalaire est nul",
+      "explication": "Deux vecteurs sont perpendiculaires si leur produit scalaire est nul."
+    },
+    {
+      "question": "Soit A(1 ; 2), B(4 ; 6), et C(7 ; 10). Les points A, B, et C sont-ils alignés ?",
+      "options": ["Oui", "Non", "Impossible à déterminer", "Seulement si C est milieu de [AB]"],
+      "reponse": "Oui",
+      "explication": "Les vecteurs →AB (3 ; 4) et →BC (3 ; 4) sont colinéaires, donc les points sont alignés."
+    },
+    {
+      "question": "Quel est le milieu du segment [AB] avec A(2 ; 5) et B(6 ; 9) ?",
+      "options": ["(4 ; 7)", "(8 ; 14)", "(3 ; 4)", "(1 ; 2)"],
+      "reponse": "(4 ; 7)",
+      "explication": "Milieu = ((2+6)/2 ; (5+9)/2) = (4 ; 7)."
+    },
+    {
+      "question": "Distance entre A(1 ; 1) et B(4 ; 5) ?",
+      "options": ["5", "6", "7", "4"],
+      "reponse": "5",
+      "explication": "Distance = √((4-1)² + (5-1)²) = √(3² + 4²) = 5."
+    },
+    {
+      "question": "Les vecteurs →u = (2 ; 3) et →v = (4 ; 6) sont :",
+      "options": ["Colinéaires", "Orthogonaux", "Égaux", "Opposés"],
+      "reponse": "Colinéaires",
+      "explication": "→v = 2×→u, ils sont colinéaires."
+    },
+    {
+      "question": "Produit scalaire de →u = (1 ; -2) et →v = (3 ; 4) ?",
+      "options": ["-5", "11", "5", "-11"],
+      "reponse": "-5",
+      "explication": "1×3 + (-2)×4 = 3 - 8 = -5."
+    },
+    {
+      "question": "Les vecteurs →u = (3 ; 0) et →v = (0 ; 4) sont :",
+      "options": ["Orthogonaux", "Colinéaires", "Égaux", "Opposés"],
+      "reponse": "Orthogonaux",
+      "explication": "Produit scalaire = 3×0 + 0×4 = 0 donc orthogonaux."
+    },
+    {
+      "question": "Soit →u = (x ; y) tel que ||→u|| = 5 et x = 3. Calcule y.",
+      "options": ["4", "-4", "3", "-3"],
+      "reponse": "4",
+      "explication": "||→u||² = x² + y² donc 25 = 9 + y², y² = 16 → y = ±4."
+    },
+    {
+      "question": "Vecteur unitaire dans la direction de →u = (3 ; 4) ?",
+      "options": ["(3/5 ; 4/5)", "(3 ; 4)", "(5/3 ; 5/4)", "(1 ; 1)"],
+      "reponse": "(3/5 ; 4/5)",
+      "explication": "Norme de →u = 5, donc vecteur unitaire = (3/5 ; 4/5)."
+    },
+    {
+      "question": "Vecteurs →u = (5 ; 7) et →v = (10 ; 14) sont :",
+      "options": ["Colinéaires", "Orthogonaux", "Égaux", "Opposés"],
+      "reponse": "Colinéaires",
+      "explication": "→v = 2×→u donc colinéaires."
+    },
+    {
+      "question": "Distance entre A(0 ; 0) et B(7 ; 24) ?",
+      "options": ["25", "31", "24", "7"],
+      "reponse": "25",
+      "explication": "Distance = √(7² + 24²) = √(49 + 576) = √625 = 25."
+    },
+    {
+      "question": "Soit A(2 ; 3), B(5 ; 7), C(8 ; 11). Ces points sont-ils alignés ?",
+      "options": ["Oui", "Non", "Impossible", "Seulement si C est milieu de [AB]"],
+      "reponse": "Oui",
+      "explication": "→AB = (3 ; 4), →BC = (3 ; 4) donc colinéaires, points alignés."
+    },
+    {
+      "question": "Produit scalaire de →u = (0 ; 5) et →v = (5 ; 0) ?",
+      "options": ["0", "25", "5", "-25"],
+      "reponse": "0",
+      "explication": "0×5 + 5×0 = 0, donc orthogonaux."
+    },
+    {
+      "question": "Les points A(1 ; 2), B(3 ; 4), C(5 ; 6) sont-ils alignés ?",
+      "options": ["Oui", "Non", "Impossible à déterminer", "Seulement si B est milieu de [AC]"],
+      "reponse": "Oui",
+      "explication": "→AB = (2 ; 2), →BC = (2 ; 2), donc alignés."
+    },
+    {
+      "question": "Coordonnées du vecteur →AB avec A(7 ; 8) et B(2 ; 5) ?",
+      "options": ["(-5 ; -3)", "(5 ; 3)", "(-2 ; -3)", "(7 ; 8)"],
+      "reponse": "(-5 ; -3)",
+      "explication": "→AB = (xB - xA ; yB - yA) = (2 - 7 ; 5 - 8) = (-5 ; -3)."
+    },
+    {
+      "question": "Le produit scalaire de →u = (1 ; 2) et →v = (-2 ; 1) vaut :",
+      "options": ["0", "5", "-5", "3"],
+      "reponse": "0",
+      "explication": "1×(-2) + 2×1 = -2 + 2 = 0 → orthogonaux."
+    },
+    {
+      "question": "Si →u = (x ; y) et ||→u|| = 1, alors →u est :",
+      "options": ["Un vecteur unitaire", "Un vecteur nul", "Un vecteur opposé", "Un vecteur nul"],
+      "reponse": "Un vecteur unitaire",
+      "explication": "Norme 1 signifie vecteur unitaire."
+    },
+    {
+      "question": "La coordonnée x d’un point correspond à :",
+      "options": ["L’abscisse", "L’ordonnée", "La distance à l’origine", "La norme"],
+      "reponse": "L’abscisse",
+      "explication": "x correspond à l’abscisse."
+    },
+    {
+      "question": "La coordonnée y d’un point correspond à :",
+      "options": ["L’ordonnée", "L’abscisse", "La distance à l’origine", "La norme"],
+      "reponse": "L’ordonnée",
+      "explication": "y correspond à l’ordonnée."
+    },
+    {
+      "question": "Les vecteurs →u = (1 ; 0) et →v = (0 ; 1) sont :",
+      "options": ["Orthogonaux", "Colinéaires", "Égaux", "Opposés"],
+      "reponse": "Orthogonaux",
+      "explication": "Produit scalaire = 0 → orthogonaux."
+    },
+    {
+      "question": "Calculer la distance entre les points A(2 ; -1) et B(-1 ; 3).",
+      "options": ["5", "4", "6", "7"],
+      "reponse": "5",
+      "explication": "Distance = √((-1-2)² + (3+1)²) = √((-3)² + 4²) = √(9+16) = √25 = 5."
+    },
+    {
+      "question": "Soit A(1 ; 2) et B(5 ; 6). Quelles sont les coordonnées du vecteur →AB ?",
+      "options": ["(4 ; 4)", "(6 ; 8)", "(5 ; 6)", "(-4 ; -4)"],
+      "reponse": "(4 ; 4)",
+      "explication": "→AB = (xB - xA ; yB - yA) = (5 - 1 ; 6 - 2) = (4 ; 4)."
+    },
+    {
+      "question": "Quelle est la distance entre A(0 ; 0) et B(3 ; 4) ?",
+      "options": ["5", "7", "6", "4"],
+      "reponse": "5",
+      "explication": "Distance = √((3 - 0)² + (4 - 0)²) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "Le milieu du segment [AB] avec A(2 ; 3) et B(6 ; 7) a pour coordonnées :",
+      "options": ["(4 ; 5)", "(8 ; 10)", "(2 ; 3)", "(6 ; 7)"],
+      "reponse": "(4 ; 5)",
+      "explication": "Milieu = ((2+6)/2 ; (3+7)/2) = (4 ; 5)."
+    },
+    {
+      "question": "Soit →u = (3 ; 2) et →v = (6 ; 4). Ces deux vecteurs sont-ils colinéaires ?",
+      "options": ["Oui", "Non", "Uniquement si →v = 2→u", "Seulement si →u = 2→v"],
+      "reponse": "Oui",
+      "explication": "→v = 2 × →u donc ils sont colinéaires."
+    },
+    {
+      "question": "Le produit scalaire de →u = (1 ; 5) et →v = (3 ; -1) est :",
+      "options": ["-2", "8", "3", "0"],
+      "reponse": "-2",
+      "explication": "Produit scalaire = 1×3 + 5×(-1) = 3 - 5 = -2."
+    },
+    {
+      "question": "Les vecteurs →u = (4 ; 0) et →v = (0 ; 5) sont-ils orthogonaux ?",
+      "options": ["Oui", "Non", "Seulement si leurs normes sont égales", "Seulement si leur somme est nulle"],
+      "reponse": "Oui",
+      "explication": "Produit scalaire = 4×0 + 0×5 = 0, donc ils sont orthogonaux."
+    },
+    {
+      "question": "Soit A(3 ; 4), B(7 ; 8) et C(11 ; 12). Ces trois points sont-ils alignés ?",
+      "options": ["Oui", "Non", "Impossible à déterminer", "Seulement si C est milieu de [AB]"],
+      "reponse": "Oui",
+      "explication": "→AB = (4 ; 4), →BC = (4 ; 4) donc les vecteurs sont colinéaires, points alignés."
+    },
+    {
+      "question": "Coordonnées du vecteur →AB avec A(5 ; 2) et B(1 ; 6) ?",
+      "options": ["(-4 ; 4)", "(4 ; -4)", "(-6 ; -8)", "(6 ; 8)"],
+      "reponse": "(-4 ; 4)",
+      "explication": "→AB = (1 - 5 ; 6 - 2) = (-4 ; 4)."
+    },
+    {
+      "question": "Calculer la distance entre A(1 ; -1) et B(4 ; 3).",
+      "options": ["5", "6", "7", "8"],
+      "reponse": "5",
+      "explication": "Distance = √((4-1)² + (3+1)²) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "Quelle est la norme du vecteur →u = (6 ; 8) ?",
+      "options": ["10", "12", "14", "8"],
+      "reponse": "10",
+      "explication": "Norme = √(6² + 8²) = √(36 + 64) = √100 = 10."
+    },
+    {
+      "question": "Le vecteur →u = (2 ; 3) est-il unitaire ?",
+      "options": ["Non", "Oui", "Seulement si multiplié par 1/√13", "Oui, si multiplié par 13"],
+      "reponse": "Non",
+      "explication": "Norme = √(2² + 3²) = √(4 + 9) = √13 ≠ 1, donc pas unitaire."
+    },
+    {
+      "question": "Soit →u = (x ; y) avec ||→u|| = 1, x = 3/5. Trouve y.",
+      "options": ["4/5", "-4/5", "5/4", "-5/4"],
+      "reponse": "4/5",
+      "explication": "||→u||² = x² + y² = 1 donc y² = 1 - (3/5)² = 1 - 9/25 = 16/25 → y = ±4/5."
+    },
+    {
+      "question": "Le produit scalaire de →u = (2 ; -3) et →v = (4 ; 6) est :",
+      "options": ["-10", "0", "24", "-14"],
+      "reponse": "-10",
+      "explication": "Produit scalaire = 2×4 + (-3)×6 = 8 - 18 = -10."
+    },
+    {
+      "question": "Les points A(2 ; 3), B(5 ; 7), C(8 ; 11) sont-ils alignés ?",
+      "options": ["Oui", "Non", "Impossible à dire", "Uniquement si C est milieu de [AB]"],
+      "reponse": "Oui",
+      "explication": "→AB = (3 ; 4), →BC = (3 ; 4), donc alignés."
+    },
+    {
+      "question": "Quelle est la formule du milieu d’un segment [AB] ?",
+      "options": ["((x₁ + x₂)/2 ; (y₁ + y₂)/2)", "(x₁ + x₂ ; y₁ + y₂)", "((x₂ - x₁)/2 ; (y₂ - y₁)/2)", "(x₂ - x₁ ; y₂ - y₁)"],
+      "reponse": "((x₁ + x₂)/2 ; (y₁ + y₂)/2)",
+      "explication": "Le milieu est la moyenne des coordonnées."
+    },
+    {
+      "question": "Soit →u = (3 ; 4), calcule →u + (-2)→u.",
+      "options": ["(-3 ; -4)", "(1 ; 2)", "(5 ; 8)", "(3 ; 4)"],
+      "reponse": "(-3 ; -4)",
+      "explication": "→u + (-2)→u = (1 - 2)→u = -1 →u = (-3 ; -4)."
+    },
+    {
+      "question": "Le produit scalaire de →u = (1 ; 0) et →v = (0 ; 1) est :",
+      "options": ["0", "1", "-1", "2"],
+      "reponse": "0",
+      "explication": "Produit scalaire = 1×0 + 0×1 = 0."
+    },
+    {
+      "question": "Quel vecteur est colinéaire avec →u = (2 ; 3) ?",
+      "options": ["(4 ; 6)", "(3 ; 2)", "(2 ; 2)", "(0 ; 1)"],
+      "reponse": "(4 ; 6)",
+      "explication": "C’est le double de →u, donc colinéaire."
+    },
+    {
+      "question": "Soit →u = (5 ; 12), quelle est sa norme ?",
+      "options": ["13", "17", "12", "5"],
+      "reponse": "13",
+      "explication": "Norme = √(5² + 12²) = √(25 + 144) = √169 = 13."
+    },
+    {
+      "question": "Les vecteurs →u = (3 ; 0) et →v = (0 ; 4) sont :",
+      "options": ["Orthogonaux", "Colinéaires", "Égaux", "Opposés"],
+      "reponse": "Orthogonaux",
+      "explication": "Produit scalaire = 3×0 + 0×4 = 0."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "qcm": [
+    {
+      "question": "Comment dit-on 'chien' en anglais ?",
+      "options": ["Cat", "Dog", "Cow", "Horse"],
+      "reponse": "Dog",
+      "explication": "‘Chien’ se traduit par ‘Dog’ en anglais."
+    },
+    {
+      "question": "Quel est le mot anglais pour 'école' ?",
+      "options": ["Market", "Church", "School", "Hospital"],
+      "reponse": "School",
+      "explication": "‘École’ se traduit par ‘School’ en anglais."
+    },
+    {
+      "question": "Comment dit-on 'bonjour' le matin ?",
+      "options": ["Goodbye", "Good morning", "Good night", "Thanks"],
+      "reponse": "Good morning",
+      "explication": "‘Good morning’ signifie ‘bonjour’ le matin."
+    },
+    {
+      "question": "Quel mot anglais signifie 'livre' ?",
+      "options": ["Pen", "Book", "Chair", "Table"],
+      "reponse": "Book",
+      "explication": "‘Livre’ en anglais se dit ‘Book’."
+    },
+    {
+      "question": "Comment dire 'merci' en anglais ?",
+      "options": ["Sorry", "Please", "Thanks", "Hello"],
+      "reponse": "Thanks",
+      "explication": "‘Merci’ se dit ‘Thanks’ ou ‘Thank you’."
+    },
+    {
+      "question": "Quel est le jour de la semaine après lundi ?",
+      "options": ["Tuesday", "Friday", "Sunday", "Wednesday"],
+      "reponse": "Tuesday",
+      "explication": "Après Monday (lundi), vient Tuesday (mardi)."
+    },
+    {
+      "question": "Quelle couleur signifie 'bleu' en anglais ?",
+      "options": ["Blue", "Red", "Green", "Black"],
+      "reponse": "Blue",
+      "explication": "‘Bleu’ = ‘Blue’ en anglais."
+    },
+    {
+      "question": "Comment dire 'maman' en anglais ?",
+      "options": ["Mother", "Sister", "Father", "Brother"],
+      "reponse": "Mother",
+      "explication": "‘Maman’ = ‘Mother’."
+    },
+    {
+      "question": "Quel mot désigne un fruit ?",
+      "options": ["Car", "Apple", "Chair", "Window"],
+      "reponse": "Apple",
+      "explication": "‘Apple’ signifie ‘pomme’, un fruit."
+    },
+    {
+      "question": "Que veut dire 'goodbye' ?",
+      "options": ["Bonjour", "Merci", "Au revoir", "Bonne nuit"],
+      "reponse": "Au revoir",
+      "explication": "‘Goodbye’ veut dire ‘au revoir’."
+    },
+    {
+      "question": "Comment dit-on 'table' en anglais ?",
+      "options": ["Table", "Chair", "Book", "Window"],
+      "reponse": "Table",
+      "explication": "‘Table’ reste ‘Table’ en anglais (même mot)."
+    },
+    {
+      "question": "Quel mot signifie 'stylo' ?",
+      "options": ["Pencil", "Pen", "Paper", "Book"],
+      "reponse": "Pen",
+      "explication": "‘Stylo’ se dit ‘Pen’ en anglais."
+    },
+    {
+      "question": "Quelle est la couleur du ciel en anglais ?",
+      "options": ["Green", "Black", "Blue", "Red"],
+      "reponse": "Blue",
+      "explication": "Le ciel est bleu = The sky is blue → Blue."
+    },
+    {
+      "question": "Comment appelle-t-on 'un garçon' ?",
+      "options": ["Girl", "Boy", "Man", "Child"],
+      "reponse": "Boy",
+      "explication": "‘Garçon’ se dit ‘Boy’ en anglais."
+    },
+    {
+      "question": "Quel est le contraire de 'yes' ?",
+      "options": ["Okay", "Please", "No", "Sorry"],
+      "reponse": "No",
+      "explication": "‘Yes’ = oui ; ‘No’ = non."
+    },
+    {
+      "question": "Quel mot signifie 'fenêtre' ?",
+      "options": ["Table", "Window", "Chair", "Roof"],
+      "reponse": "Window",
+      "explication": "‘Fenêtre’ = ‘Window’ en anglais."
+    },
+    {
+      "question": "Quel mot signifie 'chaise' ?",
+      "options": ["Chair", "Table", "Pen", "Book"],
+      "reponse": "Chair",
+      "explication": "‘Chaise’ = ‘Chair’ en anglais."
+    },
+    {
+      "question": "Quel mot anglais veut dire 'eau' ?",
+      "options": ["Juice", "Milk", "Water", "Oil"],
+      "reponse": "Water",
+      "explication": "‘Eau’ = ‘Water’."
+    },
+    {
+      "question": "Comment dire 'père' en anglais ?",
+      "options": ["Father", "Mother", "Brother", "Uncle"],
+      "reponse": "Father",
+      "explication": "‘Père’ = ‘Father’."
+    },
+    {
+      "question": "Comment salue-t-on l'après-midi ?",
+      "options": ["Good night", "Good morning", "Good afternoon", "Goodbye"],
+      "reponse": "Good afternoon",
+      "explication": "L’après-midi = Good afternoon."
+    },
+    {
+      "question": "Que veut dire 'I am a pupil' ?",
+      "options": ["Je suis un enseignant", "Je suis un élève", "Je suis un homme", "Je suis un enfant"],
+      "reponse": "Je suis un élève",
+      "explication": "‘Pupil’ = élève."
+    },
+    {
+      "question": "Comment dit-on 'crayon' en anglais ?",
+      "options": ["Pen", "Pencil", "Paper", "Rubber"],
+      "reponse": "Pencil",
+      "explication": "‘Crayon’ = ‘Pencil’ en anglais."
+    },
+    {
+      "question": "Quel est le pluriel de 'book' ?",
+      "options": ["Books", "Bookes", "Bookies", "Booky"],
+      "reponse": "Books",
+      "explication": "On ajoute ‘s’ au mot → ‘Books’."
+    },
+    {
+      "question": "Comment dit-on 'sœur' en anglais ?",
+      "options": ["Brother", "Sister", "Mother", "Wife"],
+      "reponse": "Sister",
+      "explication": "‘Sœur’ se traduit par ‘Sister’."
+    },
+    {
+      "question": "Quel est le mot anglais pour 'marché' ?",
+      "options": ["Hospital", "Market", "Church", "School"],
+      "reponse": "Market",
+      "explication": "‘Marché’ = ‘Market’."
+    }
+  ]
+}

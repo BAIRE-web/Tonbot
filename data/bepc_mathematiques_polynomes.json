@@ -1,0 +1,322 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le type de la fonction : f(x) = 5x ?",
+      "options": ["Linéaire", "Affine", "Quadratique", "Exponentielle"],
+      "reponse": "Linéaire",
+      "explication": "f(x) = 5x est de la forme ax donc c’est une fonction linéaire."
+    },
+    {
+      "question": "Quelle est l’image de 3 par la fonction f(x) = 2x + 1 ?",
+      "options": ["6", "7", "8", "5"],
+      "reponse": "7",
+      "explication": "f(3) = 2×3 + 1 = 6 + 1 = 7"
+    },
+    {
+      "question": "Quelle est la représentation graphique d'une fonction linéaire ?",
+      "options": ["Une droite passant par l'origine", "Une parabole", "Une courbe exponentielle", "Une droite qui ne passe pas par l'origine"],
+      "reponse": "Une droite passant par l'origine",
+      "explication": "Une fonction linéaire est représentée par une droite qui passe par l’origine (0, 0)."
+    },
+    {
+      "question": "Quel est le type de la fonction : f(x) = 5x ?",
+      "options": ["Linéaire", "Affine", "Quadratique", "Exponentielle"],
+      "reponse": "Linéaire",
+      "explication": "f(x) = 5x est de la forme ax donc c’est une fonction linéaire."
+    },
+    {
+      "question": "Quelle est l’image de 3 par la fonction f(x) = 2x + 1 ?",
+      "options": ["6", "7", "8", "5"],
+      "reponse": "7",
+      "explication": "f(3) = 2×3 + 1 = 6 + 1 = 7"
+    },
+    {
+      "question": "Quelle est la représentation graphique d'une fonction linéaire ?",
+      "options": ["Une droite passant par l'origine", "Une parabole", "Une courbe exponentielle", "Une droite qui ne passe pas par l'origine"],
+      "reponse": "Une droite passant par l'origine",
+      "explication": "Une fonction linéaire est représentée par une droite qui passe par l’origine (0, 0)."
+    },
+    {
+      "question": "Quelle est la forme d’un polynôme du 1er degré ?",
+      "options": ["ax + b", "ax² + bx + c", "a/x", "ab"],
+      "reponse": "ax + b",
+      "explication": "Un polynôme du 1er degré s’écrit sous la forme ax + b."
+    },
+    {
+      "question": "Soit f(x) = -3x + 2. Quelle est l’image de 0 ?",
+      "options": ["-3", "2", "0", "1"],
+      "reponse": "2",
+      "explication": "f(0) = -3×0 + 2 = 2"
+    },
+    {
+      "question": "Soit f(x) = 4x. Quelle est l’image de -2 ?",
+      "options": ["-8", "8", "2", "0"],
+      "reponse": "-8",
+      "explication": "f(-2) = 4×(-2) = -8"
+    },
+    {
+      "question": "Dans f(x) = ax + b, quel coefficient indique si la droite monte ou descend ?",
+      "options": ["a", "b", "x", "f(x)"],
+      "reponse": "a",
+      "explication": "Le coefficient directeur 'a' détermine le sens de la pente de la droite."
+    },
+    {
+      "question": "Soit f(x) = 2x + 3. Quel est l'antécédent de 9 ?",
+      "options": ["3", "2", "6", "9"],
+      "reponse": "3",
+      "explication": "Il faut résoudre 2x + 3 = 9 → 2x = 6 → x = 3"
+    },
+    {
+      "question": "f(x) = -2x est une fonction...",
+      "options": ["linéaire", "affine", "constante", "parabolique"],
+      "reponse": "linéaire",
+      "explication": "Elle est de la forme f(x) = ax donc linéaire."
+    },
+    {
+      "question": "Quel est le taux de variation de f(x) = 7x - 1 ?",
+      "options": ["7", "-1", "1", "6"],
+      "reponse": "7",
+      "explication": "Le taux de variation est le coefficient directeur, ici 7."
+    },
+    {
+      "question": "La fonction f(x) = 2x + 4 est-elle linéaire ?",
+      "options": ["Non", "Oui", "Cela dépend", "Parfois"],
+      "reponse": "Non",
+      "explication": "Elle n’est pas de la forme f(x) = ax car elle contient +4."
+    },
+    {
+      "question": "Que vaut f(2) si f(x) = -x + 5 ?",
+      "options": ["3", "2", "-2", "5"],
+      "reponse": "3",
+      "explication": "f(2) = -2 + 5 = 3"
+    },
+    {
+      "question": "Quel est le coefficient directeur de f(x) = -4x + 1 ?",
+      "options": ["-4", "1", "0", "4"],
+      "reponse": "-4",
+      "explication": "Le coefficient directeur est le nombre devant x, ici -4."
+    },
+    {
+      "question": "Quel est l'antécédent de 0 pour f(x) = 2x - 6 ?",
+      "options": ["3", "2", "6", "-3"],
+      "reponse": "3",
+      "explication": "On résout 2x - 6 = 0 → x = 3"
+    },
+    {
+      "question": "Laquelle est une fonction affine ?",
+      "options": ["f(x) = x + 3", "f(x) = x²", "f(x) = 2/x", "f(x) = √x"],
+      "reponse": "f(x) = x + 3",
+      "explication": "Elle est de la forme ax + b, donc c’est une fonction affine."
+    },
+    {
+      "question": "Quelle est l'image de -1 par f(x) = -3x + 2 ?",
+      "options": ["5", "1", "-1", "-5"],
+      "reponse": "5",
+      "explication": "f(-1) = -3×(-1) + 2 = 3 + 2 = 5"
+    },
+    {
+      "question": "Si f(x) = x - 7, que vaut f(7) ?",
+      "options": ["0", "1", "14", "-7"],
+      "reponse": "0",
+      "explication": "f(7) = 7 - 7 = 0"
+    },
+    {
+      "question": "f(x) = 0, c’est une fonction...",
+      "options": ["constante", "affine", "linéaire", "exponentielle"],
+      "reponse": "constante",
+      "explication": "La valeur de f(x) est toujours 0, c’est une fonction constante."
+    },
+    {
+      "question": "Soit f(x) = -2x + 5. Que vaut f(-3) ?",
+      "options": ["11", "-1", "1", "9"],
+      "reponse": "11",
+      "explication": "f(-3) = -2×(-3) + 5 = 6 + 5 = 11"
+    },
+    {
+      "question": "Dans f(x) = ax + b, que représente b ?",
+      "options": ["L’ordonnée à l’origine", "La pente", "L’antécédent", "Le domaine"],
+      "reponse": "L’ordonnée à l’origine",
+      "explication": "b est l’ordonnée à l’origine, c’est la valeur de f(0)."
+    },
+    {
+      "question": "La fonction f(x) = 6 est...",
+      "options": ["constante", "affine", "linéaire", "aucune"],
+      "reponse": "constante",
+      "explication": "Elle est constante car la valeur de f(x) ne dépend pas de x."
+    },
+    {
+      "question": "f(x) = 2x + 3 et g(x) = 2x + 5. Que peut-on dire ?",
+      "options": ["Les deux droites sont parallèles", "Elles sont confondues", "Elles se coupent à l’origine", "Elles ont le même ordonnée à l’origine"],
+      "reponse": "Les deux droites sont parallèles",
+      "explication": "Elles ont le même coefficient directeur donc sont parallèles."
+    },
+    {
+      "question": "Quelle est la fonction linéaire parmi les suivantes ?",
+      "options": ["f(x) = 4x", "f(x) = x + 1", "f(x) = x²", "f(x) = 3"],
+      "reponse": "f(x) = 4x",
+      "explication": "C’est la seule fonction de la forme ax."
+    },
+    {
+      "question": "Soit f(x) = 0.5x - 1. Que vaut f(4) ?",
+      "options": ["1", "2", "0", "-2"],
+      "reponse": "1",
+      "explication": "f(4) = 0.5×4 - 1 = 2 - 1 = 1"
+    },
+    {
+      "question": "Quelle est la solution de 3x + 2 = 8 ?",
+      "options": ["2", "1", "3", "6"],
+      "reponse": "2",
+      "explication": "3x = 6 donc x = 2"
+    },
+    {
+      "question": "Si f(x) = x/2 - 3, que vaut f(6) ?",
+      "options": ["0", "3", "-3", "-6"],
+      "reponse": "0",
+      "explication": "f(6) = 6/2 - 3 = 3 - 3 = 0"
+    },
+    {
+      "question": "f(x) = -x. Quelle est l’image de -5 ?",
+      "options": ["5", "-5", "0", "1"],
+      "reponse": "5",
+      "explication": "f(-5) = -(-5) = 5"
+    },
+    {
+      "question": "Laquelle est une fonction affine décroissante ?",
+      "options": ["f(x) = -2x + 1", "f(x) = 3x", "f(x) = x²", "f(x) = 0"],
+      "reponse": "f(x) = -2x + 1",
+      "explication": "Elle est décroissante car le coefficient directeur est négatif."
+    },
+    {
+      "question": "Une fonction linéaire passe toujours par :",
+      "options": ["l’origine", "l’axe y", "le point (1, 0)", "le sommet"],
+      "reponse": "l’origine",
+      "explication": "Par définition, f(0) = 0 pour une fonction linéaire."
+    },
+    {
+      "question": "Quel est le domaine de définition de f(x) = 3x + 1 ?",
+      "options": ["R", "Z", "N", "[0 ; 1]"],
+      "reponse": "R",
+      "explication": "Toute fonction affine est définie sur l’ensemble des réels R."
+    },
+    {
+      "question": "Soit f(x) = 3x + 2. Quelle est l'image de 5 ?",
+      "options": ["15", "17", "13", "12"],
+      "reponse": "17",
+      "explication": "f(5) = 3×5 + 2 = 15 + 2 = 17."
+    },
+    {
+      "question": "Soit f(x) = -2x + 6. Quelle est l'image de -1 ?",
+      "options": ["8", "4", "-2", "-8"],
+      "reponse": "8",
+      "explication": "f(-1) = -2×(-1) + 6 = 2 + 6 = 8."
+    },
+    {
+      "question": "Soit f(x) = x² - 4x + 3. Calcule f(2)",
+      "options": ["-1", "3", "0", "1"],
+      "reponse": "-1",
+      "explication": "f(2) = 4 - 8 + 3 = -1."
+    },
+    {
+      "question": "Si f(x) = 2x et g(x) = x + 3, combien vaut f(2) + g(2) ?",
+      "options": ["9", "10", "7", "8"],
+      "reponse": "9",
+      "explication": "f(2) = 4, g(2) = 5, donc 4 + 5 = 9."
+    },
+    {
+      "question": "Résous : f(x) = 4x - 1, trouve x pour que f(x) = 11",
+      "options": ["x = 3", "x = 2", "x = 4", "x = 5"],
+      "reponse": "x = 3",
+      "explication": "4x - 1 = 11 → 4x = 12 → x = 3."
+    },
+    {
+      "question": "Soit f(x) = -x + 5. Quelle est l’image de 4 ?",
+      "options": ["1", "-1", "0", "9"],
+      "reponse": "1",
+      "explication": "f(4) = -4 + 5 = 1."
+    },
+    {
+      "question": "Soit f(x) = 6x. Trouve x pour que f(x) = 30",
+      "options": ["4", "5", "6", "7"],
+      "reponse": "5",
+      "explication": "6x = 30 donc x = 30 / 6 = 5."
+    },
+    {
+      "question": "Soit f(x) = -2x + 8. Pour quelle valeur de x a-t-on f(x) = 0 ?",
+      "options": ["x = 4", "x = -4", "x = 8", "x = -8"],
+      "reponse": "x = 4",
+      "explication": "-2x + 8 = 0 → -2x = -8 → x = 4."
+    },
+    {
+      "question": "Soit f(x) = 5x - 10. Quelle est l’image de x = 0 ?",
+      "options": ["-10", "0", "5", "10"],
+      "reponse": "-10",
+      "explication": "f(0) = 5×0 - 10 = -10."
+    },
+    {
+      "question": "Soit g(x) = -x² + 2x. Calcule g(1).",
+      "options": ["1", "0", "-1", "2"],
+      "reponse": "1",
+      "explication": "g(1) = -1 + 2 = 1."
+    },
+    {
+      "question": "Soit f(x) = 3x - 6. Trouve x pour que f(x) = 0",
+      "options": ["x = 2", "x = 1", "x = 3", "x = -2"],
+      "reponse": "x = 2",
+      "explication": "3x - 6 = 0 → x = 2."
+    },
+    {
+      "question": "Soit f(x) = x². Quelle est l’image de -3 ?",
+      "options": ["-9", "9", "0", "3"],
+      "reponse": "9",
+      "explication": "f(-3) = (-3)² = 9."
+    },
+    {
+      "question": "Soit f(x) = 2x² - 4x. Calcule f(2)",
+      "options": ["0", "2", "4", "-2"],
+      "reponse": "0",
+      "explication": "f(2) = 8 - 8 = 0."
+    },
+    {
+      "question": "f(x) = -x² + 4x - 3. Quelle est l’image de 1 ?",
+      "options": ["0", "1", "-1", "2"],
+      "reponse": "0",
+      "explication": "f(1) = -1 + 4 - 3 = 0."
+    },
+    {
+      "question": "g(x) = 5 - 2x. Calcule g(3)",
+      "options": ["-1", "-2", "-3", "-4"],
+      "reponse": "-1",
+      "explication": "g(3) = 5 - 6 = -1."
+    },
+    {
+      "question": "Soit h(x) = 7x + 3. Quelle est l’image de -2 ?",
+      "options": ["-11", "-7", "11", "7"],
+      "reponse": "-11",
+      "explication": "h(-2) = -14 + 3 = -11."
+    },
+    {
+      "question": "Soit f(x) = x + 2. Résous f(x) = 7",
+      "options": ["x = 5", "x = 6", "x = 7", "x = 8"],
+      "reponse": "x = 5",
+      "explication": "x + 2 = 7 donc x = 5."
+    },
+    {
+      "question": "Si f(x) = x² - x, calcule f(4)",
+      "options": ["12", "16", "8", "10"],
+      "reponse": "12",
+      "explication": "f(4) = 16 - 4 = 12."
+    },
+    {
+      "question": "Soit f(x) = x² - 9. Quelle est l’image de x = 0 ?",
+      "options": ["0", "9", "-9", "3"],
+      "reponse": "-9",
+      "explication": "f(0) = 0 - 9 = -9."
+    },
+    {
+      "question": "Soit f(x) = -3x + 1. Trouve x pour que f(x) = -5",
+      "options": ["x = 2", "x = -2", "x = 1", "x = -1"],
+      "reponse": "x = 2",
+      "explication": "-3x + 1 = -5 → -3x = -6 → x = 2."
+    }
+  ]
+}

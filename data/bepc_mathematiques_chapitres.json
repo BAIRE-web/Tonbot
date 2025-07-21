@@ -13,12 +13,12 @@
       "titre": "inéquations"
     },
     {
-      "id": "polynome",
-      "titre": "polynôme"
+      "id": "polynomes",
+      "titre": "polynômes"
     },
     {
-      "id": "fonction",
-      "titre": "fonction"
+      "id": "fonctions",
+      "titre": "fonctions"
     },
     {
       "id": "fractions",
@@ -29,8 +29,8 @@
       "titre": "vecteurs"
     },
     {
-      "id": "coordonnees",
-      "titre": "coordonnées"
+      "id": "repere",
+      "titre": "Repère"
     },
     {
       "id": "pythagore",

@@ -1,0 +1,556 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la solution de l’équation 5x - 10 = 0 ?",
+      "options": ["2", "0", "-2", "10"],
+      "reponse": "2",
+      "explication": "5x - 10 = 0 ⇒ 5x = 10 ⇒ x = 2."
+    },
+    {
+      "question": "Quel est le volume d’un cylindre de hauteur 7 cm et de rayon 3 cm ? (Formule : V = πr²h)",
+      "options": ["198 cm³", "197.9 cm³", "200 cm³", "210 cm³"],
+      "reponse": "197.9 cm³",
+      "explication": "V = π × 3² × 7 ≈ 3.14 × 9 × 7 = 197.9 cm³."
+    },
+    {
+      "question": "Dans un triangle, si deux angles mesurent 50° et 60°, quelle est la mesure du troisième angle ?",
+      "options": ["60°", "70°", "80°", "90°"],
+      "reponse": "70°",
+      "explication": "Somme des angles = 180°, donc 180 - (50 + 60) = 70°."
+    },
+    {
+      "question": "Quel est le résultat de 2⁴ ?",
+      "options": ["8", "12", "16", "32"],
+      "reponse": "16",
+      "explication": "2⁴ = 2 × 2 × 2 × 2 = 16."
+    },
+    {
+      "question": "Complétez : L’aire d’un cercle de rayon r est égale à ___.",
+      "options": ["πr²", "2πr", "πd", "r²"],
+      "reponse": "πr²",
+      "explication": "Aire cercle = π × rayon²."
+    },
+    {
+      "question": "Quelle est la pente de la droite passant par les points A(1;2) et B(3;6) ?",
+      "options": ["2", "4", "3", "1"],
+      "reponse": "2",
+      "explication": "Pente m = (6 - 2) / (3 - 1) = 4/2 = 2."
+    },
+    {
+      "question": "Que vaut 15 × 0 ?",
+      "options": ["15", "0", "1", "Impossible"],
+      "reponse": "0",
+      "explication": "Toute multiplication par 0 donne 0."
+    },
+    {
+      "question": "Combien y a-t-il d’arêtes dans un cube ?",
+      "options": ["6", "8", "12", "16"],
+      "reponse": "12",
+      "explication": "Un cube a 12 arêtes."
+    },
+    {
+      "question": "Quel est le résultat de (−3) × (−4) ?",
+      "options": ["-12", "12", "-7", "7"],
+      "reponse": "12",
+      "explication": "Produit de deux nombres négatifs est positif."
+    },
+    {
+      "question": "Si f(x) = x² + 3, que vaut f(2) ?",
+      "options": ["5", "7", "9", "11"],
+      "reponse": "7",
+      "explication": "f(2) = 2² + 3 = 4 + 3 = 7."
+    },
+    {
+      "question": "Quelle est la formule pour calculer la moyenne de n nombres ?",
+      "options": ["Somme ÷ n", "Somme × n", "n ÷ Somme", "Somme + n"],
+      "reponse": "Somme ÷ n",
+      "explication": "La moyenne = somme des nombres divisée par le nombre total."
+    },
+    {
+      "question": "Quel est le résultat de 9² ?",
+      "options": ["18", "27", "81", "72"],
+      "reponse": "81",
+      "explication": "9² = 9 × 9 = 81."
+    },
+    {
+      "question": "Quel est le symétrique de 5 par rapport à 0 ?",
+      "options": ["-5", "5", "0", "1"],
+      "reponse": "-5",
+      "explication": "Le symétrique d’un nombre par rapport à 0 est son opposé."
+    },
+    {
+      "question": "Combien mesure un angle plat ?",
+      "options": ["90°", "180°", "360°", "45°"],
+      "reponse": "180°",
+      "explication": "Un angle plat mesure 180 degrés."
+    },
+    {
+      "question": "Que vaut 1/2 + 1/4 ?",
+      "options": ["1/4", "3/4", "1/2", "2/4"],
+      "reponse": "3/4",
+      "explication": "1/2 = 2/4, donc 2/4 + 1/4 = 3/4."
+    },
+    {
+      "question": "Quel est le résultat de 25% de 80 ?",
+      "options": ["10", "15", "20", "25"],
+      "reponse": "20",
+      "explication": "25% de 80 = 0,25 × 80 = 20."
+    },
+    {
+      "question": "Dans un cercle, le diamètre vaut 10 cm. Quelle est la longueur du rayon ?",
+      "options": ["5 cm", "10 cm", "15 cm", "20 cm"],
+      "reponse": "5 cm",
+      "explication": "Le rayon est la moitié du diamètre."
+    },
+    {
+      "question": "Quelle est la somme des angles dans un quadrilatère ?",
+      "options": ["360°", "180°", "90°", "270°"],
+      "reponse": "360°",
+      "explication": "La somme des angles d’un quadrilatère est 360°."
+    },
+    {
+      "question": "Que vaut la fraction 3/6 simplifiée ?",
+      "options": ["1/2", "2/3", "3/6", "1/3"],
+      "reponse": "1/2",
+      "explication": "3/6 = 1/2 après simplification par 3."
+    },
+    {
+      "question": "Quelle est la solution de l’équation 2x + 3 = 7 ?",
+      "options": ["x = 2", "x = 5", "x = 1", "x = 3"],
+      "reponse": "x = 2",
+      "explication": "2x + 3 = 7 ⇒ 2x = 4 ⇒ x = 2."
+    },
+    {
+      "question": "Quelle est la distance entre les points A(2;3) et B(5;7) ?",
+      "options": ["4", "5", "6", "7"],
+      "reponse": "5",
+      "explication": "Distance = √[(5-2)² + (7-3)²] = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "Que vaut la somme des angles d’un pentagone ?",
+      "options": ["540°", "360°", "180°", "720°"],
+      "reponse": "540°",
+      "explication": "Formule : (n - 2) × 180° = (5 - 2) × 180° = 540°."
+    },
+    {
+      "question": "Quel est le produit de 0,5 × 0,2 ?",
+      "options": ["0,1", "0,01", "0,02", "1"],
+      "reponse": "0,1",
+      "explication": "0,5 × 0,2 = 0,1."
+    },
+    {
+      "question": "Complétez : Un polygone à quatre côtés est un ___.",
+      "options": ["Triangle", "Carré", "Quadrilatère", "Pentagone"],
+      "reponse": "Quadrilatère",
+      "explication": "Un polygone à quatre côtés s'appelle un quadrilatère."
+    },
+    {
+      "question": "Quel est le résultat de (−2)² ?",
+      "options": ["-4", "4", "-2", "2"],
+      "reponse": "4",
+      "explication": "(-2)² = (-2) × (-2) = 4."
+    },
+    {
+      "question": "Quelle est la valeur de x si 2x + 5 = 15 ?",
+      "options": ["5", "10", "7", "2.5"],
+      "reponse": "5",
+      "explication": "2x + 5 = 15 ⇒ 2x = 10 ⇒ x = 5."
+    },
+    {
+      "question": "Quel est le résultat de 7 × 8 ?",
+      "options": ["54", "56", "58", "60"],
+      "reponse": "56",
+      "explication": "7 × 8 = 56."
+    },
+    {
+      "question": "Quelle est l'équation réduite de la droite passant par (0;3) et de pente 2 ?",
+      "options": ["y = 2x + 3", "y = 3x + 2", "y = 2x - 3", "y = 3x - 2"],
+      "reponse": "y = 2x + 3",
+      "explication": "Formule y = mx + b avec m = 2 et b = 3."
+    },
+    {
+      "question": "Si le périmètre d’un carré est 20 cm, quelle est la longueur de son côté ?",
+      "options": ["5 cm", "10 cm", "20 cm", "25 cm"],
+      "reponse": "5 cm",
+      "explication": "Périmètre = 4 × côté ⇒ côté = 20 ÷ 4 = 5 cm."
+    },
+    {
+      "question": "Quelle est la solution de l’inéquation : 3x - 4 > 5 ?",
+      "options": ["x > 3", "x < 3", "x > 1", "x < 1"],
+      "reponse": "x > 3",
+      "explication": "3x - 4 > 5 ⇒ 3x > 9 ⇒ x > 3."
+    },
+    {
+      "question": "Quel est le résultat de √49 ?",
+      "options": ["6", "7", "8", "9"],
+      "reponse": "7",
+      "explication": "La racine carrée de 49 est 7."
+    },
+    {
+      "question": "Dans un triangle rectangle, si un côté mesure 3 cm et l’autre 4 cm, quelle est la longueur de l’hypoténuse ?",
+      "options": ["5 cm", "6 cm", "7 cm", "8 cm"],
+      "reponse": "5 cm",
+      "explication": "Théorème de Pythagore : 3² + 4² = 9 + 16 = 25 ⇒ hypoténuse = √25 = 5 cm."
+    },
+    {
+      "question": "Que vaut 5² ?",
+      "options": ["10", "15", "20", "25"],
+      "reponse": "25",
+      "explication": "5² = 5 × 5 = 25."
+    },
+    {
+      "question": "Quelle est la formule de l’aire d’un rectangle ?",
+      "options": ["Longueur + Largeur", "Longueur × Largeur", "2 × (Longueur + Largeur)", "Longueur ÷ Largeur"],
+      "reponse": "Longueur × Largeur",
+      "explication": "Aire rectangle = longueur × largeur."
+    },
+    {
+      "question": "Que vaut 12 ÷ 3 ?",
+      "options": ["3", "4", "6", "9"],
+      "reponse": "4",
+      "explication": "12 ÷ 3 = 4."
+    },
+    {
+      "question": "Si f(x) = 3x - 2, que vaut f(4) ?",
+      "options": ["10", "12", "14", "8"],
+      "reponse": "10",
+      "explication": "f(4) = 3 × 4 - 2 = 12 - 2 = 10."
+    },
+    {
+      "question": "Quel est le nombre opposé de -7 ?",
+      "options": ["7", "-7", "0", "-1"],
+      "reponse": "7",
+      "explication": "L’opposé de -7 est 7."
+    },
+    {
+      "question": "Combien y a-t-il de degrés dans un angle droit ?",
+      "options": ["45°", "60°", "90°", "180°"],
+      "reponse": "90°",
+      "explication": "Un angle droit mesure 90 degrés."
+    },
+    {
+      "question": "Quel est le résultat de 15% de 200 ?",
+      "options": ["25", "30", "35", "40"],
+      "reponse": "30",
+      "explication": "15% de 200 = 0,15 × 200 = 30."
+    },
+    {
+      "question": "Quelle est la formule du volume d’un cube de côté a ?",
+      "options": ["a²", "a³", "3a", "6a²"],
+      "reponse": "a³",
+      "explication": "Volume cube = côté³ = a³."
+    },
+    {
+      "question": "Dans un triangle équilatéral, combien y a-t-il d’angles égaux ?",
+      "options": ["1", "2", "3", "4"],
+      "reponse": "3",
+      "explication": "Tous les angles sont égaux dans un triangle équilatéral."
+    },
+    {
+      "question": "Quelle est la solution de l’équation x² = 16 ?",
+      "options": ["4 seulement", "-4 seulement", "4 et -4", "0"],
+      "reponse": "4 et -4",
+      "explication": "x² = 16 → x = ±4."
+    },
+    {
+      "question": "Combien mesure la somme des angles d’un triangle ?",
+      "options": ["90°", "180°", "360°", "270°"],
+      "reponse": "180°",
+      "explication": "La somme des angles dans un triangle est toujours 180°."
+    },
+    {
+      "question": "Que vaut 3³ ?",
+      "options": ["6", "9", "27", "81"],
+      "reponse": "27",
+      "explication": "3³ = 3 × 3 × 3 = 27."
+    },
+    {
+      "question": "Si une droite est parallèle à une autre, que peut-on dire de leurs angles alternes-internes ?",
+      "options": ["Ils sont égaux", "Ils sont complémentaires", "Ils sont opposés", "Ils sont différents"],
+      "reponse": "Ils sont égaux",
+      "explication": "Les angles alternes-internes sont égaux lorsque les droites sont parallèles."
+    },
+    {
+      "question": "Quel est le PGCD (plus grand commun diviseur) de 12 et 18 ?",
+      "options": ["2", "3", "6", "9"],
+      "reponse": "6",
+      "explication": "6 est le plus grand nombre qui divise à la fois 12 et 18."
+    },
+    {
+      "question": "Que vaut 0 divisé par 5 ?",
+      "options": ["0", "1", "5", "Indéfini"],
+      "reponse": "0",
+      "explication": "0 divisé par n’importe quel nombre non nul vaut 0."
+    },
+    {
+      "question": "Complétez : La médiane d’un triangle est un segment qui relie un sommet au ___ ?",
+      "options": ["centre", "milieu du côté opposé", "coin", "angle droit"],
+      "reponse": "milieu du côté opposé",
+      "explication": "La médiane relie un sommet au milieu du côté opposé."
+    },
+    {
+      "question": "Quel est le résultat de 5 + (-3) ?",
+      "options": ["2", "-8", "8", "-2"],
+      "reponse": "2",
+      "explication": "5 + (-3) = 5 - 3 = 2."
+    },
+    {
+      "question": "Soit P(x) = x³ - 6x² + 11x - 6. Quelle est une racine de P(x) ?",
+      "options": ["x = 1", "x = 2", "x = 3", "x = 4"],
+      "reponse": "x = 1",
+      "explication": "P(1) = 1 - 6 + 11 - 6 = 0 donc 1 est une racine."
+    },
+    {
+      "question": "La fonction f(x) = x² - 4x + 3 est :",
+      "options": ["Croissante sur ℝ", "Décroissante sur ℝ", "Convexe", "Concave"],
+      "reponse": "Convexe",
+      "explication": "Le coefficient devant x² est positif, donc la fonction est convexe."
+    },
+    {
+      "question": "La dérivée de f(x) = 3x² - 5x + 2 est :",
+      "options": ["6x - 5", "6x + 5", "3x - 5", "3x + 5"],
+      "reponse": "6x - 5",
+      "explication": "La dérivée de 3x² est 6x, celle de -5x est -5."
+    },
+    {
+      "question": "La fonction f(x) = eˣ est :",
+      "options": ["Croissante sur ℝ", "Décroissante sur ℝ", "Constante", "Oscillante"],
+      "reponse": "Croissante sur ℝ",
+      "explication": "La fonction exponentielle est strictement croissante sur ℝ."
+    },
+    {
+      "question": "La limite de limₓ→0 (sin(x)/x) est :",
+      "options": ["0", "1", "∞", "Indéfinie"],
+      "reponse": "1",
+      "explication": "C'est une limite classique en analyse."
+    },
+    {
+      "question": "La fonction f(x) = ln(x) est définie pour :",
+      "options": ["x > 0", "x ≥ 0", "x < 0", "x ≠ 0"],
+      "reponse": "x > 0",
+      "explication": "Le logarithme népérien est défini uniquement pour x strictement positif."
+    },
+    {
+      "question": "La dérivée de f(x) = ln(x) est :",
+      "options": ["1/x", "1/x²", "x", "x²"],
+      "reponse": "1/x",
+      "explication": "La dérivée du logarithme est 1 divisé par l'argument."
+    },
+    {
+      "question": "La fonction f(x) = x³ - 3x² + 2x - 1 a combien de racines réelles ?",
+      "options": ["0", "1", "2", "3"],
+      "reponse": "3",
+      "explication": "Un polynôme de degré 3 a au moins une racine réelle; ici il en a trois distinctes."
+    },
+    {
+      "question": "La fonction f(x) = sin(x) est :",
+      "options": ["Périodique de période 2π", "Périodique de période π", "Croissante sur ℝ", "Décroissante sur ℝ"],
+      "reponse": "Périodique de période 2π",
+      "explication": "La fonction sinus a une période fondamentale de 2π."
+    },
+    {
+      "question": "La fonction f(x) = cos(x) est :",
+      "options": ["Périodique de période 2π", "Périodique de période π", "Croissante sur ℝ", "Décroissante sur ℝ"],
+      "reponse": "Périodique de période 2π",
+      "explication": "La fonction cosinus a une période fondamentale de 2π."
+    },
+    {
+      "question": "La suite définie par u₁ = 1 et uₙ₊₁ = uₙ + 2 est :",
+      "options": ["Arithmétique de raison 2", "Géométrique de raison 2", "Arithmétique de raison 1", "Géométrique de raison 1"],
+      "reponse": "Arithmétique de raison 2",
+      "explication": "Chaque terme s'obtient en ajoutant 2 au terme précédent."
+    },
+    {
+      "question": "La suite définie par u₁ = 1 et uₙ₊₁ = 2uₙ est :",
+      "options": ["Arithmétique de raison 2", "Géométrique de raison 2", "Arithmétique de raison 1", "Géométrique de raison 1"],
+      "reponse": "Géométrique de raison 2",
+      "explication": "Chaque terme est obtenu en multipliant le précédent par 2."
+    },
+    {
+      "question": "La somme des n premiers termes d'une suite arithmétique est donnée par :",
+      "options": ["Sₙ = n/2 × (u₁ + uₙ)", "Sₙ = n × (u₁ + uₙ)", "Sₙ = n/2 × (u₁ - uₙ)", "Sₙ = n × (u₁ - uₙ)"],
+      "reponse": "Sₙ = n/2 × (u₁ + uₙ)",
+      "explication": "Formule classique de la somme des termes d'une suite arithmétique."
+    },
+    {
+      "question": "La somme des n premiers termes d'une suite géométrique est donnée par :",
+      "options": ["Sₙ = u₁ × (1 - rⁿ) / (1 - r)", "Sₙ = u₁ × (rⁿ - 1) / (r - 1)", "Sₙ = u₁ × (1 - rⁿ)", "Sₙ = u₁ × (rⁿ - 1)"],
+      "reponse": "Sₙ = u₁ × (1 - rⁿ) / (1 - r)",
+      "explication": "Formule classique de la somme des termes d'une suite géométrique."
+    },
+    {
+      "question": "La suite définie par u₁ = 1 et uₙ₊₁ = uₙ + 3 est :",
+      "options": ["Arithmétique de raison 3", "Géométrique de raison 3", "Arithmétique de raison 1", "Géométrique de raison 1"],
+      "reponse": "Arithmétique de raison 3",
+      "explication": "Chaque terme augmente de 3 par rapport au précédent."
+    },
+    {
+      "question": "La suite définie par u₁ = 2 et uₙ₊₁ = 2uₙ est :",
+      "options": ["Arithmétique de raison 2", "Géométrique de raison 2", "Arithmétique de raison 1", "Géométrique de raison 1"],
+      "reponse": "Géométrique de raison 2",
+      "explication": "Chaque terme est multiplié par 2 pour obtenir le suivant."
+    },
+    {
+      "question": "La suite définie par u₁ = 3 et uₙ₊₁ = uₙ + 4 est :",
+      "options": ["Arithmétique de raison 4", "Géométrique de raison 4", "Arithmétique de raison 1", "Géométrique de raison 1"],
+      "reponse": "Arithmétique de raison 4",
+      "explication": "Chaque terme est augmenté de 4 à chaque étape."
+    },
+    {
+      "question": "La suite définie par u₁ = 4 et uₙ₊₁ = 3uₙ est :",
+      "options": ["Arithmétique de raison 3", "Géométrique de raison 3", "Arithmétique de raison 1", "Géométrique de raison 1"],
+      "reponse": "Géométrique de raison 3",
+      "explication": "Chaque terme est multiplié par 3."
+    },
+    {
+      "question": "La suite définie par u₁ = 5 et uₙ₊₁ = uₙ + 5 est :",
+      "options": ["Arithmétique de raison 5", "Géométrique de raison 5", "Arithmétique de raison 1", "Géométrique de raison 1"],
+      "reponse": "Arithmétique de raison 5",
+      "explication": "La différence entre deux termes consécutifs est 5."
+    },
+    {
+      "question": "La suite définie par u₁ = 6 et uₙ₊₁ = 4uₙ est :",
+      "options": ["Arithmétique de raison 4", "Géométrique de raison 4", "Arithmétique de raison 1", "Géométrique de raison 1"],
+      "reponse": "Géométrique de raison 4",
+      "explication": "Chaque terme est multiplié par 4."
+    },
+    {
+      "question": "La probabilité d'un événement impossible est :",
+      "options": ["0", "0.5", "1", "Indéfinie"],
+      "reponse": "0",
+      "explication": "Un événement impossible n'arrive jamais, donc probabilité nulle."
+    },
+    {
+      "question": "La probabilité d'un événement certain est :",
+      "options": ["0", "0.5", "1", "Indéfinie"],
+      "reponse": "1",
+      "explication": "Un événement certain arrive toujours, donc probabilité égale à 1."
+    },
+    {
+      "question": "La probabilité d'un événement complémentaire est :",
+      "options": ["1 - P(E)", "P(E)", "1 + P(E)", "P(E) - 1"],
+      "reponse": "1 - P(E)",
+      "explication": "La somme des probabilités d'un événement et de son complément est 1."
+    },
+    {
+      "question": "La moyenne de la série statistique 3, 5, 7, 9 est :",
+      "options": ["6", "7", "8", "9"],
+      "reponse": "6",
+      "explication": "La moyenne est la somme des valeurs divisée par leur nombre."
+    },
+    {
+      "question": "L'écart-type de la série statistique 2, 4, 6, 8 est :",
+      "options": ["2", "3", "4", "5"],
+      "reponse": "2",
+      "explication": "L'écart-type mesure la dispersion autour de la moyenne."
+    },
+    {
+      "question": "Quelle est la formule de la dérivée de f(x) = xⁿ où n est un entier naturel ?",
+      "options": ["f'(x) = n·xⁿ⁻¹", "f'(x) = xⁿ⁺¹", "f'(x) = n·xⁿ", "f'(x) = n·x"],
+      "reponse": "f'(x) = n·xⁿ⁻¹",
+      "explication": "La règle de dérivation de la puissance."
+    },
+    {
+      "question": "Quelle est la formule de la somme des n premiers entiers naturels ?",
+      "options": ["Sₙ = n(n + 1)/2", "Sₙ = n²", "Sₙ = n(n - 1)/2", "Sₙ = n² + 1"],
+      "reponse": "Sₙ = n(n + 1)/2",
+      "explication": "Formule classique de la somme des premiers entiers."
+    },
+    {
+      "question": "Formule de la somme des n premiers termes d'une suite arithmétique de raison r ?",
+      "options": ["Sₙ = n/2 × (2u₁ + (n - 1)r)", "Sₙ = n × (u₁ + uₙ)", "Sₙ = u₁ × (1 - rⁿ)/(1 - r)", "Sₙ = n² × r"],
+      "reponse": "Sₙ = n/2 × (2u₁ + (n - 1)r)",
+      "explication": "Formule complète de la somme d'une suite arithmétique."
+    },
+    {
+      "question": "Formule de la somme des n premiers termes d'une suite géométrique de raison r ?",
+      "options": ["Sₙ = u₁ × (1 - rⁿ)/(1 - r)", "Sₙ = n/2 × (2u₁ + (n - 1)r)", "Sₙ = u₁ + (n - 1)r", "Sₙ = n × u₁ × r"],
+      "reponse": "Sₙ = u₁ × (1 - rⁿ)/(1 - r)",
+      "explication": "Formule classique pour les suites géométriques."
+    },
+    {
+      "question": "Formule de l'aire d'un triangle avec base b et hauteur h ?",
+      "options": ["A = (b × h)/2", "A = b × h", "A = (b + h)/2", "A = b² + h²"],
+      "reponse": "A = (b × h)/2",
+      "explication": "Aire égale à la moitié du produit base × hauteur."
+    },
+    {
+      "question": "Formule de l'aire d'un cercle de rayon r ?",
+      "options": ["A = πr²", "A = 2πr", "A = πr", "A = πd"],
+      "reponse": "A = πr²",
+      "explication": "Formule de l’aire du disque."
+    },
+    {
+      "question": "Formule de la circonférence d’un cercle de rayon r ?",
+      "options": ["C = 2πr", "C = πr²", "C = πd", "C = r²"],
+      "reponse": "C = 2πr",
+      "explication": "Longueur du périmètre du cercle."
+    },
+    {
+      "question": "Formule de la distance entre deux points A(x₁, y₁) et B(x₂, y₂) dans le plan ?",
+      "options": ["d = √((x₂ - x₁)² + (y₂ - y₁)²)", "d = (x₂ - x₁) + (y₂ - y₁)", "d = (x₁ + x₂) / 2", "d = |x₂ - x₁| + |y₂ - y₁|"],
+      "reponse": "d = √((x₂ - x₁)² + (y₂ - y₁)²)",
+      "explication": "Distance euclidienne entre deux points."
+    },
+    {
+      "question": "Formule du volume d’un cube de côté a ?",
+      "options": ["V = a³", "V = 6a²", "V = a²", "V = 3a"],
+      "reponse": "V = a³",
+      "explication": "Volume = aire de base × hauteur, ici a × a × a."
+    },
+    {
+      "question": "Formule du volume d’un cylindre de rayon r et hauteur h ?",
+      "options": ["V = πr²h", "V = 2πrh", "V = πr² + h", "V = πrh"],
+      "reponse": "V = πr²h",
+      "explication": "Volume = aire de la base × hauteur."
+    },
+    {
+      "question": "Formule de la dérivée de f(x) = eˣ ?",
+      "options": ["f'(x) = eˣ", "f'(x) = xeˣ", "f'(x) = x", "f'(x) = 1"],
+      "reponse": "f'(x) = eˣ",
+      "explication": "La fonction exponentielle est égale à sa dérivée."
+    },
+    {
+      "question": "Formule de la dérivée de f(x) = ln(x) ?",
+      "options": ["f'(x) = 1/x", "f'(x) = ln(x)", "f'(x) = x", "f'(x) = -1/x"],
+      "reponse": "f'(x) = 1/x",
+      "explication": "La dérivée du logarithme naturel."
+    },
+    {
+      "question": "Formule de la dérivée de f(x) = sin(x) ?",
+      "options": ["f'(x) = cos(x)", "f'(x) = -cos(x)", "f'(x) = sin(x)", "f'(x) = -sin(x)"],
+      "reponse": "f'(x) = cos(x)",
+      "explication": "La dérivée de sinus est cosinus."
+    },
+    {
+      "question": "Formule de la dérivée de f(x) = cos(x) ?",
+      "options": ["f'(x) = -sin(x)", "f'(x) = sin(x)", "f'(x) = cos(x)", "f'(x) = -cos(x)"],
+      "reponse": "f'(x) = -sin(x)",
+      "explication": "La dérivée de cosinus est -sinus."
+    },
+    {
+      "question": "Formule de la dérivée du produit f(x) = u(x)·v(x) ?",
+      "options": ["f'(x) = u'(x)v(x) + u(x)v'(x)", "f'(x) = u'(x)v'(x)", "f'(x) = u(x)v(x)", "f'(x) = u'(x) + v'(x)"],
+      "reponse": "f'(x) = u'(x)v(x) + u(x)v'(x)",
+      "explication": "Règle du produit en dérivation."
+    },
+    {
+      "question": "Formule de la dérivée du quotient f(x) = u(x)/v(x) ?",
+      "options": ["f'(x) = (u'(x)v(x) - u(x)v'(x)) / v(x)²", "f'(x) = u'(x)/v'(x)", "f'(x) = u(x)/v(x)", "f'(x) = (u(x)v'(x) - u'(x)v(x)) / v(x)²"],
+      "reponse": "f'(x) = (u'(x)v(x) - u(x)v'(x)) / v(x)²",
+      "explication": "Règle du quotient en dérivation."
+    },
+    {
+      "question": "Formule du binôme de Newton pour (a + b)² ?",
+      "options": ["a² + 2ab + b²", "a² - 2ab + b²", "a² + b²", "2a + 2b"],
+      "reponse": "a² + 2ab + b²",
+      "explication": "Développement classique du carré d'une somme."
+    },
+    {
+      "question": "Formule du binôme de Newton pour (a - b)² ?",
+      "options": ["a² - 2ab + b²", "a² + 2ab + b²", "a² - b²", "a² + b²"],
+      "reponse": "a² - 2ab + b²",
+      "explication": "Développement classique du carré d'une différence."
+    }
+  ]
+}

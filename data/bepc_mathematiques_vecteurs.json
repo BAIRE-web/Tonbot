@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Comment appelle-t-on la flèche qui relie deux points A et B ?",
+      "options": ["Le vecteur AB", "Le segment AB", "Le point AB", "L'arc AB"],
+      "reponse": "Le vecteur AB",
+      "explication": "Le vecteur AB est représenté par une flèche orientée du point A vers le point B."
+    },
+    {
+      "question": "Le vecteur AB est égal au vecteur CD si :",
+      "options": ["Ils ont la même direction, le même sens et la même longueur", "Ils ont juste la même longueur", "Ils ont la même direction uniquement", "Ils partent du même point"],
+      "reponse": "Ils ont la même direction, le même sens et la même longueur",
+      "explication": "Deux vecteurs sont égaux s’ils ont même direction, même sens et même norme (longueur)."
+    },
+    {
+      "question": "Quelle est la notation correcte d’un vecteur allant de A vers B ?",
+      "options": ["AB", "[AB]", "→AB", "(AB)"],
+      "reponse": "→AB",
+      "explication": "La notation standard pour un vecteur est →AB (vecteur allant de A vers B)."
+    },
+    {
+      "question": "Un vecteur nul est un vecteur qui :",
+      "options": ["A une longueur nulle", "Est perpendiculaire à tous les vecteurs", "Est toujours orienté vers le bas", "Est parallèle à l’axe des abscisses"],
+      "reponse": "A une longueur nulle",
+      "explication": "Le vecteur nul a pour coordonnées (0;0) et une longueur nulle."
+    },
+    {
+      "question": "Si deux vecteurs sont colinéaires, cela signifie :",
+      "options": ["Ils ont la même direction", "Ils ont la même norme", "Ils ont la même origine", "Ils ont la même abscisse"],
+      "reponse": "Ils ont la même direction",
+      "explication": "Deux vecteurs sont colinéaires s’ils ont la même direction, même s’ils n’ont pas la même longueur ou origine."
+    },
+    {
+      "question": "Quel vecteur représente le déplacement de A(1,2) à B(4,6) ?",
+      "options": ["(3 ; 4)", "(4 ; 6)", "(-3 ; -4)", "(1 ; 2)"],
+      "reponse": "(3 ; 4)",
+      "explication": "→AB = (xB - xA ; yB - yA) = (4 - 1 ; 6 - 2) = (3 ; 4)"
+    },
+    {
+      "question": "Le vecteur →AB est opposé au vecteur :",
+      "options": ["→BA", "→BC", "→AC", "→CB"],
+      "reponse": "→BA",
+      "explication": "→AB et →BA sont de même longueur et direction, mais de sens opposé."
+    },
+    {
+      "question": "L’addition vectorielle →AB + →BC donne :",
+      "options": ["→AC", "→CB", "→BA", "→CA"],
+      "reponse": "→AC",
+      "explication": "La somme de deux vecteurs consécutifs est le vecteur qui va du point de départ au point d’arrivée."
+    },
+    {
+      "question": "Quelle est la norme du vecteur (3 ; 4) ?",
+      "options": ["5", "7", "6", "9"],
+      "reponse": "5",
+      "explication": "Norme = √(3² + 4²) = √(9 + 16) = √25 = 5"
+    },
+    {
+      "question": "Le vecteur (0 ; 0) est :",
+      "options": ["Nul", "Unitaire", "Horizontal", "Vertical"],
+      "reponse": "Nul",
+      "explication": "Il n’a ni direction, ni norme, ni sens : c’est le vecteur nul."
+    },
+    {
+      "question": "Quel est le vecteur opposé de (5 ; -2) ?",
+      "options": ["(-5 ; 2)", "(5 ; 2)", "(-5 ; -2)", "(2 ; -5)"],
+      "reponse": "(-5 ; 2)",
+      "explication": "Le vecteur opposé a les coordonnées opposées : (-5 ; 2)."
+    },
+    {
+      "question": "Le vecteur unitaire a pour norme :",
+      "options": ["1", "0", "10", "Inconnue"],
+      "reponse": "1",
+      "explication": "Un vecteur unitaire est un vecteur de norme 1."
+    },
+    {
+      "question": "Le vecteur (6 ; 0) est :",
+      "options": ["Horizontal", "Vertical", "Diagonal", "Nul"],
+      "reponse": "Horizontal",
+      "explication": "Il n’a qu’une composante en x, donc il est horizontal."
+    },
+    {
+      "question": "Le vecteur (0 ; 4) est :",
+      "options": ["Vertical", "Horizontal", "Diagonal", "Nul"],
+      "reponse": "Vertical",
+      "explication": "Il n’a qu’une composante en y, donc il est vertical."
+    },
+    {
+      "question": "Si →u = (2 ; 5), alors 3→u = ?",
+      "options": ["(6 ; 15)", "(2 ; 15)", "(5 ; 6)", "(3 ; 5)"],
+      "reponse": "(6 ; 15)",
+      "explication": "On multiplie chaque composante par 3 : (2×3 ; 5×3)."
+    },
+    {
+      "question": "La norme du vecteur (0 ; -7) est :",
+      "options": ["7", "-7", "0", "14"],
+      "reponse": "7",
+      "explication": "Norme = √(0² + (-7)²) = √49 = 7"
+    },
+    {
+      "question": "→AB + →BC = →AC est une propriété de :",
+      "options": ["La relation de Chasles", "La distributivité", "La commutativité", "La colinéarité"],
+      "reponse": "La relation de Chasles",
+      "explication": "C’est la propriété de Chasles : →AB + →BC = →AC."
+    },
+    {
+      "question": "Si deux vecteurs sont parallèles, alors ils sont :",
+      "options": ["Colinéaires", "Orthogonaux", "Égaux", "Inverses"],
+      "reponse": "Colinéaires",
+      "explication": "Des vecteurs parallèles sont colinéaires."
+    },
+    {
+      "question": "Le vecteur →u = (a ; b) est orthogonal à →v = (-b ; a) car :",
+      "options": ["Leur produit scalaire est nul", "Ils sont colinéaires", "Ils sont égaux", "Ils sont opposés"],
+      "reponse": "Leur produit scalaire est nul",
+      "explication": "Deux vecteurs sont orthogonaux si leur produit scalaire est nul."
+    },
+    {
+      "question": "Si →u = (4 ; 3), alors sa norme est :",
+      "options": ["5", "7", "1", "3"],
+      "reponse": "5",
+      "explication": "Norme = √(4² + 3²) = √(16 + 9) = √25 = 5"
+    },
+    {
+      "question": "Quel vecteur est un multiple de (2 ; 3) ?",
+      "options": ["(4 ; 6)", "(2 ; -3)", "(3 ; 2)", "(-3 ; -2)"],
+      "reponse": "(4 ; 6)",
+      "explication": "C’est le double de (2 ; 3), donc colinéaire."
+    },
+    {
+      "question": "Quelle propriété est vraie pour tout vecteur →u ?",
+      "options": ["→u + (−→u) = →0", "→u × →u = 0", "→u + →u = →0", "→u = (0 ; 0)"],
+      "reponse": "→u + (−→u) = →0",
+      "explication": "Tout vecteur plus son opposé donne le vecteur nul."
+    },
+    {
+      "question": "Le vecteur (a ; b) est nul si :",
+      "options": ["a = 0 et b = 0", "a = b", "a ≠ b", "a = b = 1"],
+      "reponse": "a = 0 et b = 0",
+      "explication": "Un vecteur est nul si ses deux composantes sont nulles."
+    },
+    {
+      "question": "→AB est égal à →CD si et seulement si :",
+      "options": ["ABCD est un parallélogramme", "Les longueurs AB et CD sont égales", "AB = CD", "Les points A, B, C, D sont alignés"],
+      "reponse": "ABCD est un parallélogramme",
+      "explication": "Dans un parallélogramme, les vecteurs opposés sont égaux."
+    },
+    {
+      "question": "La direction d’un vecteur correspond à :",
+      "options": ["La droite qui le contient", "Sa longueur", "Son point de départ", "Son sens"],
+      "reponse": "La droite qui le contient",
+      "explication": "La direction d’un vecteur est définie par la droite parallèle à son support."
+    },
+    {
+      "question": "Le vecteur (1 ; 1) a un angle de combien avec l’axe des abscisses ?",
+      "options": ["45°", "90°", "60°", "30°"],
+      "reponse": "45°",
+      "explication": "Les vecteurs de type (a ; a) forment un angle de 45° avec l’axe x."
+    },
+    {
+      "question": "Un vecteur peut-il être négatif ?",
+      "options": ["Non, mais il peut avoir un sens opposé", "Oui", "Toujours", "Seulement s’il est horizontal"],
+      "reponse": "Non, mais il peut avoir un sens opposé",
+      "explication": "Un vecteur n’est pas négatif, mais peut avoir une direction opposée (vecteur opposé)."
+    },
+    {
+      "question": "Si →u = (x ; y), alors sa direction est définie par :",
+      "options": ["Le rapport y/x", "Le produit x·y", "x + y", "x – y"],
+      "reponse": "Le rapport y/x",
+      "explication": "Le rapport y/x donne l’inclinaison de la droite qui porte le vecteur."
+    },
+    {
+      "question": "Le vecteur (−2 ; −3) a pour norme :",
+      "options": ["√13", "−13", "5", "1"],
+      "reponse": "√13",
+      "explication": "√(4 + 9) = √13"
+    },
+    {
+      "question": "Si →u = (3 ; 4) et →v = (−3 ; −4), alors :",
+      "options": ["→v = −→u", "→v = →u", "→u + →v = →v", "→u = →0"],
+      "reponse": "→v = −→u",
+      "explication": "Les coordonnées opposées indiquent que ce sont des vecteurs opposés."
+    },
+    {
+      "question": "Soit A(1 ; 2) et B(4 ; 5). Quelles sont les coordonnées du vecteur →AB ?",
+      "options": ["(3 ; 3)", "(5 ; 7)", "(-3 ; -3)", "(1 ; 1)"],
+      "reponse": "(3 ; 3)",
+      "explication": "→AB = (xB - xA ; yB - yA) = (4 - 1 ; 5 - 2) = (3 ; 3)"
+    },
+    {
+      "question": "Soit →u = (2 ; -1). Quel est le vecteur opposé de →u ?",
+      "options": ["(-2 ; 1)", "(2 ; 1)", "(-2 ; -1)", "(1 ; -2)"],
+      "reponse": "(-2 ; 1)",
+      "explication": "Le vecteur opposé est obtenu en changeant le signe de chaque composante."
+    },
+    {
+      "question": "Calcule la norme du vecteur →v = (6 ; 8).",
+      "options": ["10", "14", "12", "8"],
+      "reponse": "10",
+      "explication": "Norme = √(6² + 8²) = √(36 + 64) = √100 = 10"
+    },
+    {
+      "question": "Soit →u = (3 ; 4), calcule 2→u.",
+      "options": ["(6 ; 8)", "(5 ; 7)", "(3 ; 8)", "(6 ; 4)"],
+      "reponse": "(6 ; 8)",
+      "explication": "Multiplier chaque composante par 2 : (3×2 ; 4×2) = (6 ; 8)"
+    },
+    {
+      "question": "Soit A(2 ; 3), B(7 ; 5) et C(12 ; 7). Vérifie si →AB + →BC = →AC.",
+      "options": ["Vrai", "Faux", "Impossible à déterminer", "Seule →AB = →BC"],
+      "reponse": "Vrai",
+      "explication": "→AB = (5 ; 2), →BC = (5 ; 2), →AC = (10 ; 4). →AB + →BC = (10 ; 4) = →AC."
+    },
+    {
+      "question": "Soit →u = (5 ; -3) et →v = (2 ; 1). Calcule →u + →v.",
+      "options": ["(7 ; -2)", "(3 ; -4)", "(10 ; -2)", "(7 ; 4)"],
+      "reponse": "(7 ; -2)",
+      "explication": "Addition composante par composante : (5+2 ; -3+1) = (7 ; -2)."
+    },
+    {
+      "question": "Soit →u = (4 ; 3). Quel est l’angle entre →u et l’axe des abscisses ?",
+      "options": ["36,87°", "53,13°", "45°", "60°"],
+      "reponse": "36,87°",
+      "explication": "tan θ = 3/4 ; θ = arctan(0,75) ≈ 36,87°."
+    },
+    {
+      "question": "Les vecteurs →u = (6 ; 2) et →v = (3 ; 1) sont-ils colinéaires ?",
+      "options": ["Oui", "Non", "Impossible à dire", "Uniquement si →v est opposé à →u"],
+      "reponse": "Oui",
+      "explication": "→v = 0,5 × →u donc ils sont colinéaires."
+    },
+    {
+      "question": "Soit →u = (2 ; 5). Calcule 3→u.",
+      "options": ["(6 ; 15)", "(5 ; 6)", "(2 ; 15)", "(3 ; 5)"],
+      "reponse": "(6 ; 15)",
+      "explication": "Multiplie chaque composante par 3 : (2×3 ; 5×3) = (6 ; 15)."
+    },
+    {
+      "question": "Soit →u = (1 ; 4) et →v = (2 ; -1). Calcule →u - →v.",
+      "options": ["(-1 ; 5)", "(-1 ; 3)", "(3 ; 3)", "(-1 ; -5)"],
+      "reponse": "(-1 ; 5)",
+      "explication": "Soustraction composante par composante : (1 - 2 ; 4 - (-1)) = (-1 ; 5)."
+    },
+    {
+      "question": "Soit →u = (3 ; 0) et →v = (0 ; 4). Calcule la norme de →u + →v.",
+      "options": ["5", "7", "1", "12"],
+      "reponse": "5",
+      "explication": "→u + →v = (3 ; 4) ; norme = √(3² + 4²) = 5."
+    },
+    {
+      "question": "Le vecteur →AB est-il égal à →CD si ABCD est un rectangle ?",
+      "options": ["Oui", "Non", "Uniquement si ABCD est un carré", "Seulement si les côtés sont égaux"],
+      "reponse": "Oui",
+      "explication": "Dans un rectangle, les vecteurs opposés sont égaux."
+    },
+    {
+      "question": "Soit →u = (x ; y) un vecteur tel que ||→u|| = 5 et x = 3. Trouve y.",
+      "options": ["4", "-4", "3", "-3"],
+      "reponse": "4",
+      "explication": "||→u|| = √(x² + y²) donc 5 = √(3² + y²) → 25 = 9 + y² → y² = 16 → y = ±4."
+    },
+    {
+      "question": "Soit →u = (2 ; 3) et →v = (-6 ; -9). Que peut-on dire ?",
+      "options": ["→v = -3→u", "→v = 3→u", "→v = →u", "→v et →u sont orthogonaux"],
+      "reponse": "→v = -3→u",
+      "explication": "→v est l’opposé de 3 fois →u : (-6 ; -9) = -3 × (2 ; 3)."
+    },
+    {
+      "question": "Si →u = (0 ; 0), alors :",
+      "options": ["||→u|| = 0", "||→u|| = 1", "→u est unitaire", "→u est orthogonal à tous les vecteurs"],
+      "reponse": "||→u|| = 0",
+      "explication": "Le vecteur nul a une norme égale à zéro."
+    },
+    {
+      "question": "Soit →u = (7 ; 24). Quelle est sa norme ?",
+      "options": ["25", "31", "24", "7"],
+      "reponse": "25",
+      "explication": "Norme = √(7² + 24²) = √(49 + 576) = √625 = 25."
+    },
+    {
+      "question": "Soit →u = (1 ; 2) et →v = (3 ; 4). Calcule le vecteur →u + 2→v.",
+      "options": ["(7 ; 10)", "(5 ; 6)", "(6 ; 8)", "(3 ; 4)"],
+      "reponse": "(7 ; 10)",
+      "explication": "→u + 2→v = (1 ; 2) + 2 × (3 ; 4) = (1 ; 2) + (6 ; 8) = (7 ; 10)."
+    },
+    {
+      "question": "Quel est le vecteur unitaire dans la direction de →u = (3 ; 4) ?",
+      "options": ["(3/5 ; 4/5)", "(3 ; 4)", "(5/3 ; 5/4)", "(1 ; 1)"],
+      "reponse": "(3/5 ; 4/5)",
+      "explication": "Norme de →u est 5 ; vecteur unitaire = (3/5 ; 4/5)."
+    },
+    {
+      "question": "Soit →u = (5 ; 0) et →v = (0 ; 12). Quelle est la norme de →u - →v ?",
+      "options": ["13", "17", "7", "12"],
+      "reponse": "13",
+      "explication": "→u - →v = (5 ; -12) ; norme = √(5² + (-12)²) = √(25 + 144) = √169 = 13."
+    }
+  ]
+}

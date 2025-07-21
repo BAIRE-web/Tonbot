@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Quel nombre complète la série : 2, 4, 6, ?",
+      "options": ["7", "8", "9", "10"],
+      "reponse": "8",
+      "explication": "La série augmente de 2 à chaque fois : 2, 4, 6, 8..."
+    },
+    {
+      "question": "Si aujourd’hui est mercredi, quel jour sera dans 3 jours ?",
+      "options": ["Samedi", "Jeudi", "Vendredi", "Dimanche"],
+      "reponse": "Samedi",
+      "explication": "3 jours après mercredi, c’est samedi."
+    },
+    {
+      "question": "Trouve l’intrus : pomme, banane, voiture, orange",
+      "options": ["pomme", "banane", "voiture", "orange"],
+      "reponse": "voiture",
+      "explication": "La voiture n’est pas un fruit."
+    },
+    {
+      "question": "Quelle forme est différente ? carré, rectangle, triangle, cercle",
+      "options": ["carré", "rectangle", "triangle", "cercle"],
+      "reponse": "cercle",
+      "explication": "Le cercle n’a pas d’angles."
+    },
+    {
+      "question": "Quel nombre est plus grand ? 15 ou 51",
+      "options": ["15", "51", "Ils sont égaux", "Impossible à dire"],
+      "reponse": "51",
+      "explication": "51 est plus grand que 15."
+    },
+    {
+      "question": "Si un chat a 4 pattes, combien ont 3 chats ?",
+      "options": ["7", "12", "8", "10"],
+      "reponse": "12",
+      "explication": "3 chats ont 3 x 4 = 12 pattes."
+    },
+    {
+      "question": "Si tu as 5 pommes et que tu en manges 2, combien t’en reste-t-il ?",
+      "options": ["2", "3", "5", "7"],
+      "reponse": "3",
+      "explication": "5 - 2 = 3 pommes restantes."
+    },
+    {
+      "question": "Lequel ne va pas avec les autres : lundi, mardi, janvier, jeudi",
+      "options": ["lundi", "mardi", "janvier", "jeudi"],
+      "reponse": "janvier",
+      "explication": "Janvier est un mois, les autres sont des jours de la semaine."
+    },
+    {
+      "question": "Quelle image est différente : un chat, un chien, une table, un oiseau",
+      "options": ["chat", "chien", "table", "oiseau"],
+      "reponse": "table",
+      "explication": "La table n’est pas un animal."
+    },
+    {
+      "question": "Quel est le contraire de ‘grand’ ?",
+      "options": ["petit", "haut", "long", "gros"],
+      "reponse": "petit",
+      "explication": "Le contraire de grand est petit."
+    },
+    {
+      "question": "Combien y a-t-il de jours dans une semaine ?",
+      "options": ["5", "6", "7", "8"],
+      "reponse": "7",
+      "explication": "Une semaine compte 7 jours."
+    },
+    {
+      "question": "Quel nombre vient après 9 ?",
+      "options": ["7", "10", "8", "11"],
+      "reponse": "10",
+      "explication": "Après 9 vient 10."
+    },
+    {
+      "question": "Si tu divises 10 bonbons en 2 parts égales, combien y aura-t-il dans chaque part ?",
+      "options": ["2", "4", "5", "10"],
+      "reponse": "5",
+      "explication": "10 ÷ 2 = 5 bonbons par part."
+    },
+    {
+      "question": "Lequel est un fruit : carotte, pomme, tomate, chou ?",
+      "options": ["carotte", "pomme", "tomate", "chou"],
+      "reponse": "pomme",
+      "explication": "La pomme est un fruit."
+    },
+    {
+      "question": "Quelle couleur obtient-on en mélangeant bleu et jaune ?",
+      "options": ["vert", "orange", "violet", "rouge"],
+      "reponse": "vert",
+      "explication": "Bleu + jaune = vert."
+    },
+    {
+      "question": "Lequel ne va pas avec les autres : janvier, février, lundi, mars",
+      "options": ["janvier", "février", "lundi", "mars"],
+      "reponse": "lundi",
+      "explication": "Lundi est un jour, les autres sont des mois."
+    },
+    {
+      "question": "Si aujourd’hui est samedi, quel jour était-il hier ?",
+      "options": ["vendredi", "dimanche", "jeudi", "lundi"],
+      "reponse": "vendredi",
+      "explication": "Hier avant samedi est vendredi."
+    },
+    {
+      "question": "Combien y a-t-il de minutes dans une heure ?",
+      "options": ["30", "45", "60", "90"],
+      "reponse": "60",
+      "explication": "Une heure contient 60 minutes."
+    },
+    {
+      "question": "Quel est l’intrus : eau, feu, pierre, air ?",
+      "options": ["eau", "feu", "pierre", "air"],
+      "reponse": "pierre",
+      "explication": "L’eau, le feu et l’air sont des éléments, la pierre est une matière."
+    },
+    {
+      "question": "Quel nombre est pair : 7, 12, 9, 15 ?",
+      "options": ["7", "12", "9", "15"],
+      "reponse": "12",
+      "explication": "12 est pair, les autres sont impairs."
+    },
+    {
+      "question": "Lequel complète la série : 5, 10, 15, ?",
+      "options": ["20", "18", "16", "25"],
+      "reponse": "20",
+      "explication": "La série augmente de 5 à chaque fois."
+    },
+    {
+      "question": "Quelle forme a 3 côtés ?",
+      "options": ["carré", "rectangle", "triangle", "cercle"],
+      "reponse": "triangle",
+      "explication": "Le triangle a 3 côtés."
+    },
+    {
+      "question": "Lequel est un animal : table, chat, maison, chaise ?",
+      "options": ["table", "chat", "maison", "chaise"],
+      "reponse": "chat",
+      "explication": "Le chat est un animal."
+    },
+    {
+      "question": "Combien font 3 + 4 ?",
+      "options": ["6", "7", "8", "5"],
+      "reponse": "7",
+      "explication": "3 + 4 = 7."
+    },
+    {
+      "question": "Quel est l’intrus : rouge, bleu, jaune, carré ?",
+      "options": ["rouge", "bleu", "jaune", "carré"],
+      "reponse": "carré",
+      "explication": "Les trois premiers sont des couleurs, le carré est une forme."
+    },
+    {
+      "question": "Si tu as 10 crayons et que tu en donnes 4, combien t’en reste-t-il ?",
+      "options": ["4", "6", "10", "14"],
+      "reponse": "6",
+      "explication": "10 - 4 = 6 crayons restants."
+    },
+    {
+      "question": "Quel est le contraire de ‘jour’ ?",
+      "options": ["nuit", "matin", "soir", "après-midi"],
+      "reponse": "nuit",
+      "explication": "Le contraire du jour est la nuit."
+    },
+    {
+      "question": "Quel nombre manque dans la suite : 1, 3, 5, ?",
+      "options": ["6", "7", "8", "9"],
+      "reponse": "7",
+      "explication": "La suite compte les nombres impairs : 1, 3, 5, 7..."
+    },
+    {
+      "question": "Quelle saison vient après l’été ?",
+      "options": ["printemps", "automne", "hiver", "été"],
+      "reponse": "automne",
+      "explication": "Après l’été vient l’automne."
+    },
+    {
+      "question": "Lequel est un outil : marteau, chat, pomme, soleil ?",
+      "options": ["marteau", "chat", "pomme", "soleil"],
+      "reponse": "marteau",
+      "explication": "Le marteau est un outil."
+    },
+    {
+      "question": "Quelle lettre vient après C ?",
+      "options": ["B", "D", "E", "F"],
+      "reponse": "D",
+      "explication": "Après la lettre C vient la lettre D."
+    },
+    {
+      "question": "Lequel ne va pas avec les autres : chien, chat, oiseau, voiture ?",
+      "options": ["chien", "chat", "oiseau", "voiture"],
+      "reponse": "voiture",
+      "explication": "La voiture n’est pas un animal."
+    },
+    {
+      "question": "Combien y a-t-il de semaines dans un mois ?",
+      "options": ["2", "3", "4", "5"],
+      "reponse": "4",
+      "explication": "Un mois compte environ 4 semaines."
+    },
+    {
+      "question": "Si un lapin mange 3 carottes par jour, combien en mange-t-il en 4 jours ?",
+      "options": ["7", "10", "12", "15"],
+      "reponse": "12",
+      "explication": "3 carottes x 4 jours = 12 carottes."
+    },
+    {
+      "question": "Lequel est un légume : pomme, carotte, fraise, orange ?",
+      "options": ["pomme", "carotte", "fraise", "orange"],
+      "reponse": "carotte",
+      "explication": "La carotte est un légume."
+    },
+    {
+      "question": "Quelle forme a 4 côtés égaux ?",
+      "options": ["rectangle", "carré", "triangle", "cercle"],
+      "reponse": "carré",
+      "explication": "Le carré a 4 côtés égaux."
+    },
+    {
+      "question": "Quel est le nombre pair entre ces nombres : 21, 34, 57, 89 ?",
+      "options": ["21", "34", "57", "89"],
+      "reponse": "34",
+      "explication": "34 est un nombre pair."
+    },
+    {
+      "question": "Quelle couleur obtient-on en mélangeant rouge et blanc ?",
+      "options": ["rose", "orange", "violet", "marron"],
+      "reponse": "rose",
+      "explication": "Rouge + blanc donne du rose."
+    },
+    {
+      "question": "Quel jour vient avant vendredi ?",
+      "options": ["jeudi", "samedi", "mercredi", "dimanche"],
+      "reponse": "jeudi",
+      "explication": "Jeudi vient avant vendredi."
+    },
+    {
+      "question": "Combien font 5 x 2 ?",
+      "options": ["7", "10", "12", "15"],
+      "reponse": "10",
+      "explication": "5 multiplié par 2 égale 10."
+    },
+    {
+      "question": "Quel animal vit dans l’eau : chien, chat, poisson, oiseau ?",
+      "options": ["chien", "chat", "poisson", "oiseau"],
+      "reponse": "poisson",
+      "explication": "Le poisson vit dans l’eau."
+    },
+    {
+      "question": "Lequel est un moyen de transport : vélo, maison, arbre, chaise ?",
+      "options": ["vélo", "maison", "arbre", "chaise"],
+      "reponse": "vélo",
+      "explication": "Le vélo est un moyen de transport."
+    },
+    {
+      "question": "Quel est le résultat de 9 - 4 ?",
+      "options": ["5", "6", "4", "3"],
+      "reponse": "5",
+      "explication": "9 moins 4 égale 5."
+    },
+    {
+      "question": "Si aujourd’hui est dimanche, quel jour sera dans 5 jours ?",
+      "options": ["vendredi", "samedi", "jeudi", "mercredi"],
+      "reponse": "vendredi",
+      "explication": "5 jours après dimanche c’est vendredi."
+    },
+    {
+      "question": "Quelle forme a 6 côtés ?",
+      "options": ["cercle", "triangle", "hexagone", "carré"],
+      "reponse": "hexagone",
+      "explication": "Un hexagone a 6 côtés."
+    },
+    {
+      "question": "Lequel est un instrument de musique : guitare, table, voiture, fenêtre ?",
+      "options": ["guitare", "table", "voiture", "fenêtre"],
+      "reponse": "guitare",
+      "explication": "La guitare est un instrument de musique."
+    },
+    {
+      "question": "Combien y a-t-il de doigts sur une main ?",
+      "options": ["4", "5", "6", "7"],
+      "reponse": "5",
+      "explication": "Une main a 5 doigts."
+    },
+    {
+      "question": "Quel nombre est plus petit : 24, 18, 30, 22 ?",
+      "options": ["24", "18", "30", "22"],
+      "reponse": "18",
+      "explication": "18 est le plus petit nombre."
+    },
+    {
+      "question": "Quelle couleur est un mélange de bleu et rouge ?",
+      "options": ["vert", "orange", "violet", "jaune"],
+      "reponse": "violet",
+      "explication": "Bleu + rouge = violet."
+    },
+    {
+      "question": "Lequel ne va pas avec les autres : rouge, bleu, chien, jaune ?",
+      "options": ["rouge", "bleu", "chien", "jaune"],
+      "reponse": "chien",
+      "explication": "Le chien n’est pas une couleur."
+    }
+  ]
+}

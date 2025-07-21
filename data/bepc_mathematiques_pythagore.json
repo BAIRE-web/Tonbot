@@ -1,0 +1,292 @@
+{
+  "qcm": [
+    {
+      "question": "Dans un triangle rectangle, quel est le côté opposé à l’angle droit ?",
+      "options": ["L’hypoténuse", "Un côté adjacent", "La hauteur", "La médiane"],
+      "reponse": "L’hypoténuse",
+      "explication": "L’hypoténuse est toujours le côté opposé à l’angle droit."
+    },
+    {
+      "question": "La formule du théorème de Pythagore est :",
+      "options": ["AB² = AC² + BC²", "AB = AC + BC", "AB² + AC² = BC²", "AB² = AC - BC"],
+      "reponse": "AB² = AC² + BC²",
+      "explication": "Dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés."
+    },
+    {
+      "question": "Dans un triangle ABC rectangle en C, quelle formule permet de calculer l’hypoténuse AB ?",
+      "options": ["AB = √(AC² + BC²)", "AB = AC + BC", "AB = AC - BC", "AB = √(AC² - BC²)"],
+      "reponse": "AB = √(AC² + BC²)",
+      "explication": "L’hypoténuse se calcule par la racine carrée de la somme des carrés des côtés adjacents."
+    },
+    {
+      "question": "Comment calculer un côté adjacent si l’on connaît l’hypoténuse et l’autre côté ?",
+      "options": ["Côté adjacent = √(hypoténuse² - autre côté²)", "Côté adjacent = hypoténuse + autre côté", "Côté adjacent = hypoténuse - autre côté", "Côté adjacent = √(hypoténuse² + autre côté²)"],
+      "reponse": "Côté adjacent = √(hypoténuse² - autre côté²)",
+      "explication": "On applique le théorème de Pythagore en isolant le côté adjacent."
+    },
+    {
+      "question": "Quelle est la nature du triangle ABC si AB² = AC² + BC² ?",
+      "options": ["Triangle rectangle en C", "Triangle équilatéral", "Triangle isocèle", "Triangle quelconque"],
+      "reponse": "Triangle rectangle en C",
+      "explication": "La relation correspond au théorème de Pythagore."
+    },
+    {
+      "question": "Si dans un triangle, AB² < AC² + BC², alors le triangle est :",
+      "options": ["Aigu", "Rectangle", "Obtus", "Isocèle"],
+      "reponse": "Aigu",
+      "explication": "Si le carré du plus grand côté est inférieur à la somme des carrés des deux autres, le triangle est aigu."
+    },
+    {
+      "question": "Si dans un triangle, AB² > AC² + BC², alors le triangle est :",
+      "options": ["Obtus", "Rectangle", "Aigu", "Equilatéral"],
+      "reponse": "Obtus",
+      "explication": "Si le carré du plus grand côté est supérieur à la somme des carrés des deux autres, le triangle est obtus."
+    },
+    {
+      "question": "Quel est le nom du triangle qui vérifie la relation AB² = AC² + BC² ?",
+      "options": ["Triangle rectangle", "Triangle isocèle", "Triangle équilatéral", "Triangle scalène"],
+      "reponse": "Triangle rectangle",
+      "explication": "C’est la définition d’un triangle rectangle."
+    },
+    {
+      "question": "Dans un triangle rectangle, l’aire peut se calculer avec :",
+      "options": ["(1/2) × base × hauteur", "base × hauteur", "côté × côté", "côté + côté"],
+      "reponse": "(1/2) × base × hauteur",
+      "explication": "L’aire d’un triangle rectangle est égale à la moitié du produit des deux côtés perpendiculaires."
+    },
+    {
+      "question": "La racine carrée de 49 est :",
+      "options": ["7", "-7", "7 ou -7", "14"],
+      "reponse": "7",
+      "explication": "La racine carrée désigne la valeur positive."
+    },
+    {
+      "question": "Quelle propriété utilise-t-on pour vérifier qu’un triangle est rectangle ?",
+      "options": ["Théorème de Pythagore", "Théorème de Thalès", "Propriété des triangles isocèles", "Réciproque du théorème de Thalès"],
+      "reponse": "Théorème de Pythagore",
+      "explication": "La réciproque du théorème de Pythagore permet de vérifier la nature du triangle."
+    },
+    {
+      "question": "Quel est le carré de l’hypoténuse si les deux autres côtés mesurent 3 cm et 4 cm ?",
+      "options": ["25", "7", "12", "5"],
+      "reponse": "25",
+      "explication": "3² + 4² = 9 + 16 = 25."
+    },
+    {
+      "question": "Quel est la longueur de l’hypoténuse pour un triangle rectangle avec côtés 5 cm et 12 cm ?",
+      "options": ["13 cm", "17 cm", "7 cm", "10 cm"],
+      "reponse": "13 cm",
+      "explication": "√(5² + 12²) = √(25 + 144) = √169 = 13."
+    },
+    {
+      "question": "Le carré de l’hypoténuse est égal à :",
+      "options": ["La somme des carrés des deux autres côtés", "La différence des carrés des deux autres côtés", "La somme des longueurs des deux autres côtés", "La différence des longueurs des deux autres côtés"],
+      "reponse": "La somme des carrés des deux autres côtés",
+      "explication": "C’est la définition du théorème de Pythagore."
+    },
+    {
+      "question": "Pour calculer la hauteur dans un triangle rectangle, on peut utiliser :",
+      "options": ["Les propriétés du triangle rectangle", "La somme des angles", "Le théorème de Thalès", "La propriété des triangles équilatéraux"],
+      "reponse": "Les propriétés du triangle rectangle",
+      "explication": "La hauteur est perpendiculaire à la base et peut se calculer avec le théorème de Pythagore."
+    },
+    {
+      "question": "Dans un triangle rectangle, le côté adjacent à l’angle droit mesure 8 cm, l’autre côté mesure 6 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["10 cm", "14 cm", "12 cm", "9 cm"],
+      "reponse": "10 cm",
+      "explication": "√(8² + 6²) = √(64 + 36) = √100 = 10."
+    },
+    {
+      "question": "La réciproque du théorème de Pythagore permet de :",
+      "options": ["Déterminer si un triangle est rectangle", "Calculer l’aire d’un triangle", "Mesurer un angle", "Tracer un triangle équilatéral"],
+      "reponse": "Déterminer si un triangle est rectangle",
+      "explication": "Si le carré du plus grand côté est égal à la somme des carrés des deux autres, alors le triangle est rectangle."
+    },
+    {
+      "question": "Si un triangle a pour côtés 7 cm, 24 cm et 25 cm, est-il rectangle ?",
+      "options": ["Oui", "Non", "Impossible", "Seulement si l’angle entre 7 et 24 est droit"],
+      "reponse": "Oui",
+      "explication": "25² = 625 ; 7² + 24² = 49 + 576 = 625, donc triangle rectangle."
+    },
+    {
+      "question": "Le théorème de Pythagore est utilisé pour :",
+      "options": ["Calculer des distances dans un triangle rectangle", "Calculer des angles", "Tracer des droites parallèles", "Résoudre des équations"],
+      "reponse": "Calculer des distances dans un triangle rectangle",
+      "explication": "Il permet de relier les longueurs des côtés d’un triangle rectangle."
+    },
+    {
+      "question": "La formule pour calculer un côté d’un triangle rectangle quand on connaît l’hypoténuse et l’autre côté est :",
+      "options": ["Côté = √(hypoténuse² - autre côté²)", "Côté = hypoténuse + autre côté", "Côté = hypoténuse - autre côté", "Côté = √(hypoténuse² + autre côté²)"],
+      "reponse": "Côté = √(hypoténuse² - autre côté²)",
+      "explication": "On isole le côté inconnu dans la formule du théorème."
+    },
+    {
+      "question": "Quelle est la longueur de l’hypoténuse si les deux autres côtés mesurent 9 cm et 12 cm ?",
+      "options": ["15 cm", "20 cm", "18 cm", "21 cm"],
+      "reponse": "15 cm",
+      "explication": "√(9² + 12²) = √(81 + 144) = √225 = 15."
+    },
+    {
+      "question": "Le triangle avec côtés 6 cm, 8 cm et 10 cm est :",
+      "options": ["Rectangle", "Equilatéral", "Isocèle", "Scalène"],
+      "reponse": "Rectangle",
+      "explication": "10² = 100 ; 6² + 8² = 36 + 64 = 100."
+    },
+    {
+      "question": "Dans un triangle rectangle, la somme des angles vaut :",
+      "options": ["180°", "90°", "360°", "45°"],
+      "reponse": "180°",
+      "explication": "Somme des angles d’un triangle toujours égale à 180°."
+    },
+    {
+      "question": "Le côté opposé à l’angle droit mesure :",
+      "options": ["L’hypoténuse", "Le côté adjacent", "La médiane", "La hauteur"],
+      "reponse": "L’hypoténuse",
+      "explication": "Définition de l’hypoténuse."
+    },
+    {
+      "question": "Dans un triangle rectangle, si les deux côtés mesurent 5 cm et 12 cm, l’hypoténuse mesure :",
+      "options": ["13 cm", "17 cm", "10 cm", "7 cm"],
+      "reponse": "13 cm",
+      "explication": "√(5² + 12²) = √(25 + 144) = √169 = 13."
+    },
+    {
+      "question": "Un triangle avec côtés 8 cm, 15 cm et 17 cm est-il rectangle ?",
+      "options": ["Oui", "Non", "Impossible", "Seulement si angle droit entre 8 et 15"],
+      "reponse": "Oui",
+      "explication": "17² = 289 ; 8² + 15² = 64 + 225 = 289."
+    },
+    {
+      "question": "Si AB = 13 cm, AC = 5 cm, BC = 12 cm, alors le triangle ABC est :",
+      "options": ["Rectangle", "Isocèle", "Équilatéral", "Obtus"],
+      "reponse": "Rectangle",
+      "explication": "13² = 169 ; 5² + 12² = 25 + 144 = 169."
+    },
+    {
+      "question": "La racine carrée de 100 est :",
+      "options": ["10", "-10", "±10", "20"],
+      "reponse": "10",
+      "explication": "La racine carrée positive de 100 est 10."
+    },
+    {
+      "question": "Dans un triangle rectangle, la hauteur issue de l’angle droit divise le triangle en :",
+      "options": ["Deux triangles rectangles", "Deux triangles équilatéraux", "Deux triangles isocèles", "Deux triangles quelconques"],
+      "reponse": "Deux triangles rectangles",
+      "explication": "La hauteur issue de l’angle droit forme deux triangles rectangles semblables au triangle initial."
+    },
+    {
+      "question": "Soit un triangle rectangle ABC rectangle en C, si AC = 6 cm et BC = 8 cm, quelle est la longueur de l’hypoténuse AB ?",
+      "options": ["10 cm", "14 cm", "12 cm", "8 cm"],
+      "reponse": "10 cm",
+      "explication": "AB = √(6² + 8²) = √(36 + 64) = √100 = 10 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, comment calculer la hauteur h issue de l’angle droit ?",
+      "options": ["h = (AC × BC) / AB", "h = AC + BC", "h = AB - AC", "h = √(AC² + BC²)"],
+      "reponse": "h = (AC × BC) / AB",
+      "explication": "La hauteur issue de l’angle droit est égale au produit des deux côtés adjacents divisé par l’hypoténuse."
+    },
+    {
+      "question": "Soit un triangle rectangle ABC avec AB l’hypoténuse, AC = 5 cm, BC = 12 cm, calcule AB.",
+      "options": ["13 cm", "17 cm", "10 cm", "7 cm"],
+      "reponse": "13 cm",
+      "explication": "AB = √(5² + 12²) = √(25 + 144) = √169 = 13 cm."
+    },
+    {
+      "question": "Si dans un triangle rectangle, l’hypoténuse mesure 13 cm et un côté 5 cm, quelle est la longueur de l’autre côté ?",
+      "options": ["12 cm", "8 cm", "10 cm", "7 cm"],
+      "reponse": "12 cm",
+      "explication": "Côté = √(13² - 5²) = √(169 - 25) = √144 = 12 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, la hauteur issue de l’angle droit mesure 4 cm, les segments qu’elle crée sur l’hypoténuse mesurent 9 cm et 16 cm. Quelle est la longueur de l’hypoténuse ?",
+      "options": ["25 cm", "20 cm", "15 cm", "10 cm"],
+      "reponse": "25 cm",
+      "explication": "L’hypoténuse est la somme des deux segments : 9 + 16 = 25 cm."
+    },
+    {
+      "question": "Quel est le carré de la hauteur h issue de l’angle droit si elle divise l’hypoténuse en segments de 9 cm et 16 cm ?",
+      "options": ["h² = 9 × 16", "h² = 9 + 16", "h² = 25", "h² = 16 - 9"],
+      "reponse": "h² = 9 × 16",
+      "explication": "La hauteur au carré est égale au produit des deux segments sur l’hypoténuse."
+    },
+    {
+      "question": "Soit un triangle rectangle avec côtés 7 cm, 24 cm et 25 cm. Quelle est la nature du triangle ?",
+      "options": ["Rectangle", "Isocèle", "Équilatéral", "Scalène"],
+      "reponse": "Rectangle",
+      "explication": "25² = 625 ; 7² + 24² = 49 + 576 = 625 donc triangle rectangle."
+    },
+    {
+      "question": "Dans un triangle rectangle, la médiane issue de l’angle droit mesure :",
+      "options": ["La moitié de l’hypoténuse", "L’hypoténuse", "La somme des côtés", "Le côté opposé"],
+      "reponse": "La moitié de l’hypoténuse",
+      "explication": "La médiane issue de l’angle droit mesure la moitié de l’hypoténuse."
+    },
+    {
+      "question": "Si la hauteur issue de l’angle droit est 3 cm et l’hypoténuse 10 cm, quels sont les produits des segments de l’hypoténuse ?",
+      "options": ["9", "30", "13", "100"],
+      "reponse": "9",
+      "explication": "h² = produit des segments, donc 3² = 9."
+    },
+    {
+      "question": "Quel est le périmètre d’un triangle rectangle dont les côtés mesurent 3 cm, 4 cm et 5 cm ?",
+      "options": ["12 cm", "10 cm", "9 cm", "7 cm"],
+      "reponse": "12 cm",
+      "explication": "Périmètre = 3 + 4 + 5 = 12 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, comment calculer un côté si on connaît la hauteur issue de l’angle droit et l’autre segment de l’hypoténuse adjacent ?",
+      "options": ["Côté = h² / segment adjacent", "Côté = h + segment adjacent", "Côté = segment adjacent - h", "Côté = √(h² + segment adjacent²)"],
+      "reponse": "Côté = h² / segment adjacent",
+      "explication": "Chaque côté adjacent est égal au carré de la hauteur divisé par le segment adjacent."
+    },
+    {
+      "question": "Soit un triangle rectangle dont l’hypoténuse mesure 20 cm et la hauteur issue de l’angle droit 12 cm. Calculez le produit des deux segments créés sur l’hypoténuse.",
+      "options": ["144", "240", "32", "400"],
+      "reponse": "144",
+      "explication": "h² = produit des segments, donc 12² = 144."
+    },
+    {
+      "question": "Quelle est la longueur de la médiane issue de l’angle droit dans un triangle rectangle dont l’hypoténuse mesure 16 cm ?",
+      "options": ["8 cm", "12 cm", "16 cm", "10 cm"],
+      "reponse": "8 cm",
+      "explication": "La médiane issue de l’angle droit est la moitié de l’hypoténuse."
+    },
+    {
+      "question": "Si dans un triangle rectangle, les deux côtés adjacents à l’angle droit mesurent 9 cm et 12 cm, quelle est la longueur de l’hypoténuse ?",
+      "options": ["15 cm", "20 cm", "21 cm", "14 cm"],
+      "reponse": "15 cm",
+      "explication": "Hypoténuse = √(9² + 12²) = √(81 + 144) = √225 = 15 cm."
+    },
+    {
+      "question": "Dans un triangle rectangle, la hauteur issue de l’angle droit mesure 5 cm et l’hypoténuse 13 cm. Calculez la somme des deux segments formés sur l’hypoténuse.",
+      "options": ["13 cm", "10 cm", "18 cm", "25 cm"],
+      "reponse": "13 cm",
+      "explication": "La somme des deux segments est égale à la longueur de l’hypoténuse."
+    },
+    {
+      "question": "Calculer le carré de la hauteur issue de l’angle droit si elle mesure 6 cm.",
+      "options": ["36", "12", "18", "6"],
+      "reponse": "36",
+      "explication": "Carré de la hauteur = 6² = 36."
+    },
+    {
+      "question": "Dans un triangle rectangle, la longueur de la médiane issue de l’angle droit est égale à :",
+      "options": ["La moitié de l’hypoténuse", "La somme des côtés", "Le côté adjacent", "La hauteur"],
+      "reponse": "La moitié de l’hypoténuse",
+      "explication": "C’est une propriété du triangle rectangle."
+    },
+    {
+      "question": "Soit un triangle rectangle avec hypoténuse 10 cm et un côté 6 cm. Quelle est la longueur de l’autre côté ?",
+      "options": ["8 cm", "7 cm", "5 cm", "9 cm"],
+      "reponse": "8 cm",
+      "explication": "Côté = √(10² - 6²) = √(100 - 36) = √64 = 8 cm."
+    },
+    {
+      "question": "Si l’hypoténuse d’un triangle rectangle mesure 25 cm et la hauteur issue de l’angle droit 12 cm, quel est le produit des deux segments formés sur l’hypoténuse ?",
+      "options": ["144", "169", "300", "200"],
+      "reponse": "144",
+      "explication": "Produit des segments = hauteur² = 12² = 144."
+    }
+  ]
+}

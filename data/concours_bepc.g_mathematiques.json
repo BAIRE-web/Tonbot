@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la valeur de x si 2x + 5 = 15 ?",
+      "options": ["5", "10", "7", "2.5"],
+      "reponse": "5",
+      "explication": "2x + 5 = 15 ⇒ 2x = 10 ⇒ x = 5."
+    },
+    {
+      "question": "Quel est le résultat de 7 × 8 ?",
+      "options": ["54", "56", "58", "60"],
+      "reponse": "56",
+      "explication": "7 × 8 = 56."
+    },
+    {
+      "question": "Quelle est l'équation réduite de la droite passant par (0;3) et de pente 2 ?",
+      "options": ["y = 2x + 3", "y = 3x + 2", "y = 2x - 3", "y = 3x - 2"],
+      "reponse": "y = 2x + 3",
+      "explication": "Formule y = mx + b avec m = 2 et b = 3."
+    },
+    {
+      "question": "Si le périmètre d’un carré est 20 cm, quelle est la longueur de son côté ?",
+      "options": ["5 cm", "10 cm", "20 cm", "25 cm"],
+      "reponse": "5 cm",
+      "explication": "Périmètre = 4 × côté ⇒ côté = 20 ÷ 4 = 5 cm."
+    },
+    {
+      "question": "Quelle est la solution de l’inéquation : 3x - 4 > 5 ?",
+      "options": ["x > 3", "x < 3", "x > 1", "x < 1"],
+      "reponse": "x > 3",
+      "explication": "3x - 4 > 5 ⇒ 3x > 9 ⇒ x > 3."
+    },
+    {
+      "question": "Quel est le résultat de √49 ?",
+      "options": ["6", "7", "8", "9"],
+      "reponse": "7",
+      "explication": "La racine carrée de 49 est 7."
+    },
+    {
+      "question": "Dans un triangle rectangle, si un côté mesure 3 cm et l’autre 4 cm, quelle est la longueur de l’hypoténuse ?",
+      "options": ["5 cm", "6 cm", "7 cm", "8 cm"],
+      "reponse": "5 cm",
+      "explication": "Théorème de Pythagore : 3² + 4² = 9 + 16 = 25 ⇒ hypoténuse = √25 = 5 cm."
+    },
+    {
+      "question": "Que vaut 5² ?",
+      "options": ["10", "15", "20", "25"],
+      "reponse": "25",
+      "explication": "5² = 5 × 5 = 25."
+    },
+    {
+      "question": "Quelle est la formule de l’aire d’un rectangle ?",
+      "options": ["Longueur + Largeur", "Longueur × Largeur", "2 × (Longueur + Largeur)", "Longueur ÷ Largeur"],
+      "reponse": "Longueur × Largeur",
+      "explication": "Aire rectangle = longueur × largeur."
+    },
+    {
+      "question": "Que vaut 12 ÷ 3 ?",
+      "options": ["3", "4", "6", "9"],
+      "reponse": "4",
+      "explication": "12 ÷ 3 = 4."
+    },
+    {
+      "question": "Si f(x) = 3x - 2, que vaut f(4) ?",
+      "options": ["10", "12", "14", "8"],
+      "reponse": "10",
+      "explication": "f(4) = 3 × 4 - 2 = 12 - 2 = 10."
+    },
+    {
+      "question": "Quel est le nombre opposé de -7 ?",
+      "options": ["7", "-7", "0", "-1"],
+      "reponse": "7",
+      "explication": "L’opposé de -7 est 7."
+    },
+    {
+      "question": "Combien y a-t-il de degrés dans un angle droit ?",
+      "options": ["45°", "60°", "90°", "180°"],
+      "reponse": "90°",
+      "explication": "Un angle droit mesure 90 degrés."
+    },
+    {
+      "question": "Quel est le résultat de 15% de 200 ?",
+      "options": ["25", "30", "35", "40"],
+      "reponse": "30",
+      "explication": "15% de 200 = 0,15 × 200 = 30."
+    },
+    {
+      "question": "Quelle est la formule du volume d’un cube de côté a ?",
+      "options": ["a²", "a³", "3a", "6a²"],
+      "reponse": "a³",
+      "explication": "Volume cube = côté³ = a³."
+    },
+    {
+      "question": "Dans un triangle équilatéral, combien y a-t-il d’angles égaux ?",
+      "options": ["1", "2", "3", "4"],
+      "reponse": "3",
+      "explication": "Tous les angles sont égaux dans un triangle équilatéral."
+    },
+    {
+      "question": "Quelle est la solution de l’équation x² = 16 ?",
+      "options": ["4 seulement", "-4 seulement", "4 et -4", "0"],
+      "reponse": "4 et -4",
+      "explication": "x² = 16 → x = ±4."
+    },
+    {
+      "question": "Combien mesure la somme des angles d’un triangle ?",
+      "options": ["90°", "180°", "360°", "270°"],
+      "reponse": "180°",
+      "explication": "La somme des angles dans un triangle est toujours 180°."
+    },
+    {
+      "question": "Que vaut 3³ ?",
+      "options": ["6", "9", "27", "81"],
+      "reponse": "27",
+      "explication": "3³ = 3 × 3 × 3 = 27."
+    },
+    {
+      "question": "Si une droite est parallèle à une autre, que peut-on dire de leurs angles alternes-internes ?",
+      "options": ["Ils sont égaux", "Ils sont complémentaires", "Ils sont opposés", "Ils sont différents"],
+      "reponse": "Ils sont égaux",
+      "explication": "Les angles alternes-internes sont égaux lorsque les droites sont parallèles."
+    },
+    {
+      "question": "Quel est le PGCD (plus grand commun diviseur) de 12 et 18 ?",
+      "options": ["2", "3", "6", "9"],
+      "reponse": "6",
+      "explication": "6 est le plus grand nombre qui divise à la fois 12 et 18."
+    },
+    {
+      "question": "Que vaut 0 divisé par 5 ?",
+      "options": ["0", "1", "5", "Indéfini"],
+      "reponse": "0",
+      "explication": "0 divisé par n’importe quel nombre non nul vaut 0."
+    },
+    {
+      "question": "Complétez : La médiane d’un triangle est un segment qui relie un sommet au ___ ?",
+      "options": ["centre", "milieu du côté opposé", "coin", "angle droit"],
+      "reponse": "milieu du côté opposé",
+      "explication": "La médiane relie un sommet au milieu du côté opposé."
+    },
+    {
+      "question": "Quel est le résultat de 5 + (-3) ?",
+      "options": ["2", "-8", "8", "-2"],
+      "reponse": "2",
+      "explication": "5 + (-3) = 5 - 3 = 2."
+    },
+    {
+      "question": "Quelle est la solution de l’équation 5x - 10 = 0 ?",
+      "options": ["2", "0", "-2", "10"],
+      "reponse": "2",
+      "explication": "5x - 10 = 0 ⇒ 5x = 10 ⇒ x = 2."
+    },
+    {
+      "question": "Quel est le volume d’un cylindre de hauteur 7 cm et de rayon 3 cm ? (Formule : V = πr²h)",
+      "options": ["198 cm³", "197.9 cm³", "200 cm³", "210 cm³"],
+      "reponse": "197.9 cm³",
+      "explication": "V = π × 3² × 7 ≈ 3.14 × 9 × 7 = 197.9 cm³."
+    },
+    {
+      "question": "Dans un triangle, si deux angles mesurent 50° et 60°, quelle est la mesure du troisième angle ?",
+      "options": ["60°", "70°", "80°", "90°"],
+      "reponse": "70°",
+      "explication": "Somme des angles = 180°, donc 180 - (50 + 60) = 70°."
+    },
+    {
+      "question": "Quel est le résultat de 2⁴ ?",
+      "options": ["8", "12", "16", "32"],
+      "reponse": "16",
+      "explication": "2⁴ = 2 × 2 × 2 × 2 = 16."
+    },
+    {
+      "question": "Complétez : L’aire d’un cercle de rayon r est égale à ___.",
+      "options": ["πr²", "2πr", "πd", "r²"],
+      "reponse": "πr²",
+      "explication": "Aire cercle = π × rayon²."
+    },
+    {
+      "question": "Quelle est la pente de la droite passant par les points A(1;2) et B(3;6) ?",
+      "options": ["2", "4", "3", "1"],
+      "reponse": "2",
+      "explication": "Pente m = (6 - 2) / (3 - 1) = 4/2 = 2."
+    },
+    {
+      "question": "Que vaut 15 × 0 ?",
+      "options": ["15", "0", "1", "Impossible"],
+      "reponse": "0",
+      "explication": "Toute multiplication par 0 donne 0."
+    },
+    {
+      "question": "Combien y a-t-il d’arêtes dans un cube ?",
+      "options": ["6", "8", "12", "16"],
+      "reponse": "12",
+      "explication": "Un cube a 12 arêtes."
+    },
+    {
+      "question": "Quel est le résultat de (−3) × (−4) ?",
+      "options": ["-12", "12", "-7", "7"],
+      "reponse": "12",
+      "explication": "Produit de deux nombres négatifs est positif."
+    },
+    {
+      "question": "Si f(x) = x² + 3, que vaut f(2) ?",
+      "options": ["5", "7", "9", "11"],
+      "reponse": "7",
+      "explication": "f(2) = 2² + 3 = 4 + 3 = 7."
+    },
+    {
+      "question": "Quelle est la formule pour calculer la moyenne de n nombres ?",
+      "options": ["Somme ÷ n", "Somme × n", "n ÷ Somme", "Somme + n"],
+      "reponse": "Somme ÷ n",
+      "explication": "La moyenne = somme des nombres divisée par le nombre total."
+    },
+    {
+      "question": "Quel est le résultat de 9² ?",
+      "options": ["18", "27", "81", "72"],
+      "reponse": "81",
+      "explication": "9² = 9 × 9 = 81."
+    },
+    {
+      "question": "Quel est le symétrique de 5 par rapport à 0 ?",
+      "options": ["-5", "5", "0", "1"],
+      "reponse": "-5",
+      "explication": "Le symétrique d’un nombre par rapport à 0 est son opposé."
+    },
+    {
+      "question": "Combien mesure un angle plat ?",
+      "options": ["90°", "180°", "360°", "45°"],
+      "reponse": "180°",
+      "explication": "Un angle plat mesure 180 degrés."
+    },
+    {
+      "question": "Que vaut 1/2 + 1/4 ?",
+      "options": ["1/4", "3/4", "1/2", "2/4"],
+      "reponse": "3/4",
+      "explication": "1/2 = 2/4, donc 2/4 + 1/4 = 3/4."
+    },
+    {
+      "question": "Quel est le résultat de 25% de 80 ?",
+      "options": ["10", "15", "20", "25"],
+      "reponse": "20",
+      "explication": "25% de 80 = 0,25 × 80 = 20."
+    },
+    {
+      "question": "Dans un cercle, le diamètre vaut 10 cm. Quelle est la longueur du rayon ?",
+      "options": ["5 cm", "10 cm", "15 cm", "20 cm"],
+      "reponse": "5 cm",
+      "explication": "Le rayon est la moitié du diamètre."
+    },
+    {
+      "question": "Quelle est la somme des angles dans un quadrilatère ?",
+      "options": ["360°", "180°", "90°", "270°"],
+      "reponse": "360°",
+      "explication": "La somme des angles d’un quadrilatère est 360°."
+    },
+    {
+      "question": "Que vaut la fraction 3/6 simplifiée ?",
+      "options": ["1/2", "2/3", "3/6", "1/3"],
+      "reponse": "1/2",
+      "explication": "3/6 = 1/2 après simplification par 3."
+    },
+    {
+      "question": "Quelle est la solution de l’équation 2x + 3 = 7 ?",
+      "options": ["x = 2", "x = 5", "x = 1", "x = 3"],
+      "reponse": "x = 2",
+      "explication": "2x + 3 = 7 ⇒ 2x = 4 ⇒ x = 2."
+    },
+    {
+      "question": "Quelle est la distance entre les points A(2;3) et B(5;7) ?",
+      "options": ["4", "5", "6", "7"],
+      "reponse": "5",
+      "explication": "Distance = √[(5-2)² + (7-3)²] = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "Que vaut la somme des angles d’un pentagone ?",
+      "options": ["540°", "360°", "180°", "720°"],
+      "reponse": "540°",
+      "explication": "Formule : (n - 2) × 180° = (5 - 2) × 180° = 540°."
+    },
+    {
+      "question": "Quel est le produit de 0,5 × 0,2 ?",
+      "options": ["0,1", "0,01", "0,02", "1"],
+      "reponse": "0,1",
+      "explication": "0,5 × 0,2 = 0,1."
+    },
+    {
+      "question": "Complétez : Un polygone à quatre côtés est un ___.",
+      "options": ["Triangle", "Carré", "Quadrilatère", "Pentagone"],
+      "reponse": "Quadrilatère",
+      "explication": "Un polygone à quatre côtés s'appelle un quadrilatère."
+    },
+    {
+      "question": "Quel est le résultat de (−2)² ?",
+      "options": ["-4", "4", "-2", "2"],
+      "reponse": "4",
+      "explication": "(-2)² = (-2) × (-2) = 4."
+    }
+  ]
+}

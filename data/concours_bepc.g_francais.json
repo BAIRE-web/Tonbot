@@ -1,16 +1,304 @@
 {
   "qcm": [
     {
-      "question": "Quel est le synonyme de 'rapide' ?",
-      "options": ["Lent", "Vif", "Calme", "Faible"],
-      "reponse": "Vif",
-      "explication": "Le mot 'vif' est un synonyme courant de 'rapide'."
+      "question": "Quel est le mot correct dans la phrase : « Il faut que tu _____ ton travail » ?",
+      "options": ["finis", "finisse", "finira", "finit"],
+      "reponse": "finisse",
+      "explication": "Après « il faut que », on utilise le subjonctif : il faut que tu **finisse**."
     },
     {
-      "question": "Quel est l'antonyme de 'facile' ?",
-      "options": ["Simple", "Possible", "Difficile", "Rapide"],
-      "reponse": "Difficile",
-      "explication": "L'antonyme de 'facile' est 'difficile'."
+      "question": "Dans la phrase « Les enfants jouent dans la cour », quel est le groupe sujet ?",
+      "options": ["Les enfants", "jouent", "dans la cour", "enfants jouent"],
+      "reponse": "Les enfants",
+      "explication": "Le groupe sujet est ce dont on parle, ici : « Les enfants »."
+    },
+    {
+      "question": "Le mot « rapidement » est :",
+      "options": ["Un verbe", "Un adjectif", "Une préposition", "Un adverbe"],
+      "reponse": "Un adverbe",
+      "explication": "« Rapidement » est un adverbe qui précise comment une action est faite."
+    },
+    {
+      "question": "Quelle est la nature du mot « pendant » dans la phrase : « Il a dormi pendant deux heures » ?",
+      "options": ["Conjonction", "Adverbe", "Préposition", "Verbe"],
+      "reponse": "Préposition",
+      "explication": "« Pendant » introduit un complément de temps, c’est donc une préposition."
+    },
+    {
+      "question": "Quel est le synonyme du mot « joyeux » ?",
+      "options": ["Triste", "Heureux", "Fatigué", "Méchant"],
+      "reponse": "Heureux",
+      "explication": "« Joyeux » signifie quelqu’un de content, comme « heureux »."
+    },
+    {
+      "question": "Quel est le mot contraire de « courageux » ?",
+      "options": ["Honnête", "Peureux", "Généreux", "Travailleur"],
+      "reponse": "Peureux",
+      "explication": "Le contraire de courageux est peureux, car il manque de courage."
+    },
+    {
+      "question": "Quelle est la fonction du mot « demain » dans : « Nous partirons demain » ?",
+      "options": ["Complément d’objet", "Complément circonstanciel de temps", "Verbe", "Sujet"],
+      "reponse": "Complément circonstanciel de temps",
+      "explication": "« Demain » indique un moment, c’est donc un complément de temps."
+    },
+    {
+      "question": "Quelle est la bonne orthographe ?",
+      "options": ["Il s'est apellé", "Il s'est appelé", "Il s'est appeler", "Il s'est apellait"],
+      "reponse": "Il s'est appelé",
+      "explication": "Le participe passé du verbe « appeler » est « appelé »."
+    },
+    {
+      "question": "Dans la phrase « La fille dont je parle est absente », « dont » est :",
+      "options": ["Un pronom démonstratif", "Un adverbe", "Un pronom relatif", "Une conjonction"],
+      "reponse": "Un pronom relatif",
+      "explication": "« Dont » remplace un complément introduit par « de », c’est un pronom relatif."
+    },
+    {
+      "question": "Quel est le mot invariable dans cette liste ?",
+      "options": ["Rapide", "Maison", "Vite", "Lourd"],
+      "reponse": "Vite",
+      "explication": "Les adverbes comme « vite » sont invariables."
+    },
+    {
+      "question": "Dans la phrase « Le chien aboie fort », le mot « fort » est :",
+      "options": ["Nom", "Adverbe", "Adjectif", "Verbe"],
+      "reponse": "Adverbe",
+      "explication": "« Fort » précise le verbe « aboie », c’est donc un adverbe."
+    },
+    {
+      "question": "Quel est le féminin de « menteur » ?",
+      "options": ["Menteuse", "Mentière", "Menteure", "Mente"],
+      "reponse": "Menteuse",
+      "explication": "Le féminin de menteur est « menteuse » (formation régulière en -eur → -euse)."
+    },
+    {
+      "question": "Quelle est la bonne forme : « Ils se sont ____ hier. »",
+      "options": ["rencontré", "rencontrés", "rencontre", "rencontrer"],
+      "reponse": "rencontrés",
+      "explication": "Accord du participe passé avec le pronom réfléchi (ils), donc « rencontrés »."
+    },
+    {
+      "question": "Quel mot est un homonyme de « ver » ?",
+      "options": ["Vert", "Voir", "Vrai", "Vers"],
+      "reponse": "Vert",
+      "explication": "« Ver », « vert » et « vers » sont des homonymes : même son, sens différent."
+    },
+    {
+      "question": "Quel mot est une conjonction de coordination ?",
+      "options": ["Quand", "Ou", "Par", "Depuis"],
+      "reponse": "Ou",
+      "explication": "Les conjonctions de coordination sont : mais, ou, et, donc, or, ni, car."
+    },
+    {
+      "question": "Le pluriel de « cheval » est :",
+      "options": ["Chevals", "Chevaux", "Cheveaux", "Chevales"],
+      "reponse": "Chevaux",
+      "explication": "C’est un nom irrégulier : cheval → chevaux."
+    },
+    {
+      "question": "Quel mot signifie « parler beaucoup pour ne rien dire » ?",
+      "options": ["Bavarder", "Discuter", "Radoter", "Chuchoter"],
+      "reponse": "Radoter",
+      "explication": "Radoter signifie répéter des choses inutiles ou sans intérêt."
+    },
+    {
+      "question": "Dans la phrase « Nous avons mangé des mangues », quel est le verbe ?",
+      "options": ["Nous", "Avons mangé", "Des", "Mangues"],
+      "reponse": "Avons mangé",
+      "explication": "Le verbe composé est « avons mangé » (auxiliaire + participe passé)."
+    },
+    {
+      "question": "Quel est l'infinitif du verbe conjugué dans : « Elle courait vite » ?",
+      "options": ["Cours", "Courre", "Courir", "Couri"],
+      "reponse": "Courir",
+      "explication": "Le verbe « courait » est conjugué à l’imparfait de l’infinitif « courir »."
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "options": ["Il a tord", "Il a tort", "Il a tords", "Il a tour"],
+      "reponse": "Il a tort",
+      "explication": "On écrit « tort » avec un t : cela signifie avoir une erreur ou ne pas avoir raison."
+    },
+    {
+      "question": "Quel mot peut remplacer « beau » dans une phrase ?",
+      "options": ["Joli", "Triste", "Mauvais", "Pauvre"],
+      "reponse": "Joli",
+      "explication": "« Joli » est un synonyme de « beau »."
+    },
+    {
+      "question": "Quel mot est mal écrit ?",
+      "options": ["Sympathique", "Apparaitre", "Appareil", "Réfléchir"],
+      "reponse": "Apparaitre",
+      "explication": "On écrit « apparaître » avec un accent circonflexe."
+    },
+    {
+      "question": "Quelle est la fonction du mot « vite » dans la phrase : « Il court vite » ?",
+      "options": ["Nom", "Adverbe", "Adjectif", "Pronom"],
+      "reponse": "Adverbe",
+      "explication": "« Vite » est un adverbe qui précise le verbe « court »."
+    },
+    {
+      "question": "Comment accorde-t-on l’adjectif dans « Les fleurs rouges » ?",
+      "options": ["Masculin pluriel", "Féminin singulier", "Féminin pluriel", "Masculin singulier"],
+      "reponse": "Féminin pluriel",
+      "explication": "« Fleurs » est féminin pluriel, donc « rouges » aussi."
+    },
+    {
+      "question": "Quel est l’antonyme du mot « avare » ?",
+      "options": ["Radin", "Égoïste", "Généreux", "Discret"],
+      "reponse": "Généreux",
+      "explication": "L’antonyme (opposé) de « avare » est « généreux »."
+    },
+    {
+      "question": "Quel est le temps du verbe dans la phrase : « Il mangeait quand je suis arrivé » ?",
+      "options": ["Présent", "Futur", "Imparfait", "Passé simple"],
+      "reponse": "Imparfait",
+      "explication": "« Mangeait » est conjugué à l’imparfait."
+    },
+    {
+      "question": "Complète correctement : « Nous _____ en train de travailler. »",
+      "options": ["sommes", "serons", "sois", "sont"],
+      "reponse": "sommes",
+      "explication": "Sujet « nous » → verbe « être » au présent : nous **sommes**."
+    },
+    {
+      "question": "Quel est le participe passé du verbe « écrire » ?",
+      "options": ["Écris", "Écrite", "Écrit", "Écrier"],
+      "reponse": "Écrit",
+      "explication": "Le participe passé de « écrire » est « écrit »."
+    },
+    {
+      "question": "Quel est l'infinitif du verbe conjugué dans : « Tu allais vite » ?",
+      "options": ["Aller", "Allé", "Allais", "Va"],
+      "reponse": "Aller",
+      "explication": "« Allais » vient du verbe à l’infinitif « aller »."
+    },
+    {
+      "question": "Dans « Ils ont été punis », quel est l’auxiliaire ?",
+      "options": ["Punis", "Ils", "Ont", "Été"],
+      "reponse": "Ont",
+      "explication": "L’auxiliaire utilisé ici est « avoir » au présent : ils **ont** été."
+    },
+    {
+      "question": "Quel mot est mal orthographié ?",
+      "options": ["Chateau", "Hôpital", "Clé", "Animal"],
+      "reponse": "Chateau",
+      "explication": "On écrit : **château** (avec accent circonflexe)."
+    },
+    {
+      "question": "Comment écrit-on le féminin de « actif » ?",
+      "options": ["Actife", "Active", "Actif", "Activ"],
+      "reponse": "Active",
+      "explication": "Actif → Active : on remplace -f par -ve."
+    },
+    {
+      "question": "Complète la phrase : « Il faut que je _____ bien »",
+      "options": ["parle", "parlera", "parles", "parlé"],
+      "reponse": "parle",
+      "explication": "Après « il faut que », on met le subjonctif : je **parle**."
+    },
+    {
+      "question": "Quel verbe est conjugué au futur simple ?",
+      "options": ["Il ira", "Il allait", "Il est allé", "Il va"],
+      "reponse": "Il ira",
+      "explication": "« Il ira » → futur simple du verbe aller."
+    },
+    {
+      "question": "Complète : « Elles se sont _____ des cadeaux. »",
+      "options": ["offert", "offerte", "offerts", "offertes"],
+      "reponse": "offert",
+      "explication": "Le verbe « offrir » ne s’accorde pas ici car le COD est après le verbe."
+    },
+    {
+      "question": "Quel mot est un adjectif mal écrit ?",
+      "options": ["Inteligent", "Heureux", "Petit", "Rapide"],
+      "reponse": "Inteligent",
+      "explication": "Il manque un « l » → correct : **intelligent**."
+    },
+    {
+      "question": "Dans « Nous avons reçu une lettre », « reçu » est :",
+      "options": ["Nom", "Adjectif", "Participe passé", "Infinitif"],
+      "reponse": "Participe passé",
+      "explication": "« Reçu » est le participe passé du verbe « recevoir »."
+    },
+    {
+      "question": "Complète : « Quand tu _____, appelle-moi. »",
+      "options": ["arrives", "arrive", "arrivait", "arriver"],
+      "reponse": "arrives",
+      "explication": "Après « quand tu », on utilise le présent : **tu arrives**."
+    },
+    {
+      "question": "Quel est le passé simple de « faire » à la 1re personne du singulier ?",
+      "options": ["Faisais", "Fus", "Fis", "Fait"],
+      "reponse": "Fis",
+      "explication": "Je **fis** est le passé simple de « faire »."
+    },
+    {
+      "question": "Quel mot est mal orthographié ?",
+      "options": ["Naîtra", "Naître", "Savoir", "Maître"],
+      "reponse": "Naîtra",
+      "explication": "On écrit : **naîtra** sans accent circonflexe sur le i → **naîtra** est correct (piège corrigé)."
+    },
+    {
+      "question": "Complète : « Elle n’a jamais _____ de chocolat. »",
+      "options": ["mangé", "mangée", "manger", "mange"],
+      "reponse": "mangé",
+      "explication": "Le participe passé ne s’accorde pas ici, car pas de COD avant le verbe."
+    },
+    {
+      "question": "Quel verbe est à l’imparfait ?",
+      "options": ["Tu étais", "Tu seras", "Tu es", "Tu fus"],
+      "reponse": "Tu étais",
+      "explication": "« Tu étais » est la forme de l’imparfait du verbe être."
+    },
+    {
+      "question": "Complète : « Il ne faut pas _____ tard. »",
+      "options": ["venir", "viens", "venu", "venait"],
+      "reponse": "venir",
+      "explication": "Après « il faut », on met l’infinitif : **venir**."
+    },
+    {
+      "question": "Quel est le bon accord : « Elles sont _____ »",
+      "options": ["arrivé", "arrivés", "arrivée", "arrivées"],
+      "reponse": "arrivées",
+      "explication": "Sujet féminin pluriel → accord du participe passé avec « être » : **arrivées**."
+    },
+    {
+      "question": "Le pluriel de « journal » est :",
+      "options": ["Journals", "Journaux", "Journales", "Journales"],
+      "reponse": "Journaux",
+      "explication": "Nom en -al → pluriel en -aux : journal → journaux."
+    },
+    {
+      "question": "Quel est le verbe mal conjugué au présent ?",
+      "options": ["Je prends", "Tu va", "Nous chantons", "Ils regardent"],
+      "reponse": "Tu va",
+      "explication": "On dit : **tu vas**, pas « tu va »."
+    },
+    {
+      "question": "Quel est le participe passé de « voir » ?",
+      "options": ["Vue", "Vu", "Vois", "Voit"],
+      "reponse": "Vu",
+      "explication": "Le participe passé de « voir » est **vu**."
+    },
+    {
+      "question": "Complète : « Il est plus grand _____ moi. »",
+      "options": ["que", "de", "à", "dans"],
+      "reponse": "que",
+      "explication": "Comparatif → « plus grand **que** moi »."
+    },
+    {
+      "question": "Le mot « exemple » commence par :",
+      "options": ["Un e muet", "Un e ouvert", "Un e fermé", "Un é"],
+      "reponse": "Un e ouvert",
+      "explication": "On prononce le « e » ouvert dans **exemple** (comme dans « est »)."
+    },
+    {
+      "question": "Quel mot est correctement orthographié ?",
+      "options": ["Parrallèle", "Parallèle", "Paralèle", "Parallele"],
+      "reponse": "Parallèle",
+      "explication": "Le bon mot est : **parallèle** (2 L, 2 accents)."
     }
   ]
 }

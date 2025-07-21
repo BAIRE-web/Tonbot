@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Dans le théorème de Thalès, les droites doivent être :",
+      "options": ["Parallèles", "Perpendiculaires", "Concourantes", "Sécantes"],
+      "reponse": "Parallèles",
+      "explication": "Le théorème de Thalès s’applique lorsque des droites sont parallèles."
+    },
+    {
+      "question": "Le théorème de Thalès permet de calculer :",
+      "options": ["Des longueurs proportionnelles", "Des angles", "Des aires", "Des volumes"],
+      "reponse": "Des longueurs proportionnelles",
+      "explication": "Il établit des égalités de rapports entre segments."
+    },
+    {
+      "question": "Si deux droites parallèles coupent deux droites sécantes, alors :",
+      "options": ["Les segments correspondants sont proportionnels", "Les angles sont égaux", "Les droites sont perpendiculaires", "Les triangles sont équilatéraux"],
+      "reponse": "Les segments correspondants sont proportionnels",
+      "explication": "C’est la base du théorème de Thalès."
+    },
+    {
+      "question": "Dans un triangle ABC, une droite parallèle à (BC) coupe (AB) en M et (AC) en N. Quel est le rapport égal ?",
+      "options": ["AM/AB = AN/AC", "AM/MB = AN/NC", "AB/AC = AM/AN", "AM/AN = AB/AC"],
+      "reponse": "AM/AB = AN/AC",
+      "explication": "Les segments sont proportionnels selon le théorème."
+    },
+    {
+      "question": "Le théorème de Thalès est une propriété de :",
+      "options": ["Proportionnalité", "Symétrie", "Congruence", "Équidistance"],
+      "reponse": "Proportionnalité",
+      "explication": "Il établit une relation de proportionnalité entre segments."
+    },
+    {
+      "question": "Quel est l’énoncé correct de la réciproque du théorème de Thalès ?",
+      "options": ["Si des rapports de segments sont égaux, alors les droites sont parallèles", "Si des angles sont égaux, alors les segments sont proportionnels", "Si deux droites sont parallèles, alors elles sont égales", "Si deux droites sont perpendiculaires, alors les segments sont égaux"],
+      "reponse": "Si des rapports de segments sont égaux, alors les droites sont parallèles",
+      "explication": "La réciproque permet de démontrer le parallélisme."
+    },
+    {
+      "question": "Dans un triangle ABC, M est un point de (AB) et N un point de (AC). Si (MN) est parallèle à (BC), alors :",
+      "options": ["AM/AB = AN/AC", "AB/AM = AC/AN", "AM/AN = AB/AC", "AM + AN = AB + AC"],
+      "reponse": "AM/AB = AN/AC",
+      "explication": "Les longueurs sont proportionnelles."
+    },
+    {
+      "question": "Les longueurs AM, MB, AN, NC vérifient dans le théorème de Thalès :",
+      "options": ["AM/AB = AN/AC", "MB/AB = NC/AC", "AM/MB = AN/NC", "AM × MB = AN × NC"],
+      "reponse": "AM/AB = AN/AC",
+      "explication": "C’est la relation clé du théorème."
+    },
+    {
+      "question": "Si AM = 3 cm, AB = 6 cm, AN = 4 cm, AC = 8 cm, alors (MN) est :",
+      "options": ["Parallèle à (BC)", "Perpendiculaire à (BC)", "Égale à (BC)", "Sécante à (BC)"],
+      "reponse": "Parallèle à (BC)",
+      "explication": "Car AM/AB = AN/AC = 1/2, donc (MN)//(BC)."
+    },
+    {
+      "question": "Si (MN)//(BC) dans un triangle ABC, la relation entre les segments est :",
+      "options": ["AM/AB = AN/AC", "AM + MB = AN + NC", "AM × AN = MB × NC", "AM/MB = AN/NC"],
+      "reponse": "AM/AB = AN/AC",
+      "explication": "C’est la propriété de proportionnalité."
+    },
+    {
+      "question": "Le théorème de Thalès est utilisé pour :",
+      "options": ["Calculer une longueur inconnue", "Calculer une aire", "Mesurer un angle", "Trouver un volume"],
+      "reponse": "Calculer une longueur inconnue",
+      "explication": "Il permet de trouver des longueurs proportionnelles."
+    },
+    {
+      "question": "Si (MN)//(BC) et AM = 2 cm, AB = 5 cm, AN = 3 cm, AC = x, quelle est la valeur de x ?",
+      "options": ["7.5 cm", "8 cm", "6 cm", "5 cm"],
+      "reponse": "7.5 cm",
+      "explication": "On applique AM/AB = AN/AC donc 2/5 = 3/x donc x = (3 × 5)/2 = 7.5 cm."
+    },
+    {
+      "question": "La condition pour appliquer le théorème de Thalès est que :",
+      "options": ["Les droites soient parallèles", "Les droites soient perpendiculaires", "Les angles soient égaux", "Les côtés soient égaux"],
+      "reponse": "Les droites soient parallèles",
+      "explication": "C’est la condition principale."
+    },
+    {
+      "question": "Dans la configuration du théorème de Thalès, si AM = 4 cm, AB = 8 cm, AN = 6 cm, AC = 12 cm, (MN) est :",
+      "options": ["Parallèle à (BC)", "Perpendiculaire à (BC)", "Sécante à (BC)", "Non parallèle"],
+      "reponse": "Parallèle à (BC)",
+      "explication": "Car AM/AB = AN/AC = 1/2."
+    },
+    {
+      "question": "Si AM/AB ≠ AN/AC dans un triangle, alors (MN) est :",
+      "options": ["Non parallèle à (BC)", "Parallèle à (BC)", "Égale à (BC)", "Perpendiculaire à (BC)"],
+      "reponse": "Non parallèle à (BC)",
+      "explication": "La proportionnalité n’est pas respectée."
+    },
+    {
+      "question": "On peut utiliser le théorème de Thalès pour :",
+      "options": ["Calculer la hauteur d’un arbre", "Calculer un volume", "Calculer un angle", "Déterminer un poids"],
+      "reponse": "Calculer la hauteur d’un arbre",
+      "explication": "Par exemple via des triangles semblables et proportions."
+    },
+    {
+      "question": "Les triangles obtenus par la hauteur issue d’un sommet dans un triangle rectangle sont :",
+      "options": ["Similaires", "Isométriques", "Équilatéraux", "Scalènes"],
+      "reponse": "Similaires",
+      "explication": "Ils ont les mêmes angles."
+    },
+    {
+      "question": "Dans un triangle, pour appliquer le théorème de Thalès, il faut que :",
+      "options": ["Les droites soient parallèles et les points alignés", "Les angles soient droits", "Les côtés soient égaux", "Les droites soient perpendiculaires"],
+      "reponse": "Les droites soient parallèles et les points alignés",
+      "explication": "C’est une condition du théorème."
+    },
+    {
+      "question": "Si AM = 5 cm, AB = 15 cm, AN = 4 cm, AC = 12 cm, alors (MN) est :",
+      "options": ["Parallèle à (BC)", "Non parallèle", "Perpendiculaire", "Sécante"],
+      "reponse": "Parallèle à (BC)",
+      "explication": "Car 5/15 = 4/12 = 1/3."
+    },
+    {
+      "question": "Quelle formule exprime la proportionnalité dans Thalès ?",
+      "options": ["AM/AB = AN/AC = MN/BC", "AM + AB = AN + AC", "AM × AB = AN × AC", "AM - AB = AN - AC"],
+      "reponse": "AM/AB = AN/AC = MN/BC",
+      "explication": "Les rapports entre segments sont égaux."
+    },
+    {
+      "question": "Le théorème de Thalès s’applique-t-il dans un triangle équilatéral ?",
+      "options": ["Oui", "Non", "Seulement si les droites sont parallèles", "Seulement si les côtés sont égaux"],
+      "reponse": "Seulement si les droites sont parallèles",
+      "explication": "Le théorème nécessite des droites parallèles."
+    },
+    {
+      "question": "Dans un triangle, on sait que AM = 3 cm, AB = 9 cm, AN = 5 cm, AC = 15 cm. (MN) est-il parallèle à (BC) ?",
+      "options": ["Oui", "Non", "Impossible", "Seulement si MN = BC"],
+      "reponse": "Oui",
+      "explication": "Car 3/9 = 5/15 = 1/3."
+    },
+    {
+      "question": "Le théorème de Thalès est une propriété de :",
+      "options": ["Triangles semblables", "Triangles rectangles", "Triangles isocèles", "Triangles équilatéraux"],
+      "reponse": "Triangles semblables",
+      "explication": "Les triangles formés sont semblables."
+    },
+    {
+      "question": "En géométrie, les droites parallèles coupant des segments proportionnels indiquent :",
+      "options": ["Une application du théorème de Thalès", "Une application du théorème de Pythagore", "Une propriété des angles droits", "Une propriété des cercles"],
+      "reponse": "Une application du théorème de Thalès",
+      "explication": "C’est l’essence du théorème."
+    },
+    {
+      "question": "Pour que le théorème de Thalès s’applique, il faut que :",
+      "options": ["Les points soient alignés", "Les angles soient droits", "Les triangles soient isocèles", "Les segments soient égaux"],
+      "reponse": "Les points soient alignés",
+      "explication": "Les points doivent être alignés sur les droites sécantes."
+    },
+    {
+      "question": "Si (MN)//(BC), alors le rapport AM/AB est égal à :",
+      "options": ["AN/AC", "MB/AB", "NC/AC", "MN/BC"],
+      "reponse": "AN/AC",
+      "explication": "C’est la relation fondamentale du théorème."
+    },
+    {
+      "question": "On utilise le théorème de Thalès pour :",
+      "options": ["Trouver la longueur d’un segment inconnu", "Calculer un angle", "Mesurer un périmètre", "Calculer un volume"],
+      "reponse": "Trouver la longueur d’un segment inconnu",
+      "explication": "Grâce à la proportionnalité."
+    },
+    {
+      "question": "Les rapports de longueurs dans le théorème de Thalès sont :",
+      "options": ["Égaux", "Inégaux", "Nuls", "Différents"],
+      "reponse": "Égaux",
+      "explication": "Les rapports sont égaux."
+    },
+    {
+      "question": "Dans un triangle, si les droites ne sont pas parallèles, le théorème de Thalès :",
+      "options": ["Ne s’applique pas", "S’applique toujours", "S’applique parfois", "S’applique aux angles uniquement"],
+      "reponse": "Ne s’applique pas",
+      "explication": "La condition de parallélisme est obligatoire."
+    },
+    {
+      "question": "Dans un triangle ABC, une droite (MN) parallèle à (BC) coupe (AB) en M et (AC) en N. Si AM = 3 cm, AB = 6 cm, AN = 4 cm, calcule AC.",
+      "options": ["8 cm", "6 cm", "7 cm", "5 cm"],
+      "reponse": "8 cm",
+      "explication": "AM/AB = AN/AC donc 3/6 = 4/AC, AC = (4 × 6)/3 = 8 cm."
+    },
+    {
+      "question": "Si (MN) est parallèle à (BC) dans un triangle ABC, AM = 5 cm, AB = 10 cm, AN = 6 cm, AC = 12 cm, quelle est la valeur de MN par rapport à BC ?",
+      "options": ["MN = (AM/AB) × BC", "MN = BC", "MN = (AB/AM) × BC", "MN = (AN/AC) × BC"],
+      "reponse": "MN = (AM/AB) × BC",
+      "explication": "MN est proportionnel à BC selon le rapport AM/AB."
+    },
+    {
+      "question": "Dans un triangle, AM = 4 cm, MB = 6 cm, AN = 5 cm, NC = 7.5 cm. Les droites (MN) et (BC) sont-elles parallèles ?",
+      "options": ["Oui", "Non", "Impossible de savoir", "Seulement si MN = BC"],
+      "reponse": "Oui",
+      "explication": "Car AM/AB = 4/(4+6) = 0.4 et AN/AC = 5/(5+7.5) = 0.4 donc parallèles."
+    },
+    {
+      "question": "Dans un triangle ABC, (MN)//(BC), AM = 6 cm, AB = 15 cm, AN = 8 cm, AC = x cm. Trouve x.",
+      "options": ["20 cm", "18 cm", "22 cm", "24 cm"],
+      "reponse": "20 cm",
+      "explication": "AM/AB = AN/AC donc 6/15 = 8/x donc x = (8 × 15)/6 = 20 cm."
+    },
+    {
+      "question": "Soit un triangle ABC où (MN)//(BC), AM = 2 cm, AB = 5 cm, AN = 3 cm, AC = 7 cm. Les droites sont-elles parallèles ?",
+      "options": ["Non", "Oui", "Impossible", "Seulement si MN = BC"],
+      "reponse": "Non",
+      "explication": "Car AM/AB = 2/5 = 0.4 mais AN/AC = 3/7 ≈ 0.43, pas égal."
+    },
+    {
+      "question": "Si AM = 3 cm, AB = 9 cm, AN = 5 cm, AC = 15 cm, calcule la longueur MN sachant que BC = 20 cm.",
+      "options": ["6.67 cm", "7 cm", "8 cm", "10 cm"],
+      "reponse": "6.67 cm",
+      "explication": "MN = (AM/AB) × BC = (3/9) × 20 = 6.67 cm."
+    },
+    {
+      "question": "Dans un triangle ABC, (MN)//(BC). Si AM = 7 cm, AB = 14 cm, AN = 9 cm, AC = 18 cm, trouve MN si BC = 24 cm.",
+      "options": ["12 cm", "14 cm", "15 cm", "18 cm"],
+      "reponse": "12 cm",
+      "explication": "MN = (AM/AB) × BC = (7/14) × 24 = 12 cm."
+    },
+    {
+      "question": "Vrai ou faux ? Si (MN)//(BC), alors AM/AB = AN/AC = MN/BC.",
+      "options": ["Vrai", "Faux"],
+      "reponse": "Vrai",
+      "explication": "C’est la relation fondamentale du théorème de Thalès."
+    },
+    {
+      "question": "Dans un triangle ABC, (MN)//(BC), AM = 5 cm, AB = 20 cm, AN = 6 cm, AC = x. Calcule x.",
+      "options": ["24 cm", "25 cm", "20 cm", "22 cm"],
+      "reponse": "24 cm",
+      "explication": "AM/AB = AN/AC donc 5/20 = 6/x donc x = (6 × 20)/5 = 24 cm."
+    },
+    {
+      "question": "Si AM = 4 cm, AB = 8 cm, AN = 3 cm, AC = 6 cm, alors (MN)//(BC) ?",
+      "options": ["Oui", "Non"],
+      "reponse": "Oui",
+      "explication": "4/8 = 0.5 et 3/6 = 0.5, donc oui."
+    },
+    {
+      "question": "Dans un triangle ABC, si (MN)//(BC), que vaut le rapport MN/BC sachant AM = 3 cm et AB = 9 cm ?",
+      "options": ["1/3", "3", "9", "6"],
+      "reponse": "1/3",
+      "explication": "MN/BC = AM/AB = 3/9 = 1/3."
+    },
+    {
+      "question": "Si AM = 6 cm, MB = 4 cm, AN = 9 cm, NC = 6 cm, les droites (MN) et (BC) sont-elles parallèles ?",
+      "options": ["Oui", "Non"],
+      "reponse": "Oui",
+      "explication": "AM/AB = 6/(6+4) = 0.6 et AN/AC = 9/(9+6) = 0.6, donc oui."
+    },
+    {
+      "question": "Si AM = 7 cm, AB = 14 cm, AN = 10 cm, AC = 20 cm, calcule MN sachant BC = 28 cm.",
+      "options": ["14 cm", "13 cm", "15 cm", "16 cm"],
+      "reponse": "14 cm",
+      "explication": "MN = (AM/AB) × BC = (7/14) × 28 = 14 cm."
+    },
+    {
+      "question": "Si AM = 2 cm, AB = 6 cm, AN = 3 cm, AC = 9 cm, (MN)//(BC) ?",
+      "options": ["Oui", "Non"],
+      "reponse": "Oui",
+      "explication": "2/6 = 1/3 et 3/9 = 1/3."
+    },
+    {
+      "question": "Dans un triangle, AM = 5 cm, MB = 10 cm, AN = 6 cm, NC = 12 cm. Les droites (MN) et (BC) sont-elles parallèles ?",
+      "options": ["Oui", "Non"],
+      "reponse": "Oui",
+      "explication": "AM/AB = 5/15 = 1/3 et AN/AC = 6/18 = 1/3."
+    },
+    {
+      "question": "Si AM = 8 cm, AB = 16 cm, AN = 12 cm, AC = 24 cm, quelle est la longueur de MN si BC = 30 cm ?",
+      "options": ["15 cm", "14 cm", "16 cm", "18 cm"],
+      "reponse": "15 cm",
+      "explication": "MN = (AM/AB) × BC = (8/16) × 30 = 15 cm."
+    },
+    {
+      "question": "Dans un triangle ABC, M et N sont tels que (MN)//(BC). AM = 3 cm, AB = 9 cm, AN = 5 cm, AC = 15 cm. Calcule la valeur de MN si BC = 21 cm.",
+      "options": ["7 cm", "8 cm", "9 cm", "10 cm"],
+      "reponse": "7 cm",
+      "explication": "MN = (AM/AB) × BC = (3/9) × 21 = 7 cm."
+    },
+    {
+      "question": "Si AM = 1 cm, AB = 3 cm, AN = 2 cm, AC = 6 cm, les droites (MN) et (BC) sont-elles parallèles ?",
+      "options": ["Oui", "Non"],
+      "reponse": "Oui",
+      "explication": "1/3 = 2/6 = 1/3, donc oui."
+    },
+    {
+      "question": "Dans un triangle, AM = 4 cm, MB = 8 cm, AN = 5 cm, NC = 10 cm. Les droites (MN) et (BC) sont-elles parallèles ?",
+      "options": ["Oui", "Non"],
+      "reponse": "Oui",
+      "explication": "AM/AB = 4/12 = 1/3 et AN/AC = 5/15 = 1/3."
+    },
+    {
+      "question": "Si dans un triangle ABC, (MN)//(BC), AM = 2 cm, AB = 8 cm, AN = 5 cm, AC = x cm. Trouve x.",
+      "options": ["20 cm", "18 cm", "15 cm", "16 cm"],
+      "reponse": "20 cm",
+      "explication": "AM/AB = AN/AC donc 2/8 = 5/x donc x = (5 × 8)/2 = 20 cm."
+    }
+  ]
+}

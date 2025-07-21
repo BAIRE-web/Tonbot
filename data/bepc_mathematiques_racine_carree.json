@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Qu'est-ce qu'une racine carrée ?",
+      "options": ["Un carré d’un nombre", "Un nombre divisé par 2", "Un nombre qui multiplié par lui-même donne un autre nombre", "Un exposant négatif"],
+      "reponse": "Un nombre qui multiplié par lui-même donne un autre nombre",
+      "explication": "La racine carrée d’un nombre positif est un nombre qui, multiplié par lui-même, donne ce nombre. Exemple : √25 = 5 car 5 × 5 = 25."
+    },
+    {
+      "question": "Quelle est la racine carrée de 144 ?",
+      "options": ["11", "12", "13", "14"],
+      "reponse": "12",
+      "explication": "12 × 12 = 144 donc √144 = 12."
+    },
+    {
+      "question": "√81 est égal à :",
+      "options": ["9", "8", "7", "6"],
+      "reponse": "9",
+      "explication": "9 × 9 = 81 donc √81 = 9."
+    },
+    {
+      "question": "La racine carrée de 0 est :",
+      "options": ["0", "1", "Impossible", "2"],
+      "reponse": "0",
+      "explication": "0 × 0 = 0 donc √0 = 0."
+    },
+    {
+      "question": "Parmi les expressions suivantes, laquelle est exacte ?",
+      "options": ["√9 = 4", "√100 = 20", "√36 = 6", "√49 = 8"],
+      "reponse": "√36 = 6",
+      "explication": "6 × 6 = 36 donc √36 = 6."
+    },
+    {
+      "question": "Quelle est la racine carrée de 169 ?",
+      "options": ["13", "14", "12", "11"],
+      "reponse": "13",
+      "explication": "13 × 13 = 169 donc √169 = 13."
+    },
+    {
+      "question": "√(4 × 25) est égal à :",
+      "options": ["5", "10", "20", "100"],
+      "reponse": "10",
+      "explication": "4 × 25 = 100 donc √100 = 10."
+    },
+    {
+      "question": "√(64 ÷ 4) est égal à :",
+      "options": ["2", "4", "6", "8"],
+      "reponse": "4",
+      "explication": "64 ÷ 4 = 16, donc √16 = 4."
+    },
+    {
+      "question": "Quelle est la forme simplifiée de √50 ?",
+      "options": ["5√2", "10", "√25", "25√2"],
+      "reponse": "5√2",
+      "explication": "50 = 25 × 2, donc √50 = √(25×2) = √25 × √2 = 5√2."
+    },
+    {
+      "question": "La racine carrée d’un nombre négatif est :",
+      "options": ["Positif", "Zéro", "Négatif", "Inexistante en mathématiques usuelles"],
+      "reponse": "Inexistante en mathématiques usuelles",
+      "explication": "Dans R, les racines carrées de nombres négatifs n’existent pas."
+    },
+    {
+      "question": "Quelle est la racine carrée de 225 ?",
+      "options": ["14", "15", "16", "17"],
+      "reponse": "15",
+      "explication": "15 × 15 = 225 donc √225 = 15."
+    },
+    {
+      "question": "Quelle est la forme simplifiée de √18 ?",
+      "options": ["3√2", "2√3", "√9", "9√2"],
+      "reponse": "3√2",
+      "explication": "18 = 9 × 2 donc √18 = √9 × √2 = 3√2."
+    },
+    {
+      "question": "Quel est le résultat de √2 × √8 ?",
+      "options": ["2√2", "4", "√16", "√10"],
+      "reponse": "4",
+      "explication": "√2 × √8 = √(2×8) = √16 = 4."
+    },
+    {
+      "question": "Quelle est l’aire d’un carré de côté 7 cm ?",
+      "options": ["49 cm²", "14 cm²", "28 cm²", "7 cm²"],
+      "reponse": "49 cm²",
+      "explication": "Aire = côté × côté = 7 × 7 = 49 cm²."
+    },
+    {
+      "question": "Le périmètre d’un carré est 36 cm. Quelle est la longueur d’un côté ?",
+      "options": ["6 cm", "9 cm", "12 cm", "18 cm"],
+      "reponse": "9 cm",
+      "explication": "P = 4 × côté → côté = 36 ÷ 4 = 9 cm."
+    },
+    {
+      "question": "√(a²) est égal à :",
+      "options": ["a", "a²", "2a", "|a|"],
+      "reponse": "|a|",
+      "explication": "Par définition, √(a²) = |a| (valeur absolue de a)."
+    },
+    {
+      "question": "Quelle est la racine carrée de 0,25 ?",
+      "options": ["0,2", "0,25", "0,5", "1"],
+      "reponse": "0,5",
+      "explication": "0,5 × 0,5 = 0,25 donc √0,25 = 0,5."
+    },
+    {
+      "question": "√121 est égal à :",
+      "options": ["10", "11", "12", "13"],
+      "reponse": "11",
+      "explication": "11 × 11 = 121 donc √121 = 11."
+    },
+    {
+      "question": "√1 est égal à :",
+      "options": ["1", "0", "-1", "2"],
+      "reponse": "1",
+      "explication": "1 × 1 = 1 donc √1 = 1."
+    },
+    {
+      "question": "Si x² = 81, alors x = ?",
+      "options": ["9", "±9", "-9", "8"],
+      "reponse": "±9",
+      "explication": "x² = 81 donc x = ±√81 = ±9."
+    },
+    {
+      "question": "Quelle est la valeur de √(36 + 64) ?",
+      "options": ["10", "9", "12", "11"],
+      "reponse": "10",
+      "explication": "36 + 64 = 100 donc √100 = 10."
+    },
+    {
+      "question": "Quelle est la racine carrée de 1/4 ?",
+      "options": ["1/2", "1/4", "2", "1"],
+      "reponse": "1/2",
+      "explication": "√(1/4) = √1 ÷ √4 = 1 ÷ 2 = 1/2."
+    },
+    {
+      "question": "Si √x = 6 alors x = ?",
+      "options": ["36", "12", "6", "18"],
+      "reponse": "36",
+      "explication": "√x = 6 donc x = 6² = 36."
+    },
+    {
+      "question": "Quelle est la forme simplifiée de √72 ?",
+      "options": ["6√2", "3√2", "2√6", "√36"],
+      "reponse": "6√2",
+      "explication": "72 = 36 × 2 donc √72 = √36 × √2 = 6√2."
+    },
+    {
+      "question": "√(x² + y²) est la formule de :",
+      "options": ["Aire d’un rectangle", "Distance entre deux points", "Théorème de Pythagore", "Périmètre d’un carré"],
+      "reponse": "Théorème de Pythagore",
+      "explication": "√(x² + y²) est la distance entre deux points dans un plan orthonormé, dérivé du théorème de Pythagore."
+    },
+    {
+      "question": "Quelle est la racine carrée de 1024 ?",
+      "options": ["31", "32", "33", "34"],
+      "reponse": "32",
+      "explication": "32 × 32 = 1024 donc √1024 = 32."
+    },
+    {
+      "question": "Si √x = 3, quelle est la valeur de x ?",
+      "options": ["6", "9", "12", "3"],
+      "reponse": "9",
+      "explication": "√x = 3 donc x = 3² = 9."
+    },
+    {
+      "question": "√0,01 est égal à :",
+      "options": ["0,001", "0,1", "0,01", "1"],
+      "reponse": "0,1",
+      "explication": "0,1 × 0,1 = 0,01 donc √0,01 = 0,1."
+    },
+    {
+      "question": "Simplifie : √(9 × 4 × 2)",
+      "options": ["6√2", "12", "3√2", "18√2"],
+      "reponse": "6√2",
+      "explication": "9 × 4 × 2 = 72, √72 = √(36×2) = 6√2."
+    },
+    {
+      "question": "Quelle est la racine carrée de 900 ?",
+      "options": ["30", "45", "25", "35"],
+      "reponse": "30",
+      "explication": "30 × 30 = 900 donc √900 = 30."
+    },
+    {
+      "question": "Laquelle est plus grande : √50 ou √36 ?",
+      "options": ["√36", "√50", "Elles sont égales", "Impossible de comparer"],
+      "reponse": "√50",
+      "explication": "√36 = 6 et √50 ≈ 7,07 donc √50 > √36."
+    },
+    {
+      "question": "Quelle est la valeur de √81 + √16 ?",
+      "options": ["20", "17", "14", "13"],
+      "reponse": "13",
+      "explication": "√81 = 9 et √16 = 4 donc 9 + 4 = 13."
+    },
+    {
+      "question": "Quel est le résultat de √100 − √49 ?",
+      "options": ["1", "2", "3", "4"],
+      "reponse": "1",
+      "explication": "√100 = 10 et √49 = 9 donc 10 - 9 = 1."
+    },
+    {
+      "question": "Quelle est la valeur de √36 × √4 ?",
+      "options": ["24", "12", "6", "9"],
+      "reponse": "12",
+      "explication": "√36 = 6, √4 = 2, donc 6 × 2 = 12."
+    },
+    {
+      "question": "Simplifie √(16 × 9)",
+      "options": ["4√3", "6√2", "12", "36"],
+      "reponse": "12",
+      "explication": "16 × 9 = 144, donc √144 = 12."
+    },
+    {
+      "question": "Entre √2 et 1,5 lequel est le plus grand ?",
+      "options": ["√2", "1,5", "Égal", "Incomparable"],
+      "reponse": "√2",
+      "explication": "√2 ≈ 1,414, donc 1,5 > √2."
+    },
+    {
+      "question": "√25 + √49 est égal à :",
+      "options": ["11", "12", "13", "14"],
+      "reponse": "12",
+      "explication": "√25 = 5, √49 = 7, donc 5 + 7 = 12."
+    },
+    {
+      "question": "Quelle est la forme simplifiée de √200 ?",
+      "options": ["10√2", "5√2", "20", "√100"],
+      "reponse": "10√2",
+      "explication": "200 = 100 × 2, donc √200 = √100 × √2 = 10√2."
+    },
+    {
+      "question": "√64 × √1 est égal à :",
+      "options": ["8", "0", "1", "64"],
+      "reponse": "8",
+      "explication": "√64 = 8 et √1 = 1, donc 8 × 1 = 8."
+    },
+    {
+      "question": "√0,09 est égal à :",
+      "options": ["0,03", "0,3", "0,9", "0,09"],
+      "reponse": "0,3",
+      "explication": "0,3 × 0,3 = 0,09 donc √0,09 = 0,3."
+    },
+    {
+      "question": "√(81 + 19) est égal à :",
+      "options": ["√100", "√90", "√82", "√81"],
+      "reponse": "√100",
+      "explication": "81 + 19 = 100, donc √100 = 10."
+    },
+    {
+      "question": "Quelle est la valeur approchée de √2 au centième près ?",
+      "options": ["1,40", "1,41", "1,42", "1,44"],
+      "reponse": "1,41",
+      "explication": "√2 ≈ 1,414 → arrondi au centième : 1,41."
+    },
+    {
+      "question": "Si x = √49, alors x² = ?",
+      "options": ["7", "14", "49", "343"],
+      "reponse": "49",
+      "explication": "√49 = 7 donc x = 7, et x² = 7² = 49."
+    },
+    {
+      "question": "√(36 + 64) − √25 = ?",
+      "options": ["7", "8", "9", "6"],
+      "reponse": "7",
+      "explication": "36 + 64 = 100 → √100 = 10 ; √25 = 5 ; 10 − 5 = 5."
+    },
+    {
+      "question": "√16 + √0,25 = ?",
+      "options": ["4,5", "5", "4,25", "3,25"],
+      "reponse": "4,5",
+      "explication": "√16 = 4 et √0,25 = 0,5 donc 4 + 0,5 = 4,5."
+    },
+    {
+      "question": "Laquelle est plus petite : √121 ou √100 ?",
+      "options": ["√100", "√121", "Égal", "Incomparable"],
+      "reponse": "√100",
+      "explication": "√100 = 10 et √121 = 11 donc √100 < √121."
+    },
+    {
+      "question": "Quelle est la racine carrée de 2² + 3² ?",
+      "options": ["5", "13", "√13", "√9"],
+      "reponse": "√13",
+      "explication": "2² = 4, 3² = 9 donc 4 + 9 = 13 donc √13."
+    },
+    {
+      "question": "Quelle est la valeur de √(81) ÷ √9 ?",
+      "options": ["3", "6", "9", "√9"],
+      "reponse": "3",
+      "explication": "√81 = 9 et √9 = 3, donc 9 ÷ 3 = 3."
+    },
+    {
+      "question": "√400 + √16 = ?",
+      "options": ["26", "20", "36", "24"],
+      "reponse": "26",
+      "explication": "√400 = 20, √16 = 6 → 20 + 6 = 26."
+    },
+    {
+      "question": "√36 − √16 + √25 = ?",
+      "options": ["7", "10", "9", "11"],
+      "reponse": "9",
+      "explication": "√36 = 6, √16 = 4, √25 = 5 → 6 − 4 + 5 = 7."
+    }
+  ]
+}

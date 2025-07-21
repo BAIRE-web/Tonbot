@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Quel organe est principalement responsable de la respiration chez l’homme ?",
+      "options": ["Le cœur", "Le foie", "Les poumons", "Le diaphragme"],
+      "reponse": "Les poumons",
+      "explication": "Les poumons assurent les échanges gazeux entre l'air inspiré et le sang."
+    },
+    {
+      "question": "Comment s’appelle le mouvement qui permet à l’air d’entrer dans les poumons ?",
+      "options": ["Expiration", "Inspiration", "Transpiration", "Ventilation"],
+      "reponse": "Inspiration",
+      "explication": "L'inspiration est le mouvement qui fait entrer l'air dans les poumons."
+    },
+    {
+      "question": "Quel est le rôle principal du cœur ?",
+      "options": ["Filtrer le sang", "Pomper le sang dans tout le corps", "Produire de l'oxygène", "Stocker le sang"],
+      "reponse": "Pomper le sang dans tout le corps",
+      "explication": "Le cœur agit comme une pompe qui propulse le sang dans l’ensemble de l’organisme."
+    },
+    {
+      "question": "Le sang riche en oxygène est appelé :",
+      "options": ["Sang veineux", "Sang désoxygéné", "Sang artériel", "Plasma"],
+      "reponse": "Sang artériel",
+      "explication": "Le sang artériel est riche en oxygène et circule principalement dans les artères."
+    },
+    {
+      "question": "Où se font les échanges gazeux dans les poumons ?",
+      "options": ["Bronches", "Alvéoles pulmonaires", "Trachée", "Bronchioles"],
+      "reponse": "Alvéoles pulmonaires",
+      "explication": "Les alvéoles sont de petits sacs où se produisent les échanges d’oxygène et de dioxyde de carbone."
+    },
+    {
+      "question": "Quelle est la principale fonction de l’estomac ?",
+      "options": ["Absorber les nutriments", "Digérer les aliments", "Filtrer le sang", "Produire l'urine"],
+      "reponse": "Digérer les aliments",
+      "explication": "L’estomac est une poche qui digère les aliments à l’aide de sucs gastriques."
+    },
+    {
+      "question": "Quelle est la fonction principale de l’intestin grêle ?",
+      "options": ["Digestion", "Filtration", "Absorption des nutriments", "Excrétion"],
+      "reponse": "Absorption des nutriments",
+      "explication": "C’est dans l’intestin grêle que les nutriments sont absorbés dans le sang."
+    },
+    {
+      "question": "Quel est l’organe qui fabrique l’urine ?",
+      "options": ["La vessie", "Le foie", "Le rein", "L’intestin"],
+      "reponse": "Le rein",
+      "explication": "Les reins filtrent le sang et produisent l’urine."
+    },
+    {
+      "question": "Quelle est la cellule reproductrice mâle ?",
+      "options": ["L’ovule", "Le zygote", "Le spermatozoïde", "Le gamète femelle"],
+      "reponse": "Le spermatozoïde",
+      "explication": "Le spermatozoïde est la cellule reproductrice de l’homme."
+    },
+    {
+      "question": "Qu’est-ce qu’un gène ?",
+      "options": ["Une cellule", "Une molécule de sang", "Un morceau d’ADN", "Une bactérie"],
+      "reponse": "Un morceau d’ADN",
+      "explication": "Un gène est une portion d’ADN contenant l’information génétique."
+    },
+    {
+      "question": "Comment se nomme l’union entre un spermatozoïde et un ovule ?",
+      "options": ["Ovulation", "Fécondation", "Implantation", "Mutation"],
+      "reponse": "Fécondation",
+      "explication": "La fécondation est la rencontre entre le spermatozoïde et l’ovule."
+    },
+    {
+      "question": "Quel est le rôle du placenta ?",
+      "options": ["Former les muscles", "Protéger le cerveau", "Nourrir le fœtus", "Fabriquer l’urine"],
+      "reponse": "Nourrir le fœtus",
+      "explication": "Le placenta assure les échanges entre la mère et le fœtus."
+    },
+    {
+      "question": "Quel est le rôle des globules rouges ?",
+      "options": ["Combattre les microbes", "Transporter l’oxygène", "Produire du sang", "Filtrer le sang"],
+      "reponse": "Transporter l’oxygène",
+      "explication": "Les globules rouges transportent l’oxygène dans l'organisme."
+    },
+    {
+      "question": "La salive aide à :",
+      "options": ["Digérer les glucides", "Absorber les graisses", "Produire du sang", "Détruire les microbes"],
+      "reponse": "Digérer les glucides",
+      "explication": "La salive contient une enzyme (l'amylase) qui commence la digestion des glucides."
+    },
+    {
+      "question": "Quel est le trajet de l'air dans les voies respiratoires ?",
+      "options": ["Nez → trachée → bronches → alvéoles", "Nez → poumons → trachée → alvéoles", "Nez → bronches → cœur → alvéoles", "Bouche → œsophage → poumons → cœur"],
+      "reponse": "Nez → trachée → bronches → alvéoles",
+      "explication": "C’est le chemin suivi par l’air jusqu’aux alvéoles où ont lieu les échanges gazeux."
+    },
+    {
+      "question": "Quel organe filtre le sang pour produire l’urine ?",
+      "options": ["Le foie", "Le cœur", "Le rein", "La vessie"],
+      "reponse": "Le rein",
+      "explication": "Les reins filtrent les déchets du sang pour produire l'urine."
+    },
+    {
+      "question": "Une carie est une maladie qui touche :",
+      "options": ["Les os", "Les dents", "La langue", "Les gencives"],
+      "reponse": "Les dents",
+      "explication": "Une carie est une destruction de l’émail dentaire par des bactéries."
+    },
+    {
+      "question": "Les muscles travaillent toujours :",
+      "options": ["Seuls", "Par paire", "Avec les nerfs", "Avec le cœur"],
+      "reponse": "Par paire",
+      "explication": "Les muscles fonctionnent en paire : un muscle se contracte, l'autre se relâche."
+    },
+    {
+      "question": "Quel organe du système nerveux est protégé par la boîte crânienne ?",
+      "options": ["Le cerveau", "La moelle épinière", "Les nerfs", "Le bulbe rachidien"],
+      "reponse": "Le cerveau",
+      "explication": "Le cerveau est protégé par la boîte crânienne."
+    },
+    {
+      "question": "Les maladies comme le paludisme sont transmises par :",
+      "options": ["Le vent", "Les animaux domestiques", "Les moustiques", "Les oiseaux"],
+      "reponse": "Les moustiques",
+      "explication": "Le paludisme est transmis par la piqûre d’un moustique infecté."
+    },
+    {
+      "question": "Quelle substance est transportée par les artères ?",
+      "options": ["L’urine", "Le dioxyde de carbone", "Le sang riche en oxygène", "Le plasma pur"],
+      "reponse": "Le sang riche en oxygène",
+      "explication": "Les artères transportent généralement le sang oxygéné du cœur vers les organes."
+    },
+    {
+      "question": "Quelle est la fonction principale des reins ?",
+      "options": ["Produire les hormones", "Filtrer les déchets du sang", "Faire circuler le sang", "Digérer les protéines"],
+      "reponse": "Filtrer les déchets du sang",
+      "explication": "Les reins éliminent les déchets du sang pour former l’urine."
+    },
+    {
+      "question": "Les os longs sont remplis de :",
+      "options": ["Cartilage", "Moelle osseuse", "Tissus musculaires", "Eau"],
+      "reponse": "Moelle osseuse",
+      "explication": "La moelle osseuse se trouve à l’intérieur des os longs et produit les cellules sanguines."
+    },
+    {
+      "question": "Une fracture est :",
+      "options": ["Une infection des os", "Une inflammation des muscles", "Une cassure d’un os", "Un déplacement d’un organe"],
+      "reponse": "Une cassure d’un os",
+      "explication": "La fracture correspond à la rupture d’un os sous l’effet d’un choc ou d’une pression."
+    },
+    {
+      "question": "Le rôle principal de l’utérus est :",
+      "options": ["Produire les ovules", "Accueillir l’embryon", "Filtrer le sang", "Former le placenta"],
+      "reponse": "Accueillir l’embryon",
+      "explication": "L’utérus est l’organe où se développe l’embryon après la fécondation."
+    },
+    {
+      "question": "Quel est le rôle des globules blancs ?",
+      "options": ["Transporter l'oxygène", "Lutter contre les microbes", "Assurer la coagulation", "Digérer les nutriments"],
+      "reponse": "Lutter contre les microbes",
+      "explication": "Les globules blancs sont responsables de la défense immunitaire de l’organisme."
+    },
+    {
+      "question": "Comment s’appelle le liquide jaune clair dans lequel baignent les cellules sanguines ?",
+      "options": ["Sueur", "Plasma", "Lymphe", "Urine"],
+      "reponse": "Plasma",
+      "explication": "Le plasma est la partie liquide du sang dans laquelle circulent les cellules sanguines."
+    },
+    {
+      "question": "Que signifie 'contagieux' ?",
+      "options": ["Qui guérit rapidement", "Qui provoque une allergie", "Qui peut se transmettre à d’autres", "Qui ne touche que les enfants"],
+      "reponse": "Qui peut se transmettre à d’autres",
+      "explication": "Une maladie contagieuse est une maladie qui peut se transmettre d'une personne à une autre."
+    },
+    {
+      "question": "Par quel organe les aliments passent après l’estomac ?",
+      "options": ["Le foie", "Le gros intestin", "L’intestin grêle", "L’appendice"],
+      "reponse": "L’intestin grêle",
+      "explication": "Après l’estomac, les aliments passent dans l’intestin grêle où a lieu l’absorption des nutriments."
+    },
+    {
+      "question": "Le système nerveux est composé principalement de :",
+      "options": ["Os et muscles", "Reins et vessie", "Cerveau, moelle épinière et nerfs", "Poumons et cœur"],
+      "reponse": "Cerveau, moelle épinière et nerfs",
+      "explication": "Le système nerveux comprend le cerveau, la moelle épinière et les nerfs qui relient tout le corps."
+    },
+    {
+      "question": "L’excrétion permet à l’organisme de :",
+      "options": ["Respirer", "Se reproduire", "Éliminer les déchets", "Digérer les aliments"],
+      "reponse": "Éliminer les déchets",
+      "explication": "L’excrétion est le processus d’élimination des déchets produits par le corps."
+    },
+    {
+      "question": "Le virus du paludisme est transmis par :",
+      "options": ["Un chat", "Une bactérie", "Un moustique", "Un poisson"],
+      "reponse": "Un moustique",
+      "explication": "Le paludisme est transmis par la piqûre d’un moustique anophèle infecté."
+    },
+    {
+      "question": "Quelle est l’unité de base de tout être vivant ?",
+      "options": ["L’organe", "Le gène", "La cellule", "La molécule"],
+      "reponse": "La cellule",
+      "explication": "La cellule est l’unité structurale et fonctionnelle de base de tout organisme vivant."
+    },
+    {
+      "question": "Où a lieu la fécondation naturelle chez l’être humain ?",
+      "options": ["Dans l’utérus", "Dans l’ovaire", "Dans les trompes de Fallope", "Dans le vagin"],
+      "reponse": "Dans les trompes de Fallope",
+      "explication": "C’est dans les trompes que le spermatozoïde rencontre l’ovule pour la fécondation."
+    },
+    {
+      "question": "Quel organe stocke l’urine avant son élimination ?",
+      "options": ["Le rein", "La vessie", "Le foie", "La rate"],
+      "reponse": "La vessie",
+      "explication": "La vessie est un réservoir temporaire pour l’urine avant qu’elle soit évacuée."
+    },
+    {
+      "question": "Quel est le rôle des valvules dans le cœur ?",
+      "options": ["Ralentir le sang", "Accélérer le sang", "Empêcher le sang de revenir en arrière", "Filtrer les déchets"],
+      "reponse": "Empêcher le sang de revenir en arrière",
+      "explication": "Les valvules cardiaques permettent une circulation sanguine à sens unique."
+    },
+    {
+      "question": "Les organes reproducteurs féminins sont :",
+      "options": ["Testicules et prostate", "Ovaire et utérus", "Trompes et pénis", "Vessie et ovaire"],
+      "reponse": "Ovaire et utérus",
+      "explication": "Chez la femme, les principaux organes reproducteurs sont les ovaires et l’utérus."
+    },
+    {
+      "question": "Que signifie le terme « ovulation » ?",
+      "options": ["Formation du placenta", "Pertes de sang mensuelles", "Libération d’un ovule", "Fécondation d’un ovule"],
+      "reponse": "Libération d’un ovule",
+      "explication": "L’ovulation est la libération d’un ovule par l’ovaire vers les trompes."
+    },
+    {
+      "question": "Les os sont reliés entre eux par :",
+      "options": ["Des muscles", "Des cartilages", "Des nerfs", "Des articulations"],
+      "reponse": "Des articulations",
+      "explication": "Les articulations relient deux os et permettent le mouvement."
+    },
+    {
+      "question": "La moelle épinière est protégée par :",
+      "options": ["Le crâne", "Les muscles", "La colonne vertébrale", "Les ligaments"],
+      "reponse": "La colonne vertébrale",
+      "explication": "La colonne vertébrale protège la moelle épinière qui transmet les messages nerveux."
+    },
+    {
+      "question": "Quelle glande produit l’insuline ?",
+      "options": ["Le foie", "La rate", "Le pancréas", "La thyroïde"],
+      "reponse": "Le pancréas",
+      "explication": "Le pancréas produit l’insuline, une hormone qui régule la glycémie."
+    },
+    {
+      "question": "Le rôle principal de la peau est :",
+      "options": ["Produire des enzymes", "Filtrer le sang", "Protéger l’organisme", "Digérer les aliments"],
+      "reponse": "Protéger l’organisme",
+      "explication": "La peau agit comme une barrière protectrice contre les agressions extérieures."
+    },
+    {
+      "question": "Les spermatozoïdes sont produits dans :",
+      "options": ["La prostate", "Les testicules", "Le pénis", "Les vésicules séminales"],
+      "reponse": "Les testicules",
+      "explication": "Les testicules sont les organes qui produisent les spermatozoïdes."
+    },
+    {
+      "question": "Le diaphragme intervient dans :",
+      "options": ["La digestion", "La reproduction", "La respiration", "La vision"],
+      "reponse": "La respiration",
+      "explication": "Le diaphragme est un muscle qui joue un rôle dans l'inspiration et l'expiration."
+    },
+    {
+      "question": "Quelle partie du cerveau contrôle les mouvements volontaires ?",
+      "options": ["Cervelet", "Tronc cérébral", "Moelle épinière", "Cortex cérébral"],
+      "reponse": "Cortex cérébral",
+      "explication": "Le cortex cérébral est la zone qui commande les mouvements volontaires."
+    },
+    {
+      "question": "Qu'est-ce qu'un vaccin ?",
+      "options": ["Un antibiotique", "Une vitamine", "Une substance qui protège contre une maladie", "Une hormone"],
+      "reponse": "Une substance qui protège contre une maladie",
+      "explication": "Le vaccin stimule les défenses immunitaires pour prévenir certaines maladies."
+    },
+    {
+      "question": "Les bronches se divisent en :",
+      "options": ["Alvéoles", "Bronchioles", "Capillaires", "Trachées"],
+      "reponse": "Bronchioles",
+      "explication": "Les bronches se ramifient en bronchioles qui mènent aux alvéoles pulmonaires."
+    },
+    {
+      "question": "Quel organe transforme les aliments en nutriments absorbables ?",
+      "options": ["L’intestin grêle", "L’estomac", "Le pancréas", "Le foie"],
+      "reponse": "L’intestin grêle",
+      "explication": "L’intestin grêle est le lieu principal d’absorption des nutriments."
+    },
+    {
+      "question": "Qu’est-ce qu’un microbe ?",
+      "options": ["Un petit animal", "Un agent pathogène microscopique", "Une cellule musculaire", "Un parasite végétal"],
+      "reponse": "Un agent pathogène microscopique",
+      "explication": "Les microbes regroupent bactéries, virus et champignons microscopiques."
+    },
+    {
+      "question": "Qu’est-ce que la digestion ?",
+      "options": ["La respiration des cellules", "La transformation des aliments en nutriments", "L’absorption de l’oxygène", "La circulation sanguine"],
+      "reponse": "La transformation des aliments en nutriments",
+      "explication": "La digestion est un processus mécanique et chimique qui transforme les aliments en nutriments assimilables."
+    }
+  ]
+}

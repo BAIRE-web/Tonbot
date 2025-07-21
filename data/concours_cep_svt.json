@@ -1,0 +1,202 @@
+{
+  "qcm": [
+    {
+      "question": "Quel organe permet de respirer chez l’homme ?",
+      "options": ["Le cœur", "Les poumons", "L’estomac", "Les reins"],
+      "reponse": "Les poumons",
+      "explication": "Les poumons permettent l'entrée de l'air et l'oxygénation du sang."
+    },
+    {
+      "question": "Quelle partie de la plante est responsable de l’absorption de l’eau ?",
+      "options": ["Les feuilles", "La tige", "Les racines", "Les fleurs"],
+      "reponse": "Les racines",
+      "explication": "Les racines absorbent l'eau et les sels minéraux dans le sol."
+    },
+    {
+      "question": "Quel est l’animal parmi ces choix ?",
+      "options": ["Pierre", "Papillon", "Tomate", "Arbre"],
+      "reponse": "Papillon",
+      "explication": "Le papillon est un insecte, donc un animal."
+    },
+    {
+      "question": "Que faut-il faire avant de manger ?",
+      "options": ["Dormir", "Se brosser les dents", "Se laver les mains", "Aller à l’école"],
+      "reponse": "Se laver les mains",
+      "explication": "Se laver les mains évite les microbes et protège la santé."
+    },
+    {
+      "question": "Où trouve-t-on le cœur dans le corps humain ?",
+      "options": ["Dans la tête", "Dans la poitrine", "Dans le bras", "Dans le ventre"],
+      "reponse": "Dans la poitrine",
+      "explication": "Le cœur est situé dans la cage thoracique, au centre de la poitrine."
+    },
+    {
+      "question": "Combien l’homme a-t-il de bras ?",
+      "options": ["1", "2", "3", "4"],
+      "reponse": "2",
+      "explication": "L’être humain possède deux bras."
+    },
+    {
+      "question": "Quel est l’organe utilisé pour entendre ?",
+      "options": ["L’œil", "La bouche", "L’oreille", "Le nez"],
+      "reponse": "L’oreille",
+      "explication": "L’oreille permet de percevoir les sons."
+    },
+    {
+      "question": "Quel sens utilise-t-on pour sentir les odeurs ?",
+      "options": ["Le goût", "Le toucher", "L’ouïe", "L’odorat"],
+      "reponse": "L’odorat",
+      "explication": "L’odorat est le sens qui utilise le nez pour sentir."
+    },
+    {
+      "question": "Quelle partie du corps contient le cerveau ?",
+      "options": ["Le ventre", "La jambe", "La tête", "Le bras"],
+      "reponse": "La tête",
+      "explication": "Le cerveau est protégé par le crâne, situé dans la tête."
+    },
+    {
+      "question": "Que doit-on faire chaque matin pour l’hygiène ?",
+      "options": ["Sauter le petit-déjeuner", "Se laver", "Dormir", "Manger des bonbons"],
+      "reponse": "Se laver",
+      "explication": "Se laver permet de garder le corps propre et d’éviter les maladies."
+    },
+    {
+      "question": "Quelle partie de la plante transporte la sève ?",
+      "options": ["La fleur", "La racine", "La tige", "Le fruit"],
+      "reponse": "La tige",
+      "explication": "La tige transporte la sève entre les racines et les feuilles."
+    },
+    {
+      "question": "Quel organe filtre le sang dans le corps humain ?",
+      "options": ["Le cœur", "Les reins", "L’estomac", "Les poumons"],
+      "reponse": "Les reins",
+      "explication": "Les reins filtrent les déchets du sang."
+    },
+    {
+      "question": "Quels sont les cinq sens de l’homme ?",
+      "options": ["Vue, ouïe, goût, toucher, odorat", "Vue, respiration, course, saut, sommeil", "Voir, marcher, parler, rire, pleurer", "Vue, faim, soif, froid, chaleur"],
+      "reponse": "Vue, ouïe, goût, toucher, odorat",
+      "explication": "Ce sont les cinq sens qui permettent à l’homme de percevoir son environnement."
+    },
+    {
+      "question": "Quelle partie de l'arbre fabrique les fruits ?",
+      "options": ["Les racines", "La tige", "Les feuilles", "Les fleurs"],
+      "reponse": "Les fleurs",
+      "explication": "Les fleurs se transforment en fruits après la fécondation."
+    },
+    {
+      "question": "Comment se déplace un serpent ?",
+      "options": ["Il vole", "Il saute", "Il rampe", "Il nage"],
+      "reponse": "Il rampe",
+      "explication": "Le serpent rampe en ondulant sur le sol."
+    },
+    {
+      "question": "Que fait-on pour garder les dents propres ?",
+      "options": ["Les gratter avec une cuillère", "Les brosser chaque jour", "Les frotter avec un caillou", "Les tremper dans l’eau"],
+      "reponse": "Les brosser chaque jour",
+      "explication": "Le brossage des dents empêche les caries et maintient une bonne hygiène bucco-dentaire."
+    },
+    {
+      "question": "Quel animal vit dans l’eau ?",
+      "options": ["Chien", "Chat", "Poisson", "Cochon"],
+      "reponse": "Poisson",
+      "explication": "Le poisson vit dans l’eau douce ou salée."
+    },
+    {
+      "question": "Quel animal a des ailes et pond des œufs ?",
+      "options": ["Chèvre", "Poule", "Chien", "Cheval"],
+      "reponse": "Poule",
+      "explication": "La poule est un oiseau domestique qui pond des œufs."
+    },
+    {
+      "question": "Quelle est la fonction des feuilles ?",
+      "options": ["Respirer", "Boire", "Faire des fruits", "Préparer la nourriture"],
+      "reponse": "Préparer la nourriture",
+      "explication": "Les feuilles réalisent la photosynthèse pour nourrir la plante."
+    },
+    {
+      "question": "Quel est le rôle des racines ?",
+      "options": ["Produire des fleurs", "Absorber l’eau", "Respirer", "Faire des fruits"],
+      "reponse": "Absorber l’eau",
+      "explication": "Les racines puisent l’eau et les sels minéraux du sol."
+    },
+    {
+      "question": "Quel animal a une trompe ?",
+      "options": ["Chien", "Éléphant", "Zèbre", "Singe"],
+      "reponse": "Éléphant",
+      "explication": "L’éléphant utilise sa trompe pour boire, respirer et attraper des objets."
+    },
+    {
+      "question": "Quel animal est appelé le roi de la forêt ?",
+      "options": ["Le lion", "Le singe", "Le léopard", "Le crocodile"],
+      "reponse": "Le lion",
+      "explication": "Le lion est souvent surnommé le roi des animaux."
+    },
+    {
+      "question": "Quel est l’organe de la vision ?",
+      "options": ["Le nez", "La main", "L’œil", "La bouche"],
+      "reponse": "L’œil",
+      "explication": "L’œil permet de voir, c’est l’organe de la vision."
+    },
+    {
+      "question": "Que devient une chenille après sa transformation ?",
+      "options": ["Un escargot", "Un papillon", "Un ver de terre", "Une mouche"],
+      "reponse": "Un papillon",
+      "explication": "La chenille devient un papillon après la métamorphose."
+    },
+    {
+      "question": "Pourquoi lave-t-on les légumes avant de les manger ?",
+      "options": ["Pour les rendre froids", "Pour enlever les microbes", "Pour les faire cuire", "Pour les colorer"],
+      "reponse": "Pour enlever les microbes",
+      "explication": "Laver les légumes enlève les microbes et la saleté."
+    },
+    {
+      "question": "Que faut-il faire après avoir joué dans la poussière ?",
+      "options": ["Boire de l’eau", "Dormir", "Se laver les mains", "Manger des fruits"],
+      "reponse": "Se laver les mains",
+      "explication": "Se laver évite les maladies après un contact avec la poussière."
+    },
+    {
+      "question": "Comment se nomme l'animal qui miaule ?",
+      "options": ["Le chien", "Le chat", "Le cheval", "La chèvre"],
+      "reponse": "Le chat",
+      "explication": "Le chat est l’animal domestique qui miaule."
+    },
+    {
+      "question": "Pourquoi doit-on boire de l’eau propre ?",
+      "options": ["Pour grossir", "Pour ne pas tomber malade", "Pour changer la couleur des dents", "Pour se laver le ventre"],
+      "reponse": "Pour ne pas tomber malade",
+      "explication": "L’eau propre évite les maladies hydriques."
+    },
+    {
+      "question": "Comment appelle-t-on un bébé poule ?",
+      "options": ["Un veau", "Un poussin", "Un chaton", "Un caneton"],
+      "reponse": "Un poussin",
+      "explication": "Le poussin est le petit de la poule."
+    },
+    {
+      "question": "Quel insecte produit le miel ?",
+      "options": ["La mouche", "Le moustique", "L’abeille", "La fourmi"],
+      "reponse": "L’abeille",
+      "explication": "Les abeilles fabriquent le miel à partir du nectar des fleurs."
+    },
+    {
+      "question": "Que faut-il faire pour éviter les maladies ?",
+      "options": ["Marcher pieds nus", "Manger avec les mains sales", "Se laver régulièrement", "Ne pas se brosser les dents"],
+      "reponse": "Se laver régulièrement",
+      "explication": "L’hygiène corporelle prévient de nombreuses maladies."
+    },
+    {
+      "question": "Quel organe permet de sentir les odeurs ?",
+      "options": ["Les yeux", "Le nez", "La bouche", "L’oreille"],
+      "reponse": "Le nez",
+      "explication": "Le nez est l’organe de l’odorat."
+    },
+    {
+      "question": "Quelle partie du corps bat sans arrêt ?",
+      "options": ["Le pied", "La tête", "Le cœur", "La main"],
+      "reponse": "Le cœur",
+      "explication": "Le cœur bat constamment pour faire circuler le sang."
+    }
+  ]
+}

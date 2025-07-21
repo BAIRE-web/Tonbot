@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Combien font 8 × 7 ?",
+      "options": ["56", "49", "64", "48"],
+      "reponse": "56",
+      "explication": "8 multiplié par 7 donne 56."
+    },
+    {
+      "question": "Quel est le double de 15 ?",
+      "options": ["30", "25", "20", "35"],
+      "reponse": "30",
+      "explication": "Le double de 15 est 15 × 2 = 30."
+    },
+    {
+      "question": "Complète : 60 ÷ ___ = 10",
+      "options": ["5", "6", "7", "8"],
+      "reponse": "6",
+      "explication": "60 ÷ 6 = 10."
+    },
+    {
+      "question": "Quel est le résultat de 1/2 + 1/2 ?",
+      "options": ["1", "2", "1/4", "3/4"],
+      "reponse": "1",
+      "explication": "Un demi plus un demi donne un entier : 1."
+    },
+    {
+      "question": "Quel est le périmètre d’un carré de 4 cm de côté ?",
+      "options": ["8 cm", "12 cm", "16 cm", "20 cm"],
+      "reponse": "16 cm",
+      "explication": "Périmètre d’un carré = 4 × côté = 4 × 4 = 16 cm."
+    },
+    {
+      "question": "Quel est le tiers de 90 ?",
+      "options": ["30", "20", "25", "45"],
+      "reponse": "30",
+      "explication": "Le tiers de 90 est 90 ÷ 3 = 30."
+    },
+    {
+      "question": "Combien de côtés a un triangle ?",
+      "options": ["3", "4", "5", "6"],
+      "reponse": "3",
+      "explication": "Un triangle a toujours 3 côtés."
+    },
+    {
+      "question": "Résous : 100 - 47 = ?",
+      "options": ["43", "53", "57", "63"],
+      "reponse": "53",
+      "explication": "100 - 47 = 53."
+    },
+    {
+      "question": "Un rectangle a 6 cm de long et 3 cm de large. Quel est son périmètre ?",
+      "options": ["18 cm", "12 cm", "9 cm", "15 cm"],
+      "reponse": "18 cm",
+      "explication": "P = 2 × (L + l) = 2 × (6 + 3) = 18 cm."
+    },
+    {
+      "question": "Quel est le résultat de 5 × 9 ?",
+      "options": ["45", "40", "35", "50"],
+      "reponse": "45",
+      "explication": "5 multiplié par 9 = 45."
+    },
+    {
+      "question": "Quel est le nombre pair parmi ces propositions ?",
+      "options": ["15", "17", "22", "29"],
+      "reponse": "22",
+      "explication": "22 est divisible par 2, donc pair."
+    },
+    {
+      "question": "La moitié de 80 est :",
+      "options": ["30", "35", "40", "45"],
+      "reponse": "40",
+      "explication": "80 ÷ 2 = 40."
+    },
+    {
+      "question": "Quelle unité utilise-t-on pour mesurer une masse ?",
+      "options": ["Litre", "Kilogramme", "Mètre", "Seconde"],
+      "reponse": "Kilogramme",
+      "explication": "La masse se mesure en kilogrammes (kg)."
+    },
+    {
+      "question": "Quel nombre est le plus grand ?",
+      "options": ["78", "87", "79", "77"],
+      "reponse": "87",
+      "explication": "87 est supérieur aux autres nombres."
+    },
+    {
+      "question": "Combien d’heures y a-t-il dans une journée ?",
+      "options": ["10", "12", "24", "20"],
+      "reponse": "24",
+      "explication": "Une journée complète compte 24 heures."
+    },
+    {
+      "question": "Complète : 9 × ___ = 81",
+      "options": ["7", "8", "9", "10"],
+      "reponse": "9",
+      "explication": "9 fois 9 = 81."
+    },
+    {
+      "question": "Résous : 120 ÷ 10 = ?",
+      "options": ["10", "11", "12", "13"],
+      "reponse": "12",
+      "explication": "120 divisé par 10 donne 12."
+    },
+    {
+      "question": "Quel nombre complète : 5 + ___ = 13",
+      "options": ["7", "8", "9", "10"],
+      "reponse": "8",
+      "explication": "5 + 8 = 13."
+    },
+    {
+      "question": "Quelle figure a 4 côtés égaux et 4 angles droits ?",
+      "options": ["Rectangle", "Carré", "Triangle", "Trapèze"],
+      "reponse": "Carré",
+      "explication": "Le carré a tous ses côtés égaux et 4 angles droits."
+    },
+    {
+      "question": "Combien y a-t-il de dizaines dans 120 ?",
+      "options": ["10", "11", "12", "13"],
+      "reponse": "12",
+      "explication": "120 ÷ 10 = 12 dizaines."
+    },
+    {
+      "question": "Un élève a 3 billets de 100 F et 2 pièces de 25 F. Quelle somme possède-t-il ?",
+      "options": ["275 F", "250 F", "300 F", "225 F"],
+      "reponse": "275 F",
+      "explication": "3×100 = 300 ; 2×25 = 50 ; Total = 300 + 50 = 275 F."
+    },
+    {
+      "question": "Quel est le triple de 12 ?",
+      "options": ["36", "30", "24", "40"],
+      "reponse": "36",
+      "explication": "12 × 3 = 36."
+    },
+    {
+      "question": "Quel est le quotient de 45 par 5 ?",
+      "options": ["8", "9", "10", "12"],
+      "reponse": "9",
+      "explication": "45 ÷ 5 = 9."
+    },
+    {
+      "question": "Quel est le nombre manquant ? 20, 30, ___, 50",
+      "options": ["35", "40", "45", "38"],
+      "reponse": "40",
+      "explication": "La suite progresse de +10 : 20, 30, 40, 50."
+    },
+    {
+      "question": "Un paquet contient 24 bonbons. Combien de bonbons dans 3 paquets ?",
+      "options": ["72", "60", "48", "54"],
+      "reponse": "72",
+      "explication": "3 × 24 = 72."
+    },
+    {
+      "question": "Combien de centimètres y a-t-il dans un mètre ?",
+      "options": ["100", "10", "1000", "60"],
+      "reponse": "100",
+      "explication": "1 mètre = 100 centimètres."
+    },
+    {
+      "question": "Quel chiffre est à la centaine dans le nombre 348 ?",
+      "options": ["3", "4", "8", "2"],
+      "reponse": "3",
+      "explication": "Dans 348 : 3 est la centaine, 4 la dizaine, 8 l’unité."
+    },
+    {
+      "question": "Le résultat de 7 + 8 est :",
+      "options": ["15", "16", "14", "17"],
+      "reponse": "15",
+      "explication": "7 + 8 = 15."
+    },
+    {
+      "question": "Si j’ai 4 dizaines, combien ai-je d’unités ?",
+      "options": ["4", "40", "400", "14"],
+      "reponse": "40",
+      "explication": "4 dizaines = 4 × 10 = 40 unités."
+    },
+    {
+      "question": "Lequel de ces nombres est impair ?",
+      "options": ["16", "22", "18", "17"],
+      "reponse": "17",
+      "explication": "17 n’est pas divisible par 2, donc impair."
+    }
+  ]
+}

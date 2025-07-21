@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Comment dit-on « Bonjour » en anglais ?",
+      "options": ["Hello", "Bye", "Please", "Good night"],
+      "reponse": "Hello",
+      "explication": "« Hello » est la salutation de base pour dire bonjour en anglais."
+    },
+    {
+      "question": "Quelle est la traduction correcte de « Je suis élève » ?",
+      "options": ["I am a student", "You are a student", "He is a student", "We are a student"],
+      "reponse": "I am a student",
+      "explication": "« Je suis » se traduit par « I am », et « élève » par « student »."
+    },
+    {
+      "question": "Complétez : She ___ to school every day.",
+      "options": ["go", "goes", "gone", "going"],
+      "reponse": "goes",
+      "explication": "À la 3e personne du singulier au présent simple, on ajoute -s au verbe : goes."
+    },
+    {
+      "question": "Quel pronom convient pour remplacer « The students and I » ?",
+      "options": ["We", "They", "He", "She"],
+      "reponse": "We",
+      "explication": "« The students and I » est équivalent à « nous » donc « we »."
+    },
+    {
+      "question": "Traduisez : « Il ne joue pas au football. »",
+      "options": ["He doesn't play football", "He not play football", "He don't plays football", "He isn't play football"],
+      "reponse": "He doesn't play football",
+      "explication": "La forme correcte du présent négatif est : sujet + doesn't + base verbale."
+    },
+    {
+      "question": "Complétez : There ___ two books on the table.",
+      "options": ["is", "are", "have", "has"],
+      "reponse": "are",
+      "explication": "« Two books » est pluriel, donc on utilise « are »."
+    },
+    {
+      "question": "Quel est l’adjectif possessif pour « you » ?",
+      "options": ["My", "Your", "His", "Their"],
+      "reponse": "Your",
+      "explication": "L’adjectif possessif correspondant à « you » est « your »."
+    },
+    {
+      "question": "Quel est le comparatif de « tall » ?",
+      "options": ["Taller", "Tallest", "More tall", "Most tall"],
+      "reponse": "Taller",
+      "explication": "Le comparatif de « tall » est « taller » (plus grand)."
+    },
+    {
+      "question": "Traduisez : « Marie lit un livre. »",
+      "options": ["Marie reads a book", "Marie read a book", "Marie is read a book", "Marie reading a book"],
+      "reponse": "Marie reads a book",
+      "explication": "Au présent simple, on ajoute -s à la 3e personne : reads."
+    },
+    {
+      "question": "Complétez : I have ___ apple in my bag.",
+      "options": ["a", "an", "the", "some"],
+      "reponse": "an",
+      "explication": "On utilise « an » devant un mot qui commence par une voyelle sonore comme « apple »."
+    },
+    {
+      "question": "Quel est le passé de « go » ?",
+      "options": ["Goed", "Went", "Go", "Gone"],
+      "reponse": "Went",
+      "explication": "Le prétérit de « go » est « went » (verbe irrégulier)."
+    },
+    {
+      "question": "Complétez : We ___ watching TV now.",
+      "options": ["is", "are", "was", "have"],
+      "reponse": "are",
+      "explication": "Au présent continu, on utilise « are » avec « we » : we are watching."
+    },
+    {
+      "question": "Traduisez : « Il y a un chat sous la table. »",
+      "options": ["There is a cat under the table", "There is one cat on the table", "There are a cat under the table", "There has a cat under the table"],
+      "reponse": "There is a cat under the table",
+      "explication": "La bonne préposition est « under » pour « sous »."
+    },
+    {
+      "question": "Complétez : My mother ___ dinner every night.",
+      "options": ["cook", "cooks", "cooking", "cooked"],
+      "reponse": "cooks",
+      "explication": "Présent simple avec she/my mother → on ajoute -s : cooks."
+    },
+    {
+      "question": "Choisissez la bonne traduction de : « Nous avons deux stylos. »",
+      "options": ["We have two pens", "We has two pens", "We having two pens", "We got two pens"],
+      "reponse": "We have two pens",
+      "explication": "« Nous avons » se traduit par « We have »."
+    },
+    {
+      "question": "Complétez : They ___ like pizza.",
+      "options": ["don't", "doesn't", "aren't", "isn't"],
+      "reponse": "don't",
+      "explication": "À la 3e personne du pluriel, on utilise « don't » pour la négation."
+    },
+    {
+      "question": "Comment dit-on « Merci » en anglais ?",
+      "options": ["Thanks", "Sorry", "Hello", "Please"],
+      "reponse": "Thanks",
+      "explication": "« Thanks » signifie « Merci »."
+    },
+    {
+      "question": "Quel est l'opposé de « big » ?",
+      "options": ["Small", "Tall", "Long", "Fat"],
+      "reponse": "Small",
+      "explication": "L’opposé de « big » (grand) est « small » (petit)."
+    },
+    {
+      "question": "Traduisez : « Elle a un frère. »",
+      "options": ["She has a brother", "She have a brother", "She is a brother", "She had a brother"],
+      "reponse": "She has a brother",
+      "explication": "On utilise « has » avec la 3e personne du singulier."
+    },
+    {
+      "question": "Complétez : What ___ your name?",
+      "options": ["is", "are", "does", "do"],
+      "reponse": "is",
+      "explication": "La question correcte est « What is your name? »"
+    },
+    {
+      "question": "Quel est le pluriel de « child » ?",
+      "options": ["Children", "Childs", "Childes", "Childer"],
+      "reponse": "Children",
+      "explication": "« Child » a un pluriel irrégulier : « children »."
+    },
+    {
+      "question": "Quel mot signifie « rapide » ?",
+      "options": ["Fast", "Slow", "Big", "Late"],
+      "reponse": "Fast",
+      "explication": "« Fast » veut dire « rapide »."
+    },
+    {
+      "question": "Complétez : My friends and I ___ happy.",
+      "options": ["are", "is", "am", "be"],
+      "reponse": "are",
+      "explication": "Sujet pluriel → « are »."
+    },
+    {
+      "question": "Complétez : She ___ her homework now.",
+      "options": ["is doing", "do", "did", "does"],
+      "reponse": "is doing",
+      "explication": "Présent continu : she is doing."
+    },
+    {
+      "question": "Traduisez : « Où habites-tu ? »",
+      "options": ["Where do you live?", "When do you live?", "What do you live?", "Who do you live?"],
+      "reponse": "Where do you live?",
+      "explication": "« Où » se traduit par « Where », donc : « Where do you live? »"
+    },
+    {
+      "question": "Complétez : They ___ to the park yesterday.",
+      "options": ["go", "went", "gone", "going"],
+      "reponse": "went",
+      "explication": "Le verbe au passé simple est « went »."
+    },
+    {
+      "question": "Quel est le pronom sujet dans la phrase : « She likes apples » ?",
+      "options": ["She", "Likes", "Apples", "Her"],
+      "reponse": "She",
+      "explication": "Le pronom sujet est « she » (elle)."
+    },
+    {
+      "question": "Traduisez : « Nous aimons jouer au football. »",
+      "options": ["We like playing football", "We likes playing football", "We liked play football", "We liking football"],
+      "reponse": "We like playing football",
+      "explication": "Avec « we », on utilise le verbe « like » sans -s au présent."
+    },
+    {
+      "question": "Complétez : I ___ never been to London.",
+      "options": ["have", "has", "had", "having"],
+      "reponse": "have",
+      "explication": "La forme correcte du present perfect est « have » + participe passé."
+    },
+    {
+      "question": "Quel mot complète : This is my ___ book.",
+      "options": ["favourite", "favorite", "favoured", "favore"],
+      "reponse": "favourite",
+      "explication": "« Favourite » est l’orthographe britannique de « favori »."
+    },
+    {
+      "question": "Quel est le superlatif de « good » ?",
+      "options": ["Goodest", "Better", "Best", "More good"],
+      "reponse": "Best",
+      "explication": "Le superlatif de « good » est « best »."
+    },
+    {
+      "question": "Traduisez : « Je ne comprends pas. »",
+      "options": ["I don’t understand", "I doesn’t understand", "I am not understand", "I no understand"],
+      "reponse": "I don’t understand",
+      "explication": "Négation au présent simple : « don’t » + verbe à l’infinitif."
+    },
+    {
+      "question": "Complétez : ___ she like chocolate?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "reponse": "Does",
+      "explication": "À la 3e personne du singulier, on utilise « does » pour les questions."
+    },
+    {
+      "question": "Quel est l’antonyme de « always » ?",
+      "options": ["Never", "Sometimes", "Usually", "Often"],
+      "reponse": "Never",
+      "explication": "« Never » signifie « jamais », l’opposé de « always » (toujours)."
+    },
+    {
+      "question": "Complétez : I have two ___ .",
+      "options": ["brother", "brothers", "brothes", "brotherses"],
+      "reponse": "brothers",
+      "explication": "Au pluriel, « brother » devient « brothers »."
+    },
+    {
+      "question": "Quel temps est utilisé dans : « She is reading a book now » ?",
+      "options": ["Présent simple", "Présent continu", "Passé simple", "Futur"],
+      "reponse": "Présent continu",
+      "explication": "Le verbe est au présent continu (be + -ing)."
+    },
+    {
+      "question": "Complétez : They have ___ homework to do.",
+      "options": ["some", "any", "a", "an"],
+      "reponse": "some",
+      "explication": "Dans une phrase affirmative au pluriel, on utilise « some »."
+    },
+    {
+      "question": "Quelle est la forme négative de : « He speaks French » ?",
+      "options": ["He does not speak French", "He don’t speak French", "He not speaks French", "He isn’t speak French"],
+      "reponse": "He does not speak French",
+      "explication": "Négation au présent simple avec 3e personne du singulier."
+    },
+    {
+      "question": "Traduisez : « Je vais à l’école tous les jours. »",
+      "options": ["I go to school every day", "I going to school every day", "I goes to school every day", "I gone to school every day"],
+      "reponse": "I go to school every day",
+      "explication": "Présent simple pour une habitude : « I go »."
+    },
+    {
+      "question": "Quel est le prétérit de « have » ?",
+      "options": ["Haved", "Had", "Have", "Has"],
+      "reponse": "Had",
+      "explication": "Le prétérit de « have » est « had »."
+    },
+    {
+      "question": "Complétez : What time ___ the train leave?",
+      "options": ["do", "does", "did", "is"],
+      "reponse": "does",
+      "explication": "3e personne du singulier → « does »."
+    },
+    {
+      "question": "Traduisez : « Ils habitent à Paris. »",
+      "options": ["They live in Paris", "They lives in Paris", "They living in Paris", "They lived in Paris"],
+      "reponse": "They live in Paris",
+      "explication": "Avec « they », le verbe au présent simple ne prend pas de -s."
+    },
+    {
+      "question": "Quel est le superlatif de « happy » ?",
+      "options": ["Happier", "Happiest", "More happy", "Most happy"],
+      "reponse": "Happiest",
+      "explication": "Le superlatif de « happy » est « happiest »."
+    },
+    {
+      "question": "Complétez : I ___ never seen this movie.",
+      "options": ["have", "has", "had", "having"],
+      "reponse": "have",
+      "explication": "Present perfect avec « I » : « have » + participe passé."
+    },
+    {
+      "question": "Quel est le pluriel de « mouse » ?",
+      "options": ["Mouses", "Mice", "Mouse", "Mices"],
+      "reponse": "Mice",
+      "explication": "Le pluriel irrégulier de « mouse » est « mice »."
+    },
+    {
+      "question": "Complétez : He ___ to school by bus every day.",
+      "options": ["go", "goes", "gone", "going"],
+      "reponse": "goes",
+      "explication": "3e personne du singulier → verbe avec -s au présent simple."
+    },
+    {
+      "question": "Traduisez : « Elle est en train de courir. »",
+      "options": ["She is running", "She runs", "She run", "She running"],
+      "reponse": "She is running",
+      "explication": "Présent continu avec « be » + verbe en -ing."
+    },
+    {
+      "question": "Quel mot signifie « facile » ?",
+      "options": ["Easy", "Hard", "Difficult", "Complicated"],
+      "reponse": "Easy",
+      "explication": "« Easy » signifie « facile »."
+    },
+    {
+      "question": "Complétez : ___ you like coffee?",
+      "options": ["Do", "Does", "Are", "Is"],
+      "reponse": "Do",
+      "explication": "Question au présent simple pour « you » : « do »."
+    }
+  ]
+}

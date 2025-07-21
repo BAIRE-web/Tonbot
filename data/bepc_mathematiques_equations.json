@@ -1,0 +1,324 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la solution de l'équation x + 5 = 12 ?",
+      "options": ["7", "17", "6", "8"],
+      "reponse": "7",
+      "explication": "On soustrait 5 des deux côtés : x = 12 - 5 = 7."
+    },
+    {
+      "question": "Quelle est la solution de l'équation 3x = 21 ?",
+      "options": ["6", "7", "8", "9"],
+      "reponse": "7",
+      "explication": "On divise par 3 : x = 21 ÷ 3 = 7."
+    },
+    {
+      "question": "x - 4 = 10, alors x = ?",
+      "options": ["6", "14", "10", "5"],
+      "reponse": "14",
+      "explication": "On ajoute 4 des deux côtés : x = 10 + 4 = 14."
+    },
+    {
+      "question": "L'équation 2x + 3 = 11 a pour solution :",
+      "options": ["5", "4", "3", "6"],
+      "reponse": "4",
+      "explication": "2x = 11 - 3 → 2x = 8 → x = 8 ÷ 2 = 4."
+    },
+    {
+      "question": "x/5 = 3, alors x = ?",
+      "options": ["8", "10", "15", "20"],
+      "reponse": "15",
+      "explication": "x = 3 × 5 = 15."
+    },
+    {
+      "question": "Résous : 4x − 6 = 10",
+      "options": ["3", "4", "5", "6"],
+      "reponse": "4",
+      "explication": "4x = 10 + 6 = 16 → x = 16 ÷ 4 = 4."
+    },
+    {
+      "question": "Laquelle de ces équations est une équation produit ?",
+      "options": ["(x−3)(x+2) = 0", "x + 5 = 10", "2x − 1 = 3", "x² + 2x = 5"],
+      "reponse": "(x−3)(x+2) = 0",
+      "explication": "Une équation produit est sous la forme A × B = 0."
+    },
+    {
+      "question": "Si (x−4)(x+1) = 0, alors x = ?",
+      "options": ["−4 ou 1", "−1 ou 4", "1 ou 4", "−1 ou −4"],
+      "reponse": "−1 ou 4",
+      "explication": "Une équation produit est nulle si l’un des facteurs est nul. Donc x = 4 ou x = −1."
+    },
+    {
+      "question": "Résous : 5x + 2 = 2x + 11",
+      "options": ["x = 3", "x = 2", "x = 1", "x = 4"],
+      "reponse": "x = 3",
+      "explication": "5x − 2x = 11 − 2 → 3x = 9 → x = 3."
+    },
+    {
+      "question": "L'équation 4(x − 2) = 20 donne x = ?",
+      "options": ["5", "6", "7", "8"],
+      "reponse": "7",
+      "explication": "4(x − 2) = 20 → x − 2 = 5 → x = 7."
+    },
+    {
+      "question": "Si x = 2 est solution de l'équation 3x + 4 = a, alors a = ?",
+      "options": ["10", "11", "12", "13"],
+      "reponse": "10",
+      "explication": "3×2 + 4 = 6 + 4 = 10 donc a = 10."
+    },
+    {
+      "question": "Résous : x/4 + 2 = 5",
+      "options": ["8", "10", "12", "6"],
+      "reponse": "12",
+      "explication": "x/4 = 3 → x = 3 × 4 = 12."
+    },
+    {
+      "question": "Résous : 2(x + 1) = 8",
+      "options": ["3", "4", "5", "6"],
+      "reponse": "3",
+      "explication": "2(x + 1) = 8 → x + 1 = 4 → x = 3."
+    },
+    {
+      "question": "L'équation x + x = 10 a pour solution :",
+      "options": ["5", "10", "2", "6"],
+      "reponse": "5",
+      "explication": "x + x = 2x → 2x = 10 → x = 5."
+    },
+    {
+      "question": "x² = 49, alors x = ?",
+      "options": ["7", "−7", "±7", "49"],
+      "reponse": "±7",
+      "explication": "x² = 49 → x = ±√49 = ±7."
+    },
+    {
+      "question": "L'équation 3(x − 2) = 9 est équivalente à :",
+      "options": ["x = 5", "x = 4", "x = 3", "x = 6"],
+      "reponse": "x = 5",
+      "explication": "3(x − 2) = 9 → x − 2 = 3 → x = 5."
+    },
+    {
+      "question": "x² − 16 = 0 a pour solution :",
+      "options": ["4", "−4", "±4", "8"],
+      "reponse": "±4",
+      "explication": "x² = 16 → x = ±√16 = ±4."
+    },
+    {
+      "question": "L'équation 2(x − 1) = x + 3 donne x = ?",
+      "options": ["5", "3", "4", "2"],
+      "reponse": "5",
+      "explication": "2x − 2 = x + 3 → x = 5."
+    },
+    {
+      "question": "x + 3 = −2, alors x = ?",
+      "options": ["−5", "5", "1", "−1"],
+      "reponse": "−5",
+      "explication": "x = −2 − 3 = −5."
+    },
+    {
+      "question": "L'équation x² = 0 a pour solution :",
+      "options": ["0", "1", "−1", "±1"],
+      "reponse": "0",
+      "explication": "0 × 0 = 0 donc seule solution : 0."
+    },
+    {
+      "question": "Résous : (x−2)(x+5) = 0",
+      "options": ["x = −5 ou 2", "x = 2 ou 5", "x = −2 ou −5", "x = 5 ou −5"],
+      "reponse": "x = −5 ou 2",
+      "explication": "Équation produit : x = 2 ou x = −5."
+    },
+    {
+      "question": "Quelle est la solution de 2x + 7 = 3x − 1 ?",
+      "options": ["x = 7", "x = 8", "x = 6", "x = −8"],
+      "reponse": "x = 8",
+      "explication": "2x + 7 = 3x − 1 → 7 + 1 = x → x = 8."
+    },
+    {
+      "question": "x/3 = 4, alors x = ?",
+      "options": ["7", "8", "9", "12"],
+      "reponse": "12",
+      "explication": "x = 4 × 3 = 12."
+    },
+    {
+      "question": "x − 3 = −2x + 6 donne x = ?",
+      "options": ["1", "2", "3", "4"],
+      "reponse": "3",
+      "explication": "x + 2x = 6 + 3 → 3x = 9 → x = 3."
+    },
+    {
+      "question": "Si x = 4, alors 2x − 1 = ?",
+      "options": ["7", "6", "5", "8"],
+      "reponse": "7",
+      "explication": "2×4 − 1 = 8 − 1 = 7."
+    },
+    {
+      "question": "x/2 + 3 = 5, alors x = ?",
+      "options": ["4", "6", "2", "5"],
+      "reponse": "4",
+      "explication": "x/2 = 2 → x = 4."
+    },
+    {
+      "question": "Résous : 4x = 2x + 10",
+      "options": ["x = 5", "x = 10", "x = 4", "x = 2"],
+      "reponse": "x = 5",
+      "explication": "4x − 2x = 10 → 2x = 10 → x = 5."
+    },
+    {
+      "question": "x² = 64, alors x = ?",
+      "options": ["8", "−8", "±8", "16"],
+      "reponse": "±8",
+      "explication": "√64 = 8 donc x = ±8."
+    },
+    {
+      "question": "Résous : 6x − 5 = 3x + 4",
+      "options": ["x = 3", "x = 2", "x = 4", "x = 5"],
+      "reponse": "x = 3",
+      "explication": "6x − 3x = 4 + 5 → 3x = 9 → x = 3."
+    },
+    {
+      "question": "Quel est le nombre tel que son double augmenté de 3 donne 13 ?",
+      "options": ["5", "6", "7", "4"],
+      "reponse": "5",
+      "explication": "2x + 3 = 13 → 2x = 10 → x = 5."
+    },
+    {
+      "question": "Résous l’équation suivante : 3x - 4 = 2x + 5",
+      "options": ["x = 9", "x = -9", "x = 1", "x = -1"],
+      "reponse": "x = 9",
+      "explication": "3x - 4 = 2x + 5 ⇒ 3x - 2x = 5 + 4 ⇒ x = 9."
+    },
+    {
+      "question": "Résous : 5(x - 2) = 3(x + 4)",
+      "options": ["x = 7", "x = 6", "x = 5", "x = 8"],
+      "reponse": "x = 7",
+      "explication": "5x - 10 = 3x + 12 ⇒ 5x - 3x = 12 + 10 ⇒ 2x = 22 ⇒ x = 11."
+    },
+    {
+      "question": "Résous : 2x + 3 = 3x - 4",
+      "options": ["x = 7", "x = -7", "x = 1", "x = -1"],
+      "reponse": "x = 7",
+      "explication": "2x + 3 = 3x - 4 ⇒ 3 + 4 = 3x - 2x ⇒ 7 = x."
+    },
+    {
+      "question": "Résous : 4x + 7 = 2x + 19",
+      "options": ["x = 5", "x = 6", "x = -5", "x = 12"],
+      "reponse": "x = 6",
+      "explication": "4x + 7 = 2x + 19 ⇒ 4x - 2x = 19 - 7 ⇒ 2x = 12 ⇒ x = 6."
+    },
+    {
+      "question": "Résous : 2(x + 3) = x + 9",
+      "options": ["x = 3", "x = 5", "x = 2", "x = 6"],
+      "reponse": "x = 3",
+      "explication": "2x + 6 = x + 9 ⇒ 2x - x = 9 - 6 ⇒ x = 3."
+    },
+    {
+      "question": "Résous : 4(x - 2) = 2(x + 5)",
+      "options": ["x = 7", "x = 8", "x = 6", "x = 5"],
+      "reponse": "x = 7",
+      "explication": "4x - 8 = 2x + 10 ⇒ 4x - 2x = 10 + 8 ⇒ 2x = 18 ⇒ x = 9."
+    },
+    {
+      "question": "Résous : 5x + 3 = 2x + 18",
+      "options": ["x = 4", "x = 5", "x = 6", "x = 7"],
+      "reponse": "x = 5",
+      "explication": "5x - 2x = 18 - 3 ⇒ 3x = 15 ⇒ x = 5."
+    },
+    {
+      "question": "Résous : 6x - 4 = 3x + 8",
+      "options": ["x = 3", "x = 4", "x = 5", "x = 2"],
+      "reponse": "x = 4",
+      "explication": "6x - 3x = 8 + 4 ⇒ 3x = 12 ⇒ x = 4."
+    },
+    {
+      "question": "Résous : 2(x + 5) - 3 = x + 7",
+      "options": ["x = 0", "x = 2", "x = 4", "x = 3"],
+      "reponse": "x = 0",
+      "explication": "2x + 10 - 3 = x + 7 ⇒ 2x + 7 = x + 7 ⇒ 2x - x = 0 ⇒ x = 0."
+    },
+    {
+      "question": "Résous : 7(x - 1) + 5 = 3x + 17",
+      "options": ["x = 2", "x = 3", "x = 4", "x = 5"],
+      "reponse": "x = 3",
+      "explication": "7x - 7 + 5 = 3x + 17 ⇒ 7x - 2 = 3x + 17 ⇒ 4x = 19 ⇒ x = 3."
+    },
+    {
+      "question": "Résous : 3(x - 4) + 2 = 2(x + 1) + x",
+      "options": ["x = 5", "x = 6", "x = 4", "x = 3"],
+      "reponse": "x = 4",
+      "explication": "3x - 12 + 2 = 2x + 2 + x ⇒ 3x - 10 = 3x + 2 ⇒ -10 = 2 (impossible) ⇒ pas de solution réelle."
+    },
+    {
+      "question": "Résous : (2x - 3)/3 = (x + 1)/2",
+      "options": ["x = 3", "x = 5", "x = 6", "x = 4"],
+      "reponse": "x = 3",
+      "explication": "Produit en croix : 2(2x - 3) = 3(x + 1) ⇒ 4x - 6 = 3x + 3 ⇒ x = 9."
+    },
+    {
+      "question": "Résous : 4x - 2 = 2(x + 3)",
+      "options": ["x = 4", "x = 2", "x = 3", "x = 1"],
+      "reponse": "x = 4",
+      "explication": "4x - 2 = 2x + 6 ⇒ 4x - 2x = 6 + 2 ⇒ 2x = 8 ⇒ x = 4."
+    },
+    {
+      "question": "Résous : 6x + 7 = 4x + 13",
+      "options": ["x = 2", "x = 3", "x = 4", "x = 1"],
+      "reponse": "x = 3",
+      "explication": "6x - 4x = 13 - 7 ⇒ 2x = 6 ⇒ x = 3."
+    },
+    {
+      "question": "Résous : 3(x - 1) = x + 5",
+      "options": ["x = 4", "x = 5", "x = 3", "x = 2"],
+      "reponse": "x = 4",
+      "explication": "3x - 3 = x + 5 ⇒ 3x - x = 5 + 3 ⇒ 2x = 8 ⇒ x = 4."
+    },
+    {
+      "question": "Résous : 5x - 2(x + 3) = 2x + 1",
+      "options": ["x = 4", "x = 3", "x = 5", "x = 2"],
+      "reponse": "x = 5",
+      "explication": "5x - 2x - 6 = 2x + 1 ⇒ 3x - 6 = 2x + 1 ⇒ x = 7."
+    },
+    {
+      "question": "Résous : x/2 + 1 = x/3 + 3",
+      "options": ["x = 12", "x = 6", "x = 9", "x = 15"],
+      "reponse": "x = 12",
+      "explication": "x/2 - x/3 = 3 - 1 ⇒ (3x - 2x)/6 = 2 ⇒ x = 12."
+    },
+    {
+      "question": "Résous : 2(x + 1) + 3 = x + 5",
+      "options": ["x = 0", "x = 1", "x = -1", "x = 2"],
+      "reponse": "x = -1",
+      "explication": "2x + 2 + 3 = x + 5 ⇒ 2x + 5 = x + 5 ⇒ x = 0."
+    },
+    {
+      "question": "Résous : 3x + 2 = 2x + 5",
+      "options": ["x = 2", "x = 1", "x = 3", "x = 0"],
+      "reponse": "x = 3",
+      "explication": "3x - 2x = 5 - 2 ⇒ x = 3."
+    },
+    {
+      "question": "Résous : 4x - (2x - 1) = 9",
+      "options": ["x = 4", "x = 5", "x = 6", "x = 3"],
+      "reponse": "x = 5",
+      "explication": "4x - 2x + 1 = 9 ⇒ 2x = 8 ⇒ x = 4."
+    },
+{
+  "qcm": [
+    {
+      "question": "Résous l'équation : 3(x - 2) + 4 = 2x + 6",
+      "options": ["x = 4", "x = 2", "x = -2", "x = 1"],
+      "reponse": "x = 4",
+      "explication": "3(x - 2) + 4 = 2x + 6 → 3x - 6 + 4 = 2x + 6 → 3x - 2 = 2x + 6 → x = 8"
+    },
+    {
+      "question": "Résous l’équation : 2x - (3x - 5) = 9",
+      "options": ["x = -14", "x = -9", "x = 9", "x = 14"],
+      "reponse": "x = 14",
+      "explication": "2x - 3x + 5 = 9 → -x + 5 = 9 → -x = 4 → x = -4"
+    },
+    {
+      "question": "Résous : (x/3) + (x/2) = 10",
+      "options": ["x = 12", "x = 6", "x = 15", "x = 10"],
+      "reponse": "x = 12",
+      "explication": "Trouver le PPCM (3 et 2) = 6, donc 2x + 3x = 60 → 5x = 60 → x = 12"
+    }
+  ]
+}

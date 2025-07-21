@@ -1,0 +1,160 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le synonyme du mot « joyeux » ?",
+      "options": ["Triste", "Heureux", "Méchant", "Sérieux"],
+      "reponse": "Heureux",
+      "explication": "Un synonyme est un mot de sens proche. 'Joyeux' signifie aussi 'Heureux'."
+    },
+    {
+      "question": "Quel mot complète correctement la phrase : « Il ___ une pomme. »",
+      "options": ["mange", "mangent", "manges", "mangé"],
+      "reponse": "mange",
+      "explication": "Avec 'Il', le verbe se conjugue : Il mange."
+    },
+    {
+      "question": "Quel est le contraire du mot « grand » ?",
+      "options": ["Gros", "Petit", "Large", "Fort"],
+      "reponse": "Petit",
+      "explication": "Le contraire de 'grand' est 'petit'."
+    },
+    {
+      "question": "Quel est l'intrus parmi ces mots ?",
+      "options": ["Chien", "Chat", "Pomme", "Lapin"],
+      "reponse": "Pomme",
+      "explication": "'Pomme' est un fruit, les autres sont des animaux."
+    },
+    {
+      "question": "Quel est le synonyme du mot « joyeux » ?",
+      "options": ["Triste", "Heureux", "Méchant", "Sérieux"],
+      "reponse": "Heureux",
+      "explication": "Un synonyme est un mot de sens proche. 'Joyeux' signifie aussi 'Heureux'."
+    },
+    {
+      "question": "Quel mot complète correctement la phrase : « Il ___ une pomme. »",
+      "options": ["mange", "mangent", "manges", "mangé"],
+      "reponse": "mange",
+      "explication": "Avec 'Il', le verbe se conjugue : Il mange."
+    },
+    {
+      "question": "Quel est le contraire du mot « grand » ?",
+      "options": ["Gros", "Petit", "Large", "Fort"],
+      "reponse": "Petit",
+      "explication": "Le contraire de 'grand' est 'petit'."
+    },
+    {
+      "question": "Quel est l'intrus parmi ces mots ?",
+      "options": ["Chien", "Chat", "Pomme", "Lapin"],
+      "reponse": "Pomme",
+      "explication": "'Pomme' est un fruit, les autres sont des animaux."
+    },
+    {
+      "question": "Comment écrit-on le féminin de « lion » ?",
+      "options": ["Lione", "Lionne", "Lionesse", "Lionette"],
+      "reponse": "Lionne",
+      "explication": "Le féminin de 'lion' est 'lionne'."
+    },
+    {
+      "question": "Quel mot est un nom ?",
+      "options": ["Manger", "Beau", "Soleil", "Rouge"],
+      "reponse": "Soleil",
+      "explication": "'Soleil' est un nom commun."
+    },
+    {
+      "question": "Quel mot est un verbe ?",
+      "options": ["Table", "Courir", "Bleu", "Gentil"],
+      "reponse": "Courir",
+      "explication": "'Courir' est un verbe."
+    },
+    {
+      "question": "Quel mot complète correctement : « Nous ___ à l’école. »",
+      "options": ["va", "vas", "allez", "allons"],
+      "reponse": "allons",
+      "explication": "Avec 'Nous', on dit 'nous allons'."
+    },
+    {
+      "question": "Quel est le féminin de « instituteur » ?",
+      "options": ["Institutrice", "Instituée", "Institutrice", "Institutre"],
+      "reponse": "Institutrice",
+      "explication": "'Institutrice' est le féminin de 'instituteur'."
+    },
+    {
+      "question": "Quel mot est un adjectif qualificatif ?",
+      "options": ["Rapide", "Avion", "Courir", "Bonheur"],
+      "reponse": "Rapide",
+      "explication": "'Rapide' qualifie un nom, c’est un adjectif."
+    },
+    {
+      "question": "Quel est le contraire de « chaud » ?",
+      "options": ["Brûlant", "Tiède", "Froid", "Sec"],
+      "reponse": "Froid",
+      "explication": "Le contraire de 'chaud' est 'froid'."
+    },
+    {
+      "question": "Complète : « Elle ___ son cahier. »",
+      "options": ["ouvert", "ouvre", "ouvrent", "ouvrir"],
+      "reponse": "ouvre",
+      "explication": "Le verbe s’accorde : Elle ouvre."
+    },
+    {
+      "question": "Quel est le pluriel de « oiseau » ?",
+      "options": ["Oiseaus", "Oiseaux", "Oiseauses", "Oiseax"],
+      "reponse": "Oiseaux",
+      "explication": "'Oiseau' au pluriel devient 'Oiseaux'."
+    },
+    {
+      "question": "Quel mot est mal écrit ?",
+      "options": ["Maison", "Lapin", "Zanbra", "Chien"],
+      "reponse": "Zanbra",
+      "explication": "Le mot correct est 'zèbre', 'zanbra' n'existe pas."
+    },
+    {
+      "question": "Lequel de ces mots est un pronom personnel ?",
+      "options": ["Elle", "Jolie", "Courir", "Livre"],
+      "reponse": "Elle",
+      "explication": "'Elle' est un pronom personnel."
+    },
+    {
+      "question": "Comment appelle-t-on une phrase qui donne un ordre ?",
+      "options": ["Interrogative", "Exclamative", "Injonctive", "Déclarative"],
+      "reponse": "Injonctive",
+      "explication": "Une phrase qui donne un ordre est une phrase injonctive."
+    },
+    {
+      "question": "Complète avec le bon article : « ___ éléphant. »",
+      "options": ["Une", "Un", "Le", "La"],
+      "reponse": "Un",
+      "explication": "'Éléphant' est masculin, donc on dit 'Un éléphant'."
+    },
+    {
+      "question": "Le mot « vite » est :",
+      "options": ["un nom", "un adjectif", "un adverbe", "un pronom"],
+      "reponse": "un adverbe",
+      "explication": "'Vite' donne une information sur le verbe : c'est un adverbe."
+    },
+    {
+      "question": "Quel mot est au singulier ?",
+      "options": ["Chaises", "Chien", "Livres", "Arbres"],
+      "reponse": "Chien",
+      "explication": "'Chien' est au singulier, les autres sont au pluriel."
+    },
+    {
+      "question": "Quel mot est un mot invariable ?",
+      "options": ["Toujours", "Chaise", "Grand", "Chien"],
+      "reponse": "Toujours",
+      "explication": "'Toujours' ne change pas de forme, c’est un mot invariable."
+    },
+    {
+      "question": "Lequel de ces mots est un nom propre ?",
+      "options": ["Bamako", "village", "pays", "montagne"],
+      "reponse": "Bamako",
+      "explication": "'Bamako' est un nom propre, c’est le nom d'une ville."
+    },
+    {
+      "question": "Quelle est la terminaison du verbe à la 1re personne du singulier ?",
+      "options": ["-e", "-es", "-ent", "-ons"],
+      "reponse": "-e",
+      "explication": "Ex : je chante, je mange. Terminaison en '-e'."
+    }
+  ]
+}

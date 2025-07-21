@@ -1,0 +1,604 @@
+{
+  "qcm": [
+    {
+      "question": "Quel est le terme manquant dans la suite suivante : 3, 6, 11, 18, 27, ?",
+      "options": ["36", "38", "40", "37"],
+      "reponse": "38",
+      "explication": "On ajoute successivement 3, 5, 7, 9, 11 (nombres impairs croissants). 27 + 11 = 38."
+    },
+    {
+      "question": "Si 5 ouvriers construisent 3 maisons en 10 jours, combien de maisons 10 ouvriers peuvent-ils construire en 10 jours ?",
+      "options": ["6", "9", "12", "3"],
+      "reponse": "6",
+      "explication": "Productivité doublée avec 10 ouvriers, donc 6 maisons au lieu de 3."
+    },
+    {
+      "question": "Trouvez l’intrus : Carré, Triangle, Rectangle, Hexagone",
+      "options": ["Carré", "Triangle", "Rectangle", "Hexagone"],
+      "reponse": "Triangle",
+      "explication": "Tous les autres ont plus de trois côtés. Le triangle en a trois."
+    },
+    {
+      "question": "Quel est le mot qui ne va pas avec les autres ?",
+      "options": ["Chaleur", "Température", "Glace", "Canicule"],
+      "reponse": "Glace",
+      "explication": "Les autres sont des phénomènes liés à la température, 'glace' est un objet."
+    },
+    {
+      "question": "Quel nombre complète la série : 2, 4, 8, 16, ?",
+      "options": ["24", "30", "32", "36"],
+      "reponse": "32",
+      "explication": "C’est une suite de puissance de 2 : 2^1, 2^2, ..., donc 2^5 = 32."
+    },
+    {
+      "question": "Complétez : AZ, BY, CX, DW, ?",
+      "options": ["EV", "FU", "EX", "FV"],
+      "reponse": "EV",
+      "explication": "1ère lettre avance d’une lettre ; 2e recule d’une lettre. Après DW → E(+1), V(-1)."
+    },
+    {
+      "question": "Si LUNDI = 12345, alors MARDI = ?",
+      "options": ["13645", "13456", "13425", "12456"],
+      "reponse": "13456",
+      "explication": "Correspondance de position des lettres dans l’alphabet."
+    },
+    {
+      "question": "Combien de fois peut-on soustraire 5 de 25 ?",
+      "options": ["5 fois", "Une seule fois", "0 fois", "Infinité de fois"],
+      "reponse": "Une seule fois",
+      "explication": "Après la première soustraction, ce n’est plus 25."
+    },
+    {
+      "question": "Quel est l’intrus : 121, 144, 169, 196, 201",
+      "options": ["121", "144", "196", "201"],
+      "reponse": "201",
+      "explication": "Tous sauf 201 sont des carrés parfaits."
+    },
+    {
+      "question": "Si 1=3, 2=3, 3=5, 4=4, 5=4, alors 6 = ?",
+      "options": ["3", "5", "4", "6"],
+      "reponse": "3",
+      "explication": "Nombre de lettres dans le mot : 'six' → 3 lettres."
+    },
+    {
+      "question": "Quel nombre vient ensuite : 3, 9, 27, 81, ?",
+      "options": ["162", "243", "121", "90"],
+      "reponse": "243",
+      "explication": "Chaque terme est multiplié par 3."
+    },
+    {
+      "question": "Quel mot ne va pas avec les autres ?",
+      "options": ["Mètre", "Centimètre", "Kilogramme", "Millimètre"],
+      "reponse": "Kilogramme",
+      "explication": "C’est une unité de masse, les autres sont des unités de longueur."
+    },
+    {
+      "question": "Si J = 10, K = 11, alors M = ?",
+      "options": ["12", "13", "14", "15"],
+      "reponse": "13",
+      "explication": "Lettre J est la 10e, donc on donne le rang dans l’alphabet."
+    },
+    {
+      "question": "Quel nombre est différent : 2, 3, 5, 7, 9, 11",
+      "options": ["3", "5", "7", "9"],
+      "reponse": "9",
+      "explication": "Tous sauf 9 sont des nombres premiers."
+    },
+    {
+      "question": "Quel mot complète cette série ? L, M, N, O, ?",
+      "options": ["P", "R", "S", "Q"],
+      "reponse": "P",
+      "explication": "Suite alphabétique classique."
+    },
+    {
+      "question": "Quel mot ne va pas avec les autres ?",
+      "options": ["Banane", "Pomme", "Orange", "Tomate"],
+      "reponse": "Tomate",
+      "explication": "C’est un légume du point de vue culinaire, les autres sont fruits sucrés."
+    },
+    {
+      "question": "Si 1 x 1 = 1, 11 x 11 = 121, alors 111 x 111 = ?",
+      "options": ["12321", "12221", "11111", "11211"],
+      "reponse": "12321",
+      "explication": "Forme classique d’un carré : 111² = 12321."
+    },
+    {
+      "question": "Quel mot ne se rattache pas aux autres ?",
+      "options": ["Chien", "Chat", "Lion", "Singe"],
+      "reponse": "Singe",
+      "explication": "Les autres sont des carnivores domestiques ou sauvages, singe est un primate."
+    },
+    {
+      "question": "Quel est l’intrus : Aigle, Perroquet, Autruche, Hirondelle",
+      "options": ["Perroquet", "Autruche", "Hirondelle", "Aigle"],
+      "reponse": "Autruche",
+      "explication": "Elle ne vole pas, contrairement aux autres."
+    },
+    {
+      "question": "Si 2 = 6, 3 = 12, 4 = 20, alors 5 = ?",
+      "options": ["30", "25", "28", "22"],
+      "reponse": "30",
+      "explication": "2×3=6, 3×4=12, 4×5=20, donc 5×6=30."
+    },
+    {
+      "question": "Trouvez le mot intrus : Cuivre, Or, Fer, Bois",
+      "options": ["Cuivre", "Or", "Fer", "Bois"],
+      "reponse": "Bois",
+      "explication": "C’est un matériau organique, les autres sont des métaux."
+    },
+    {
+      "question": "Quel est l’intrus : Lundi, Mardi, Juin, Jeudi",
+      "options": ["Lundi", "Mardi", "Juin", "Jeudi"],
+      "reponse": "Juin",
+      "explication": "Juin est un mois, les autres sont des jours de la semaine."
+    },
+    {
+      "question": "Quelle lettre vient après cette série : A, C, F, J, ?",
+      "options": ["M", "O", "N", "L"],
+      "reponse": "O",
+      "explication": "Intervalle de +1, +2, +3, +4 → J+5 = O"
+    },
+    {
+      "question": "Quel chiffre complète : 1, 4, 9, 16, ?",
+      "options": ["20", "24", "25", "36"],
+      "reponse": "25",
+      "explication": "Carrés parfaits : 1², 2², ..., donc 5² = 25."
+    },
+    {
+      "question": "Trouvez l’intrus : Lait, Eau, Jus, Thé",
+      "options": ["Lait", "Eau", "Jus", "Thé"],
+      "reponse": "Lait",
+      "explication": "Les autres sont à base d’eau, le lait est un aliment naturel animal."
+    },
+    {
+      "question": "Dans une suite logique : 1, 3, 9, 27, ?, quel est le prochain nombre ?",
+      "options": ["54", "72", "81", "90"],
+      "reponse": "81",
+      "explication": "Chaque terme est multiplié par 3 : 1×3=3, 3×3=9, 9×3=27, 27×3=81."
+    },
+    {
+      "question": "Quel mot complète la série suivante ? rapide, lent, grand, petit, fort, ?",
+      "options": ["faible", "dur", "solide", "puissant"],
+      "reponse": "faible",
+      "explication": "Il s'agit d'opposés : rapide/lent, grand/petit, fort/faible."
+    },
+    {
+      "question": "Un train met 2 heures à parcourir 120 km. Combien de temps mettra-t-il pour 300 km à la même vitesse ?",
+      "options": ["4h", "5h", "6h", "3h"],
+      "reponse": "5h",
+      "explication": "120 km en 2h → 60 km/h. 300 ÷ 60 = 5h."
+    },
+    {
+      "question": "Trouvez l’intrus : triangle, carré, rectangle, sphère",
+      "options": ["triangle", "carré", "rectangle", "sphère"],
+      "reponse": "sphère",
+      "explication": "Tous les autres sont des figures planes, la sphère est une forme en 3D."
+    },
+    {
+      "question": "Quelle est la racine carrée de 1225 ?",
+      "options": ["35", "45", "55", "65"],
+      "reponse": "35",
+      "explication": "35 × 35 = 1225."
+    },
+    {
+      "question": "Complétez la suite : A, D, G, J, ?",
+      "options": ["L", "M", "N", "O"],
+      "reponse": "M",
+      "explication": "Intervalle de 3 lettres : A(+3)=D, D(+3)=G, G(+3)=J, J(+3)=M."
+    },
+    {
+      "question": "Quel est le contraire de 'injuste' ?",
+      "options": ["juste", "mauvais", "honnête", "neutre"],
+      "reponse": "juste",
+      "explication": "‘Juste’ est l'antonyme direct de ‘injuste’."
+    },
+    {
+      "question": "Si 3x + 2 = 11, quelle est la valeur de x ?",
+      "options": ["2", "3", "4", "5"],
+      "reponse": "3",
+      "explication": "3x = 11 - 2 = 9 → x = 3."
+    },
+    {
+      "question": "Quel est le mot qui signifie le contraire de 'optimiste' ?",
+      "options": ["pessimiste", "réaliste", "idéaliste", "logique"],
+      "reponse": "pessimiste",
+      "explication": "Optimiste : voit le bon côté → contraire : pessimiste."
+    },
+    {
+      "question": "Quelle est la lettre qui vient juste avant Q dans l’alphabet ?",
+      "options": ["N", "O", "P", "R"],
+      "reponse": "P",
+      "explication": "L’alphabet : ... O, P, Q ..."
+    },
+    {
+      "question": "Dans 5 ans, l'âge de Koffi sera le triple de celui qu’il avait il y a 5 ans. Quel est son âge actuel ?",
+      "options": ["10", "15", "20", "25"],
+      "reponse": "15",
+      "explication": "Soit x son âge. Dans 5 ans : x+5 ; il y a 5 ans : x-5 ; x+5 = 3(x-5) → x+5 = 3x-15 → 2x = 20 → x = 15."
+    },
+    {
+      "question": "Complétez la série : 2, 4, 7, 11, 16, ?",
+      "options": ["20", "22", "24", "26"],
+      "reponse": "22",
+      "explication": "+2, +3, +4, +5, donc +6 → 16 + 6 = 22."
+    },
+    {
+      "question": "Si L=12, alors M+N = ?",
+      "options": ["26", "27", "25", "28"],
+      "reponse": "27",
+      "explication": "L=12, donc M=13, N=14 → 13+14=27."
+    },
+    {
+      "question": "Quelle figure n’a pas d’angles ?",
+      "options": ["Triangle", "Cercle", "Carré", "Pentagone"],
+      "reponse": "Cercle",
+      "explication": "Le cercle n'a ni côté ni angle."
+    },
+    {
+      "question": "Quel est le mot intrus : livre, cahier, stylo, brosse",
+      "options": ["stylo", "livre", "cahier", "brosse"],
+      "reponse": "brosse",
+      "explication": "Les trois premiers sont liés à l'écriture ; brosse ne l’est pas."
+    },
+    {
+      "question": "Quel est le résultat de : (3² + 4²) ?",
+      "options": ["25", "16", "10", "30"],
+      "reponse": "25",
+      "explication": "3²=9, 4²=16 → 9+16=25."
+    },
+    {
+      "question": "Quel est le nombre qui complète la série : 9, 16, 25, 36, ?",
+      "options": ["47", "49", "51", "64"],
+      "reponse": "49",
+      "explication": "Ce sont des carrés parfaits : 3², 4², 5², 6², 7² = 49."
+    },
+    {
+      "question": "Quel est l’antonyme de 'taciturne' ?",
+      "options": ["bavard", "timide", "silencieux", "introverti"],
+      "reponse": "bavard",
+      "explication": "Taciturne : silencieux → antonyme : bavard."
+    },
+    {
+      "question": "Complétez la série logique : B, D, G, K, ?",
+      "options": ["M", "N", "O", "P"],
+      "reponse": "P",
+      "explication": "+2, +3, +4, +5 → B(+2)=D, D(+3)=G, G(+4)=K, K(+5)=P."
+    },
+    {
+      "question": "Dans une classe de 40 élèves, 60% sont des filles. Combien y a-t-il de garçons ?",
+      "options": ["14", "16", "20", "24"],
+      "reponse": "16",
+      "explication": "60% de 40 = 24 filles → 40 - 24 = 16 garçons."
+    },
+    {
+      "question": "Quel est le contraire de 'croissant' ?",
+      "options": ["décroissant", "continu", "ascendant", "stable"],
+      "reponse": "décroissant",
+      "explication": "Croissant = qui augmente → contraire = décroissant."
+    },
+    {
+      "question": "Quel mot est mal orthographié ?",
+      "options": ["intelligence", "opinion", "proffession", "résultat"],
+      "reponse": "proffession",
+      "explication": "Le mot correct est ‘profession’, avec un seul ‘f’."
+    },
+    {
+      "question": "Quel est le mot intrus : sel, poivre, sucre, huile",
+      "options": ["sucre", "huile", "sel", "poivre"],
+      "reponse": "huile",
+      "explication": "Les autres sont des poudres ; l’huile est liquide."
+    },
+    {
+      "question": "Quel est le synonyme de 'délibéré' ?",
+      "options": ["volontaire", "accidentel", "forcé", "rapide"],
+      "reponse": "volontaire",
+      "explication": "Délibéré = fait avec intention = volontaire."
+    },
+    {
+      "question": "Combien de secondes y a-t-il dans 2h15min ?",
+      "options": ["8100", "7200", "7500", "8100"],
+      "reponse": "8100",
+      "explication": "2h15 = 135 min = 135 × 60 = 8100 sec."
+    },
+    {
+      "question": "Quel est l’intrus : stylo, crayon, règle, assiette",
+      "options": ["stylo", "crayon", "règle", "assiette"],
+      "reponse": "assiette",
+      "explication": "Les trois premiers sont des outils scolaires, l’assiette est de cuisine."
+    },
+    {
+      "question": "Complète la série : 10, 20, 40, 80, ?",
+      "options": ["100", "120", "160", "180"],
+      "reponse": "160",
+      "explication": "On multiplie chaque terme par 2 : 80×2 = 160."
+    },
+    {
+      "question": "Si un livre coûte 300 F, combien coûtent 5 livres ?",
+      "options": ["1000", "1200", "1500", "1800"],
+      "reponse": "1500",
+      "explication": "300 × 5 = 1500 F."
+    },
+    {
+      "question": "Quel mot est le contraire de ‘difficile’ ?",
+      "options": ["facile", "rapide", "fort", "juste"],
+      "reponse": "facile",
+      "explication": "Facile est l’opposé de difficile."
+    },
+    {
+      "question": "Quel est l’intrus : juillet, août, hiver, septembre",
+      "options": ["juillet", "août", "hiver", "septembre"],
+      "reponse": "hiver",
+      "explication": "Hiver est une saison, les autres sont des mois."
+    },
+    {
+      "question": "Trouve l’intrus : 2, 4, 6, 7, 8",
+      "options": ["2", "4", "6", "7"],
+      "reponse": "7",
+      "explication": "Tous les autres sont pairs sauf 7."
+    },
+    {
+      "question": "Quel mot est lié à la santé ?",
+      "options": ["médecin", "voiture", "crayon", "pantalon"],
+      "reponse": "médecin",
+      "explication": "Le médecin est lié à la santé."
+    },
+    {
+      "question": "Si lundi est le 1er jour du mois, quel jour sera le 5 ?",
+      "options": ["vendredi", "jeudi", "samedi", "dimanche"],
+      "reponse": "vendredi",
+      "explication": "1 = lundi, donc 5 = vendredi."
+    },
+    {
+      "question": "Quel mot ne va pas avec les autres : marteau, tournevis, balai, pince",
+      "options": ["marteau", "tournevis", "balai", "pince"],
+      "reponse": "balai",
+      "explication": "Le balai sert à nettoyer, les autres sont des outils de bricolage."
+    },
+    {
+      "question": "Quel est le total de : 3 + 6 + 9 ?",
+      "options": ["15", "16", "17", "18"],
+      "reponse": "18",
+      "explication": "3 + 6 = 9, 9 + 9 = 18."
+    },
+    {
+      "question": "Complète la suite : 1, 4, 9, 16, ?",
+      "options": ["20", "25", "24", "30"],
+      "reponse": "25",
+      "explication": "Ce sont les carrés parfaits : 1², 2², 3², 4², 5² = 25."
+    },
+    {
+      "question": "Quel mot est un synonyme de ‘joie’ ?",
+      "options": ["tristesse", "colère", "bonheur", "peur"],
+      "reponse": "bonheur",
+      "explication": "Joie et bonheur sont synonymes."
+    },
+    {
+      "question": "Quel mot complète cette analogie : lait est à vache, comme œuf est à...",
+      "options": ["chien", "poule", "chat", "mouton"],
+      "reponse": "poule",
+      "explication": "La vache donne le lait, la poule donne l'œuf."
+    },
+    {
+      "question": "Quel nombre vient après 64 si on suit la suite : 2, 4, 8, 16, 32, 64, ?",
+      "options": ["96", "100", "128", "120"],
+      "reponse": "128",
+      "explication": "Chaque nombre est multiplié par 2."
+    },
+    {
+      "question": "Quel mot est un synonyme de ‘rapide’ ?",
+      "options": ["lent", "vite", "court", "fort"],
+      "reponse": "vite",
+      "explication": "Rapide et vite ont le même sens."
+    },
+    {
+      "question": "Quel est l’intrus : cheval, âne, lapin, tracteur",
+      "options": ["cheval", "âne", "lapin", "tracteur"],
+      "reponse": "tracteur",
+      "explication": "Le tracteur est une machine, les autres sont des animaux."
+    },
+    {
+      "question": "Si un triangle a 3 côtés, combien de côtés ont 4 triangles ?",
+      "options": ["10", "11", "12", "13"],
+      "reponse": "12",
+      "explication": "4 × 3 = 12 côtés."
+    },
+    {
+      "question": "Quel est le contraire de ‘haut’ ?",
+      "options": ["fort", "bas", "gros", "grand"],
+      "reponse": "bas",
+      "explication": "Le contraire de haut est bas."
+    },
+    {
+      "question": "Quel nombre complète la série : 2, 5, 10, 17, ?",
+      "options": ["26", "24", "28", "30"],
+      "reponse": "26",
+      "explication": "+3, +5, +7, +9 donc suivant = 17+9 = 26."
+    },
+    {
+      "question": "Quel mot est lié au mot ‘dentiste’ ?",
+      "options": ["dents", "yeux", "nez", "oreilles"],
+      "reponse": "dents",
+      "explication": "Le dentiste soigne les dents."
+    },
+    {
+      "question": "Complète la logique : 3 est à 9, comme 4 est à...",
+      "options": ["8", "10", "12", "16"],
+      "reponse": "16",
+      "explication": "3² = 9, donc 4² = 16."
+    },
+    {
+      "question": "Trouve l’intrus : bois, pierre, sable, soleil",
+      "options": ["bois", "pierre", "sable", "soleil"],
+      "reponse": "soleil",
+      "explication": "Le soleil n’est pas un matériau de construction."
+    },
+    {
+      "question": "Quel mot est synonyme de ‘parler’ ?",
+      "options": ["manger", "crier", "dire", "écouter"],
+      "reponse": "dire",
+      "explication": "Parler et dire sont proches."
+    },
+    {
+      "question": "Quel nombre complète : 100, 90, 81, 73, ?",
+      "options": ["65", "66", "64", "70"],
+      "reponse": "66",
+      "explication": "Différences : -10, -9, -8... donc 73 - 7 = 66."
+    },
+    {
+      "question": "Quel est le mot contraire de ‘ouvrir’ ?",
+      "options": ["fermer", "tourner", "bloquer", "soulever"],
+      "reponse": "fermer",
+      "explication": "Le contraire d’ouvrir est fermer."
+    },
+    {
+      "question": "Complète la suite : 3, 6, 12, 24, ?",
+      "options": ["36", "48", "50", "60"],
+      "reponse": "48",
+      "explication": "Chaque nombre est multiplié par 2 : 3×2 = 6, 6×2 = 12, etc. 24×2 = 48."
+    },
+    {
+      "question": "Quel est l'intrus : carré, triangle, rectangle, cercle",
+      "options": ["carré", "triangle", "rectangle", "cercle"],
+      "reponse": "cercle",
+      "explication": "Le cercle n'a pas d'angle, les autres en ont."
+    },
+    {
+      "question": "Quel mot ne va pas avec les autres : chien, chat, vache, stylo",
+      "options": ["chien", "chat", "vache", "stylo"],
+      "reponse": "stylo",
+      "explication": "Stylo est un objet, les autres sont des animaux."
+    },
+    {
+      "question": "Si un vélo a 2 roues, combien en ont 7 vélos ?",
+      "options": ["12", "14", "16", "10"],
+      "reponse": "14",
+      "explication": "2 × 7 = 14 roues."
+    },
+    {
+      "question": "Quel est le nombre suivant dans la série : 100, 90, 80, 70, ?",
+      "options": ["60", "50", "65", "75"],
+      "reponse": "60",
+      "explication": "La série diminue de 10 à chaque fois."
+    },
+    {
+      "question": "Quel est l'intrus : lion, tigre, léopard, chameau",
+      "options": ["lion", "tigre", "léopard", "chameau"],
+      "reponse": "chameau",
+      "explication": "Le chameau n’est pas un félin."
+    },
+    {
+      "question": "Quel mot complète la phrase : le feu est au rouge, je dois...",
+      "options": ["passer", "accélérer", "freiner", "klaxonner"],
+      "reponse": "freiner",
+      "explication": "Au feu rouge, on s'arrête ou on freine."
+    },
+    {
+      "question": "Quel nombre est le plus proche de 100 : 85, 92, 110, 97",
+      "options": ["85", "92", "110", "97"],
+      "reponse": "97",
+      "explication": "97 est à seulement 3 unités de 100."
+    },
+    {
+      "question": "Quel est le contraire de rapide ?",
+      "options": ["lent", "rapide", "fort", "léger"],
+      "reponse": "lent",
+      "explication": "Le contraire de rapide est lent."
+    },
+    {
+      "question": "Complète : 2, 4, 8, 16, ?",
+      "options": ["24", "30", "32", "20"],
+      "reponse": "32",
+      "explication": "Chaque nombre est multiplié par 2."
+    },
+    {
+      "question": "Trouve l’intrus : 5, 10, 15, 20, 22",
+      "options": ["5", "10", "15", "22"],
+      "reponse": "22",
+      "explication": "Tous sont des multiples de 5 sauf 22."
+    },
+    {
+      "question": "Quel mot est associé à l’école ?",
+      "options": ["table", "craie", "fourchette", "télécommande"],
+      "reponse": "craie",
+      "explication": "La craie est liée à l’école."
+    },
+    {
+      "question": "Quel mot ne va pas avec les autres : médecin, infirmier, hôpital, marteau",
+      "options": ["médecin", "infirmier", "hôpital", "marteau"],
+      "reponse": "marteau",
+      "explication": "Le marteau est un outil de bricolage, pas du domaine médical."
+    },
+    {
+      "question": "Si un rectangle a 4 côtés, combien en ont 3 rectangles ?",
+      "options": ["8", "10", "12", "14"],
+      "reponse": "12",
+      "explication": "4 × 3 = 12 côtés."
+    },
+    {
+      "question": "Complète : 1, 1, 2, 3, 5, 8, ?",
+      "options": ["10", "12", "13", "15"],
+      "reponse": "13",
+      "explication": "Suite de Fibonacci : 5+8 = 13."
+    },
+    {
+      "question": "Quel mot est synonyme de ‘intelligent’ ?",
+      "options": ["bête", "sage", "malin", "paresseux"],
+      "reponse": "malin",
+      "explication": "Malin est un synonyme d’intelligent."
+    },
+    {
+      "question": "Quel mot complète : jour est à lumière, comme nuit est à...",
+      "options": ["étoile", "lune", "sombre", "matin"],
+      "reponse": "sombre",
+      "explication": "Le jour est lumineux, la nuit est sombre."
+    },
+    {
+      "question": "Combien de pattes ont 4 chiens ?",
+      "options": ["12", "14", "16", "18"],
+      "reponse": "16",
+      "explication": "4 chiens × 4 pattes = 16 pattes."
+    },
+    {
+      "question": "Quel est le nombre impair : 10, 14, 17, 20",
+      "options": ["10", "14", "17", "20"],
+      "reponse": "17",
+      "explication": "17 est le seul impair."
+    },
+    {
+      "question": "Complète : janvier, février, mars, ?",
+      "options": ["mai", "avril", "juin", "juillet"],
+      "reponse": "avril",
+      "explication": "Avril vient après mars."
+    },
+    {
+      "question": "Quel mot est lié à l’électricité ?",
+      "options": ["fil", "balle", "pied", "papier"],
+      "reponse": "fil",
+      "explication": "Un fil conduit l’électricité."
+    },
+    {
+      "question": "Quelle lettre vient après T dans l’alphabet ?",
+      "options": ["U", "S", "V", "T"],
+      "reponse": "U",
+      "explication": "T → U dans l’ordre alphabétique."
+    },
+    {
+      "question": "Quel mot est un intrus : pomme, mangue, tomate, banane",
+      "options": ["pomme", "mangue", "tomate", "banane"],
+      "reponse": "tomate",
+      "explication": "La tomate est un légume-fruit, les autres sont des fruits sucrés."
+    },
+    {
+      "question": "Combien y a-t-il de mois dans une année ?",
+      "options": ["10", "11", "12", "13"],
+      "reponse": "12",
+      "explication": "L’année comporte 12 mois."
+    },
+    {
+      "question": "Complète : 2, 5, 10, 17, ?",
+      "options": ["25", "26", "28", "30"],
+      "reponse": "26",
+      "explication": "Suite : +3, +5, +7, +9 donc 17 + 9 = 26."
+    }
+  ]
+}

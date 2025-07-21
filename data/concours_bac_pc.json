@@ -1,0 +1,473 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est l’unité de la masse dans le système international ?",
+      "options": ["Kilogramme", "Grammes", "Newton", "Mètre"],
+      "reponse": "Kilogramme",
+      "explication": "La masse se mesure en kilogrammes (kg) dans le système international."
+    },
+    {
+      "question": "Quel instrument permet de mesurer la température ?",
+      "options": ["Thermomètre", "Baromètre", "Voltmètre", "Balance"],
+      "reponse": "Thermomètre",
+      "explication": "Le thermomètre mesure la température."
+    },
+    {
+      "question": "Quelle est la formule de la vitesse moyenne ?",
+      "options": ["v = d / t", "v = t / d", "v = d × t", "v = t × d"],
+      "reponse": "v = d / t",
+      "explication": "La vitesse moyenne est la distance divisée par le temps."
+    },
+    {
+      "question": "Quelle est l’unité de la vitesse dans le système international ?",
+      "options": ["m/s", "km/h", "m", "s"],
+      "reponse": "m/s",
+      "explication": "L’unité SI de la vitesse est le mètre par seconde (m/s)."
+    },
+    {
+      "question": "Qu’est-ce qu’un atome ?",
+      "options": ["La plus petite particule d’un élément chimique", "Une molécule", "Un proton", "Une cellule"],
+      "reponse": "La plus petite particule d’un élément chimique",
+      "explication": "L’atome est la plus petite unité d’un élément chimique."
+    },
+    {
+      "question": "Quel est le symbole chimique de l’eau ?",
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "reponse": "H2O",
+      "explication": "L’eau est composée de deux atomes d’hydrogène et un atome d’oxygène : H2O."
+    },
+    {
+      "question": "Quelle est la charge d’un proton ?",
+      "options": ["Positive", "Négative", "Neutre", "Variable"],
+      "reponse": "Positive",
+      "explication": "Le proton a une charge positive."
+    },
+    {
+      "question": "Qu’est-ce que la masse volumique ?",
+      "options": ["La masse par unité de volume", "La masse totale", "Le volume total", "La densité"],
+      "reponse": "La masse par unité de volume",
+      "explication": "La masse volumique est la masse d’un objet divisée par son volume."
+    },
+    {
+      "question": "Quelle est la formule chimique du dioxyde de carbone ?",
+      "options": ["CO2", "CO", "O2", "C2O"],
+      "reponse": "CO2",
+      "explication": "Le dioxyde de carbone est composé d’un atome de carbone et de deux atomes d’oxygène."
+    },
+    {
+      "question": "Quelle est la principale source d’énergie de la Terre ?",
+      "options": ["Le Soleil", "Le vent", "Les océans", "Le charbon"],
+      "reponse": "Le Soleil",
+      "explication": "Le Soleil est la source principale d’énergie sur Terre."
+    },
+    {
+      "question": "Comment s’appelle le passage de l’état liquide à l’état gazeux ?",
+      "options": ["Évaporation", "Condensation", "Fusion", "Solidification"],
+      "reponse": "Évaporation",
+      "explication": "L’évaporation est la transformation du liquide en gaz."
+    },
+    {
+      "question": "Quelle est la formule de la force selon la deuxième loi de Newton ?",
+      "options": ["F = m × a", "F = m / a", "F = a / m", "F = m + a"],
+      "reponse": "F = m × a",
+      "explication": "La force est le produit de la masse par l’accélération."
+    },
+    {
+      "question": "Quelle est l’unité de la force ?",
+      "options": ["Newton (N)", "Kilogramme (kg)", "Joule (J)", "Watt (W)"],
+      "reponse": "Newton (N)",
+      "explication": "L’unité de la force est le Newton."
+    },
+    {
+      "question": "Quelle est la température d’ébullition de l’eau à la pression normale ?",
+      "options": ["100°C", "0°C", "50°C", "212°C"],
+      "reponse": "100°C",
+      "explication": "L’eau bout à 100°C à la pression atmosphérique normale."
+    },
+    {
+      "question": "Qu’est-ce qu’un mélange homogène ?",
+      "options": ["Un mélange où les composants sont uniformément répartis", "Un mélange où les composants sont visibles", "Un mélange de liquides uniquement", "Un mélange de solides uniquement"],
+      "reponse": "Un mélange où les composants sont uniformément répartis",
+      "explication": "Dans un mélange homogène, on ne distingue pas les différents composants à l'œil nu."
+    },
+    {
+      "question": "Quelle particule a une charge négative dans un atome ?",
+      "options": ["Électron", "Proton", "Neutron", "Ion"],
+      "reponse": "Électron",
+      "explication": "L’électron porte une charge négative."
+    },
+    {
+      "question": "Quelle est la principale propriété des métaux ?",
+      "options": ["Bonne conductivité électrique", "Mauvaise conductivité", "Fragilité", "Mauvaise conductivité thermique"],
+      "reponse": "Bonne conductivité électrique",
+      "explication": "Les métaux conduisent bien l’électricité."
+    },
+    {
+      "question": "Comment appelle-t-on le passage de l’état solide à l’état liquide ?",
+      "options": ["Fusion", "Solidification", "Condensation", "Vaporisation"],
+      "reponse": "Fusion",
+      "explication": "La fusion est le passage de l’état solide à liquide."
+    },
+    {
+      "question": "Quel est l’effet d’une force sur un objet ?",
+      "options": ["Modifier sa vitesse ou sa direction", "Rien", "Le faire disparaître", "Réduire sa masse"],
+      "reponse": "Modifier sa vitesse ou sa direction",
+      "explication": "Une force modifie le mouvement d’un objet."
+    },
+    {
+      "question": "Quelle est la formule chimique du sel de table ?",
+      "options": ["NaCl", "KCl", "H2SO4", "NaOH"],
+      "reponse": "NaCl",
+      "explication": "Le sel de table est le chlorure de sodium : NaCl."
+    },
+    {
+      "question": "Quelle est la charge d’un neutron ?",
+      "options": ["Neutre", "Positive", "Négative", "Variable"],
+      "reponse": "Neutre",
+      "explication": "Le neutron est électriquement neutre."
+    },
+    {
+      "question": "Comment s’appelle la quantité de matière ?",
+      "options": ["Mole", "Masse", "Volume", "Densité"],
+      "reponse": "Mole",
+      "explication": "La mole est l’unité de la quantité de matière."
+    },
+    {
+      "question": "Quel phénomène correspond à la condensation ?",
+      "options": ["Passage du gaz à l’état liquide", "Passage du liquide à l’état gazeux", "Passage du solide à l’état liquide", "Passage du liquide à l’état solide"],
+      "reponse": "Passage du gaz à l’état liquide",
+      "explication": "La condensation est le passage de la vapeur à l’eau liquide."
+    },
+    {
+      "question": "Quelle est la formule de la pression ?",
+      "options": ["P = F / S", "P = m / V", "P = V / t", "P = m × a"],
+      "reponse": "P = F / S",
+      "explication": "La pression est la force divisée par la surface."
+    },
+    {
+      "question": "Quelle est l’unité de la pression dans le système international ?",
+      "options": ["Pascal (Pa)", "Newton (N)", "Joule (J)", "Watt (W)"],
+      "reponse": "Pascal (Pa)",
+      "explication": "La pression se mesure en Pascal."
+    },
+    {
+      "question": "Quelle est la nature d’un objet qui réfléchit la lumière ?",
+      "options": ["Un miroir", "Un objet opaque", "Un objet transparent", "Un objet translucide"],
+      "reponse": "Un miroir",
+      "explication": "Un miroir réfléchit la lumière."
+    },
+    {
+      "question": "Quelle est la formule de la puissance électrique ?",
+      "options": ["P = U × I", "P = U / I", "P = I / U", "P = U + I"],
+      "reponse": "P = U × I",
+      "explication": "La puissance est le produit de la tension par l’intensité."
+    },
+    {
+      "question": "Quelle unité mesure l’intensité électrique ?",
+      "options": ["Ampère (A)", "Volt (V)", "Ohm (Ω)", "Watt (W)"],
+      "reponse": "Ampère (A)",
+      "explication": "L’intensité se mesure en ampères."
+    },
+    {
+      "question": "Qu’est-ce qu’un circuit en série ?",
+      "options": ["Un circuit où les composants sont connectés les uns après les autres", "Un circuit où les composants sont connectés en parallèle", "Un circuit sans interrupteur", "Un circuit fermé uniquement"],
+      "reponse": "Un circuit où les composants sont connectés les uns après les autres",
+      "explication": "En série, les composants sont connectés l’un après l’autre."
+    },
+    {
+      "question": "Quelle est la loi d’Ohm ?",
+      "options": ["U = R × I", "I = R × U", "R = U / I", "U = I / R"],
+      "reponse": "U = R × I",
+      "explication": "La tension est égale au produit de la résistance par l’intensité."
+    },
+    {
+      "question": "Quel est l’effet d’un aimant sur des objets ferromagnétiques ?",
+      "options": ["Ils sont attirés", "Ils sont repoussés", "Ils sont détruits", "Ils sont invisibles"],
+      "reponse": "Ils sont attirés",
+      "explication": "Les objets ferromagnétiques sont attirés par un aimant."
+    },
+    {
+      "question": "Quelle est la source d’énergie dans une pile électrique ?",
+      "options": ["Réaction chimique", "Mouvement mécanique", "Chaleur", "Lumière"],
+      "reponse": "Réaction chimique",
+      "explication": "Une pile produit de l’électricité grâce à une réaction chimique."
+    },
+    {
+      "question": "Comment appelle-t-on la transformation d’un liquide en solide ?",
+      "options": ["Solidification", "Fusion", "Vaporisation", "Condensation"],
+      "reponse": "Solidification",
+      "explication": "La solidification est le passage de l’état liquide à l’état solide."
+    },
+    {
+      "question": "Quel est le symbole chimique du sodium ?",
+      "options": ["Na", "S", "Sn", "N"],
+      "reponse": "Na",
+      "explication": "Le sodium a pour symbole Na."
+    },
+    {
+      "question": "Quelle est la charge électrique d’un ion positif ?",
+      "options": ["Positive", "Négative", "Neutre", "Variable"],
+      "reponse": "Positive",
+      "explication": "Un ion positif porte une charge positive."
+    },
+    {
+      "question": "Comment appelle-t-on la transformation d’un gaz en solide ?",
+      "options": ["Dépôt", "Sublimation", "Condensation", "Solidification"],
+      "reponse": "Dépôt",
+      "explication": "Le dépôt est le passage direct du gaz au solide."
+    },
+    {
+      "question": "Quelle grandeur physique mesure un voltmètre ?",
+      "options": ["La tension électrique", "L’intensité électrique", "La résistance", "La puissance"],
+      "reponse": "La tension électrique",
+      "explication": "Le voltmètre mesure la tension en volts."
+    },
+    {
+      "question": "Que se passe-t-il lors d’une réaction chimique ?",
+      "options": ["Les substances initiales se transforment en nouvelles substances", "Les substances restent inchangées", "Les substances disparaissent", "Les substances changent de couleur seulement"],
+      "reponse": "Les substances initiales se transforment en nouvelles substances",
+      "explication": "Une réaction chimique modifie la nature des substances."
+    },
+    {
+      "question": "Quel est le symbole chimique de l’oxygène ?",
+      "options": ["O", "Ox", "Oy", "Oxg"],
+      "reponse": "O",
+      "explication": "Le symbole chimique de l’oxygène est O."
+    },
+    {
+      "question": "Qu’est-ce que la masse atomique ?",
+      "options": ["La masse moyenne d’un atome d’un élément", "Le nombre de protons", "La charge électrique", "Le volume de l’atome"],
+      "reponse": "La masse moyenne d’un atome d’un élément",
+      "explication": "La masse atomique est la masse moyenne des atomes d’un élément."
+    },
+    {
+      "question": "Quel est l’état de la matière à température ambiante pour l’eau ?",
+      "options": ["Liquide", "Solide", "Gazeux", "Plasma"],
+      "reponse": "Liquide",
+      "explication": "L’eau est liquide à température ambiante."
+    },
+    {
+      "question": "Qu’est-ce que l’énergie cinétique ?",
+      "options": ["Énergie liée au mouvement d’un objet", "Énergie stockée", "Énergie thermique", "Énergie électrique"],
+      "reponse": "Énergie liée au mouvement d’un objet",
+      "explication": "L’énergie cinétique dépend de la vitesse et de la masse d’un objet."
+    },
+    {
+      "question": "Quelle est la relation entre pression, force et surface ?",
+      "options": ["P = F / S", "P = F × S", "P = S / F", "P = F + S"],
+      "reponse": "P = F / S",
+      "explication": "La pression est la force divisée par la surface."
+    },
+    {
+      "question": "Comment s’appelle la capacité d’un corps à restituer de l’électricité ?",
+      "options": ["Conductivité électrique", "Résistance électrique", "Capacité électrique", "Intensité électrique"],
+      "reponse": "Conductivité électrique",
+      "explication": "La conductivité électrique est la capacité à conduire l’électricité."
+    },
+    {
+      "question": "Quelle est la valeur de la constante gravitationnelle g à la surface de la Terre ?",
+      "options": ["9,8 m/s²", "9,8 km/s²", "10 m/s", "9,8 N/kg"],
+      "reponse": "9,8 m/s²",
+      "explication": "g = 9,8 m/s² est l’accélération due à la gravité terrestre."
+    },
+    {
+      "question": "Quelle unité utilise-t-on pour mesurer la fréquence ?",
+      "options": ["Hertz (Hz)", "Secondes (s)", "Watts (W)", "Joules (J)"],
+      "reponse": "Hertz (Hz)",
+      "explication": "La fréquence se mesure en Hertz."
+    },
+    {
+      "question": "Qu’est-ce que la réfraction de la lumière ?",
+      "options": ["Changement de direction de la lumière en traversant un milieu", "Réflexion de la lumière", "Absorption de la lumière", "Dispersion de la lumière"],
+      "reponse": "Changement de direction de la lumière en traversant un milieu",
+      "explication": "La réfraction est le changement de direction lors du passage d’un milieu à un autre."
+    },
+    {
+      "question": "Quel est le rôle d’un isolant électrique ?",
+      "options": ["Empêcher le passage du courant électrique", "Faciliter le passage du courant", "Stocker l’électricité", "Générer de l’électricité"],
+      "reponse": "Empêcher le passage du courant électrique",
+      "explication": "Un isolant empêche le passage du courant."
+    },
+    {
+      "question": "Quelle est la nature d’une onde sonore ?",
+      "options": ["Onde mécanique longitudinale", "Onde électromagnétique", "Onde transverse", "Onde stationnaire"],
+      "reponse": "Onde mécanique longitudinale",
+      "explication": "Le son est une onde mécanique longitudinale."
+    },
+    {
+      "question": "Quelle est la formule de la vitesse dans un mouvement rectiligne uniforme ?",
+      "options": ["v = d / t", "v = m / t", "v = F / m", "v = E / t"],
+      "reponse": "v = d / t",
+      "explication": "Dans un MRU, la vitesse est le rapport entre la distance et le temps."
+    },
+    {
+      "question": "Quelle est l’unité de la force dans le système international ?",
+      "options": ["N", "J", "W", "Pa"],
+      "reponse": "N",
+      "explication": "Le Newton (N) est l’unité de la force dans le SI."
+    },
+    {
+      "question": "Quelle est la deuxième loi de Newton ?",
+      "options": ["F = m × a", "F = m / a", "F = a / m", "F = v × t"],
+      "reponse": "F = m × a",
+      "explication": "Elle exprime la relation entre la force, la masse et l’accélération."
+    },
+    {
+      "question": "Quelle est l’expression de l’énergie cinétique ?",
+      "options": ["Ec = ½mv²", "Ec = mgh", "Ec = mv", "Ec = ½gt²"],
+      "reponse": "Ec = ½mv²",
+      "explication": "L’énergie cinétique dépend de la masse et de la vitesse de l’objet."
+    },
+    {
+      "question": "Comment calcule-t-on la masse volumique ?",
+      "options": ["ρ = m / V", "ρ = V / m", "ρ = F / V", "ρ = E / m"],
+      "reponse": "ρ = m / V",
+      "explication": "La masse volumique est le rapport entre la masse et le volume."
+    },
+    {
+      "question": "Quelle est la formule de l’énergie potentielle gravitationnelle ?",
+      "options": ["Ep = mgh", "Ep = ½mv²", "Ep = Fd", "Ep = m / g"],
+      "reponse": "Ep = mgh",
+      "explication": "Elle dépend de la masse, de la gravité et de la hauteur."
+    },
+    {
+      "question": "Quel est l’effet d’une force sur un corps ?",
+      "options": ["Modifier son mouvement", "Changer sa masse", "Changer son volume", "Modifier sa température"],
+      "reponse": "Modifier son mouvement",
+      "explication": "Une force peut modifier la vitesse ou la direction d’un corps."
+    },
+    {
+      "question": "Quelle est la formule de la pression ?",
+      "options": ["P = F / S", "P = S / F", "P = m / V", "P = F × S"],
+      "reponse": "P = F / S",
+      "explication": "La pression est le rapport entre la force appliquée et la surface."
+    },
+    {
+      "question": "Quelle est l’unité de l’énergie dans le système international ?",
+      "options": ["J", "N", "W", "Pa"],
+      "reponse": "J",
+      "explication": "Le Joule (J) est l’unité d’énergie dans le SI."
+    },
+    {
+      "question": "Que représente le champ électrique E ?",
+      "options": ["E = F / q", "E = q / F", "E = V / I", "E = F × q"],
+      "reponse": "E = F / q",
+      "explication": "Le champ électrique est le rapport entre la force et la charge test."
+    },
+
+    {
+      "question": "Quelle est la formule de l’intensité du courant électrique ?",
+      "options": ["I = Q / t", "I = t / Q", "I = V / R", "I = P / V"],
+      "reponse": "I = Q / t",
+      "explication": "L’intensité est la quantité de charge électrique par unité de temps."
+    },
+    {
+      "question": "Quelle est la loi d’Ohm ?",
+      "options": ["U = R × I", "U = I / R", "U = R / I", "U = I² × R"],
+      "reponse": "U = R × I",
+      "explication": "Elle relie la tension, la résistance et l’intensité."
+    },
+    {
+      "question": "Comment calcule-t-on la puissance électrique ?",
+      "options": ["P = U × I", "P = U / I", "P = R × I", "P = U² / R"],
+      "reponse": "P = U × I",
+      "explication": "La puissance est le produit de la tension et de l’intensité."
+    },
+    {
+      "question": "Quelle est l’unité de la puissance ?",
+      "options": ["W", "J", "A", "V"],
+      "reponse": "W",
+      "explication": "Le Watt est l’unité de la puissance dans le SI."
+    },
+    {
+      "question": "Comment calcule-t-on le travail d’une force constante ?",
+      "options": ["W = F × d", "W = m × g", "W = E / t", "W = P × V"],
+      "reponse": "W = F × d",
+      "explication": "C’est le produit de la force par la distance parcourue."
+    },
+    {
+      "question": "Que signifie une force de 0 N ?",
+      "options": ["Pas de mouvement", "Pas d’accélération", "Équilibre", "Vitesse élevée"],
+      "reponse": "Équilibre",
+      "explication": "Une force nulle signifie que les forces sont équilibrées."
+    },
+    {
+      "question": "Quelle est la valeur approximative de g sur Terre ?",
+      "options": ["9,8 m/s²", "10 m/s", "1 m/s²", "5 m/s²"],
+      "reponse": "9,8 m/s²",
+      "explication": "C’est l’accélération due à la gravité terrestre."
+    },
+    {
+      "question": "Quelle est la formule du moment d’une force ?",
+      "options": ["M = F × d", "M = F / d", "M = d / F", "M = F + d"],
+      "reponse": "M = F × d",
+      "explication": "Le moment est le produit de la force par la distance à l’axe de rotation."
+    },
+    {
+      "question": "Qu’est-ce qu’un circuit en série ?",
+      "options": ["Un seul chemin pour le courant", "Plusieurs chemins", "Courant divisé", "Courant alternatif"],
+      "reponse": "Un seul chemin pour le courant",
+      "explication": "En série, le courant circule sur un seul trajet."
+    },
+    {
+      "question": "Que signifie pH = 7 ?",
+      "options": ["Solution neutre", "Solution acide", "Solution basique", "Solution concentrée"],
+      "reponse": "Solution neutre",
+      "explication": "Un pH de 7 correspond à une solution neutre comme l’eau pure."
+    },
+    {
+      "question": "Quelle formule relie la masse molaire, la masse et la quantité de matière ?",
+      "options": ["n = m / M", "n = M / m", "n = m × M", "n = m + M"],
+      "reponse": "n = m / M",
+      "explication": "Cette formule permet de calculer la quantité de matière."
+    },
+    {
+      "question": "Quelle est la formule de la concentration molaire ?",
+      "options": ["C = n / V", "C = V / n", "C = m / V", "C = M × V"],
+      "reponse": "C = n / V",
+      "explication": "Elle exprime le nombre de moles par litre de solution."
+    },
+    {
+      "question": "Quelle est la formule de l’énergie thermique ?",
+      "options": ["Q = m × c × ΔT", "Q = m × v²", "Q = E × t", "Q = P / t"],
+      "reponse": "Q = m × c × ΔT",
+      "explication": "Elle montre que l’énergie thermique dépend de la masse, la capacité calorifique et la variation de température."
+    },
+    {
+      "question": "Quelle est la formule de la fréquence ?",
+      "options": ["f = 1 / T", "f = T / 1", "f = λ × v", "f = v / λ"],
+      "reponse": "f = 1 / T",
+      "explication": "La fréquence est l’inverse de la période."
+    },
+    {
+      "question": "Que signifie une tension de 220 V ?",
+      "options": ["Différence de potentiel de 220 joules par coulomb", "Intensité de 220 A", "Puissance de 220 W", "Résistance de 220 ohms"],
+      "reponse": "Différence de potentiel de 220 joules par coulomb",
+      "explication": "La tension mesure l’énergie par unité de charge."
+    },
+    {
+      "question": "Quel appareil mesure la résistance électrique ?",
+      "options": ["Ohmmètre", "Voltmètre", "Ampèremètre", "Thermomètre"],
+      "reponse": "Ohmmètre",
+      "explication": "L’ohmmètre sert à mesurer la résistance en ohms."
+    },
+    {
+      "question": "Quelle est l’unité de la charge électrique ?",
+      "options": ["C", "A", "V", "J"],
+      "reponse": "C",
+      "explication": "Le Coulomb est l’unité de la charge électrique."
+    },
+    {
+      "question": "Quel gaz est produit lors de l’électrolyse de l’eau au pôle négatif ?",
+      "options": ["Hydrogène", "Oxygène", "Chlore", "Azote"],
+      "reponse": "Hydrogène",
+      "explication": "L’électrolyse produit du dihydrogène au pôle négatif (cathode)."
+    },
+    {
+      "question": "Que mesure un oscilloscope ?",
+      "options": ["Tension variable dans le temps", "Masse", "Température", "Force"],
+      "reponse": "Tension variable dans le temps",
+      "explication": "L’oscilloscope permet d’observer les signaux électriques en fonction du temps."
+    }
+  ]
+}
