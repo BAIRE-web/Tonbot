@@ -1,0 +1,784 @@
+{
+  "qcm": [
+    {
+      "question": "Qui est Thomas Sankara ?",
+      "options": ["Ancien président révolutionnaire du Burkina Faso", "Premier président du Mali", "Un célèbre chanteur burkinabè", "Un écrivain ivoirien"],
+      "reponse": "Ancien président révolutionnaire du Burkina Faso",
+      "explication": "Thomas Sankara fut président du Burkina Faso de 1983 à 1987 et est considéré comme le père de la révolution burkinabè."
+    },
+    {
+      "question": "Quel surnom avait Thomas Sankara ?",
+      "options": ["Le lion de l'Afrique", "Le Che Guevara africain", "Le père de la nation", "Le libérateur des peuples"],
+      "reponse": "Le Che Guevara africain",
+      "explication": "Il était surnommé ainsi pour son charisme et ses idées révolutionnaires."
+    },
+    {
+      "question": "Qui est Blaise Compaoré ?",
+      "options": ["Président du Burkina Faso de 1987 à 2014", "Un célèbre écrivain burkinabè", "Un leader de la rébellion ivoirienne", "Un artiste musicien burkinabè"],
+      "reponse": "Président du Burkina Faso de 1987 à 2014",
+      "explication": "Blaise Compaoré a dirigé le pays après la mort de Thomas Sankara."
+    },
+    {
+      "question": "Qui est Idrissa Ouédraogo ?",
+      "options": ["Réalisateur burkinabè célèbre", "Ancien président", "Un écrivain", "Un homme d'affaires"],
+      "reponse": "Réalisateur burkinabè célèbre",
+      "explication": "Idrissa Ouédraogo est un réalisateur connu pour des films comme 'Tilaï'."
+    },
+    {
+      "question": "Quelle militante burkinabè est connue pour son engagement en faveur des droits des femmes ?",
+      "options": ["Marie Louise Bance", "Angèle Bassolé-Ouédraogo", "Chantal Compaoré", "Saran Sérémé"],
+      "reponse": "Marie Louise Bance",
+      "explication": "Marie Louise Bance a fondé une ONG de défense des droits des femmes au Burkina."
+    },
+    {
+      "question": "Quel poète burkinabè a reçu le Grand Prix de poésie de l’Académie française ?",
+      "options": ["Roger Toumson", "Youssouf Ouédraogo", "Augustin Kouamé", "Sidi Touré"],
+      "reponse": "Roger Toumson",
+      "explication": "Roger Toumson est reconnu pour ses contributions à la poésie francophone."
+    },
+    {
+      "question": "Qui est Chantal Compaoré ?",
+      "options": ["Ancienne Première dame", "Une chanteuse", "Une militante politique", "Une écrivaine"],
+      "reponse": "Ancienne Première dame",
+      "explication": "Chantal Compaoré est l'épouse de Blaise Compaoré et ancienne Première dame."
+    },
+    {
+      "question": "Qui est Angèle Bassolé-Ouédraogo ?",
+      "options": ["Poétesse et journaliste", "Ministre de la Culture", "Présidente d'une ONG", "Écrivaine de romans"],
+      "reponse": "Poétesse et journaliste",
+      "explication": "Angèle Bassolé-Ouédraogo est une poétesse et journaliste burkinabè reconnue à l’international."
+    },
+    {
+      "question": "Quel leader politique burkinabè a été Premier ministre en 1994 ?",
+      "options": ["Youssouf Ouédraogo", "Thomas Sankara", "Blaise Compaoré", "Augustin Kouamé"],
+      "reponse": "Youssouf Ouédraogo",
+      "explication": "Youssouf Ouédraogo a été Premier ministre en 1994."
+    },
+    {
+      "question": "Qui est Augustin Kouamé ?",
+      "options": ["Ancien ministre de la Justice", "Président du Burkina Faso", "Leader syndical", "Militant écologiste"],
+      "reponse": "Ancien ministre de la Justice",
+      "explication": "Augustin Kouamé a occupé le poste de ministre de la Justice au Burkina Faso."
+    },
+    {
+      "question": "Qui est Hugues Fabrice Zango ?",
+      "options": ["Un athlète spécialiste du triple saut", "Un judoka professionnel", "Un gardien de but", "Un boxeur"],
+      "reponse": "Un athlète spécialiste du triple saut",
+      "explication": "Zango est médaillé olympique et recordman du monde en salle au triple saut."
+    },
+    {
+      "question": "Quel exploit Hugues Fabrice Zango a-t-il réalisé en janvier 2021 ?",
+      "options": ["Record du monde en salle de triple saut", "Champion du monde de taekwondo", "Vainqueur du Tour de France", "Champion olympique de judo"],
+      "reponse": "Record du monde en salle de triple saut",
+      "explication": "Il a sauté à 18,07 m en salle, établissant un nouveau record mondial."
+    },
+    {
+      "question": "Qui est Iron Biby ?",
+      "options": ["Un champion de force athlétique", "Un coureur olympique", "Un joueur de tennis", "Un pilote automobile"],
+      "reponse": "Un champion de force athlétique",
+      "explication": "Iron Biby est un athlète burkinabè plusieurs fois champion du monde en épreuves de force comme le log lift."
+    },
+    {
+      "question": "Quel record mondial Iron Biby a-t-il battu en 2021 ?",
+      "options": ["Soulever le poids le plus lourd au-dessus de la tête (log lift)", "Le plus long saut à la corde", "Le sprint de 100 m avec haltères", "Le squat le plus rapide"],
+      "reponse": "Soulever le poids le plus lourd au-dessus de la tête (log lift)",
+      "explication": "Il a soulevé 229 kg en log lift, battant le record du monde."
+    },
+    {
+      "question": "Quel sportif burkinabè a remporté une médaille de bronze aux Jeux olympiques de Tokyo 2020 ?",
+      "options": ["Hugues Fabrice Zango", "Iron Biby", "Marthe Koala", "Sita Sangaré"],
+      "reponse": "Hugues Fabrice Zango",
+      "explication": "Il a offert au Burkina sa toute première médaille olympique."
+    },
+    {
+      "question": "Marthe Koala est une athlète burkinabè spécialiste de quelle discipline ?",
+      "options": ["Heptathlon et haies", "Lancer du poids", "Marathon", "Boxe féminine"],
+      "reponse": "Heptathlon et haies",
+      "explication": "Marthe Koala est une spécialiste des épreuves combinées et du 100m haies."
+    },
+    {
+      "question": "Quel titre Iron Biby a-t-il remporté en 2023 ?",
+      "options": ["Champion du monde de log lift", "Champion d'Afrique du saut en longueur", "Champion mondial de judo", "Vainqueur du marathon de New York"],
+      "reponse": "Champion du monde de log lift",
+      "explication": "En 2023, il a confirmé sa domination dans l’épreuve du log lift."
+    },
+    {
+      "question": "Dans quelle discipline sportive Fabrice Zango est-il devenu vice-champion du monde en 2022 ?",
+      "options": ["Triple saut", "Saut en longueur", "Lancer de javelot", "Saut en hauteur"],
+      "reponse": "Triple saut",
+      "explication": "Il a remporté la médaille d’argent aux Championnats du monde d’athlétisme."
+    },
+    {
+      "question": "Quel athlète burkinabè a reçu le Prix de l'Excellence de l’Union Africaine ?",
+      "options": ["Hugues Fabrice Zango", "Iron Biby", "Marthe Koala", "Wilfried Sanou"],
+      "reponse": "Hugues Fabrice Zango",
+      "explication": "En plus de ses performances, Zango a été honoré pour son rôle de modèle en Afrique."
+    },
+    {
+      "question": "Quel surnom Iron Biby utilise-t-il pour se faire connaître dans le monde ?",
+      "options": ["L’homme le plus fort du Burkina", "Le tank burkinabè", "Le lion d’Afrique", "Le Hulk africain"],
+      "reponse": "Le Hulk africain",
+      "explication": "Iron Biby est souvent surnommé 'le Hulk africain' pour sa force phénoménale."
+    },
+    {
+      "question": "En quelle année la Haute-Volta a-t-elle changé de nom pour devenir le Burkina Faso ?",
+      "options": ["1983", "1984", "1987", "1991"],
+      "reponse": "1984",
+      "explication": "Le 4 août 1984, Thomas Sankara renomme la Haute-Volta en Burkina Faso, 'le pays des hommes intègres'."
+    },
+    {
+      "question": "Quelle date marque le coup d'État qui a porté Thomas Sankara au pouvoir ?",
+      "options": ["15 octobre 1987", "4 août 1983", "4 août 1984", "3 janvier 1966"],
+      "reponse": "4 août 1983",
+      "explication": "Le 4 août 1983, Thomas Sankara prend le pouvoir par un coup d'État soutenu par des jeunes officiers."
+    },
+    {
+      "question": "Quand Thomas Sankara a-t-il été assassiné ?",
+      "options": ["15 octobre 1987", "4 août 1983", "2 décembre 1991", "31 octobre 2014"],
+      "reponse": "15 octobre 1987",
+      "explication": "Thomas Sankara est assassiné lors d’un coup d’État dirigé par Blaise Compaoré le 15 octobre 1987."
+    },
+    {
+      "question": "Quelle date marque la chute de Blaise Compaoré ?",
+      "options": ["15 octobre 1987", "31 octobre 2014", "4 août 1984", "2 décembre 1991"],
+      "reponse": "31 octobre 2014",
+      "explication": "Sous pression populaire, Blaise Compaoré démissionne le 31 octobre 2014 après 27 ans au pouvoir."
+    },
+    {
+      "question": "En quelle année la première Constitution du Burkina Faso a-t-elle été adoptée après Sankara ?",
+      "options": ["1991", "1993", "1996", "1989"],
+      "reponse": "1991",
+      "explication": "La Constitution de la IVe République a été adoptée le 2 juin 1991."
+    },
+    {
+      "question": "Quel jour célèbre-t-on la fête de l’indépendance du Burkina Faso ?",
+      "options": ["11 décembre", "4 août", "31 octobre", "15 octobre"],
+      "reponse": "11 décembre",
+      "explication": "Le Burkina Faso a obtenu son indépendance le 5 août 1960, mais la fête nationale est célébrée chaque 11 décembre."
+    },
+    {
+      "question": "Quelle date marque la tentative de coup d’État du RSP (Régiment de sécurité présidentielle) ?",
+      "options": ["16 septembre 2015", "31 octobre 2014", "4 août 2015", "15 octobre 2016"],
+      "reponse": "16 septembre 2015",
+      "explication": "Le 16 septembre 2015, le RSP tente de renverser la transition dirigée par Michel Kafando."
+    },
+    {
+      "question": "Quand Roch Marc Christian Kaboré a-t-il été élu président pour la première fois ?",
+      "options": ["2015", "2016", "2017", "2019"],
+      "reponse": "2015",
+      "explication": "Roch Kaboré a été élu président en novembre 2015, après la transition politique."
+    },
+    {
+      "question": "Quand le capitaine Ibrahim Traoré a-t-il pris le pouvoir ?",
+      "options": ["30 septembre 2022", "24 janvier 2022", "15 octobre 2022", "31 décembre 2022"],
+      "reponse": "30 septembre 2022",
+      "explication": "Ibrahim Traoré a dirigé un coup d'État contre le lieutenant-colonel Damiba le 30 septembre 2022."
+    },
+    {
+      "question": "Quelle date marque le départ officiel des forces françaises du Burkina Faso ?",
+      "options": ["18 février 2023", "1er janvier 2023", "14 juillet 2023", "30 septembre 2022"],
+      "reponse": "18 février 2023",
+      "explication": "Le 18 février 2023, le dernier contingent de militaires français a quitté le Burkina Faso."
+    },
+    {
+      "question": "Quand le Burkina Faso a-t-il rejoint l’Alliance des États du Sahel (AES) ?",
+      "options": ["2023", "2024", "2022", "2021"],
+      "reponse": "2023",
+      "explication": "L'AES a été officiellement formée en 2023 entre le Burkina, le Mali et le Niger."
+    },
+    {
+      "question": "Quand Blaise Compaoré a-t-il été condamné à perpétuité pour l’assassinat de Sankara ?",
+      "options": ["2022", "2014", "2021", "2008"],
+      "reponse": "2022",
+      "explication": "Le verdict est tombé le 6 avril 2022, condamnant Compaoré à perpétuité par contumace."
+    },
+    {
+      "question": "Quelle date marque le référendum sur la nouvelle Constitution (jamais tenu finalement) ?",
+      "options": ["Prévu en 2015", "Prévu en 2019", "Prévu en 2020", "Prévu en 2022"],
+      "reponse": "Prévu en 2019",
+      "explication": "Un référendum sur une nouvelle Constitution était prévu en 2019 mais n’a jamais eu lieu."
+    },
+    {
+      "question": "Quand l'Assemblée législative de transition (ALT) a-t-elle été installée ?",
+      "options": ["2022", "2023", "2020", "2015"],
+      "reponse": "2022",
+      "explication": "L’ALT a été installée en novembre 2022 sous la transition dirigée par Ibrahim Traoré."
+    },
+    {
+      "question": "Quand a eu lieu le procès de l’assassinat de Thomas Sankara ?",
+      "options": ["2021-2022", "2018-2019", "2005-2006", "1997-1998"],
+      "reponse": "2021-2022",
+      "explication": "Le procès historique s’est déroulé entre octobre 2021 et avril 2022."
+    },
+    {
+      "question": "Quand l’attaque terroriste du Café Aziz Istanbul à Ouagadougou a-t-elle eu lieu ?",
+      "options": ["13 août 2017", "15 janvier 2016", "2 mars 2018", "24 mai 2021"],
+      "reponse": "13 août 2017",
+      "explication": "Cette attaque a fait 19 morts et marqué l'escalade du terrorisme urbain au Burkina."
+    },
+    {
+      "question": "Quelle est la date de l’attaque de l’état-major des armées à Ouagadougou ?",
+      "options": ["2 mars 2018", "15 janvier 2016", "24 mai 2021", "30 novembre 2018"],
+      "reponse": "2 mars 2018",
+      "explication": "Une attaque coordonnée contre l’état-major et l’ambassade de France."
+    },
+    {
+      "question": "Quand les élections présidentielle et législatives ont-elles eu lieu après la transition de 2015 ?",
+      "options": ["29 novembre 2015", "4 décembre 2016", "30 octobre 2014", "2 janvier 2016"],
+      "reponse": "29 novembre 2015",
+      "explication": "Elles ont marqué le retour à l’ordre constitutionnel après la chute de Compaoré."
+    },
+    {
+      "question": "Quand la première femme burkinabè a-t-elle été nommée ministre des Affaires étrangères ?",
+      "options": ["2021", "2007", "1994", "2016"],
+      "reponse": "2021",
+      "explication": "Olivia Rouamba a été nommée ministre des Affaires étrangères en 2021."
+    },
+    {
+      "question": "Quelle est la date de la création du RSP, corps d'élite dissous après 2015 ?",
+      "options": ["1995", "1990", "1987", "2000"],
+      "reponse": "1995",
+      "explication": "Le Régiment de Sécurité Présidentielle (RSP) fut créé sous Blaise Compaoré."
+    },
+    {
+      "question": "Quand la radio Omega a-t-elle été suspendue par le gouvernement de transition ?",
+      "options": ["2023", "2021", "2020", "2018"],
+      "reponse": "2023",
+      "explication": "En 2023, Radio Oméga a été suspendue pour 'atteinte à la cohésion nationale'."
+    },
+    {
+      "question": "Quand le premier vaccin anti-COVID a-t-il été administré au Burkina ?",
+      "options": ["2021", "2020", "2022", "2019"],
+      "reponse": "2021",
+      "explication": "La campagne de vaccination anti-COVID a débuté en juin 2021."
+    },
+    {
+      "question": "Quelle année marque l'entrée officielle du Burkina Faso à l’ONU ?",
+      "options": ["1960", "1963", "1984", "1961"],
+      "reponse": "1963",
+      "explication": "Haute-Volta (ancien nom) rejoint l’ONU le 20 septembre 1963."
+    },
+    {
+      "question": "Quand a été célébrée la première Journée nationale d'hommage aux Forces de Défense et de Sécurité (FDS) ?",
+      "options": ["1er novembre 2023", "4 août 2022", "11 décembre 2021", "15 octobre 2020"],
+      "reponse": "1er novembre 2023",
+      "explication": "Initiée par la transition, cette journée rend hommage aux FDS engagés contre le terrorisme."
+    },
+    {
+      "question": "Quand a eu lieu la création de la Commission nationale des droits humains (CNDH) ?",
+      "options": ["2016", "2001", "1994", "1987"],
+      "reponse": "2001",
+      "explication": "La CNDH est une institution de veille et de défense des droits humains."
+    },
+    {
+      "question": "Que signifie l'acronyme AES ?",
+      "options": ["Alliance des États du Sahel", "Accord Économique Sahélien", "Autorité État-Sécurité", "Association Écologique Sahélienne"],
+      "reponse": "Alliance des États du Sahel",
+      "explication": "AES désigne l’alliance créée par le Burkina Faso, le Mali et le Niger en 2023."
+    },
+    {
+      "question": "Quels pays forment l’Alliance des États du Sahel ?",
+      "options": ["Burkina Faso, Mali, Niger", "Burkina Faso, Togo, Côte d’Ivoire", "Mali, Tchad, Sénégal", "Burkina Faso, Ghana, Mali"],
+      "reponse": "Burkina Faso, Mali, Niger",
+      "explication": "Ces trois pays sahéliens ont quitté la CEDEAO pour créer l’AES."
+    },
+    {
+      "question": "En quelle année l’AES a-t-elle été officiellement formée ?",
+      "options": ["2023", "2022", "2024", "2021"],
+      "reponse": "2023",
+      "explication": "L’alliance a été formée en septembre 2023 par les chefs d’État des trois pays."
+    },
+    {
+      "question": "Pourquoi les pays membres de l’AES ont-ils quitté la CEDEAO ?",
+      "options": ["Incompatibilité avec leurs politiques souverainistes", "Problèmes linguistiques", "Changements climatiques", "Échec économique"],
+      "reponse": "Incompatibilité avec leurs politiques souverainistes",
+      "explication": "Les États membres de l’AES estiment que la CEDEAO ne respecte pas leur souveraineté et soutient des ingérences."
+    },
+    {
+      "question": "Quel est l’un des objectifs principaux de l’AES ?",
+      "options": ["La coopération militaire et sécuritaire", "La suppression de la monnaie", "La colonisation régionale", "Le changement climatique"],
+      "reponse": "La coopération militaire et sécuritaire",
+      "explication": "L’AES veut renforcer la lutte contre le terrorisme et la défense conjointe de ses territoires."
+    },
+    {
+      "question": "Quel type de traité a été signé pour donner une base légale à l’AES ?",
+      "options": ["Charte du Liptako-Gourma", "Pacte de Ouagadougou", "Accord de Bamako", "Charte du Faso"],
+      "reponse": "Charte du Liptako-Gourma",
+      "explication": "La Charte du Liptako-Gourma est le document fondateur signé par les trois pays en septembre 2023."
+    },
+    {
+      "question": "Quel principe clé est mis en avant par les pays membres de l’AES ?",
+      "options": ["Souveraineté", "Fédération", "Neutralité", "Privatisation"],
+      "reponse": "Souveraineté",
+      "explication": "L’AES repose sur la défense de la souveraineté politique, militaire et économique."
+    },
+    {
+      "question": "L’AES prévoit une défense commune. Cela signifie que :",
+      "options": ["Une attaque contre un pays est une attaque contre tous", "Chaque pays se défend seul", "Seul le Mali peut intervenir militairement", "L’ONU protège les membres"],
+      "reponse": "Une attaque contre un pays est une attaque contre tous",
+      "explication": "C’est le principe de défense mutuelle inscrit dans la charte de l’AES."
+    },
+    {
+      "question": "Quel pays assure actuellement la présidence tournante de l’AES (mi-2025) ?",
+      "options": ["Burkina Faso", "Mali", "Niger", "Alternance non fixée"],
+      "reponse": "Burkina Faso",
+      "explication": "Le Burkina Faso assume la présidence tournante en 2025 après le Niger."
+    },
+    {
+      "question": "Quelle devise commune est utilisée par les trois pays de l’AES actuellement ?",
+      "options": ["Franc CFA", "Eco", "Franc Sahel", "Franc Ouest-africain"],
+      "reponse": "Franc CFA",
+      "explication": "Les pays de l’AES utilisent encore le franc CFA, mais plusieurs voix appellent à en sortir."
+    },
+    {
+      "question": "Quel organisme régional a été récemment critiqué par les membres de l’AES ?",
+      "options": ["CEDEAO", "Union Africaine", "UEMOA", "CEMAC"],
+      "reponse": "CEDEAO",
+      "explication": "Les pays de l’AES estiment que la CEDEAO agit contre leurs intérêts souverains."
+    },
+    {
+      "question": "Quels types de sanctions la CEDEAO avait-elle imposées au Burkina, Mali et Niger avant leur départ ?",
+      "options": ["Sanctions économiques et fermetures de frontières", "Sanctions climatiques", "Coupure d'internet", "Gel des visas touristiques"],
+      "reponse": "Sanctions économiques et fermetures de frontières",
+      "explication": "La CEDEAO avait imposé des sanctions sévères aux régimes militaires de ces pays."
+    },
+    {
+      "question": "Quelles puissances étrangères sont souvent citées comme nouveaux alliés des pays de l’AES ?",
+      "options": ["Russie et Turquie", "France et Canada", "Chine et Maroc", "Allemagne et Italie"],
+      "reponse": "Russie et Turquie",
+      "explication": "La Russie, en particulier, est citée comme partenaire militaire alternatif à l’ancienne présence française."
+    },
+    {
+      "question": "Quel secteur est aussi concerné par la coopération de l’AES au-delà du militaire ?",
+      "options": ["Éducation, agriculture, santé", "Cinéma, mode, tourisme", "Astronomie et IA", "Navigation aérienne uniquement"],
+      "reponse": "Éducation, agriculture, santé",
+      "explication": "L’AES veut renforcer l'intégration sociale, économique et éducative entre ses membres."
+    },
+    {
+      "question": "Quel est le slogan souvent utilisé pour désigner la solidarité entre les peuples de l’AES ?",
+      "options": ["Un peuple, un destin commun", "L’Afrique aux Africains", "Souveraineté ou rien", "La force du Sahel uni"],
+      "reponse": "Un peuple, un destin commun",
+      "explication": "Ce slogan incarne la vision d’un avenir partagé entre les pays sahéliens de l’AES."
+    },
+    {
+      "question": "Quel programme a été lancé en 2025 pour sensibiliser les élèves aux valeurs nationales ?",
+      "options": ["Immersion patriotique", "Burkina Debout", "Faso Républicain", "Initiative Sankara"],
+      "reponse": "Immersion patriotique",
+      "explication": "Le décret du 2 mai 2025 institue une immersion patriotique pour renforcer l’esprit civique chez les élèves."
+    },
+    {
+      "question": "Quand le décret instituant l'immersion patriotique a-t-il été adopté ?",
+      "options": ["2 mai 2025", "4 août 2024", "15 octobre 2024", "2 janvier 2025"],
+      "reponse": "2 mai 2025",
+      "explication": "Le décret a été adopté en Conseil des ministres le 2 mai 2025 5."
+    },
+    {
+      "question": "À quels élèves s’adresse en priorité la phase pilote de l’immersion ?",
+      "options": ["Bacheliers 2025", "Collégiens de 2019", "Étudiants universitaires", "Enseignants"],
+      "reponse": "Bacheliers 2025",
+      "explication": "La phase pilote concerne en priorité les élèves admis au Baccalauréat 2025 6."
+    },
+    {
+      "question": "Quels objectifs visent les activités d’immersion ?",
+      "options": ["Valeurs civiques, patriotisme, autodéfense", "Préparation sportive aux JO", "Compréhension de la mode", "Donation caritative"],
+      "reponse": "Valeurs civiques, patriotisme, autodéfense",
+      "explication": "Il s’agit d’inculquer des réflexes civiques, patriotiques et des bases d’autodéfense 7."
+    },
+    {
+      "question": "Quels examens concernent cette immersion patriotique ?",
+      "options": ["BEPC, CAP, Bac", "Licence, Master, Doctorat", "BEP, CAP, BTS", "CEPE seulement"],
+      "reponse": "BEPC, CAP, Bac",
+      "explication": "Elle s’adresse aux élèves admis aux examens du BEPC, CAP et Baccalauréat 8."
+    },
+    {
+      "question": "Quels types de formation sont incluses ?",
+      "options": ["Théorique, physique, sportive", "Informatique, art, musique", "Cuisine, couture, artisanat", "Langues étrangères"],
+      "reponse": "Théorique, physique, sportive",
+      "explication": "Les formations comprennent des modules théoriques, physiques et sportifs 9."
+    },
+    {
+      "question": "Quel est l’objectif principal de l’immersion ?",
+      "options": ["Consolider la fibre patriotique", "Préparer au marché du travail", "Réduire les impôts", "Promouvoir le tourisme"],
+      "reponse": "Consolider la fibre patriotique",
+      "explication": "Elle vise à renforcer le sentiment d’appartenance à la nation 10."
+    },
+    {
+      "question": "Par quel décret cette mesure a-t-elle été instaurée ?",
+      "options": ["Décret du Conseil des ministres", "Décision municipale", "Arrêté du proviseur", "Ordonnance présidentielle"],
+      "reponse": "Décret du Conseil des ministres",
+      "explication": "La mesure a été mise en place via un décret adopté en Conseil des ministres 11."
+    },
+    {
+      "question": "Quelle composante de l’IPEQ inclut l’immersion patriotique ?",
+      "options": ["Composante 7", "Composante 1", "Composante 3", "Composante 5"],
+      "reponse": "Composante 7",
+      "explication": "Elle fait partie de la composante 7 de l’Initiative présidentielle pour une éducation de qualité (IPEQ) 12."
+    },
+    {
+      "question": "Quelle phase a été mise en place en premier lieu ?",
+      "options": ["Pilote", "Nationalisation", "Standard", "Internationale"],
+      "reponse": "Pilote",
+      "explication": "Une phase pilote est prévue dès 2025 pour tester le dispositif avec les bacheliers 13."
+    },
+    {
+      "question": "Quelle est la capitale du Burkina Faso ?",
+      "options": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Fada N’Gourma"],
+      "reponse": "Ouagadougou",
+      "explication": "Ouagadougou est la capitale politique, économique et administrative du Burkina Faso."
+    },
+    {
+      "question": "Quel est le pays limitrophe à l’Ouest du Burkina Faso ?",
+      "options": ["Mali", "Niger", "Bénin", "Ghana"],
+      "reponse": "Mali",
+      "explication": "Le Mali se trouve à l’Ouest et au Nord-Ouest du Burkina Faso."
+    },
+    {
+      "question": "Quelle est la plus grande région du Burkina Faso en superficie ?",
+      "options": ["Est", "Centre-Ouest", "Boucle du Mouhoun", "Sahel"],
+      "reponse": "Est",
+      "explication": "La région de l’Est est la plus étendue en superficie."
+    },
+    {
+      "question": "Quel fleuve traverse le Burkina Faso et alimente le fleuve Niger ?",
+      "options": ["La Comoé", "Le Mouhoun", "Le Nakambé", "Le Niger"],
+      "reponse": "Le Niger",
+      "explication": "Le fleuve Niger prend sa source au Burkina Faso via des affluents comme le Gorouol."
+    },
+    {
+      "question": "Quelle est la région la plus septentrionale du Burkina Faso ?",
+      "options": ["Sahel", "Centre-Nord", "Nord", "Est"],
+      "reponse": "Sahel",
+      "explication": "La région du Sahel est la plus au Nord, limitrophe du Mali et du Niger."
+    },
+    {
+      "question": "Quelle est la deuxième plus grande ville du Burkina Faso ?",
+      "options": ["Bobo-Dioulasso", "Koudougou", "Ouahigouya", "Tenkodogo"],
+      "reponse": "Bobo-Dioulasso",
+      "explication": "Bobo-Dioulasso est la deuxième plus grande ville, située à l’Ouest."
+    },
+    {
+      "question": "Quel est le climat majoritaire au Burkina Faso ?",
+      "options": ["Tropical de savane", "Climat désertique", "Climat océanique", "Climat montagnard"],
+      "reponse": "Tropical de savane",
+      "explication": "Le climat est majoritairement tropical de savane, avec une saison sèche et une saison des pluies."
+    },
+    {
+      "question": "Quel massif montagneux se trouve au Sud-Ouest du Burkina Faso ?",
+      "options": ["Massif du Banfora", "Massif de l’Arly", "Massif de l’Oudalan", "Massif des Cascades"],
+      "reponse": "Massif des Cascades",
+      "explication": "Le Massif des Cascades, près de Banfora, est une zone montagneuse avec des chutes d'eau célèbres."
+    },
+    {
+      "question": "Quel lac important est situé dans la région de l’Est ?",
+      "options": ["Lac Tengrela", "Lac de Kompienga", "Lac Bam", "Lac Volta"],
+      "reponse": "Lac de Kompienga",
+      "explication": "Le lac de Kompienga est un lac artificiel créé par un barrage hydroélectrique."
+    },
+    {
+      "question": "Quel est le point culminant du Burkina Faso ?",
+      "options": ["Mont Tenakourou", "Mont Ténéré", "Mont Nimba", "Mont Agou"],
+      "reponse": "Mont Tenakourou",
+      "explication": "Le Mont Tenakourou, à 747 m d’altitude, est le point culminant du pays."
+    },
+    {
+      "question": "Quelle est la principale rivière qui alimente le barrage de Ziga ?",
+      "options": ["La Nakambé", "Le Mouhoun", "La Comoé", "Le Nazinon"],
+      "reponse": "La Nakambé",
+      "explication": "La Nakambé traverse la région de la Centre et alimente le barrage de Ziga."
+    },
+    {
+      "question": "Combien de régions administratives compte le Burkina Faso ?",
+      "options": ["13", "10", "15", "20"],
+      "reponse": "13",
+      "explication": "Le Burkina Faso est divisé en 13 régions administratives."
+    },
+    {
+      "question": "Quelle région est célèbre pour ses chutes d’eau et ses formations rocheuses ?",
+      "options": ["Cascades", "Centre-Est", "Plateau Central", "Nord"],
+      "reponse": "Cascades",
+      "explication": "La région des Cascades est connue pour ses chutes d’eau à Banfora et ses rochers."
+    },
+    {
+      "question": "Quel est le principal type de sol au Burkina Faso ?",
+      "options": ["Laterite", "Sable fin", "Terre volcanique", "Sol argileux"],
+      "reponse": "Laterite",
+      "explication": "Le sol lateritique est dominant et influencent l’agriculture locale."
+    },
+    {
+      "question": "Quelle zone géographique couvre le parc national d’Arly ?",
+      "options": ["Région de l’Est", "Région du Centre", "Région du Sahel", "Région des Hauts-Bassins"],
+      "reponse": "Région de l’Est",
+      "explication": "Le parc national d’Arly est situé dans la région de l’Est, à proximité du Parc W."
+    },
+    {
+      "question": "Quelle rivière sépare le Burkina Faso du Ghana ?",
+      "options": ["La Black Volta", "Le Niger", "La Comoé", "Le Mouhoun"],
+      "reponse": "La Black Volta",
+      "explication": "La Black Volta forme une partie de la frontière entre le Burkina Faso et le Ghana."
+    },
+    {
+      "question": "Quel est le principal bassin hydrographique du Burkina Faso ?",
+      "options": ["Le bassin du Niger", "Le bassin du Congo", "Le bassin du Nil", "Le bassin du Sénégal"],
+      "reponse": "Le bassin du Niger",
+      "explication": "La majeure partie du pays appartient au bassin versant du fleuve Niger."
+    },
+    {
+      "question": "Quelle est la superficie approximative du Burkina Faso ?",
+      "options": ["272 967 km²", "150 000 km²", "500 000 km²", "100 000 km²"],
+      "reponse": "272 967 km²",
+      "explication": "Le Burkina Faso couvre une superficie d’environ 273 000 km²."
+    },
+    {
+      "question": "Quel est le principal parc national du Burkina Faso ?",
+      "options": ["Parc national d’Arly", "Parc national de la Comoé", "Parc national de Niokolo-Koba", "Parc national de la Pendjari"],
+      "reponse": "Parc national d’Arly",
+      "explication": "Le parc d’Arly est un site protégé majeur du Burkina Faso."
+    },
+    {
+      "question": "Quel type de végétation prédomine au Burkina Faso ?",
+      "options": ["Savane arborée", "Forêt tropicale dense", "Désert sableux", "Mangrove"],
+      "reponse": "Savane arborée",
+      "explication": "La savane arborée est la végétation typique dans la plupart des régions."
+    },
+    {
+      "question": "Quel est le rôle du barrage de Kompienga ?",
+      "options": ["Production d’électricité", "Irrigation uniquement", "Tourisme", "Pêche commerciale"],
+      "reponse": "Production d’électricité",
+      "explication": "Le barrage de Kompienga sert à la production hydroélectrique pour le pays."
+    },
+    {
+      "question": "Quel est l’autre nom du fleuve Mouhoun ?",
+      "options": ["Volta Noire", "Niger", "Comoé", "Black Volta"],
+      "reponse": "Black Volta",
+      "explication": "Le Mouhoun est aussi appelé la Volta Noire."
+    },
+    {
+      "question": "Quelle ville est connue comme la capitale économique du Burkina Faso ?",
+      "options": ["Bobo-Dioulasso", "Ouagadougou", "Kaya", "Banfora"],
+      "reponse": "Bobo-Dioulasso",
+      "explication": "Bobo-Dioulasso est le centre économique et commercial principal après Ouagadougou."
+    },
+    {
+      "question": "Quel désert touche la région du Sahel au Burkina Faso ?",
+      "options": ["Sahara", "Kalahari", "Namib", "Gobi"],
+      "reponse": "Sahara",
+      "explication": "La région du Sahel est la zone de transition vers le désert du Sahara."
+    },
+    {
+      "question": "Quel est le principal usage du sol dans la région de la Boucle du Mouhoun ?",
+      "options": ["Agriculture", "Industrie lourde", "Pêche commerciale", "Forêt dense"],
+      "reponse": "Agriculture",
+      "explication": "La Boucle du Mouhoun est une région agricole importante grâce à ses sols fertiles."
+    },
+    {
+      "question": "Quel est le climat au Nord du Burkina Faso ?",
+      "options": ["Semi-aride", "Tropical humide", "Océanique", "Montagnard"],
+      "reponse": "Semi-aride",
+      "explication": "Le nord du pays connaît un climat semi-aride, proche du désertique."
+    },
+    {
+      "question": "Qui est le Premier ministre du Burkina Faso depuis décembre 2024 ?",
+      "options": ["Apollinaire Kyélem de Tambèla", "Jean-Emmanuel Ouédraogo", "Roch Marc Christian Kaboré", "Isaac Zida"],
+      "reponse": "Jean-Emmanuel Ouédraogo",
+      "explication": "Jean-Emmanuel Ouédraogo est Premier ministre depuis décembre 2024."
+    },
+    {
+      "question": "Quel ministre est chargé de la Défense et des Anciens combattants ?",
+      "options": ["Célestin Simporé", "Mahamadou Sana", "Ismaël Sombié", "Karamoko Jean-Marie Traoré"],
+      "reponse": "Célestin Simporé",
+      "explication": "Célestin Simporé est ministre de la Défense et des Anciens combattants."
+    },
+    {
+      "question": "Qui est le ministre de l’Économie et des Finances ?",
+      "options": ["Aboubakar Nacanabo", "Yacouba Zabré Gouba", "Serge Gnaniodem Poda", "Jacques Sosthène Dingara"],
+      "reponse": "Aboubakar Nacanabo",
+      "explication": "Aboubakar Nacanabo est ministre de l’Économie et des Finances."
+    },
+    {
+      "question": "Quel ministre est responsable de la Sécurité ?",
+      "options": ["Mahamadou Sana", "Edasso Rodrigue Bayala", "Passowendé Pélagie Kaboré", "Aminata Zerbo-Sabané"],
+      "reponse": "Mahamadou Sana",
+      "explication": "Mahamadou Sana est ministre de la Sécurité."
+    },
+    {
+      "question": "Qui est le ministre des Affaires étrangères, de la Coopération régionale et des Burkinabè de l’extérieur ?",
+      "options": ["Karamoko Jean-Marie Traoré", "Bebgnasgnan Stella Eldine Kabré", "Roger Baro", "Mikaïlou Sidibé"],
+      "reponse": "Karamoko Jean-Marie Traoré",
+      "explication": "Karamoko Jean-Marie Traoré est ministre des Affaires étrangères."
+    },
+    {
+      "question": "Quel ministre est chargé de la Justice et des Droits humains ?",
+      "options": ["Edasso Rodrigue Bayala", "Ismaël Sombié", "Robert Lucien Jean-Claude Kargougou", "Jacques Sosthène Dingara"],
+      "reponse": "Edasso Rodrigue Bayala",
+      "explication": "Edasso Rodrigue Bayala est ministre de la Justice."
+    },
+    {
+      "question": "Qui est le ministre de l’Agriculture, des Ressources animales et halieutiques ?",
+      "options": ["Ismaël Sombié", "Amadou Dicko", "Adama Luc Sorgho", "Anuuyir Tole Roland Somba"],
+      "reponse": "Ismaël Sombié",
+      "explication": "Ismaël Sombié est ministre de l’Agriculture."
+    },
+    {
+      "question": "Quel ministre est responsable de la Santé ?",
+      "options": ["Robert Lucien Jean-Claude Kargougou", "Aminata Zerbo-Sabané", "Serge Gnaniodem Poda", "Yacouba Zabré Gouba"],
+      "reponse": "Robert Lucien Jean-Claude Kargougou",
+      "explication": "Robert Lucien Jean-Claude Kargougou est ministre de la Santé."
+    },
+    {
+      "question": "Qui est le ministre de la Transition digitale, des Postes et des Communications électroniques ?",
+      "options": ["Aminata Zerbo-Sabané", "Roger Baro", "Mikaïlou Sidibé", "Jacques Sosthène Dingara"],
+      "reponse": "Aminata Zerbo-Sabané",
+      "explication": "Aminata Zerbo-Sabané est ministre de la Transition digitale."
+    },
+    {
+      "question": "Quel ministre est chargé de l’Industrie, du Commerce et de l’Artisanat ?",
+      "options": ["Serge Gnaniodem Poda", "Adama Luc Sorgho", "Boubakar Savadogo", "Jacques Sosthène Dingara"],
+      "reponse": "Serge Gnaniodem Poda",
+      "explication": "Serge Gnaniodem Poda est ministre de l’Industrie, du Commerce et de l’Artisanat."
+    },
+    {
+      "question": "Qui est le ministre des Infrastructures et du Désenclavement ?",
+      "options": ["Adama Luc Sorgho", "Roger Baro", "Mikaïlou Sidibé", "Jacques Sosthène Dingara"],
+      "reponse": "Adama Luc Sorgho",
+      "explication": "Adama Luc Sorgho est ministre des Infrastructures."
+    },
+    {
+      "question": "Quel ministre est responsable de l’Énergie, des Mines et des Carrières ?",
+      "options": ["Yacouba Zabré Gouba", "Roger Baro", "Mikaïlou Sidibé", "Jacques Sosthène Dingara"],
+      "reponse": "Yacouba Zabré Gouba",
+      "explication": "Yacouba Zabré Gouba est ministre de l’Énergie."
+    },
+    {
+      "question": "Qui est le ministre de l’Enseignement de base, de l’Alphabétisation et de la Promotion des Langues nationales ?",
+      "options": ["Jacques Sosthène Dingara", "Boubakar Savadogo", "Adjima Thiombiano", "Anuuyir Tole Roland Somba"],
+      "reponse": "Jacques Sosthène Dingara",
+      "explication": "Jacques Sosthène Dingara est ministre de l’Enseignement de base."
+    },
+    {
+      "question": "Quel ministre est chargé de l’Enseignement supérieur, de la Recherche et de l’Innovation ?",
+      "options": ["Adjima Thiombiano", "Boubakar Savadogo", "Ismaël Sombié", "Roger Baro"],
+      "reponse": "Adjima Thiombiano",
+      "explication": "Adjima Thiombiano est ministre de l’Enseignement supérieur."
+    },
+    {
+      "question": "Qui est le ministre de l’Environnement, de l’Eau et de l’Assainissement ?",
+      "options": ["Roger Baro", "Mikaïlou Sidibé", "Jacques Sosthène Dingara", "Anuuyir Tole Roland Somba"],
+      "reponse": "Roger Baro",
+      "explication": "Roger Baro est ministre de l’Environnement."
+    },
+    {
+      "question": "Quel ministre est responsable de l’Urbanisme et de l’Habitat ?",
+      "options": ["Mikaïlou Sidibé", "Jacques Sosthène Dingara", "Anuuyir Tole Roland Somba", "Serge Gnaniodem Poda"],
+      "reponse": "Mikaïlou Sidibé",
+      "explication": "Mikaïlou Sidibé est ministre de l’Urbanisme et de l’Habitat."
+    },
+    {
+      "question": "Qui est le ministre des Sports, de la Jeunesse et de l’Emploi ?",
+      "options": ["Anuuyir Tole Roland Somba", "Jacques Sosthène Dingara", "Roger Baro", "Adama Luc Sorgho"],
+      "reponse": "Anuuyir Tole Roland Somba",
+      "explication": "Anuuyir Tole Roland Somba est ministre des Sports."
+    },
+    {
+      "question": "Quel ministre est délégué auprès du ministre de l’Agriculture, chargé des Ressources animales ?",
+      "options": ["Amadou Dicko", "Fatoumata Bako Traoré", "Bebgnasgnan Stella Eldine Kabré", "Serge Gnaniodem Poda"],
+      "reponse": "Amadou Dicko",
+      "explication": "Amadou Dicko est délégué auprès du ministre de l’Agriculture."
+    },
+    {
+      "question": "Qui est déléguée auprès du ministre des Affaires étrangères, chargée de la Coopération régionale ?",
+      "options": ["Bebgnasgnan Stella Eldine Kabré", "Aminata Zerbo-Sabané", "Roger Baro", "Jacques Sosthène Dingara"],
+      "reponse": "Bebgnasgnan Stella Eldine Kabré",
+      "explication": "Bebgnasgnan Stella Eldine Kabré est déléguée auprès du ministre des Affaires étrangères."
+    },
+    {
+      "question": "Quel ministre est délégué auprès du ministre de l’Économie, chargé du Budget ?",
+      "options": ["Fatoumata Bako Traoré", "Amadou Dicko", "Serge Gnaniodem Poda", "Yacouba Zabré Gouba"],
+      "reponse": "Fatoumata Bako Traoré",
+      "explication": "Fatoumata Bako Traoré est déléguée chargée du Budget."
+    },
+    {
+      "question": "Quelle est la superficie totale du Burkina Faso ?",
+      "options": ["272 967 km²", "274 200 km²", "276 000 km²", "278 500 km²"],
+      "reponse": "272 967 km²",
+      "explication": "La superficie totale du Burkina Faso est de 272 967 km²."
+    },
+    {
+      "question": "Quel était le nombre d'habitants du Burkina Faso lors du recensement de 2006 ?",
+      "options": ["14 017 262", "14 500 000", "15 000 000", "15 500 000"],
+      "reponse": "14 017 262",
+      "explication": "Le Burkina Faso comptait 14 017 262 habitants lors du recensement de 2006."
+    },
+    {
+      "question": "Quel était le nombre d'habitants du Burkina Faso lors du recensement de 2013 ?",
+      "options": ["16 000 000", "17 000 000", "18 000 000", "19 000 000"],
+      "reponse": "Non disponible",
+      "explication": "Les résultats officiels du recensement de 2013 ne sont pas disponibles."
+    },
+    {
+      "question": "Quel était le nombre d'habitants du Burkina Faso lors du recensement de 2019 ?",
+      "options": ["20 487 979", "20 505 155", "21 000 000", "21 500 000"],
+      "reponse": "20 487 979",
+      "explication": "Le Burkina Faso comptait 20 487 979 habitants lors du recensement de 2019."
+    },
+    {
+      "question": "Quelle est la densité de population du Burkina Faso en 2019 ?",
+      "options": ["51,4 hab/km²", "60,0 hab/km²", "75,1 hab/km²", "80,0 hab/km²"],
+      "reponse": "75,1 hab/km²",
+      "explication": "La densité de population du Burkina Faso en 2019 était de 75,1 habitants par km²."
+    },
+    {
+      "question": "Quelle proportion de la population burkinabè vit en milieu urbain selon le recensement de 2019 ?",
+      "options": ["22,7%", "26,3%", "30,0%", "35,0%"],
+      "reponse": "26,3%",
+      "explication": "Selon le recensement de 2019, 26,3% de la population burkinabè vit en milieu urbain."
+    },
+    {
+      "question": "Quelle est la région la plus peuplée du Burkina Faso selon le recensement de 2019 ?",
+      "options": ["Centre", "Hauts-Bassins", "Est", "Sahel"],
+      "reponse": "Centre",
+      "explication": "La région du Centre est la plus peuplée du Burkina Faso avec 3 032 668 habitants, soit 14,8% de la population totale."
+    },
+    {
+      "question": "Quelle est la région la moins peuplée du Burkina Faso selon le recensement de 2019 ?",
+      "options": ["Centre-Sud", "Sahel", "Nord", "Sud-Ouest"],
+      "reponse": "Centre-Sud",
+      "explication": "La région du Centre-Sud est la moins peuplée du Burkina Faso avec 788 341 habitants, soit 3,8% de la population totale."
+    },
+    {
+      "question": "Quel est le taux d'accroissement démographique intercensitaire entre 2006 et 2019 ?",
+      "options": ["2,93%", "3,12%", "3,50%", "4,00%"],
+      "reponse": "2,93%",
+      "explication": "Le taux d'accroissement démographique intercensitaire entre 2006 et 2019 est de 2,93%."
+    },
+    {
+      "question": "Quelle est la proportion de la population burkinabè âgée de moins de 15 ans selon le recensement de 2019 ?",
+      "options": ["45,3%", "50,0%", "55,0%", "60,0%"],
+      "reponse": "45,3%",
+      "explication": "Selon le recensement de 2019, 45,3% de la population burkinabè a moins de 15 ans."
+    },
+    {
+      "question": "Quelle est la proportion de la population burkinabè âgée de 65 ans ou plus selon le recensement de 2019 ?",
+      "options": ["3,4%", "5,0%", "7,0%", "10,0%"],
+      "reponse": "3,4%",
+      "explication": "Selon le recensement de 2019, 3,4% de la population burkinabè a 65 ans ou plus."
+    },
+    {
+      "question": "Quelle est la taille moyenne des ménages au Burkina Faso selon le recensement de 2019 ?",
+      "options": ["4,5", "5,2", "6,0", "6,5"],
+      "reponse": "5,2",
+      "explication": "La taille moyenne des ménages au Burkina Faso selon le recensement de 2019 est de 5,2 individus."
+    },
+    {
+      "question": "Quel est le nombre total de ménages au Burkina Faso selon le recensement de 2019 ?",
+      "options": ["3 907 094", "4 000 000", "4 500 000", "5 000 000"],
+      "reponse": "3 907 094",
+      "explication": "Le nombre total de ménages au Burkina Faso selon le recensement de 2019 est de 3 907 094."
+    },
+    {
+      "question": "Quelle est la proportion de ménages dirigés par une femme au Burkina Faso selon le recensement de 2019 ?",
+      "options": ["10,0%", "15,0%", "20,0%", "16,7%"],
+      "reponse": "16,7%",
+      "explication": "Selon le recensement de 2019, environ 16,7% des ménages au Burkina Faso sont dirigés par une femme."
+    }
+  ]
+}
