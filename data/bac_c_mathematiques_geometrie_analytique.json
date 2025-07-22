@@ -360,8 +360,6 @@
       "reponse": "(2;3;1)",
       "explication": "Projection selon vecteur normal (1;1;1), donc calcul via distance au plan et déplacement."
     },
-{
-  "qcm": [
     {
       "question": "Quel est le repère usuel de l’espace en géométrie analytique ?",
       "options": ["(O; i, j, k)", "(A; x, y)", "(O; u, v)", "(P; x, y, z)"],

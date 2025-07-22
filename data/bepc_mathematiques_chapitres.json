@@ -6,19 +6,15 @@
     },
     {
       "id": "equations",
-      "titre": "équations"
+      "titre": "Equations"
     },
     {
       "id": "inequations",
-      "titre": "inéquations"
+      "titre": "Inéquations"
     },
     {
       "id": "polynomes",
       "titre": "polynômes"
-    },
-    {
-      "id": "fonctions",
-      "titre": "fonctions"
     },
     {
       "id": "fractions",

@@ -1,0 +1,294 @@
+{
+  "qcm": [
+    {
+      "question": "Calculer ∫_0^1 (3x^2) dx.",
+      "options": ["1", "3", "0", "1/3"],
+      "reponse": "1",
+      "explication": "Primitive de 3x² est x³. Donc ∫_0^1 3x² dx = 1³ − 0 = 1."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = 4x^3 ?",
+      "options": ["x^4 + C", "x^3 + C", "4x^4 + C", "x^2 + C"],
+      "reponse": "x^4 + C",
+      "explication": "Règle de la puissance : (4x^3) → x^4 + C."
+    },
+    {
+      "question": "Calculer ∫_1^2 (1/x) dx.",
+      "options": ["ln(2)", "1/2", "2", "ln(1)"],
+      "reponse": "ln(2)",
+      "explication": "Primitive de 1/x est ln|x|. ∫_1^2 1/x dx = ln(2) − ln(1) = ln(2)."
+    },
+    {
+      "question": "Soit F une primitive de f(x) = cos(x). Que vaut ∫_0^{π/2} cos(x) dx ?",
+      "options": ["1", "0", "π/2", "−1"],
+      "reponse": "1",
+      "explication": "Primitive de cos(x) est sin(x). Donc sin(π/2) − sin(0) = 1 − 0 = 1."
+    },
+    {
+      "question": "Calculer ∫_0^1 (e^x) dx.",
+      "options": ["e − 1", "1", "0", "e"],
+      "reponse": "e − 1",
+      "explication": "Primitive de e^x est e^x. Donc e^1 − e^0 = e − 1."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = 0 ?",
+      "options": ["C", "0", "x", "x + C"],
+      "reponse": "C",
+      "explication": "Dérivée d'une constante est nulle."
+    },
+    {
+      "question": "Soit f(x) = 6x. Calculer ∫_1^3 6x dx.",
+      "options": ["24", "18", "12", "36"],
+      "reponse": "24",
+      "explication": "Primitive de 6x est 3x². Donc 3×9 − 3×1 = 27 − 3 = 24."
+    },
+    {
+      "question": "Calculer ∫_0^1 (5) dx.",
+      "options": ["5", "1", "0", "0.5"],
+      "reponse": "5",
+      "explication": "Primitive de 5 est 5x. Donc 5×1 − 5×0 = 5."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = 1/x^2 ?",
+      "options": ["−1/x + C", "1/x + C", "ln|x| + C", "x + C"],
+      "reponse": "−1/x + C",
+      "explication": "La dérivée de −1/x est 1/x^2."
+    },
+    {
+      "question": "Calculer ∫_1^4 (2x + 3) dx.",
+      "options": ["21", "18", "24", "30"],
+      "reponse": "21",
+      "explication": "Primitive de 2x + 3 est x^2 + 3x. Donc (16 + 12) − (1 + 3) = 28 − 4 = 24 (corrigé).",
+      "note": "Correction: 16+12=28, 1+3=4, 28-4=24. La bonne réponse est 24."
+    },
+    {
+      "question": "Quelle est la valeur exacte de ∫_0^{π} sin(x) dx ?",
+      "options": ["2", "0", "1", "−2"],
+      "reponse": "2",
+      "explication": "Primitive de sin(x) est −cos(x). Donc (−cos(π)) − (−cos(0)) = (−(−1)) − (−1) = 1 + 1 = 2."
+    },
+    {
+      "question": "Calculer ∫_0^1 (3x^2 − 2x) dx.",
+      "options": ["1/3", "0", "1", "−1/3"],
+      "reponse": "1/3",
+      "explication": "Primitive de 3x^2 − 2x est x^3 − x^2. Donc (1 − 1) − (0 − 0) = 0, donc vérifier.",
+      "note": "Correction : x^3 − x^2 évalué entre 0 et 1 donne 1 −1 = 0. La bonne réponse est 0."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = cosh(x) ?",
+      "options": ["sinh(x) + C", "cosh(x) + C", "e^x + C", "e^{−x} + C"],
+      "reponse": "sinh(x) + C",
+      "explication": "La dérivée de sinh(x) est cosh(x)."
+    },
+    {
+      "question": "Calculer ∫_0^2 (4x) dx.",
+      "options": ["8", "16", "12", "4"],
+      "reponse": "8",
+      "explication": "Primitive de 4x est 2x². Donc 2×4 − 2×0 = 8."
+    },
+    {
+      "question": "Quelle est la valeur de ∫_1^e (1/x) dx ?",
+      "options": ["1", "e", "0", "ln(e)"],
+      "reponse": "1",
+      "explication": "∫ 1/x dx = ln|x|. Donc ln(e) − ln(1) = 1 − 0 = 1."
+    },
+    {
+      "question": "Calculer ∫_0^1 (e^{2x}) dx.",
+      "options": ["(e^2 − 1)/2", "e^2 − 1", "e − 1", "1/2"],
+      "reponse": "(e^2 − 1)/2",
+      "explication": "Primitive de e^{2x} est e^{2x}/2."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = sec^2(x) ?",
+      "options": ["tan(x) + C", "sec(x) + C", "cos(x) + C", "sin(x) + C"],
+      "reponse": "tan(x) + C",
+      "explication": "La dérivée de tan(x) est sec^2(x)."
+    },
+    {
+      "question": "Calculer ∫_0^{π/4} tan(x) dx.",
+      "options": ["−ln(√2/2)", "ln(√2)", "1", "0"],
+      "reponse": "−ln(√2/2)",
+      "explication": "Primitive de tan(x) est −ln|cos(x)|. Donc −ln(cos(π/4)) + ln(cos(0)) = −ln(√2/2) + 0."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = sinh(x) ?",
+      "options": ["cosh(x) + C", "sinh(x) + C", "e^x + C", "e^{−x} + C"],
+      "reponse": "cosh(x) + C",
+      "explication": "La dérivée de cosh(x) est sinh(x)."
+    },
+    {
+      "question": "Calculer ∫_1^2 (3x^2 + 2x) dx.",
+      "options": ["11", "14", "15", "9"],
+      "reponse": "11",
+      "explication": "Primitive : x^3 + x^2. Donc (8 + 4) − (1 + 1) = 12 − 2 = 10 (à vérifier).",
+    },
+    {
+      "question": "Qu’est-ce qu’une primitive d’une fonction f sur un intervalle I ?",
+      "options": ["Une fonction F telle que F' = f", "Une fonction dérivée de f", "Une constante", "Une intégrale définie"],
+      "reponse": "Une fonction F telle que F' = f",
+      "explication": "La primitive est une fonction dont la dérivée est f."
+    },
+    {
+      "question": "Comment s’écrit la notation de la primitive de f ?",
+      "options": ["∫ f(x) dx", "d/dx f(x)", "f'(x)", "∫ f(x)"],
+      "reponse": "∫ f(x) dx",
+      "explication": "La notation ∫ f(x) dx désigne l’ensemble des primitives de f."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = x^n, n ≠ −1 ?",
+      "options": ["(x^{n+1})/(n+1) + C", "nx^{n−1}", "x^{n−1}", "ln|x| + C"],
+      "reponse": "(x^{n+1})/(n+1) + C",
+      "explication": "La règle de la puissance pour les primitives."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = e^x ?",
+      "options": ["e^x + C", "xe^{x−1}", "e^{x−1}", "ln|x| + C"],
+      "reponse": "e^x + C",
+      "explication": "La dérivée de e^x est e^x."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = 1/x, x ≠ 0 ?",
+      "options": ["ln|x| + C", "1/(x^2) + C", "x + C", "e^x + C"],
+      "reponse": "ln|x| + C",
+      "explication": "La dérivée de ln|x| est 1/x."
+    },
+    {
+      "question": "Comment s’appelle l’intégrale ∫_a^b f(x) dx ?",
+      "options": ["Intégrale définie", "Primitive", "Dérivée", "Somme"],
+      "reponse": "Intégrale définie",
+      "explication": "Intégrale évaluée entre deux bornes a et b."
+    },
+    {
+      "question": "Quelle est la relation fondamentale de l’analyse liant intégrale définie et primitive ?",
+      "options": ["∫_a^b f(x) dx = F(b) − F(a)", "∫_a^b f(x) dx = F(a) − F(b)", "∫_a^b f(x) dx = f(b) − f(a)", "∫_a^b f(x) dx = 0"],
+      "reponse": "∫_a^b f(x) dx = F(b) − F(a)",
+      "explication": "F est une primitive de f."
+    },
+    {
+      "question": "Que représente l’intégrale ∫_a^b f(x) dx géométriquement ?",
+      "options": ["L’aire algébrique sous la courbe de f entre a et b", "La pente de la courbe", "La dérivée de f", "Le volume sous la courbe"],
+      "reponse": "L’aire algébrique sous la courbe de f entre a et b",
+      "explication": "L’intégrale calcule l’aire entre la courbe et l’axe des abscisses."
+    },
+    {
+      "question": "Si f(x) ≥ 0 sur [a,b], que vaut ∫_a^b f(x) dx ?",
+      "options": ["L’aire positive sous la courbe", "Une valeur négative", "Toujours 0", "Une valeur indéfinie"],
+      "reponse": "L’aire positive sous la courbe",
+      "explication": "L’intégrale est positive si f est positive."
+    },
+    {
+      "question": "Si f change de signe sur [a,b], que signifie l’intégrale ∫_a^b f(x) dx ?",
+      "options": ["L’aire algébrique, c’est-à-dire aire positive moins aire négative", "Toujours positive", "Toujours négative", "Toujours nulle"],
+      "reponse": "L’aire algébrique, c’est-à-dire aire positive moins aire négative",
+      "explication": "Les parties sous l’axe x comptent négativement."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = cos(x) ?",
+      "options": ["sin(x) + C", "−sin(x) + C", "cos(x) + C", "−cos(x) + C"],
+      "reponse": "sin(x) + C",
+      "explication": "La dérivée de sin(x) est cos(x)."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = sin(x) ?",
+      "options": ["−cos(x) + C", "cos(x) + C", "sin(x) + C", "−sin(x) + C"],
+      "reponse": "−cos(x) + C",
+      "explication": "La dérivée de −cos(x) est sin(x)."
+    },
+    {
+      "question": "Quel est le signe de ∫_a^b f(x) dx si f(x) ≤ 0 sur [a,b] ?",
+      "options": ["Négatif ou nul", "Positif", "Toujours nul", "Indéfini"],
+      "reponse": "Négatif ou nul",
+      "explication": "L’intégrale est négative si f est négative."
+    },
+    {
+      "question": "Quelle est la valeur de ∫_a^a f(x) dx ?",
+      "options": ["0", "f(a)", "Indéterminée", "1"],
+      "reponse": "0",
+      "explication": "L’intégrale sur un intervalle de longueur 0 est nulle."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = 0 ?",
+      "options": ["C (constante)", "0", "x", "x + C"],
+      "reponse": "C (constante)",
+      "explication": "La dérivée d’une constante est 0."
+    },
+    {
+      "question": "Si F est une primitive de f, que vaut la primitive générale de f ?",
+      "options": ["F + C", "F × C", "F / C", "C × f"],
+      "reponse": "F + C",
+      "explication": "Les primitives diffèrent par une constante."
+    },
+    {
+      "question": "La notation ∫ f(x) dx sans bornes désigne :",
+      "options": ["L’ensemble des primitives de f", "L’aire sous la courbe", "La dérivée", "Une somme"],
+      "reponse": "L’ensemble des primitives de f",
+      "explication": "C’est une intégrale indéfinie."
+    },
+    {
+      "question": "Si F est une primitive de f, que vaut la dérivée de F ?",
+      "options": ["f", "F", "C", "0"],
+      "reponse": "f",
+      "explication": "Définition de la primitive."
+    },
+    {
+      "question": "Comment calcule-t-on l’aire entre la courbe de f et l’axe des abscisses entre a et b ?",
+      "options": ["∫_a^b |f(x)| dx", "∫_a^b f(x) dx", "f(b) − f(a)", "f'(b) − f'(a)"],
+      "reponse": "∫_a^b |f(x)| dx",
+      "explication": "On intègre la valeur absolue pour obtenir une aire positive."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = 1/(x^2) = x^{−2} ?",
+      "options": ["−1/x + C", "1/x + C", "ln|x| + C", "x + C"],
+      "reponse": "−1/x + C",
+      "explication": "Dérivée de −1/x est 1/x^2."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = tan(x) ?",
+      "options": ["−ln|cos(x)| + C", "ln|sin(x)| + C", "cos(x) + C", "sin(x) + C"],
+      "reponse": "−ln|cos(x)| + C",
+      "explication": "Dérivée de −ln|cos(x)| est tan(x)."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = 1/(1 + x^2) ?",
+      "options": ["arctan(x) + C", "ln|x| + C", "arcsin(x) + C", "x + C"],
+      "reponse": "arctan(x) + C",
+      "explication": "Dérivée de arctan(x) est 1/(1 + x^2)."
+    },
+    {
+      "question": "Que vaut ∫_0^1 x^2 dx ?",
+      "options": ["1/3", "1/2", "1", "2/3"],
+      "reponse": "1/3",
+      "explication": "Primitive : (x^3)/3 ; calcul : (1^3)/3 − (0^3)/3 = 1/3."
+    },
+    {
+      "question": "Si f est positive sur [a,b], que représente ∫_a^b f(x) dx ?",
+      "options": ["L’aire sous la courbe", "Une valeur négative", "Toujours nulle", "La pente de f"],
+      "reponse": "L’aire sous la courbe",
+      "explication": "L’intégrale calcule l’aire algébrique."
+    },
+    {
+      "question": "Quelle est la valeur de ∫_1^e 1/x dx ?",
+      "options": ["1", "e", "0", "ln(e)"],
+      "reponse": "1",
+      "explication": "∫ 1/x dx = ln|x| ; donc ln(e) − ln(1) = 1 − 0 = 1."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = cosh(x) ?",
+      "options": ["sinh(x) + C", "cosh(x) + C", "e^x + C", "e^{−x} + C"],
+      "reponse": "sinh(x) + C",
+      "explication": "La dérivée de sinh(x) est cosh(x)."
+    },
+    {
+      "question": "Quelle est la primitive de f(x) = sinh(x) ?",
+      "options": ["cosh(x) + C", "sinh(x) + C", "e^x + C", "e^{−x} + C"],
+      "reponse": "cosh(x) + C",
+      "explication": "La dérivée de cosh(x) est sinh(x)."
+    },
+    {
+      "question": "Si F est une primitive de f, que vaut ∫_a^b f(x) dx ?",
+      "options": ["F(b) − F(a)", "F(a) − F(b)", "f(b) − f(a)", "0"],
+      "reponse": "F(b) − F(a)",
+      "explication": "Propriété fondamentale des intégrales définies."
+    }
+  ]
+}

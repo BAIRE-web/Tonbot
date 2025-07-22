@@ -300,8 +300,6 @@
       "reponse": "x = 5",
       "explication": "4x - 2x + 1 = 9 ⇒ 2x = 8 ⇒ x = 4."
     },
-{
-  "qcm": [
     {
       "question": "Résous l'équation : 3(x - 2) + 4 = 2x + 6",
       "options": ["x = 4", "x = 2", "x = -2", "x = 1"],

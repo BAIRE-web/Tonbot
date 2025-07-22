@@ -1,10 +1,6 @@
 {
   "chapitres": [
     {
-      "id": "cinematique",
-      "titre": "Cinématique"
-    },
-    {
       "id": "dynamique",
       "titre": "Dynamique"
     },
@@ -35,10 +31,6 @@
     {
       "id": "noyau_atomique",
       "titre": "Noyau atomique"
-    },
-    {
-      "id": "reaction_nucleaire",
-      "titre": "Réaction nucléaire"
     }
   ]
 }

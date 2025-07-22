@@ -1,0 +1,304 @@
+{
+  "qcm": [
+    {
+      "question": "Qu'appelle-t-on équation du premier degré à une inconnue ?",
+      "options": ["Une équation sans inconnue", "Une équation dont le degré de l’inconnue est 1", "Une équation avec deux inconnues", "Une équation de degré 2"],
+      "reponse": "Une équation dont le degré de l’inconnue est 1",
+      "explication": "Une équation du premier degré est de la forme ax + b = 0 avec a ≠ 0."
+    },
+    {
+      "question": "Quelle est la forme générale d’une équation du second degré ?",
+      "options": ["ax² + bx + c = 0", "ax + b = 0", "a² + b² = c²", "x² + 2x = c"],
+      "reponse": "ax² + bx + c = 0",
+      "explication": "C’est la forme canonique d’une équation quadratique."
+    },
+    {
+      "question": "Comment appelle-t-on les solutions d'une équation ?",
+      "options": ["Les constantes", "Les inconnues", "Les racines", "Les variables"],
+      "reponse": "Les racines",
+      "explication": "Les solutions d’une équation sont appelées racines ou solutions de l’équation."
+    },
+    {
+      "question": "Quel est le discriminant d’une équation ax² + bx + c = 0 ?",
+      "options": ["b² - 4ac", "b² + 4ac", "2a + b", "√(a² + b²)"],
+      "reponse": "b² - 4ac",
+      "explication": "Le discriminant Δ = b² - 4ac permet de connaître le nombre de solutions."
+    },
+    {
+      "question": "Que signifie Δ > 0 dans une équation du second degré ?",
+      "options": ["Aucune solution", "Une seule solution", "Deux solutions réelles distinctes", "Deux solutions imaginaires"],
+      "reponse": "Deux solutions réelles distinctes",
+      "explication": "Si le discriminant est strictement positif, l’équation a deux solutions réelles distinctes."
+    },
+    {
+      "question": "Comment calcule-t-on la première solution x₁ d'une équation quadratique ?",
+      "options": ["x₁ = (-b + √Δ) / 2a", "x₁ = b / a", "x₁ = √a", "x₁ = (-b - √Δ) / 2a"],
+      "reponse": "x₁ = (-b - √Δ) / 2a",
+      "explication": "C’est la formule de résolution lorsqu’il y a deux racines."
+    },
+    {
+      "question": "Et la deuxième solution x₂ ?",
+      "options": ["x₂ = (-b + √Δ) / 2a", "x₂ = -b / a", "x₂ = b² - 4ac", "x₂ = √(a² + b²)"],
+      "reponse": "x₂ = (-b + √Δ) / 2a",
+      "explication": "Elle complète la paire de racines de l’équation du second degré."
+    },
+    {
+      "question": "Que se passe-t-il si Δ = 0 ?",
+      "options": ["Une seule solution réelle double", "Deux solutions distinctes", "Pas de solution", "Une infinité de solutions"],
+      "reponse": "Une seule solution réelle double",
+      "explication": "Quand Δ = 0, l’équation a une racine double : x = -b / 2a."
+    },
+    {
+      "question": "Si Δ < 0, que peut-on dire de l’équation ?",
+      "options": ["Elle a deux racines réelles", "Elle n’a pas de solution réelle", "Elle est linéaire", "Elle a une racine triple"],
+      "reponse": "Elle n’a pas de solution réelle",
+      "explication": "Le discriminant négatif indique que les solutions sont complexes (non réelles)."
+    },
+    {
+      "question": "Quelle méthode permet de résoudre l’équation x² + 4x + 3 = 0 ?",
+      "options": ["Discriminant", "Théorème de Thalès", "Factorisation", "Trigonométrie"],
+      "reponse": "Discriminant",
+      "explication": "On utilise le discriminant pour déterminer les solutions."
+    },
+    {
+      "question": "Si x² = 16, quelles sont les solutions ?",
+      "options": ["x = 4", "x = ±4", "x = 2", "x = ±8"],
+      "reponse": "x = ±4",
+      "explication": "√16 = ±4, car les deux valeurs sont valables."
+    },
+    {
+      "question": "Comment résoudre l'équation x(x - 5) = 0 ?",
+      "options": ["x = 5", "x = -5", "x = 0 ou x = 5", "x = 0 ou x = -5"],
+      "reponse": "x = 0 ou x = 5",
+      "explication": "On applique la règle du produit nul."
+    },
+    {
+      "question": "Si a = 0 dans ax² + bx + c = 0, que devient l’équation ?",
+      "options": ["Une équation du premier degré", "Une équation sans solution", "Une identité remarquable", "Une équation irrationnelle"],
+      "reponse": "Une équation du premier degré",
+      "explication": "Elle devient bx + c = 0, qui est du premier degré."
+    },
+    {
+      "question": "x² - 9 = 0 est une équation de type :",
+      "options": ["Complète", "Produit nul", "Différence de carrés", "Racine carrée"],
+      "reponse": "Différence de carrés",
+      "explication": "Elle s’écrit aussi (x - 3)(x + 3) = 0."
+    },
+    {
+      "question": "Que signifie factoriser une expression ?",
+      "options": ["Réduire l’équation", "Simplifier les fractions", "Mettre sous forme de produit", "Extraire une racine"],
+      "reponse": "Mettre sous forme de produit",
+      "explication": "La factorisation permet souvent de résoudre plus simplement une équation."
+    },
+    {
+      "question": "Quel est le rôle de la mise en facteur dans la résolution d’une équation ?",
+      "options": ["Rendre l’équation fausse", "Isoler les inconnues", "Transformer une somme en produit", "Annuler les coefficients"],
+      "reponse": "Transformer une somme en produit",
+      "explication": "Cela permet d’appliquer le principe du produit nul."
+    },
+    {
+      "question": "Si (x - 1)(x + 2) = 0, alors :",
+      "options": ["x = 1 ou x = -2", "x = -1 ou x = 2", "x = 0", "x = 1 et x = 2"],
+      "reponse": "x = 1 ou x = -2",
+      "explication": "Chaque facteur s’annule indépendamment."
+    },
+    {
+      "question": "Que représente le point d’intersection entre une parabole et l’axe des abscisses ?",
+      "options": ["Le sommet", "Les racines de l’équation", "La médiane", "Le maximum"],
+      "reponse": "Les racines de l’équation",
+      "explication": "Les racines sont les abscisses pour lesquelles f(x) = 0."
+    },
+    {
+      "question": "Quel outil graphique permet d’estimer les racines d’une équation quadratique ?",
+      "options": ["Le cercle", "La parabole", "Le rectangle", "L’ellipse"],
+      "reponse": "La parabole",
+      "explication": "La représentation graphique d’une fonction quadratique est une parabole."
+    },
+    {
+      "question": "L’équation x² + 2x + 1 = 0 a une racine double. Quelle est-elle ?",
+      "options": ["x = -1", "x = 1", "x = 0", "x = 2"],
+      "reponse": "x = -1",
+      "explication": "Δ = 0, donc racine double : x = -b / 2a = -2 / 2 = -1."
+    },
+    {
+      "question": "Quel est le lien entre les coefficients a, b, c et les racines ?",
+      "options": ["Il n’y a pas de lien", "Ils permettent de calculer les racines", "Ils donnent le sommet", "Ils déterminent le domaine"],
+      "reponse": "Ils permettent de calculer les racines",
+      "explication": "Ils sont nécessaires pour utiliser la formule générale."
+    },
+    {
+      "question": "Comment nomme-t-on une équation qui a une infinité de solutions ?",
+      "options": ["Équation impossible", "Équation identique", "Équation triviale", "Équation erronée"],
+      "reponse": "Équation identique",
+      "explication": "Elle est vraie pour tout x de ℝ."
+    },
+    {
+      "question": "Résoudre une équation revient à :",
+      "options": ["Chercher la valeur du discriminant", "Trouver toutes les valeurs de l’inconnue qui vérifient l’égalité", "Factoriser l’équation", "Dessiner la courbe correspondante"],
+      "reponse": "Trouver toutes les valeurs de l’inconnue qui vérifient l’égalité",
+      "explication": "C’est le but fondamental de toute équation."
+    },
+    {
+      "question": "Quel est le rôle des parenthèses dans une équation ?",
+      "options": ["Aucun", "Donner un sens littéraire", "Respecter la priorité des opérations", "Changer les coefficients"],
+      "reponse": "Respecter la priorité des opérations",
+      "explication": "Elles évitent les erreurs de calcul en structurant les étapes."
+    },
+    {
+      "question": "Une équation est dite homogène si :",
+      "options": ["Les unités sont différentes", "Les deux membres sont identiques", "Les deux membres ont la même dimension", "Elle contient un logarithme"],
+      "reponse": "Les deux membres ont la même dimension",
+      "explication": "Cela signifie qu’elle est physiquement cohérente."
+    },
+    {
+      "question": "Si une équation n’a pas de solution, on dit qu’elle est :",
+      "options": ["Résoluble", "Compatible", "Impossible", "Identique"],
+      "reponse": "Impossible",
+      "explication": "Une équation impossible ne peut être satisfaite par aucune valeur de l’inconnue."
+    },
+    {
+      "question": "Que fait-on en premier lors de la résolution d’une équation complexe ?",
+      "options": ["On applique le discriminant", "On isole les termes semblables", "On cherche la dérivée", "On trace la courbe"],
+      "reponse": "On isole les termes semblables",
+      "explication": "C’est l’étape de simplification pour clarifier l’équation."
+    },
+    {
+      "question": "L’équation (x + 2)² = 0 admet une solution :",
+      "options": ["x = 2", "x = -2", "x = 0", "x = ±2"],
+      "reponse": "x = -2",
+      "explication": "(x + 2)² = 0 ⇒ x + 2 = 0 ⇒ x = -2."
+    },
+    {
+      "question": "Quelle équation correspond à une fonction affine ?",
+      "options": ["y = ax + b", "y = ax² + bx + c", "y = a / x", "y = √x"],
+      "reponse": "y = ax + b",
+      "explication": "La fonction affine est de degré 1, donc une équation linéaire."
+    },
+    {
+      "question": "Quand une équation est-elle dite résolue ?",
+      "options": ["Quand on connaît a, b et c", "Quand on a calculé Δ", "Quand on a trouvé toutes les solutions", "Quand on a factorisé"],
+      "reponse": "Quand on a trouvé toutes les solutions",
+      "explication": "La résolution est complète une fois les solutions connues."
+    },
+    {
+      "question": "Résoudre l’équation : 3x - 7 = 2x + 5",
+      "options": ["x = -12", "x = 12", "x = 0", "x = -1"],
+      "reponse": "x = 12",
+      "explication": "3x - 7 = 2x + 5 ⟹ x = 12"
+    },
+    {
+      "question": "Résoudre l’équation : 2(x + 3) = x - 4",
+      "options": ["x = -10", "x = 10", "x = 2", "x = -2"],
+      "reponse": "x = -10",
+      "explication": "2(x + 3) = x - 4 ⟹ 2x + 6 = x - 4 ⟹ x = -10"
+    },
+    {
+      "question": "Quel est le discriminant de l’équation : x² - 6x + 5 = 0 ?",
+      "options": ["Δ = 11", "Δ = 1", "Δ = 36", "Δ = 25"],
+      "reponse": "Δ = 16",
+      "explication": "Δ = (-6)² - 4×1×5 = 36 - 20 = 16"
+    },
+    {
+      "question": "Résoudre l’équation : x² - 6x + 9 = 0",
+      "options": ["x = 3", "x = -3", "x = 0", "x = 6"],
+      "reponse": "x = 3",
+      "explication": "C’est un trinôme carré parfait : (x - 3)² = 0 ⟹ x = 3"
+    },
+    {
+      "question": "Résoudre l’équation : 4x² = 25",
+      "options": ["x = ±5/2", "x = ±4/5", "x = ±25", "x = ±2/5"],
+      "reponse": "x = ±5/2",
+      "explication": "x² = 25/4 ⟹ x = ±√(25/4) = ±5/2"
+    },
+    {
+      "question": "Soit x² - 2x - 8 = 0. Trouver les solutions.",
+      "options": ["x = -2 et x = 4", "x = 2 et x = -4", "x = 2 et x = 4", "x = -2 et x = -4"],
+      "reponse": "x = -2 et x = 4",
+      "explication": "Δ = 4 + 32 = 36 ; x = (2 ± 6)/2"
+    },
+    {
+      "question": "Soit f(x) = x² - 4x + 3. Quelle est la valeur de f(1) ?",
+      "options": ["0", "2", "3", "-1"],
+      "reponse": "0",
+      "explication": "f(1) = 1 - 4 + 3 = 0"
+    },
+    {
+      "question": "Résoudre : (x - 2)(x + 3) = 0",
+      "options": ["x = 2 ou x = -3", "x = -2 ou x = 3", "x = -2 ou x = -3", "x = 2 ou x = 3"],
+      "reponse": "x = 2 ou x = -3",
+      "explication": "Un produit nul ⟹ chaque facteur = 0"
+    },
+    {
+      "question": "Quel est le discriminant de l’équation x² + 2x + 1 = 0 ?",
+      "options": ["Δ = 0", "Δ = 1", "Δ = 4", "Δ = -1"],
+      "reponse": "Δ = 0",
+      "explication": "Δ = 2² - 4×1×1 = 0"
+    },
+    {
+      "question": "Soit x² + 5x = 0. Quelle est la solution ?",
+      "options": ["x = 0 ou x = -5", "x = 0 ou x = 5", "x = 5", "x = -5"],
+      "reponse": "x = 0 ou x = -5",
+      "explication": "x(x + 5) = 0 donc x = 0 ou x = -5"
+    },
+    {
+      "question": "Résoudre : (x + 2)² = 9",
+      "options": ["x = 1 ou x = -5", "x = 1 ou x = -1", "x = -1 ou x = -5", "x = 1 ou x = -3"],
+      "reponse": "x = 1 ou x = -5",
+      "explication": "(x + 2) = ±3 ⟹ x = 1 ou x = -5"
+    },
+    {
+      "question": "Résoudre l’équation : x² = 49",
+      "options": ["x = ±7", "x = 7", "x = -7", "x = ±49"],
+      "reponse": "x = ±7",
+      "explication": "√49 = ±7"
+    },
+    {
+      "question": "Résoudre : x² - 5x = -6",
+      "options": ["x = 2 ou x = 3", "x = -2 ou x = -3", "x = 2 ou x = -3", "x = -2 ou x = 3"],
+      "reponse": "x = 2 ou x = 3",
+      "explication": "x² - 5x + 6 = 0 ⟹ (x - 2)(x - 3)"
+    },
+    {
+      "question": "Résoudre l’équation : (x - 1)(x + 4) = 0",
+      "options": ["x = 1 ou x = -4", "x = -1 ou x = 4", "x = -1 ou x = -4", "x = 1 ou x = 4"],
+      "reponse": "x = 1 ou x = -4",
+      "explication": "Un des deux facteurs doit être nul"
+    },
+    {
+      "question": "Quel est le discriminant de l’équation : 2x² - 8x + 6 = 0 ?",
+      "options": ["Δ = 4", "Δ = 16", "Δ = 0", "Δ = 8"],
+      "reponse": "Δ = 16",
+      "explication": "Δ = (-8)² - 4×2×6 = 64 - 48 = 16"
+    },
+    {
+      "question": "Résoudre : x² - 2x + 1 = 0",
+      "options": ["x = 1", "x = -1", "x = 2", "x = 0"],
+      "reponse": "x = 1",
+      "explication": "(x - 1)² = 0"
+    },
+    {
+      "question": "Résoudre l’équation : x² = 0",
+      "options": ["x = 0", "x = 1", "x = -1", "x = ±1"],
+      "reponse": "x = 0",
+      "explication": "√0 = 0"
+    },
+    {
+      "question": "Résoudre l’équation : x² - 4 = 0",
+      "options": ["x = ±2", "x = ±4", "x = ±1", "x = ±3"],
+      "reponse": "x = ±2",
+      "explication": "x² = 4 ⟹ x = ±2"
+    },
+    {
+      "question": "Soit x² + 3x + 2 = 0. Trouver les solutions.",
+      "options": ["x = -1 ou x = -2", "x = 1 ou x = 2", "x = -1 ou x = 2", "x = 1 ou x = -2"],
+      "reponse": "x = -1 ou x = -2",
+      "explication": "Δ = 1 ⟹ x = (-3 ± 1)/2"
+    },
+    {
+      "question": "Résoudre l’équation : 5x² - 20 = 0",
+      "options": ["x = ±2", "x = ±4", "x = ±1", "x = ±3"],
+      "reponse": "x = ±2",
+      "explication": "x² = 4 ⟹ x = ±2"
+    }
+  ]
+}

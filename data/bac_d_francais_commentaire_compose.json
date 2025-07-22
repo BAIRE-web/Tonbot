@@ -1,5 +1,5 @@
 {
-  "exercices": [
+  "qcm": [
     {
       "question": "Combien de syllabes comporte ce vers ?\n« Je marche seul dans la forêt profonde »",
       "options": ["12", "10", "8", "14"],

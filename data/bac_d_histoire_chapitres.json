@@ -21,7 +21,7 @@
       "titre": "Colonisation"
     },
     {
-      "id": "mouvements_nationalistes",
+      "id": "nationalistes",
       "titre": "Mouvements nationalistes"
     },
     {
@@ -31,10 +31,6 @@
     {
       "id": "histoire_precoloniale",
       "titre": "Histoire précoloniale"
-    },
-    {
-      "id": "colonisation_francaise",
-      "titre": "Colonisation française"
     },
     {
       "id": "independance",

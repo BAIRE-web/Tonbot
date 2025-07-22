@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle est la première étape essentielle avant de rédiger un commentaire ?",
+      "options": ["Lire attentivement le document", "Écrire l’introduction", "Donner une conclusion", "Faire une carte mentale"],
+      "reponse": "Lire attentivement le document",
+      "explication": "Lire le document permet de bien comprendre le sujet avant toute analyse."
+    },
+    {
+      "question": "Quel élément doit figurer obligatoirement dans l’introduction ?",
+      "options": ["Une citation", "Une problématique", "Une anecdote", "Une définition du plan"],
+      "reponse": "Une problématique",
+      "explication": "La problématique est essentielle pour orienter le commentaire."
+    },
+    {
+      "question": "Quel est le rôle du développement dans un commentaire ?",
+      "options": ["Présenter des faits sans explication", "Raconter une histoire", "Analyser le document de manière organisée", "Faire une conclusion anticipée"],
+      "reponse": "Analyser le document de manière organisée",
+      "explication": "Le développement sert à structurer l’analyse et répondre à la problématique."
+    },
+    {
+      "question": "Combien de parties contient généralement un développement ?",
+      "options": ["1", "2", "3", "4"],
+      "reponse": "2",
+      "explication": "Un bon développement est souvent structuré en deux grandes parties équilibrées."
+    },
+    {
+      "question": "Qu’est-ce qu’une transition dans un commentaire ?",
+      "options": ["Un paragraphe d’introduction", "Une pause entre deux phrases", "Un lien logique entre deux parties", "Un résumé du texte"],
+      "reponse": "Un lien logique entre deux parties",
+      "explication": "La transition permet d’enchaîner logiquement les grandes parties."
+    },
+    {
+      "question": "Que doit contenir une conclusion de commentaire ?",
+      "options": ["Des nouvelles idées", "Un développement approfondi", "Une réponse claire à la problématique", "Une introduction au sujet suivant"],
+      "reponse": "Une réponse claire à la problématique",
+      "explication": "La conclusion doit clore l’analyse en répondant clairement à la problématique."
+    },
+    {
+      "question": "Comment appelle-t-on la capacité à replacer un document dans son contexte historique ?",
+      "options": ["L’analyse externe", "La contextualisation", "La narration", "L’explication chronologique"],
+      "reponse": "La contextualisation",
+      "explication": "La contextualisation est fondamentale pour comprendre le sens d’un document historique."
+    },
+    {
+      "question": "Pourquoi faut-il éviter de paraphraser dans un commentaire ?",
+      "options": ["Car cela montre un manque de compréhension", "Car cela rend le texte trop long", "Car c’est interdit", "Car cela empêche d’écrire l’introduction"],
+      "reponse": "Car cela montre un manque de compréhension",
+      "explication": "Paraphraser signifie répéter sans analyser, ce qui est à éviter dans un commentaire."
+    },
+    {
+      "question": "Quelle est la meilleure façon d’introduire un exemple dans un commentaire ?",
+      "options": ["Avec une citation hors sujet", "Avec une description vague", "Avec un lien clair avec l’idée développée", "Sans justification"],
+      "reponse": "Avec un lien clair avec l’idée développée",
+      "explication": "Chaque exemple doit illustrer précisément l’idée qu’on développe."
+    },
+    {
+      "question": "Qu’appelle-t-on une analyse critique d’un document ?",
+      "options": ["Une critique négative", "Une mise en doute totale", "Une évaluation des limites et intérêts", "Une énumération des faits"],
+      "reponse": "Une évaluation des limites et intérêts",
+      "explication": "L’analyse critique cherche à mesurer la valeur du document de manière argumentée."
+    },
+    {
+      "question": "Quel est l’objectif principal du commentaire de document ?",
+      "options": ["Résumer le document", "Apprendre par cœur", "Analyser et interpréter", "Raconter l’histoire"],
+      "reponse": "Analyser et interpréter",
+      "explication": "Le commentaire vise à comprendre le sens du document et à en faire une lecture argumentée."
+    },
+    {
+      "question": "Que signifie 'mobiliser ses connaissances' ?",
+      "options": ["Réciter le cours", "Utiliser les connaissances pour éclairer le document", "Inventer des faits", "Éviter de citer"],
+      "reponse": "Utiliser les connaissances pour éclairer le document",
+      "explication": "Mobiliser signifie mettre en lien le document et les acquis du cours."
+    },
+    {
+      "question": "Quel ton faut-il adopter dans un commentaire ?",
+      "options": ["Familier", "Scientifique", "Soutenu et clair", "Oral"],
+      "reponse": "Soutenu et clair",
+      "explication": "Le commentaire doit adopter un ton formel, argumenté, et structuré."
+    },
+    {
+      "question": "Dans quelle partie du commentaire faut-il présenter le document ?",
+      "options": ["Dans l’introduction", "Dans le développement", "Dans la conclusion", "Dans une note de bas de page"],
+      "reponse": "Dans l’introduction",
+      "explication": "La présentation du document (nature, auteur, date, contexte) est faite dès l’introduction."
+    },
+    {
+      "question": "Que faut-il faire en cas de document iconographique ?",
+      "options": ["Ne pas l’analyser", "Se contenter de le décrire", "L’analyser comme un texte", "L’observer et interpréter les éléments visuels"],
+      "reponse": "L’observer et interpréter les éléments visuels",
+      "explication": "Les images doivent être lues et interprétées selon leur contenu et leur intention."
+    },
+    {
+      "question": "Pourquoi le plan est-il important dans un commentaire ?",
+      "options": ["Pour faire joli", "Pour respecter les consignes du professeur", "Pour structurer et organiser l’analyse", "Pour gagner du temps"],
+      "reponse": "Pour structurer et organiser l’analyse",
+      "explication": "Un plan logique permet de rendre le commentaire clair et cohérent."
+    },
+    {
+      "question": "Comment introduire une citation dans un commentaire ?",
+      "options": ["Sans contexte", "Entre parenthèses seulement", "Avec une phrase d’introduction", "Sans l’expliquer"],
+      "reponse": "Avec une phrase d’introduction",
+      "explication": "Toute citation doit être introduite, analysée et reliée à l’idée développée."
+    },
+    {
+      "question": "Un bon commentaire contient principalement :",
+      "options": ["Des phrases longues", "Des jugements personnels", "Des analyses argumentées", "Des phrases copiées du document"],
+      "reponse": "Des analyses argumentées",
+      "explication": "C’est l’analyse qui fait la valeur du commentaire, pas la simple restitution."
+    },
+    {
+      "question": "Dans un commentaire, les parties doivent être :",
+      "options": ["Déséquilibrées", "Non numérotées", "Claires et équilibrées", "Confuses"],
+      "reponse": "Claires et équilibrées",
+      "explication": "Les parties doivent avoir une logique et une durée équivalente dans le texte."
+    },
+    {
+      "question": "Peut-on utiliser le pronom 'je' dans un commentaire ?",
+      "options": ["Oui, souvent", "Non, jamais", "Seulement dans la conclusion", "Rarement, dans un cadre neutre"],
+      "reponse": "Rarement, dans un cadre neutre",
+      "explication": "Le commentaire évite l’usage personnel ; on privilégie une formulation neutre."
+    },
+    {
+      "question": "Quel est l'intérêt d'une accroche dans l’introduction ?",
+      "options": ["Pour impressionner", "Pour annoncer le plan", "Pour capter l’attention du lecteur", "Pour critiquer le sujet"],
+      "reponse": "Pour capter l’attention du lecteur",
+      "explication": "L’accroche doit introduire le sujet de manière pertinente."
+    },
+    {
+      "question": "Quelle est la structure d’une introduction réussie ?",
+      "options": ["Accroche - Développement - Conclusion", "Présentation - Problématique - Annonce du plan", "Citation - Exemple - Plan", "Thèse - Antithèse - Synthèse"],
+      "reponse": "Présentation - Problématique - Annonce du plan",
+      "explication": "C’est la structure classique d’introduction dans un commentaire."
+    },
+    {
+      "question": "Quel est le but du commentaire en géographie ?",
+      "options": ["Analyser un espace", "Faire un récit historique", "Décrire un paysage", "Parler d’un pays"],
+      "reponse": "Analyser un espace",
+      "explication": "La géographie s’intéresse aux dynamiques spatiales, sociales et environnementales."
+    },
+    {
+      "question": "Une phrase d’introduction doit être :",
+      "options": ["Longue et compliquée", "Simple, claire et engageante", "Critique dès le départ", "Incomplète"],
+      "reponse": "Simple, claire et engageante",
+      "explication": "Elle doit situer le sujet sans tout révéler."
+    },
+    {
+      "question": "Que faut-il éviter dans un commentaire ?",
+      "options": ["Les exemples", "Les citations", "Les hors-sujets", "La problématique"],
+      "reponse": "Les hors-sujets",
+      "explication": "Il faut toujours rester dans le cadre du sujet traité."
+    },
+    {
+      "question": "Un commentaire réussi est :",
+      "options": ["Riche, structuré et pertinent", "Court et simple", "Rempli de dates", "Sans plan"],
+      "reponse": "Riche, structuré et pertinent",
+      "explication": "Ces qualités sont essentielles pour obtenir une bonne note."
+    },
+    {
+      "question": "Quand faut-il écrire le brouillon du plan ?",
+      "options": ["À la fin", "Pendant l’introduction", "Avant la rédaction", "Jamais"],
+      "reponse": "Avant la rédaction",
+      "explication": "Le plan se construit après lecture et avant la rédaction."
+    },
+    {
+      "question": "Un bon commentaire repose sur :",
+      "options": ["La rapidité", "L’interprétation raisonnée", "La copie mot à mot", "L’opinion personnelle"],
+      "reponse": "L’interprétation raisonnée",
+      "explication": "C’est une démarche rigoureuse d’analyse et de compréhension."
+    },
+    {
+      "question": "Quel élément n'est pas nécessaire dans un commentaire ?",
+      "options": ["Une problématique", "Des sous-parties", "Des illustrations", "Une conclusion"],
+      "reponse": "Des illustrations",
+      "explication": "Sauf si demandées, les illustrations ne sont pas requises dans un commentaire écrit."
+    },
+    {
+      "question": "En géographie, que faut-il analyser dans un graphique ?",
+      "options": ["La source seulement", "Les couleurs", "Les données, leur évolution et leur signification", "Le style du graphique"],
+      "reponse": "Les données, leur évolution et leur signification",
+      "explication": "Il faut analyser ce que montrent les données et pourquoi c’est significatif."
+    }
+  ]
+}

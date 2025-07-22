@@ -17,10 +17,6 @@
       "titre": "Réactions chimiques"
     },
     {
-      "id": "cinetique_chimique",
-      "titre": "Cinétique chimique"
-    },
-    {
       "id": "equilibres_chimiques",
       "titre": "Équilibres chimiques"
     },
@@ -41,7 +37,7 @@
       "titre": "Dosages chimiques"
     },
     {
-      "id": "courbes_de_titrage",
+      "id": "courbe_titrage",
       "titre": "Courbes de titrage"
     }
   ]

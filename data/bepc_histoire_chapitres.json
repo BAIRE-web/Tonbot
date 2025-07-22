@@ -9,11 +9,11 @@
       "titre": "L’entre-deux-guerres"
     },
     {
-      "id": "seconde_guerre_mondiale",
+      "id": "seconde_mondiale",
       "titre": "La Seconde Guerre mondiale"
     },
     {
-      "id": "guerre_froide_bipolirisation",
+      "id": "guerre_froide_bipolarisation",
       "titre": "La guerre froide et le monde bipolaire"
     },
     {
@@ -27,10 +27,6 @@
     {
       "id": "independances_africaines",
       "titre": "Les indépendances africaines"
-    },
-    {
-      "id": "afrique_independante",
-      "titre": "Afrique indépendante"
     },
     {
       "id": "histoire_precoloniale",

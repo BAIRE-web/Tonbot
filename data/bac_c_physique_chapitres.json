@@ -17,24 +17,16 @@
       "titre": "Courant continu"
     },
     {
-      "id": "condensateurs",
+      "id": "condensateur",
       "titre": "Condensateurs"
-    },
-    {
-      "id": "courant",
-      "titre": "Courant"
     },
     {
       "id": "lentilles",
       "titre": "Lentilles"
     },
     {
-      "id": "ondes_mecaniques",
+      "id": "ondes",
       "titre": "Ondes mécaniques"
-    },
-    {
-      "id": "ondes_electromagnetiques",
-      "titre": "Ondes électromagnétiques"
     },
     {
       "id": "champ_g",

@@ -1,8 +1,8 @@
 {
   "chapitres": [
     {
-      "id": "milieu_naturel",
-      "titre": "Milieu naturel"
+      "id": "milieu_burkina",
+      "titre": "Milieu naturel du Burkina"
     },
     {
       "id": "population",
@@ -17,7 +17,7 @@
       "titre": "Aménagement"
     },
     {
-      "id": "milieu_naturel_africain",
+      "id": "milieu_africain",
       "titre": "Milieu naturel africain"
     },
     {
@@ -29,7 +29,7 @@
       "titre": "Activités économiques"
     },
     {
-      "id": "grands_ensembles_mondiaux",
+      "id": "grands_mondiaux",
       "titre": "Grands ensembles mondiaux"
     },
     {

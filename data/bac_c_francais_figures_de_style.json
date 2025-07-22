@@ -1,0 +1,184 @@
+{
+  "qcm": [
+    {
+      "question": "Quelle figure de style consiste à comparer deux éléments avec un mot-outil comme 'comme' ?",
+      "options": ["Comparaison", "Métaphore", "Allégorie", "Métonymie"],
+      "reponse": "Comparaison",
+      "explication": "La comparaison établit un lien explicite entre deux éléments à l’aide d’un outil de comparaison."
+    },
+    {
+      "question": "Quel est le nom de la figure de style qui rapproche deux réalités sans outil de comparaison ?",
+      "options": ["Métaphore", "Comparaison", "Métonymie", "Synecdoque"],
+      "reponse": "Métaphore",
+      "explication": "La métaphore établit un rapprochement implicite entre deux éléments."
+    },
+    {
+      "question": "Attribuer des caractéristiques humaines à un objet ou un animal correspond à quelle figure ?",
+      "options": ["Personnification", "Allégorie", "Hyperbole", "Oxymore"],
+      "reponse": "Personnification",
+      "explication": "La personnification donne des traits humains à ce qui ne l’est pas."
+    },
+    {
+      "question": "Quel procédé exagère une idée pour la mettre en valeur ?",
+      "options": ["Hyperbole", "Euphémisme", "Antithèse", "Litote"],
+      "reponse": "Hyperbole",
+      "explication": "L’hyperbole amplifie volontairement l’idée exprimée."
+    },
+    {
+      "question": "Quelle figure de style atténue une idée pour ne pas choquer ?",
+      "options": ["Euphémisme", "Hyperbole", "Litote", "Antiphrase"],
+      "reponse": "Euphémisme",
+      "explication": "L’euphémisme consiste à atténuer une réalité brutale."
+    },
+    {
+      "question": "Dire moins pour suggérer plus correspond à :",
+      "options": ["Litote", "Antiphrase", "Comparaison", "Anaphore"],
+      "reponse": "Litote",
+      "explication": "La litote utilise une formulation atténuée pour suggérer davantage."
+    },
+    {
+      "question": "Quelle figure de style exprime une idée par son contraire de façon ironique ?",
+      "options": ["Antiphrase", "Antithèse", "Oxymore", "Litote"],
+      "reponse": "Antiphrase",
+      "explication": "L’antiphrase consiste à dire le contraire de ce que l’on pense."
+    },
+    {
+      "question": "Associer deux mots de sens opposé dans une même expression, c’est :",
+      "options": ["Oxymore", "Antithèse", "Litote", "Euphémisme"],
+      "reponse": "Oxymore",
+      "explication": "Un oxymore juxtapose deux mots de sens opposé."
+    },
+    {
+      "question": "Opposer deux idées ou deux réalités dans une même phrase, c’est :",
+      "options": ["Antithèse", "Oxymore", "Hyperbole", "Allégorie"],
+      "reponse": "Antithèse",
+      "explication": "L’antithèse oppose deux idées dans une même structure."
+    },
+    {
+      "question": "Quelle figure utilise une répétition en début de phrase ou de vers ?",
+      "options": ["Anaphore", "Énumération", "Chiasme", "Pléonasme"],
+      "reponse": "Anaphore",
+      "explication": "L’anaphore répète un mot ou un groupe de mots en début de phrase."
+    },
+    {
+      "question": "Remplacer un mot par un autre lié par un rapport logique (ex. : 'boire un verre') :",
+      "options": ["Métonymie", "Synecdoque", "Allégorie", "Personnification"],
+      "reponse": "Métonymie",
+      "explication": "La métonymie remplace un mot par un autre qui lui est logiquement associé."
+    },
+    {
+      "question": "Exprimer une idée au moyen d’un récit ou d’un symbole :",
+      "options": ["Allégorie", "Métaphore", "Personnification", "Litote"],
+      "reponse": "Allégorie",
+      "explication": "L’allégorie représente une idée abstraite par une image concrète ou un récit symbolique."
+    },
+    {
+      "question": "Quel est le procédé qui consiste à nommer une partie pour le tout ?",
+      "options": ["Synecdoque", "Métonymie", "Comparaison", "Allégorie"],
+      "reponse": "Synecdoque",
+      "explication": "La synecdoque désigne une partie pour signifier le tout ou inversement."
+    },
+    {
+      "question": "Répéter des mots de manière excessive pour insister, c’est :",
+      "options": ["Pléonasme", "Anaphore", "Énumération", "Hyperbole"],
+      "reponse": "Pléonasme",
+      "explication": "Le pléonasme consiste à répéter une idée déjà contenue dans un mot."
+    },
+    {
+      "question": "Une série de mots ou groupes de mots de même nature grammaticale est :",
+      "options": ["Énumération", "Anaphore", "Allégorie", "Oxymore"],
+      "reponse": "Énumération",
+      "explication": "L’énumération consiste à accumuler des éléments similaires."
+    },
+    {
+      "question": "Croiser des termes selon un schéma ABBA correspond à :",
+      "options": ["Chiasme", "Anaphore", "Antithèse", "Pléonasme"],
+      "reponse": "Chiasme",
+      "explication": "Le chiasme dispose des termes en miroir pour renforcer une opposition ou une symétrie."
+    },
+    {
+      "question": "Utiliser une même structure grammaticale plusieurs fois dans une phrase, c’est :",
+      "options": ["Parallélisme", "Chiasme", "Anaphore", "Comparaison"],
+      "reponse": "Parallélisme",
+      "explication": "Le parallélisme repose sur la répétition d’une même structure syntaxique."
+    },
+    {
+      "question": "Donner à un mot un sens plus fort ou plus large qu’attendu :",
+      "options": ["Amplification", "Litote", "Métonymie", "Synecdoque"],
+      "reponse": "Amplification",
+      "explication": "L’amplification renforce une idée par l'accumulation ou l'exagération."
+    },
+    {
+      "question": "Imiter un son ou un bruit à travers des mots :",
+      "options": ["Onomatopée", "Allitération", "Assonance", "Personnification"],
+      "reponse": "Onomatopée",
+      "explication": "L’onomatopée reproduit un son réel dans le langage."
+    },
+    {
+      "question": "Quelle figure repose sur la répétition de sons identiques ?",
+      "options": ["Allitération", "Assonance", "Onomatopée", "Paronomase"],
+      "reponse": "Allitération",
+      "explication": "L’allitération est la répétition de consonnes identiques."
+    },
+    {
+      "question": "Quelle figure de style repose sur la répétition d’une voyelle ?",
+      "options": ["Assonance", "Allitération", "Onomatopée", "Anaphore"],
+      "reponse": "Assonance",
+      "explication": "L’assonance est la répétition d’un même son vocalique."
+    },
+    {
+      "question": "Quel procédé utilise des mots proches par leur son mais de sens différents ?",
+      "options": ["Paronomase", "Allitération", "Chiasme", "Oxymore"],
+      "reponse": "Paronomase",
+      "explication": "La paronomase joue sur la ressemblance sonore de mots différents."
+    },
+    {
+      "question": "Mettre côte à côte deux mots ayant des significations différentes mais proches phonétiquement, c’est :",
+      "options": ["Paronomase", "Allitération", "Assonance", "Énumération"],
+      "reponse": "Paronomase",
+      "explication": "Cela permet un jeu de mots fondé sur la proximité sonore."
+    },
+    {
+      "question": "Quel est le nom du procédé d’opposition entre deux termes éloignés dans une même phrase ?",
+      "options": ["Antithèse", "Oxymore", "Litote", "Chiasme"],
+      "reponse": "Antithèse",
+      "explication": "L’antithèse oppose deux idées dans une même structure logique."
+    },
+    {
+      "question": "Donner une idée exagérée volontairement, c’est utiliser :",
+      "options": ["Hyperbole", "Euphémisme", "Comparaison", "Parallélisme"],
+      "reponse": "Hyperbole",
+      "explication": "L’hyperbole accentue volontairement une réalité pour insister."
+    },
+    {
+      "question": "Quelle figure est fondée sur une image filée ?",
+      "options": ["Allégorie", "Métaphore", "Comparaison", "Personnification"],
+      "reponse": "Allégorie",
+      "explication": "L’allégorie prolonge une image dans un récit ou un symbole cohérent."
+    },
+    {
+      "question": "Dire 'ce n’est pas mauvais' pour dire 'c’est bon' est un exemple de :",
+      "options": ["Litote", "Euphémisme", "Ironie", "Antiphrase"],
+      "reponse": "Litote",
+      "explication": "La litote exprime positivement une idée par la négation de son contraire."
+    },
+    {
+      "question": "Dire 'c’est du propre' après un acte sale est un exemple de :",
+      "options": ["Antiphrase", "Litote", "Oxymore", "Euphémisme"],
+      "reponse": "Antiphrase",
+      "explication": "L’antiphrase consiste à dire l’inverse de ce que l’on pense, souvent avec ironie."
+    },
+    {
+      "question": "Une 'douce violence' est un exemple de :",
+      "options": ["Oxymore", "Antithèse", "Litote", "Comparaison"],
+      "reponse": "Oxymore",
+      "explication": "Un oxymore associe deux mots contradictoires dans une même expression."
+    },
+    {
+      "question": "Dire 'le cœur a ses raisons que la raison ignore' est un exemple de :",
+      "options": ["Antithèse", "Oxymore", "Métaphore", "Hyperbole"],
+      "reponse": "Antithèse",
+      "explication": "Deux idées opposées sont ici mises en parallèle : cœur et raison."
+    }
+  ]
+}

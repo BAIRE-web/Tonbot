@@ -1,0 +1,298 @@
+{
+  "qcm": [
+    {
+      "question": "Qu’est-ce qu’une inéquation ?",
+      "options": ["Une équation avec une inconnue", "Une relation d’ordre contenant une inconnue", "Une égalité entre deux expressions", "Une fonction composée"],
+      "reponse": "Une relation d’ordre contenant une inconnue",
+      "explication": "Une inéquation compare deux expressions à l’aide des signes <, >, ≤, ≥."
+    },
+    {
+      "question": "Quel est le symbole d’une inéquation stricte ?",
+      "options": ["=", "<", "≥", "≠"],
+      "reponse": "<",
+      "explication": "Les inéquations strictes utilisent < ou >."
+    },
+    {
+      "question": "Résoudre une inéquation signifie :",
+      "options": ["Trouver la valeur exacte de l’inconnue", "Trouver toutes les valeurs qui vérifient l’inéquation", "Remplacer l’inconnue par une constante", "Rendre les deux membres égaux"],
+      "reponse": "Trouver toutes les valeurs qui vérifient l’inéquation",
+      "explication": "On cherche l’ensemble des solutions qui rendent vraie l’inégalité."
+    },
+    {
+      "question": "Si on multiplie les deux membres d’une inéquation par un nombre négatif, que fait-on ?",
+      "options": ["On garde le même sens", "On inverse le sens de l’inégalité", "On remplace l’inconnue", "On élimine une variable"],
+      "reponse": "On inverse le sens de l’inégalité",
+      "explication": "Multiplier ou diviser par un nombre négatif inverse le sens de l’inégalité."
+    },
+    {
+      "question": "Quelle est la solution de l’inéquation 3x – 5 > 1 ?",
+      "options": ["x > 2", "x > -2", "x < 2", "x = 2"],
+      "reponse": "x > 2",
+      "explication": "3x – 5 > 1 ⇒ 3x > 6 ⇒ x > 2"
+    },
+    {
+      "question": "Quel est l’ensemble solution de l’inéquation x² – 9 < 0 ?",
+      "options": ["x < -3 ou x > 3", "-3 < x < 3", "x = ±3", "x ≥ -3"],
+      "reponse": "-3 < x < 3",
+      "explication": "x² – 9 < 0 ⇔ –3 < x < 3 car x² < 9."
+    },
+    {
+      "question": "Quelle est la solution de l’inéquation –2x + 4 ≤ 10 ?",
+      "options": ["x ≥ –3", "x ≤ –3", "x ≥ 7", "x ≤ 7"],
+      "reponse": "x ≥ –3",
+      "explication": "–2x + 4 ≤ 10 ⇒ –2x ≤ 6 ⇒ x ≥ –3 (inversion du sens)."
+    },
+    {
+      "question": "Dans l'inéquation x² ≥ 0, quelle est la solution ?",
+      "options": ["Aucune", "x ≠ 0", "x ∈ ℝ", "x > 0"],
+      "reponse": "x ∈ ℝ",
+      "explication": "Tout carré réel est toujours ≥ 0 donc tous les réels conviennent."
+    },
+    {
+      "question": "L’inéquation x(x – 2) < 0 est vérifiée pour :",
+      "options": ["x < 0", "0 < x < 2", "x > 2", "x ∈ ℝ"],
+      "reponse": "0 < x < 2",
+      "explication": "Étude du signe du produit : solution entre les racines."
+    },
+    {
+      "question": "Que signifie 'x ∈ [a ; b]' ?",
+      "options": ["x > a et x < b", "x ≥ a et x ≤ b", "x = a ou x = b", "x ≠ a et x ≠ b"],
+      "reponse": "x ≥ a et x ≤ b",
+      "explication": "Les crochets indiquent que les bornes sont incluses."
+    },
+    {
+      "question": "Si une inéquation a une solution vide, cela signifie que :",
+      "options": ["Elle a une infinité de solutions", "Elle n’a aucune solution", "Elle est fausse pour tout x", "Elle est une équation"],
+      "reponse": "Elle n’a aucune solution",
+      "explication": "L'ensemble solution est vide ⇔ aucune valeur ne vérifie l'inéquation."
+    },
+    {
+      "question": "La représentation graphique d'une inéquation du 1er degré est :",
+      "options": ["Un segment", "Une droite", "Une demi-droite", "Une zone hachurée"],
+      "reponse": "Une zone hachurée",
+      "explication": "Elle représente l’ensemble des solutions sur un axe."
+    },
+    {
+      "question": "Quel est l’ensemble solution de x² + 1 < 0 ?",
+      "options": ["x ∈ ℝ", "x = –1", "x = i", "Aucune solution réelle"],
+      "reponse": "Aucune solution réelle",
+      "explication": "x² + 1 est toujours ≥ 1 donc jamais < 0."
+    },
+    {
+      "question": "Dans l’expression |x – 2| < 3, la solution est :",
+      "options": ["x ∈ [–1 ; 5]", "x ∈ (–1 ; 5)", "x ∈ (2 ; 3)", "x ∈ (–3 ; 1)"],
+      "reponse": "x ∈ (–1 ; 5)",
+      "explication": "On résout –3 < x – 2 < 3 ⇒ –1 < x < 5."
+    },
+    {
+      "question": "L’inéquation x/2 + 1 < 3 est équivalente à :",
+      "options": ["x < 1", "x > 4", "x < 4", "x > 1"],
+      "reponse": "x < 4",
+      "explication": "x/2 + 1 < 3 ⇒ x/2 < 2 ⇒ x < 4"
+    },
+    {
+      "question": "Dans l’inéquation (x – 1)(x + 3) > 0, la solution est :",
+      "options": ["x ∈ (–3 ; 1)", "x < –3 ou x > 1", "x ∈ [–3 ; 1]", "x > –3"],
+      "reponse": "x < –3 ou x > 1",
+      "explication": "Produit de deux facteurs > 0 ⇒ même signe ⇒ extérieur aux racines."
+    },
+    {
+      "question": "Si on additionne le même nombre aux deux membres d’une inéquation, on :",
+      "options": ["Change le sens", "Inverse le signe", "Ne change rien", "Échange les membres"],
+      "reponse": "Ne change rien",
+      "explication": "L’addition d’un même réel ne modifie pas l’inégalité."
+    },
+    {
+      "question": "Une solution de l’inéquation x² – 4x + 3 ≥ 0 est :",
+      "options": ["x ∈ (1 ; 3)", "x ∈ ℝ", "x ∈ (–∞ ; 1] ∪ [3 ; +∞)", "x = 2"],
+      "reponse": "x ∈ (–∞ ; 1] ∪ [3 ; +∞)",
+      "explication": "Trinôme positif en dehors de ses racines 1 et 3."
+    },
+    {
+      "question": "Si a < b et c < 0, alors ac > bc. Pourquoi ?",
+      "options": ["Faux, ac < bc", "Car multiplication inverse l’ordre", "Car c est négatif", "Car a est plus grand"],
+      "reponse": "Car multiplication inverse l’ordre",
+      "explication": "Multiplier une inégalité par un négatif inverse le sens."
+    },
+    {
+      "question": "Résoudre une inéquation produit consiste à :",
+      "options": ["Résoudre deux équations", "Étudier le signe du produit", "Appliquer Pythagore", "Égaler à 0"],
+      "reponse": "Étudier le signe du produit",
+      "explication": "On détermine les intervalles où le produit est du bon signe."
+    },
+    {
+      "question": "Quel type d’inéquation contient une valeur absolue ?",
+      "options": ["Irrationnelle", "Quadratique", "Absolue", "Exponentielle"],
+      "reponse": "Absolue",
+      "explication": "Elle implique une expression du type |x|."
+    },
+    {
+      "question": "x² – 2x + 1 ≤ 0 est équivalente à :",
+      "options": ["x = 1", "x < 1", "x > 1", "x ∈ ℝ"],
+      "reponse": "x = 1",
+      "explication": "x² – 2x + 1 = (x – 1)² ⇒ solution unique x = 1"
+    },
+    {
+      "question": "Si on divise une inéquation par un nombre strictement positif, on :",
+      "options": ["Change le sens", "Inverse le signe", "Ne change rien", "Multiplie par –1"],
+      "reponse": "Ne change rien",
+      "explication": "Division par un positif conserve le sens."
+    },
+    {
+      "question": "Résoudre une inéquation revient à :",
+      "options": ["Trouver une fonction", "Évaluer une expression", "Déterminer un ensemble", "Déduire un graphique"],
+      "reponse": "Déterminer un ensemble",
+      "explication": "L’ensemble des x qui vérifient l’inégalité."
+    },
+    {
+      "question": "Une solution de l’inéquation (x + 1)(x – 2) ≤ 0 est :",
+      "options": ["x ∈ (–∞ ; –1)", "x ∈ [–1 ; 2]", "x ∈ (–1 ; 2)", "x ∈ [0 ; 2]"],
+      "reponse": "x ∈ [–1 ; 2]",
+      "explication": "Produit ≤ 0 ⇒ signe négatif ou nul entre les racines."
+    },
+    {
+      "question": "Les inéquations interviennent dans :",
+      "options": ["Les démonstrations uniquement", "Les équations différentielles", "Les résolutions de domaines", "La recherche d’ensembles de solutions"],
+      "reponse": "La recherche d’ensembles de solutions",
+      "explication": "Elles permettent d’encadrer ou de délimiter les valeurs possibles."
+    },
+    {
+      "question": "x – 5 < –2 donne :",
+      "options": ["x < –7", "x > –7", "x < 3", "x > 3"],
+      "reponse": "x < 3",
+      "explication": "x – 5 < –2 ⇒ x < 3"
+    },
+    {
+      "question": "x² + x > 0 a pour solution :",
+      "options": ["x ∈ (–∞ ; –1) ∪ (0 ; ∞)", "x ∈ (–1 ; 0)", "x ∈ (–∞ ; 0)", "x ∈ (–∞ ; –1) ∪ (–1 ; 0)"],
+      "reponse": "x ∈ (–∞ ; –1) ∪ (0 ; ∞)",
+      "explication": "x(x + 1) > 0 ⇒ produit positif hors racines."
+    },
+    {
+      "question": "Dans une inéquation, une solution est toujours :",
+      "options": ["Une constante", "Un ensemble de nombres", "Un point unique", "Une formule"],
+      "reponse": "Un ensemble de nombres",
+      "explication": "Contrairement aux équations, on trouve souvent plusieurs valeurs valides."
+    },
+    {
+      "question": "Résoudre l'inéquation : 2x - 3 < 5",
+      "options": ["x < 4", "x > 4", "x < 1", "x > 1"],
+      "reponse": "x < 4",
+      "explication": "On ajoute 3 des deux côtés : 2x < 8, puis on divise par 2 : x < 4."
+    },
+    {
+      "question": "Résoudre l'inéquation : 3x + 2 ≥ 11",
+      "options": ["x ≥ 3", "x ≤ 3", "x ≥ 2", "x ≤ 2"],
+      "reponse": "x ≥ 3",
+      "explication": "On soustrait 2 : 3x ≥ 9, puis on divise par 3 : x ≥ 3."
+    },
+    {
+      "question": "Résoudre : -2x + 5 > 1",
+      "options": ["x < 2", "x > 2", "x < -2", "x > -2"],
+      "reponse": "x < 2",
+      "explication": "-2x > -4 → x < 2 (on inverse le sens de l’inégalité en divisant par un nombre négatif)."
+    },
+    {
+      "question": "Résoudre : 4x - 7 ≤ 9",
+      "options": ["x ≤ 4", "x ≥ 4", "x ≤ 3", "x ≥ 3"],
+      "reponse": "x ≤ 4",
+      "explication": "4x ≤ 16 donc x ≤ 4."
+    },
+    {
+      "question": "Résoudre l'inéquation : 5 - x > 8",
+      "options": ["x < -3", "x > -3", "x > 3", "x < 3"],
+      "reponse": "x < -3",
+      "explication": "Soustraire 5 : -x > 3 → x < -3 après changement de signe."
+    },
+    {
+      "question": "Résoudre : x² < 9",
+      "options": ["-3 < x < 3", "x < -3 ou x > 3", "x > 3", "-3 < x"],
+      "reponse": "-3 < x < 3",
+      "explication": "On prend la racine de chaque côté, x² < 9 implique que x est entre -3 et 3."
+    },
+    {
+      "question": "Résoudre : x² - 4 ≥ 0",
+      "options": ["x ≤ -2 ou x ≥ 2", "x ≥ -2 et x ≤ 2", "x ≥ -2", "x ≤ 2"],
+      "reponse": "x ≤ -2 ou x ≥ 2",
+      "explication": "x² - 4 ≥ 0 ⇔ (x - 2)(x + 2) ≥ 0 → étude du signe du trinôme."
+    },
+    {
+      "question": "Résoudre : (x - 1)(x + 3) < 0",
+      "options": ["-3 < x < 1", "x < -3 ou x > 1", "x > -3", "-1 < x < 3"],
+      "reponse": "-3 < x < 1",
+      "explication": "Le produit est négatif entre les racines -3 et 1."
+    },
+    {
+      "question": "Résoudre : (x + 5)² ≥ 0",
+      "options": ["Pour tout x ∈ ℝ", "x ≥ -5", "x > -5", "x = -5"],
+      "reponse": "Pour tout x ∈ ℝ",
+      "explication": "Le carré d’un réel est toujours positif ou nul."
+    },
+    {
+      "question": "Résoudre : 7 - 2x ≥ 3x + 1",
+      "options": ["x ≤ 1.2", "x ≥ 1.2", "x ≤ -1.2", "x ≥ -1.2"],
+      "reponse": "x ≤ 1.2",
+      "explication": "7 - 2x ≥ 3x + 1 ⇔ -5x ≥ -6 ⇔ x ≤ 1.2."
+    },
+    {
+      "question": "Résoudre : x(x - 4) > 0",
+      "options": ["x < 0 ou x > 4", "0 < x < 4", "x > 0", "x > 4"],
+      "reponse": "x < 0 ou x > 4",
+      "explication": "Étude du signe du produit, les intervalles où le produit est positif."
+    },
+    {
+      "question": "Résoudre : x² - 6x + 9 ≤ 0",
+      "options": ["x = 3", "x ≤ 3", "x ≥ 3", "x ≠ 3"],
+      "reponse": "x = 3",
+      "explication": "x² - 6x + 9 = (x - 3)² donc la seule solution est x = 3."
+    },
+    {
+      "question": "Résoudre : (x - 1)/(x + 2) < 0",
+      "options": ["-2 < x < 1", "x < -2 ou x > 1", "x > -2", "-2 < x"],
+      "reponse": "-2 < x < 1",
+      "explication": "Le quotient est négatif entre les deux racines (avec x ≠ -2)."
+    },
+    {
+      "question": "Résoudre : x² + x - 6 > 0",
+      "options": ["x < -3 ou x > 2", "-3 < x < 2", "x > -3", "x > 0"],
+      "reponse": "x < -3 ou x > 2",
+      "explication": "Le trinôme est positif à l’extérieur de ses racines : x = -3 et x = 2."
+    },
+    {
+      "question": "Résoudre : 4x² - 25 < 0",
+      "options": ["-2.5 < x < 2.5", "x < -2.5 ou x > 2.5", "x > -2.5", "x < 2.5"],
+      "reponse": "-2.5 < x < 2.5",
+      "explication": "Inéquation produit remarquable (2x - 5)(2x + 5) < 0."
+    },
+    {
+      "question": "Résoudre : 3x² + 6x + 3 ≥ 0",
+      "options": ["Pour tout x ∈ ℝ", "x ≠ -1", "x = -1", "x ≥ -1"],
+      "reponse": "Pour tout x ∈ ℝ",
+      "explication": "Le discriminant est nul donc le trinôme est toujours ≥ 0."
+    },
+    {
+      "question": "Résoudre : (x + 1)(x - 2) ≥ 0",
+      "options": ["x ≤ -1 ou x ≥ 2", "-1 < x < 2", "x ≥ -1", "x ≤ 2"],
+      "reponse": "x ≤ -1 ou x ≥ 2",
+      "explication": "Le produit est positif ou nul en dehors de l’intervalle ouvert (-1 ; 2)."
+    },
+    {
+      "question": "Résoudre : x² - 2x - 3 ≤ 0",
+      "options": ["-1 ≤ x ≤ 3", "x ≤ -1 ou x ≥ 3", "-1 < x < 3", "x ≥ -1"],
+      "reponse": "-1 ≤ x ≤ 3",
+      "explication": "Trinôme avec racines -1 et 3. L’inégalité est vraie entre les racines."
+    },
+    {
+      "question": "Résoudre : (x² - 9)/(x - 3) > 0",
+      "options": ["x < -3 ou x > 3", "-3 < x < 3", "x > -3", "x < 3"],
+      "reponse": "x < -3 ou x > 3",
+      "explication": "x² - 9 = (x - 3)(x + 3), donc (x + 3) > 0 sauf x = 3 exclu."
+    },
+    {
+      "question": "Résoudre : x² + 2x + 1 < 0",
+      "options": ["Aucune solution", "x ≠ -1", "x = -1", "x < -1 ou x > -1"],
+      "reponse": "Aucune solution",
+      "explication": "x² + 2x + 1 = (x + 1)² ≥ 0 donc aucune solution."
+    }
+  ]
+}
