@@ -1,4 +1,4 @@
-	{
+{
   "chapitres": [
     {
       "id": "premiere_guerre_mondiale",
@@ -19,10 +19,6 @@
     {
       "id": "colonisation",
       "titre": "Colonisation"
-    },
-    {
-      "id": "nationalistes",
-      "titre": "Mouvements nationalistes"
     },
     {
       "id": "decolonisation",

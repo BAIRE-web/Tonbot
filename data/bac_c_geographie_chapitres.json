@@ -1,42 +1,6 @@
 {
   "chapitres": [
     {
-      "id": "milieu_burkina",
-      "titre": "Milieu naturel du Burkina"
-    },
-    {
-      "id": "population",
-      "titre": "Population"
-    },
-    {
-      "id": "activites",
-      "titre": "Activités"
-    },
-    {
-      "id": "amenagement",
-      "titre": "Aménagement"
-    },
-    {
-      "id": "milieu_naturel_africain",
-      "titre": "Milieu naturel africain"
-    },
-    {
-      "id": "population_africaine",
-      "titre": "Population africaine"
-    },
-    {
-      "id": "activites_economiques",
-      "titre": "Activités économiques"
-    },
-    {
-      "id": "grands_ensembles_mondiaux",
-      "titre": "Grands ensembles mondiaux"
-    },
-    {
-      "id": "grandes_puissances",
-      "titre": "Grandes puissances"
-    },
-    {
       "id": "secteur_primaire",
       "titre": "Secteur primaire"
     },
