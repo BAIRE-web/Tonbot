@@ -157,21 +157,40 @@ async def broadcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if update.effective_user.id != ADMIN_USER_ID:
         await repondre(update, messages.get("non_admin", ""))
         return
-    msg = " ".join(context.args)
-    if not msg:
-        await repondre(update, "Utilise : /broadcast <message>")
+
+    if not context.args or len(context.args) < 2:
+        await repondre(update, "Utilisation : /broadcast <all | id1 [id2 ...]> <message>")
         return
+
+    cible = context.args[0]
+    msg = " ".join(context.args[1:])
+
     users = charger_json("users.json")
     if not users:
-        await repondre(update, "Aucun utilisateur.")
+        await repondre(update, "Aucun utilisateur trouvé.")
         return
+
     count = 0
-    for uid in users:
+    uids = []
+
+    if cible == "all":
+        uids = list(users.keys())
+    else:
+        for arg in context.args[:-1]:
+            if arg.isdigit():
+                uids.append(arg)
+
+    if not uids:
+        await repondre(update, "Aucun ID utilisateur valide.")
+        return
+
+    for uid in uids:
         try:
             await context.bot.send_message(chat_id=int(uid), text=msg)
             count += 1
         except Forbidden:
             pass
+
     await repondre(update, f"Message envoyé à {count} utilisateur(s).")
 
 async def listusers(update: Update, context: ContextTypes.DEFAULT_TYPE):
